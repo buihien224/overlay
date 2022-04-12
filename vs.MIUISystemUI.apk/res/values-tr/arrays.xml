@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Kimlik doğrulanıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>%1$s ağına bağlanılıyor</item>
+        <item>%1$s üzerinde kimlik doğrulanıyor</item>
+        <item>%1$s ağından IP adresi alınıyor</item>
+        <item>%1$s ağına bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Hiçbir zaman denetleme</item>
+        <item>Yalnızca DRM içeriğini denetle</item>
+        <item>Her zaman denetle</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP denetimini hiçbir zaman kullanma</item>
+        <item>HDCP denetimini yalnızca DRM içeriği için kullan</item>
+        <item>HDCP denetimini her zaman kullan</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleği başına 64 KB</item>
+        <item>Günlük arabelleği başına 256 KB</item>
+        <item>Günlük arabelleği başına 1 MB</item>
+        <item>Günlük arabelleği başına 4 MB</item>
+        <item>Günlük arabelleği başına 16 MB</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Kapalı</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Kapalı</item>
+        <item>5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Kapalı</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (Güvenli)</item>
+        <item>720p</item>
+        <item>720p (Güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (Güvenli)</item>
+        <item>4K</item>
+        <item>4K (Güvenli)</item>
+        <item>4K (Yukarı ölçeklenmiş)</item>
+        <item>4K (Yukarı ölçeklenmiş ve güvenli)</item>
+        <item>720p, 1080p (Çift ekran)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Hiçbiri</item>
+        <item>Hata kaydı</item>
+        <item>Sistem izi (Grafik)</item>
+        <item>"glGetError'da yığın çağır"</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşille vurgula</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Ekranda çubuk şeklinde</item>
+        <item>adb shell dumpsys gfxinfo içinde</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Kapalı</item>
+        <item>Fazla çizilen alanları göster</item>
+        <item>Alanları renk körlüğüne uygun olarak göster</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart sınır</item>
+        <item>Arka planda işlem yok</item>
+        <item>En çok 1 işlem</item>
+        <item>En çok 2 işlem</item>
+        <item>En çok 3 işlem</item>
+        <item>En çok 4 işlem</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj oluyor</item>
+        <item>MTP (Medya aktarım protokolü)</item>
+        <item>PTP (Resim aktarım protokolü)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Ses kaynağı</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Çok yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+        <item>Daha hızlı</item>
+        <item>Çok hızlı</item>
+        <item>Seri</item>
+        <item>Çok seri</item>
+        <item>En hızlı</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Canlı (Varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Göze göründüğü şekilde doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Varsayılan)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>İsteğe bağlı kodekleri etkinleştir</item>
+        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem tercihini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem tercihini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ses kalitesi için optimize edildi (990kbps/909kbps)</item>
+        <item>Dengeli ses ve bağlantı kalitesi (660kbps/606kbps)</item>
+        <item>Bağlantı kalitesi için optimize edildi (330kbps/303kbps)</item>
+        <item>En iyi çaba (Otomatik bit hızı)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ses kalitesi için optimize edildi</item>
+        <item>Dengeli ses ve bağlantı kalitesi</item>
+        <item>Bağlantı kalitesi için optimize edildi</item>
+        <item>En iyi sonuç (Uyarlanabilir Bit hızı)</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç tümü</item>
+        <item>Yalnızca çekirdek</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleklerin tümü</item>
+        <item>Radyo günlük arabellekleri hariç tümü</item>
+        <item>yalnızca çekirdek günlük arabelleği</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Her zaman yüzdeyi göster</item>
+        <item>Şarj olurken yüzdeyi göster (Varsayılan)</item>
+        <item>Bu simgeyi gösterme</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Saati, dakikaları ve saniyeleri göster</item>
+        <item>Saati ve dakikayı göster (Varsayılan)</item>
+        <item>Bu simgeyi gösterme</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Pano</item>
+        <item>Anahtar kod</item>
+        <item>Döndür onayla. Klavye değiştirici</item>
+        <item>Hiçbiri</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Kompakt</item>
+        <item>Sol eğilimli</item>
+        <item>Sağ eğilimli</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktif"</item>
+        <item>" | Aktif (Medya)"</item>
+        <item>" | Aktif (Telefon)"</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Etkin filtre uygulandı</item>
+        <item>Etkin</item>
+        <item>Etkin başlıklar filtrelendi</item>
+        <item>Etkin medya puanları filtrelendi</item>
+    </string-array>
+    <string-array name="origin_carrier_names">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (Güvenli)</item>
+        <item>720p</item>
+        <item>720p (Güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (Güvenli)</item>
+        <item>4K</item>
+        <item>4K (Güvenli)</item>
+        <item>4K (Büyütülmüş)</item>
+        <item>4K (Büyütülmüş. Güvenli)</item>
+        <item>720p, 1080p (Çift ekran)</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Bu önerilen içeriktir</item>
+        <item>Bu bir reklamdır</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>İngilizce konuşma sentezine bir örnektir</item>
+        <item>Fransızca konuşma sentezine bir örnektir</item>
+        <item>Almanca konuşma sentezine bir örnektir</item>
+        <item>İtalyanca konuşma sentezine bir örnektir</item>
+        <item>İspanyolca konuşma sentezine bir örnektir</item>
+        <item>Korece konuşma sentezine bir örnektir</item>
+    </string-array>
+</resources>

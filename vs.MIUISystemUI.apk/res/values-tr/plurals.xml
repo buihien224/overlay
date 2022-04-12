@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s içinde daha fazla bildirim var</item>
+        <item quantity="one">%s içinde daha fazla bildirim var</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Yanlış Pin kodu. %d deneme kaldı</item>
+        <item quantity="one">Yanlış Pin kodu. %d deneme kaldı</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Yanlış Puk kodu. %d deneme kaldı</item>
+        <item quantity="one">Yanlış Puk kodu. %d deneme kaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Yaklaşık %d saat kaldı</item>
+        <item quantity="one">Yaklaşık %d saat kaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Yaklaşık %d dakika kaldı</item>
+        <item quantity="one">Yaklaşık %d dakika kaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Yaklaşık %1$d saat %2$d dakika kaldı</item>
+        <item quantity="one">Yaklaşık %1$d saat %2$d dakika kaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d saat %2$d dakika</item>
+        <item quantity="one">%1$d saat %2$d dakika</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d saat şarj süresi kaldı</item>
+        <item quantity="one">%d saat şarj süresi kaldı</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d dakika şarj süresi kaldı</item>
+        <item quantity="one">%d dakika şarj süresi kaldı</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d saat %2$d dakika şarj süresi kaldı</item>
+        <item quantity="one">%1$d saat %2$d dakika şarj süresi kaldı</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Sim Pin kodunu girin. %d giriş hakkınız kaldı</item>
+        <item quantity="one">Sim Pin kodunu girin. Cihazınızın kilidini açmak için operatörünüze başvurmanız gerekmeden önce %d giriş hakkınız kaldı</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Sim şimdi devre dışı kaldı. Devam etmek için Puk kodunu girin. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce %d giriş hakkınız kaldı</item>
+        <item quantity="one">Sim şimdi devre dışı kaldı. Devam etmek için Puk kodunu girin. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce %d giriş hakkınız kaldı</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Yanlış Sim Pin kodu. %d giriş hakkınız kaldı</item>
+        <item quantity="one">Yanlış Sim Pin kodu. Cihazınızın kilidini açmak için operatörünüze başvurmadan önce %d giriş hakkınız kaldı</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Yanlış Sim Puk kodu. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce %d giriş hakkınız kaldı</item>
+        <item quantity="one">Yanlış Sim Puk kodu. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce %d giriş hakkınız kaldı</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Cihaz %d saat süreyle kilitlenmedi. Şifreyi doğrula</item>
+        <item quantity="one">Cihaz %d saat süreyle kilitlenmedi. Şifreyi doğrula</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Cihaz %d saat süreyle kilitlenmedi. Deseni doğrula</item>
+        <item quantity="one">Cihaz %d saat süreyle kilitlenmedi. Deseni doğrula</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Cihaz %d saat süreyle kilitlenmedi. Pin kodunu doğrula</item>
+        <item quantity="one">Cihaz %d saat süreyle kilitlenmedi. Pin kodunu doğrula</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d dakika içerisinde tekrar deneyin</item>
+        <item quantity="one">%d dakika içerisinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d saniye içerisinde yeniden deneyin</item>
+        <item quantity="one">%d saniye içerisinde yeniden deneyin</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Her zaman hatırlamak için şifrenizi en az her %d saatte bir girin</item>
+        <item quantity="one">Her zaman hatırlamak için şifrenizi en az her %d saatte bir girin</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Her zaman hatırlamak için şifrenizi en az her %d saatte bir girin</item>
+        <item quantity="one">Her zaman hatırlamak için şifrenizi en az her %d saatte bir girin</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlandı</item>
+        <item quantity="one">%1$d cihaz bağlandı</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yıl önce</item>
+        <item quantity="one">%d yıl önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s kontrol eklendi</item>
+        <item quantity="one">%s kontrol eklendi</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d saniye içinde tekrar deneyin</item>
+        <item quantity="one">1 saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+        <item quantity="few">%d dakika</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">En fazla %d kullanıcı ekleyebilirsiniz</item>
+        <item quantity="one">Yalnızca bir kullanıcı oluşturulabilir</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Sim %1$d Pin kodunu girin. %2$d deneme hakkınız kaldı</item>
+        <item quantity="one">Sim %1$d Pin kodunu girin. cihazınızın kilidini açmak için operatörünüzle iletişime geçmeden önce %2$d deneme hakkınız kaldı</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Yanlış Sim %1$d Pin kodu. %2$d deneme hakkınız kaldı</item>
+        <item quantity="one">Yanlış Sim %1$d Pin kodu. Cihazınızın kilidini açmak için operatörünüze başvurmadan önce %2$d deneme hakkınız kaldı</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şu anda</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d cihaz</item>
+        <item quantity="one">%d cihaz</item>
+    </plurals>
+</resources>
