@@ -132,8 +132,6 @@
 <string name="birthday_event_description_a_week_later">Một tuần cho đến khi</string>
 <string name="birthday_event_description_day_after_tomorrow">Ngày mốt là</string>
 <string name="birthday_event_description_day_before_yesterday">Ngày hôm kia là</string>
-<string name="birthday_event_description_default">%1$s's %2$s %3$s %4$s</string>
-<string name="birthday_event_description_special">%1$s %2$s's %3$s %4$s %5$s</string>
 <string name="birthday_event_description_today">Hôm nay là</string>
 <string name="birthday_event_description_tomorrow">Ngày mai là</string>
 <string name="birthday_event_description_yesterday">Hôm qua là</string>
