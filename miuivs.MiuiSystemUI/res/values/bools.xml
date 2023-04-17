@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_pipEnableRoundCorner">true</bool>
+    <bool name="kept_notifications_on_keyguard">true</bool>
+    <bool name="config_alwaysExpandNonGroupedNotifications">false</bool>
+</resources>

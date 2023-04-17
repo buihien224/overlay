@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>مرد</item>
+        <item>زن</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>حساب‌ها</item>
+        <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
+        <item>حساب‌ها;SNS;فیسبوک;Google;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>حساب‌ها</item>
+        <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
+        <item>حساب‌ها;SNS;WeChat;QQ;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>تغییر گذرواژه</item>
+        <item>تغییر گذرواژه حساب Xiaomi</item>
+        <item>تغییر گذرواژه;به‌روزرسانی گذرواژه;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>فضای ذخیره خانوادگی</item>
+        <item>دیدن/روشن کردن فضای ذخیره خانوادگی</item>
+        <item>فضای ذخیره خانوادگی;اشتراک گذاری فضای ذخیره سازی</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>خدمات خانواده</item>
+        <item>دیدن/روشن کردن خدمات خانواده</item>
+        <item>خانواده;خدمات خانواده;اشتراک خانوادگی</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>راهنمایی</item>
+        <item>از حساب Xiaomi کمک و پشتیبانی دریافت کنید</item>
+        <item>حساب Mi;حساب;حساب Xiaomi;کمک حساب;مرکز راهنما</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>تأیید ۲ مرحله‌ای</item>
+        <item>تأیید ۲ مرحله‌ای را برای حساب Xiaomi خود تنظیم کنید</item>
+        <item>ورود به حساب;ورود به حساب;۲ مرحله‌ای;تأیید صحت;Xiaomi;حساب;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>امنیت حساب</item>
+        <item>شماره تلفن و ایمیل بازیابی، مدیریت گذرواژه</item>
+        <item>امنیت حساب;ورود به حساب;تلفن بازیابی;ایمیل بازیابی;محافظت از حساب;شماره تلفن;ایمیل;تغییر گذرواژه;افزودن شماره تلفن;افزودن ایمیل;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>دستگاه‌ها</item>
+        <item>مدیریت دستگاه‌های وابسته با حساب Xiaomi خود</item>
+        <item>مدیریت دستگاه‌ها;دستگاه‌های من;دستگاه‌ها;فهرست دستگاه‌ها;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>سیاست حفظ حریم خصوصی</item>
+        <item>نمایش سیاست حفظ حریم خصوصی حساب Xiaomi</item>
+        <item>حساب Mi;حساب;حساب Xiaomi;سیاست حفظ حریم خصوصی</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ایمیل بازیابی</item>
+        <item>افزودن ایمیل بازیابی</item>
+        <item>ایمیل بازیابی;ایمیل;افزودن ایمیل;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>شماره بازیابی</item>
+        <item>افزودن شماره بازیابی</item>
+        <item>تلفن بازیابی;افزودن تلفن;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>تبلیغات</item>
+        <item>مدیریت آگهی‌های سیستم</item>
+        <item>تبلیغات;حساب Mi;حساب;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>اطلاعات حساب</item>
+        <item>عکس نمایه خود را نمایش کرده و اطلاعات حساب را مدیریت کنید</item>
+        <item>اطلاعات شخصی;عکس نمایه;نام مستعار;اطلاعات حساب;شناسه Mi;شناسه;حساب Mi;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>توافق‌نامه کاربر</item>
+        <item>توافقنامه کاربر</item>
+        <item>حساب Mi;حساب Xiaomi;حساب;توافق‌نامه کاربر;EULA</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+</resources>

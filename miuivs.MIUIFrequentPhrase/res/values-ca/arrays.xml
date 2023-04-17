@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Capçalera de la factura: * Inc. (o * S. A.)</item>
+        <item>Adreça: carret, departament, ciutat, país/regió, província, codi postal</item>
+        <item>Si us plau, deixa el paquet a la porta. Gràcies!</item>
+        <item>Espera un segon, que ara torno.</item>
+        <item>"Sóc enmig d'una reunió. Si us plau, envia'm un missatge de text."</item>
+        <item>Ara no puc parlar. Te trucaré tan bon punt pugui.</item>
+        <item>Gràcies!</item>
+    </string-array>
+</resources>

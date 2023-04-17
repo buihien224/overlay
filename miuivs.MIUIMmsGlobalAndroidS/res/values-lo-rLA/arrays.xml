@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>​ຊື່</item>
+        <item>ຊື່ຫຼິ້ນ</item>
+        <item>ໂທລະສັບ</item>
+        <item>ອີເມວ</item>
+        <item>ອົງກອນ</item>
+        <item>IM</item>
+        <item>ໂທລະສັບ SIP</item>
+        <item>ວັນເກີດ</item>
+        <item>ເວັບໄຊທ໌</item>
+        <item>​ທີ່​ຢູ່</item>
+        <item>ບັນທຶກ</item>
+        <item>ຄວາມສຳພັນ</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>ຂໍ້ຄວາມການໂຄສະນາຈາກ %s</item>
+        <item>ຂໍ້ຄວາມບໍລິການຂອງຜູ້ໃຫ້ບໍລິການຈາກ %s</item>
+        <item>ຂໍ້ຄວາມການເງິນຈາກ %s</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>ສູງສຸດ</item>
+        <item>2 ມື້</item>
+    </string-array>
+    <string-array name="entries_pref_key_voice_report">
+        <item>@string/voice_report_wiredon</item>
+        <item>@string/voice_report_anytime</item>
+        <item>@string/voice_report_off</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>ບໍ່ໄດ້ຕັ້ງຄ່າ</item>
+        <item>1 ຊົ່ວໂມງ</item>
+        <item>6 ຊົ່ວໂມງ</item>
+        <item>12 ຊົ່ວໂມງ</item>
+        <item>1 ມື້</item>
+        <item>ສູງສຸດ</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ສະເໝີ</item>
+        <item>ສະເພາະໃນໂໝດປິດສຽງ</item>
+        <item>ບໍ່ຕ້ອງ</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>接收并通知</item>
+        <item>只接收</item>
+        <item>拒收</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>ຂໍ້ຄວາມ Mi</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>ຂໍ້ຄວາມ Mi</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 ວິນາທີ</item>
+        <item>2 ວິນາທີ</item>
+        <item>3 ວິນາທີ</item>
+        <item>4 ວິນາທີ</item>
+        <item>5 ວິນາທີ</item>
+        <item>6 ວິນາທີ</item>
+        <item>7 ວິນາທີ</item>
+        <item>8 ວິນາທີ</item>
+        <item>9 ວິນາທີ</item>
+        <item>10 ວິນາທີ</item>
+        <item>ອື່ນໆ</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>ຂໍ້ຄວາມ Mi</item>
+        <item>CMCC ຂໍ້ຄວາມອັດສະລິຍະ</item>
+    </string-array>
+    <string-array name="switch_sdk_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

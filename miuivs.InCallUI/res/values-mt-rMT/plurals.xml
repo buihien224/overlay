@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">(-il) siegħa ilu</item>
+        <item quantity="one">Siegħa ilu</item>
+        <item quantity="few">Sigħat ilu</item>
+        <item quantity="many">(-il) siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">(-il) siegħa ilu</item>
+        <item quantity="one">Siegħa ilu</item>
+        <item quantity="few">Sigħat ilu</item>
+        <item quantity="many">(-il) siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nofs siegħa ilu</item>
+        <item quantity="one">Nofs siegħa ilu</item>
+        <item quantity="few">Nofs siegħa ilu</item>
+        <item quantity="many">Nofs siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Siegħa oħra</item>
+        <item quantity="one">Siegħa oħra</item>
+        <item quantity="few">Siegħa oħra</item>
+        <item quantity="many">Siegħa oħra</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Nofs siegħa oħra</item>
+        <item quantity="one">Nofs siegħa oħra</item>
+        <item quantity="few">Nofs siegħa oħra</item>
+        <item quantity="many">Nofs siegħa oħra</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Minnufih</item>
+        <item quantity="one">Minnufih</item>
+        <item quantity="few">Minnufih</item>
+        <item quantity="many">Minnufih</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d(-il) min oħra</item>
+        <item quantity="one">min oħra</item>
+        <item quantity="few">%d min oħra</item>
+        <item quantity="many">%d(-il) min oħra</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Issa</item>
+        <item quantity="one">Issa</item>
+        <item quantity="few">Issa</item>
+        <item quantity="many">Issa</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d(-il) min ilu</item>
+        <item quantity="one">Min ilu</item>
+        <item quantity="few">%d min ilu</item>
+        <item quantity="many">%d(-il) min ilu</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Irrapurtata minn %d utenti tal-MIUI</item>
+        <item quantity="one">Irrapurtata minn %d utent tal-MIUI</item>
+        <item quantity="few">Irrapurtata minn %d utenti tal-MIUI</item>
+        <item quantity="many">Irrapurtata minn %d utenti tal-MIUI</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">"Se jaqta' fi %1$s(-il) sekonda…"</item>
+        <item quantity="one">"Se jaqta' f'sekonda %1$s…"</item>
+        <item quantity="few">"Se jaqta' f'%1$s sekondi…"</item>
+        <item quantity="many">"Se jaqta' fi %1$s(-il) sekonda…"</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Irreġistrajt %d(-il) telefonata.</item>
+        <item quantity="one">Irreġistrajt telefonata (%d).</item>
+        <item quantity="few">Irreġistrajt %d telefonati.</item>
+        <item quantity="many">Irreġistrajt %d(-il) telefonata.</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">"Reġa' iddalja %d drabi"</item>
+        <item quantity="one">"Reġa' iddalja %d darba"</item>
+        <item quantity="few">"Reġa' iddalja %d drabi"</item>
+        <item quantity="many">"Reġa' iddalja %d drabi"</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s persuni</item>
+        <item quantity="one">%s persuna</item>
+        <item quantity="few">%s persuni</item>
+        <item quantity="many">%s persuni</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d sigħat</item>
+        <item quantity="one">%d siegħa</item>
+        <item quantity="few">%d sigħat</item>
+        <item quantity="many">%d sigħat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuti</item>
+        <item quantity="many">%d minuti</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekondi</item>
+        <item quantity="one">%d sekonda</item>
+        <item quantity="few">%d sekondi</item>
+        <item quantity="many">%d sekondi</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Nofs siegħa ilu</item>
+        <item quantity="one">Nofs siegħa ilu</item>
+        <item quantity="few">Nofs siegħa ilu</item>
+        <item quantity="many">Nofs siegħa ilu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Siegħa oħra</item>
+        <item quantity="one">Siegħa oħra</item>
+        <item quantity="few">Siegħa oħra</item>
+        <item quantity="many">Siegħa oħra</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Nofs siegħa oħra</item>
+        <item quantity="one">Nofs siegħa oħra</item>
+        <item quantity="few">Nofs siegħa oħra</item>
+        <item quantity="many">Nofs siegħa oħra</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Minnufih</item>
+        <item quantity="one">Minnufih</item>
+        <item quantity="few">Minnufih</item>
+        <item quantity="many">Minnufih</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d(-il) minuta oħra</item>
+        <item quantity="one">minuta oħra</item>
+        <item quantity="few">%d minuti oħra</item>
+        <item quantity="many">%d(-il) minuta oħra</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Issa</item>
+        <item quantity="one">Issa</item>
+        <item quantity="few">Issa</item>
+        <item quantity="many">Issa</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d oġġett magħżul</item>
+        <item quantity="one">Oġġett %d magħżul</item>
+        <item quantity="few">%d oġġett magħżulin</item>
+        <item quantity="many">%d-il oġġett magħżula</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d(-il) minuta ilu</item>
+        <item quantity="one">Minuta ilu</item>
+        <item quantity="few">%d minuti ilu</item>
+        <item quantity="many">%d(-il) minuta ilu</item>
+    </plurals>
+</resources>

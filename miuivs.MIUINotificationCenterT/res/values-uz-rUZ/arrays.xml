@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Vaqt bo‘yicha saralash</item>
+        <item>Bildirishnomalar soni bo‘yicha saralash</item>
+        <item>Bildirishnomalarni ko‘rsata oladigan ilovalar</item>
+        <item>Bildirishnomalarni ko‘rsata olmaydigan ilovalar</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Bildirishnoma ma’lumotini ko‘rsatish</item>
+        <item>Ekran qulfi bildirishnomalari ko‘rsatilmasin</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Bildirishnoma ma’lumotini ko‘rsatish</item>
+        <item>Bildirishnomalarni ko‘rsatish, ma’lumotini yashirish</item>
+        <item>Ekran qulfi bildirishnomalari ko‘rsatilmasin</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

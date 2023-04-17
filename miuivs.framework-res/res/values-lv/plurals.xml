@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Varat mēģināt vēl %d reizes. Pēdējā mēģinājuma kļūdas gadījumā SIM karte tiks bloķēta.</item>
+        <item quantity="zero">Varat mēģināt vēl %d reizes. Pēdējā mēģinājuma kļūdas gadījumā SIM karte tiks bloķēta.</item>
+        <item quantity="one">Varat mēģināt vēl %d reizi. Pēdējā mēģinājuma kļūdas gadījumā SIM karte tiks bloķēta.</item>
+    </plurals>
+</resources>

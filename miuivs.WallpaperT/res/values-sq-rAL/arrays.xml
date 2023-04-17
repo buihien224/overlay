@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Shtëpia</item>
+        <item>Sfondi/Sfonde super/Shtëpi</item>
+        <item>Tokë; Sfonde super; Edicioni Tokë; Sfondi</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Gjeometria</item>
+        <item>Sfondi/Sfonde super/Gjeometria</item>
+        <item>Gjeometri; Abstrakt; Sfond super; Sfond</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Planeti i kuq</item>
+        <item>Sfondi/Sfonde Super/Planeti i kuq</item>
+        <item>Mars; Mars Edition; Sfonde super; Sfondi</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Majat me dëborë</item>
+        <item>Sfondi/Sfonde super/Maja me borë</item>
+        <item>Tokë;Malet;Sfonde super;Sfondi</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Sfonde super</item>
+        <item>Sfond/Sfonde super</item>
+        <item>Super sfonde;sfonde;sfonde dinamike; sfonde 3D</item>
+    </string-array>
+</resources>

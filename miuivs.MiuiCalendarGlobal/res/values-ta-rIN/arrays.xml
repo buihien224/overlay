@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>ஒன்றுமில்லை</item>
+        <item>ஹிஜ்ரி நாள்காட்டி</item>
+        <item>ஷகா நாள்காட்டி</item>
+        <item>விக்ரமி நாள்காட்டி</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>கும்பம்</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>மேஷம்</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>புடன்ஸ்லிகா</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>கடகம்</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>மகரம்</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>இந்த நிகழ்வுக்கு மட்டும்</item>
+        <item>இந்தத் தொடரில் உள்ள எல்லா நிகழ்வுகளும்</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>முன்னோக்கி</item>
+        <item>பின்னோக்கி</item>
+    </string-array>
+    <string-array name="dates">
+        <item>௧</item>
+        <item>௨</item>
+        <item>௩</item>
+        <item>௪</item>
+        <item>௫</item>
+        <item>௬</item>
+        <item>௭</item>
+        <item>௮</item>
+        <item>௯</item>
+        <item>௰</item>
+        <item>௰௧</item>
+        <item>௰௨</item>
+        <item>௰௩</item>
+        <item>௰௪</item>
+        <item>௰௫</item>
+        <item>௰௬</item>
+        <item>௰௭</item>
+        <item>௰௮</item>
+        <item>௰௯</item>
+        <item>௨௰</item>
+        <item>௨௰௧</item>
+        <item>௨௰௨</item>
+        <item>௨௰௩</item>
+        <item>௨௰௪</item>
+        <item>௨௰௫</item>
+        <item>௨௰௬</item>
+        <item>௨௰௭</item>
+        <item>௨௰௮</item>
+        <item>௨௰௯</item>
+        <item>௩௰</item>
+        <item>௩௰௧</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>நிகழ்வின்போது</item>
+        <item>5 நிமிடங்களுக்கு முன்பு</item>
+        <item>15 நிமிடங்களுக்கு முன்பு</item>
+        <item>30 நிமிடங்களுக்கு முன்பு</item>
+        <item>1 மணிநேரம் முன்பு</item>
+        <item>4 மணிநேரம் முன்பு</item>
+        <item>1 நாள் முன்பு</item>
+        <item>2 நாட்கள் முன்பு</item>
+        <item>1 வாரம் முன்பு</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>இந்த நிகழ்வு மட்டும்</item>
+        <item>இது மற்றும் எதிர்கால நிகழ்வுகளுக்கு</item>
+        <item>எல்லா நிகழ்வுகளும்</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>மிதுனம்</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>முகூர்த்தம்</item>
+        <item>சஃபர்</item>
+        <item>ரபி அல்-அவ்வல்</item>
+        <item>ரபி அல்-தானி</item>
+        <item>ஜுமதா அல்-அவ்வல்</item>
+        <item>ஜுமதா அல்-தானி</item>
+        <item>ரஜப்</item>
+        <item>ஷபன்</item>
+        <item>ரமதான்</item>
+        <item>ஷவ்வல்</item>
+        <item>துல்-கதா</item>
+        <item>துல்-ஹிஜா</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>லா லிகா</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>சிம்மம்</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>துலாம்</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>லிக்யூ 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்கிழமை</item>
+        <item>வியாழன்</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>மீனம்</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>எப்போதும்</item>
+        <item>ரிங்கர் அமைதியாக்கப்படும்போது மட்டும்</item>
+        <item>ஒருபோதும் வேண்டாம்</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>பிராந்திய இயல்புநிலை</item>
+        <item>சனிக்கிழமை</item>
+        <item>ஞாயிற்றுக்கிழமை</item>
+        <item>திங்கட்கிழமை</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1வது</item>
+        <item>2 வது</item>
+        <item>3வது</item>
+        <item>4வது</item>
+        <item>5வது</item>
+        <item>6வது</item>
+        <item>7வது</item>
+        <item>8வது</item>
+        <item>9வது</item>
+        <item>10வது</item>
+        <item>11வது</item>
+        <item>12வது</item>
+        <item>13வது</item>
+        <item>14வது</item>
+        <item>15வது</item>
+        <item>16வது</item>
+        <item>17வது</item>
+        <item>18வது</item>
+        <item>19வது</item>
+        <item>20வது</item>
+        <item>21வது</item>
+        <item>22வது</item>
+        <item>23வது</item>
+        <item>24வது</item>
+        <item>25வது</item>
+        <item>26வது</item>
+        <item>27வது</item>
+        <item>28வது</item>
+        <item>29வது</item>
+        <item>30வது</item>
+        <item>31வது</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>எப்போதும் வேண்டாம்</item>
+        <item>நேரம்</item>
+        <item>எண்ணிக்கை</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>ஜனவரி</item>
+        <item>பிப்ரவரி</item>
+        <item>மார்ச்</item>
+        <item>ஏப்ரல்</item>
+        <item>மே</item>
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆகஸ்டு</item>
+        <item>செப்டம்பர்</item>
+        <item>அக்டோபர்</item>
+        <item>டிசம்பர்</item>
+        <item>நவம்பர்</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>முதலாவது</item>
+        <item>இரண்டாவது</item>
+        <item>மூன்றாவது</item>
+        <item>நான்காவது</item>
+        <item>கடைசி</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>திங்கள் - வெள்ளி</item>
+        <item>வார இறுதி</item>
+        <item>முழு வாரம்</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்</item>
+        <item>வியாழன்</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+        <item>ஞாயிறு</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>எப்போதும் வேண்டாம்</item>
+        <item>மாதந்தோறும்</item>
+        <item>ஆண்டுதோறும்</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>நாள்</item>
+        <item>வாரம்</item>
+        <item>மாதம்</item>
+        <item>ஆண்டு</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>முதல் திங்கள்</item>
+        <item>முதல் செவ்வாய்</item>
+        <item>முதல் புதன்</item>
+        <item>முதல் வியாழன்</item>
+        <item>முதல் வெள்ளி</item>
+        <item>முதல் சனி</item>
+        <item>முதல் ஞாயிறு</item>
+        <item>இரண்டாவது திங்கள்</item>
+        <item>இரண்டாவது செவ்வாய்</item>
+        <item>இரண்டாவது புதன்</item>
+        <item>இரண்டாவது வியாழன்</item>
+        <item>இரண்டாவது வெள்ளி</item>
+        <item>இரண்டாவது சனி</item>
+        <item>இரண்டாவது ஞாயிறு</item>
+        <item>மூன்றாம் திங்கள்</item>
+        <item>மூன்றாவது செவ்வாய்</item>
+        <item>மூன்றாவது புதன்</item>
+        <item>மூன்றாவது வியாழன்</item>
+        <item>மூன்றாவது வெள்ளி</item>
+        <item>மூன்றாவது சனி</item>
+        <item>மூன்றாவது ஞாயிறு</item>
+        <item>நான்காவது திங்கள்</item>
+        <item>நான்காவது செவ்வாய்</item>
+        <item>நான்காவது புதன்</item>
+        <item>நான்காவது வியாழன்</item>
+        <item>நான்காவது வெள்ளி</item>
+        <item>நான்காவது சனி</item>
+        <item>நான்காவது ஞாயிறு</item>
+        <item>கடைசி திங்கள்</item>
+        <item>கடைசி செவ்வாய்</item>
+        <item>கடைசி புதன்</item>
+        <item>கடைசி வியாழன்</item>
+        <item>கடைசி வெள்ளி</item>
+        <item>கடைசி சனி</item>
+        <item>கடைசி ஞாயிறு</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>பதில் இல்லை</item>
+        <item>ஆம்</item>
+        <item>இருக்கலாம்</item>
+        <item>இல்லை</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>தனுசு</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>விருச்சிகம்</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>தொடர் A</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>ரிஷபம்</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall Islands</item>
+        <item>Midway Island</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Central America</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azores</item>
+        <item>Cape Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Macao</item>
+        <item>சிங்கப்பூர்</item>
+        <item>மகாவ்</item>
+        <item>சிங்கப்பூர்</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>டோக்யோ, ஒசாகா</item>
+        <item>Seoul</item>
+        <item>அடிலெய்டு</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>ஹோபர்ட்</item>
+        <item>சிட்னி, கன்பெர்ரா</item>
+        <item>விளாதிவஸ்தோக்</item>
+        <item>Sydney, Canberra</item>
+        <item>மகடன்</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>டோங்கா</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 மணிநேரம் முன்பு</item>
+        <item>4 மணிநேரம் முன்பு</item>
+        <item>5 மணிநேரம் முன்பு</item>
+        <item>6 மணிநேரம் முன்பு</item>
+        <item>1 நாள் முன்பு</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>சைத்ரா</item>
+        <item>வைஷாகா</item>
+        <item>ஜ்யேஸ்தே</item>
+        <item>அஷாதா</item>
+        <item>ஷ்ரவனா</item>
+        <item>பாத்ரா</item>
+        <item>அஷ்வின்</item>
+        <item>கார்த்திகை</item>
+        <item>மார்கசிர்சா</item>
+        <item>பவுஷா</item>
+        <item>மகா</item>
+        <item>பல்குனா</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>கன்னி</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>தெளிவான வானிலை</item>
+        <item>மேக மூட்டம்</item>
+        <item>மூட்டம்</item>
+        <item>பனிமூட்டம்</item>
+        <item>வலுவான புயல்மழை</item>
+        <item>புயல்</item>
+        <item>லேசான புயல்</item>
+        <item>இடியுடன் கூடிய மழை</item>
+        <item>மழைத் தூறல்</item>
+        <item>கன மழை</item>
+        <item>மழை</item>
+        <item>லேசான மழை</item>
+        <item>பனியும் மழையும்</item>
+        <item>பனிப்புயல்</item>
+        <item>பனித்தூறல்</item>
+        <item>கடும் பனி</item>
+        <item>பனி</item>
+        <item>இலேசான பனி</item>
+        <item>வலுவான மணற்புயல்</item>
+        <item>மணற்புயல்</item>
+        <item>தூசு</item>
+        <item>லேசான மணற்புயல்</item>
+        <item>ஆலங்கட்டி மழை</item>
+        <item>மிதக்கும் தூசு</item>
+        <item>மூட்டம்</item>
+        <item>உறைபனி மழை</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்</item>
+        <item>வியாழ</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>மேற்திரை இல்லாத</item>
+        <item>வெள்ளை</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

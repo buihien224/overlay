@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB ಡಿಬಗ್ಗಿಂಗ್‌ ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="lock_to_app_description">"ಸ್ಕ್ರೀನ್‌ ಪಿನ್‌ ಮಾಡುವಿಕೆಯು ಡಿಸ್‌ಪ್ಲೇ ಅನ್ನು ಏಕ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಲಾಕ್‌ ಮಾಡುತ್ತದೆ.
+
+ಅನ್‌ಪಿನ್‌ ಮಾಡಲು, ಹೋಮ್‌ ಹಾಗೂ ಪವರ್‌‌ ಬಟನ್‌ಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಒತ್ತಿ ಹಿಡಿಯಿರಿ."</string>
+    <string name="lock_to_app_description_accessible">"ಸ್ಕ್ರೀನ್‌ ಪಿನ್‌ ಮಾಡುವಿಕೆಯು ಡಿಸ್‌ಪ್ಲೇಯನ್ನು ಏಕ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಲಾಕ್‌ ಮಾಡುತ್ತದೆ.
+
+ಅನ್‌ಪಿನ್‌ ಮಾಡಲು, ಹೋಮ್‌ ಹಾಗೂ ಪವರ್‌‌ ಬಟನ್‌ಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಒತ್ತಿ ಹಿಡಿಯಿರಿ."</string>
+    <string name="lock_to_app_toast">ಈ ಸ್ಕ್ರೀನ್‌‌ ಅನ್‌ಪಿನ್‌ ಮಾಡಲು, ಏಕಕಾಲದಲ್ಲಿ ಹೋಮ್‌ ಹಾಗೂ ಪವರ್‌ ಬಟನ್‌ ಅನ್ನು ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
+    <string name="lock_to_app_toast_accessible">ಈ ಸ್ಕ್ರೀನ್‌‌ ಅನ್‌ಪಿನ್‌ ಮಾಡಲು, ಏಕಕಾಲದಲ್ಲಿ ಹೋಮ್‌ ಹಾಗೂ ಪವರ್‌ ಬಟನ್‌ ಅನ್ನು ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
+    <string name="lockscreen_missing_sim_instructions">ಸಿಮ್‌ ಕಾರ್ಡ್ ಸೇರಿಸಿ.</string>
+    <string name="lockscreen_missing_sim_instructions_long">ಸಿಮ್‌ ಕಾರ್ಡ್ ಕಾಣೆಯಾಗಿದೆ ಅಥವಾ ಅದನ್ನು ಓದಲು ಆಗುತ್ತಿಲ್ಲ. ಒಂದು ಸಿಮ್‌ ಕಾರ್ಡ್ ಸೇರಿಸಿ.</string>
+    <string name="lockscreen_missing_sim_message">ಫೋನ್‌ನಲ್ಲಿ ಸಿಮ್‌ ಕಾರ್ಡ್ ಇಲ್ಲ.</string>
+    <string name="lockscreen_missing_sim_message_short">ಸಿಮ್‌ ಕಾರ್ಡ್ ಇಲ್ಲ</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"ನಿಮ್ಮ ಸಿಮ್‌ ಕಾರ್ಡ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
+ ಮತ್ತೊಂದು ಸಿಮ್‌ ಕಾರ್ಡ್‌ಗಾಗಿ ನಿಮ್ಮ ವೈರ್‌ಲೆಸ್‌ ಸೇವಾ ಪೂರೈಕೆದಾರರನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">ನಿಷ್ಪ್ರಯೋಜಕ ಸಿಮ್‌ ಕಾರ್ಡ್.</string>
+    <string name="tethered_notification_message">ಹೊಂದಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="tethered_notification_multi_device_message">%1$s ಸಂಪರ್ಕಿತ ಸಾಧನಗಳು</string>
+    <string name="tethered_notification_no_device_message">ಸಂಪರ್ಕಿತ ಡಿವೈಸ್‌ ಇಲ್ಲ</string>
+    <string name="tethered_notification_one_device_message">%1$s ಸಂಪರ್ಕಿತ ಸಾಧನ</string>
+    <string name="tethered_notification_title">ಟೆಥರಿಂಗ್ ಅಥವಾ ಹಾಟ್ಸ್ಪಾಟ್ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="usb_midi_notification_title">USB ಮೂಲಕ MIDI ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="usb_mtp_notification_title">USB ಫೈಲ್ ವರ್ಗಾವಣೆ ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="usb_ptp_notification_title">USB ಮೂಲಕ PTP ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="usb_tether_notification_title">USB ಟೆಥರಿಂಗ್ ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="usb_unsupported_audio_accessory_message">ಸಂಪರ್ಕಗೊಂಡ ಡಿವೈಸ್‌ ಈ ಫೋನ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ. ಇನ್ನಷ್ಟು ತಿಳಿಯಲು ಟ್ಯಾಪ್‌ ಮಾಡಿ.</string>
+    <string name="usb_unsupported_audio_accessory_title">ಅನಲಾಗ್‌ ಆಡಿಯೊ ಅಕ್ಸೆಸರಿ ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="volume_icon_description_bluetooth">ಬ್ಲೂಟೂತ್</string>
+    <string name="volume_icon_description_incall">ಕರೆ</string>
+    <string name="volume_icon_description_media">ಮೀಡಿಯಾ</string>
+    <string name="volume_icon_description_notification">ಅಧಿಸೂಚನೆ</string>
+    <string name="volume_icon_description_ringer">ರಿಂಗರ್</string>
+</resources>

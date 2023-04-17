@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mand</item>
+        <item>Kvinde</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Konti</item>
+        <item>Tilføj og administrer tredjepartskonti</item>
+        <item>Konti;SNS;Facebook;Google;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Konti</item>
+        <item>Tilføj og administrer tredjepartskonti</item>
+        <item>Konti;SNS;We Chat;QQ;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Skift adgangskode</item>
+        <item>Skift adgangskode for Xiaomi-konto</item>
+        <item>Skift adgangskode;Opdater adgangskode;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Familielagerplads</item>
+        <item>Se/aktivér familielagerplads</item>
+        <item>Familielagerplads;Lagerdeling</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familietjenester</item>
+        <item>Se/aktivér familietjenester</item>
+        <item>Familie;Familietjenester;Familiedeling</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Hjælp</item>
+        <item>Få hjælp og support til Xiaomi-konto</item>
+        <item>Mi-konto;Konto;Xiaomi-konto;Kontohjælp;Hjælpecenter</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-trins bekræftelse</item>
+        <item>Indstil 2-trins-bekræftelse for din Xiaomi-konto</item>
+        <item>Tilmeld;Log ind;2-trin;bekræftelse;Xiaomi;Konto;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Kontosikkerhed</item>
+        <item>Gendannelse af telefon og e-mail, adgangskodestyring</item>
+        <item>Kontosikkerhed;Tilmelde sig;Gendannelsestelefon;Gendannelses-e-mail;Kontobeskyttelse;Telefonnummer;E-mail;Skift adgangskode;Tilføj telefonnummer;Tilføj e-mail;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Enheder</item>
+        <item>Administrer enheder forbundet med din Xiaomi-konto</item>
+        <item>Administrer enheder;Mine enheder;Enheder;Enhedsliste;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Privatlivspolitik</item>
+        <item>Se fortrolighedspolitik for Xiaomi-konto</item>
+        <item>Mi-konto;Konto;Xiaomi-konto;Privatlivspolitik</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Gendannelses-e-mail</item>
+        <item>Tilføj gendannelses-e-mail</item>
+        <item>Gendannelses-e-mail;E-mail;Tilføj e-mail;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Gendannelsestelefon</item>
+        <item>Tilføj gendannelsestelefon</item>
+        <item>Gendannelsestelefon;Tilføj telefon;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklamer</item>
+        <item>Administrer systemreklamer</item>
+        <item>Reklamer;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontooplysninger</item>
+        <item>Se dit profilbillede og administrer kontooplysninger</item>
+        <item>Personlig info;profilfoto;kaldenavn;kontooplysning;Mi ID;ID;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Brugeraftale</item>
+        <item>Brugeraftale</item>
+        <item>Mi-konto;Konto;Xiaomi-konto;Brugeraftale;EULA</item>
+    </string-array>
+</resources>

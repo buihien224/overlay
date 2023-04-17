@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>એકંદર અનુભવ</item>
+        <item>ટ્રાન્સ્ફરનો સમયગાળો</item>
+        <item>પ્રક્રિયાની સરળતા</item>
+        <item>નિર્દેશોની સ્પષ્ટતા</item>
+        <item>આ સુવિધા ઉપયોગી છે</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>ખૂબ જ અસંતુષ્ટ</item>
+        <item>કેટલેક અંશે અસંતુષ્ટ</item>
+        <item>તટસ્થ</item>
+        <item>કેટલેક અંશે સંતુષ્ટ</item>
+        <item>ખૂબ જ સંતુષ્ટ</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>એકંદર રેટિંગ</item>
+        <item>ટ્રાન્સ્ફરની અવધિ</item>
+        <item>પ્રક્રિયાની સરળતા</item>
+        <item>નિર્દેશોની સ્પષ્ટતા</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>छविहरू, एपहरू र अन्य फाइलहरू पहुँच गर्न र सेभ गर्न, साथै तिनीहरूलाई स्थानान्तरण गर्न</item>
+        <item>ब्लुटुथ र वाइ-फाइ प्रयोग गरेर फाइलहरू स्थानान्तरण गर्न</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>फाइल पठाउन र प्राप्त गर्नका लागि</item>
+        <item>ब्लुटुथ र वाइ-फाइ प्रयोग गरेर फाइलहरू स्थानान्तरण गर्न</item>
+        <item>ब्लुटुथ प्रयोग गरी नजिकै उपलब्ध रहेको डिभाइसहरू फेला पार्न</item>
+        <item>नजिकका उपलब्ध रहेको डिभाइसहरू फेला पार्न र वाइ-फाइ प्रयोग गरेर फाइलहरू स्थानान्तरण गर्नका लागि</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

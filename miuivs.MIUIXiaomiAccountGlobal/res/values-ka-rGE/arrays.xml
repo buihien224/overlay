@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>მამრი</item>
+        <item>მდედრი</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ანგარიშები</item>
+        <item>დაამატეთ და მართეთ მესამე მხარის ანგარიშები</item>
+        <item>ანგარიშები;SNS;Facebook;Google;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ანგარიშები</item>
+        <item>დაამატეთ და მართეთ მესამე მხარის ანგარიშები</item>
+        <item>ანგარიშები;SNS;WeChat;QQ;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>შეცვალეთ პაროლი</item>
+        <item>შეცვალეთ Xiaomi-ს ანგარიშის პაროლი</item>
+        <item>პაროლის შეცვლა;პაროლის განახლება;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>საოჯახო მეხსიერების სივრცე</item>
+        <item>საოჯახო მეხსიერების სივრცის ნახვა/ჩართვა</item>
+        <item>საოჯახო მეხსიერების სივრცე; მეხსიერების გაზიარება</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ოჯახური სერვისები</item>
+        <item>საოჯახო სერვისების ნახვა/ჩართვა</item>
+        <item>ოჯახი; საოჯახო მომსახურება; ოჯახთან გაზიარება</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>დახმარება</item>
+        <item>მიიღეთ Xiaomi-ს ანგარიშის დახმარება და მხარდაჭერა</item>
+        <item>Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში;ანგარიშის დახმარება;დახმარების ცენტრი</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ნაბიჯიანი გადამოწმება</item>
+        <item>დააყენეთ 2-ნაბიჯიანი გადამოწმება თქვენი Xiaomi-ს ანგარიშისთვის</item>
+        <item>ავტორიზაცია;შესვლა; ორ ეტაპიანი; დადასტურება; Xiaomi; ანგარიში; Mi ანგარიში;ანგარიში;Xiaomi ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ანგარიშის უსაფრთხოება</item>
+        <item>ტელეფონისა და ელ.ფოსტის აღდგენა, პაროლის მართვა</item>
+        <item>ანგარიშის უსაფრთხოება;შესვლა;ტელ.ნომრით აღდგენა;ელ.ფოსტით აღდგენა; ანგარიშის დაცვა; ტელ. ნომერი;ელ.ფოსტა;პაროლის შეცვლა;ტელ.ნომრის დამატება;ელ.ფოსტის დამატება;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>მოწყობილობები</item>
+        <item>მართეთ თქვენს Xiaomi-ს ანგარიშთან დაკავშირებული მოწყობილობები</item>
+        <item>მოწყობილობების მართვა;ჩემი მოწყობილობები;მოწყობილობები;მოწყობილობების სია;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>კონფიდენციალურობის პოლიტიკა</item>
+        <item>იხილეთ Xiaomi-ს ანგარიშის კონფიდენციალურობის პოლიტიკა</item>
+        <item>Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში;კონფიდენციალურობის პოლიტიკა</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ელ. ფოსტით აღდგენა</item>
+        <item>დაამატეთ ელ. ფოსტით აღდგენა</item>
+        <item>ელ.ფოსტით აღდგენა;ელ. ფოსტა; დაამატეთ ელ.ფოსტა;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>ტელეფონით აღდგენა</item>
+        <item>დაამატეთ აღდგენის ტელეფონი</item>
+        <item>ტელ.ნომრით აღდგენა;ტელ.ნომრის დამატება;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>რეკლამები</item>
+        <item>მართეთ სისტემური რეკლამები</item>
+        <item>რეკლამა;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ანგარიშის ინფორმაცია</item>
+        <item>იხილეთ თქვენი პროფილის ფოტო და მართეთ ანგარიშის ინფორმაცია</item>
+        <item>პირადი ინფორმაცია;პროფილის ფოტო;ზედმეტსახელი;ანგარიშის ინფორმაცია; Mi ID;ID;Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>სამომხმარებლო შეთანხმება</item>
+        <item>სამომხმარებლო შეთანხმება</item>
+        <item>Mi ანგარიში;ანგარიში;Xiaomi-ს ანგარიში;სამომხმარებლო შეთანხმება;EULA</item>
+    </string-array>
+</resources>

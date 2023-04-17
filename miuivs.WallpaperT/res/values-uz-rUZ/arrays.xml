@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Uy</item>
+        <item>Fon rasmlari/Super fon rasmlari/Uy</item>
+        <item>Yer;Super fon rasmlari;Yer mavzusi;Fon rasmi</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometriya</item>
+        <item>Fon rasmi/Super fon rasmlari/Geometriya</item>
+        <item>Geometriya;Xulosa;Super fon rasmi;Fon rasmi</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Qizil sayyora</item>
+        <item>Fon rasm/Super fon rasmlari/Qizil sayyora</item>
+        <item>Mars; Mars mavzusi; Super fon rasmlari; Fon rasmi</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Qorli cho‘qqilar</item>
+        <item>Fon rasmi/Super fon rasmlari/Qorli cho‘qqilar</item>
+        <item>Yer;Tog‘lar;Super fon rasmlari;Fon rasmi</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super fon rasmlari</item>
+        <item>Fon rasmlari/Super fon rasmlari</item>
+        <item>Super fon rasmlari;Fon rasmlari;Dinamik fon rasm;3D fon rasm</item>
+    </string-array>
+</resources>

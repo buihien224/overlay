@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>പുരുഷൻ</item>
+        <item>സ്ത്രീ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>അക്കൗണ്ടുകൾ</item>
+        <item>മൂന്നാം കക്ഷി അക്കൗണ്ടുകൾ ചേർത്ത് മാനേജുചെയ്യുക</item>
+        <item>അക്കൗണ്ടുകൾ;SNS;Facebook;Google;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>അക്കൗണ്ടുകൾ</item>
+        <item>മൂന്നാം കക്ഷി അക്കൗണ്ടുകൾ ചേർത്ത് മാനേജുചെയ്യുക</item>
+        <item>അക്കൗണ്ടുകൾ;SNS;WeChat;QQ;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>പാസ്‌വേഡ് മാറ്റുക</item>
+        <item>Xiaomi അക്കൗണ്ട് പാസ്‌വേഡ് മാറ്റുക</item>
+        <item>പാസ്‌വേഡ് മാറ്റുക;പാസ്‌വേഡ് അപ്‌ഡേറ്റുചെയ്യുക;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ഫാമിലി സ്റ്റോറേജ് സ്പെയ്സ്</item>
+        <item>ഫാമിലി സ്റ്റോറേജ് സ്പെയ്സ് കാണുക/ഓണാക്കുക</item>
+        <item>ഫാമിലി സ്റ്റോറേജ് സ്പെയ്സ്;സ്റ്റോറേജ് പങ്കിടൽ</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>കുടുംബ സേവനങ്ങൾ</item>
+        <item>കുടുംബ സേവനങ്ങൾ കാണുക/ഓണാക്കുക</item>
+        <item>കുടുംബം;കുടുംബ സേവനങ്ങൾ;കുടുംബവുമായി പങ്കിടൽ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>സഹായം</item>
+        <item>Xiaomi അക്കൗണ്ട് സഹായവും പിന്തുണയും നേടുക</item>
+        <item>Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്;അക്കൗണ്ട് സഹായം;സഹായ കേന്ദ്രം</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ഘട്ട പരിശോധിച്ചുറപ്പിക്കൽ</item>
+        <item>നിങ്ങളുടെ Xiaomi അക്കൗണ്ടിനായി 2-ഘട്ട പരിശോധിച്ചുറപ്പിക്കൽ സജ്ജമാക്കുക</item>
+        <item>സൈനിൻ ചെയ്യൽ;ലോഗിൻ ചെയ്യൽ;2-ഘട്ടം;പരിശോധിച്ചുറപ്പിക്കൽ;Xiaomi;അക്കൗണ്ട്;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>അക്കൗണ്ട് സുരക്ഷ</item>
+        <item>വീണ്ടെടുക്കൽ ഫോണും ഇമെയിലും, പാസ്‌വേഡ് മാനേജ്മെന്റ്</item>
+        <item>അക്കൗണ്ട് സുരക്ഷ;സൈനിൻ ചെയ്യുന്നു;വീണ്ടെടുക്കൽ ഫോൺ;വീണ്ടെടുക്കൽ ഇമെയിൽ;അക്കൗണ്ട് പരിരക്ഷണം,ഫോൺ നമ്പർ;ഇമെയിൽ;പാസ്‌വേഡ് മാറ്റുക;ഫോൺ നമ്പർ ചേർക്കുക;ഇമെയിൽ ചേർക്കുക;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ഉപകരണങ്ങൾ</item>
+        <item>നിങ്ങളുടെ Xiaomi അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട ഉപകരണങ്ങൾ മാനേജുചെയ്യുക</item>
+        <item>ഉപകരണങ്ങൾ മാനേജുചെയ്യുക;എന്റെ ഉപകരണങ്ങൾ;ഉപകരണങ്ങൾ;ഉപകരണ ലിസ്റ്റ്;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>സ്വകാര്യതാ നയം</item>
+        <item>Xiaomi അക്കൗണ്ട് സ്വകാര്യതാ നയം കാണുക</item>
+        <item>Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്;സ്വകാര്യതാ നയം</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>വീണ്ടെടുക്കൽ ഇമെയിൽ</item>
+        <item>വീണ്ടെടുക്കൽ ഇമെയിൽ ചേർക്കുക</item>
+        <item>വീണ്ടെടുക്കൽ ഇമെയിൽ;ഇമെയിൽ;ഇമെയിൽ ചേർക്കുക;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>വീണ്ടെടുക്കൽ ഫോൺ</item>
+        <item>വീണ്ടെടുക്കൽ ഫോൺ ചേർക്കുക</item>
+        <item>വീണ്ടെടുക്കൽ ഫോൺ;ഫോൺ ചേർക്കുക;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>പരസ്യങ്ങൾ</item>
+        <item>സിസ്റ്റം പരസ്യങ്ങൾ മാനേജുചെയ്യുക</item>
+        <item>പരസ്യങ്ങൾ;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>അക്കൗണ്ട് വിവരങ്ങൾ</item>
+        <item>നിങ്ങളുടെ പ്രൊഫൈൽ ഫോട്ടോ കാണുകയും അക്കൗണ്ട് വിവരങ്ങൾ മാനേജുചെയ്യുകയും ചെയ്യുക</item>
+        <item>വ്യക്തിഗത വിവരങ്ങൾ;പ്രൊഫൈൽ ഫോട്ടോ;വിളിപ്പേര്;അക്കൗണ്ട് വിവരങ്ങൾ;Mi ഐഡി;ഐഡി;Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ഉപയോക്തൃ ഉടമ്പടി</item>
+        <item>ഉപയോക്തൃ ഉടമ്പടി</item>
+        <item>Mi അക്കൗണ്ട്;അക്കൗണ്ട്;Xiaomi അക്കൗണ്ട്;ഉപയോക്തൃ ഉടമ്പടി;EULA</item>
+    </string-array>
+</resources>

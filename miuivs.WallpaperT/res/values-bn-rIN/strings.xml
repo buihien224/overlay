@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">দুপুর</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">সকাল</string>
+    <string name="earth_position_content_0">ক্রোয়েশিয়ার কেপ কামেনজ্যাক নেচার পার্ক থেকে সব থেকে ভাল নজর কাড়া মেডিটেরিনিয়ান কোস্টের দৃশ্য দেখা যায়। অসাধারণ জিওলজিকাল ফরমেশন থাকার ফলে এই জায়গাটি ডাইভারদের স্বর্গ বলা চলে।প্রতি বছর গ্রীষ্মকাুলে রোদ ও উষ্ণতায় ডুবে থাকে মেডিটেরিনিয়ান সাগর ও প্রচুর আউটডোর খেলোয়াড় দের আকৃষ্ট করে।</string>
+    <string name="earth_position_content_1">"টেরেসড ফিল্ডস মানুষের তৈরি তবে সেটা এক অদভুত প্রাকৃতিক সৌন্দর্য তুলে ধরে একদম ছবির মত।
+চীনে রাইস টেরেস য়াংসে নদির দক্ষিণ দিকে অবস্থিত, এই অঞ্চলে প্রচুর বৃষ্টি হয় আর পর্বতমালায় ঘেরা।লংজি টেরেস প্রায় ৭০০ বছরের ও বেশি সময় ধরে রয়েছে এবং আশেপাশের গ্রামগুলিতে বেশ কিছু ঐতিহাসিক স্মৃতিস্তম্ভ রয়েছে।"</string>
+    <string name="earth_position_content_2">ইলুলিসেট পশ্চিম গ্রিনল্যান্ডে অবস্থিত, আর্টিক সার্কেল এর ২০০ কিমি উত্তরে। ৫৬ কিলোমিটার লম্বা নজর কাড়া ইলুলিসেট আইসফিওর্ড জাকোবসভান ইসব্রে গ্লেসিয়ারের ঠিক পাশেই অবস্থিত। নর্দান হেমিসফিয়ারের সব থেকে বড় হিমবাহ হওয়ার ফলে প্রতি বছর ২ বিলিয়ন টন আইসবার্গ তৈরি করে। উত্তরদিকে কিছু গিয়ে সেগুলি দক্ষিণ দিকে ঘুরে গিয়ে অতলান্তিক মহাসাগরে ভেসে যায়।</string>
+    <string name="earth_position_content_3">গ্রিসের জাইকিনথোস উপকূল অত্যন্ত সুন্দর বিচ হল নাভাগিও।এটা জাহাজ ধ্বংসের জন্য় বিখ্যাত যার জন্য একে \"স্মাগলার্স কোভ\" বলা হয়।</string>
+    <string name="earth_position_content_4">উত্তর ইটালিতে অবস্থিত ডোলোমাইট একটি পর্বতমালা। মাউন্ট সিসেডা অত্যন্ত সুন্দর ও চিত্রানুগ জায়গা।</string>
+    <string name="earth_position_title_0">"ক্রোয়েশিয়া
+কেপ কামেনজাক"</string>
+    <string name="earth_position_title_1">"গুয়াংগি, চীন
+ লংজি টেরেস ফিল্ড"</string>
+    <string name="earth_position_title_2">"গ্রিনল্যান্ড
+ইলুলিস্যাট"</string>
+    <string name="earth_position_title_3">"গ্রিস
+নাভাগিও বিচ"</string>
+    <string name="earth_position_title_4">"ইটালি
+ডোলোমাইট্স"</string>
+    <string name="earth_summary">পৃথিবী মানব সভ্যতার আধার</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">হোম</string>
+    <string name="empty" />
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
+    <string name="evening">দুপুর</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">মাস</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'টায়'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'টায়'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'মি সে'"</string>
+    <string name="fmt_time_minute">"m'মিন'"</string>
+    <string name="fmt_time_minute_second">"m'মিন' s'সে'"</string>
+    <string name="fmt_time_minute_second_millis">"m'মিন' s.S'সে'"</string>
+    <string name="fmt_time_second">"s'সে'"</string>
+    <string name="fmt_time_second_millis">"s.S'সে'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">শুক্রবার</string>
+    <string name="friday_short">শুক্র</string>
+    <string name="friday_shortest">শুক্র</string>
+    <string name="geometry_summary">আকার, আলো ও রঙ</string>
+    <string name="geometry_super_wallpaper_label">জ্যামিতি</string>
+    <string name="geometry_title">জ্যামিতি</string>
+    <string name="mars_position_content_0">"এই অঞ্চলে খাড়া পাহাড়, মিসেস এবং সমান উপত্যকা আছে যা হিমবাহের ধ্বংসাবশেষের দ্বারা তৈরি হয়েছে।মাটির খনিজ পদার্থ এখানে পাওয়া গিয়েছে যা মঙ্গস গ্রহে জীবন আছে কিনা সে বিষয়ে অনুসন্ধানের বিষয়ে প্রচুর আগ্রহ তৈরি করেছে।
+
+NASA/JPL/Arizona বিশ্ববিদ্যালয়।"</string>
+    <string name="mars_position_content_1">"যখন মার্স রোভার কিউরিসিটি পাহরাম্প হিল্স গেল সেন্টারে অন্বেষণ করার সময় নেওয়া হয়েছে। এই অঞ্চলে সেডিমেন্টরি রক আছে যা বিজ্ঞানিরা বিশ্বাস করেন জল থাকার ফলে তৈরি হয়ে থাকতে পারে এবং অন্ধকার এলাকাগুলো বালি।
+
+NASA/JPL/Arizona বিশ্ববিদ্যালয়।"</string>
+    <string name="mars_position_content_2">"মাওয়ার্থ ভ্যালিস একটি প্রাচীন জল যাওয়ার চ্যানেল হালকা রঙ্গের মাটি যুক্ত পাথর সহ। মাটির খনিজ পদার্থে পৃথিবীর মাইক্রোস্কোপিক জীবন সংরক্ষণ করে তাই হয়ত জীবনের খোঁজ মাওয়ার্থেও পাওয়া যেতে পারে।
+
+NASA/JPL/Arizona বিশ্ববিদ্যালয়।"</string>
+    <string name="mars_position_content_3">"যখন মার্স রোভার কিউরিসিটি পাহরাম্প হিল্স গেল সেন্টারে অন্বেষণ করার সময় নেওয়া হয়েছে। এই অঞ্চলে সেডিমেন্টরি রক আছে যা বিজ্ঞানিরা বিশ্বাস করেন জল থাকার ফলে তৈরি হয়ে থাকতে পারে এবং অন্ধকার এলাকাগুলো বালি।
+
+NASA/JPL/Arizona বিশ্ববিদ্যালয়।"</string>
+    <string name="mars_position_content_4">"বাহাম ভালিস কিছু কিছু জায়গায় দেওয়াল সহ একটি নদি উপত্যকার ট্রাঙ্ক।মসৃণ মেঝেতে ভাঙনের বেশিষ্ট দেখে বোঝা যায় যে তরল পদার্থ ছিল এটা তৈরির সময়।
+
+NASA/JPL/অ্যারিজোনা বিশ্ববিদ্যালয়।"</string>
+    <string name="mars_position_title_0">"নিলোসির্তিস
+মেনসেই অঞ্চল"</string>
+    <string name="mars_position_title_1">গেল ক্রেটর</string>
+    <string name="mars_position_title_2">"মাওয়ার্থা ভ্যালিস
+ এ ক্রেটার"</string>
+    <string name="mars_position_title_3">পাহরাম্প হিল্স</string>
+    <string name="mars_position_title_4">বাহারম ভালিস</string>
+    <string name="mars_summary">মঙ্গল গ্রহের বিশাল মরুভূমি যা চিরকাল মানুষকে বিস্মৃত করেছে</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">লাল গ্রহ</string>
+    <string name="midnight">রাত্রি</string>
+    <string name="monday">সোমবার</string>
+    <string name="monday_short">সোম</string>
+    <string name="monday_shortest">সোম</string>
+    <string name="month_april">এপ্রিল</string>
+    <string name="month_april_short">এপ্রিল</string>
+    <string name="month_april_shortest">এপ্রি</string>
+    <string name="month_august">অগাস্ট</string>
+    <string name="month_august_short">অগাস্ট</string>
+    <string name="month_august_shortest">আগ</string>
+    <string name="month_december">ডিসেম্বর</string>
+    <string name="month_december_short">ডিসেম্বর</string>
+    <string name="month_december_shortest">ডিস</string>
+    <string name="month_february">ফেব্রুয়ারি</string>
+    <string name="month_february_short">ফেব্রুয়ারী</string>
+    <string name="month_february_shortest">ফেব</string>
+    <string name="month_january">জানুয়ারি</string>
+    <string name="month_january_short">জানুয়ারী</string>
+    <string name="month_january_shortest">জান</string>
+    <string name="month_july">জুলাই</string>
+    <string name="month_july_short">জুলাই</string>
+    <string name="month_july_shortest">জুল</string>
+    <string name="month_june">জুন</string>
+    <string name="month_june_short">জুন</string>
+    <string name="month_june_shortest">জুন</string>
+    <string name="month_march">মার্চ</string>
+    <string name="month_march_short">মার্চ</string>
+    <string name="month_march_shortest">মার্চ</string>
+    <string name="month_may">মে</string>
+    <string name="month_may_short">মে</string>
+    <string name="month_may_shortest">মে</string>
+    <string name="month_november">নভেম্বর</string>
+    <string name="month_november_short">নভেম্বর</string>
+    <string name="month_november_shortest">নভে</string>
+    <string name="month_october">অক্টোবর</string>
+    <string name="month_october_short">অক্টোবর</string>
+    <string name="month_october_shortest">অক্টো</string>
+    <string name="month_september">সেপ্টেম্বর</string>
+    <string name="month_september_short">সেপ্টেম্বর</string>
+    <string name="month_september_shortest">সেপ্ট</string>
+    <string name="morning">সকাল</string>
+    <string name="night">সন্ধ্যা</string>
+    <string name="noon">মধ্যাহ্ন</string>
+    <string name="pm">PM</string>
+    <string name="saturday">শনিবার</string>
+    <string name="saturday_short">শনি</string>
+    <string name="saturday_shortest">শনি</string>
+    <string name="saturn_summary">শণিগ্রহের চক্র সৌরমন্ডলের সব থেকে অদ্ভুত সুন্দপ দৃশ্য়</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">ফারাওয়ে রিং</string>
+    <string name="snowmountain_summary">মাউন্ট সিংগুইগান পর্বতের রৌদ্রজ্জ্বল ঢাল</string>
+    <string name="snowmountain_super_wallpaper_label">বরফে ঢাকা চূড়া</string>
+    <string name="snowmountain_title">বরফে ঢাকা চূড়া</string>
+    <string name="sunday">রবিবার</string>
+    <string name="sunday_short">রবি</string>
+    <string name="sunday_shortest">রবি</string>
+    <string name="super_wallpaper_list_label">সুপার ওয়ালপেপার</string>
+    <string name="thursday">বৃহস্পতিবার</string>
+    <string name="thursday_short">বৃহ</string>
+    <string name="thursday_shortest">বৃহ</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">আগামীকাল</string>
+    <string name="tuesday">মঙ্গলবার</string>
+    <string name="tuesday_short">মঙ্গল</string>
+    <string name="tuesday_shortest">মঙ্গল</string>
+    <string name="wednesday">বুধবার</string>
+    <string name="wednesday_short">বুধ</string>
+    <string name="wednesday_shortest">বুধ</string>
+    <string name="yesterday">গতকাল</string>
+</resources>

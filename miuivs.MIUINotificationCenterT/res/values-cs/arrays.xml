@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Seřadit podle času přijetí</item>
+        <item>Seřadit podle počtu oznámení</item>
+        <item>Aplikace, které mohou zobrazovat oznámení</item>
+        <item>Aplikace, které nemohou zobrazovat oznámení</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Zobrazit obsah oznámení</item>
+        <item>Nezobrazovat upozornění na Zamykací obrazovce</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Zobrazit obsah oznámení</item>
+        <item>Zobrazit oznámení a skrýt jejich obsah</item>
+        <item>Nezobrazovat upozornění na Zamykací obrazovce</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

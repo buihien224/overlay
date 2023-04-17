@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega fins a la pàgina d'inici"</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="afternoon">Tarda</string>
+    <string name="am">a. m.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Matí</string>
+    <string name="earth_position_content_0">"Al parc natural del cap de Kamenjak, a Croàcia, es poden contemplar les vistes probablement més impressionants de la costa mediterrània. Les formacions geològiques impressionants converteixen aquest lloc en un paradís pel submarinista. Cada estiu, el sol enlluernador i les càlides aigües mediterrànies atrauen a innombrables entusiastes de l'aire lliure."</string>
+    <string name="earth_position_content_1">"Els camps de terrasses són el resultat de l'activitat humana, però també són una zona paisatgística excepcional.
+A la Xina, les terrasses d'arròs es troben principalment al sud del riu Yangtze, on les pluges són habituals i les serralades abundants. Fa més de 700 anys que hi ha terrasses a Longji i hi ha uns quants monuments històrics als pobles propers."</string>
+    <string name="earth_position_content_2">"Ilulissat es troba a l'oest de Groenlàndia, a 200 quilòmetres al nord del Cercle Àrtic. El magnífic fiord d'Ilulissat de 56 quilòmetres està situat al costat de la glacera de Jakobshavn Isbræ. En ser la glacera més gran de l'hemisferi nord, produeix 2.000 milions de tones d'icebergs cada any. Després de desviar-se una mica cap al nord, giren cap al sud i desemboquen a l'oceà Atlàntic."</string>
+    <string name="earth_position_content_3">Navagio és una de les platges més boniques de la costa de Zakynthos, a les illes Jòniques de Grècia. Es diu que és la llar d’un famós naufragi, per això la platja també s’anomena “Smugglers Cove”.</string>
+    <string name="earth_position_content_4">Les Dolomites són una serralada situada al nord-est d’Itàlia. La muntanya Seceda és realment un dels llocs més pintorescos que hi ha.</string>
+    <string name="earth_position_title_0">"Croàcia
+Cap de Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Xina
+Camps de terrasses de Longji"</string>
+    <string name="earth_position_title_2">"Groenlàndia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grècia
+Platja de Navagio"</string>
+    <string name="earth_position_title_4">"Itàlia
+Dolomites"</string>
+    <string name="earth_summary">La Terra és el bressol de la civilització humana</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Casa</string>
+    <string name="empty" />
+    <string name="eras_ad">EC</string>
+    <string name="eras_bc">AEC</string>
+    <string name="evening">Tarda</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'en punt'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">divendres</string>
+    <string name="friday_short">dv.</string>
+    <string name="friday_shortest">dv.</string>
+    <string name="geometry_summary">Formes, llum i colors</string>
+    <string name="geometry_super_wallpaper_label">Geometria</string>
+    <string name="geometry_title">Geometria</string>
+    <string name="mars_position_content_0">"En aquesta regió hi ha penya-segats, meses i amples valls planes, que es creu que van ser causats per restes cobertes per glaceres. Aquí també s'han detectat minerals argilosos, que són de gran interès en la recerca de proves de vida a l'antic Mart.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_1">"Es va fer quan el Mars Rover Curiosity estava explorant els monts Pahrump, al cràter Gale. La regió conté roques sedimentàries que els científics creuen que es van formar en presència d'aigua, i les zones fosques són sorra.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis és un antic canal de sortida d'aigua amb roques de colors clars riques en argila. Els minerals argilosos conserven fàcilment vida microscòpica a la Terra, així que potser es poden trobar rastres d'antiga vida a Mawrth.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_3">"Aquestes imatges es van fer quan l'astromòbil Curiosity explorava en Mart els turons Pahrump, dins el cràter Gale. Aquesta regió conté roques sedimentàries que els científics creuen que es van formar amb la presència d'aigua. Les zones més fosques són sorra.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis és la vall d'un riu d'un sol cos, amb parets ondejades en alguns llocs. La presència de característiques d'erosió canalitzades en el seu sòl mostren que els fluids van contribuir a la seva formació.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Regió mensae"</string>
+    <string name="mars_position_title_1">Cràter Gale</string>
+    <string name="mars_position_title_2">"Cràter en
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Turons Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">"Els vasts deserts de Mart han estat sempre captivadors per a l'ésser humà"</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">El planeta vermell</string>
+    <string name="midnight">Nit</string>
+    <string name="monday">dilluns</string>
+    <string name="monday_short">dl.</string>
+    <string name="monday_shortest">dl.</string>
+    <string name="month_april">abril</string>
+    <string name="month_april_short">abr</string>
+    <string name="month_april_shortest">abr</string>
+    <string name="month_august">agost</string>
+    <string name="month_august_short">ago</string>
+    <string name="month_august_shortest">ago</string>
+    <string name="month_december">desembre</string>
+    <string name="month_december_short">des</string>
+    <string name="month_december_shortest">des</string>
+    <string name="month_february">febrer</string>
+    <string name="month_february_short">feb</string>
+    <string name="month_february_shortest">feb</string>
+    <string name="month_january">gener</string>
+    <string name="month_january_short">gen</string>
+    <string name="month_january_shortest">gen</string>
+    <string name="month_july">juliol</string>
+    <string name="month_july_short">jul</string>
+    <string name="month_july_shortest">jul</string>
+    <string name="month_june">juny</string>
+    <string name="month_june_short">jun</string>
+    <string name="month_june_shortest">jun</string>
+    <string name="month_march">març</string>
+    <string name="month_march_short">mar</string>
+    <string name="month_march_shortest">mar</string>
+    <string name="month_may">maig</string>
+    <string name="month_may_short">mai</string>
+    <string name="month_may_shortest">mai</string>
+    <string name="month_november">novembre</string>
+    <string name="month_november_short">nov</string>
+    <string name="month_november_shortest">nov</string>
+    <string name="month_october">octubre</string>
+    <string name="month_october_short">oct</string>
+    <string name="month_october_shortest">oct</string>
+    <string name="month_september">setembre</string>
+    <string name="month_september_short">set</string>
+    <string name="month_september_shortest">set</string>
+    <string name="morning">Matí</string>
+    <string name="night">Vespre</string>
+    <string name="noon">Migdia</string>
+    <string name="pm">p. m.</string>
+    <string name="saturday">dissabte</string>
+    <string name="saturday_short">ds.</string>
+    <string name="saturday_shortest">ds.</string>
+    <string name="saturn_summary">Els anells de Saturn són un dels espectacles més increïbles del sistema solar</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Anells llunyans</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="snowmountain_summary">Pistes de muntanya il·luminades pel sol de la muntanya Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">Cims nevats</string>
+    <string name="snowmountain_title">Cims nevats</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">diumenge</string>
+    <string name="sunday_short">dg.</string>
+    <string name="sunday_shortest">dg.</string>
+    <string name="super_wallpaper_list_label">Superfons de pantalla</string>
+    <string name="thursday">dijous</string>
+    <string name="thursday_short">dj.</string>
+    <string name="thursday_shortest">dj.</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Demà</string>
+    <string name="tuesday">dimarts</string>
+    <string name="tuesday_short">dm.</string>
+    <string name="tuesday_shortest">dm.</string>
+    <string name="wednesday">dimecres</string>
+    <string name="wednesday_short">dc.</string>
+    <string name="wednesday_shortest">dc.</string>
+    <string name="yesterday">Ahir</string>
+</resources>

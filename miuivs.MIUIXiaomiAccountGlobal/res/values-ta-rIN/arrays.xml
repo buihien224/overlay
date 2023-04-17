@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ஆண்</item>
+        <item>பெண்</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>கணக்குகள்</item>
+        <item>மூன்றாம் தரப்பு கணக்குகளைச் சேர்த்தல் மற்றும் நிர்வகித்தல்</item>
+        <item>கணக்குகள்;எஸ்.என்.எஸ்;Facebook;Google;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>கணக்குகள்</item>
+        <item>மூன்றாம் தரப்பு கணக்குகளைச் சேர்த்தல் மற்றும் நிர்வகித்தல்</item>
+        <item>கணக்குகள்;எஸ்.என்.எஸ்;WeChat;QQ;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>கடவுச்சொல்லை மாற்றவும்</item>
+        <item>Xiaomi கணக்கு கடவுச்சொல்லை மாற்றவும்</item>
+        <item>கடவுச்சொல்லை மாற்றவும்;கடவுச்சொல்லைப் புதுப்பிக்கவும்;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>குடும்ப சேமிப்பிடம்</item>
+        <item>குடும்பச் சேமிப்பிடத்தைக் காண்க/இயக்கு</item>
+        <item>குடும்ப சேமிப்பு இடம்;சேமிப்பிடப் பகிர்வு</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>குடும்பச் சேவைகள்</item>
+        <item>குடும்பச் சேவைகளைக் காண்க/இயக்குக</item>
+        <item>குடும்பம்; குடும்ப சேவைகள்; குடும்பப் பகிர்வு</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>உதவி</item>
+        <item>Xiaomi கணக்கு உதவி மற்றும் ஆதரவைப் பெறுக</item>
+        <item>Xiaomi கணக்கு;கணக்கு;கணக்கு உதவி;உதவி மையம்</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2 படி சரிபார்ப்பு</item>
+        <item>உங்கள் Xiaomi கணக்கிற்கான 2 படி சரிபார்ப்பை அமைக்கவும்</item>
+        <item>உள்நுழை;உள்நுழைக;2-படி;சரிபார்ப்பு;Xiaomi;கணக்கு;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>கணக்கு பாதுகாப்பு</item>
+        <item>மீட்டெடுப்பு ஃபோன் மற்றும் மின்னஞ்சல், கடவுச்சொல் நிர்வாகம்</item>
+        <item>கணக்கு பாதுகாப்பு;உள்நுழைதல்;மீட்பு தொலைபேசி;மீட்பு மின்னஞ்சல்;கணக்கு பாதுகாப்பு;தொலைபேசி எண்;மின்னஞ்சல்;கடவுச்சொல்லை மாற்றவும்;தொலைபேசி எண்ணைச் சேர்க்கவும்;மின்னஞ்சல் சேர்க்கவும்;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>சாதனங்கள்</item>
+        <item>உங்கள் Xiaomi கணக்குடன் தொடர்புப்படுத்தப்பட்ட சாதனங்களை நிர்வகிக்கவும்</item>
+        <item>சாதனங்களை நிர்வகிக்கவும்;எனது சாதனங்கள்;சாதனங்கள்;சாதனப் பட்டியல்;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>தனியுரிமைக் கொள்கை</item>
+        <item>Xiaomi கணக்கு தனியுரிமைக் கொள்கையைக் காண்க</item>
+        <item>Mi கணக்கு;கணக்கு;Xiaomi கணக்கு;தனியுரிமைக் கொள்கை</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>மீட்டெடுப்பு மின்னஞ்சல்</item>
+        <item>மீட்டெடுப்பு மின்னஞ்சலை சேர்க்கவும்</item>
+        <item>மீட்பு மின்னஞ்சல்;மின்னஞ்சல்;மின்னஞ்சலைச் சேர்;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>மீட்டெடுப்பு ஃபோன்</item>
+        <item>மீட்டெடுப்பு ஃபோனைச் சேர்க்கவும்</item>
+        <item>மீட்பு தொலைபேசி;தொலைபேசியைச் சேர்;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>விளம்பரங்கள்</item>
+        <item>முறைமை விளம்பரங்களை நிர்வகி</item>
+        <item>விளம்பரங்கள்;Mi கணக்கு;கணக்கு;Xiaomi கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>கணக்கு தகவல்</item>
+        <item>உங்கள் சுயவிவரப் படத்தைக் காணவும் மற்றும் கணக்குத் தகவலை நிர்வகிக்கவும்</item>
+        <item>தனிப்பட்ட தகவல்;சுயவிவரப் படம்;புனைப்பெயர்;கணக்கு விவரம்;Xiaomi ID;;ID;Xiaomi கணக்கு;கணக்கு</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>பயனர் ஒப்பந்தம்</item>
+        <item>பயனர் ஒப்பந்தம்</item>
+        <item>Xiaomi கணக்கு;கணக்கு;பயனர் ஒப்பந்தம்;EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Cabeceiro da factura: *** Inc.</item>
+        <item>Enderezo: rúa, apto., cidade, país/rexión, provincia, código postal</item>
+        <item>Por favor, deixa o paquete na porta. Grazas!</item>
+        <item>Agarda un minuto, volverei agora mesmo.</item>
+        <item>Estou nunha reunión. Por favor, envía unha mensaxe.</item>
+        <item>Non podo falar agora. Chamareite cando poda.</item>
+        <item>Grazas!</item>
+    </string-array>
+</resources>

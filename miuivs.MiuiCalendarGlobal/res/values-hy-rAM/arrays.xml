@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Ոչ մի</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Ջրհոս</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Խոյ</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Բունդեսլիգա</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Խեցգետին</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Այծեղջյուր</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Միայն այս իրադարձությունը</item>
+        <item>Այս շարքի բոլոր իրադարձությունները</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Դեպի առաջ</item>
+        <item>Դեպի ետ</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Իրադարձության ժամին</item>
+        <item>5 րոպե առաջ</item>
+        <item>15 րոպե առաջ</item>
+        <item>30 րոպե առաջ</item>
+        <item>1 ժամ առաջ</item>
+        <item>4 ժամ առաջ</item>
+        <item>1 օր առաջ</item>
+        <item>2 օր առաջ</item>
+        <item>1 շաբաթ առաջ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Միայն այս իրադարձությունը</item>
+        <item>Այս և ապագա իրադարձությունները</item>
+        <item>Բոլոր իրադարձությունները</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Երկվորյակ</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>Իսպանիայի առաջնություն</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Առյուծ</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Կշեռք</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ֆրանսիայի առաջնություն</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Կիրակի</item>
+        <item>Երկուշաբթի</item>
+        <item>Երեքշաբթի</item>
+        <item>Չորեքշաբթի</item>
+        <item>Հինգշաբթի</item>
+        <item>Ուրբաթ</item>
+        <item>Շաբաթ</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Ձկներ</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Միշտ</item>
+        <item>Միայն երբ զանգի ձայնը լռեցված է</item>
+        <item>Երբեք</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Տարածաշրջանի կանխադրված արժեք</item>
+        <item>Շաբաթ</item>
+        <item>Կիրակի</item>
+        <item>Երկուշաբթի</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1-ին</item>
+        <item>2-րդ</item>
+        <item>3-րդ</item>
+        <item>4-րդ</item>
+        <item>5-րդ</item>
+        <item>6-րդ</item>
+        <item>7-րդ</item>
+        <item>8-րդ</item>
+        <item>9-րդ</item>
+        <item>10-րդ</item>
+        <item>11-րդ</item>
+        <item>12-րդ</item>
+        <item>13-րդ</item>
+        <item>14-րդ</item>
+        <item>15-րդ</item>
+        <item>16-րդ</item>
+        <item>17-րդ</item>
+        <item>18-րդ</item>
+        <item>19-րդ</item>
+        <item>20-րդ</item>
+        <item>21-րդ</item>
+        <item>22-րդ</item>
+        <item>23-րդ</item>
+        <item>24-րդ</item>
+        <item>25-րդ</item>
+        <item>26-րդ</item>
+        <item>27-րդ</item>
+        <item>28-րդ</item>
+        <item>29-րդ</item>
+        <item>30-րդ</item>
+        <item>31-րդ</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Երբեք</item>
+        <item>Ժամ</item>
+        <item>Հաշվարկ</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Հուն</item>
+        <item>Փետ</item>
+        <item>Մար</item>
+        <item>Ապր</item>
+        <item>Մայ</item>
+        <item>Հուն</item>
+        <item>Հուլ</item>
+        <item>Օգս</item>
+        <item>Սեպ</item>
+        <item>Հոկ</item>
+        <item>Նոյ</item>
+        <item>Դեկ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>առաջին</item>
+        <item>երկրորդ</item>
+        <item>երրորդ</item>
+        <item>չորրորդ</item>
+        <item>վերջին</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Երկ - Ուրբ</item>
+        <item>Շաբաթ-կիրակի</item>
+        <item>Ամբողջ շաբաթ</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Երկ</item>
+        <item>Երք</item>
+        <item>Չրք</item>
+        <item>Հնգ</item>
+        <item>Ուրբ</item>
+        <item>Շբթ</item>
+        <item>Կիր</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Երբեք</item>
+        <item>Ամսական</item>
+        <item>Տարեկան</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>օր</item>
+        <item>շաբաթ</item>
+        <item>ամիս</item>
+        <item>տարի</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>առաջին երկուշաբթի</item>
+        <item>առաջին երեքշաբթի</item>
+        <item>առաջին չորեքշաբթի</item>
+        <item>առաջին հինգշաբթի</item>
+        <item>առաջին ուրբաթ</item>
+        <item>առաջին շաբաթ</item>
+        <item>առաջին կիրակի</item>
+        <item>երկրորդ երկուշաբթի</item>
+        <item>երկրորդ երկուշաբթի</item>
+        <item>երկրորդ չորեքշաբթի</item>
+        <item>երկրորդ հինգշաբթի</item>
+        <item>երկրորդ ուրբաթ</item>
+        <item>երկրորդ շաբաթ</item>
+        <item>երկրորդ կիրակին</item>
+        <item>երրորդ երկուշաբթի</item>
+        <item>երրորդ երեքշաբթի</item>
+        <item>երրորդ չորեքշաբթի</item>
+        <item>երրորդ հինգշաբթի</item>
+        <item>երրորդ ուրբաթ</item>
+        <item>երրորդ շաբաթ</item>
+        <item>երրորդ կիրակի</item>
+        <item>չորրորդ երկուշաբթի</item>
+        <item>չորրորդ երեքշաբթի</item>
+        <item>չորրորդ չորեքշաբթի</item>
+        <item>չորրորդ հինգշաբթի</item>
+        <item>չորրորդ ուրբաթ</item>
+        <item>չորրորդ շաբաթ</item>
+        <item>չորրորդ կիրակի</item>
+        <item>անցած երկուշաբթի</item>
+        <item>անցած երեքշաբթի</item>
+        <item>անցած չորեքշաբթի</item>
+        <item>անցած հինգշաբթի</item>
+        <item>անցած ուրբաթ</item>
+        <item>անցած շաբաթ</item>
+        <item>անցած կիրակի</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Պատասխան չկա</item>
+        <item>Այո</item>
+        <item>Միգուցե</item>
+        <item>Ոչ</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Աղեղնավոր</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Կարիճ</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Իտալիայի առաջնություն</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Ցուլ</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Մարշալյան կղզիներ</item>
+        <item>Միդուեյ կղզի</item>
+        <item>Հավայի</item>
+        <item>Ալյասկա</item>
+        <item>Խաղաղօվկիանոսյան ժամանակ</item>
+        <item>Տիխուանա</item>
+        <item>Արիզոնա</item>
+        <item>Չիուաուա</item>
+        <item>Լեռնային ժամանակ</item>
+        <item>Կենտրոնական Ամերիկա</item>
+        <item>Կենտրոնական ժամանակ</item>
+        <item>Մեխիկո</item>
+        <item>Սասկաչևան</item>
+        <item>Բոգոտա</item>
+        <item>Արևելյան ժամանակ</item>
+        <item>Վենեսուելա</item>
+        <item>Ատլանտյան ժամանակ (Բարբադոս)</item>
+        <item>Ատլանտյան ժամանակ (Կանադա)</item>
+        <item>Մանաուս</item>
+        <item>Սանտիագո</item>
+        <item>Նյուֆաունդլենդ</item>
+        <item>Բրազիլիա</item>
+        <item>Բուենոս Այրես</item>
+        <item>Գրենլանդիա</item>
+        <item>Մոնտեվիդեո</item>
+        <item>Միջատլանտյան ժամանակ</item>
+        <item>Ազորյան կղզիներ</item>
+        <item>Կաբո Վերդե</item>
+        <item>Կասաբլանկա</item>
+        <item>Լոնդոն, Դուբլին</item>
+        <item>Ամստերդամ, Բեռլին</item>
+        <item>Բելգրադ</item>
+        <item>Բրյուսել</item>
+        <item>Սարաևո</item>
+        <item>Վինդհուկ</item>
+        <item>Արևմտաաֆրիկյան ժամանակ</item>
+        <item>Ամման, Հորդանան</item>
+        <item>Աթենք, Ստամբուլ</item>
+        <item>Բեյրութ, Լիբանան</item>
+        <item>Կահիրե</item>
+        <item>Հելսինկի</item>
+        <item>Երուսաղեմ</item>
+        <item>Մինսկ</item>
+        <item>Հարարե</item>
+        <item>Բաղդադ</item>
+        <item>Մոսկվա</item>
+        <item>Քուվեյթ</item>
+        <item>Նայրոբի</item>
+        <item>Թեհրան</item>
+        <item>Բաքու</item>
+        <item>Թբիլիսի</item>
+        <item>Երևան</item>
+        <item>Դուբայ</item>
+        <item>Քաբուլ</item>
+        <item>Իսլամաբադ, Կարաչի</item>
+        <item>Ուրալսկ</item>
+        <item>Եկատերինբուրգ</item>
+        <item>Կալկաթա</item>
+        <item>Շրի Լանկա</item>
+        <item>Կատմանդու</item>
+        <item>Աստանա</item>
+        <item>Յանգոն</item>
+        <item>Կրասնոյարսկ</item>
+        <item>Բանգկոկ</item>
+        <item>Պեկին</item>
+        <item>Հոնկոնգ</item>
+        <item>Մակաո</item>
+        <item>Սինգապուր</item>
+        <item>Իրկուտսկ</item>
+        <item>Կուալա Լումպուր</item>
+        <item>Պերթ</item>
+        <item>Թայբեյ</item>
+        <item>Սեուլ</item>
+        <item>Տոկիա, Օսակա</item>
+        <item>Յակուտսկ</item>
+        <item>Ադելաիդա</item>
+        <item>Դարվին</item>
+        <item>Բրիսբեյն</item>
+        <item>Հոբարթ</item>
+        <item>Սիդնեյ, Կանբերրա</item>
+        <item>Վլադիվոստոկ</item>
+        <item>Գուամ</item>
+        <item>Մագադան</item>
+        <item>Օքլենդ</item>
+        <item>Ֆիջի</item>
+        <item>Տոնգա</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 ժամ առաջ</item>
+        <item>4 ժամ առաջ</item>
+        <item>5 ժամ առաջ</item>
+        <item>6 ժամ առաջ</item>
+        <item>1 օր առաջ</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Կույս</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Մաքրել</item>
+        <item>Ամպամած</item>
+        <item>Մռայլ</item>
+        <item>Մառախուղ</item>
+        <item>Առատ փոթորիկ</item>
+        <item>Փոթորիկ</item>
+        <item>Թեթև փոթորիկ</item>
+        <item>Ամպրոպ</item>
+        <item>Ցնցուղ</item>
+        <item>Հորդառատ անձրև</item>
+        <item>Անձրև</item>
+        <item>Թեթև անձրև</item>
+        <item>Անձրև և ձյուն</item>
+        <item>Ձնաբուք</item>
+        <item>Ձնաբուք</item>
+        <item>Առատ ձյուն</item>
+        <item>Ձյուն</item>
+        <item>Թեթև ձյուն</item>
+        <item>Ուժեղ ավազահողմ</item>
+        <item>Ավազահողմ</item>
+        <item>Փոշի</item>
+        <item>Թեթև ավազահողմ</item>
+        <item>Կարկուտ</item>
+        <item>Թռչող փոշի</item>
+        <item>Մշուշ</item>
+        <item>Սառցե անձրև</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ԿԻՐ</item>
+        <item>ԵՐԿ</item>
+        <item>ԵՐՔ</item>
+        <item>ՉՐՔ</item>
+        <item>ՀՆԳ</item>
+        <item>ՈՒՐԲ</item>
+        <item>ՇԲԹ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Թափանցիկ</item>
+        <item>Սպիտակ ֆոն</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

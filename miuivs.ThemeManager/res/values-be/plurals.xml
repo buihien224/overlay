@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d тэм AOD</item>
+        <item quantity="one">%1$d тэма AOD</item>
+        <item quantity="few">%1$d тэмы AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d шрыфтоў</item>
+        <item quantity="one">%1$d шрыфт</item>
+        <item quantity="few">%1$d шрыфта</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d абразкоў</item>
+        <item quantity="one">%1$d абразок</item>
+        <item quantity="few">%1$d абразка</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d тэм</item>
+        <item quantity="one">%1$d тэма</item>
+        <item quantity="few">%1$d тэмы</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Дадаць %1$d рэсурсаў</item>
+        <item quantity="one">Дадаць %1$d рэсурс</item>
+        <item quantity="few">Дадаць %1$d рэсурса</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Дададзена %1$d рэсурсаў у акаўнт. Паглядзець дададзеныя рэсурсы можна ў замовах.</item>
+        <item quantity="one">Дададзены %1$d рэсурс у акаўнт. Паглядзець дададзены рэсурс можна ў замовах.</item>
+        <item quantity="few">Дададзена %1$d рэсурса ў акаўнт. Паглядзець дададзеныя рэсурсы можна ў замовах.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">Вы можаце загрузіць толькі %1$d бясплатных рэсурсаў (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+        <item quantity="one">Вы можаце загрузіць толькі %1$d бясплатны рэсурс (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+        <item quantity="few">ВВы можаце загрузіць толькі %1$d бясплатных рэсурса (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">%1$d рэсурсаў не былі дададзены ў акаўнт</item>
+        <item quantity="one">%1$d рэсурс не быў дададзены ў акаўнт</item>
+        <item quantity="few">%1$d рэсурса не былі дададзены ў акаўнт</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Даступныя абнаўленні для %1$d тэм</item>
+        <item quantity="one">Даступнае абнаўленне для %1$d тэмы</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">Абнаўленне %1$d тэм</item>
+        <item quantity="one">Абнаўленне %1$d тэмы</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d элементаў</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+    </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d абразкоў</item>
+        <item quantity="one">%1$d абразок</item>
+        <item quantity="few">%1$d абразкі</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">Яшчэ %1$d каментароў</item>
+        <item quantity="one">Яшчэ %1$d каментар</item>
+        <item quantity="few">Яшчэ %1$d камэнтара</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s узнагарод</item>
+        <item quantity="one">%s узнагарода</item>
+        <item quantity="few">%s узнагароды</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s узнагарод</item>
+        <item quantity="one">%s узнагарода</item>
+        <item quantity="few">%s узнагароды</item>
+    </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіна таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Хуткая перамотка наперад на %d сек.</item>
+        <item quantity="one">Хуткая перамотка наперад на %d сек.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перамотка назад на %d сек.</item>
+        <item quantity="one">Перамотка назад на %d сек.</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Ужыта на %1$d прыладах</item>
+        <item quantity="one">Ужыта на %1$d прыладзе</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Даступнае абнаўленне для %1$d абразкоў</item>
+        <item quantity="one">Даступнае абнаўленне для %1$d абразка</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Абнаўленне %1$d абразкоў…</item>
+        <item quantity="one">Абнаўленне %1$d абразка…</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз 1 хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">"%d аб'ектаў выдзелена"</item>
+        <item quantity="one">"%d аб'ект выдзелены"</item>
+        <item quantity="few">"%d аб'екта выдзелены"</item>
+        <item quantity="many">"%d аб'ектаў выдзелена"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d каментарыяў</item>
+        <item quantity="one">%d каментарый</item>
+        <item quantity="few">%d каментарыя</item>
+        <item quantity="many">%d каментарыяў</item>
+    </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">"Загружана %1$d аб'ектаў"</item>
+        <item quantity="one">"Загружаны %1$d аб'ект"</item>
+        <item quantity="few">"Загружана %1$d аб'екта"</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f пунктаў</item>
+        <item quantity="one">%1$.1f пункт</item>
+        <item quantity="few">%1$.1f пункта</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s мелодый</item>
+        <item quantity="one">%1$s мелодыя</item>
+        <item quantity="few">%1$s мелодыi</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Даступныя абнаўленні для %1$d тэм.</item>
+        <item quantity="one">Даступныя абнаўленні для %1$d тэмы.</item>
+        <item quantity="few">Даступныя абнаўленні для %1$d тэм.</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s прац</item>
+        <item quantity="one">%1$s праца</item>
+        <item quantity="few">%1$s працы</item>
+        <item quantity="many">%1$s прац</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Даступныя абнаўленні для %1$d тэм</item>
+        <item quantity="one">Даступныя абнаўленні для %1$d тэмы</item>
+        <item quantity="few">Даступныя абнаўленні для %1$d тэм</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Пошук сярод %1$d праграм</item>
+        <item quantity="one">Пошук у %1$d праграме</item>
+        <item quantity="few">Пошук сярод %1$d праграм</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d праграм знойдзена</item>
+        <item quantity="one">%1$d праграма знойдзена</item>
+        <item quantity="few">%1$d праграмы знойдзена</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">Вы зможаце паспрабаваць \"%2$s\" бясплатна праз %1$d гадзін</item>
+        <item quantity="one">Вы зможаце паспрабаваць \"%2$s\" бясплатна праз %1$d гадзіну</item>
+        <item quantity="few">Вы зможаце паспрабаваць \"%2$s\" бясплатна праз %1$d гадзіны</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">"3-дзённая бясплатная пробная версія (%1$d аб'ектаў засталося на сёння)"</item>
+        <item quantity="one">"3-дзённая бясплатная пробная версія (%1$d аб'ект застаўся на сёння)"</item>
+        <item quantity="few">"3-дзённая бясплатная пробная версія (%1$d аб'екта засталося на сёння)"</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d выяв</item>
+        <item quantity="one">%1$d выява</item>
+        <item quantity="few">%1$d выявы</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">"%1$s | %2$d аб'ектаў"</item>
+        <item quantity="one">"%1$s | %2$d аб'ект"</item>
+        <item quantity="few">"%1$s | %2$d аб'екты"</item>
+        <item quantity="many">"%1$s | %2$d аб'ектаў"</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d прыхільнікаў</item>
+        <item quantity="one">%1$d прыхільнік</item>
+        <item quantity="few">%1$d прыхільніка</item>
+    </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Даступнае абнаўленне для %1$d суперабразкоў</item>
+        <item quantity="one">Даступнае абнаўленне для %1$d суперабразкоў</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Абнаўленне %1$d суперабразкоў</item>
+        <item quantity="one">Абнаўленне %1$d суперабразкоў</item>
+    </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Заплаціць %1$s Mi манет</item>
+        <item quantity="one">Заплаціць %1$s Mi манету</item>
+        <item quantity="few">Заплаціць %1$s Mi манеты</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi манет/набор</item>
+        <item quantity="one">%1$s Mi манета/набор</item>
+        <item quantity="few">%1$s Mi манеты/набор</item>
+    </plurals>
+</resources>

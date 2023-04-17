@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">ຕອນບ່າຍ</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">ຕອນເຊົ້າ</string>
+    <string name="earth_position_content_0">ສວນທຳມະຊາດ Cape Kamenjak ໃນປະເທດ Croatia ເປັນທີ່ຕັ້ງຂອງທິວທັດທີ່ງົດງາມໜ້າຕື່ນຕາຕື່ນໃຈທີ່ສຸດຕາມແຄມຊາຍຝັ່ງທະເລເມດິເຕີເຣນຽນ. ຮູບແບບທາງທໍລະນີສາດທີ່ໜ້າປະທັບໃຈເຮັດໃຫ້ສະຖານທີ່ນີ້ກາຍເປັນສະຫວັນຂອງນັກດຳນ້ຳ. ໃນທຸກລະດູຮ້ອນ, ດວງອາທິດທີ່ສົດໃສແລະນ້ຳທະເລເມດິເຕີເຣນຽນທີ່ອົບອຸ່ນໄດ້ດຶງດູດຜູ້ທີ່ມັກກິດຈະກຳພາຍນອກນັບບໍ່ຖ້ວນ.</string>
+    <string name="earth_position_content_1">"ທົ່ງນາຂັ້ນໄດແມ່ນໝາກຜົນຂອງກິດຈະກຳຂອງມະນຸດ, ແຕ່ຍັງເປັນສະຖານທີ່ທ່ອງທ່ຽວທາງທຳມະຊາດທີ່ໂດດເດັ່ນ.
+ຢູ່ປະເທດຈີນ, ນາເຂົ້າຂັ້ນໄດສ່ວນໃຫຍ່ແມ່ນຕັ້ງຢູ່ທາງທິດໃຕ້ຂອງແມ່ນ້ຳຢາງຊີ, ບ່ອນທີ່ມີຝົນຕົກຊຸມແລະອຸດົມໄປດ້ວຍພູເຂົາ. ບັນດາທົ່ງນາຂັ້ນໄດໃນເມືອງ Longji ມີມາເປັນເວລາຫຼາຍກວ່າ 700 ປີແລ້ວແລະມີອານຸສອນສະຖານປະຫວັດສາດຫຼາຍແຫ່ງໃນໝູ່ບ້ານໃກ້ຄຽງ."</string>
+    <string name="earth_position_content_2">Ilulissat ຕັ້ງຢູ່ພາກຕາເວັນຕົກຂອງ Greenland, 200 ກິໂລແມັດທາງທິດເໜືອຂອງ Arctic Circle. Ilulissat Icefjord ທີ່ມີຄວາມຍາວ 56 ກິໂລແມັດຕັ້ງຢູ່ຕິດກັບແຜ່ນນ້ຳກ້ອນ Jakobshavn Isbræ. ເຊິ່ງເປັນແຜ່ນນ້ຳກ້ອນທີ່ໃຫຍ່ທີ່ສຸດໃນຊີກໂລກເໜືອ, ມັນສາມາດຜະລິດນ້ຳກ້ອນໄດ້ 2 ພັນລ້ານໂຕນໃນແຕ່ລະປີ. ຫຼັງຈາກອ້ອມໄປທາງເໜືອ, ແລ້ວລ້ຽວໄປທາງທິດໃຕ້ແລະໄຫຼລົງສູ່ມະຫາສະໝຸດອັດລັງຕິກ.</string>
+    <string name="earth_position_content_3">Navagio ແມ່ນໜຶ່ງໃນບັນດາຫາດຊາຍທະເລທີ່ສວຍງາມທີ່ສຸດໃນຝັ່ງທະເລຂອງ Zakynthos, ໃນເກາະ Ionian ຂອງປະເທດ Greece. ມັນໄດ້ຖືກກ່າວເຖິງວ່າເປັນບ້ານຂອງເຮືອຫຼົ້ມທີ່ມີຊື່ສຽງ, ເຊິ່ງເປັນເຫດຜົນທີ່ຫາດຊາຍຖືກເອີ້ນວ່າ \"Smugglers Cove\".</string>
+    <string name="earth_position_content_4">Dolomites ເປັນພູເຂົາທີ່ຕັ້ງຢູ່ທາງຕາເວັນອອກສຽງເໜືອຂອງ Italy. ພູເຂົາ Seceda ເປັນໜຶ່ງໃນສະຖານທີ່ທີ່ງົດງາມທີ່ສຸດທີ່ນັ້ນ.</string>
+    <string name="earth_position_title_0">"Croatia
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"ກວາງຊີ, ຈີນ
+ທົ່ງນາຂັ້ນໄດ Longji"</string>
+    <string name="earth_position_title_2">"Greenland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Greece
+ຫາດ Navagio"</string>
+    <string name="earth_position_title_4">"Italy
+Dolomites"</string>
+    <string name="earth_summary">ໂລກແມ່ນແຫຼ່ງກຳເນີດອະຣິຍະທຳມະນຸດ</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">ໂລກ</string>
+    <string name="empty" />
+    <string name="eras_ad">ຄ.ສ</string>
+    <string name="eras_bc">ກ່ອນຄ.ສ</string>
+    <string name="evening">ຕອນບ່າຍ</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">ວັນສຸກ</string>
+    <string name="friday_short">ສຸກ</string>
+    <string name="friday_shortest">ສຸກ</string>
+    <string name="geometry_summary">ຮູບຮ່າງ, ແສງແລະສີ</string>
+    <string name="geometry_super_wallpaper_label">ເລຂາຄະນິດ</string>
+    <string name="geometry_title">ເລຂາຄະນິດ</string>
+    <string name="mars_position_content_0">"ຂົງເຂດນີ້ປະກອບດ້ວຍໜ້າຜາ, ຜິວນ້ຳແລະຮ່ອມພູແຄບກວ້າງ, ເຊິ່ງເຊື່ອວ່າເກີດມາຈາກກະແສແຜ່ນນ້ຳກ້ອນທີ່ປົກຫຸ້ມ. ແຮ່ທາດດິນໜຽວຍັງໄດ້ຖືກກວດພົບຢູ່ທີ່ນີ້, ເຊິ່ງໄດ້ຮັບຄວາມສົນໃຈຫຼາຍໃນການຄົ້ນຫາຫຼັກຖານຂອງສິ່ງມີຊີວິດໃນດາວອັງຄານບູຮານ.
+
+NASA/JPL/ມະຫາວິທະຍາໄລ Arizona"</string>
+    <string name="mars_position_content_1">"ຖ່າຍໃນເວລາທີ່ Mars rover Curiosity ກຳລັງສຳຫຼວດ Pahrump Hills ໃນປາກປ່ອງພູເຂົາໄຟ Gale. ຂົງເຂດດັ່ງກ່າວປະກອບມີໂງ່ນຫີນຕົກຕະກອນເຊິ່ງນັກວິທະຍາສາດເຊື່ອວ່າເກີດຂຶ້ນຈາກນ້ຳແລະພື້ນທີ່ທີ່ມືດແມ່ນດິນຊາຍ.
+
+NASA/JPL/ມະຫາວິທະຍາໄລ Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis ແມ່ນຊ່ອງທາງການໄຫຼອອກຂອງນ້ຳທີ່ເກົ່າແກ່ແລະມີໂງ່ນຫີນທີ່ເຕັມໄປດ້ວຍດິນໜຽວສີອ່ອນ. ແຮ່ທາດດິນໜຽວສາມາດຮັກສາສິ່ງທີ່ມີຊີວິດທີ່ມີຂະໜາດນ້ອຍຢູ່ເທິງໂລກໄດ້ງ່າຍດາຍ, ດັ່ງນັ້ນບາງທີອາດພົບຮ່ອງຮອຍຂອງຊີວິດບູຮານຢູ່ທີ່ Mawrth.
+
+NASA/JPL/ມະຫາວິທະຍາໄລ Arizona"</string>
+    <string name="mars_position_content_3">"ຮູບພາບເຫຼົ່ານີ້ຖືກຖ່າຍໃນເວລາທີ່ Mars rover Curiosity ກຳລັງສຳຫຼວດ Pahrump Hills ໃນປາກປ່ອງພູເຂົາໄຟ Gale. ຂົງເຂດນີ້ປະກອບມີໂງ່ນຫີນຕົກຕະກອນເຊິ່ງນັກວິທະຍາສາດເຊື່ອວ່າເກີດຂຶ້ນຈາກນ້ຳ. ພື້ນທີ່ທີ່ມືດແມ່ນດິນຊາຍ.
+
+NASA/JPL/ມະຫາວິທະຍາໄລ Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis ແມ່ນຮ່ອມພູແມ່ນ້ຳລຳດຽວ, ທີ່ມີກຳແພງ scallop ໃນບາງບ່ອນ. ການປາກົດຕົວຂອງລັກສະນະການເຊາະເຈື່ອນຢູ່ເທິງພື້ນສະແດງໃຫ້ເຫັນວ່າຂອງແຫຼວມີສ່ວນກ່ຽວຂ້ອງໃນການກໍ່ຕົວ.
+
+NASA/JPL/ມະຫາວິທະຍາໄລ Arizona"</string>
+    <string name="mars_position_title_0">"ເຂດ Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">ປາກປ່ອງພູເຂົາໄຟ Gale</string>
+    <string name="mars_position_title_2">"ປາກປ່ອງພູເຂົາໄຟໃນ
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump Hills</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">ທະເລຊາຍທີ່ກວ້າງໃຫຍ່ຂອງດາວອັງຄານໄດ້ເຮັດໃຫ້ມະນຸດຕົກຕະລຶງຢູ່ສະເໝີ</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">ດາວເຄາະສີແດງ</string>
+    <string name="midnight">ກາງຄືນ</string>
+    <string name="monday">ວັນຈັນ</string>
+    <string name="monday_short">ຈັນ</string>
+    <string name="monday_shortest">ຈັນ</string>
+    <string name="month_april">ເດືອນເມສາ</string>
+    <string name="month_april_short">ເມສາ</string>
+    <string name="month_april_shortest">ເມສາ</string>
+    <string name="month_august">ເດືອນສິງຫາ</string>
+    <string name="month_august_short">ສິງຫາ</string>
+    <string name="month_august_shortest">ສິງຫາ</string>
+    <string name="month_december">ເດືອນທັນວາ</string>
+    <string name="month_december_short">ທັນວາ</string>
+    <string name="month_december_shortest">ທັນວາ</string>
+    <string name="month_february">ເດືອນກຸມພາ</string>
+    <string name="month_february_short">ກຸມພາ</string>
+    <string name="month_february_shortest">ກຸມພາ</string>
+    <string name="month_january">ເດືອນມັງກອນ</string>
+    <string name="month_january_short">ມັງກອນ</string>
+    <string name="month_january_shortest">ມັງກອນ</string>
+    <string name="month_july">ເດືອນກໍລະກົດ</string>
+    <string name="month_july_short">ກໍລະກົດ</string>
+    <string name="month_july_shortest">ກໍລະກົດ</string>
+    <string name="month_june">ເດືອນມິຖຸນາ</string>
+    <string name="month_june_short">ມິຖຸນາ</string>
+    <string name="month_june_shortest">ມິຖຸນາ</string>
+    <string name="month_march">ເດືອນມີນາ</string>
+    <string name="month_march_short">ມີນາ</string>
+    <string name="month_march_shortest">ມີນາ</string>
+    <string name="month_may">ເດືອນພຶດສະພາ</string>
+    <string name="month_may_short">ພຶດສະພາ</string>
+    <string name="month_may_shortest">ເດືອນພຶດສະພາ</string>
+    <string name="month_november">ເດືອນພະຈິກ</string>
+    <string name="month_november_short">ພະຈິກ</string>
+    <string name="month_november_shortest">ພະຈິກ</string>
+    <string name="month_october">ເດືອນຕຸລາ</string>
+    <string name="month_october_short">ຕຸລາ</string>
+    <string name="month_october_shortest">ຕຸລາ</string>
+    <string name="month_september">ເດືອນກັນຍາ</string>
+    <string name="month_september_short">ກັນຍາ</string>
+    <string name="month_september_shortest">ກັນຍາ</string>
+    <string name="morning">ຕອນເຊົ້າ</string>
+    <string name="night">ຕອນຄ່ຳ</string>
+    <string name="noon">ຕອນກາງເວັນ</string>
+    <string name="pm">PM</string>
+    <string name="saturday">ວັນເສົາ</string>
+    <string name="saturday_short">ເສົາ</string>
+    <string name="saturday_shortest">ເສົາ</string>
+    <string name="saturn_summary">ວົງແຫວນຂອງດາວເສົາສ້າງປາກົດການທີ່ເປັນໜ້າຕື່ນໃຈທີ່ສຸດໃນລະບົບສຸລິຍະ</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">ວົງແຫວນທີ່ຫ່າງໄກ</string>
+    <string name="snowmountain_summary">ເນີນເຂົາທີ່ມີແສງແດດສ່ອງຂອງພູເຂົາ Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">ຍອດເຂົາທີ່ເຕັມໄປດ້ວຍຫິມະ</string>
+    <string name="snowmountain_title">ຍອດເຂົາທີ່ເຕັມໄປດ້ວຍຫິມະ</string>
+    <string name="sunday">ວັນອາທິດ</string>
+    <string name="sunday_short">ອາທິດ</string>
+    <string name="sunday_shortest">ອາທິດ</string>
+    <string name="super_wallpaper_list_label">ພາບພື້ນຫຼັງຄວາມລະອຽດສູງ</string>
+    <string name="thursday">ວັນພະຫັດ</string>
+    <string name="thursday_short">ພະຫັດ</string>
+    <string name="thursday_shortest">ພະຫັດ</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">ມື້ອື່ນ</string>
+    <string name="tuesday">ວັນອັງຄານ</string>
+    <string name="tuesday_short">ຄານ</string>
+    <string name="tuesday_shortest">ຄານ</string>
+    <string name="wednesday">ວັນພຸດ</string>
+    <string name="wednesday_short">ພຸດ</string>
+    <string name="wednesday_shortest">ພຸດ</string>
+    <string name="yesterday">ມື້ວານ</string>
+</resources>

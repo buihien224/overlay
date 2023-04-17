@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB ڈی بگ کرنا چالو ہے</string>
+    <string name="lock_to_app_description">"اسکرین کو پن کرنے سے ڈسپلے ایک ویو میں لاک ہو جاتا ہے۔ n
+ان پن کرنے کے لیے ہوم اور پاور بٹن کو ایک ساتھ تھوڑی دیر دبائے رکھیں۔"</string>
+    <string name="lock_to_app_description_accessible">"اسکرین کو پن کرنے سے ڈسپلے ایک ویو میں لاک ہو جاتا ہے۔ n
+ان پن کرنے کے لیے ہوم اور پاور بٹن کو ایک ساتھ تھوڑی دیر دبائے رکھیں۔"</string>
+    <string name="lock_to_app_toast">اس اسکرین کو ان پن کرنے کے لیے, ہوم اور پاور بٹن کو ایک ساتھ تھوڑی دیر دبائے رکھیں۔</string>
+    <string name="lock_to_app_toast_accessible">اس اسکرین کو ان پن کرنے کے لیے, ہوم اور پاور بٹن کو ایک ساتھ تھوڑی دیر دبائے رکھیں۔</string>
+    <string name="lockscreen_missing_sim_instructions">سم کارڈ داخل کریں۔</string>
+    <string name="lockscreen_missing_sim_instructions_long">سم کارڈ موجود نہیں ہے یا پڑھا نہیں جا سکتا ہے۔ ایک سم کارڈ داخل کریں۔</string>
+    <string name="lockscreen_missing_sim_message">فون میں کوئی سم کارڈ نہیں ہے۔</string>
+    <string name="lockscreen_missing_sim_message_short">کوئی سم کارڈ نہیں</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"آپ کا سم کارڈ مستقل طور پر غیرفعال ہو گیا ہے۔
+دوسرا سم کارڈ لینے کے لیے اپنے وائرلیس سروس فراہم کنندہ سے رابطہ کریں۔"</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">ناقابل استعمال سم کارڈ۔</string>
+    <string name="tethered_notification_message">سیٹ اپ کے لیے ٹیپ کریں</string>
+    <string name="tethered_notification_multi_device_message">%1$s مربوط ڈیوائس</string>
+    <string name="tethered_notification_no_device_message">کوئی مربوط ڈیوائس نہیں</string>
+    <string name="tethered_notification_one_device_message">%1$s مربوط ڈیوائس</string>
+    <string name="tethered_notification_title">ٹیتھرنگ یا ہاٹ سپاٹ فعال</string>
+    <string name="usb_midi_notification_title">MIDI بذریعہ یو ایس بی چالو ہے</string>
+    <string name="usb_mtp_notification_title">یو ایس بی فائل منتقلی چالو ہے</string>
+    <string name="usb_ptp_notification_title">PTP بذریعہ یو ایس بی چالو ہے</string>
+    <string name="usb_tether_notification_title">یو ایس بی ٹیتھرنگ چالو ہے</string>
+    <string name="usb_unsupported_audio_accessory_message">مربوط ڈیوائس اس فون کے ساتھ موافقت نہیں رکھتا ہے۔ مزید جاننے کے لیے ٹیپ کریں۔</string>
+    <string name="usb_unsupported_audio_accessory_title">اینالاگ آڈیو ایکسسری کا پتہ لگا</string>
+    <string name="volume_icon_description_bluetooth">بلوٹوتھ</string>
+    <string name="volume_icon_description_incall">کال کریں</string>
+    <string name="volume_icon_description_media">میڈیا</string>
+    <string name="volume_icon_description_notification">اطلاع</string>
+    <string name="volume_icon_description_ringer">رنگر</string>
+</resources>

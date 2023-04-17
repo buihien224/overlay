@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>इनभ्वाइस हेडर: *** Inc.</item>
+        <item>ठेगाना: सडक, अपार्टमेन्ट, शहर, देश/ क्षत्र, राज्य, हुलाक कोड</item>
+        <item>कृपया प्याकेज ढोकाबाट छोड्नुहोस्। धन्यवाद!</item>
+        <item>एक मिनेट पर्खनुहोस्, म आउँदैछु।</item>
+        <item>म बैठकमा छु कृपया पाठ सन्देश पठाउनुहोस्।</item>
+        <item>म अहिले कुरा गर्न सक्दिन म तपाईंलाई सकेसम्म चाँडो कल गर्नेछु।</item>
+        <item>धन्यवाद!</item>
+    </string-array>
+</resources>

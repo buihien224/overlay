@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Erkak</item>
+        <item>Ayol</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Hisoblar</item>
+        <item>Uchinchi tomon hisoblarini qo‘shish va boshqarish</item>
+        <item>Hisoblar;SNS;Facebook;Google;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Hisoblar</item>
+        <item>Uchinchi tomon hisoblarini qo‘shish va boshqarish</item>
+        <item>Hisoblar;SNS;WeChat;QQ;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Parolni o‘zgartirish</item>
+        <item>Xiaomi Hisobi parolini o‘zgartirish</item>
+        <item>Parolni o‘zgartirish;Parolni yangilash;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Oilaviy xotiradagi joy</item>
+        <item>Oilaviy xotiradagi joyni ko‘rish/yoqish</item>
+        <item>Oilaviy xotiradagi joy;Xotirani ulashish</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Oila xizmatlari</item>
+        <item>Oila xizmatlarini ko‘rish/yoqish</item>
+        <item>Oila;Oila xizmatlari;Oilaviy almashish</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Yordam</item>
+        <item>Xiaomi Hisobi bo‘yicha yordam olish</item>
+        <item>Mi Hisobi;Hisob;Xiaomi Hisobi;Hisob yordami;Yordam markazi</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2 bosqichli tasdiqlash</item>
+        <item>Xiaomi Hisobingiz uchun 2 bosqichli tasdiqlashni o‘rnating</item>
+        <item>Kirish;Kirmoq;2 qadamli;tekshirish;Xiaomi;Hisob;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Hisob xavfsizligi</item>
+        <item>Qayta tiklash telefon va elektron pochta, parollar boshqaruvi</item>
+        <item>Hisob xavfsizligi;Hisobga kirish;Qayta tiklash telefoni;Qayta tiklash e-pochtasi;Hisobni himoyalash;Telefon raqami;E-pochta;Parolni o‘zgartirish;Telefon raqamini qo‘shish;E-pochta qo‘shish;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Qurilmalar</item>
+        <item>Xiaomi Hisobi bilan bog‘liq qurilmalarni boshqarish</item>
+        <item>Qurilmalar boshqaruvi;Mening qurilmalarim;Qurilmalar;Qurilmalar ro‘yxati;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Maxfiylik Siyosati</item>
+        <item>Xiaomi Hisobi bo‘yicha Maxfiylik Siyosatini ko‘rish</item>
+        <item>Mi Hisobi;Hisob;Xiaomi Hisobi;Maxfiylik Siyosati</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Qayta tiklash e-pochtasi</item>
+        <item>Qayta tiklash E-pochtasini qo‘shish</item>
+        <item>Qayta tiklash e-pochta;E-pochta qo‘shish;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Qayta tiklash telefoni</item>
+        <item>Qayta tiklash telefonini qo‘shish</item>
+        <item>Qayta tiklash telefoni;Telefon qo‘shish;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklama</item>
+        <item>Tizim Reklamalarini boshqarish</item>
+        <item>Reklamalar;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Hisob ma’lumoti</item>
+        <item>Profil rasmingizni ko‘ring va hisob ma’lumotlarini boshqaring</item>
+        <item>Shaxsiy ma’lumot;profil rasmi;laqab;hisob ma’lumoti;Mi ID;ID;Mi Hisobi;Hisob;Xiaomi Hisobi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Foydalanuvchi Shartnomasi</item>
+        <item>Foydalanuvchi Shartnomasi</item>
+        <item>Mi Hisobi;Hisob;Xiaomi Hisobi;Foydalanuvchi Shartnomasi;EULA</item>
+    </string-array>
+</resources>

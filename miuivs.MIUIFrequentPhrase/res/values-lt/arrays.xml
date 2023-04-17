@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Sąskaitos faktūros antraštė: *** Inc.</item>
+        <item>Adresas: Gatvė, butas, miestas, šalis arba regionas, apskritis, pašto kodas</item>
+        <item>Palikite siuntinį prie durų. Ačiū!</item>
+        <item>Minutėlę palaukite, aš greitai gryšiu.</item>
+        <item>Aš susirinkime. Prašome atsiųsti tekstinį pranešimą.</item>
+        <item>Šiuo metu negaliu kalbėti. Perskambinsiu jums kuo anksčiau.</item>
+        <item>Dėkojame!</item>
+    </string-array>
+</resources>

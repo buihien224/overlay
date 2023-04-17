@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">Petang</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Pagi</string>
+    <string name="earth_position_content_0">Cape Kamenjak Nature Park di Croatia adalah rumah bagi pemandangan yang paling menakjubkan di sepanjang pantai Mediterranean. Formasi geologi yang mengagumkan di sini menjadikan tempat ini menjadi syurga penyelam. Setiap musim panas, matahari yang mempesona dan perairan Mediterania yang hangat menarik banyak peminat luar.</string>
+    <string name="earth_position_content_1">"Sawah bertingkat adalah hasil aktiviti manusia, tetapi mereka juga berfungsi sebagai pemandangan alam semula jadi yang luar biasa.
+Di China, sawah padi terletak di sebelah selatan Sungai Yangtze, di mana hujan sering terjadi dan banjaran gunung melimpah. Teres Longji telah wujud lebih dari 700 tahun, dan terdapat beberapa monumen bersejarah di kampung-kampung berhampiran."</string>
+    <string name="earth_position_content_2">Ilulissat terletak di Greenland barat, 200 kilometer di utara Lingkaran Artik. Ilulissat Icefjord sejauh 56 kilometer yang indah terletak betul-betul di sebelah glasier Jakobshavn Isbræ. Sebagai glasier terbesar di Hemisfera Utara, ia menghasilkan 2 bilion tan aisberg setiap tahun. Setelah jalan memutar arah utara yang pendek, mereka ke arah selatan dan mengalir ke Lautan Atlantik.</string>
+    <string name="earth_position_content_3">Navagio adalah salah satu pantai yang paling indah di pantai Zakynthos, di Kepulauan Ionian Greece. Ia dikatakan sebagai rumah kapal karam yang terkenal, sebab itulah pantai ini juga disebut \"Smugglers Cove\".</string>
+    <string name="earth_position_content_4">Dolomit adalah kawasan pergunungan yang terletak di timur laut Itali. Gunung Seceda benar-benar salah satu tempat paling indah di sana.</string>
+    <string name="earth_position_title_0">"Croatia
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Sawah Bertingkat Longji"</string>
+    <string name="earth_position_title_2">"Greenland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Greece
+Pantai Navagio"</string>
+    <string name="earth_position_title_4">"Itali
+Dolomit"</string>
+    <string name="earth_summary">Bumi adalah tempat lahirnya peradaban manusia</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Bumi</string>
+    <string name="empty" />
+    <string name="eras_ad">Masihi</string>
+    <string name="eras_bc">Sebelum Masihi</string>
+    <string name="evening">Petang</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"'pukul' h"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"'pukul' H"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'md'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s'd'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S'd'"</string>
+    <string name="fmt_time_second">"s'd'"</string>
+    <string name="fmt_time_second_millis">"s.S'd'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">Jumaat</string>
+    <string name="friday_short">Jum</string>
+    <string name="friday_shortest">Jum</string>
+    <string name="geometry_summary">Bentuk, cahaya, dan warna</string>
+    <string name="geometry_super_wallpaper_label">Geometri</string>
+    <string name="geometry_title">Geometri</string>
+    <string name="mars_position_content_0">"Wilayah ini mempunyai tebing, mesas, dan lembah rata yang luas, yang dipercayai disebabkan oleh glasier yang ditutup dengan glasier-glasier. Mineral tanah liat juga telah dikesan di sini, yang sangat menarik untuk mencari bukti kehidupan di Marikh kuno.
+
+NASA/JPL/Universiti Arizona"</string>
+    <string name="mars_position_content_1">"Diambil ketika Mars Rover Curiosity menjelajah Pahrump Hills di Kawah Gale. Wilayah ini mengandungi batuan sedimen yang dipercayai para saintis terbentuk di hadapan air, dan kawasan gelapnya adalah pasir.
+
+NASA/JPL/Universiti Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis adalah saluran aliran keluar air kuno dengan batu-batu kaya tanah liat berwarna terang. Mineral tanah liat dengan mudah memelihara kehidupan mikroskopik di Bumi, jadi mungkin jejak kehidupan kuno dapat dijumpai di Mawrth.
+
+NASA/JPL/Universiti Arizona"</string>
+    <string name="mars_position_content_3">"Gambar-gambar ini diambil ketika Mars Rover Curiosity sedang menjelajah Bukit Pahrump di Kawah Gale. Kawasan ini mengandungi batuan sedimen yang dipercayai para saintis terbentuk di hadapan air. Kawasan yang lebih gelap adalah pasir.
+
+NASA/JPL/Universiti Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis adalah lembah sungai tunggal, dengan dinding seperti kerang di beberapa tempat. Kehadiran ciri erosi yang ramping di lantai menunjukkan bahawa cecair terlibat dalam pembentukannya.
+
+NASA/JPL/Universiti Arizona"</string>
+    <string name="mars_position_title_0">"Rantau Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">Kawah Gale</string>
+    <string name="mars_position_title_2">"Kawah di
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Bukit Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">Gurun Mars yang luas selalu membuat manusia kagum</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">Planet merah</string>
+    <string name="midnight">Malam</string>
+    <string name="monday">Isnin</string>
+    <string name="monday_short">Isn</string>
+    <string name="monday_shortest">Isn</string>
+    <string name="month_april">April</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
+    <string name="month_august">Ogos</string>
+    <string name="month_august_short">Ogs</string>
+    <string name="month_august_shortest">Ogs</string>
+    <string name="month_december">Disember</string>
+    <string name="month_december_short">Dis</string>
+    <string name="month_december_shortest">Dis</string>
+    <string name="month_february">Februari</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
+    <string name="month_january">Januari</string>
+    <string name="month_january_short">Jan</string>
+    <string name="month_january_shortest">Jan</string>
+    <string name="month_july">Julai</string>
+    <string name="month_july_short">Jul</string>
+    <string name="month_july_shortest">Jul</string>
+    <string name="month_june">Jun</string>
+    <string name="month_june_short">Jun</string>
+    <string name="month_june_shortest">Jun</string>
+    <string name="month_march">Mac</string>
+    <string name="month_march_short">Mac</string>
+    <string name="month_march_shortest">Mac</string>
+    <string name="month_may">Mei</string>
+    <string name="month_may_short">Mei</string>
+    <string name="month_may_shortest">Mei</string>
+    <string name="month_november">November</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
+    <string name="month_october">Oktober</string>
+    <string name="month_october_short">Okt</string>
+    <string name="month_october_shortest">Okt</string>
+    <string name="month_september">September</string>
+    <string name="month_september_short">Sep</string>
+    <string name="month_september_shortest">Sep</string>
+    <string name="morning">Pagi</string>
+    <string name="night">Petang</string>
+    <string name="noon">Tengah hari</string>
+    <string name="pm">PM</string>
+    <string name="saturday">Sabtu</string>
+    <string name="saturday_short">Sab</string>
+    <string name="saturday_shortest">Sab</string>
+    <string name="saturn_summary">Cincin Saturnus merupakan hasil karya paling luar biasa di dalam Sistem Suria</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Cincin saturn</string>
+    <string name="snowmountain_summary">Lereng gunung yang diterangi matahari di Gunung Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">Puncak bersalji</string>
+    <string name="snowmountain_title">Puncak bersalji</string>
+    <string name="sunday">Ahad</string>
+    <string name="sunday_short">Ahd</string>
+    <string name="sunday_shortest">Ahd</string>
+    <string name="super_wallpaper_list_label">Latar hias super</string>
+    <string name="thursday">Khamis</string>
+    <string name="thursday_short">Kha</string>
+    <string name="thursday_shortest">Kha</string>
+    <string name="time_picker_label_hour">J</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Esok</string>
+    <string name="tuesday">Selasa</string>
+    <string name="tuesday_short">Sel</string>
+    <string name="tuesday_shortest">Sel</string>
+    <string name="wednesday">Rabu</string>
+    <string name="wednesday_short">Rab</string>
+    <string name="wednesday_shortest">Rab</string>
+    <string name="yesterday">Semalam</string>
+</resources>

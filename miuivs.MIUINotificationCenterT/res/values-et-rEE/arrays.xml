@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sordi vastuvõtmise aja järgi</item>
+        <item>Sordi märguannete arvu järgi</item>
+        <item>Rakendused, mis näitavad teateid</item>
+        <item>Rakendused, mis ei saa teateid näidata</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Kuva märguande sisu</item>
+        <item>Ära näita lukustusekraani teavitusi</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Kuva märguande sisu</item>
+        <item>Näita kõiki teavitusi, kuid peida sisu</item>
+        <item>Ära luba teavitusi lukustusekraanil</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

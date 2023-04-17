@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>இது ஒரு பரிந்துரைக்கப்பட்ட உள்ளடக்கம்.</item>
+        <item>இது ஒரு விளம்பரம்.</item>
+    </string-array>
+</resources>

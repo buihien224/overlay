@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Fakturaoverskrift: *** Inc.</item>
+        <item>Adresse: Gate, leil., by, land/område, provins, postnummer</item>
+        <item>Legg pakken ved døren. Takk!</item>
+        <item>Vent et minutt, jeg er straks tilbake.</item>
+        <item>Jeg er i et møte. Send en tekstmelding.</item>
+        <item>Jeg kan ikke snakke nå. Jeg ringer deg tilbake så snart som mulig.</item>
+        <item>Takk!</item>
+    </string-array>
+</resources>

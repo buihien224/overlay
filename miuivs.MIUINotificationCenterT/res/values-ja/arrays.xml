@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>受信日時で並べ替え</item>
+        <item>通知数で並べ替え</item>
+        <item>通知を表示できるアプリ</item>
+        <item>通知を表示できないアプリ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>通知内容を表示</item>
+        <item>ロック画面に通知を表示しない</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>通知内容を表示</item>
+        <item>通知は表示、内容は非表示</item>
+        <item>ロック画面に通知を表示しない</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

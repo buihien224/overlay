@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ບ່ອນຈັດເກັບຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="call_log_provider_label">ປະຫວັດການໂທ</string>
+    <string name="debug_dump_database_message">ທ່ານກຳລັງດຳເນີນການ 1) ຄັດລອກຖານຂໍ້ມູນຂອງທ່ານເຊິ່ງປະກອບມີຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່ທີ່ກ່ຽວຂ້ອງແລະການໂທເຂົ້າອອກທັງໝົດໄປທີ່ບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນ ແລະ 2) ສົ່ງອີເມວຂໍ້ມູນດັ່ງກ່າວ. ກະລຸນາລົບສຳເນົາຄັດລອກດັ່ງກ່າວທັນທີທີ່ທ່ານຄັດລອກສຳເລັດແລ້ວຫຼືເມື່ອອີເມວສົ່ງເຖິງປາຍທາງແລ້ວ.</string>
+    <string name="debug_dump_delete_button">ລົບ​ຕອນນີ້</string>
+    <string name="debug_dump_email_body">ສິ່ງທີ່ຄັດຕິດມາແມ່ນຖານຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່, ລວມມີຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່ທັງໝົດ. ກະລຸນາລະມັດລະວັງ.</string>
+    <string name="debug_dump_email_sender_picker">ເລືອກໂປຣແກຣມທີ່ຈະສົ່ງໄຟລ໌ຂອງທ່ານ</string>
+    <string name="debug_dump_email_subject">ຄັດຕິດລາຍຊື່ Db ແລ້ວ</string>
+    <string name="debug_dump_start_button">​ເລີ່ມ​ຕົ້ນ</string>
+    <string name="debug_dump_title">ຄັດລອກຖານຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="default_directory">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="local_invisible_directory">​ອື່ນໆ</string>
+    <string name="low_memory_toast">ບໍ່ສາມາດດຳເນີນການຕໍ່ໄດ້ເນື່ອງຈາກໜ່ວຍຄວາມຈຳເຫຼືອໜ້ອຍ.</string>
+    <string name="pound_search_tip">ກະລຸນາປ້ອນໝາຍເລກຫຼັງຈາກ # ເພື່ອຄົ້ນຫາລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="provider_label">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="sharedUserLabel">ແອັບ Android Core</string>
+    <string name="sim_state_changed">ປ່ຽນແຜ່ນ SIM ແລ້ວ</string>
+    <string name="third_party_delete_contact_info">\"%s\" ກຳລັງພະຍາຍາມລົບລາຍຊື່ຜູ້ຕິດຕໍ່ຂອງທ່ານ. ການດຳເນີນການນີ້ຈະບໍ່ສຳເລັດເມື່ອໃຊ້ແອັບຂອງພາກສ່ວນທີສາມ. ໃຊ້ແອັບທີ່ຢູ່ໃນລາຍຊື່ MIUI ເພື່ອລົບລາຍຊື່ຜູ້ຕິດຕໍ່ແທນ.</string>
+    <string name="update_accounts_changed">ປ່ຽນບັນຊີແລ້ວ</string>
+    <string name="upgrade_out_of_memory_notification_text">ແຕະເພື່ອສຳເລັດການອັບເດດ.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ຕ້ອງໃຊ້ຄວາມຈຳຫຼາຍກວ່ານີ້ໃນການອັບເດດ.</string>
+    <string name="upgrade_out_of_memory_notification_title">ກຳລັງອັບເດດບ່ອນຈັດເກັບຂໍ້ມູນສຳລັບລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="voicemail_cleanup">ລ້າງຂໍ້ຄວາມສຽງ</string>
+    <string name="voicemail_from_column">"ຂໍ້ຄວາມສຽງຈາກ "</string>
+</resources>

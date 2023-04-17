@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Алынған уақыты бойынша сұрыптау</item>
+        <item>Хабарламалар саны бойынша сұрыптау</item>
+        <item>Хабарламаларды көрсете алатын қолданбалар</item>
+        <item>Хабарламаларды көрсете алмайтын қолданбалар</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Хабарламаның мазмұнын көрсету</item>
+        <item>Бұғаттау экраны хабарламаларын көрсетпеу</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Хабарламаның мазмұнын көрсету</item>
+        <item>Хабарламаларды көрсету бірақ мазмұнын көрсетпеу</item>
+        <item>Бұғаттау экраны хабарламаларын көрсетпеу</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

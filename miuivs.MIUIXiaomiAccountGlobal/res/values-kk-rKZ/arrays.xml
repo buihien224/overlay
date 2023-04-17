@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Ер</item>
+        <item>Әйел</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Аккаунттар</item>
+        <item>Үшінші тарап аккаунттарын қосу және басқару</item>
+        <item>Аккаунттар;SNS;Facebook;Google;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Аккаунттар</item>
+        <item>Үшінші тарап аккаунттарын қосу және басқару</item>
+        <item>Аккаунттар;SNS;WeChat;QQ;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Құпиясөзді өзгерту</item>
+        <item>Xiaomi Аккаунт құпиясөзін өзгерту</item>
+        <item>Құпиясөзді өзгерту;Құпиясөзді жаңарту;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Отбасы сақтау орны</item>
+        <item>Отбасы сақтау орнын көру/қосу</item>
+        <item>Отбасы сақтау орны;Сақтау орнымен бөлісу</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Отбасы қызметтері</item>
+        <item>Отбасы қызметтері көру/қосу</item>
+        <item>Отбасы;Отбасы қызметтері;Отбасымен бөлісу</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Көмек</item>
+        <item>Xiaomi Аккаунтының көмегін алу</item>
+        <item>Mi Аккаунт;Аккаунт;Xiaomi Аккаунт;Аккаунт көмегі;Көмек орталығы</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Екі кезеңдік авторлану</item>
+        <item>Өз Xiaomi Аккаунтыңыз үшін екі кезеңдік авторлануды орнатыңыз</item>
+        <item>Кіру;Кіру;Екі кезеңдік;Авторлану;Xiaomi;Аккаунт;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Аккаунттың қауіпсіздігі</item>
+        <item>Қалпына келтіру телефоны және электрондық пошта, құпиясөзді басқару</item>
+        <item>Аккаунттың қауіпсіздігі;Кіру;Қалпына келтіру телефоны;Қалпына келтіру электрондық поштасы;Аккаунтты қорғау;Телефон нөмірі;Электрондық пошта;Құпиясөзді өзгерту;Телефон нөмірін қосу;Электрондық поштаны қосу;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Құрылғылар</item>
+        <item>Өзіңіздің Xiaomi Аккаунтыңызбен байланысқан құрылғыларды басқару</item>
+        <item>Құрылғыларды басқару;Менің құрылғыларым;Құрылғылар;Құрылғы тізімі;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Құпиялылық Саясаты</item>
+        <item>Xiaomi Аккаунт Құпиялылық Саясатын көру</item>
+        <item>Mi Аккаунт;Xiaomi Аккаунт;Құпиялылық Саясаты</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Қалпына келтіру электрондық поштасы</item>
+        <item>Қалпына келтіру электрондық поштасын қосыңыз</item>
+        <item>Қалпына келтіру электрондық поштасы;Электрондық пошта;Электрондық поштаны қосу;Mi Аккаунты;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Қалпына келтіру телефоны</item>
+        <item>Қалпына келтіру телефонын қосу</item>
+        <item>Қалпына келтіру телефоны;Телефонды қосу;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Жарнама</item>
+        <item>Жүйелік жарнамаларды басқару</item>
+        <item>Жарнамалар;Mi аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Аккаунт туралы ақпарат</item>
+        <item>Профиль суретін көру және аккаунт туралы ақпаратты басқару</item>
+        <item>Жеке ақпарат;профиль суреті;лақап аты;аккаунт ақпараты;Mi ID;ID;Mi Аккаунт;Аккаунт;Xiaomi Аккаунт</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Пайдаланушы Келісімі</item>
+        <item>Пайдаланушы Келісімі</item>
+        <item>Mi Аккаунт;Аккаунт;Xiaomi Аккаунт;Пайдаланушы келісімі;EULA</item>
+    </string-array>
+</resources>

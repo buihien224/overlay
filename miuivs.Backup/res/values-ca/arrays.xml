@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Experiència general</item>
+        <item>Durada de la transferència</item>
+        <item>Simplicitat del procés</item>
+        <item>"Claredat d'instruccions"</item>
+        <item>Aquesta funció és útil</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Molt insatisfet</item>
+        <item>Una mica insatisfet</item>
+        <item>Neutral</item>
+        <item>Una mica satisfet</item>
+        <item>Molt satisfet</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Qualificació general</item>
+        <item>Durada de la transferència</item>
+        <item>Simplicitat del procés</item>
+        <item>"Claredat d'instruccions"</item>
+    </string-array>
+</resources>

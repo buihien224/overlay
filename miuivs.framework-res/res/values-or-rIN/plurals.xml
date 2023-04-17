@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">SIM ଲକ୍ ହେବା ପୂର୍ବରୁ ଆପଣଙ୍କ ପାଖେ %dଟି ପ୍ରଚେଷ୍ଟା ବାକି ଅଛି|</item>
+        <item quantity="one">SIM ଲକ୍ ହେବା ପୂର୍ବରୁ ଆପଣଙ୍କ ପାଖେ %dପ୍ରଚେଷ୍ଟା ବାକି ଅଛି|</item>
+    </plurals>
+</resources>

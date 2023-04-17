@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 min më parë</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Lejuar %1$s për të hyrë automatikisht në artikujt në clipboard %2$d kohet</item>
+        <item quantity="one">Lejuar %1$s për të hyrë automatikisht në artikujt në clipboard %2$d kohe</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Të bllokuara%2$d përpjekjet për të hyrë në kujtesën e fragmenteve për%1$s</item>
+        <item quantity="one">Bllokuar %2$d përpjekje për të hyrë në clipboard për %1$s</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s artikujt e aksesuar në clipboard %2$d kohet</item>
+        <item quantity="one">%1$s artikujt e aksesuar në clipboard%2$d kohe</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 minutë më parë</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">Ju keni lejuar që %2$s të hyjë në clipboard %1$dherë tashmë . Dëshironi që gjithmonë të lejoni %3$s të hyjë në kujtesën e fragmenteve?</item>
+        <item quantity="one">Ju keni lejuar %2$s të hyjë në clipboard %1$d koha tashmë . Dëshironi që gjithmonë të lejoni %3$s të hyjë në clipboard?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">Ju keni kufizuar hyrjen në kujtesën e fragmenteve për %2$s%1$d herë tashmë. Kufizoni hyrjen në kujtesën e fragmenteve për%3$s pergjithmone?</item>
+        <item quantity="one">Ju keni kufizuar hyrjen në kujtesën e fragmenteve për %2$s%1$d koha tashmë Kufizoni hyrjen në kujtesën e fragmenteve për %3$s përgjithmonë?</item>
+    </plurals>
+</resources>

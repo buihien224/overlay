@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB பிழைதிருத்தம் இயக்கத்தில்</string>
+    <string name="lock_to_app_description">"திரைப் பொருத்தம், காட்சியை ஒரே காட்சியில் பொருத்தி வைக்கிறது.
+
+இந்தத் திரையிலிருந்து பிரித்தெடுக்க, ஒரே நேரத்தில், முகப்பு மற்றும் பவர் பொத்தானை அழுத்திப் பிடிக்கவும்."</string>
+    <string name="lock_to_app_description_accessible">"திரைப் பொருத்தம், காட்சியை ஒரே காட்சியில் பொருத்தி வைக்கிறது.
+
+இந்தத் திரையிலிருந்து பிரித்தெடுக்க, ஒரே நேரத்தில், முகப்பு மற்றும் பவர் பொத்தானை அழுத்திப் பிடிக்கவும்."</string>
+    <string name="lock_to_app_toast">இந்தத் திரையைப் பிரித்தெடுக்க, ஒரே நேரத்தில், முகப்பு மற்றும் பவர் பொத்தானை அழுத்திப் பிடிக்கவும்.</string>
+    <string name="lock_to_app_toast_accessible">இந்தத் திரையைப் பிரித்தெடுக்க, ஒரே நேரத்தில், முகப்பு மற்றும் பவர் பொத்தானை அழுத்திப் பிடிக்கவும்.</string>
+    <string name="lockscreen_missing_sim_instructions">சிம் கார்டை செருகவும்.</string>
+    <string name="lockscreen_missing_sim_instructions_long">சிம் கார்டு இல்லை அல்லது அதை அடையாளம் காண முடியவில்லை. சிம் கார்டை செருகவும்.</string>
+    <string name="lockscreen_missing_sim_message">ஃபோனில் சிம் கார்டு இல்லை.</string>
+    <string name="lockscreen_missing_sim_message_short">சிம் கார்டு இல்லை</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"உங்கள் சிம் கார்டு நிரந்தரமாக முடக்கப்பட்டது.
+மற்றொரு சிம் கார்டை பெற உங்கள் கம்பியில்லா சேவை வழங்குநரை தொடர்பு கொள்ளவும்."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">சிம் கார்டைப் பயன்படுத்த முடியாது.</string>
+    <string name="tethered_notification_message">அமைக்கத் தட்டவும்.</string>
+    <string name="tethered_notification_multi_device_message">%1$s சாதனங்கள் இணைக்கப்பட்டன</string>
+    <string name="tethered_notification_no_device_message">இணைக்கப்பட்ட சாதனம் எதுவுமில்லை</string>
+    <string name="tethered_notification_one_device_message">%1$s சாதனம் இணைக்கப்பட்டது</string>
+    <string name="tethered_notification_title">டீத்தரிங் அல்லது ஹாட்ஸ்பாட் இயங்குகிறது</string>
+    <string name="usb_midi_notification_title">USB வழியிலான MIDI இயக்கத்தில்</string>
+    <string name="usb_mtp_notification_title">USB கோப்பு இடமாற்றம் இயக்கத்தில்</string>
+    <string name="usb_ptp_notification_title">USB வழியிலான PTP இயக்கத்தில்</string>
+    <string name="usb_tether_notification_title">USB டீத்தரிங் இயக்கத்தில்</string>
+    <string name="usb_unsupported_audio_accessory_message">இணைக்கப்பட்ட சாதனம் இந்த ஃபோனுடன் இணக்கமற்றது. மேலும் அறிய தட்டவும்.</string>
+    <string name="usb_unsupported_audio_accessory_title">அனலாக் ஆடியோ கருவி கண்டறியப்பட்டது</string>
+    <string name="volume_icon_description_bluetooth">ப்ளூடூத்</string>
+    <string name="volume_icon_description_incall">அழை</string>
+    <string name="volume_icon_description_media">மீடியா</string>
+    <string name="volume_icon_description_notification">அறிவிப்பு</string>
+    <string name="volume_icon_description_ringer">ரிங்கர்</string>
+</resources>

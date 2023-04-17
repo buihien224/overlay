@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>用于读写存储图片、应用等文件，实现文件传输功能；</item>
+        <item>用于实现蓝牙/Wi-Fi状态下的文件传输功能。</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>用于读写存储图片、应用等文件，实现文件传输功能；</item>
+        <item>用于实现蓝牙/WLAN状态下的文件传输功能。</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>用于发送及接收传输的文件</item>
+        <item>用于实现蓝牙/Wi-Fi状态下的文件传输功能</item>
+        <item>使用蓝牙扫描附近可互传文件的设备</item>
+        <item>使用Wi-Fi扫描周围设备并传输文件</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>用于发送及接收传输的文件</item>
+        <item>用于实现蓝牙/WLAN状态下的文件传输功能</item>
+        <item>使用蓝牙扫描附近可互传文件的设备</item>
+        <item>使用WLAN扫描周围设备并传输文件</item>
+    </string-array>
+</resources>

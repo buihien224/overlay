@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Alınma zamanına göre sırala</item>
+        <item>Bildirim sayısına göre sırala</item>
+        <item>Bildirimleri gösterebilen uygulamalar</item>
+        <item>Bildirimleri gösteremeyen uygulamalar</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Bildirim içeriğini göster</item>
+        <item>Kilit ekranı bildirimlerini gösterme</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Bildirim içeriğini göster</item>
+        <item>Bildirimleri göster fakat içeriği gizle</item>
+        <item>Kilit ekranı bildirimlerini gösterme</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

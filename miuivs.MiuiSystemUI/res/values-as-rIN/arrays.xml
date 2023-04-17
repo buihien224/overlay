@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>"এয়া হ'ল অনুমোদিত সমল।"</item>
+        <item>এইটো এটা বিজ্ঞাপন।</item>
+    </string-array>
+</resources>

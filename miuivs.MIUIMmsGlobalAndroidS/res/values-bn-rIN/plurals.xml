@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ঘণ্টা আগে</item>
+        <item quantity="one">1 ঘণ্টা আগে</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ঘণ্টা আগে</item>
+        <item quantity="one">1 ঘণ্টা আগে</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">আধ ঘণ্টা আগে</item>
+        <item quantity="one">আধ ঘণ্টা আগে</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ঘণ্টার মধ্যে</item>
+        <item quantity="one">1 ঘণ্টার মধ্যে</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">আধ ঘণ্টার মধ্যে</item>
+        <item quantity="one">আধ ঘণ্টার মধ্যে</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">অবিলম্বে</item>
+        <item quantity="one">অবিলম্বে</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d মিনিটের মধ্যে</item>
+        <item quantity="one">1 মিনিটের মধ্যে</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">এইমাত্র</item>
+        <item quantity="one">এইমাত্র</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d মিনিট আগে</item>
+        <item quantity="one">1 মিনিট আগে</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s টি বার্তা মুছবেন?</item>
+        <item quantity="one">%1$s টি বার্তা মুছবেন?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d টি বার্তা</item>
+        <item quantity="one">%d টি বার্তা</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d টি বার্তা এখনও সিঙ্ক করা হয়নি</item>
+        <item quantity="one">%d টি বার্তা এখনও সিঙ্ক করা হয়নি</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s টি নির্বাচিত কথোপকথন মুছে দেবেন?</item>
+        <item quantity="one">%1$s টি নির্বাচিত কথোপকথন মুছে দেবেন?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d টি নির্বাচিত</item>
+        <item quantity="one">%d টি নির্বাচিত</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">বার্তাটি %1$s এবং %2$d অন্য জন পেয়েছেন</item>
+        <item quantity="one">বার্তাটি %1$s এবং %2$d অন্য জন পেয়েছেন</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d জন কে পাঠানো যায় নি</item>
+        <item quantity="one">%d জন কে পাঠানো যায় নি</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">আধ ঘণ্টা আগে</item>
+        <item quantity="one">আধ ঘণ্টা আগে</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d টি বার্তা</item>
+        <item quantity="one">%d টি বার্তা</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ঘণ্টার মধ্যে</item>
+        <item quantity="one">1 ঘণ্টার মধ্যে</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">আধ ঘণ্টার মধ্যে</item>
+        <item quantity="one">আধ ঘণ্টার মধ্যে</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">অবিলম্বে</item>
+        <item quantity="one">অবিলম্বে</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d মিনিটের মধ্যে</item>
+        <item quantity="one">1 মিনিটের মধ্যে</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">এইমাত্র</item>
+        <item quantity="one">এইমাত্র</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d জন %2$s হিসেবে চিহ্নিত করেছেন</item>
+        <item quantity="one">%1$d জন %2$s হিসেবে চিহ্নিত করেছেন</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s টি বার্তা</item>
+        <item quantity="one">%1$s টি বার্তা</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d আইটেমগুলি নির্বাচিত।</item>
+        <item quantity="one">%d আইটেম নির্বাচিত।</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s টি মেসেজ | "</item>
+        <item quantity="one">"%s টি মেসেজ | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d মিনিট আগে</item>
+        <item quantity="one">1 মিনিট আগে</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">প্রত্যাহার (%dসেক)</item>
+        <item quantity="one">প্রত্যাহার (%dসেক)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">আপনি %dটি গ্রুপ চ্যাট আমন্ত্রণ পেয়েছেন</item>
+        <item quantity="one">আপনি %dটি গ্রুপ চ্যাট আমন্ত্রণ পেয়েছেন</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s জন</item>
+        <item quantity="one">%1$s জন</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" এর %1$sটি ফলাফল</item>
+        <item quantity="one">\"%2$s\" এর %1$s\" টি ফলাফল</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s টি বার্তা পাঠানো হয়েছে</item>
+        <item quantity="one">%1$s টি বার্তা পাঠানো হয়েছে</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d সেক</item>
+        <item quantity="one">%d সেক</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d সেক</item>
+        <item quantity="one">%d সেক</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d সময় সেট করা বার্তাগুলি পাঠানো যায় নি</item>
+        <item quantity="one">%d সময় সেট করা বার্তাগুলি পাঠানো যায় নি</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d টি বার্তা)</item>
+        <item quantity="one">(%d টি বার্তা)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d জন প্রাপক</item>
+        <item quantity="one">%d জন প্রাপক</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">您还可尝试 %d 次。如果仍不正确，SIM 卡将被锁定。</item>
+        <item quantity="one">您还可尝试 %d 次。如果仍不正确，SIM 卡将被锁定。</item>
+    </plurals>
+</resources>

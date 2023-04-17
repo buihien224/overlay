@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>ཆེས་དམའ།</item>
+        <item>ཅུང་དམའ།</item>
+        <item>འོས་འཚམ་ཡིན།</item>
+        <item>ཅུང་མཐོ།</item>
+        <item>ཆེས་མཐོ།</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anisotropic">
+        <item>ལྡབ་1</item>
+        <item>ལྡབ་2</item>
+        <item>ལྡབ་4</item>
+        <item>ལྡབ་8</item>
+        <item>ལྡབ་16</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti">
+        <item>ལྡབ་1</item>
+        <item>ལྡབ་2</item>
+        <item>ལྡབ་4</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>ལྡབ་2</item>
+        <item>ལྡབ་4</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>དོ་སྙོམས།</item>
+        <item>པར་སྤུས་སྔོན་ཚུད།</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>མྱུར་ཚད་སྔོན་ཚུད།</item>
+        <item>དོ་སྙོམས།</item>
+        <item>པར་སྤུས་སྔོན་ཚུད།</item>
+    </string-array>
+</resources>

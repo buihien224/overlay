@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Акаўнты</item>
+        <item>Даданне акаўнтаў трэціх бакоў і кіраванне імі</item>
+        <item>Акаўнты;Сацсеткі;Facebook;Google;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Акаўнты</item>
+        <item>Даданне акаўнтаў трэціх бакоў і кіраванне імі</item>
+        <item>Акаўнты;Сацсеткі;WeChat;QQ;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Змяніць пароль</item>
+        <item>Змяніць пароль Xiaomi Акаўнта</item>
+        <item>Змяніць пароль;Абнавіць пароль;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Сямейнае сховішча</item>
+        <item>Прагляд/уключэнне Сямейнага сховішча</item>
+        <item>Сямейнае сховішча;Сумеснае выкарыстанне сховішча</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Сямейныя службы</item>
+        <item>Прагляд/уключэньне сямейных службаў</item>
+        <item>"Сям'я; Сямейныя службы;Сумеснае выкарыстанне сям'ёй"</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Дапамога</item>
+        <item>Дапамога і падтрымка Xiaomi Акаўнта</item>
+        <item>Mi Акаўнт;Акаўнт;Xiaomi Акаўнт;Даведка па акаўнце;Даведачны цэнтр</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Двухкрокавая праверка</item>
+        <item>Наладзьце двухкрокавую праверку для Xiaomi Акаўнта</item>
+        <item>Уваход;Аўтарызацыя;Двухкрокавая;Праверка;Xiaomi;Акаўнт;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Бяспека акаўнта</item>
+        <item>Нумар тэлефона і email для аднаўлення, кіраванне паролямі</item>
+        <item>Бяспека акаўнта;Уваход у сістэму;Тэлефон для аднаўлення;Email для аднаўлення;Абарона акаўнта;Нумар тэлефона;Email;Змяніць пароль;Дадаць нумар тэлефона;Дадаць EmailEmail;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Прылады</item>
+        <item>Кіраванне прыладамі, звязанымі з вашым Xiaomi акаўнтам</item>
+        <item>Кіраванне прыладамі;Мае прылады;Прылады;Спіс прылад;Xiaomi Акаўнт;Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Палітыка прыватнасці</item>
+        <item>Прагляд Палітыкі прыватнасці Xiaomi Акаўнта</item>
+        <item>Mi Акаўнт;Акаўнт;Xiaomi Акаўнт;Палітыка прыватнасці</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Email для аднаўлення</item>
+        <item>Дадаць email для аднаўлення</item>
+        <item>Email для аднаўлення;Email;Дадаць Email;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Тэлефон для аднаўлення</item>
+        <item>Дадаць тэлефон для аднаўлення</item>
+        <item>Тэлефон для аднаўлення;Дадаць тэлефон;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Рэклама</item>
+        <item>Упраўленне сістэмнай рэкламай</item>
+        <item>Рэклама;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Інфармацыя аб акаўнце</item>
+        <item>Прагляд фота профілю і кіраванне інфармацыяй аб акаўнце</item>
+        <item>Асабістая інфармацыя;фота профілю;нікнэйм;інфармацыя аб акаўнце;Mi ID;ID;Mi Акаўнт;Акаўнт;Xiaomi Акаўнт</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Карыстальніцкае пагадненне</item>
+        <item>Карыстальніцкае пагадненне</item>
+        <item>Mi Акаўнт;Акаўнт;Xiaomi Акаўнт;Карыстальніцкае пагадненне,ЛПКК</item>
+    </string-array>
+</resources>

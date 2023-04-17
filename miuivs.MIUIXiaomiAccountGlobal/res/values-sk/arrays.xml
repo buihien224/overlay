@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Kontá</item>
+        <item>Pridať a spravovať kontá tretích strán</item>
+        <item>Kontáí;SNS;Facebook;Google;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Kontá</item>
+        <item>Pridať a spravovať kontá tretích strán</item>
+        <item>Kontá;SNS;WeChat;QQ;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Zmeniť heslo</item>
+        <item>Zmeniť heslo Xiaomi Konta</item>
+        <item>Zmeniť heslo;Aktualizovať heslo;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Rodinné úložisko</item>
+        <item>Zobraziť/zdieľať Rodinné úložisko</item>
+        <item>Rodinné úložisko;Rodinné zdieľanie</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Rodinné služby</item>
+        <item>Zobraziť/zapnúť Rodinné služby</item>
+        <item>Rodina;Rodinné služby;Rodinné zdieľanie</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Pomocník</item>
+        <item>Získajte pomoc a podporu pre Xiaomi Konto</item>
+        <item>Xiaomi Konto;Konto;Xiaomi Konto;Pomocník konta;Centrum pomoci</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-stupňové overenie</item>
+        <item>Nastaviť 2-stupňové overenie pre vaše Xiaomi Konto</item>
+        <item>Prihlásiť sa;Prihlásiť sa;2-krokové;overenie;Xiaomi;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Zabezpečenie konta</item>
+        <item>Telefón a e-mail pre obnovenie, správa hesiel</item>
+        <item>Zabezpečenie konta;Prihlasovanie;Záložný telefón;Záložný e-mail;Zabezpečenie konta;Telefónne číslo;E-mail;Zmeniť heslo;Pridať telefónne číslo;Pridať e-mail;Mi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Zariadenia</item>
+        <item>Spravovať zariadenia prepojené s vaším Xiaomi Kontom</item>
+        <item>Spravovať zariadeia;Moje zariadenia;Zariadenia;Zoznam zariadení;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Zásady ochrany osobných údajov</item>
+        <item>Zobraziť Zásady ochrany osobných údajov Xiaomi Konta</item>
+        <item>Xiaomi Konto;Konto;Xiaomi Konto;Zásady ochrany osobných údajov</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-mail na obnovenie</item>
+        <item>Pridať e-mail pre obnovenie</item>
+        <item>Záložný e-mail;E-mail;Pridať e-mail;Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Záložný telefón</item>
+        <item>Pridať záložný telefón</item>
+        <item>Záložný telefón;Pridať telefón; Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklamy</item>
+        <item>Spravovať systémové reklamy</item>
+        <item>Reklamy; Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informácie o konte</item>
+        <item>Zobraziť vašu profilovú fotografiu a spravovať informácie o konte</item>
+        <item>Osobné informácie;profilová fotografia;prezývka;informácie o konte; Xiaomi ID;ID; Xiaomi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Podmienky používania</item>
+        <item>Podmienky používania</item>
+        <item>Xiaomi Konto;Konto; Xiaomi Konto;Podmienky používania;EULA</item>
+    </string-array>
+</resources>

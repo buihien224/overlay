@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sortați după ora primită</item>
+        <item>Sortați după numărul de notificări</item>
+        <item>Aplicații care pot afișa notificări</item>
+        <item>Aplicații care nu pot afișa notificări</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Afișează conținutul notificărilor</item>
+        <item>Nu afișa notificările pe Ecranul blocat</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Afișează conținutul notificărilor</item>
+        <item>Afișează notificările, dar ascunde conținutul</item>
+        <item>Nu afișa notificările pe Ecranul blocat</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

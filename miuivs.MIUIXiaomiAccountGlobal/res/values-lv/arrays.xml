@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Konti</item>
+        <item>Pievienot un pārvaldīt trešās puses kontus</item>
+        <item>Konts;SNS;Facebook;Google;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Konti</item>
+        <item>Pievienot un pārvaldīt trešās puses kontus</item>
+        <item>Konts;SNS;WeChat;QQ;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Mainīt paroli</item>
+        <item>Mainīt Xiaomi Konta paroli</item>
+        <item>Mainīt paroli;Atjaunināt paroli; Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Ģimenes atmiņas vieta</item>
+        <item>Skatīt/ieslēgt Ģimenes atmiņas vietu</item>
+        <item>Ģimenes atmiņas vieta;Atmiņas kopīgošana</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Ģimenes pakalpojumi</item>
+        <item>Skatīt/ieslēgt Ģimenes pakalpojumus</item>
+        <item>Ģimene;Ģimenes pakalpojumi;Ģimenes kopīgošana</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Palīdzība</item>
+        <item>Iegūt Xiaomi Konta palīdzību un atbalstu</item>
+        <item>Mi Konts;Konts;Xiaomi Konts;Konta palīdzība;Palīdzības centrs</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>divsoļu pārbaude</item>
+        <item>Iestatiet divsoļu verifikāciju savam Xiaomi Kontam</item>
+        <item>Pierakstīties;Pieteikties;Divsoļu;verifikācija;Xiaomi;Konts;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Konta drošība</item>
+        <item>Atjaunošanas tālrunis un e-pasts, paroles pārvaldība</item>
+        <item>Konta drošība;Pierakstīšanās;Atjaunošanas tālrunis;Atjaunošanas e-pasts;Konta aizsardzība;Tālruņa numurs;E-pasts;Mainīt paroli;Pievienot tālruņa numuru; Pievienot e-pastu;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Ierīces</item>
+        <item>Pārvaldīt ierīces saistītās ar jūsu Xiaomi Kontu</item>
+        <item>Pārvaldīt ierīces;Manas ierīces;Ierīces;Ierīču saraksts;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Konfidencialitātes politika</item>
+        <item>Skatīt Xiaomi Konta Konfidencialitātes politiku</item>
+        <item>Mi Konts;Konts;Xiaomi Konts;Konfidencialitātes politika</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Atjaunošanas e-pasts</item>
+        <item>Pievienojiet atjaunošanas e-pastu</item>
+        <item>Atjaunošanas e-pasts;E-pasts;Pievienot e-pastu;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Atjaunošanas tālrunis</item>
+        <item>Pievienot atjaunošanas tālrunis</item>
+        <item>Atjaunošanas tālrunis;Pievienot tālruni;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklāmas</item>
+        <item>Pārvaldīt sistēmas reklāmas</item>
+        <item>Reklāmas;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Konta informācija</item>
+        <item>Skatīt savu profila attēlu un pārvaldīt konta informāciju</item>
+        <item>Personiskā informācija;profila attēls;segvārds;konta informācija;Mi ID;ID;Mi Konts;Konts;Xiaomi Konts</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Lietotāja līgums</item>
+        <item>Lietotāja līgums</item>
+        <item>Mi Konts;Konts;Xiaomi Konts;Lietotāja līgums;EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+        <item quantity="one">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">1 saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+        <item quantity="one">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+        <item quantity="one">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">1 dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">İndi</item>
+        <item quantity="one">İndi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">1 dəq əvvəl</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Bu element şəxsi alboma əlavə edilsin?</item>
+        <item quantity="one">Bu element şəxsi alboma əlavə edilsin?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Buluda %d şəkil əlavə edildi, baxmaq üçün \"Yalnız yerli albomları göstər\"i söndürün.</item>
+        <item quantity="one">Buluda %d şəkil əlavə edildi, baxmaq üçün \"Yalnız yerli albomları göstər\"i söndürün.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d element alboma əlavə edilə bilmir. %1$s."</item>
+        <item quantity="one">" %2$d element alboma əlavə edilə bilmir. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d element şəxsi alboma əlavə edilə bilmir. %1$s.</item>
+        <item quantity="one">%2$d element şəxsi alboma əlavə edilə bilmir. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d il</item>
+        <item quantity="one">%d il</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d şəxs ilə paylaşıldı</item>
+        <item quantity="one">%d şəxs ilə paylaşıldı</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d element | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d element)</item>
+        <item quantity="one">(%d element)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albom</item>
+        <item quantity="one">%d albom</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s şəxs bu albomu görə bilər</item>
+        <item quantity="one">%s şəxs bu albomu görə bilər</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%1$s ehtiva edən %2$d albom</item>
+        <item quantity="one">%1$s ehtiva edən %2$d albom</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d element</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d xatirə</item>
+        <item quantity="one">%d xatirə</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%2$s adlı uşaqların %1$d şəkilləri əlavə edildi</item>
+        <item quantity="one">%2$s adlı uşağın %1$d şəkli əlavə edildi</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%2$s adlı körpələrinizin %1$d şəkilləri əlavə ediləcək</item>
+        <item quantity="one">%2$s adlı körpənizin %1$d şəkili əlavə ediləcək</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Yedəkləməyə %d saat ərzində davam et</item>
+        <item quantity="one">Yedəkləməyə %d saat ərzində davam et</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementi yedəkləmək üçün çox böyükdür</item>
+        <item quantity="one">%d elementi yedəkləmək üçün çox böyükdür</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d dəq ərzində davam edəcək</item>
+        <item quantity="one">%d dəq ərzində davam edəcək</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">%d dəqiqə ərzində şəkillər, videolar, kontaktlar, qeydlər və digər elementlər ilə olan sinxronlaşdırmanı durdur.</item>
+        <item quantity="one">%d dəqiqə ərzində şəkillər, videolar, kontaktlar, qeydlər və digər elementlər ilə olan sinxronlaşdırmanı durdur.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d şəkil və ya video | %2$s</item>
+        <item quantity="one">%1$d şəkil və ya video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d şəkil və ya video</item>
+        <item quantity="one">%1$d şəkil və ya video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">%d seçmədiyiniz şəkil silinsin?</item>
+        <item quantity="one">%d seçmədiyiniz şəkil silinsin?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d şəkili sil</item>
+        <item quantity="one">%d şəkili sil</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d seçili şəkili saxla</item>
+        <item quantity="one">%d seçili şəkili saxla</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Cloud yaddaşı yetərli olmadığı üçün %d element sinxronizasiya edilə bilmədi</item>
+        <item quantity="one">Cloud yaddaşı yetərli olmadığı üçün %d element sinxronizasiya edilə bilmədi</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kolajlarda %1$d-%2$d şəkil ola bilər</item>
+        <item quantity="one">Kolajlarda %1$d-%2$d şəkil ola bilər</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d -ə qədər şəkil seçin</item>
+        <item quantity="one">%d -ə qədər şəkil seçin</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d ədəd ardıcıl şəkil Xiaomi Cloud və bütün sinxronlaşdırılmış cihazlardan silinsin?</item>
+        <item quantity="one">%d ədəd ardıcıl şəkil Xiaomi Cloud və bütün sinxronlaşdırılmış cihazlardan silinsin?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d ardıcıl şəkil çəkilişi silinsin?</item>
+        <item quantity="one">%d ardıcıl şəkil çəkilişi silinsin?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d element silindi</item>
+        <item quantity="one">%d element silindi</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d element bütün cihazlardan və Xiaomi Cloud-dan silinsin?</item>
+        <item quantity="one">%d element bütün cihazlardan və Xiaomi Cloud-san silinsin?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d element silinsin?</item>
+        <item quantity="one">%d element silinsin?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d şəkil bütün cihazlardan və Xiaomi Cloud-dan silinsin?</item>
+        <item quantity="one">%d şəkil bütün cihazlardan və Xiaomi Cloud-dan silinsin?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d ədəd ardıcıl şəkil cihazınızdan silinsin?</item>
+        <item quantity="one">%d ədəd ardıcıl şəkil cihazınızdan silinsin?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d video bütün cihazlardan və Xiaomi Cloud-dan silinsin?</item>
+        <item quantity="one">%d video bütün cihazlardan və Xiaomi Cloud-dan silinsin?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d fayl endirilə bilmədi</item>
+        <item quantity="one">%1$d fayl endirilə bilmədi</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d fayl endirilə bilmədi, şəbəkə əlaqənizi yoxlayın və yenidən cəhd edin</item>
+        <item quantity="one">%1$d fayl endirilə bilmədi, şəbəkə əlaqənizi yoxlayın və yenidən cəhd edin</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Cloud-dan elementlər endirilir (%2$d/%1$d)</item>
+        <item quantity="one">Cloud-dan elementlər endirilir (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Ümumi %d şəkil</item>
+        <item quantity="one">Ümumi %d şəkil</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Şəkil işlənilir…</item>
+        <item quantity="one">Şəkil işlənilir…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Göstərilə bilməyən %1$d şəkil buraxıldı.</item>
+        <item quantity="one">Göstərilə bilməyən %1$d şəkil buraxıldı.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fayl</item>
+        <item quantity="one">%1$d fayl</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+        <item quantity="one">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+        <item quantity="one">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+        <item quantity="one">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">İndi</item>
+        <item quantity="one">İndi</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">%d dəqiqə</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">%d saniyə</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d element sinxronlaşdırma üçün gözləyir</item>
+        <item quantity="one">%1$d element sinxronlaşdırma üçün gözləyir</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d şəkil</item>
+        <item quantity="one">%1$d şəkil</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d şəkil sinxronlaşdırma üçün gözləyir</item>
+        <item quantity="one">%1$d şəkil sinxronlaşdırma üçün gözləyir</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d şəkil sinxronlaşdırılır…</item>
+        <item quantity="one">%1$d şəkil sinxronlaşdırılır…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d element sinxronlaşdırılır…</item>
+        <item quantity="one">%1$d element sinxronlaşdırılır…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d video sinxronlaşdırılır…</item>
+        <item quantity="one">%1$d video sinxronlaşdırılır…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video sinxronlaşdırma üçün gözləyir</item>
+        <item quantity="one">%1$d video sinxronlaşdırma üçün gözləyir</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Ümumi %1$d element</item>
+        <item quantity="one">Ümumi %1$d element</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d dərəcə döndürün</item>
+        <item quantity="one">%d dərəcə döndürün</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">%d dəstəklənməyən element filtrləndi</item>
+        <item quantity="one">%d dəstəklənməyən element filtrləndi</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF faylları %d şəkilə qədər ehtiva edə bilər</item>
+        <item quantity="one">PDF faylları %d şəkilə qədər ehtiva edə bilər</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Seçilmiş şəkillər cihazda yoxdur. Şəkillər mobil internet istifadə edilərək endirilsin?</item>
+        <item quantity="one">Seçilmiş şəkil cihazda yoxdur. Şəkil mobil internet istifadə edilərək endirilsin?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Seçilmiş şəkillər cihazda yoxdur. Şəkillər endiriləcək.</item>
+        <item quantity="one">Seçilmiş şəkil cihazda yoxdur. Şəkil endiriləcək.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Seçilmiş şəkil (%d MB) cihazda deyil. Mobil trafikdən istifadə edərək endirilsin?</item>
+        <item quantity="one">Seçilmiş şəkil (%d MB) cihazda deyil. Mobil trafikdən istifadə edərək endirilsin?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d fayl hələ endirilmədi. Ləğv edilsin?</item>
+        <item quantity="one">%d fayl hələ endirilmədi. Ləğv edilsin?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">%d qalan fayl endirilir</item>
+        <item quantity="one">%d qalan fayl endirilir</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d şəkil endirilə bilmədi, şəbəkəyə qoşulun və yenidən cəhd edin</item>
+        <item quantity="one">%1$d şəkil endirilə bilmədi, şəbəkəyə qoşulun və yenidən cəhd edin</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d fayl (%2$d MB) endirilə bilmədi. Şəbəkəyə qoşulun və yenidən cəhd edin.</item>
+        <item quantity="one">%1$d fayl (%2$d MB) endirilə bilmədi. Şəbəkəyə qoşulun və yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d fayl (%2$d MB) hələ endirilmədi. Mobil trafik istifadə edilərək endirilsin?</item>
+        <item quantity="one">%1$d fayl (%2$d MB) hələ endirilmədi. Mobil trafik istifadə edilərək endirilsin?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d şəkil endirilə bilmədi, yenidən cəhd edilsin?</item>
+        <item quantity="one">%1$d şəkil endirilə bilmədi, yenidən cəhd edilsin?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d şəkil (%2$d MB) endirilə bilmədi, yenidən cəhd edilsin?</item>
+        <item quantity="one">%1$d şəkil (%2$d MB) endirilə bilmədi, yenidən cəhd edilsin?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Cihazda olmayan %d şəkil buraxıldı.</item>
+        <item quantity="one">Cihazda olmayan bir %d şəkil buraxıldı.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Yeni %1$d şəkil tapıldı</item>
+        <item quantity="one">Yeni %1$d şəkil tapıldı</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Ümumi %d şəkil</item>
+        <item quantity="one">Ümumi %d şəkil</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d element şəxsi albomdan silinə bilmir. %1$s.</item>
+        <item quantity="one">%2$d element şəxsi albomdan silinə bilmir. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\" yerinə %1$d şəkil əlavə edildi və məlumat bazasına əlavə edildi.</item>
+        <item quantity="one">\"%2$s\" yerinə %1$d şəkil əlavə edildi və məlumat bazasına əlavə edildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\" yerindən %1$d şəkil silindi və məlumat bazasına əlavə edildi.</item>
+        <item quantity="one">\"%2$s\" yerindən %1$d şəkil silindi və məlumat bazasına əlavə edildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\" yerinə %1$d şəkil əlavə edildi.</item>
+        <item quantity="one">\"%2$s\" yerinə %1$d şəkil əlavə edildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\" yerindən %1$d şəkil silindi.</item>
+        <item quantity="one">\"%2$s\" yerindən %1$d şəkil silindi.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d quraşdırma paketi (%3$s)</item>
+        <item quantity="one">%1$s-dən gələn %2$d quraşdırma paketi (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d quraşdırma paketi (%3$s) qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d quraşdırma paketi (%3$s) qəbul edildi</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d quraşdırma paketi (%3$s) qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d quraşdırma paketi (%3$s) qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d səs faylı (%3$s)</item>
+        <item quantity="one">%1$s-dən gələn %2$d səs faylı (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d səs faylı (%3$s) qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d səs faylı (%3$s) qəbul edildi</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d səs faylı (%3$s) qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d səs faylı (%3$s) qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d %3$s file (%4$s) fayl</item>
+        <item quantity="one">%1$s-dən gələn %2$d %3$s file (%4$s) fayl</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s-dən gələn %2$d %3$s file (%4$s) fayl qəbul edildi</item>
+        <item quantity="one">%1$s-dən gələn %2$d %3$s file (%4$s) fayl qəbul edildi</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən gələn %2$d %3$s file (%4$s) fayl qəbul edilir…</item>
+        <item quantity="one">%1$s-dən gələn %2$d %3$s file (%4$s) fayl qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d şəkil</item>
+        <item quantity="one">%1$s-dən gələn %2$d şəkil</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d şəkil qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d şəkil qəbul edildi</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d şəkil qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d şəkil qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d şəkil və video</item>
+        <item quantity="one">%1$s-dən gələn %2$d şəkil və video</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d şəkil və video qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d şəkil və ya video qəbul edildi</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d şəkil və video qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d şəkil və ya video qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d fayl</item>
+        <item quantity="one">%1$s-dən gələn %2$d fayl</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d fayl qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d fayl qəbul edildi</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d fayl qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d fayl qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Paylaşıla bilmədi.%d şəkil hələdə emal edilir…</item>
+        <item quantity="one">Paylaşıla bilmədi.%d şəkil hələdə işlənilir…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d video</item>
+        <item quantity="one">%1$s-dən gələn %2$d video</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d video qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d video qəbul edildi</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d video qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d video qəbul edilir…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s-dən gələn %2$d arxiv (%3$s)</item>
+        <item quantity="one">%1$s-dən gələn %2$d arxiv (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s-dən %2$d arxiv (%3$s) qəbul edildi</item>
+        <item quantity="one">%1$s-dən %2$d arxiv (%3$s) qəbul edildi</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s-dən %2$d arxiv (%3$s) qəbul edilir…</item>
+        <item quantity="one">%1$s-dən %2$d arxiv (%3$s) qəbul edilir…</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d saniyə</item>
+        <item quantity="one">%1$d saniyə</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d şəkil optimallaşdırıldı</item>
+        <item quantity="one">%d şəkil optimallaşdırıldı</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d şəkil optimallaşdırıldı</item>
+        <item quantity="one">%d şəkil optimallaşdırıldı</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Video %d optimallaşdırıldı</item>
+        <item quantity="one">Video %d optimallaşdırıldı</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d şəkil optimallaşdırılmadı. İndi dayandırılsın?</item>
+        <item quantity="one">%d şəkil optimallaşdırılmadı. İndi dayandırılsın?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d şəkil qaldı</item>
+        <item quantity="one">%d şəkil qaldı</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d optimallaşdırmaq üçün element qalıb</item>
+        <item quantity="one">%d optimallaşdırmaq üçün element qalıb</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d şəkil və video yedəklənmədi</item>
+        <item quantity="one">%d şəkil və video yedəklənmədi</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementi yedəkləmək üçün çox böyükdür</item>
+        <item quantity="one">%d elementi yedəkləmək üçün çox böyükdür</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d element</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Şəkil %d sinxronlaşdırıldı</item>
+        <item quantity="one">Şəkil %d sinxronlaşdırıldı</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Video %d sinxronlaşdırıldı</item>
+        <item quantity="one">Video %d sinxronlaşdırıldı</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Mobil trafikdən istifadə edərək %d element sinxronlaşdırılır</item>
+        <item quantity="one">Mobil trafikdən istifadə edərək %d element sinxronlaşdırılır</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Element %d sinxronlaşdırılır</item>
+        <item quantity="one">Element %d sinxronlaşdırılır</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s element</item>
+        <item quantity="one">%1$s, %2$s element</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d seçilmiş element cloud-dan və bütün sinxronizasiya edilmiş cihazlardan həmişəlik silinəcəkdir. Hər halda silinsin?</item>
+        <item quantity="one">%d seçilmiş element cloud-dan və bütün sinxronizasiya edilmiş cihazlardan həmişəlik silinəcəkdir. Hər halda silinsin?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+        <item quantity="one">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d seçilmiş element həmişəlik silinəcək. Hər halda silinsin?</item>
+        <item quantity="one">%d seçilmiş element həmişəlik silinəcək. Hər halda silinsin?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+        <item quantity="one">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+        <item quantity="one">Seçili elementi %d silsəniz, bərpa edə bilməyəcəksiniz. Hər halda silinsin?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Elementlər burada %1$d gün saxlanıla bilər (%2$s)</item>
+        <item quantity="one">Elementlər burada %1$d gün saxlanıla bilər (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Məhsullar burada %1$d gün ərzində saxlanıla bilər. Bu müddəti uzatmaq üçün planınızı yüksəldin.</item>
+        <item quantity="one">Məhsullar burada %1$d gün ərzində saxlanıla bilər. Bu müddəti uzatmaq üçün planınızı yüksəldin.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fayl</item>
+        <item quantity="one">%1$d fayl</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+</resources>

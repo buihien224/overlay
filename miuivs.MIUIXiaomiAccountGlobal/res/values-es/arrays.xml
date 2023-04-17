@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Cuentas</item>
+        <item>Añadir y administrar cuentas de terceros</item>
+        <item>Cuentas;SNS;Facebook;Google;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Cuentas</item>
+        <item>Añadir y administrar cuentas de terceros</item>
+        <item>Cuentas;SNS;WeChat;QQ;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Cambiar contraseña</item>
+        <item>Cambiar contraseña de Cuenta Xiaomi</item>
+        <item>Cambiar contraseña;Actualizar contraseña;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Espacio de almacenamiento familiar</item>
+        <item>Ver/activar el espacio de almacenamiento familiar</item>
+        <item>Espacio de almacenamiento familiar; Compartir almacenamiento</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Servicios familiares</item>
+        <item>Ver/activar los servicios familiares</item>
+        <item>Familia;Servicios familiares;Compartir en familia</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ayuda</item>
+        <item>Obtén ayuda y soporte de Cuenta Xiaomi</item>
+        <item>Cuenta Mi;Cuenta;Cuenta Xiaomi;Ayuda de cuenta;Centro de ayuda</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificación en 2 pasos</item>
+        <item>Configura la verificación en 2 pasos para tu Cuenta Xiaomi</item>
+        <item>Iniciar sesión;Iniciar sesión;2 pasos;verificación;Xiaomi;Cuenta;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Seguridad de la cuenta</item>
+        <item>Teléfono y correo electrónico de recuperación, gestión de contraseñas</item>
+        <item>Seguridad de la cuenta;Iniciar sesión;Teléfono de recuperación;Correo electrónico de recuperación;Protección de la cuenta;Número de teléfono;Correo electrónico;Cambiar contraseña;AÑADIR número de teléfono;Añadir correo electrónico;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispositivos</item>
+        <item>Administra los dispositivos asociados con tu Cuenta Xiaomi</item>
+        <item>Gestionar dispositivos;Mis dispositivos;Dispositivos;Lista de dispositivos;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Política de Privacidad</item>
+        <item>Ver la Política de Privacidad de la Cuenta Xiaomi</item>
+        <item>Cuenta Mi;Cuenta;Cuenta Xiaomi;Política de Privacidad</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Correo electrónico de recuperación</item>
+        <item>Añadir correo electrónico de recuperación</item>
+        <item>Correo electrónico de recuperación; Correo electrónico;Añadir correo electrónico;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Teléfono de recuperación</item>
+        <item>Añadir teléfono de recuperación</item>
+        <item>Teléfono de recuperación; Añadir teléfono;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anuncios</item>
+        <item>Administrar anuncios del sistema</item>
+        <item>Anuncios;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Información de cuenta</item>
+        <item>Ver tu foto de perfil y administrar la información de la cuenta</item>
+        <item>Información personal;foto de perfil;nombre de usuario;información de cuenta;Mi ID;ID;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Acuerdo de Usuario</item>
+        <item>Acuerdo de Usuario</item>
+        <item>Cuenta Mi;Cuenta;Cuenta Xiaomi;Acuerdo de Usuario;EULA</item>
+    </string-array>
+</resources>

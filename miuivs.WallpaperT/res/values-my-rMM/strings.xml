@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">နေ့လယ်</string>
+    <string name="am">နံနက်</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">နံနက်</string>
+    <string name="earth_position_content_0">ခရိုအေးရှားရှိ Cape Kamenjak သဘာဝပန်းခြံသည် မြေထဲပင်လယ်ကမ်းခြေတစ်လျှောက်ရှိ မှင်သက်မိဖွယ် မြင်ကွင်းအများစုကို ပိုင်ဆိုင်ထားသော နေရာဖြစ်သည်ဆိုခြင်းအတွက် ငြင်းချက်ထုတ်စရာ မလိုပါ။ အလွန်အံ့ဖွယ်ကောင်းသော ရေမြေဖွဲ့စည်းပုံများသည် ဤနေရာအား ရေငုပ်သမားများ၏ သုခဘုံတစ်ခုအဖြစ် ဖန်တီးပေးပါသည်။ နွေရာသီရောက်ချိန်တိုင်းတွင် တောက်ပသော နေရောင်ခြည်နှင့် နွေးထွေးသော မြေထဲပင်လယ်ရေတို့သည် ပြင်ပအလှအပများကို ရှုစားလိုသူများစွာအား စွဲဆောင်နေပါသည်။</string>
+    <string name="earth_position_content_1">"လှေကားထစ် ကွင်းပြင်များမှာ လူသားတို့၏ ကြိုးပမ်းလုပ်ဆောင်မှု၏ ရလဒ်တစ်ခုဖြစ်သော်လည်း အလွန်လှသော သဘာဝပသာဒတစ်ခုအဖြစ် တည်ရှိနေပါသည်။
+တရုတ်နိုင်ငံအတွင်းတွင် ဆန်စပါးလှေကားထစ်စိုက်ခင်းများအား မိုးပုံမှန်ရွာသွန်းလေ့ရှိပြီး တောင်တန်းများ ပေါများလှသည့် ရန်ဇီမြစ်တောင်ဘက်ပိုင်းတွင် အတွေ့ရများပါသည်။ Longji လှေကားထစ်စိုက်ခင်းများမှာ လွန်ခဲ့သောနှစ်ပေါင်း ၇၀၀ ကျော်ကတည်းက စတင်တည်ရှိခဲ့ခြင်းဖြစ်ပြီး အနီးအနားရှိရွာများတွင် သမိုင်းဝင်အထိန်းအမှတ် အနည်းငယ်လည်း ရှိနေပါသည်။"</string>
+    <string name="earth_position_content_2">lulissat သည် အာတိတ်စက်ဝန်း၏ မြောက်ဘက် ကီလိုမီတာ ၂၀၀ အကွာတွင်ရှိသော ဂရင်းလန်းအနောက်ပိုင်းဒေသတွင် တည်ရှိပါသည်။ ၅၆ ကီလိုမီတာရှည်လျားသည့် အလွန်လှပသော Ilulissat Icefjord သည် Jakobshavn Isbræ ရေခဲမြစ်၏ ဘေးဘက်ကပ်လျက်တွင် တည်ရှိနေပါသည်။ ကမ္ဘာ့မြောက်ဘက်ခြမ်းဒေသရှိ အရှည်လျားဆုံး ရေခဲမြစ်ဖြစ်သည့် ၎င်းသည် တန်ချိန် ၂ ဘီလီယံရှိသော ရေခဲစိုင်ကြီးများကို နှစ်စဉ်ထုတ်လုပ်ပေးလျက်ရှိပါသည်။ မြောက်ဘက်သို့ အနည်းငယ် ကွေ့ပတ်သွားပြီးနောက်တွင် တောင်ဘက်သို့ ပြန်လည်ဦးတည်းသွားပြီး အတ္တလန်တိတ်သမုဒ္ဒရာအတွင်းသို့ စီးဆင်းသွားပါသည်။</string>
+    <string name="earth_position_content_3">နာဗာဂီယိုကမ်းခြေသည် ဂရိနိုင်ငံ၏ အိုင်ယွန်နီယံကျွန်းစု၊ ဇာကင်သော့ကမ်းရိုးတမ်းပေါ်ရှိ အလှပဆုံးကမ်းခြေတစ်ခု ဖြစ်သည်။ ၎င်းအား နာမည်ကျော် သင်္ဘောသင်္ချိုင်းတစ်ခု တည်ရှိရာနေရာအဖြစ် ပြောစမတ်ပြုကြပြီး ဤအကြောင်းကြောင့်ပင် \"မှောင်ခိုသမားတို့၏ ပင်လယ်ကွေ့\" ဟုလည်း ခေါ်ဆိုကြသည်။</string>
+    <string name="earth_position_content_4">ဒိုလိုမိုက်သည် အီတလီနိုင်ငံ အရှေ့မြောက်ပိုင်းတွင် တည်ရှိသော တောင်တန်းတစ်ခုဖြစ်သည်။ စက်ဆီဒါတောင်သည် ထိုနေရာရှိ ရှုခင်းအလှဆုံးသော နေရာများအနက်မှ တစ်ခုဖြစ်သည်။</string>
+    <string name="earth_position_title_0">"ခရိုအေးရှား
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"ကွမ်ရှီး၊ တရုတ်
+Longji လှေကားထစ် ကွင်းပြင်များ"</string>
+    <string name="earth_position_title_2">"ဂရင်းလန်း
+lulissat"</string>
+    <string name="earth_position_title_3">"ဂရိ
+နာဗာဂီယို ကမ်းခြေ"</string>
+    <string name="earth_position_title_4">"အီတလီ
+ဒိုလိုမိုက်"</string>
+    <string name="earth_summary">ကမ္ဘာဂြိုလ်သည် လူ့ယဉ်ကျေးမှု တိုးတက်မှုဖြစ်စဉ်၏ မူလဘူတ ဖြစ်ပါသည်</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">ပင်မစာမျက်နှာ</string>
+    <string name="empty" />
+    <string name="eras_ad">ခရစ်တော်ပေါ်ပြီး</string>
+    <string name="eras_bc">ခရစ်တော်မပေါ်မီ</string>
+    <string name="evening">နေ့လယ်</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">yyyy, MMM d</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'မီလီစက္ကန့်'"</string>
+    <string name="fmt_time_minute">"m'မိနစ်'"</string>
+    <string name="fmt_time_minute_second">"m'မိနစ်' s'စက္ကန့်'"</string>
+    <string name="fmt_time_minute_second_millis">"m'မိနစ်' s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_second">"s'စက္ကန့်'"</string>
+    <string name="fmt_time_second_millis">"s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">သောကြာ</string>
+    <string name="friday_short">သောကြာ</string>
+    <string name="friday_shortest">သောကြာ</string>
+    <string name="geometry_summary">ပုံသဏ္ဍာန်များ၊ အလင်းနှင့် အရောင်များ</string>
+    <string name="geometry_super_wallpaper_label">ဂျီသြမေတြီ</string>
+    <string name="geometry_title">ဂျီသြမေတြီ</string>
+    <string name="mars_position_content_0">"ဤဒေသတွင် အကျိုးအပဲ့အစအနများဖြင့် ဖုံးလွှမ်းထားသော ရေခဲမြစ်များကြောင့် ဖြစ်ပေါ်ရသည်ဟု ယုံကြည်ခြင်းခံထားရသည့် ကျောက်ထရံများ၊ ကုန်းကလပ်များနှင့် ကျယ်ပြန့်ညီညာသော မြစ်ဝှမ်းလွင်ပြင်ဒေသများ ပါဝင်နေပါသည်။ ရှေးခေတ် အင်္ဂါဂြိုလ်ပေါ်မှ သက်ရှိများ၏ အထောက်အထားများအတွက် ရှာဖွေမှုအပိုင်းတွင် အလွန်စိတ်ဝင်စားဖွယ်ကောင်းသော ရွှံ့စေးရောသတ္တုများကိုလည်း ဤနေရာတွင် တွေ့ရှိထားပါသည်။
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Gale Crater ရှိ Pahrump တောင်ကုန်းများကို Mars rover Curiosity က ရှာဖွေသောအချိန်တွင် ရိုက်ကူးထားခြင်း ဖြစ်ပါသည်။ ဤဒေသတွင် အနည်ကျကျောက်များ ပါဝင်နေပြီး ယင်းတို့သည် ရေရှိနေစဉ် အချိန်အတွင်း ဖွဲ့စည်းဖြစ်ပေါ်လာပြီး မဲနက်သောနေရာများမှာ သဲများဖြစ်သည်ဟု သိပ္ပံပညာရှင်များက ယုံကြည်ထားပါသည်။
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis သည် အရောင်နုသော ရွှံ့စေးကျောက်များပါဝင်သည့် ရှေးခေတ် ရေစီးလမ်းကြောင်းတစ်ခု ဖြစ်ပါသည်။ ရွှံ့စေးကျောက်များသည် ကမ္ဘာပေါ်ရှိ အနုဇီဝ သက်ရှိများကို လွယ်ကူစွာ ထိန်းသိမ်းပေးထားသောကြောင့် Mawrth ပေါ်တွင် ရှေးခေတ်ဘဝများ၏ သဲလွန်စများကို ရှာဖွေတွေ့ရှိနိုင်ပါသည်။
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"ဤဓာတ်ပုံများကို အင်္ဂါဂြိုလ်လေ့လာရေးအဖွဲ့က Pahrump တောင်တန်းနှင့် Gale မီးတောင်ဝတို့ကို စူးစမ်းစဉ်က ရိုက်ထားခြင်းဖြစ်သည်။ ဤဒေသတွင် သိပ္ပံပညာရှင်များက ရေရှိမှဖြစ်နိုင်သည်ဟု ယုံကြည်သော အနည်ကျကျောက်များရှိသည်။ ပိုမှောင်သောနေရာများက သဲများဖြစ်သည်။
+
+NASA/JPL/အရီဇိုးနားတက္ကသိုလ်"</string>
+    <string name="mars_position_content_4">"Bahram တောင်ကြားသည် တစ်ကြောင်းတည်းသွားသော မြစ်ဝှမ်းတောင်ကြားဖြစ်ပြီး အချို့နေရာများတွင် လှိုင်းထနေသော နံရံများရှိသည်။ ၎င်း၏ ကြမ်းပြင်တွင် တိုက်စားထားသော လက္ခဏာများရှိနေခြင်းကို ကြည့်ခြင်းဖြင့် ၎င်းဖြစ်ပေါ်ရာတွင် အရည်ပါဝင်ကြောင်း ပြသနေပါသည်။
+
+အရီဇိုးနားတက္ကသိုလ်"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae ဒေသ"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump တောင်တန်း</string>
+    <string name="mars_position_title_4">Bahram တောင်ကြား</string>
+    <string name="mars_summary">အင်္ဂါဂြိုလျ၏ ကျယ်ပြန့်လွန်းသော သဲကန္တာရသည် လူသားတို့ကို အံ့သြစေပါသည်</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">အနီရောင်ဂြိုလ်</string>
+    <string name="midnight">ည</string>
+    <string name="monday">တနင်္လာ</string>
+    <string name="monday_short">တနင်္လာ</string>
+    <string name="monday_shortest">တနင်္လာ</string>
+    <string name="month_april">ဧပြီ</string>
+    <string name="month_april_short">ဧပြီ</string>
+    <string name="month_april_shortest">ဧပြီ</string>
+    <string name="month_august">သြဂုတ်</string>
+    <string name="month_august_short">သြဂုတ်</string>
+    <string name="month_august_shortest">သြဂုတ်</string>
+    <string name="month_december">ဒီဇင်ဘာ</string>
+    <string name="month_december_short">ဒီဇင်ဘာ</string>
+    <string name="month_december_shortest">ဒီဇင်ဘာ</string>
+    <string name="month_february">ဖေဖော်ဝါရီ</string>
+    <string name="month_february_short">ဖေဖော်ဝါရီ</string>
+    <string name="month_february_shortest">ဖေဖော်ဝါရီ</string>
+    <string name="month_january">ဇန်နဝါရီ</string>
+    <string name="month_january_short">ဇန်နဝါရီ</string>
+    <string name="month_january_shortest">ဇန်နဝါရီ</string>
+    <string name="month_july">ဇူလိုင်</string>
+    <string name="month_july_short">ဇူလိုင်</string>
+    <string name="month_july_shortest">ဇူလိုင်</string>
+    <string name="month_june">ဇွန်</string>
+    <string name="month_june_short">ဇွန်</string>
+    <string name="month_june_shortest">ဇွန်</string>
+    <string name="month_march">မတ်</string>
+    <string name="month_march_short">မတ်</string>
+    <string name="month_march_shortest">မတ်</string>
+    <string name="month_may">မေ</string>
+    <string name="month_may_short">မေ</string>
+    <string name="month_may_shortest">မေ</string>
+    <string name="month_november">နိုဝင်ဘာ</string>
+    <string name="month_november_short">နိုဝင်ဘာ</string>
+    <string name="month_november_shortest">နိုဝင်ဘာ</string>
+    <string name="month_october">အောက်တိုဘာ</string>
+    <string name="month_october_short">အောက်တိုဘာ</string>
+    <string name="month_october_shortest">အောက်တိုဘာ</string>
+    <string name="month_september">စက်တင်ဘာ</string>
+    <string name="month_september_short">စက်တင်ဘာ</string>
+    <string name="month_september_shortest">စက်တင်ဘာ</string>
+    <string name="morning">နံနက်</string>
+    <string name="night">ညနေ</string>
+    <string name="noon">မွန်းတည့်</string>
+    <string name="pm">ညနေ</string>
+    <string name="saturday">စနေ</string>
+    <string name="saturday_short">စနေ</string>
+    <string name="saturday_shortest">စနေ</string>
+    <string name="saturn_summary">စနေဂြိုလ်၏ ကွင်းများသည် နေစကြာဝဠာအတွင်းရှိ အံ့ဖွယ်အကောင်းဆုံးသော ရှုခင်းတစ်ခု ဖြစ်ပါသည်</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">ဝေးလံသောနေရာများမှ စွဲဆောင်မှုများ</string>
+    <string name="snowmountain_summary">Siguniang တောင်ကြီး၏ နေခြည်ဖြာသော တောင်စောင်းများ</string>
+    <string name="snowmountain_super_wallpaper_label">နှင်းဖုံးတောင်ထိပ်များ</string>
+    <string name="snowmountain_title">နှင်းဖုံးတောင်ထိပ်များ</string>
+    <string name="sunday">တနင်္ဂနွေ</string>
+    <string name="sunday_short">တနင်္ဂနွေ</string>
+    <string name="sunday_shortest">တနင်္ဂနွေ</string>
+    <string name="super_wallpaper_list_label">စူပါ နောက်ခံပုံများ</string>
+    <string name="thursday">ကြာသပတေး</string>
+    <string name="thursday_short">ကြာသပတေး</string>
+    <string name="thursday_shortest">ကြာသပတေး</string>
+    <string name="time_picker_label_hour">နာရီ</string>
+    <string name="time_picker_label_minute">မိနစ်</string>
+    <string name="tomorrow">မနက်ဖြန်</string>
+    <string name="tuesday">အင်္ဂါ</string>
+    <string name="tuesday_short">အင်္ဂါ</string>
+    <string name="tuesday_shortest">အင်္ဂါ</string>
+    <string name="wednesday">ဗုဒ္ဓဟူး</string>
+    <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
+    <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
+    <string name="yesterday">မနေ့က</string>
+</resources>

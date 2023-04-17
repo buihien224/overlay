@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>បទពិសោធជារួម</item>
+        <item>រយៈពេលផ្ទេរ</item>
+        <item>ភាពសាមញ្ញនៃដំណើរការ</item>
+        <item>ភាពច្បាស់លាស់នៃការណែនាំ</item>
+        <item>លក្ខណៈពិសេសនេះមានប្រយោជន៍</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>​មិន​ពេញចិត្តខ្លាំង</item>
+        <item>មិនពេញចិត្តខ្លះ</item>
+        <item>អព្យាក្រឹត</item>
+        <item>ពេញចិត្តខ្លះ</item>
+        <item>ពេញចិត្តខ្លាំង</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>ចំណាត់ថ្នាក់រួម</item>
+        <item>រយៈពេលក្នុងការផ្ទេរ</item>
+        <item>ភាពសាមញ្ញនៃដំណើរការ</item>
+        <item>ភាពច្បាស់លាស់នៃការណែនាំ</item>
+    </string-array>
+</resources>

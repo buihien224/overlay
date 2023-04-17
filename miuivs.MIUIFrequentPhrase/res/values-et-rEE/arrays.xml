@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Arve päis: *** Inc.</item>
+        <item>Aadress: tänav, korter, linn, riik/piirkond, provints, postiindeks</item>
+        <item>Palun jätke pakk ukse taha. Aitäh!</item>
+        <item>Oodake üks hetk, tulen kohe tagasi.</item>
+        <item>Olen koosolekul. Palun saatke tekstisõnum.</item>
+        <item>Ei saa praegu rääkida. Helistan teile nii kiiresti kui võimalik.</item>
+        <item>Tänan!</item>
+    </string-array>
+</resources>

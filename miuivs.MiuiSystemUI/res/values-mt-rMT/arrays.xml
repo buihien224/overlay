@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>Dejjem uri l-persentaġġ</item>
+        <item>Uri l-persentaġġ meta qed jiċċarġja (komuni)</item>
+        <item>Turix din l-ikona</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Uri sigħat, minuti u sekondi</item>
+        <item>Uri sigħat u minuti (komuni)</item>
+        <item>Turix din l-ikona</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Dal-kontenut huwa suġġerit.</item>
+        <item>Dan riklam.</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Memorja</item>
+        <item>Keycode</item>
+        <item>Konferma tat-tidwir, għodda biex tibdel it-tastiera</item>
+        <item>L-ebda</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Żgħir</item>
+        <item>Ixxaqleb lejn ix-xellug</item>
+        <item>Ixxaqleb lejn il-lemin</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mexxi lejn ix-xellug</item>
+        <item>"Mexxi 'l isfel"</item>
+        <item>Mexxi lejn il-lemin</item>
+        <item>"Mexxi 'il fuq"</item>
+    </string-array>
+</resources>

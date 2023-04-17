@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_classify1">
+        <item>Прилагоди</item>
+        <item>MIUI Штедач на батерија</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Активни апликации</item>
+        <item>Неактивни апликации</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Успивај апликации</item>
+        <item>Заштедете енергија</item>
+    </string-array>
+</resources>

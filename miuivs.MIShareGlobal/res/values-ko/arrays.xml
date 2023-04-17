@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>이미지, 앱, 기타 파일 접근 및 저장에 사용</item>
+        <item>블루투스 및 Wi-Fi를 사용하는 파일 전송에 사용</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>파일 전송 및 수신을 위해</item>
+        <item>블루투스 및 Wi-Fi를 사용하는 파일 전송을 위해</item>
+        <item>블루투스를 사용하여 근처의 사용 가능한 기기를 찾기 위해</item>
+        <item>Wi-Fi를 사용하여 근처의 사용 가능한 기기를 찾고 파일을 전송하기 위해</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Puudub</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Veevalaja</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Jäär</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliiga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Vähk</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Kaljukits</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ainult see sündmus</item>
+        <item>Kõik sündmused selles seerias</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Edasi</item>
+        <item>Tagasi</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Sündmuse ajal</item>
+        <item>5 minutit enne</item>
+        <item>15 minutit enne</item>
+        <item>30 minutit enne</item>
+        <item>1 tund enne</item>
+        <item>4 tundi enne</item>
+        <item>1 päev enne</item>
+        <item>2 päeva enne</item>
+        <item>1 nädal enne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Ainult see sündmus</item>
+        <item>See ja tulevased sündmused</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Kaksikud</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Lõvi</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Kaalud</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>1 liiga</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+        <item>Teisipäev</item>
+        <item>Kolmapäev</item>
+        <item>Neljapäev</item>
+        <item>Reede</item>
+        <item>Laupäev</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Kalad</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Alati</item>
+        <item>Ainult, kui heli on vaigistatud</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Vaikimisi regioon</item>
+        <item>Laupäev</item>
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1º</item>
+        <item>2º</item>
+        <item>3º</item>
+        <item>4º</item>
+        <item>5º</item>
+        <item>6º</item>
+        <item>7º</item>
+        <item>8º</item>
+        <item>9º</item>
+        <item>10º</item>
+        <item>11º</item>
+        <item>12º</item>
+        <item>13º</item>
+        <item>14º</item>
+        <item>15º</item>
+        <item>16º</item>
+        <item>17º</item>
+        <item>18º</item>
+        <item>19º</item>
+        <item>20º</item>
+        <item>21º</item>
+        <item>22º</item>
+        <item>23º</item>
+        <item>24º</item>
+        <item>25º</item>
+        <item>26º</item>
+        <item>27º</item>
+        <item>28º</item>
+        <item>29º</item>
+        <item>30º</item>
+        <item>31º</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Mitte kunagi</item>
+        <item>Aeg</item>
+        <item>Loenda</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jaan</item>
+        <item>Veebr</item>
+        <item>Mär</item>
+        <item>Apr</item>
+        <item>mai</item>
+        <item>juuni</item>
+        <item>Juuli</item>
+        <item>Aug</item>
+        <item>Sept</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dets</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>esimene</item>
+        <item>teine</item>
+        <item>kolmas</item>
+        <item>neljas</item>
+        <item>viimane</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>E - R</item>
+        <item>Nädalavahetus</item>
+        <item>Terve nädal</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>E</item>
+        <item>T</item>
+        <item>K</item>
+        <item>N</item>
+        <item>R</item>
+        <item>L</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Mitte kunagi</item>
+        <item>Igakuine</item>
+        <item>Iga-aastane</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>päev</item>
+        <item>nädal</item>
+        <item>kuu</item>
+        <item>aasta</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>esimene esmaspäev</item>
+        <item>esimene teisipäev</item>
+        <item>esimene kolmapäev</item>
+        <item>esimene neljapäev</item>
+        <item>esimene reede</item>
+        <item>esimene laupäev</item>
+        <item>esimene pühapäev</item>
+        <item>teine esmaspäev</item>
+        <item>teine teisipäev</item>
+        <item>teine kolmapäev</item>
+        <item>teine neljapäev</item>
+        <item>teine reede</item>
+        <item>teine laupäev</item>
+        <item>teine pühapäev</item>
+        <item>kolmas esmaspäev</item>
+        <item>kolmas teisipäev</item>
+        <item>kolmas kolmapäev</item>
+        <item>kolmas neljapäev</item>
+        <item>kolmas Reede</item>
+        <item>kolmas laupäev</item>
+        <item>kolmas pühapäev</item>
+        <item>neljas esmaspäev</item>
+        <item>neljas teisipäev</item>
+        <item>neljas kolmapäev</item>
+        <item>neljas neljapäev</item>
+        <item>neljas reede</item>
+        <item>neljas laupäev</item>
+        <item>neljas pühapäev</item>
+        <item>viimane esmaspäev</item>
+        <item>viimane teisipäev</item>
+        <item>viimane kolmapäev</item>
+        <item>viimane neljapäev</item>
+        <item>viimane reede</item>
+        <item>viimane laupäev</item>
+        <item>viimane pühapäev</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Vastus puudub</item>
+        <item>Jah</item>
+        <item>Võib olla</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Ambur</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Skorpion</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>A-seeria</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Sõnn</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshalli saared</item>
+        <item>Midway saar</item>
+        <item>Havai</item>
+        <item>Alaska</item>
+        <item>Vaikse ookeani aeg</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Kaljumäestiku aeg</item>
+        <item>Kesk-Ameerika</item>
+        <item>Kesk-Ameerika aeg</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Ida-Ameerika aeg</item>
+        <item>Venetsueela</item>
+        <item>Atlandi aeg (Barbados)</item>
+        <item>Atlandi aeg (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Gröönimaa</item>
+        <item>Montevideo</item>
+        <item>Kesk-Atlandi</item>
+        <item>Asoorid</item>
+        <item>Cape Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berliin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Lääne-Aafrika aeg</item>
+        <item>Amman, Jordan</item>
+        <item>Ateena, Istanbul</item>
+        <item>Beirut, Liibanon</item>
+        <item>Kairo</item>
+        <item>Helsingi</item>
+        <item>Jeruusalemm</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuveit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Bakuu</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Ural’sk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolgata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hong Kong</item>
+        <item>Macao</item>
+        <item>Singapur</item>
+        <item>Irkutski</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadani</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 tundi enne</item>
+        <item>4 tundi enne</item>
+        <item>5 tundi enne</item>
+        <item>6 tundi enne</item>
+        <item>1 päev enne</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Neitsi</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Pilvitu</item>
+        <item>Pilvine</item>
+        <item>Lauspilves</item>
+        <item>Udu</item>
+        <item>Tugev torm</item>
+        <item>Torm</item>
+        <item>Kerge torm</item>
+        <item>Äikesetorm</item>
+        <item>Hoovihm</item>
+        <item>Tugev vihm</item>
+        <item>Vihm</item>
+        <item>Kerge vihm</item>
+        <item>Vihm ja lumi</item>
+        <item>Lumetorm</item>
+        <item>Lumesadu</item>
+        <item>Rohke lumi</item>
+        <item>Lumi</item>
+        <item>Kerge lumesadu</item>
+        <item>Tugev liivatorm</item>
+        <item>Liivatorm</item>
+        <item>Tolm</item>
+        <item>Kerge liivatorm</item>
+        <item>Rahe</item>
+        <item>Tolmupilved</item>
+        <item>Uduvine</item>
+        <item>Jäine vihm</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>P</item>
+        <item>E</item>
+        <item>T</item>
+        <item>K</item>
+        <item>N</item>
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Läbipaistev</item>
+        <item>Valge tagapõhi</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>P</item>
+        <item>E</item>
+        <item>T</item>
+        <item>K</item>
+        <item>N</item>
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

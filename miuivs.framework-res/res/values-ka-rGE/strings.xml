@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB დიაგნოსტიკა ჩართულია</string>
+    <string name="lock_to_app_description">"ეკრანის pinning-ი მოახდენს ეკრანის ბლოკირებას single view რეჟიმში.
+
+To unpin-თვის დააჭირეთ და გეჭიროთ Home და Power ღილაკებს ერთდროულად."</string>
+    <string name="lock_to_app_description_accessible">"ეკრანის pinning-ი მოახდენს ეკრანის ბლოკირებას single view რეჟიმში.
+
+To unpin-თვის დააჭირეთ და გეჭიროთ Home და Power ღილაკებს ერთდროულად."</string>
+    <string name="lock_to_app_toast">ეკრანის გასაუქმებლად დააჭირეთ და ერთდროულად გეჭიროთ მთავარი და ჩამრთველი ღილაკები.</string>
+    <string name="lock_to_app_toast_accessible">ეკრანის გასაუქმებლად დააჭირეთ და ერთდროულად გეჭიროთ მთავარი და ჩამრთველი ღილაკები.</string>
+    <string name="lockscreen_missing_sim_instructions">ჩასვით სიმ ბარათი.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM ბარათი არ არის ან შეუძლებელია წაკითხვა. გთხოვთ ჩასვათ SIM ბარათი.</string>
+    <string name="lockscreen_missing_sim_message">ტელეფონში SIM ბარათი არ არის.</string>
+    <string name="lockscreen_missing_sim_message_short">SIM ბარათი არ არის</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"SIM ბარათი გათიშულია სამუდამოდ.
+დაუკავშირდით თქვენს უკაბელო სერვისების პროვაიდერს სხვა SIM ბარათისთვის."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">უვარგისი SIM ბარათი.</string>
+    <string name="tethered_notification_message">შეეხეთ დასაყენებლად.</string>
+    <string name="tethered_notification_multi_device_message">მიერთებული მოწყობილობა: %1$s</string>
+    <string name="tethered_notification_no_device_message">არცერთი დაკავშირებული მოწყობილობა არ არის</string>
+    <string name="tethered_notification_one_device_message">მიერთებული მოწყობილობა: %1$s</string>
+    <string name="tethered_notification_title">მიბმა ან აქტიური ჰოთსპოტი</string>
+    <string name="usb_midi_notification_title">MIDI-ის მეშვეობით USB ჩართულია</string>
+    <string name="usb_mtp_notification_title">USB ფაილის გადაცემის რეჟიმი ჩართულია</string>
+    <string name="usb_ptp_notification_title">PTP-ის მეშვეობით USB ჩართულია</string>
+    <string name="usb_tether_notification_title">USB მოდემი ჩართულია</string>
+    <string name="usb_unsupported_audio_accessory_message">დაკავშირებული მოწყობილობა არ არის თავსებადი ამ ტელეფონისთვის. შეეხეთ მეტი ინფორმაციის გასაგებად.</string>
+    <string name="usb_unsupported_audio_accessory_title">აღმოჩენილია იდენტური აუდიო აქსესუარი</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">დარეკვა</string>
+    <string name="volume_icon_description_media">მედია</string>
+    <string name="volume_icon_description_notification">შეტყობინება</string>
+    <string name="volume_icon_description_ringer">დამრეკი</string>
+</resources>

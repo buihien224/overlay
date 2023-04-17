@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>સારું</item>
+        <item>મધ્યમ</item>
+        <item>સંવેદનશીલ જૂથો માટે અસ્વસ્થ</item>
+        <item>બિનઆરોગ્યપ્રદ</item>
+        <item>અત્યંત અસ્વસ્થ</item>
+        <item>જોખમી</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>સારું</item>
+        <item>સંતોષકારક</item>
+        <item>મધ્યમ રીતે લોકપ્રિય</item>
+        <item>નબળું</item>
+        <item>ખૂબ નબળું</item>
+        <item>મહત્વનું</item>
+        <item>અનુક્રમ પછી</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>બેઇજિંગ</item>
+        <item>શાંઘાઇ</item>
+        <item>હોંગ કોંગ</item>
+        <item>તાઈપેઈ શહેર</item>
+        <item>જકાર્તા</item>
+        <item>દિલ્લી</item>
+        <item>મુંબઈ</item>
+        <item>મોસ્કો</item>
+        <item>ચેન્નઈ</item>
+        <item>ઈસ્તાંબુલ</item>
+        <item>રિયો ડી જેનેરિયો</item>
+        <item>સિંગાપુર</item>
+        <item>બર્લિન</item>
+        <item>રોમ</item>
+        <item>ન્યૂ યૉર્ક</item>
+        <item>લૉસ ઍન્જેલસ</item>
+        <item>શિકાગો</item>
+        <item>ટોક્યો</item>
+        <item>પેરિસ</item>
+        <item>બેંગકૉક</item>
+        <item>સિયોલ</item>
+        <item>કુઆલા લુમ્પુર</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>અતિભારે</item>
+        <item>મધ્યમ</item>
+        <item>હળવો</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>સાફ</item>
+        <item>વાદળછાયું</item>
+        <item>ઓવરકાસ્ટ</item>
+        <item>ધુમ્મસભર્યું</item>
+        <item>ભારે વરસાદી તોફાન</item>
+        <item>ધોધમાર વરસાદ</item>
+        <item>વર્ષા સાથેનું વાવાઝોડું</item>
+        <item>વાવાઝોડું</item>
+        <item>વરસાદ</item>
+        <item>ભારે વરસાદ</item>
+        <item>મધ્યમસરનો વરસાદ</item>
+        <item>હળવો વરસાદ</item>
+        <item>વરસાદ અને હિમ મિશ્રિત</item>
+        <item>બરફવર્ષા</item>
+        <item>હિમવર્ષા</item>
+        <item>ભારે હિમવર્ષા</item>
+        <item>મધ્યમસરની હિમવર્ષા</item>
+        <item>હળવી હિમવર્ષા</item>
+        <item>જોરદાર આંધી</item>
+        <item>રેતીનું તોફાન</item>
+        <item>રેતી</item>
+        <item>વાવંટોળવાળું</item>
+        <item>કરા</item>
+        <item>ધૂળ</item>
+        <item>ધુમ્મસ</item>
+        <item>ઠારતો વરસાદ</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>ઉત્તર</item>
+        <item>ઉત્તરપૂર્વ</item>
+        <item>પૂર્વ</item>
+        <item>દક્ષિણપૂર્વ</item>
+        <item>દક્ષિણ</item>
+        <item>દક્ષિણપશ્વિમ</item>
+        <item>પશ્વિમ</item>
+        <item>ઉત્તરપશ્ચિમ</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>N</item>
+        <item>ઉ-પૂ</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>બ્યૂફોર્ટ સ્કેલ</item>
+        <item>કલાક દીઠ કિલોમીટર (km/h)</item>
+        <item>સેકન્ડ દીઠ મીટર (m/s)</item>
+        <item>કલાક દીઠ માઇલ્સ (mph)</item>
+        <item>નૉટ (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>ફરજિયાત %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sમી/સે</item>
+        <item>%1$smph</item>
+        <item>%1$sકેએન</item>
+    </string-array>
+</resources>

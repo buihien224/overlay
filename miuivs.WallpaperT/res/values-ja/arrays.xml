@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ホーム</item>
+        <item>壁紙/スーパー壁紙/ホーム</item>
+        <item>地球;スーパー壁紙;地球版;壁紙</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>幾何学</item>
+        <item>壁紙/スーパー壁紙/幾何学</item>
+        <item>幾何学;概要;スーパー壁紙;壁紙</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>赤い惑星</item>
+        <item>壁紙/スーパー壁紙/赤い惑星</item>
+        <item>火星;火星版;スーパー壁紙;壁紙</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>雪山</item>
+        <item>壁紙/スーパー壁紙/雪山</item>
+        <item>地球;山;スーパー壁紙;壁紙</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>スーパー壁紙</item>
+        <item>壁紙/スーパー壁紙</item>
+        <item>スーパー壁紙;壁紙;ダイナミック壁紙;3D壁紙</item>
+    </string-array>
+</resources>

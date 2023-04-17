@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ཕོ།</item>
+        <item>མོ།</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ཐོ་འགོད་ཨང་དང་དབང་སྤྲོད།</item>
+        <item>Facebook/Googleསོགས་SNSཐོ་ཨང་ལ་མཐུད་པ་ལྟ་བཤེར།</item>
+        <item>འབྲེལ་མཐུད་དབང་སྤྲོད། SNS Facebook Google ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ཐོ་འགོད་ཨང་དང་དབང་སྤྲོད།</item>
+        <item>སྦྲེལ་མཐུད་ཟིན་པའི་སྐད་འཕྲིན་དང་/QQསོགས་ཀྱི་SNSཐོ་ཨང་ལྟ་བཤེར།</item>
+        <item>འབྲེལ་མཐུད་དབང་སྤྲོད། SNSདང་། སྐད་འཕྲིན་དང་། QQདང་། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>གསང་ཨང་བཟོ་བཅོས།</item>
+        <item>ཐོ་ཨང་གསང་གྲངས་བཟོ་བཅོས།</item>
+        <item>གསང་ཨང་བཟོ་བཅོས། གསང་ཨང་བརྗེ་སྤོར། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>སྤྲིན་བར་སྟོང་མཉམ་སྤྱོད།</item>
+        <item>སྤྲིན་བར་སྟོང་མཉམ་སྤྱོད་ལྟ་བཤེར།/ཁ་ཕྱེས།</item>
+        <item>སྤྲིན་བར་སྟོང་མཉམ་སྤྱོད། བར་སྟོང་མཉམ་སྤྱོད།</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ཁྱིམ་མིའི་ཞབས་ཞུ།</item>
+        <item>ཁྱིམ་མིའི་ཞབས་ཞུ་ལྟ་བཤེར།/ཁ་ཕྱེས།</item>
+        <item>ཁྱིམ་མི། ཁྱིམ་མིའི་ཞབས་ཞུ། ཁྱིམ་མི་དང་མཉམ་སྤྱོད།</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ཐོ་ཨང་རོགས་རམ་ལྟེ་གནས།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་རོགས་རམ་ལྟེ་གནས་ལ་ལྟ་བཤེར།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་རོགས་རམ། རོགས་རམ་ལྟེ་གནས། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>ཐེངས་གཉིས་ར་སྤྲོད་ཐོ་འཇུག</item>
+        <item>ཐོ་ཨང་ཐོ་འཇུག་བྱེད་ཐབས་སྒྲིག་འགོད།</item>
+        <item>ཐོ་འཇུག་ར་སྤྲོད། ཐེངས་གཉིས་ར་སྤྲོད་ཐོ་འཇུག ཐེངས་གཉིས་ར་སྤྲོད། ཐོ་ཨང་བདེ་འཇགས་ར་སྤྲོད། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ཐོ་འཇུག་དང་བདེ་འཇགས།</item>
+        <item>ཐོ་ཨང་ལ་བདེ་འཇགས་ཀྱི་ཁ་པར་ཨང་གྲངས་/ཡིག་སྒམ་/གསང་ཨང་བཟོ་བཅོས་སོགས་མཐུད་པ།</item>
+        <item>ཐོ་འཇུག་དང་བདེ་འཇགས། བདེ་འཇགས་ཁ་པར། བདེ་འཇགས་ཡིག་སྒམ། ཐོ་ཨང་གི་བདེ་འཇགས་ཆ་འཕྲིན། ཐོ་ཨང་གི་བདེ་འཇགས་ཆ་འཕྲིན། ཁ་པར་ཨང་གྲངས། ཡིག་སྒམ། གསང་ཨང་བཟོ་བཅོས། ཁ་པར་མཐུད་པ། ཡིག་སྒམ་མཐུད་པ། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>སྒྲིག་ཆས་དོ་དམ་ཐོ་འགོད།</item>
+        <item>ཐོ་ཨང་ཐོ་འཇུག་བྱས་པའི་ཞའོ་མཱི་སྒྲིག་ཆས་ལ་དོ་དམ་བྱེད་པ།</item>
+        <item>སྒྲིག་ཆས་དོ་དམ། ཐོ་འཇུག་སྒྲིག་ཆས། སྒྲིག་ཆས་ཐོ་གཞུང་། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ཐོ་ཨང་གྱི་གསང་དོན་སྲིད་ཇུས།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་གི་གསང་དོན་སྲིད་ཇུས་ལྟ་བཤེར།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། གསང་དོན་སྲིད་ཇུས། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>བདེ་འཇགས་ཀྱི་ཡིག་ཟམ།</item>
+        <item>ཐོ་ཨང་ལ་བདེ་འཇགས་ཀྱི་ཡིག་ཟམ་སྦྲེལ་བ།</item>
+        <item>བདེ་འཇགས་ཡིག་སྒམ། ཡིག་སྒམ། ཡིག་སྒམ་འབྲེལ་མཐུད། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>བདེ་འཇགས་ཁ་པར།</item>
+        <item>བདེ་འཇགས་ཀྱི་ཁ་པར་ཨང་གྲངས་ཐོ་ཨང་ལ་མཐུད་པ།</item>
+        <item>བདེ་འཇགས་ཁ་པར། ཁ་པར་མཐུད་སྦྲེལ། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>བརྒྱུད་ཁོངས་བརྡ་ཁྱབ།</item>
+        <item>བརྒྱུད་ཁོངས་བརྡ་ཁྱབ་སྒྲིག་འགོད།</item>
+        <item>བརྒྱུད་ཁོངས་བརྡ་ཁྱབ། ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ཐོ་ཨང་གི་མེ་སྒེར་གྱི་ཆ་འཕྲིན།</item>
+        <item>མགོ་པར་/གཅེས་མིང་སོགས་སྒྲིག་འགོད་ཀྱི་ཐོ་ཨང་ཆ་འཕྲིན་ལྟ་བཤེར།</item>
+        <item>མི་སྒེར་གྱི་ཆ་འཕྲིན། མགོ་པར། གཅེས་མིང་། ཐོ་ཨང་གི་ཆ་འཕྲིན། ཞའོ་མཱི་ID ID ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། ཐོ་ཨང་།</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ཐོ་ཨང་གི་སྤྱོད་མཁན་གྲོས་མཐུན།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་གི་སྤྱོད་མཁན་གྲོས་མཐུན་ལ་ལྟ་བཤེེར།</item>
+        <item>ཞའོ་མཱི་ཐོ་ཨང་། ཞའོ་མཱི་ཐོ་ཨང་། ཐོ་ཨང་། སྤྱོད་མཁན་གྱི་གྲོས་མཐུན། ཐོ་ཨང་སྤྱོད་མཁན་གྱི་གྲོས་མཐུན། ཐོ་ཨང་།</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mees</item>
+        <item>Naine</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Kontod</item>
+        <item>Kolmandate osapoolte kontode lisamine ja haldamine</item>
+        <item>Kontod;SNS;Facebook;Google;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Kontod</item>
+        <item>Kolmandate osapoolte kontode lisamine ja haldamine</item>
+        <item>Kontod;SNS;WeChat;QQ;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Muuda parooli</item>
+        <item>Muuda Xiaomi Konto parooli</item>
+        <item>Parooli muutmine;Parooli värskendamine;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Pere salvestusruum</item>
+        <item>Pere salvestusruumi vaatamine/sisselülitamine</item>
+        <item>Pere salvestusruum;Salvestusruumi jagamine</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Pereteenused</item>
+        <item>Vaadake/lülitage sisse pereteenused</item>
+        <item>Perekond;Pereteenused;Perega jagamine</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Abi</item>
+        <item>Xiaomi Kontoga seotud abi ja klienditugi</item>
+        <item>Mi konto;Konto;Xiaomi Konto;Konto abi;Abikeskus</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-astmeline kinnitamine</item>
+        <item>Seadistage oma Xiaomi Kontole 2-astmeline kinnitamine</item>
+        <item>Sisselogimine;Logi sisse;2-astmeline;kinnitamine;Xiaomi;Konto;Mi Konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Konto turvalisus</item>
+        <item>Telefoni ja meili taastamine, paroolihaldus</item>
+        <item>Konto turvalisus;Sisselogimine;Varutelefon;E-posti varuaadress;Konto kaitse;Telefoninumber;E-post;Muuda parooli;Lisa telefoninumber;Lisa e-post;Xiaomi konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Seadmed</item>
+        <item>Hallake oma Xiaomi Kontoga seotud seadmeid</item>
+        <item>Seadmete haldamine;Minu seadmed;Seadmed;Seadmete loend;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Privaatsuspoliitika</item>
+        <item>Vaata Xiaomi Konto Privaatsuspoliitikat</item>
+        <item>Mi konto;konto;Xiaomi konto;privaatsuspoliitika</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Taastamise e-posti aadress</item>
+        <item>Lisa taastamise e-posti aadress</item>
+        <item>E-posti varuaadress;E-post;Lisa e-post;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Taastamise telefoninumber</item>
+        <item>Lisa taastamise telefoninumber</item>
+        <item>Varutelefon;Lisa telefon;Mi konto;Konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklaamid</item>
+        <item>Süsteemi reklaamide haldus</item>
+        <item>Reklaamid;Mi konto;konto;Xiaomi konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontoteave</item>
+        <item>Vaadake oma profiilifotot ja hallake kontoandmeid</item>
+        <item>Isiklik teave;profiilifoto;hüüdnimi;konto teave;Mi ID;ID;Mi konto;konto;Xiaomi Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Kasutajaleping</item>
+        <item>Kasutajaleping</item>
+        <item>Mi konto;Konto;Xiaomi Konto;Kasutajaleping;EULA</item>
+    </string-array>
+</resources>

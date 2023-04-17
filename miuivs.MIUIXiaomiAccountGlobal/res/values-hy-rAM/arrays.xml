@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Արական</item>
+        <item>Իգական</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Հաշիվներ</item>
+        <item>Ավելացնել և կառավարել երրորդ կողմի հաշիվները</item>
+        <item>Հաշիվներ․SNS․Facebook․Google․Mi Հաշիվ․Հաշիվ.Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Հաշիվներ</item>
+        <item>Ավելացնել և կառավարել երրորդ կողմի հաշիվները</item>
+        <item>Հաշիվներ;SNS;WeChat;QQ;Mi Հաշիվ;Հաշիվ;Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Փոխել գաղտնաբառը</item>
+        <item>Փոխել Xiaomi Հաշվի գաղտնաբառը</item>
+        <item>Փոխել գաղտնաբառը․Թարմացնել գաղտնաբառը․Mi Հաշիվ․Հաշիվ.Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Ընտանեկան պահեստային տարածք</item>
+        <item>Դիտել/միացնել ընտանեկան պահեստային տարածքը</item>
+        <item>Ընտանեկան պահեստային տարածք;Պահեստի համօգտագործում</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Ընտանեկան ծառայություններ</item>
+        <item>Դիտել/միացնել ընտանեկան ծառայությունները</item>
+        <item>Ընտանիք; Ընտանեկան ծառայություններ; Ընտանեկան համօգտագործում</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Օգնություն</item>
+        <item>Ստացեք Xiaomi Հաշվի օգնություն և աջակցություն</item>
+        <item>Mi հաշիվ. Հաշիվ. Xiaomi հաշիվ. Հաշվի օգնություն. Օգնության կենտրոն</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Երկքայլանի ստուգում</item>
+        <item>Սահմանել երկքայլանի ստուգում ձեր Xiaomi Հաշվի համար</item>
+        <item>Մուտք․Մուտք․2-քայլ․Հաստատում․Xiaomi․Հաշիվ․Mi հաշիվ․Հաշիվ.Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Հաշվի անվտանգություն</item>
+        <item>Հեռախոսի և էլփոստի վերականգնում, գաղտնաբառի կառավարում</item>
+        <item>Հաշվի անվտանգություն․Մուտք․Վերականգնման հեռախոս․Վերականգնման էլ.փոստ․Հաշվի պաշտպանություն․Հեռախոսահամար․Էլ.Փոստ․Փոխել գաղտնաբառը․Ավելացնել հեռախոսահամար․Ավելացնել էլ.Փոստ․Mi Հաշիվ․Հաշիվ.Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Սարքեր</item>
+        <item>Կառավարեք ձեր Xiaomi Հաշվի հետ կապված սարքերը</item>
+        <item>Կառավարել սարքերը.Իմ սարքերը․Սարքեր․Սարքերի ցուցակ․Xiaomi Հաշիվ․Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Գաղտնիության Քաղաքականություն</item>
+        <item>Դիտեք Xiaomi Հաշվի Գաղտնիության Գաղաքականությունը</item>
+        <item>Mi Հաշիվշ. Հաշիվ. Xiaomi Հաշիվ. Գաղտնիության Քաղաքականություն</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Վերականգնման էլ․փոստ</item>
+        <item>Ավելացնել վերականգնման էլ․փոստ</item>
+        <item>Վերականգնման էլ.փոստ․Էլ.փոստ․Էլ.փամակ ավելացնել․Mi Հաշիվ․Հաշիվ.;Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Վերականգնման հեռախոս</item>
+        <item>Ավելացնել վերականգնման հեռախոս</item>
+        <item>Վերականգնման հեռախոս.Ավելացնել հեռախոս.Mi Հաշիվ.Հաշիվ.;Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Գովազդներ</item>
+        <item>Կառավարեք համակարգի գովազդները</item>
+        <item>Գովազդներ. Mi Հաշիվ. Հաշիվ. Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Հաշվի տեղեկատվություն</item>
+        <item>Դիտել ձեր պրոֆիլի լուսանկարը և կառավարել հաշվի տեղեկությունները</item>
+        <item>Անձնական տվյալներ;պրոֆիլի լուսանկար;մականուն;հաշվի տվյալներ;Mi ID;ID;Mi հաշիվ;Հաշիվ;Xiaomi Հաշիվ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Օգտագործողի Համաձայնագիր</item>
+        <item>Օգտագործողի Համաձայնագիր</item>
+        <item>Mi հաշիվ. Հաշիվ. Xiaomi հաշիվ. Օգտագործողի պայմանագիր. EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>புவி</item>
+        <item>வால்பேப்பர்கள்/சூப்பர் வால்பேப்பர்கள்/புவி</item>
+        <item>புவி;சூப்பர் வால்பேப்பர்;பூமி பதிப்பு;வால்பேப்பர்</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>வடிவியல்</item>
+        <item>வால்பேப்பர்கள்/சூப்பர் வால்பேப்பர்கள்/வடிவியல்</item>
+        <item>வடிவியல்;அப்ஸ்ட்ராக்ட்;சூப்பர் வால்பேப்பர்;வால்பேப்பர்</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>சிவப்பு கிரகம்</item>
+        <item>வால்பேப்பர்/சூப்பர் வால்பேப்பர்கள்/செங்கோள்</item>
+        <item>செவ்வாய்;செவ்வாய் கோள்;சூப்பர் வால்பேப்பர்கள்;வால்பேப்ப்பர்</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>பனிச் சிகரங்கள்</item>
+        <item>வால்பேப்பர்/சூப்பர் வால்பேப்பர்கள்/பனி சிகரங்கள்</item>
+        <item>பூமி;மலைகள்;சூப்பர் வால்பேப்பர்;வால்பேப்பர்</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>சூப்பர் வால்பேப்பர்கள்</item>
+        <item>வால்பேப்பர்கள்/சூப்பர் வால்பேப்பர்கள்</item>
+        <item>சூப்பர் வால்பேப்பர்கள்;வால்பேப்பர்;டைனமிக் வால்பேப்பர்;3D வால்பேப்பர்</item>
+    </string-array>
+</resources>

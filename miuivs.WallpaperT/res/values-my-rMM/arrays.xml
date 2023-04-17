@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ပင်မစာမျက်နှာ</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ/ပင်မစာမျက်နှာ</item>
+        <item>ကမ္ဘာ၊ ဆူပါနောက်ခံပုံများ၊ ကမ္ဘာအက်ဒစ်ရှင်း၊ နောက်ခံပုံ</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>ဂျီသြမေတြီ</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ/ ဂျီသြမေတြီ</item>
+        <item>ဂျီသြမေထြီ၊ စိတ္တဇ၊ ဆူပါနောက်ခံပုံများ၊ နောက်ခံပုံများ</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>အနီရောင်ဂြိုလ်</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ/အနီရောင်ဂြိုလ်</item>
+        <item>အင်္ဂါဂြိုလ်၊ အင်္ဂါဂြိုအက်ဒစ်ရှင်း၊ ဆူပါနောက်ခံပုံများ၊ နောက်ခံပုံ</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>နှင်းဖုံးတောင်ထိပ်များ</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ/နှင်းဖုံးတောင်ထိပ်များ</item>
+        <item>ကမ္ဘာ၊တောင်များ၊ဆူပါနောက်ခံပုံ၊နောက်ခံပုံ</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>စူပါ နောက်ခံပုံများ</item>
+        <item>နောက်ခံပုံ/ဆူပါနောက်ခံပုံများ</item>
+        <item>ဆူပါနောက်ခံပုံများ၊ နောက်ခံပုံ၊ ဟော့ရမ်းနောက်ခံပုံ၊ 3D နောက်ခံပုံ</item>
+    </string-array>
+</resources>

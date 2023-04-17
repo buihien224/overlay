@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>지구</item>
+        <item>배경화면/슈퍼 배경화면/지구</item>
+        <item>지구;슈퍼 배경화면;지구 에디션;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>기하학</item>
+        <item>배경화면/슈퍼 배경화면/기하학</item>
+        <item>기하학;추상화;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>화성</item>
+        <item>배경화면/슈퍼 배경화면/화성</item>
+        <item>화성;화성 에디션;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>눈봉우리</item>
+        <item>배경화면/슈퍼 배경화면/눈봉우리</item>
+        <item>지구;산;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>슈퍼 배경화면</item>
+        <item>배경화면/슈퍼 배경화면</item>
+        <item>슈퍼 배경화면;배경화면;다이내믹 배경화면;3D 배경화면</item>
+    </string-array>
+</resources>

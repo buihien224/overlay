@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 tunni pärast</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Otsekohe</item>
+        <item quantity="one">Otsekohe</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just nüüd</item>
+        <item quantity="one">Just nüüd</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">viivitus: %d sekundit</item>
+        <item quantity="one">viivitus: %d sekund</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Te saate lisada %s inimest, valige uuesti.</item>
+        <item quantity="one">Te saate lisada %s inimese, valige uuesti.</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numbrit</item>
+        <item quantity="one">%d number</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numbrid kustutatakse.</item>
+        <item quantity="one">%d number kustutatakse.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s päeva</item>
+        <item quantity="one">%s päev</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s tundi</item>
+        <item quantity="one">%s tund</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 tunni jooksul</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Kohe</item>
+        <item quantity="one">Kohe</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just praegu</item>
+        <item quantity="one">Just praegu</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d üksuseid kustutatud</item>
+        <item quantity="one">%d üksus kustutatud</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d katset jäänud."</item>
+        <item quantity="one">"
+%d katse jäänud."</item>
+    </plurals>
+</resources>

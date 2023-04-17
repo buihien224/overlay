@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Подреди по време на примање</item>
+        <item>Подреди по број на известувања</item>
+        <item>Апликации можат да прикажат известувања</item>
+        <item>Апликации кои не можат да прикажат известувања</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Прикажи ја целата содржина од известувањето</item>
+        <item>Не ги покажувај известувањата на заклучен екран</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Прикажи ја целата содржина од известувањето</item>
+        <item>Прикажи ги сите известувања, но скриј ги содржините</item>
+        <item>Не ги покажувај известувањата на заклучен екран</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

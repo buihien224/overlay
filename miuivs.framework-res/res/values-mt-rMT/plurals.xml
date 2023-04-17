@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Fadallek %d(-il) tentattiv ieħor qabel is-SIM tissakkar.</item>
+        <item quantity="one">Fadallek tentattiv %d ieħor qabel is-SIM tissakkar.</item>
+        <item quantity="few">Fadallek %d tentattivi oħra qabel is-SIM tissakkar.</item>
+        <item quantity="many">Fadallek %d(-il) tentattiv ieħor qabel is-SIM tissakkar.</item>
+    </plurals>
+</resources>

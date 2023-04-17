@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">An kara sarrafawa %s</item>
+        <item quantity="one">An kara sarrafawa %s</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">manhaja %s na aiki</item>
+        <item quantity="one">manhaja %s na aiki</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Lambar PIN bai daidai,kokarin shiga %d ya saura</item>
+        <item quantity="one">Lambar PIN bai daidai,kokarin shiga %d ya saura</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Lambar PUK bai daidai, kokarin shiga %d ya saura</item>
+        <item quantity="one">Lambar PUK bai daidai, kokarin shiga %d ya saura</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Sa kalmar sirrinka koda sau daya ne a kowane awowi %d don ka tuna dashi a koyaushe</item>
+        <item quantity="one">Sa kalmar sirrinka koda sau daya ne a kowane awa %d don ka tuna dashi a koyaushe</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Sa kalmar sirrinka koda sau daya ne a kowane awowi %d don ka tuna dashi a koyaushe</item>
+        <item quantity="one">Sa kalmar sirrinka koda sau daya ne a kowane awa %d don ka tuna dashi koyaushe</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Da saura kamar awowi %d</item>
+        <item quantity="one">Da saura kamar awa %d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Da sauran mintoci %d</item>
+        <item quantity="one">Da sauran minti %d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Da saura kamar awowi %1$d da mintuna %2$d</item>
+        <item quantity="one">Da saura kamar awowi %1$d da mintuna %2$d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">awowi %d</item>
+        <item quantity="one">awa %d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">mintoci %d</item>
+        <item quantity="one">minti %d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">"Awowi %1$d da mintuna %2$d "</item>
+        <item quantity="one">Awowi %1$d da mintuna %2$d</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Da sauran awowi %d</item>
+        <item quantity="one">Da sauran awa %d</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Da sauran mintoci %d</item>
+        <item quantity="one">Da sauran minti %d</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">"Da sauran awowi %1$d da mintoci %2$d "</item>
+        <item quantity="one">Da sauran awowi %1$d da mintoci %2$d</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Sa lambar PIN na Katin SIM, da sauran kokarin budewa %d.</item>
+        <item quantity="one">"Sa lambar PIN na Katin SIM, da sauran kokarin budewa %d kafin ya zama dole ka tuntubi kamfanin sadarwarka don bude na'urarka."</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Katin SIM ya bude a yanzu. Sa lambar PUK ka ci gaba. Da sauran kokarin budewa %d kafin a kasa aiki kwata kwata da Katin SIMr. Tuntubi kamfanin sadarwarka don ka samu cikakken bayani.</item>
+        <item quantity="one">Katin SIM ya bude a yanzu. Sa lambar PUK ka ci gaba. Da sauran kokarin budewa %d kafin a kasa aiki kwata kwata da Katin SIMr. Tuntubi kamfanin sadarwarka don ka samu cikakken bayani.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Lambar PIN na Katin SIM bai daidai, da sauran koakrin budewa %d.</item>
+        <item quantity="one">"Lambar PIN na Katin SIM bai daidai, da sauran koakrin budewa %d kafin ya zama dole ku tuntubi kamfanin sadarwarku don bude na'urar."</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Lambar PUK na Katin SIM bai daidai, da sauran koakrin budewa %d kafin a kasa amfani da kwata kwata.</item>
+        <item quantity="one">Lambar PUK na Katin SIMr bai daidai, da sauran koakrin budewa %d kafin a kasa amfani da kwata kwata.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">sabon sanarwa %d</item>
+        <item quantity="one">sabon sanarwa %d</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Karin sanarwa %s a ciki.</item>
+        <item quantity="one">Karin sanarwa %s a ciki.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Sake gwadawa nan da mintoci %d</item>
+        <item quantity="one">Sake gwadawa nan da minti %d</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Sake gwadawa nan da sakan %d</item>
+        <item quantity="one">Sake gwadawa nan da sakan %d</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">"na'urori %d"</item>
+        <item quantity="one">"na'ura %d"</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">awowi %d</item>
+        <item quantity="one">awa %d</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">mintuna %d</item>
+        <item quantity="one">minti %d</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Kan iya kara masu amfani %d.</item>
+        <item quantity="one">Mai amfani ɗaya ne kawai za a iya ƙirƙira.</item>
+    </plurals>
+</resources>

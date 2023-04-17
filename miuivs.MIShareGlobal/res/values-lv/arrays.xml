@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Attēlu, lietotņu un citu datņu piekļuvei un saglabāšanai, kā arī to pārsūtīšanai</item>
+        <item>Datņu pārsūtīšanai, izmantojot Bluetooth un Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Attēlu, lietotņu un citu datņu piekļuvei un saglabāšanai, kā arī to pārsūtīšanai</item>
+        <item>Datņu pārsūtīšanai, izmantojot Bluetooth un WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Datņu sūtīšanai un saņemšanai</item>
+        <item>Datņu pārsūtīšanai, izmantojot Bluetooth un Wi-Fi</item>
+        <item>Lai atrastu tuvumā esošās ierīces, izmantojot Bluetooth</item>
+        <item>Lai atrastu tuvumā esošās un pārsūtītu datnes, izmantojot Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Datņu sūtīšanai un saņemšanai</item>
+        <item>Datņu pārsūtīšanai, izmantojot Bluetooth un WLAN</item>
+        <item>Lai atrastu tuvumā esošās ierīces, izmantojot Bluetooth</item>
+        <item>Lai atrastu tuvumā esošās ierīces un pārsūtītu datnes, izmantojot WLAN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>పురుషులు</item>
+        <item>మహిళలు</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ఖాతాలు</item>
+        <item>మూడవ పక్ష ఖాతాలను జోడించండి మరియు నిర్వహించండి</item>
+        <item>ఖాతాలు;SNS;Facebook;Google;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ఖాతాలు</item>
+        <item>మూడవ పక్ష ఖాతాలను జోడించండి మరియు నిర్వహించండి</item>
+        <item>ఖాతాలు;SNS;WeChat;QQ;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>పాస్‌వర్డ్ మార్చండి</item>
+        <item>Xiaomi ఖాతా పాస్‌వర్డ్ మార్చండి</item>
+        <item>పాస్‌వర్డ్ మార్చండి;పాస్‌వర్డ్ అప్‌డేట్ చేయండి;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>కుటుంబ నిల్వ ప్రదేశం</item>
+        <item>కుటుంబ నిల్వ ప్రదేశాన్ని చూడండి/ఆన్ చేయండి</item>
+        <item>కుటుంబ నిల్వ ప్రదేశం;నిల్వ ప్రదేశ షేరింగ్</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>కుటుంబ సేవలు</item>
+        <item>కుటుంబ సేవలను చూడండి/ఆన్ చేయండి</item>
+        <item>కుటుంబం;కుటుంబ సేవలు;కుటుంబ షేరింగ్</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>సహాయం</item>
+        <item>Xiaomi ఖాతా సహాయం మరియు మద్దతుని పొందండి</item>
+        <item>Xiaomi ఖాతా;ఖాతా;Xiaomi ఖాతా;ఖాతా సహాయం;సహాయ కేంద్రం</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-దశల ధృవీకరణ</item>
+        <item>మీ Xiaomi ఖాతా కోసం 2-దశల ధృవీకరణని సెట్ చేయండి</item>
+        <item>సైన్ ఇన్;లాగిన్;2-దశల ధృవీకరణ;Xiaomi;ఖాతా;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ఖాతా భద్రత</item>
+        <item>పునరుద్ధరణ ఫోన్ మరియు ఇమెయిల్, పాస్‌వర్డ్ నిర్వహణ</item>
+        <item>ఖాతా భద్రత;సైన్ ఇన్ చేయడం;పునరుద్ధరణ ఫోన్;పునరుద్ధరణ ఇమెయిల్;ఖాతా భద్రత రక్షణ;ఫోన్ నంబర్;ఇమెయిల్;పాస్‌వర్డ్ మార్చండి;ఫోన్ నంబర్ జోడించండి;ఇమెయిల్ జోడించండి;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>పరికరాలు</item>
+        <item>మీ Xiaomi ఖాతాకు సంబంధించిన పరికరాలను నిర్వహించండి</item>
+        <item>పరికరాలను నిర్వహించండి;నా పరికరాలు;పరికరాలు;పరికర జాబితా;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>గోప్యతా విధానం</item>
+        <item>Xiaomi ఖాతా గోప్యతా విధానాన్ని చూడండి</item>
+        <item>Mi ఖాతా;ఖాతా;Xiaomi ఖాతా;గోప్యతా విధానం</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>పునరుద్ధరణ ఇమెయిల్</item>
+        <item>పునరుద్ధరణ ఇమెయిల్ జోడించండి</item>
+        <item>పునరుద్ధరణ ఇమెయిల్;ఇమెయిల్;ఇమెయిల్ జోడించండి;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>పునరుద్ధరణ ఫోన్</item>
+        <item>పునరుద్ధరణ ఫోన్ జోడించండి</item>
+        <item>పునరుద్ధరణ ఫోన్;ఫోన్ జోడించండి;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ప్రకటనలు</item>
+        <item>సిస్టమ్ ప్రకటనలను నిర్వహించండి</item>
+        <item>ప్రకటనలు;Mi ఖాతా;ఖాతా;Xiaomi ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ఖాతా సమాచారం</item>
+        <item>మీ ప్రొఫైల్ ఫోటోని చూడండి మరియు ఖాతా సమాచారాన్ని నిర్వహించండి</item>
+        <item>వ్యక్తిగత సమాచారం;ప్రొఫైల్ ఫోటో;ముద్దుపేరు;ఖాతా సమాచారం;Mi ID;ID;Xiaomi ఖాతా;ఖాతా</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>వినియోగదారు ఒప్పందం</item>
+        <item>వినియోగదారు ఒప్పందం</item>
+        <item>Mi ఖాతా;ఖాతా;Xiaomi ఖాతా;వినియోగదారు ఒప్పందం;EULA</item>
+    </string-array>
+</resources>

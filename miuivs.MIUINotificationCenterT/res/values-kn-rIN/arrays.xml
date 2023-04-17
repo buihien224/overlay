@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>ಸ್ವೀಕರಿಸಿದ ದಿನಾಂಕದ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು</item>
+        <item>ಅಧಿಸೂಚನೆಗಳ ಸಂಖ್ಯೆಗಳ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸು</item>
+        <item>ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸುವ ಆ್ಯಪ್‌‌ಗಳು</item>
+        <item>ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸದ ಆ್ಯಪ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>ಅಧಿಸೂಚನೆ ವಿಷಯ ತೋರಿಸು</item>
+        <item>ಲಾಕ್‌ ಸ್ಕ್ರೀನ್‌ ಅಧಿಸೂಚನೆ ತೋರಿಸಬೇಡ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>ಅಧಿಸೂಚನೆ ವಿಷಯ ತೋರಿಸು</item>
+        <item>ಅಧಿಸೂಚನೆ ತೋರಿಸು ಆದರೆ ವಿಷಯ ಮರೆಮಾಡು</item>
+        <item>ಲಾಕ್‌ ಸ್ಕ್ರೀನ್‌ ಅಧಿಸೂಚನೆ ತೋರಿಸಬೇಡ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI </item>
+        <item>Android</item>
+    </string-array>
+</resources>

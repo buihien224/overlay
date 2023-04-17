@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>प्राप्त भएको समय अनुसार श्रेणिबद्ध गर्नुहोस्</item>
+        <item>सूचनाहरूको संख्या अनुसार क्रमबद्ध गर्नुहोस्</item>
+        <item>ती एपहरू जसले सूचनाहरू देखाउन सक्छ</item>
+        <item>ती एपहरू जसले सूचनाहरू देखाउन सक्तैन</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>सूचना सामग्री देखाउनुहोस्</item>
+        <item>लक स्क्रिन सूचनाहरू नदेखाउनुहोस्</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>सूचना सामग्री देखाउनुहोस्</item>
+        <item>सूचनाहरू देखाउनुहोस् तर सामग्रीहरू लुकाउनुहोस्</item>
+        <item>लक स्क्रिन सूचनाहरू नदेखाउनुहोस्</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

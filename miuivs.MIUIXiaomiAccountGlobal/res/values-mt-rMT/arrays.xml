@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Raġel</item>
+        <item>Mara</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Kontijiet</item>
+        <item>Żid u mmaniġġja kontijiet terzi</item>
+        <item>Kontijiet;SNS;Facebook;Google;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Kontijiet</item>
+        <item>Żid u mmaniġġja kontijiet terzi</item>
+        <item>Kontijiet;SNS;WeChat;QQ;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Ibdel il-password</item>
+        <item>Biddel il-password tal-Kont Xiaomi</item>
+        <item>Ibdel il-password;Aġġorna l-password;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Spazju tal-ħażna tal-familja</item>
+        <item>Ara/ixgħel l-ispazju tal-ħażna tal-familja</item>
+        <item>Spazju tal-ħażna tal-familja; Aqsam il-ħażna</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Servizzi tal-familja</item>
+        <item>Ara/ixgħel is-servizzi tl-familja</item>
+        <item>Familja;Servizzi tal-familja;Aqsam mal-familja</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Għajnuna</item>
+        <item>Ikseb l-għajnuna u l-appoġġ tal-Kont Xiaomi</item>
+        <item>Mi Kont;Kont;Kont Xiaomi; Għajnuna dwar il-Kont;Ċentru tal-għajnuna</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>"Verifika f'2 passi"</item>
+        <item>"Issettja l-verifika f'2 passi għall-Kont Xiaomi tiegħek"</item>
+        <item>Idħol;Idħol;2 passi;verifika;Xiaomi;Kont;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Sigurtà tal-kont</item>
+        <item>Telefown u email tal-irkupru, immaniġġjar tal-passwords</item>
+        <item>Sigurtà tal-kont;Dħul;Numru tal-mowbajl għall-irkupru;Indirizz tal-email għall-irkupru;Ħarsien tal-kont;Numru tat-telefown;Email;Ibdel il-password;Żid numru tat-telefown;Żid email;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Tagħmir</item>
+        <item>Immaniġġja t-tagħmir marbut mal-Kont Xiaomi tiegħek</item>
+        <item>Ħu ħsieb it-tagħmir;It-tagħmir tiegħi;Tagħmir;Lista tat-tagħmir;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Politika tal-Privatezza</item>
+        <item>Ara l-Politika tal-Privatezza tal-Kont Xiaomi</item>
+        <item>Kont Mi;Kont;Kont Xiaomi;Politika tal-Privatezza</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Email tal-irkupru</item>
+        <item>Żid email tal-irkupru</item>
+        <item>Indirizz tal-email għall-irkupru;Email;Żid indirizz tal-email;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefown tal-irkupru</item>
+        <item>Żid telefown tal-irkupru</item>
+        <item>Numru tat-telefown għall-irkupru;Żid numru tat-telefown;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Riklami</item>
+        <item>Immaniġġja r-riklami tas-sistema</item>
+        <item>Reklami;Kont Mi;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informazzjoni dwar il-kont</item>
+        <item>Ara r-ritratt tal-profil u mmaniġġja l-informazzjoni tal-kont tiegħek</item>
+        <item>Informazzjoni personali;ritratt tal-profil;laqam;informazzjoni tal-kont;Mi ID;ID;Mi Kont;Kont;Kont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Ftehim tal-Utent</item>
+        <item>Ftehim tal-Utent</item>
+        <item>Mi Kont;Kont;Kont Xiaomi;Ftehim tal-Utent;EULA</item>
+    </string-array>
+</resources>

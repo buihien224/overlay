@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 min më parë</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Kodi PIN i pasaktë, %d përpjekje të mbetura</item>
+        <item quantity="one">Kodi PIN i pasaktë, %d përpjekje e mbetura</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Kod PUK i pasaktë, %d përpjekje të mbetura</item>
+        <item quantity="one">Kod PUK i pasaktë, %d përpjekje e mbetur</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Fut fjalëkalimin tënd të paktën një herë çdo %d orë për ta kujtuar gjithmonë</item>
+        <item quantity="one">Fut fjalëkalimin tënd të paktën një herë çdo %d orë për ta kujtuar gjithmonë</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Fut fjalëkalimin tënd të paktën një herë çdo%dorë për ta kujtuar gjithmonë</item>
+        <item quantity="one">Fut fjalëkalimin tënd të paktën një herë çdo%dorë për ta kujtuar gjithmonë</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Rreth %d orë të mbetura</item>
+        <item quantity="one">Rreth %d orë e mbetur</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Rreth %d minuta të mbetura</item>
+        <item quantity="one">Rreth %d minut i mbetur</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Rreth %1$d h %2$d m të mbetura</item>
+        <item quantity="one">Rreth %1$d h %2$d m të mbetura</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Kanë ngelur %d orë</item>
+        <item quantity="one">Kanë ngelur %d orë</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Kanë ngelur %d minuta</item>
+        <item quantity="one">Kanë ngelur %d minut</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Kanë ngelur %1$d o%2$d m</item>
+        <item quantity="one">Kanë ngelur %1$d o %2$d m</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d njoftime të reja</item>
+        <item quantity="one">%d njoftime të reja</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 minutë më parë</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Provo sërish për %d minuta</item>
+        <item quantity="one">Provo sërish për %d minutë</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Provo sërish për %d sekonda</item>
+        <item quantity="one">Provo sërish për %d sekond</item>
+    </plurals>
+</resources>

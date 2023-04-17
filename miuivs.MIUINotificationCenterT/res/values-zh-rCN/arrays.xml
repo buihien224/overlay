@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>按发送时间排序</item>
+        <item>按发送频率排序</item>
+        <item>仅显示已开启</item>
+        <item>仅显示已关闭</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>显示通知内容</item>
+        <item>关闭所有锁屏通知</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>显示通知内容</item>
+        <item>显示通知但隐藏内容</item>
+        <item>关闭所有锁屏通知</item>
+    </string-array>
+</resources>

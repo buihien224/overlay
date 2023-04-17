@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Пред 1 час</item>
+        <item quantity="one">Пред 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Пред 1 час</item>
+        <item quantity="one">Пред 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пред половина час</item>
+        <item quantity="one">Пред половина час</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За половина час</item>
+        <item quantity="one">За половина час</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Веднаш</item>
+        <item quantity="one">Веднаш</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минути</item>
+        <item quantity="one">за 1 мин</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Штотуку</item>
+        <item quantity="one">Штотуку</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">пред %d минути</item>
+        <item quantity="one">Пред 1 мин</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Пријавено од %d MIUI корисници</item>
+        <item quantity="one">Пријавено од %d MIUI корисник</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Прекинување на врската за %1$s сек…</item>
+        <item quantity="one">Прекинување на врската за %1$s сек…</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Снимани %d повици.</item>
+        <item quantity="one">Сниман %d повик.</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Повторно биран %d пати</item>
+        <item quantity="one">Повторно биран %d пат</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s луѓе</item>
+        <item quantity="one">%s лице</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d часови</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Пред половина час</item>
+        <item quantity="one">Пред половина час</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За половина час</item>
+        <item quantity="one">За половина час</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Веднаш</item>
+        <item quantity="one">Веднаш</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минути</item>
+        <item quantity="one">за 1 минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Штотуку</item>
+        <item quantity="one">Штотуку</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d предмети селектирани</item>
+        <item quantity="one">%d предмет селектиран</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">пред %d минути</item>
+        <item quantity="one">Пред 1 минута</item>
+    </plurals>
+</resources>

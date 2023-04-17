@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>ယေဘုယျ ကျေနပ်မှု</item>
+        <item>လွှဲပြောင်းမှု ကြာမြင့်ချိန်</item>
+        <item>လုပ်ငန်းစဉ် အဆင်ပြေမှု</item>
+        <item>ညွှန်ကြားချက် ရှင်းလင်းမှု</item>
+        <item>ဤအင်္ဂါရပ်မှာ အလွန် အသုံးဝင်သည်</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>အလွန် မကျေနပ်ပါ</item>
+        <item>အတော်အတန် မကျေနပ်ပါ</item>
+        <item>သာမန်အဆင့်</item>
+        <item>အတော်အတန် ကျေနပ်သည်</item>
+        <item>အလွန် ကျေနပ်သည်</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>ယေဘုယျ အဆင့်သတ်မှတ်ချက်</item>
+        <item>လွှဲပြောင်းမှု ကြာချိန်</item>
+        <item>လုပ်ငန်းစဉ် အဆင်ပြေမှု</item>
+        <item>ညွှန်ကြားချက် ရှင်းလင်းမှု</item>
+    </string-array>
+</resources>

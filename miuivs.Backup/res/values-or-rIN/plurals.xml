@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ଘଣ୍ଟାରେ</item>
+        <item quantity="one">1 ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ଅଧ ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ଶୀଘ୍ର</item>
+        <item quantity="one">ଶୀଘ୍ର</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d ମିନିଟରେ</item>
+        <item quantity="one">1 ମିନିଟରେ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ଏହିକ୍ଷଣି</item>
+        <item quantity="one">ଏହିକ୍ଷଣି</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dମିନିଟ୍ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%dଟି ଆପ୍‌ ଡାଟା ଫାଇଲ୍‌</item>
+        <item quantity="one">%d ଆପ୍‌ ଡାଟା ଫାଇଲ୍‌</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%dଟି ସିଷ୍ଟମ୍ ଡାଟା ଫାଇଲ୍‌</item>
+        <item quantity="one">%d ସିଷ୍ଟମ୍ ଡାଟା ଫାଇଲ୍‌</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌</item>
+        <item quantity="one">%d ଆଇଟମ୍‌</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ଗୁଡ଼ିକ</item>
+        <item quantity="one">%d ଆଇଟମ୍‌</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d ଆଇଟମ୍</item>
+        <item quantity="one">%1$d/%2$d ଆଇଟମ୍‌</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ଘଣ୍ଟାରେ</item>
+        <item quantity="one">1 ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ଅଧ ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ଶୀଘ୍ର</item>
+        <item quantity="one">ଶୀଘ୍ର</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d ମିନିଟରେ</item>
+        <item quantity="one">1 ମିନିଟରେ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ଏହିକ୍ଷଣି</item>
+        <item quantity="one">ଏହିକ୍ଷଣି</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s ବ୍ୟାକଅପ୍ (%2$s)</item>
+        <item quantity="one">%1$s ବ୍ୟାକଅପ୍ (%2$s)</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ ଚୟନ କରାଯାଇଛି</item>
+        <item quantity="one">%d ଆଇଟମ୍‌ ଚୟନ କରାଯାଇଛି</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">ସଫଳତାର ସହିତ ବ୍ୟାକଅପ୍ ହୋଇଛି। %dଟି ଆଇଟମ ବ୍ୟାକଅପ୍ ହୋଇପାରିଲା ନାହିଁ।</item>
+        <item quantity="one">ସଫଳତାର ସହିତ ବ୍ୟାକଅପ୍ ହୋଇଛି। %dଆଇଟମ ବ୍ୟାକଅପ୍ ହୋଇପାରିଲା ନାହିଁ।</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">ସଫଳତାର ସହିତ ରିଷ୍ଟୋର୍ ହୋଇଛି। %dଟି ଆଇଟମ ରିଷ୍ଟୋର୍ ହୋଇପାରିଲା ନାହିଁ।</item>
+        <item quantity="one">ସଫଳତାର ସହିତ ରିଷ୍ଟୋର୍ ହୋଇଛି। %dଆଇଟମ ରିଷ୍ଟୋର୍ ହୋଇପାରିଲା ନାହିଁ।</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ମିନିଟ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%dଟି ଆଇଟମ୍‌ ଇମ୍ପୋର୍ଟ ହୋଇଛି "</item>
+        <item quantity="one">"%d ଆଇଟମ୍‌ ଇମ୍ପୋର୍ଟ ହୋଇଛି "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ ପୁଣି ଇମ୍ପୋର୍ଟ୍‌ କରନ୍ତୁ</item>
+        <item quantity="one">%d ଆଇଟମ୍‌ ପୁଣି ଇମ୍ପୋର୍ଟ୍‌ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ ଇମ୍ପୋର୍ଟ ଏବଂ ରିଷ୍ଟୋର ହୋଇଛି</item>
+        <item quantity="one">%d ଆଇଟମ୍‌ ଇମ୍ପୋର୍ଟ ଏବଂ ରିଷ୍ଟୋର ହୋଇଛି</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ ରିଷ୍ଟୋର ହୋଇଛି</item>
+        <item quantity="one">%d ଆଇଟମ୍‌ ରିଷ୍ଟୋର ହୋଇଛି</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">ଆଇଟମ</item>
+        <item quantity="one">ଆଇଟମ୍‌</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s |%2$d ଆଇଟମ୍‌</item>
+        <item quantity="one">%1$s |%2$d ଆଇଟମ୍‌</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%dଟି ଆଇଟମ,</item>
+        <item quantity="one">%dଆଇଟମ,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">%d ଆଇଟମ ସ୍ଥାନାନ୍ତର ହୋଇପାରିଲା ନାହିଁ | ବିବରଣୀ ଦେଖିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ |</item>
+        <item quantity="one">%d ଆଇଟମ ସ୍ଥାନାନ୍ତର ହୋଇପାରିଲା ନାହିଁ | ବିବରଣୀ ଦେଖିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ |</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">%d ଆଇଟମ ସ୍ଥାନାନ୍ତର ହୋଇପାରିଲା ନାହିଁ</item>
+        <item quantity="one">%d ଆଇଟମ ସ୍ଥାନାନ୍ତର ହୋଇପାରିଲା ନାହିଁ</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d ମିନିଟ୍‍</item>
+        <item quantity="one">%d ମିନିଟ୍‍</item>
+    </plurals>
+</resources>

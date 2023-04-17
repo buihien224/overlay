@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Tajuk invois: *** Inc.</item>
+        <item>Alamat: Jalan, Apt, Bandar, Negara/Kawasan, Wilayah, Kod pos</item>
+        <item>Sila tinggalkan pakej di depan pintu. Terima kasih!</item>
+        <item>Tunggu sekejap, saya akan kembali.</item>
+        <item>Saya dalam mesyuarat. Sila hantar mesej teks.</item>
+        <item>Saya tidak boleh bercakap sekarang. Saya akan menghubungi anda semula secepat mungkin.</item>
+        <item>Terima kasih!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+        <item quantity="one">Před hodinou</item>
+        <item quantity="few">Před hodinou</item>
+        <item quantity="many">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+        <item quantity="one">Před hodinou</item>
+        <item quantity="few">Před hodinou</item>
+        <item quantity="many">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+        <item quantity="one">Před půl hodinou</item>
+        <item quantity="few">Před půl hodinou</item>
+        <item quantity="many">Před půl hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za hodinu</item>
+        <item quantity="one">Za hodinu</item>
+        <item quantity="few">Za hodinu</item>
+        <item quantity="many">Za hodinu</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+        <item quantity="one">Za půl hodiny</item>
+        <item quantity="few">Za půl hodiny</item>
+        <item quantity="many">Za půl hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+        <item quantity="one">Okamžitě</item>
+        <item quantity="few">Okamžitě</item>
+        <item quantity="many">Okamžitě</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">Za %d minuty</item>
+        <item quantity="many">Za %d minuty</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+        <item quantity="one">Právě teď</item>
+        <item quantity="few">Právě teď</item>
+        <item quantity="many">Právě teď</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
+        <item quantity="few">Před %d dny</item>
+        <item quantity="many">Před %d dny</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Před %d min</item>
+        <item quantity="one">Před %d min</item>
+        <item quantity="few">Před %d min</item>
+        <item quantity="many">Před %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Před %d r.</item>
+        <item quantity="one">Před %d r.</item>
+        <item quantity="few">Před %d r.</item>
+        <item quantity="many">Před %d r.</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">Bylo přidáno %s ovládacích prvků.</item>
+        <item quantity="one">Byl přidán %s ovládací prvek.</item>
+        <item quantity="few">Byly přidány %s ovládací prvky.</item>
+        <item quantity="many">Bylo přidáno %s ovládacího prvku.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplikací je aktivních</item>
+        <item quantity="one">%s aplikace je aktivní</item>
+        <item quantity="few">%s aplikace jsou aktivní</item>
+        <item quantity="many">%s aplikace je aktivních</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+        <item quantity="one">Před půl hodinou</item>
+        <item quantity="few">Před půl hodinou</item>
+        <item quantity="many">Před půl hodinou</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za hodinu</item>
+        <item quantity="one">Za hodinu</item>
+        <item quantity="few">Za hodinu</item>
+        <item quantity="many">Za hodinu</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+        <item quantity="one">Za půl hodiny</item>
+        <item quantity="few">Za půl hodiny</item>
+        <item quantity="many">Za půl hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+        <item quantity="one">Okamžitě</item>
+        <item quantity="few">Okamžitě</item>
+        <item quantity="many">Okamžitě</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">Za %d minuty</item>
+        <item quantity="many">Za %d minuty</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Nesprávný PIN, zbývá %d pokusů</item>
+        <item quantity="one">Nesprávný PIN, zbývá %d pokus</item>
+        <item quantity="few">Nesprávný PIN, zbývají %d pokusy</item>
+        <item quantity="many">Nesprávný PIN, zbývá %d pokusu</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Nesprávný PUK, zbývá %d pokusů</item>
+        <item quantity="one">Nesprávný PUK, zbývá %d pokus</item>
+        <item quantity="few">Nesprávný PUK, zbývají %d pokusy</item>
+        <item quantity="many">Nesprávný PUK, zbývá %d pokusu</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Zadejte heslo zařízení alespoň jednou každých %d hodin, abyste jej nezapomněli</item>
+        <item quantity="one">Zadejte heslo zařízení alespoň jednou každou %d hodinu, abyste jej nezapomněli</item>
+        <item quantity="few">Zadejte heslo zařízení alespoň jednou každé %d hodiny, abyste jej nezapomněli</item>
+        <item quantity="many">Zadejte heslo zařízení alespoň jednou každou %d hodinu, abyste jej nezapomněli</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Zadejte heslo zařízení alespoň jednou každých %d hodin, abyste jej nezapomněli</item>
+        <item quantity="one">Zadejte heslo zařízení alespoň jednou každou %d hodinu, abyste jej nezapomněli</item>
+        <item quantity="few">Zadejte heslo zařízení alespoň jednou každé %d hodiny, abyste jej nezapomněli</item>
+        <item quantity="many">Zadejte heslo zařízení alespoň jednou každou %d hodinu, abyste jej nezapomněli</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Zbývá přibližně %d hodin</item>
+        <item quantity="one">Zbývá přibližně %d hodina</item>
+        <item quantity="few">Zbývají přibližně %d hodiny</item>
+        <item quantity="many">Zbývá přibližně %d hodiny</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Zbývá přibližně %d minut</item>
+        <item quantity="one">Zbývá přibližně %d minuta</item>
+        <item quantity="few">Zbývají přibližně %d minuty</item>
+        <item quantity="many">Zbývá přibližně %d minuty</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Zbývá přibližně %1$d hod. %2$d min.</item>
+        <item quantity="one">Zbývá přibližně %1$d hod. %2$d min.</item>
+        <item quantity="few">Zbývá přibližně %1$d hod. %2$d min.</item>
+        <item quantity="many">Zbývá přibližně %1$d hod. %2$d min.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minuty</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d hod. %2$d min.</item>
+        <item quantity="one">%1$d hod. %2$d min.</item>
+        <item quantity="few">%1$d hod. %2$d min.</item>
+        <item quantity="many">%1$d hod. %2$d min.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Zbývá %d hodin</item>
+        <item quantity="one">Zbývá %d hodina</item>
+        <item quantity="few">Zbývají %d hodiny</item>
+        <item quantity="many">Zbývá %d hodiny</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Zbývá %d minut</item>
+        <item quantity="one">Zbývá %d minuta</item>
+        <item quantity="few">Zbývají %d minuty</item>
+        <item quantity="many">Zbývá %d minuty</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Zbývá %1$d hod. %2$d min.</item>
+        <item quantity="one">Zbývá %1$d hod. %2$d min.</item>
+        <item quantity="few">Zbývá %1$d hod. %2$d min.</item>
+        <item quantity="many">Zbývá %1$d hod. %2$d min.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Zadejte PIN SIM karty. Zbývá %d pokusů.</item>
+        <item quantity="one">Zadejte PIN SIM karty. Zbývá %d pokus, poté bude muset zařízení odemknout operátor.</item>
+        <item quantity="few">Zadejte PIN SIM karty. Zbývají %d pokusy.</item>
+        <item quantity="many">Zadejte PIN SIM karty. Zbývá %d pokusu.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM karta je teď zablokována. Chcete-li pokračovat, zadejte kód PUK. Máte ještě %d pokusů, poté bude SIM karta natrvalo zablokována. Podrobnosti vám poskytne operátor.</item>
+        <item quantity="one">SIM karta je teď zablokována. Chcete-li pokračovat, zadejte kód PUK. Máte ještě %d pokus, poté bude SIM karta natrvalo zablokována. Podrobnosti vám poskytne operátor.</item>
+        <item quantity="few">SIM karta je teď zablokována. Chcete-li pokračovat, zadejte kód PUK. Máte ještě %d pokusy, poté bude SIM karta natrvalo zablokována. Podrobnosti vám poskytne operátor.</item>
+        <item quantity="many">SIM karta je teď zablokována. Chcete-li pokračovat, zadejte kód PUK. Máte ještě %d pokusu, poté bude SIM karta natrvalo zablokována. Podrobnosti vám poskytne operátor.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusů.</item>
+        <item quantity="one">Zadali jste nesprávný PIN SIM karty. Zbývá %d pokus, poté bude muset zařízení odemknout operátor.</item>
+        <item quantity="few">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusy.</item>
+        <item quantity="many">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusu.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Nesprávný kód PUK SIM karty. Máte ještě %d pokusů, poté bude SIM karta natrvalo zablokována.</item>
+        <item quantity="one">Nesprávný kód PUK SIM karty. Máte ještě %d pokus, poté bude SIM karta natrvalo zablokována.</item>
+        <item quantity="few">Nesprávný kód PUK SIM karty. Máte ještě %d pokusy, poté bude SIM karta natrvalo zablokována.</item>
+        <item quantity="many">Nesprávný kód PUK SIM karty. Máte ještě %d pokusu, poté bude SIM karta natrvalo zablokována.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+        <item quantity="one">Právě teď</item>
+        <item quantity="few">Právě teď</item>
+        <item quantity="many">Právě teď</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
+        <item quantity="few">Vybrány %d položky</item>
+        <item quantity="many">Vybráno %d položky</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Skupina obsahuje ještě %s oznámení.</item>
+        <item quantity="one">Skupina obsahuje ještě %s oznámení.</item>
+        <item quantity="few">Skupina obsahuje ještě %s oznámení.</item>
+        <item quantity="many">Skupina obsahuje ještě %s oznámení.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Zkuste to znovu za %d minut</item>
+        <item quantity="one">Zkuste to znovu za %d minutu</item>
+        <item quantity="few">Zkuste to znovu za %d minuty</item>
+        <item quantity="many">Zkuste to znovu za %d minuty</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Zkuste to znovu za %d sekund</item>
+        <item quantity="one">Zkuste to znovu za %d sekundu</item>
+        <item quantity="few">Zkuste to znovu za %d sekundy</item>
+        <item quantity="many">Zkuste to znovu za %d sekundy</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d zařízení</item>
+        <item quantity="one">%d zařízení</item>
+        <item quantity="few">%d zařízení</item>
+        <item quantity="many">%d zařízení</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minuty</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Lze přidat až %d uživatelů.</item>
+        <item quantity="one">Lze vytvořit jen jednoho uživatele.</item>
+        <item quantity="few">Lze přidat až %d uživatele.</item>
+        <item quantity="many">Lze přidat až %d uživatele.</item>
+    </plurals>
+</resources>

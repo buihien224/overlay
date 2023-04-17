@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>వచ్చిన సమయంవారీగా క్రమీకరించు</item>
+        <item>నోటిఫికేషన్‌ల సంఖ్య ఆధారంగా క్రమీకరించు</item>
+        <item>నోటిఫికేషన్‌లను చూపగల అప్లికేషన్‌లు</item>
+        <item>నోటిఫికేషన్‌లను చూపలేని అప్లికేషన్‌లు</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>నోటిఫికేషన్ కంటెంట్‌ను చూపు</item>
+        <item>లాక్ స్క్రీన్ నోటిఫికేషన్‌లను చూపించవద్దు</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>నోటిఫికేషన్ కంటెంట్‌ను చూపు</item>
+        <item>నోటిఫికేషన్‌లను చూపు, కానీ కంటెంట్ దాచిపెట్టు</item>
+        <item>లాక్ స్క్రీన్ నోటిఫికేషన్‌లను చూపించవద్దు</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI </item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Ընդհանուր փորձ</item>
+        <item>Փոխանցման տեւողությունը</item>
+        <item>Գործընթացի պարզությունը</item>
+        <item>Հրահանգների պարզություն</item>
+        <item>Այս հատկությունը օգտակար է</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Շատ դժգոհ</item>
+        <item>Մասամբ դժգոհ</item>
+        <item>Չեզոք</item>
+        <item>Մասամբ գոհ</item>
+        <item>Շատ գոհ</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Ընդհանուր վարկանիշ</item>
+        <item>Փոխանցման տևողությունը</item>
+        <item>Գործընթացի պարզությունը</item>
+        <item>Հրահանգների պարզություն</item>
+    </string-array>
+</resources>

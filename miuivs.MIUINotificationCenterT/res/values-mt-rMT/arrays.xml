@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Issortja skont il-ħin meta ġew irċevuti</item>
+        <item>Issortja skond in-numru tan-notifikazzjonijiet</item>
+        <item>App li jistgħu juru notifikazzjonijiet</item>
+        <item>App li ma jistgħux juru notifikazzjonijiet</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Uri l-kontenut tan-notifikazzjonijiet</item>
+        <item>Turix in-notifikazzjonijiet tal-Iskrin imsakkar</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Uri l-kontenut tan-notifikazzjonijiet</item>
+        <item>Uri n-notifikazzjonijiet iżda aħbi l-kontenut</item>
+        <item>Turix in-notifikazzjonijiet tal-Iskrin imsakkar</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Планетата Земја</item>
+        <item>Позадина/Супер позадини/Планетата Земја</item>
+        <item>Планетата Земја;Супер позадини;Верзија Планета Земја;Позадина</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Геометрија</item>
+        <item>Позадина/Супер позадини/Геометрија</item>
+        <item>Геометрија;Абстрактно;Супер позадина;Позадина</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Црвената планета</item>
+        <item>Позадина/Супер позадини/Црвената планета</item>
+        <item>Марс;Верзија Марс;Супер позадини;Позадини</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Снежни врвови</item>
+        <item>Позадина/Супер позадини/Снежни врвови</item>
+        <item>Земја;Планини;Супер позадина;Позадина</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Супер позадини</item>
+        <item>Позадина/Супер позадини</item>
+        <item>Супер позадини;Позадини;Динамична позадина;3D позадина</item>
+    </string-array>
+</resources>

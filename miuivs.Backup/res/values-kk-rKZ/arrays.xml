@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Жалпы әсер</item>
+        <item>Аударым ұзақтығы</item>
+        <item>Үдерістің қарапайымдылығы</item>
+        <item>Нұсқаулықтың анықтығы</item>
+        <item>Осы мүмкіндіктер пайдалы</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Өте қанағатсыз</item>
+        <item>Қанағатсыз</item>
+        <item>Бейтарап</item>
+        <item>Қанағатпын</item>
+        <item>Өте қанағатпын</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Жалпы рейтинг</item>
+        <item>Аударым уақыты</item>
+        <item>Үдерістің қарапайымдылығы</item>
+        <item>Нұсқаулықтың анықтығы</item>
+    </string-array>
+</resources>

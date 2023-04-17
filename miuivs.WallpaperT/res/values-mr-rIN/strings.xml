@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">दुपार</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">सकाळ</string>
+    <string name="earth_position_content_0">क्रोएशियामधील केप कामेंजाक नेचर पार्कमध्ये भूमध्य किनारपट्टीवरील अत्यंत चित्तथरारक दृश्ये आहेत. इथल्या प्रभावी भौगोलिक स्वरूपामुळे या जागेला डायव्हरच्या नंदनवनात रुपांतरीत केले जाते. प्रत्येक उन्हाळ्यात, चमकदार सूर्य आणि उबदार भूमध्य पाणी असंख्य मैदानी उत्साही लोकांना आकर्षित करते.</string>
+    <string name="earth_position_content_1">टेरेस्ड फील्ड्स मानवी क्रियाकलापांचे परिणाम आहेत, परंतु ते एक विलक्षण निसर्गरम्य ठिकाण म्हणून देखील काम करतात. चीनमध्ये तांदळाचे टेरेस मुख्यत: यांग्त्झी नदीच्या दक्षिणेस आहेत जेथे पाऊस सामान्य आहे आणि पर्वतरांगा भरपूर आहेत. लोंगजी टेरेसेस सुमारे 700 हून अधिक वर्षांपासून आहेत आणि जवळपासच्या खेड्यांमध्ये अनेक ऐतिहासिक वास्तू आहेत.</string>
+    <string name="earth_position_content_2">इलुलिसाट आर्क्टिक सर्कलच्या उत्तरेस 200 किलोमीटर अंतरावर पश्चिम ग्रीनलँडमध्ये आहे. भव्य-56 किलोमीटर लांबीचा इलुलिसाट आईसफजॉर्ड जकोबशावन इस्ब्रू हिमनदीच्या अगदी पुढे आहे. उत्तर गोलार्धातील सर्वात मोठी हिमनदी असल्याने, दरवर्षी 2 अब्ज टन हिमशेल तयार होते. वायव्य दिशेच्या छोट्या दिशेने फिरल्यानंतर ते दक्षिणेकडे वळतात आणि अटलांटिक महासागरामध्ये जातात.</string>
+    <string name="earth_position_content_3">ग्रीसच्या आयऑनियन बेटांमधील झाकिंथोसच्या किनाऱ्यावरील नावागीओ हा सर्वात सुंदर किनाऱ्यांपैकी एक आहे. हे एका प्रसिद्ध जहाज दुर्घटनांचे ठिकाण असल्याचे म्हटले जाते, म्हणूनच या समुद्रकिनार्‍याला \"स्मगलर्स कोव्ह\" देखील म्हटले जाते.</string>
+    <string name="earth_position_content_4">डोलोमाइट्स इटलीच्या ईशान्य भागात स्थित एक पर्वतरांग आहे. माउंट सेसेडा खरोखरच सर्वात नयनरम्य ठिकाणांपैकी एक आहे.</string>
+    <string name="earth_position_title_0">"क्रोएशिया
+केप कामेंजाक"</string>
+    <string name="earth_position_title_1">"गुआंग्सी, चीन
+लोंगजी टेरॅस्ड फील्ड"</string>
+    <string name="earth_position_title_2">"ग्रीनलँड
+इलुलिसाट"</string>
+    <string name="earth_position_title_3">"ग्रीस
+नावागीओ बीच"</string>
+    <string name="earth_position_title_4">"इटली
+डोलोमाइट्स"</string>
+    <string name="earth_summary">पृथ्वी मानवी संस्कृतीचा पाळणा आहे</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">होम</string>
+    <string name="empty" />
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
+    <string name="evening">दुपार</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">h वाजता</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">H वाजता</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'मिलिसेकंद'"</string>
+    <string name="fmt_time_minute">"m'मिनि'"</string>
+    <string name="fmt_time_minute_second">"m'मिनि' s'से'"</string>
+    <string name="fmt_time_minute_second_millis">"m'मिनि' s.S'से'"</string>
+    <string name="fmt_time_second">"s'से'"</string>
+    <string name="fmt_time_second_millis">"s.S'से'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">शुक्रवार</string>
+    <string name="friday_short">शुक्र</string>
+    <string name="friday_shortest">शुक्र</string>
+    <string name="geometry_summary">आकार, प्रकाश, आणि रंग</string>
+    <string name="geometry_super_wallpaper_label">भूमिती</string>
+    <string name="geometry_title">भूमिती</string>
+    <string name="mars_position_content_0">"या प्रदेशात चट्टे, मेसा आणि रुंद सपाट दऱ्या आहेत, असा विश्वास आहे की तो ढिगाने झाकलेल्या हिमनद्यांमुळे तयार झाला आहे. येथे क्ले खनिजेही सापडली आहेत, जी प्राचीन मंगळावरील जीवनाच्या पुराव्यांच्या शोधात खूप रस घेतात. 
+
+NASA/JPL/युनिव्हर्सिटी ऑफ एरिझोना"</string>
+    <string name="mars_position_content_1">"जेव्हा मार्स रोव्हर क्युरोसीटी गेल क्रेटरमधील पाहरम्प हिल शोधत असेल तेव्हा घेतले. शास्त्रज्ञांच्या मते या प्रदेशात पाण्याच्या उपस्थितीत तयार झालेल्या खडक आहेत आणि गडद भाग वाळूचे आहेत.
+
+NASA/JPL/युनिव्हर्सिटी ऑफ एरिझोना"</string>
+    <string name="mars_position_content_2">"मावर्थ व्हॅलिस हा एक पाण्याचा प्राचीन बाह्य प्रवाह आहे ज्यामध्ये हलक्या रंगाची चिकणमाती-समृद्ध खडक आहेत. क्ले खनिजे सहजपणे पृथ्वीवरील सूक्ष्म जीवनाचे रक्षण करतात, म्हणूनच कदाचित मावर्थ येथे प्राचीन जीवनाचे अंश सापडतील.
+
+NASA/JPL/युनिव्हर्सिटी ऑफ एरिझोना"</string>
+    <string name="mars_position_content_3">"मार्स रोव्हर क्युरीओसीटी गेल क्रेटरमधील पह्रंप डोंगरांचा शोध घेत असताना या प्रतिमा घेण्यात आल्या. या प्रदेशात असणारे गाळयुक्त खडक पाण्याच्या उपस्थितीबाबत वैज्ञानिकांना खात्री देतात. गडद भाग वाळूचे आहेत.
+
+NASA/JPL/युनिव्हर्सिटी ऑफ एरिझोना"</string>
+    <string name="mars_position_content_4">"बहराम व्हॅलिस ही एकमेव खोड नदी खोरे आहे, काही ठिकाणी भिंती बांधल्या आहेत. त्याच्या मजल्यावरील सुव्यवस्थित इरोशनल वैशिष्ट्यांचा उपस्थिती दर्शविते की द्रव तयार होणे सुरु होते.
+
+NASA/JPL/युनिव्हर्सिटी ऑफ एरिझोना"</string>
+    <string name="mars_position_title_0">"निलोसिर्तिस
+मेन्से प्रदेश"</string>
+    <string name="mars_position_title_1">गेल क्रेटर</string>
+    <string name="mars_position_title_2">"मावर्थ खोऱ्यामधील
+ क्रेटर्स"</string>
+    <string name="mars_position_title_3">पह्रंप हिल्स</string>
+    <string name="mars_position_title_4">बहराम व्हॅलिस</string>
+    <string name="mars_summary">मंगळावरील विशाल वाळवंटांनी मानवतेला नेहमीच धक्का दिला आहे</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">लाल ग्रह</string>
+    <string name="midnight">रात्र</string>
+    <string name="monday">सोमवार</string>
+    <string name="monday_short">सोमवार</string>
+    <string name="monday_shortest">सोम</string>
+    <string name="month_april">एप्रिल</string>
+    <string name="month_april_short">एप्रि</string>
+    <string name="month_april_shortest">एप्रि</string>
+    <string name="month_august">ऑगस्ट</string>
+    <string name="month_august_short">ऑग</string>
+    <string name="month_august_shortest">ऑग</string>
+    <string name="month_december">डिसेंबर</string>
+    <string name="month_december_short">डिसें</string>
+    <string name="month_december_shortest">डिसें</string>
+    <string name="month_february">फेब्रुवारी</string>
+    <string name="month_february_short">फेब्रु</string>
+    <string name="month_february_shortest">फेब्रु</string>
+    <string name="month_january">जानेवारी</string>
+    <string name="month_january_short">जाने</string>
+    <string name="month_january_shortest">जाने</string>
+    <string name="month_july">जुलै</string>
+    <string name="month_july_short">जुलै</string>
+    <string name="month_july_shortest">जुलै</string>
+    <string name="month_june">जून</string>
+    <string name="month_june_short">जून</string>
+    <string name="month_june_shortest">जून</string>
+    <string name="month_march">मार्च</string>
+    <string name="month_march_short">मार्च</string>
+    <string name="month_march_shortest">मार्च</string>
+    <string name="month_may">मे</string>
+    <string name="month_may_short">मे</string>
+    <string name="month_may_shortest">मे</string>
+    <string name="month_november">नोव्हेंबर</string>
+    <string name="month_november_short">नोव्हें</string>
+    <string name="month_november_shortest">नोव्हें</string>
+    <string name="month_october">ऑक्टोबर</string>
+    <string name="month_october_short">ऑक्टो</string>
+    <string name="month_october_shortest">ऑक्टो</string>
+    <string name="month_september">सप्टेंबर</string>
+    <string name="month_september_short">सप्टें</string>
+    <string name="month_september_shortest">सप्टें</string>
+    <string name="morning">सकाळ</string>
+    <string name="night">संध्याकाळ</string>
+    <string name="noon">दिवसा</string>
+    <string name="pm">PM</string>
+    <string name="saturday">शनिवार</string>
+    <string name="saturday_short">शनि</string>
+    <string name="saturday_shortest">शनि</string>
+    <string name="saturn_summary">शनीचे कडे सौर मंडळामध्ये सर्वात अविश्वसनीय देखावा निर्माण करतात</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">फेअरवे रिंग्ज</string>
+    <string name="snowmountain_summary">माउंट सिगुनियांगचा सनलिट डोंगर उतार</string>
+    <string name="snowmountain_super_wallpaper_label">हिमाच्छादित शिखर</string>
+    <string name="snowmountain_title">हिमाच्छादित शिखर</string>
+    <string name="sunday">रविवार</string>
+    <string name="sunday_short">रविवार</string>
+    <string name="sunday_shortest">रवि</string>
+    <string name="super_wallpaper_list_label">सुपर वॉलपेपर्स</string>
+    <string name="thursday">गुरुवार</string>
+    <string name="thursday_short">गुरु</string>
+    <string name="thursday_shortest">गुरु</string>
+    <string name="time_picker_label_hour">तास</string>
+    <string name="time_picker_label_minute">मिनिट</string>
+    <string name="tomorrow">उद्या</string>
+    <string name="tuesday">मंगळवार</string>
+    <string name="tuesday_short">मंगळवार</string>
+    <string name="tuesday_shortest">मंगळ</string>
+    <string name="wednesday">बुधवार</string>
+    <string name="wednesday_short">बुधवार</string>
+    <string name="wednesday_shortest">बुध</string>
+    <string name="yesterday">काल</string>
+</resources>

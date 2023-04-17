@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>পাওয়ার তারিখ অনুযায়ী বাছুন</item>
+        <item>বিজ্ঞপ্তির সংখ্য়া অনুযায়ী বাছুন</item>
+        <item>অ্যাপ যাতে বিজ্ঞপ্তি দেখানো যেতে পারে</item>
+        <item>অ্যাপ যাতে বিজ্ঞপ্তি দেখানো যেতে পারে না</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>বিজ্ঞপ্তির বিষয়বস্তু দেখান</item>
+        <item>লক স্ক্রিন বিজ্ঞপ্তি দেখাবেন না</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>বিজ্ঞপ্তির বিষয়বস্তু দেখান</item>
+        <item>বিজ্ঞপ্তি দেখান তবে সেগুলির বিষয়বস্তু লুকান</item>
+        <item>লক স্ক্রিন বিজ্ঞপ্তি দেখাবেন না</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

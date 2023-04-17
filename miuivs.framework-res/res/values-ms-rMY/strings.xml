@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB debugging aktif</string>
+    <string name="lock_to_app_description">"Pin skrin mengunci paparan dalam pandangan tunggal.
+
+Untuk batal skrin, tekan dan tahan butang Kuasa dan Utama secara serentak."</string>
+    <string name="lock_to_app_description_accessible">"Pin skrin mengunci paparan dalam pandangan tunggal.
+
+Untuk batal skrin, tekan dan tahan butang Kuasa dan Utama secara serentak."</string>
+    <string name="lock_to_app_toast">Untuk batal pin skrin ini, tekan dan tahan butang Kuasa dan Utama secara serentak.</string>
+    <string name="lock_to_app_toast_accessible">Untuk batal pin skrin ini, tekan dan tahan butang Kuasa dan Utama secara serentak.</string>
+    <string name="lockscreen_missing_sim_instructions">Masukkan kad SIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">Kad SIM hilang atau tidak boleh dibaca. Masukkan kad SIM.</string>
+    <string name="lockscreen_missing_sim_message">Tiada kad SIM dalam telefon.</string>
+    <string name="lockscreen_missing_sim_message_short">Tiada kad SIM</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Kad SIM anda telah dinyahdayakan secara tetap.
+Sila hubungi pembekal khidmat tanpa wayar anda untuk mendapatkan kad SIM yang lain."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Kad SIM tidak boleh digunakan.</string>
+    <string name="tethered_notification_message">Klik untuk tetapkan.</string>
+    <string name="tethered_notification_multi_device_message">Peranti tersambung: %1$s</string>
+    <string name="tethered_notification_no_device_message">Tiada peranti bersambung</string>
+    <string name="tethered_notification_one_device_message">Peranti tersambung: %1$s</string>
+    <string name="tethered_notification_title">Penambatan atau hotspot aktif</string>
+    <string name="usb_midi_notification_title">MIDI via USB hidup</string>
+    <string name="usb_mtp_notification_title">Pemindahan fail USB hidup</string>
+    <string name="usb_ptp_notification_title">PTP via USB hidup</string>
+    <string name="usb_tether_notification_title">Penambatan USB hidup</string>
+    <string name="usb_unsupported_audio_accessory_message">Peranti bersambung tidak serasi dengan telefon ini. Klik untuk mengetahui lebih lanjut.</string>
+    <string name="usb_unsupported_audio_accessory_title">Aksesori audio analog yang dikesan</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Panggil</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Notifikasi</string>
+    <string name="volume_icon_description_ringer">Pendering</string>
+</resources>

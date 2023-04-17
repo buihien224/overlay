@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>མིང་།</item>
+        <item>གཅེས་མིང་།</item>
+        <item>ཁ་པར།</item>
+        <item>སྦྲག་ཡིག</item>
+        <item>ཀུང་སི་།</item>
+        <item>དུས་ཐོག་གསར་འགྱུར།</item>
+        <item>དྲ་རྒྱའི་ཁ་པར།</item>
+        <item>སྐྱེས་སྐར།</item>
+        <item>དྲ་ཚིགས།</item>
+        <item>ས་གནས།</item>
+        <item>ཟུར་མཆན།</item>
+        <item>འབྲེལ་བ།</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>【%s】ཡིས་བསྐུར་བའི་ཚོང་པའི་ཁྱབ་གདལ་འཕྲིན་ཐུང་།</item>
+        <item>【%s】བསྐུར་བའི་ཚོང་གཉེར་གྱིས་བསྐུར་བའི་ཁྱབ་གདལ་འཕྲིན་ཐུང་།</item>
+        <item>【%s】ཡིས་བསྐུར་བའི་དངུལ་རྩའི་ཁྱབ་གདལ་འཕྲིན་ཐུང་།</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>ཆེས་རིང་བ།</item>
+        <item>ཉིན་གཉིས།</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>སྒྲིག་འགོད་མི་བྱེད།</item>
+        <item>དུས་ཚོད1</item>
+        <item>དུས་ཚོད་6</item>
+        <item>དུས་ཚོད12</item>
+        <item>ཉིན1</item>
+        <item>ཆེས་རིང་བ།</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>མགོ་མཇུག</item>
+        <item>སྒྲ་མེད་སྐབས་ཁོ་ནར།</item>
+        <item>ཚང་མ་མིན།</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>བླངས་ནས་བརྡ་གཏོང་།</item>
+        <item>ལེན་པ་གཅིག་པུ།</item>
+        <item>མི་ལེན།</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>ཚོན་འཕྲིན་བརྒྱུད་དེ།</item>
+        <item>དྲ་ལམ་འཕྲིན་ཐུང་བརྒྱུད་དེ།</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>འཕྲིན་ཐུང་བརྒྱུད་དེ།</item>
+        <item>དྲ་ལམ་འཕྲིན་ཐུང་བརྒྱུད་དེ།</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>སྐར་ཆ1</item>
+        <item>སྐར་ཆ་2</item>
+        <item>སྐར་ཆ3</item>
+        <item>སྐར་ཆ4</item>
+        <item>"སྐར་ཆ5 "</item>
+        <item>སྐར་ཆ་6</item>
+        <item>སྐར་ཆ7</item>
+        <item>སྐར་ཆ8</item>
+        <item>སྐར་ཆ9</item>
+        <item>སྐར་ཆ10</item>
+        <item>གཞན་དག</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>ཞའོ་མཱི་རིག་ལྡན་འཕྲིན་ཐུང་།</item>
+        <item>ཀྲུང་གོའི་སྒུལ་འཕྲིན་རིག་ལྡན་འཕྲིན་ཐུང་།</item>
+    </string-array>
+    <string-array name="message_sending_method">
+        <item>རང་འགུལ་གྱིས་ཆེས་ལེགས་པའི་ཐབས་ལམ་གྱིས་བསྐུར་བ་གདམ་པ།</item>
+        <item>འཕྲིན་ཐུང་། ཚོན་འཕྲིན།</item>
+        <item>RCSཆ་འཕྲིན། RCSཡིག་ཆ་བརྒྱུད་བསྐུར།</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>rcsཡིག་ཆ་བསྐུར་མ་ཐུབ་ཚེ་རྟག་ཏུ་འཕྲིན་ཐུང་གི་རྣམ་པས་བསྐུར་ཞིང་། རྗེས་ནས་འདྲི་རྩད་མི་བྱེད།</item>
+        <item>rcsཡིག་ཆ་བརྒྱུད་བསྐུར་བྱེད་མི་ཐུབ་ཚེ་རྗེས་ནས་འཕྲིན་ཐུང་གི་ལམ་ནས་བསྐུར་མི་དགོས། རྗེས་ནས་འདྲི་རྩད་བྱེད་མི་དགོས།</item>
+        <item>rcsཆ་འཕྲིན་བསྐུར་མ་ཐུབ་ཚེ་འདྲི་རྩད་བྱེད།</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>rcsཡིག་ཆ་བསྐུར་མ་ཐུབ་ཚེ་འཕྲིན་ཐུང་གི་རྣམ་པས་བསྐུར་སྲིད་ལ། རྗེས་ནས་འདྲི་རྩད་མི་བྱེད།</item>
+        <item>rcsཆ་འཕྲིན་བསྐུར་མ་ཐུབ་ཚེ་འཕྲིན་ཐུང་གི་རྣམ་པས་མི་བསྐུར། རྗེས་ནས་འདྲི་རྩད་མི་བྱེད།</item>
+        <item>rcsཆ་འཕྲིན་བསྐུར་མ་ཐུབ་ཚེ་འདྲི་རྩད་བྱེད།</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>རྟག་ཏུ་འདྲི་རྩད།</item>
+        <item>གདོད་མའི་འདྲ་པར།</item>
+        <item>མཉམ་བསྐུམ་འདྲ་པར།</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>རྟག་ཏུ་འདྲི་རྩད།</item>
+        <item>གདོད་མའི་བརྙན་ཟློས།</item>
+        <item>བསྐུམ་པའི་བརྙན་ཟློས།</item>
+    </string-array>
+</resources>

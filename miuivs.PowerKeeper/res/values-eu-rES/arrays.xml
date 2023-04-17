@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_classify1">
+        <item>Pertsonalizatu</item>
+        <item>MIUI bateria aurreztailea</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aplikazio aktiboak</item>
+        <item>Aplikazio inaktiboak</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Aplikazioak lotara bidali</item>
+        <item>Energia gorde</item>
+    </string-array>
+</resources>

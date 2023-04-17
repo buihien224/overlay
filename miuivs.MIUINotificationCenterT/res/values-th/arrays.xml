@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>เรียงตามเวลาที่ได้รับ</item>
+        <item>เรียงตามจำนวนการแจ้งเตือน</item>
+        <item>แอปที่สามารถแสดงการแจ้งเตือน</item>
+        <item>แอปที่ไม่สามารถแสดงการแจ้งเตือน</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>แสดงเนื้อหาการแจ้งเตือน</item>
+        <item>ไม่แสดงการแจ้งเตือนหน้าจอล็อก</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>แสดงเนื้อหาการแจ้งเตือน</item>
+        <item>แสดงการแจ้งเตือนแต่ซ่อนเนื้อหา</item>
+        <item>ไม่แสดงการแจ้งเตือนหน้าจอล็อก</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sorter etter tidspunkt mottatt</item>
+        <item>Sorter etter antall varsler</item>
+        <item>Apper som kan vise varsler</item>
+        <item>Apper som ikke kan vise varsler</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Vis innhold i varsler</item>
+        <item>Ikke vis varsler på låseskjerm</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Vis innhold i varsler</item>
+        <item>Vis varsler, men skjul innhold</item>
+        <item>Ikke vis varsler på låseskjerm</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

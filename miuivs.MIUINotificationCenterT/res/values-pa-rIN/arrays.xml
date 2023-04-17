@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>ਪ੍ਰਾਪਤ ਕੀਤੇ ਸਮੇਂ ਮੁਤਾਬਕ ਛਾਂਟੋ</item>
+        <item>ਸੂਚਨਾਵਾਂ ਦੀ ਸੰਖਿਆ ਮੁਤਾਬਕ ਛਾਂਟੋ</item>
+        <item>ਉਹ ਐਪਾਂ ਜੋ ਸੂਚਨਾਵਾਂ ਦਿਖਾ ਸਕਦੀਆਂ ਹਨ</item>
+        <item>ਉਹ ਐਪਾਂ ਜੋ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਦਿਖਾ ਸਕਦੀਆਂ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>ਸੂਚਨਾ ਸਮੱਗਰੀ ਦਿਖਾਓ</item>
+        <item>ਲਾਕ ਸਕ੍ਰੀਨ ਸੂਚਨਾਵਾਂ ਨਾ ਦਿਖਾਓ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>ਸੂਚਨਾ ਸਮੱਗਰੀ ਦਿਖਾਓ</item>
+        <item>ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ ਪਰ ਸਮੱਗਰੀ ਲੁਕਾਓ</item>
+        <item>ਲਾਕ ਸਕ੍ਰੀਨ ਸੂਚਨਾਵਾਂ ਨਾ ਦਿਖਾਓ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

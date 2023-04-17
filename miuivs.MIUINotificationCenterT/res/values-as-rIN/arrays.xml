@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>প্ৰাপ্ত সময় অনুসৰি ক্ৰমবদ্ধ কৰক</item>
+        <item>অধিসূচনাৰ সংখ্যা অনুসৰি ক্ৰমবদ্ধ কৰক</item>
+        <item>অধিসূচনা দেখুৱাব পৰা এপসমূহ</item>
+        <item>অধিসূচনা দেখুৱাব নোৱাৰা এপসমূহ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>অধিসূচনা সমল দেখুৱাওক</item>
+        <item>লক স্ক্রীণ অধিসূচনাসমূহ নেদেখুৱাব</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>অধিসূচনা সমল দেখুৱাওক</item>
+        <item>অধিসূচনা দেখুৱাওক কিন্ত সমল লুকুৱাওক</item>
+        <item>লক স্ক্রীণ অধিসূচনাসমূহ নেদেখুৱাব</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

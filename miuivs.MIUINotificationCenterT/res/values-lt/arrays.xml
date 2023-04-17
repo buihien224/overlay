@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Rikiuoti pagal gavimo datą</item>
+        <item>Rūšiuoti pagal pranešimų skaičių</item>
+        <item>Programos, kurios gali rodyti pranešimus</item>
+        <item>Programos, kurios negali rodyti pranešimų</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Rodyti pranešimo turinį</item>
+        <item>Nerodyti užrakto ekrano pranešimų</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Rodyti pranešimo turinį</item>
+        <item>Rodyti pranešimus, bet slėpti turinį</item>
+        <item>Nerodyti užrakto ekrano pranešimų</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>„MIUI“</item>
+        <item>„Android“</item>
+    </string-array>
+</resources>

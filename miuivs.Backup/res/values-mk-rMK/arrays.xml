@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Целокупно искуство</item>
+        <item>Времетраење на пренос</item>
+        <item>Едноставност на процесот</item>
+        <item>Јасност на упатствата</item>
+        <item>Оваа функција е корисна</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Многу незадоволни</item>
+        <item>Малку незадоволен</item>
+        <item>Неутрален</item>
+        <item>Малку задоволен</item>
+        <item>Многу задоволен</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Генерални оценки</item>
+        <item>Времетраење на трансфер</item>
+        <item>Едноставност на процесот</item>
+        <item>Јасност на упатствата</item>
+    </string-array>
+</resources>

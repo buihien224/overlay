@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">Depuración USB activada</string>
+    <string name="lock_to_app_description">"O fixado da pantalla a bloquea nunha única vista.
+
+Para soltala, mantén premidos os botóns de Inicio e Acendido a mesma vez."</string>
+    <string name="lock_to_app_description_accessible">"O fixado da pantalla a bloquea nunha única vista.
+
+Para soltala, mantén premidos os botóns de Inicio e Acendido a mesma vez."</string>
+    <string name="lock_to_app_toast">Para soltar esta pantalla, mantén premidos os botóns de Inicio e Acendido a mesma vez.</string>
+    <string name="lock_to_app_toast_accessible">Para soltar esta pantalla, mantén premidos os botóns de Inicio e Acendido a mesma vez.</string>
+    <string name="lockscreen_missing_sim_instructions">Inserir un cartón SIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">O cartón SIM non está presente ou non se pode ler. Insire un.</string>
+    <string name="lockscreen_missing_sim_message">Sen cartón SIM no teléfono.</string>
+    <string name="lockscreen_missing_sim_message_short">Sen cartón SIM</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"O teu cartón SIM desactivouse permanentemente.
+Por favor, contacta co teu operador móbil para obter un."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Cartón SIM inutilizábel.</string>
+    <string name="tethered_notification_message">Tocar para configurar.</string>
+    <string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
+    <string name="tethered_notification_no_device_message">Dispositivo non conectado</string>
+    <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
+    <string name="tethered_notification_title">Inmobilización ou punto de acceso activo</string>
+    <string name="usb_midi_notification_title">O MIDI a través de USB está activado</string>
+    <string name="usb_mtp_notification_title">A transferencia de ficheiros por USB está activada</string>
+    <string name="usb_ptp_notification_title">O PTP a través de USB está activado</string>
+    <string name="usb_tether_notification_title">Módem USB activado</string>
+    <string name="usb_unsupported_audio_accessory_message">O dispositivo conectado non é compatible con este teléfono. Toca para saber máis.</string>
+    <string name="usb_unsupported_audio_accessory_title">Detectouse un accesorio de audio analóxico</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Chamar</string>
+    <string name="volume_icon_description_media">Multimedia</string>
+    <string name="volume_icon_description_notification">Notificación</string>
+    <string name="volume_icon_description_ringer">Ton</string>
+</resources>

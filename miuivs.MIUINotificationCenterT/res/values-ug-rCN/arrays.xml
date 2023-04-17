@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>ئەۋەتكەن ۋاقتى بويىچە تىزىش</item>
+        <item>ئەۋەتىش سانى بويىچە تىزىش</item>
+        <item>پەقەت ئېچىلغانلىرىنىلا كۆرسىتىش</item>
+        <item>پەقەت تاقاقلىرىنىلا كۆرسىتىش</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>ئۇقتۇرۇش مەزمۇنىنى كۆرسىتىش</item>
+        <item>بارلىق قۇلۇپ ئېكرانى ئۇقتۇرۇشىنى تاقاش</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>ئۇقتۇرۇش مەزمۇنىنى كۆرسىتىش</item>
+        <item>ئۇقتۇرۇشنى كۆرسىتىش لېكىن مەزمۇنىنى يوشۇرۇش</item>
+        <item>بارلىق قۇلۇپ ئېكرانى ئۇقتۇرۇشىنى تاقاش</item>
+    </string-array>
+</resources>

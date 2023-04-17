@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 tund tagasi</item>
+        <item quantity="one">1 tund tagasi</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 tunni pärast</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Otsekohe</item>
+        <item quantity="one">Otsekohe</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just nüüd</item>
+        <item quantity="one">Just nüüd</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pool tundi tagasi</item>
+        <item quantity="one">Pool tundi tagasi</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 tunni jooksul</item>
+        <item quantity="one">1 tunni pärast</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Poole tunni pärast</item>
+        <item quantity="one">Poole tunni pärast</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Kohe</item>
+        <item quantity="one">Kohe</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">1 minuti pärast</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Vale PIN kood, võid proovida veel, %d korda</item>
+        <item quantity="one">Vale PIN kood, võid proovida veel, %d korra</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Vale PUK kood, võid proovida veel %d korda</item>
+        <item quantity="one">Vale PUK kood, võid proovida veel %d korra</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Sisesta oma salasõna vähemalt iga %d tunni tagant, et see alatiseks meelde jätta</item>
+        <item quantity="one">Sisesta oma salasõna vähemalt iga %d tunni tagant, et see alatiseks meelde jätta</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Sisesta oma salasõna vähemalt iga %d tunni tagant, et see alatiseks meelde jätta</item>
+        <item quantity="one">Sisesta oma salasõna vähemalt iga %d tunni tagant, et see alatiseks meelde jätta</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Jäänud umbes %d tundi</item>
+        <item quantity="one">Jäänud umbes %d tund</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Jäänud umbes %d minutit</item>
+        <item quantity="one">Jäänud umbes %d minut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Jäänud umbes %1$d h %2$d m</item>
+        <item quantity="one">Jäänud umbes %1$d h %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minutit</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Jäänud %d tundi</item>
+        <item quantity="one">Jäänud %d tund</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Jäänud %d minutit</item>
+        <item quantity="one">Jäänud %d minut</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Jäänud %1$d h %2$d m</item>
+        <item quantity="one">Jäänud %1$d h %2$d m</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just praegu</item>
+        <item quantity="one">Just praegu</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d üksuseid kustutatud</item>
+        <item quantity="one">%d üksus kustutatud</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d uut teavitust</item>
+        <item quantity="one">%d uus teavitus</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">1 minut tagasi</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Proovi uuesti %d minuti pärast</item>
+        <item quantity="one">Proovi uuesti %d minuti pärast</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Proovi uuesti %d sekundi pärast</item>
+        <item quantity="one">Proovi uuesti %d sekundi pärast</item>
+    </plurals>
+</resources>

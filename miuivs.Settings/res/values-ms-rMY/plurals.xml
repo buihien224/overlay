@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dalam masa %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Jangan sekali-kali nyahakatif %d apl</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Sentiasa nyahaktif %d apl</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d aplikasi dibenarkan untuk automula</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d apl dapat bersambung ke rangkaian</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d apl tidak dapat bersambung ke rangkaian</item>
+    </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d peranti tersedia</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Setiap %d saat</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d peranti</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Hadkan sambungan untuk %s apl</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d orang tersambung</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dalam masa %d minit</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Anda boleh memasukkan sehingga %d karakter</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Masukkan sekurang-kurangnya %d karakter</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN mestilah %d digit</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Anda boleh memasukkan sehingga %d digit</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Masukkan sekurang-kurangnya %d digit</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Sambungkan sekurangnya %d titik. Cuba lagi.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Terlalu banyak percubaan salah. Cuba lagi selepas %d saat.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Tunggu %d saat dan cuba sekali lagi.</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d ditambah</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi akan dihidupkan secara automatik apabila peranti anda mengesan rangkaian yang disimpan berdekatan dan dimatikan selepas %d minit sekiranya tidak ada sambungan yang tersambung</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kandungan dipilih</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d item dipilih</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">%1$d langkah lagi untuk masuk ke CIT.</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Anda mempunyai %1$d langkah lagi untuk membuka info peranti.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">%1$d langkah lagi untuk melaporkan bug.</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d apl tidak dapat memaparkan notifikasi</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d apl tidak dapat memaparkan notifikasi</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Terima peringatan apabila salah satu fon telinga anda jauh dari telinga atau bekas pengecasan lebih lama daripada %d minit</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Kunci dibuka %d kali</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Kunci dibuka %d kali</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Terima %d notifikasi</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Terima %d notifikasi</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" jam"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" min"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d notifikasi</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d kali</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Hujung minggu: %d jam</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Hujung minggu: %d minit</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Hari bekerja: %d jam</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Hari bekerja: %d min</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" jam"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risiko dijumpai</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d rangkaian dikongsi</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d peranti tersambung</item>
+    </plurals>
+</resources>

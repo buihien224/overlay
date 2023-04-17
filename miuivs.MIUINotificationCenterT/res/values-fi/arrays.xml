@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Järjestä vastaanottoajan mukaan</item>
+        <item>Järjestä ilmoitusten lukumäärän mukaan</item>
+        <item>Sovellukset, jotka voivat näyttää ilmoituksia</item>
+        <item>Sovellukset, jotka eivät voi näyttää ilmoituksia</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Näytä ilmoituksen sisältö</item>
+        <item>Älä näytä lukitusnäytön ilmoituksia</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Näytä ilmoituksen sisältö</item>
+        <item>Näytä ilmoitukset, mutta piilota sisältö</item>
+        <item>Älä näytä lukitusnäytön ilmoituksia</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

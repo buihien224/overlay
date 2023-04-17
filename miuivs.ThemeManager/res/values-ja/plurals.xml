@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d時間前</item>
+        <item quantity="one">%d時間前</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d分前</item>
+        <item quantity="one">%d分前</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d件のコメント</item>
+        <item quantity="one">%d件のコメント</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">%1$d個のテーマで更新が利用可能です。</item>
+        <item quantity="one">%1$d個のテーマで更新が利用可能です。</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">%1$d個のテーマで更新が利用可能です</item>
+        <item quantity="one">%1$d個のテーマで更新が利用可能です</item>
+    </plurals>
+</resources>

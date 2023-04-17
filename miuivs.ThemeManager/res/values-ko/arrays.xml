@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_version">
+        <item>비주얼 차이나</item>
+        <item>동방IC</item>
+    </string-array>
+</resources>

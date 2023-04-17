@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Zemlja</item>
+        <item>Ozadje/Super ozadja/Zemlja</item>
+        <item>Zemlja;Super ozadja;Izdaja zemlja;Ozadje</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Ozadje/Super ozadja/Geometrija</item>
+        <item>Geometrija;Abstraktno;Super ozadja;Ozadje</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Rdeči planet</item>
+        <item>Ozadje/Super ozadje/Rdeči planet</item>
+        <item>Mars;Izdaja Mars;Super ozadja;Ozadje</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Zasneženi vrhi</item>
+        <item>Ozadje/Super ozadja/Zasneženi vrhi</item>
+        <item>Zemlja;Gora;Super ozadja;Ozadje</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super ozadja</item>
+        <item>Ozadja/Super ozadja</item>
+        <item>Super ozadja;Ozadje;Dinamično ozadje;3D ozadje</item>
+    </string-array>
+</resources>

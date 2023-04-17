@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Gizonezkoa</item>
+        <item>Emakumezkoa</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Kontuak</item>
+        <item>Gehitu eta kudeatu hirugarrenen kontuak</item>
+        <item>Kontuak;SNS;Facebook;Google;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Kontuak</item>
+        <item>Gehitu eta kudeatu hirugarrenen kontuak</item>
+        <item>Kontuak;SNS;WeChat;QQ;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Pasahitza aldatu</item>
+        <item>Xiaomi Kontuaren pasahitza aldatu</item>
+        <item>Aldatu pasahitza;Eguneratu pasahitza;XiaomiKontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Familiaren biltegiratze espazioa</item>
+        <item>Ikusi/aktibatu Familiaren biltegiratze espazioa</item>
+        <item>Familiaren biltegiratze espazioa;Biltegiratzea partekatzea</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familia zerbitzuak</item>
+        <item>Ikusi/aktibatu Familia zerbitzuak</item>
+        <item>Familia;Familia zerbitzuak:Familiarekin partekatzea</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Laguntza</item>
+        <item>Lortu Xiaomi Kontuaren laguntza eta euskarria</item>
+        <item>Xiaomi Kontua;Kontua;Xiaomi Kontua;Kontuaren laguntza;Laguntza zentroa</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2 pausotako egiaztatzea</item>
+        <item>2 pausotako egiaztatzea ezarri zure Xiaomi Kontuarentzako</item>
+        <item>Hasi saioa;Hasi saioa;Bi urratseko egiaztatzea;Xiaomi;Kontua;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Kontuaren segurtasuna</item>
+        <item>Berreskuratze telefonoa eta posta elektronikoa, pasahitzen kudeaketa</item>
+        <item>Kontuaren segurtasuna;Saioa hastea;Berreskuratze telefonoa;Berreskuratze posta elektronikoa;Kontuaren babesa;Telefono zenbakia;Posta elektronikoa;Aldatu pasahitza;Gehitu telefono zenbakia;Gehitu posta elektronikoa;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Gailuak</item>
+        <item>Kudeatu Xiaomi Kontuarekin lotutako gailuak</item>
+        <item>Kudeatu gailuak;Nire gailuak;Gailuak;Gailuen zerrenda;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Pribatutasun politika</item>
+        <item>Ikusi Xiaomi Kontuaren Pribatutasun politika</item>
+        <item>Xiaomi Kontua;Kontua;Xiaomi Kontua;Pribatutasun politika</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Berreskuratze posta elektronikoa</item>
+        <item>Gehitu berreskuratze posta elektronikoa</item>
+        <item>Berreskuratze posta elektronikoa;Posta elektronikoa;Gehitu posta elektronikoa;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Berreskuratze telefonoa</item>
+        <item>Gehitu berreskuratze telefonoa</item>
+        <item>Berreskuratze telefonoa;Gehitu telefonoa;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Iragarkiak</item>
+        <item>Kudeatu sistemaren iragarkiak</item>
+        <item>Iragarkiak;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontuaren informazioa</item>
+        <item>Ikusi profileko argazkia eta kudeatu kontuaren informazioa</item>
+        <item>Informazio pertsonala;profileko argazkia;ezizena;kontuaren informazioa;Mi IDa;IDa;Xiaomi Kontua;Kontua;Xiaomi Kontua</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Erabiltzailearen Akordioa</item>
+        <item>Erabiltzailearen akordioa</item>
+        <item>Xiaomi Kontua;Kontua;Xiaomi Kontua;Erabiltzailearen akordioa;EULA</item>
+    </string-array>
+</resources>

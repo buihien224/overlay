@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">ક્લિપબોર્ડમાં આઇટમ્સને આપમેળે અ‍ૅક્સેસ કરવા %1$s મંજૂરી આપવામાં આવી %2$d સમય</item>
+        <item quantity="one">ક્લિપબોર્ડમાં આઇટમ્સને આપમેળે અ‍ૅક્સેસ કરવા %1$s મંજૂરી આપવામાં આવી %2$d સમય</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">%1$s દ્વારા ક્લિપબોર્ડ અ‍ૅક્સેસ કરવાના %2$d પ્રયાસ બ્લોક કરવામાં આવ્યા</item>
+        <item quantity="one">%1$s દ્વારા ક્લિપબોર્ડ અ‍ૅક્સેસ કરવાના %2$d પ્રયાસ બ્લોક કરવામાં આવ્યો</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s ક્લિપબોર્ડમાં અ‍ૅક્સેસ કરેલી આઇટમ્સ %2$d સમય</item>
+        <item quantity="one">%1$s ક્લિપબોર્ડમાં અ‍ૅક્સેસ કરેલી આઇટમ્સ %2$d સમય</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d આઇટમો પસંદ કરેલ છે</item>
+        <item quantity="one">%d આઇટમ પસંદ કરેલ છે</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલા</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">તમે ક્લિપબોર્ડને અ‍ૅક્સેસ કરવાની %2$s ને મંજૂરી આપી છે %1$d સમય પહેલેથી જ. શું તમે હંમેશા ક્લિપબોર્ડને અ‍ૅક્સેસ કરવા માટે %3$s ને મંજૂરી આપવા માંગો છો</item>
+        <item quantity="one">તમે ક્લિપબોર્ડને અ‍ૅક્સેસ કરવાની %2$s ને મંજૂરી આપી છે %1$d સમય પહેલેથી જ. શું તમે હંમેશા ક્લિપબોર્ડને અ‍ૅક્સેસ કરવા માટે %3$s ને મંજૂરી આપવા માંગો છો?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">તમે પહેલેથી જ %2$s %1$d સમય માટે ક્લિપબોર્ડની અ‍ૅક્સેસ પ્રતિબંધિત કરી છે. ક્લિપબોર્ડની અ‍ૅક્સેસને પ્રતિબંધિત કરીએ %3$s કાયમી ધોરણે?</item>
+        <item quantity="one">તમે પહેલેથી જ %2$s %1$d સમય માટે ક્લિપબોર્ડની અ‍ૅક્સેસ પ્રતિબંધિત કરી છે. ક્લિપબોર્ડની અ‍ૅક્સેસને પ્રતિબંધિત કરીએ %3$s કાયમી ધોરણે?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Kārtot pēc saņemšanas laika</item>
+        <item>Kārtot pēc paziņojumu skaita</item>
+        <item>Lietotnes, kas var rādīt paziņojumus</item>
+        <item>Lietotnes, kas nevar rādīt paziņojumus</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Rādīt paziņojumu saturu</item>
+        <item>Nerādīt Bloķēšanas ekrāna paziņojumus</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Rādīt paziņojumu saturu</item>
+        <item>Rādīt paziņojumus, bet slēpt saturu</item>
+        <item>Nerādīt Bloķēšanas ekrāna paziņojumus</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

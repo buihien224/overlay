@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>الحسابات</item>
+        <item>إضافة وإدارة حسابات الجهة الخارجية</item>
+        <item>حسابات;SNS;فيسبوك;Facebook;Google;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>الحسابات</item>
+        <item>إضافة وإدارة حسابات الجهة الخارجية</item>
+        <item>حسابات;QQ;WeChat;ويتشات;SNS;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>تغيير كلمة المرور</item>
+        <item>تغيير كلمة مرور حساب Mi</item>
+        <item>تغيير كلمة المرور;تحديث كلمة المرور;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>مساحة تخزين العائلة</item>
+        <item>عرض/تشغيل مساحة تخزين العائلة</item>
+        <item>مساحة تخزين العائلة;مساحه تخزين العائله;تخزين مشترك;مشاركه التخزين;مشاركه تخزين</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>خدمات العائلة</item>
+        <item>عرض/تشغيل خدمات العائلة</item>
+        <item>عائلة;العائله;العائلة;خدمات العائلة;خدمات العائله;مشاركة عائلية;مشاركه العائله;مشاركه العائلة</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>المساعدة</item>
+        <item>احصل على المساعدة والدعم لحساب Mi</item>
+        <item>حساب;حساب Mi;حساب المساعده;حساب المساعدة;مساعدة;مزكز المساعدة</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>التحقق بخطوتين</item>
+        <item>إعداد التحقق بخطوتين لحساب Mi</item>
+        <item>تسجيل الدخول;سجل الدخول;تحقق بخطوتين;تحقق;مصادقة;حساب;Xiaomi;حساب Mi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>حماية الحساب</item>
+        <item>رقم الهاتف والبريد الالكتروني لاسترداد الحساب، إدارة كلمة المرور</item>
+        <item>حماية الحساب;تسجيل الدخول;رقم هاتف لاسترداد الحساب;الهاتف الاحتياطي;االبريد الإلكتروني لاسترداد الحساب;الايميل الاحتياطي;امان الحساب;رقم الهاتف;البريد الإلكتروني;الايميل;تغيير كلمة المرور;اضافة رقم هاتف;اضافة ايميل;اضافة بريد الكتروني;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>الأجهزة</item>
+        <item>إدارة الأجهزة المرتبطة بحساب Mi</item>
+        <item>الأجهزة;الاجهزه;ادارة الاجهزة;إدارة الأجهزة;جهازي;قائمة الاجهزة;قائمه الاجهزه;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>سياسة الخصوصية</item>
+        <item>عرض سياسة خصوصية حساب Mi</item>
+        <item>حساب;حساب Mi;سياسة الخصوصية;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>البريد الإلكتروني لاسترداد الحساب</item>
+        <item>إضافة البريد الإلكتروني لاسترداد الحساب</item>
+        <item>البريد الإلكتروني لاسترداد الحساب;الايميل الاحتياطي;بريد احتياطي;اضافة ايميل;اضافة بريد الكتروني;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>رقم هاتف استرداد الحساب</item>
+        <item>إضافة رقم هاتف استرداد الحساب</item>
+        <item>رقم هاتف لاسترداد الحساب;الهاتف الاحتياطي;اضافة رقم هاتف;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>إعلانات</item>
+        <item>إدارة إعلانات النظام</item>
+        <item>اعلانات;حساب Mi;حساب;حساب Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>معلومات الحساب</item>
+        <item>عرض صورة ملفك الشخصي وإدارة معلومات حسابك</item>
+        <item>معلومات شخصية;شخصيه;صوره الملف الشخصي;صورة الملف;الاسم المستعار;معلومات الحساب;معرف Mi;Mi ID;ID;معرف;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>اتفاقية المستخدم</item>
+        <item>اتفاقية المستخدم</item>
+        <item>حساب;حساب Mi;اتفاقية المستخدم;EULA</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+</resources>

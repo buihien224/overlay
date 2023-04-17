@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Dukan kwarewa</item>
+        <item>Tsawon lokacin aikawa</item>
+        <item>Sauki na aiki</item>
+        <item>Bayyana umurni</item>
+        <item>Wannan siffan na da amfani</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Ba gamsu ba ko kadan</item>
+        <item>Wani bai gamsu ba</item>
+        <item>Tsaka tsaki</item>
+        <item>Wani bai gamsu ba</item>
+        <item>Na gamsu sosai</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Dukan yabawa</item>
+        <item>Tsawon lokacin aikawa</item>
+        <item>Sauki na aiki</item>
+        <item>Bayyana umurni</item>
+    </string-array>
+</resources>

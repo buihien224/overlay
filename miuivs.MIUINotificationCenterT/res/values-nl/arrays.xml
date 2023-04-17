@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sorteer op ontvangsttijd</item>
+        <item>Sorteren op aantal meldingen</item>
+        <item>Apps die meldingen kunnen weergeven</item>
+        <item>Apps die geen meldingen kunnen weergeven</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Inhoud van meldingen weergeven</item>
+        <item>Vergrendelscherm-meldingen niet weergeven</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Inhoud van meldingen weergeven</item>
+        <item>Meldingen weergeven maar inhoud verbergen</item>
+        <item>Vergrendelscherm-meldingen niet weergeven</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">%d మంది MIUI వినియోగదారులు నివేదించారు</item>
+        <item quantity="one">%d MIUI వినియోగదారు నివేదించారు</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">%1$s సెకన్లలో ముగుస్తుంది…</item>
+        <item quantity="one">%1$s సెకనులో ముగుస్తుంది…</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d కాల్‌లు రికార్డ్ అయ్యాయి.</item>
+        <item quantity="one">%d కాల్ రికార్డ్ అయింది.</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">%d సార్లు మళ్లీ డయల్ చేసారు</item>
+        <item quantity="one">%d సారి మళ్లీ డయల్ చేసారు</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s వ్యక్తులు</item>
+        <item quantity="one">%s వ్యక్తి</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d సెకన్లు</item>
+        <item quantity="one">%d సెకను</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+</resources>

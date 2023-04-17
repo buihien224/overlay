@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ប្រុស</item>
+        <item>ស្រី</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>គណនី</item>
+        <item>បន្ថែមនិងគ្រប់គ្រងគណនីភាគីទីបី</item>
+        <item>គណនី;SNS;Facebook;Google;គណនី Mi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>គណនី</item>
+        <item>បន្ថែមនិងគ្រប់គ្រងគណនីភាគីទីបី</item>
+        <item>គណនី;SNS;WeChat;QQ;គណនី Mi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>ផ្លាស់ប្តូរ​ពាក្យ​សម្ងាត់</item>
+        <item>ប្តូរពាក្យសម្ងាត់គណនី Xiaomi</item>
+        <item>ផ្លាស់ប្តូរពាក្យសម្ងាត់;អាប់ដេតពាក្យសម្ងាត់;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ចន្លោះផ្ទុក​សម្រាប់​គ្រួសារ</item>
+        <item>មើល/បើក​ចន្លោះផ្ទុកសម្រាប់គ្រួសារ</item>
+        <item>ចន្លោះផ្ទុកសម្រាប់គ្រួសារ;ការចែករំលែកចន្លោះផ្ទុក</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>សេវាកម្ម/អត្ថប្រយោជន៍សម្រាប់គ្រួសារ</item>
+        <item>មើល/បើក​សេវាកម្ម/អត្ថប្រយោជន៍​សម្រាប់​គ្រួសារ</item>
+        <item>គ្រួសារ;សេវាកម្ម/អត្ថប្រយោជន៍​សម្រាប់​គ្រួសារ;ការចែករំលែកគ្រួសារ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ជំនួយ</item>
+        <item>ទទួលយកជំនួយនិងការគាំទ្រពីគណនី Xiaomi</item>
+        <item>គណនី Mi;គណនី;គណនី Xiaomi;ជំនួយគណនី;មជ្ឈមណ្ឌល​ជំនួយ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>ការផ្ទៀងផ្ទាត់​ 2 ដំណាក់</item>
+        <item>កំណត់ការផ្ទៀងផ្ទាត់​ 2 ដំណាក់សម្រាប់គណនី Xiaomi របស់អ្នក</item>
+        <item>ចុះឈ្មោះចូល;ចុះឈ្មោះចូលប្រព័ន្ធ;ការផ្ទៀងផ្ទាត់ 2 ដំណាក់;Xiaomi;គណនី;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>សុវត្ថិភាពគណនី</item>
+        <item>ទូរស័ព្ទនិងអ៊ីម៉ែលសង្គ្រោះ ការគ្រប់គ្រងពាក្យសម្ងាត់</item>
+        <item>សុវត្ថិភាពគណនី;ការចុះឈ្មោះចូល;ទូរស័ព្ទសង្គ្រោះ;អ៊ីមែលសង្គ្រោះ;ការការពារគណនី;លេខទូរស័ព្ទ;អ៊ីមែល;ប្តូរពាក្យសម្ងាត់;បន្ថែមលេខទូរស័ព្ទ;បន្ថែមអ៊ីមែល;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ឧបករណ៍</item>
+        <item>គ្រប់គ្រងឧបករណ៍ដែលភ្ជាប់ជាមួយគណនី Xiaomi របស់អ្នក</item>
+        <item>គ្រប់គ្រងឧបករណ៍;ឧបករណ៍របស់ខ្ញុំ;ឧបករណ៍;បញ្ជីរាយឧបករណ៍;គណនី Mi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>គោលការណ៍​​ឯកជនភាព</item>
+        <item>មើលគោលការណ៍ឯកជនភាពគណនី Xiaomi</item>
+        <item>គណនី Mi;គណនី;គណនី Xiaomi;គោលការណ៍ឯកជនភាព</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>អ៊ីម៉ែលសង្គ្រោះ</item>
+        <item>បន្ថែមអ៊ីម៉ែលសង្គ្រោះ</item>
+        <item>អ៊ីមែលសង្គ្រោះ;អ៊ីមែល;បន្ថែមអ៊ីមែល;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>ទូរសព្ទ័សង្គ្រោះ</item>
+        <item>បន្ថែមទូរសព្ទ័សង្គ្រោះ</item>
+        <item>ទូរស័ព្ទសង្គ្រោះ;បន្ថែមទូរស័ព្ទ;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ពាណិជ្ជកម្ម</item>
+        <item>គ្រប់គ្រងការផ្សាយពាណិជ្ជកម្មរបស់ប្រព័ន្ធ</item>
+        <item>ការផ្សាយពាណិជ្ជកម្ម;គណនី Mi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ព័ត៌មាន​អំពី​គណនី</item>
+        <item>មើលរូបថតប្រវត្តិរូបរបស់អ្នក និងគ្រប់គ្រងព័ត៌មានគណនី</item>
+        <item>ព័ត៌មានផ្ទាល់ខ្លួន;រូបថតប្រវត្តិរូប;ឈ្មោះហៅក្រៅ;ព័ត៌មានគណនី;Mi ID;ID;គណនី Xiaomi;គណនី;គណនី Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>កិច្ចព្រមព្រៀងអ្នកប្រើប្រាស់</item>
+        <item>កិច្ចព្រមព្រៀងអ្នកប្រើប្រាស់</item>
+        <item>គណនី Mi;គណនី;គណនី Xiaomi;កិច្ចព្រមព្រៀងអ្នកប្រើប្រាស់;EULA</item>
+    </string-array>
+</resources>

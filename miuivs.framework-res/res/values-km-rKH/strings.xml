@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">ការបំបាត់កំហុស USB debugging បានបើក</string>
+    <string name="lock_to_app_description">"ការដោតភ្ជាប់អេក្រង់ចាក់សោអេក្រង់ក្នុងទិដ្ឋភាពតែមួយ។
+
+ដើម្បីផ្តាច់ ចុចប៊ូតុង Home និង Power ក្នុងពេលតែមួយ។"</string>
+    <string name="lock_to_app_description_accessible">"ការដោតភ្ជាប់អេក្រង់ចាក់សោអេក្រង់ក្នុងទិដ្ឋភាពតែមួយ។
+
+ដើម្បីផ្តាច់ ចុចប៊ូតុង Home និង Power ក្នុងពេលតែមួយ។"</string>
+    <string name="lock_to_app_toast">ដើម្បីផ្ដាច់អេក្រង់នេះ ចុចឲ្យជាប់នូវប៊ូតុង Home និង Power ក្នុងពេលតែមួយ។</string>
+    <string name="lock_to_app_toast_accessible">ដើម្បីផ្ដាច់អេក្រង់នេះ ចុចឲ្យជាប់នូវប៊ូតុង Home និង Power ក្នុងពេលតែមួយ។</string>
+    <string name="lockscreen_missing_sim_instructions">បញ្ចូលស៊ីមកាត។</string>
+    <string name="lockscreen_missing_sim_instructions_long">មិនមានស៊ីមកាត ឬមិនអាចអានបាន។ បញ្ចូលស៊ីមកាត។</string>
+    <string name="lockscreen_missing_sim_message">មិនមានស៊ីមកាតនៅក្នុងទូរស័ព្ទ។</string>
+    <string name="lockscreen_missing_sim_message_short">គ្មាន​ស៊ីម​កាត</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"ស៊ីមកាតរបស់អ្នកត្រូវបានបិទជាអចិន្ត្រៃយ៍។
+ទាក់ទងក្រុមហ៊ុនផ្តល់សេវាឥតខ្សែរបស់អ្នកសម្រាប់ស៊ីមកាតមួយផ្សេងទៀត។"</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">ស៊ីមកាតដែលមិនអាចប្រើបាន។</string>
+    <string name="tethered_notification_message">ប៉ះដើម្បីដំឡើង។</string>
+    <string name="tethered_notification_multi_device_message">%1$s ឧបករណ៍បានតភ្ជាប់</string>
+    <string name="tethered_notification_no_device_message">គ្មាន​ឧបករណ៍​ដែល​បាន​ភ្ជាប់</string>
+    <string name="tethered_notification_one_device_message">%1$s ឧបករណ៍បានតភ្ជាប់</string>
+    <string name="tethered_notification_title">ការភ្ជាប់ ឬហត់ស្ពត់សកម្ម</string>
+    <string name="usb_midi_notification_title">MIDI តាមរយៈ USB បានបើក</string>
+    <string name="usb_mtp_notification_title">ការផ្ទេរឯកសារតាម USB​ បានបើក</string>
+    <string name="usb_ptp_notification_title">PTP តាមរយៈ USB បានបើក</string>
+    <string name="usb_tether_notification_title">ចំណងបណ្តាញ USB​ បានបើក</string>
+    <string name="usb_unsupported_audio_accessory_message">ឧបករណ៍ដែលបានភ្ជាប់មិនឆបគ្នាជាមួយទូរស័ព្ទនេះទេ។ ចុចមើលដើម្បីស្វែងយល់បន្ថែម។</string>
+    <string name="usb_unsupported_audio_accessory_title">បានរកឃើញគ្រឿងបន្លាស់អូឌីយ៉ូអាណាឡូក</string>
+    <string name="volume_icon_description_bluetooth">ប៊្លូធូស</string>
+    <string name="volume_icon_description_incall">ហៅ</string>
+    <string name="volume_icon_description_media">មេឌៀ</string>
+    <string name="volume_icon_description_notification">សារជូន​ដំណឹង</string>
+    <string name="volume_icon_description_ringer">សម្លេងរោទ៍</string>
+</resources>

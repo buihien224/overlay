@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>स्त्री</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>अकाऊंटस</item>
+        <item>तृतीय पक्ष अकाऊंट जोडा आणि मॅनेज करा</item>
+        <item>अकाऊंटस;SNS;Facebook;Google;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>अकाऊंटस</item>
+        <item>तृतीय पक्ष अकाऊंट जोडा आणि मॅनेज करा</item>
+        <item>अकाऊंटस;SNS;WeChat;QQ;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>पासवर्ड बदला</item>
+        <item>Xiaomi अकाऊंट पासवर्ड बदला</item>
+        <item>पासवर्ड बदला;पासवर्ड अपडेट करा;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>फॅमिली स्टोरेज जागा</item>
+        <item>फॅमिली स्टोरेज जागा पहा/सुरु करा</item>
+        <item>फॅमिली स्टोरेज जागा;स्टोरेज शेअरिंग</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>कौटुंबिक सेवा</item>
+        <item>फॅमिली सेवा पहा/सुरु करा</item>
+        <item>कुटुंब;कौटुंबिक सेवा;कुटुंब शेअरिंग</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>मदत</item>
+        <item>Xiaomi अकाऊंट मदत आणि सपोर्ट मिळवा</item>
+        <item>Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट;अकाऊंट मदत;मदत केंद्र</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-स्टेप व्हेरिफिकेशन</item>
+        <item>तुमच्या Xiaomi अकाऊंटसाठी 2-स्टेप व्हेरिफिकेशन सेट करा</item>
+        <item>साईन इन;लॉग इन;2-स्टेप;व्हेरिफिकेशन;Xiaomi;अकाऊंट;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>अकाऊंट सुरक्षा</item>
+        <item>रिकव्हरी फोन आणि ईमेल, पासवर्ड मॅनेजमेंट</item>
+        <item>अकाऊंट सुरक्षा;साइन इन;रिकव्हरी फोन;रिकव्हरी ईमेल;अकाऊंट संरक्षण;फोन नंबर;ईमेल;पासवर्ड बदला; फोन नंबर जोडा;ईमेल जोडा;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>डिव्हायसेस</item>
+        <item>आपल्या Xiaomi अकाऊंटशी संबंधित डिव्हायसेस मॅनेज करा</item>
+        <item>डिव्हायसेस मॅनेज करा;माझी डिव्हायसेस;डिव्हायसेस;डिव्हाइस लिस्ट;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>गोपनीयता धोरण</item>
+        <item>Xiaomi अकाऊंट गोपनीयता धोरण पहा</item>
+        <item>Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट;गोपनीयता धोरण</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>रिकव्हरी ईमेल</item>
+        <item>रिकव्हरी ईमेल जोडा</item>
+        <item>रिकव्हरी ईमेल;ईमेल;ईमेल जोडा;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>रिकव्हरी फोन</item>
+        <item>रिकव्हरी फोन जोडा</item>
+        <item>रिकव्हरी फोन;फोन जोडा;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>जाहिराती</item>
+        <item>सिस्टीम जाहिराती मॅनेज करा</item>
+        <item>जाहिराती;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>अकाऊंट माहिती</item>
+        <item>आपला प्रोफाइल फोटो पहा आणि अकाऊंट माहिती मॅनेज करा</item>
+        <item>वैयक्तिक माहिती;प्रोफाईल फोटो;निकनेम;अकाऊंट माहिती;Mi आयडी;Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>वापरकर्ता करार</item>
+        <item>वापरकर्ता करार</item>
+        <item>Mi अकाऊंट;अकाऊंट;Xiaomi अकाऊंट;वापरकर्ता करार;EULA</item>
+    </string-array>
+</resources>

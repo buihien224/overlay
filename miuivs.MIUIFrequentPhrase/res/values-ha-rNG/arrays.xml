@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Kan takardar lissafi.*** Inc.</item>
+        <item>Adireshi: Titi, Gida, Birni, Kasa/Yanki, Jiha, Lambar saƙo</item>
+        <item>Yi hakuri bar kunshin a kofa. Na gode!</item>
+        <item>Dan dankata, Ba zan dade ba.</item>
+        <item>Ina cikin taro. Yi hakuri aika sako.</item>
+        <item>Bana iya magana a yanzu. Zan sake kiran ku.</item>
+        <item>Na gode!</item>
+    </string-array>
+</resources>

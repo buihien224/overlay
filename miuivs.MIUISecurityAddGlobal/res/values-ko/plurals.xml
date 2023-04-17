@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">네트워크 가속 세션이 %d일 후 종료될 것입니다. 네트워크 지연이 발생할 수 있습니다. 지금 세션을 갱신하시겠습니까?</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s시간</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s분</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">남은 화면 시간 %s분</item>
+    </plurals>
+</resources>

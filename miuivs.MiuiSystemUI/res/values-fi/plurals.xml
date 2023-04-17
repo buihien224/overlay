@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 tunti sitten</item>
+        <item quantity="one">1 tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 tunti sitten</item>
+        <item quantity="one">1 tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+        <item quantity="one">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 tunnin kuluttua</item>
+        <item quantity="one">1 tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+        <item quantity="one">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+        <item quantity="one">Heti</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">1 min kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+        <item quantity="one">Juuri nyt</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min sitten</item>
+        <item quantity="one">%d min sitten</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d vuotta sitten</item>
+        <item quantity="one">%d vuosi sitten</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s säädintä lisätty</item>
+        <item quantity="one">%s säädin lisätty</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s sovellusta on aktiivisia</item>
+        <item quantity="one">%s sovellus on aktiivinen</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+        <item quantity="one">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 tunnin kuluttua</item>
+        <item quantity="one">1 tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+        <item quantity="one">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+        <item quantity="one">Heti</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">1 minuutin kuluttua</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Virheellinen PIN-koodi, %d yritystä jäljellä</item>
+        <item quantity="one">Virheellinen PIN-koodi, %d yritys jäljellä</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Virheellinen PUK-koodi, %d yritystä jäljellä</item>
+        <item quantity="one">Virheellinen PUK-koodi, %d yritys jäljellä</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Syötä salasanasi vähintään %d tunnin välein, jotta muistat sen aina</item>
+        <item quantity="one">Syötä salasanasi vähintään %d tunnin välein, jotta muistat sen aina</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Syötä salasanasi vähintään %d tunnin välein, jotta muistat sen aina</item>
+        <item quantity="one">Syötä salasanasi vähintään %d tunnin välein, jotta muistat sen aina</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Noin %d tuntia jäljellä</item>
+        <item quantity="one">Noin %d tunti jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Noin %d minuuttia jäljellä</item>
+        <item quantity="one">Noin %d minuutti jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Noin %1$d h %2$d min jäljellä</item>
+        <item quantity="one">Noin %1$d h %2$d min jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d min</item>
+        <item quantity="one">%1$d h %2$d min</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Jäljellä %d tuntia</item>
+        <item quantity="one">Jäljellä %d tunti</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Jäljellä %d minuuttia</item>
+        <item quantity="one">Jäljellä %d minuutti</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Jäljellä %1$d h %2$d min</item>
+        <item quantity="one">Jäljellä %1$d h %2$d min</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Anna SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+        <item quantity="one">Anna SIM-kortin PIN-koodi. %d yrityksen jälkeen laite lukittuu, ja vain operaattori voi avata sen.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-kortti on nyt lukittu. Anna PUK-koodi, niin voit jatkaa. Sinulla on %d yritystä jäljellä, ennen kuin SIM-kortti poistuu pysyvästi käytöstä. Pyydä lisätietoja operaattoriltasi.</item>
+        <item quantity="one">SIM-kortti on nyt lukittu. Anna PUK-koodi, niin voit jatkaa. Sinulla on %d yritys jäljellä, ennen kuin SIM-kortti poistuu pysyvästi käytöstä. Pyydä lisätietoja operaattoriltasi.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+        <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä, ennen kuin sinun on otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Virheellinen SIM-kortin PUK-koodi. Sinulla on %d yritystä jäljellä, ennen kuin SIM-kortista tulee pysyvästi käyttökelvoton.</item>
+        <item quantity="one">Virheellinen SIM-kortin PUK-koodi. Sinulla on %d yritys jäljellä, ennen kuin SIM-kortista tulee pysyvästi käyttökelvoton.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+        <item quantity="one">Juuri nyt</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kohdetta valittu</item>
+        <item quantity="one">%d kohde valittu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">+%s ilmoitusta ryhmässä</item>
+        <item quantity="one">+%s ilmoitus ryhmässä</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Yritä uudestaan %d minuutin kuluttua</item>
+        <item quantity="one">Yritä uudestaan %d minuutin kuluttua</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Yritä uudestaan %d sekunnin kuluttua</item>
+        <item quantity="one">Yritä uudestaan %d sekunnin kuluttua</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d laitetta</item>
+        <item quantity="one">%d laite</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Voit lisätä korkeintaan %d käyttäjää.</item>
+        <item quantity="one">Käyttäjiä voi olla vain yksi.</item>
+    </plurals>
+</resources>

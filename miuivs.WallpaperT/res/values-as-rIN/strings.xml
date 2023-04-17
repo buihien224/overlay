@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">আবেলি</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">ৰাতিপুৱা</string>
+    <string name="earth_position_content_0">"ক্ৰোৱেচিয়াৰ কেপ কামেনজাক নেচাৰ পাৰ্ক হ'ল মেডিটেৰেনিয়ান উপকুলৰ শ্বাসৰূদ্ধকাৰী দৃশ্য উপভোগ কৰিবৰ বাবে নিসন্দেহে সকলোতকৈ উত্তম ঠাই। ইয়াৰ আকৰ্ষণীয় ভৌগলিক গঠনসমূহে এই ঠাইক ডুবাৰুৰ স্বৰ্গ কৰি তোলে। প্ৰতিটো গ্ৰীষ্মকালত, দীপ্তমান সূৰ্য আৰু উষ্ণ মেডিটেৰেনিয়ান পানীয়ে অসংখ্য আউটড'ৰ উৎসাহীক আকৰ্ষণ কৰে।"</string>
+    <string name="earth_position_content_1">"ঝুম খেতিৰ পথাৰসমূহ মানুহৰ দ্বাৰা সম্পাদিত কাৰ্যৰ ফলাফল, কিন্তু সেইসমূহ এক আকৰ্ষণীয় দৃশ্য ৰূপেও বেছ জনপ্ৰিয়।
+চীনত, ধানখেতিৰ বাবে নিৰ্মিত খলপাসমূহ মূলতঃ য়াংছি নদীৰ দক্ষিণ দিশত অৱস্থিত, এই ঠাইত বৰষুণ পৰ্যাপ্ত পৰিমাণে হয় আৰু ইয়াত বহু সংখ্যক পৰ্বতমালাও আছে। লংজি ঝুম খেতিৰ পথাৰসমূহ 700 বছৰৰো অধিক সময় ধৰি ব্যৱহাৰ হৈ আছে, আৰু কাষৰীয়া গাওঁসমূহত বহু সংখ্যক ঐতিহাসিক কীৰ্তিচিহ্নও আছে।"</string>
+    <string name="earth_position_content_2">"ইলুলিছেট পশ্চিম গ্ৰীণলেণ্ডত, সুমেৰু বৃত্তৰ উত্তৰ দিশৰ পৰা 200 কিল'মিটাৰ দূৰত অৱস্থিত। আইচ্ফজৰ্ড জেকবশ্বাভান ইচব্ৰে হিমবাহৰ ঠিক কাষতেই অতি আকৰ্ষণীয় এই ইলুলিছেট অৱস্থিত। উত্তৰ গোলাৰ্ধৰ সকলোতকৈ ডাঙৰ এই হিমবাহে প্ৰতিবছৰে 2 বিলিয়ন টন বৰফ সৃষ্টি কৰে। উত্তৰদিশলৈ সামান্যভাৱে গতি কৰাৰ পিছত এই হিমবাহটো দক্ষিণ দিশলৈ ঘূৰে আৰু তাৰপিছত আটলাণ্টিক মহাসাগৰত মিলি যায়।"</string>
+    <string name="earth_position_content_3">"নাভাজিঅ' বীচ্চ হ'ল গ্ৰীছৰ আয়'নিয়ান দ্বীপপুঞ্জৰ জাকিন্থ'ছ উপকুলৰ অতি ধুনীয়া বীচ্চসমূহৰ ভিতৰত এখন। ইয়াক এখন বিখ্যাত জাহাজৰ ধংসাৱশেষৰ ঠাই বুলি কোৱা হয়, সেয়ে এই বীচ্চক \"স্মাগলাৰৰ কোভ\" বুলিও অভিহিত কৰা হয়।"</string>
+    <string name="earth_position_content_4">"ড'ল'মিটিছ হ'ল উত্তৰপূৱ ইটালীত অৱস্থিত এক পৰ্বতমালা। মাউণ্ট ছেচিডা হ'ল সঁচাকৈয়ে ইয়াৰ সৰ্বাধিক মনোমোহা ঠাইসমূহৰ ভিতৰত এখন।"</string>
+    <string name="earth_position_title_0">"ক্ৰোৱেচিয়া
+কেপ কামেনজাক"</string>
+    <string name="earth_position_title_1">"গুৱাংগজি, চীন
+লংজি ঝুম খেতিৰ পথাৰসমূহ"</string>
+    <string name="earth_position_title_2">"গ্ৰীণলেণ্ড
+ইলুলিছেট"</string>
+    <string name="earth_position_title_3">"গ্ৰীছ
+নাভাজিঅ' বীচ্চ"</string>
+    <string name="earth_position_title_4">"ইটালী
+ড'ল'মিটিছ"</string>
+    <string name="earth_summary">"পৃথিৱী হ'ল মানৱ সভ্যতাৰ আধাৰ"</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">গৃহ</string>
+    <string name="empty" />
+    <string name="eras_ad">খ্ৰীষ্টাব্দ</string>
+    <string name="eras_bc">খ্ৰীষ্টপূৰ্ব</string>
+    <string name="evening">আবেলি</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'বজা'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'বজা'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'মি.ছে'"</string>
+    <string name="fmt_time_minute">"m'মিনিট'"</string>
+    <string name="fmt_time_minute_second">"m'মিনিট' s'ছে'"</string>
+    <string name="fmt_time_minute_second_millis">"m'মিনিট' s.S'ছে'"</string>
+    <string name="fmt_time_second">"s'ছে'"</string>
+    <string name="fmt_time_second_millis">"s.S'ছে'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">শুক্ৰবাৰ</string>
+    <string name="friday_short">শুক্ৰ</string>
+    <string name="friday_shortest">শুক্ৰ</string>
+    <string name="geometry_summary">আকৃতি, পোহৰ আৰু ৰংসমূহ</string>
+    <string name="geometry_super_wallpaper_label">জ্যামিতি</string>
+    <string name="geometry_title">জ্যামিতি</string>
+    <string name="mars_position_content_0">"এই অঞ্চলত থিয় গৰা, ওপৰভাগ সমতল টিলা, আৰু বহল সমভূমি উপত্যকা পোৱা যায় আৰু এইসমূহ অৱশেষ-আৱৰিত হিমবাহৰ দ্বাৰা সৃষ্ট বুলি বিশ্বাস কৰা হয়। ইয়াত মিত্তৃকা খনিজ পদাৰ্থৰ সন্ধান পোৱা গৈছে, আৰু প্ৰাচীন মংগল গ্ৰহত জীৱনৰ প্ৰমাণ অনুসন্ধানৰ বাবে আকৰ্ষণৰ সৃষ্টি কৰিছে।
+
+NASA/JPL/ইউনিভাৰচিটি অৱ আৰিজোনা"</string>
+    <string name="mars_position_content_1">"মাৰ্চ ৰ'ভাৰে গালে ক্ৰেটাৰত পাহৰুম্প পাহাৰত অন্বেষণ কাৰ্য চলাওতে লোৱা। এই অঞ্চলত গেদীয় শিল পোৱা যায় আৰু বিজ্ঞানীসকলে বিশ্বাস কৰে যে সেইবিলাক পানীৰ উপস্থিতিত সৃষ্টি হৈছিল, আৰু ক'লা অঞ্চলসমূহ হ'ল বালি।
+
+NASA/JPL/ইউনিভাৰচিটি অৱ আৰিজোনা"</string>
+    <string name="mars_position_content_2">"মাৱৰ্থ ভাল্লিছ হ'ল পাতল-ৰঙৰ মিত্তৃকা সমৃদ্ধ শিল থকা এটা প্ৰাচীন জল বহিঃপ্ৰৱাহৰ সুতি। মিত্তৃকা খনিজ পদাৰ্থসমূহে পৃথিৱীত আণুবীক্ষণিক জীৱনক সহজে সংৰক্ষিত কৰি ৰাখে, সেয়েহে মাৱৰ্থত প্ৰাচীন জীৱনৰ সন্ধান পোৱাৰ সম্ভাৱনা আছে।
+
+NASA/JPL/ইউনিভাৰচিটি অৱ আৰিজোনা"</string>
+    <string name="mars_position_content_3">"এই প্ৰতিচ্ছবিসমূহ মাৰ্চ ৰ'ভাৰ কিউৰিঅ'চিটিয়ে গালে ক্ৰেটাৰৰ পাহৰুম্প পাহাৰত অন্বেষণ কাৰ্য চলাওতে লোৱা। এই অঞ্চলত গেদীয় শিল পোৱা যায় আৰু বিজ্ঞানীসকলে বিশ্বাস কৰে যে সেইবিলাক পানীৰ উপস্থিতিত সৃষ্টি হৈছিল। ক'লা অঞ্চলসমূহ হ'ল বালি।
+
+NASA/JPL/ইউনিভাৰচিটি অৱ আৰিজোনা"</string>
+    <string name="mars_position_content_4">"বাহৰাম ভাল্লিছ হ'ল কিছুমান ঠাইত শামুকৰ খোলাৰ দৰে দেৱাল থকা এক একক মূলসূতিযুক্ত নদী উপত্যকা। ইয়াৰ তলিত মসৃণ ক্ষয়মূলক বৈশিষ্ট্যৰ উপস্থিতিয়ে দেখুৱায় যে ইয়াৰ সৃষ্টিৰ সময়ত তৰল পদাৰ্থ জড়িত হৈ আছিল।
+
+NASA/JPL/ইউনিভাৰচিটি অৱ আৰিজোনা"</string>
+    <string name="mars_position_title_0">"নাইল'চাইৰটিছ
+মেনছে অঞ্চল"</string>
+    <string name="mars_position_title_1">গালে ক্ৰেটাৰ</string>
+    <string name="mars_position_title_2">"মাৱাৰ্থ ভাল্লিছৰ
+ক্ৰেটাৰ"</string>
+    <string name="mars_position_title_3">পাহৰুম্প পাহাৰ</string>
+    <string name="mars_position_title_4">বাহৰাম ভাল্লিছ</string>
+    <string name="mars_summary">মংগল গ্ৰহৰ বিস্তৃত মৰুভূমিয়ে মানৱজাতিক সদায়েই বিস্মৃত কৰি ৰাখিছে</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">ৰঙা গ্ৰহ</string>
+    <string name="midnight">নিশা</string>
+    <string name="monday">সোমবাৰ</string>
+    <string name="monday_short">সোম</string>
+    <string name="monday_shortest">সোম</string>
+    <string name="month_april">এপ্ৰিল</string>
+    <string name="month_april_short">এপ্ৰি</string>
+    <string name="month_april_shortest">এপ্ৰি</string>
+    <string name="month_august">আগষ্ট</string>
+    <string name="month_august_short">আগ</string>
+    <string name="month_august_shortest">আগ</string>
+    <string name="month_december">ডিচেম্বৰ</string>
+    <string name="month_december_short">ডিচে</string>
+    <string name="month_december_shortest">ডিচে</string>
+    <string name="month_february">ফেব্ৰুৱাৰী</string>
+    <string name="month_february_short">ফেব্ৰু</string>
+    <string name="month_february_shortest">ফেব্ৰু</string>
+    <string name="month_january">জানুৱাৰী</string>
+    <string name="month_january_short">জানু</string>
+    <string name="month_january_shortest">জানু</string>
+    <string name="month_july">জুলাই</string>
+    <string name="month_july_short">জুলা</string>
+    <string name="month_july_shortest">জুলা</string>
+    <string name="month_june">জুন</string>
+    <string name="month_june_short">জুন</string>
+    <string name="month_june_shortest">জুন</string>
+    <string name="month_march">মাৰ্চ</string>
+    <string name="month_march_short">মাৰ্চ</string>
+    <string name="month_march_shortest">মাৰ্চ</string>
+    <string name="month_may">মে</string>
+    <string name="month_may_short">মে</string>
+    <string name="month_may_shortest">মে</string>
+    <string name="month_november">নৱেম্বৰ</string>
+    <string name="month_november_short">নবে</string>
+    <string name="month_november_shortest">নবে</string>
+    <string name="month_october">অক্টোবৰ</string>
+    <string name="month_october_short">অক্টো</string>
+    <string name="month_october_shortest">অক্টো</string>
+    <string name="month_september">ছেপ্টেম্বৰ</string>
+    <string name="month_september_short">চেপ্তে</string>
+    <string name="month_september_shortest">চেপ্তে</string>
+    <string name="morning">ৰাতিপুৱা</string>
+    <string name="night">সন্ধিয়া</string>
+    <string name="noon">মধ্যদিন</string>
+    <string name="pm">PM</string>
+    <string name="saturday">শনিবাৰ</string>
+    <string name="saturday_short">শনি</string>
+    <string name="saturday_shortest">শনি</string>
+    <string name="saturn_summary">"শণিগ্ৰহৰ আঙুঠিবিলাক হ'ল সৌৰজগতৰ সকলোতকৈ আকৰ্ষণীয় দৃশ্য"</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">শণিগ্ৰহৰ আঙুঠি</string>
+    <string name="snowmountain_summary">মাউণ্ট চিগুনিয়াঙৰ সূৰ্যৰ পোহৰেৰে আলোকিত ঢাল</string>
+    <string name="snowmountain_super_wallpaper_label">বৰফময় শিখৰসমূহ</string>
+    <string name="snowmountain_title">বৰফময় শিখৰসমূহ</string>
+    <string name="sunday">দেওবাৰ</string>
+    <string name="sunday_short">দেও</string>
+    <string name="sunday_shortest">দেও</string>
+    <string name="super_wallpaper_list_label">চুপাৰ ৱালপেপাৰ</string>
+    <string name="thursday">বৃহস্পতিবাৰ</string>
+    <string name="thursday_short">বৃহ</string>
+    <string name="thursday_shortest">বৃহ</string>
+    <string name="time_picker_label_hour">ঘ</string>
+    <string name="time_picker_label_minute">মি</string>
+    <string name="tomorrow">অহাকালি</string>
+    <string name="tuesday">মংগলবাৰ</string>
+    <string name="tuesday_short">মংগল</string>
+    <string name="tuesday_shortest">মংগল</string>
+    <string name="wednesday">বুধবাৰ</string>
+    <string name="wednesday_short">বুধ</string>
+    <string name="wednesday_shortest">বুধ</string>
+    <string name="yesterday">যোৱাকালি</string>
+</resources>

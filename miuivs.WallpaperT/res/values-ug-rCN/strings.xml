@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">چ ك</string>
+    <string name="am">چ ب</string>
+    <string name="date_picker_label_day">كۈن</string>
+    <string name="date_picker_label_month">ئاي</string>
+    <string name="date_picker_label_year">يىل</string>
+    <string name="early_morning">سەھەر</string>
+    <string name="earth_position_content_0">ئوتتۇرا دېڭىز رايونىغا جايلاشقان كىرودىيە Kap Kamenjak دۆلەت باغچىسىدا ئىنتايىن سۈزۈك قېنىق كۆك رەڭلىك دېڭىز قىرغىقى لىنىيەسى بار. بۇ يەرنىڭ ئالاھىدە گىيولوگىيەلىك يەر شەكلى سۇغا سەكرەشكە ماس كېلىدىغان چوڭقۇر قولتۇق تىك يارنى شەكىللەندۈرگەن، ھەر يىلى يازدا بۇ يەرنىڭ كۆزنى قاماشتۇرىدىغان قۇياش نۇرى ۋە ئوتتۇرا دېڭىزدىكى ئىللىق دېڭىز سۈيى سانسىزلىغان دالا ھەۋەسكارلىرىنى ئۆزىگە جەلپ قىلىدۇ.</string>
+    <string name="earth_position_content_1">"پەلەمپەي ئېتىز ئىنسانلارنىڭ يەر يۈزىنىڭ شەكلىنى ئۆزگەرتىشىدىكى كىشىنى ھەيران قالدۇرىدىغان ئۇسۇللارنىڭ بىرى.
+ جۇڭگودىكى پەلەمپەيسىمان ئېتىزلار ئاساسلىقى چاڭجياڭ دەرياسىنىڭ جەنۇبىدىكى تاغلىق رايونلارغا تارقالغان، چۈنكى بۇ جايلاردا يامغۇر كۆپ ياغىدۇ ھەم تاغلار كۆپ بولۇپ، پەلەمپەيسىمان ئېتىزلار تاغقا يۆلەپ ياسالغان. گۇاڭشىنىڭ گۇيلىندىكى لۇڭشېڭ دېگەن يەرگە جايلاشقان لۇڭجى پەلەمپەيسىمان ئېتىزى يۈەن سۇلالىسى دەۋرىدە قۇرۇلۇشقا باشلىغان بولۇپ، ھازىرغىچە 700 يىلغا يېقىن تارىخقا ئىگە، لۇڭجىنىڭ گۇجۇاڭ كەنتىدە ھازىرغىچە نۇرغۇن قەدىمىي يادىكارلىقلار ساقلانماقتا"</string>
+    <string name="earth_position_content_2">ئىللۇلسات گرېنلاندنىڭ غەربىي قىرغىقىنىڭ ئوتتۇرا قىسمىغا، شىمالىي قۇتۇپ چەمبىرىكىنىڭ شىمالىغا 200 كىلومېتىر كېلىدىغان جايغا جايلاشقان. بۇ يەردىكى گۈزەل ئىلىساتېر مۇز قولتۇقىنىڭ ئۇزۇنلۇقى 56 كىلومېتىر كېلىدۇ، ئۇنىڭ شەرق تەرىپىدىكى مەنبەسى ياكوب پورتى مۇزلۇقى بولۇپ، شىمالىي يېرىم شاردىكى ئېقىن مىقدارى ئەڭ كۆپ مۇزلۇق، ھەر يىلى 20 مىليارد توننا مۇز تاغ يېرىلىپ، دېڭىز ئېقىنىنى بويلاپ شىمالغا قاراپ ئېقىپ، ئاندىن جەنۇبقا بۇرۇلۇپ ئاتلانتىك ئوكيانغا قۇيۇلىدۇ.</string>
+    <string name="earth_position_content_3">كېمە چۆكۈپ كەتكەن قولتۇق گرېتسىيەنىڭ ئىئونىيە تاقىم ئاراللىرى زاگىنسوس ئارىلىنىڭ غەربىي شىمال قىرغىقىغا جايلاشقان بولۇپ، بۇ جاي« كىشىگە جەننەتنى ئۇنتۇلدۇرىدىغان» جاي دەپ ئاتالغان. تىك قىيالار، كىشىنى مەستخۇش قىلىدىغان سۈزۈك، كۆپكۆك دېڭىز سۈيى، ئاپپاق قۇملۇق ساھىللار ئارىسىدا داتلىشىپ كەتكەن بىر كونا تۆمۈر كېمە بار بولۇپ، شۇنىڭدىن باشلاپ« كېمە چۆكۈپ كەتكەن قولتۇق» دەپ ئاتالغان.</string>
+    <string name="earth_position_content_4">ئىتالىيەنىڭ شىمالىي قىسمىدىن توغرىسىغا كېسىپ ئۆتىدىغان دولومېتى تاغ تىزمىسى ئالىپ تاغ تىزمىسىنىڭ بىر قىسمى بولۇپ، بۇ يەردىكى سېچېدا تېغى( يەنە بىر ئىسمى داۋفېڭ تېغى )نىڭ بىر تەرىپى يېشىل ئوت ـ چۆپ يانباغرى، يەنە بىر تەرىپى خۇددى پىچاق كەسكەندەك كۈل رەڭ تىك تاغ گەۋدىسى بولۇپ، كۆرۈنۈشى تىك ھەم ھەيۋەتلىك، دولومېتتى تېغىنىڭ مۇھىم بەلگە خاراكتېرلىك مەنزىرىسى ھېسابلىنىدۇ.</string>
+    <string name="earth_position_title_0">"كىرودىيە
+ ئوتتۇرا دېڭىز تەبىئىي مۇھاپىزەت رايونى"</string>
+    <string name="earth_position_title_1">"جۇڭگو گۇاڭشى
+ گۇيلىندىكى ئەجدىھا ئومۇرتقىلىق پەلەمپەي ئېتىز"</string>
+    <string name="earth_position_title_2">"گرېنلاند ئارىلى 
+ ئىللۇسسات مۇز تېغى"</string>
+    <string name="earth_position_title_3">"گىرېتسىيە 
+ زاگىنسوس ئارىلىدىكى چۆكۈپ كەتكەن كېمە قولتۇقى"</string>
+    <string name="earth_position_title_4">"ئىتالىيە 
+دولومىتى داۋفېڭ تېغى"</string>
+    <string name="earth_summary">ئىنسانلار تارىخى ۋە مەدەنىيىتىنىڭ باشلىنىش نۇقتىسى</string>
+    <string name="earth_super_wallpaper_label">يەرشارى</string>
+    <string name="earth_title">يەرشارى</string>
+    <string name="empty" />
+    <string name="eras_ad">مىلادى</string>
+    <string name="eras_bc">مىلادىدىن بۇرۇنقى</string>
+    <string name="evening">گۇگۇم</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d -كۈنى</string>
+    <string name="fmt_date_long_month">M-ئاي</string>
+    <string name="fmt_date_long_month_day">M-ئاينىڭ d-كۈنى</string>
+    <string name="fmt_date_long_year_month">yyyy-يىل M-ئاي</string>
+    <string name="fmt_date_long_year_month_day">yyyy-يىل M-ئاينىڭ d-كۈنى</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">M - ئاي</string>
+    <string name="fmt_date_short_month_day">M-ئاينىڭ d-كۈنى</string>
+    <string name="fmt_date_short_year_month">yyyy-يىل M-ئاي</string>
+    <string name="fmt_date_short_year_month_day">yyyy-يىل M-ئاينىڭ d-كۈنى</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">zD T</string>
+    <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy-يىل</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">h سائەت</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">aah:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">aah:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_pm">aah:mm:ss</string>
+    <string name="fmt_time_12hour_pm">aah سائەت</string>
+    <string name="fmt_time_24hour">H سائەت</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">S دەقىقە</string>
+    <string name="fmt_time_minute">m مىنۇت</string>
+    <string name="fmt_time_minute_second">m مىنۇت s سېكۇنت</string>
+    <string name="fmt_time_minute_second_millis">m مىنۇت s.S سېكۇنت</string>
+    <string name="fmt_time_second">s سېكۇنت</string>
+    <string name="fmt_time_second_millis">s.S سېكۇنت</string>
+    <string name="fmt_time_timezone">zT</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">DW</string>
+    <string name="fmt_weekday_date_time">DW T</string>
+    <string name="fmt_weekday_date_time_timezone">zDW T</string>
+    <string name="fmt_weekday_date_timezone">zDW</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">EEEE</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">zW T</string>
+    <string name="fmt_weekday_timezone">zW</string>
+    <string name="friday">جۈمە</string>
+    <string name="friday_short">جۈمە</string>
+    <string name="friday_shortest">جۈمە</string>
+    <string name="geometry_summary">نۇر ۋە ماتېرىياللىق بوشلۇق ساياھىتى</string>
+    <string name="geometry_super_wallpaper_label">گىئومېتىرىيە</string>
+    <string name="geometry_title">گىئومېتىرىيە</string>
+    <string name="mars_position_content_0">"نىل سېتېس تۆپىلىكى رايونى تىك يار، تۆپىلىك ۋە كەڭ تۈزلەڭلىك جىلغىسىنى ئۆز ئىچىگە ئالغان بولۇپ، ئادەتتە ئۇنى تاش قاتلىمى بىلەن قاپلانغان مۇز دەرياسى كەلتۈرۈپ چىقارغان دەپ قارىلىدۇ. بۇ يەردىمۇ سېغىز توپا مىنېراللىرى بايقالغان بولۇپ، بۇ سېغىز توپا مىنېراللىرى كىشىلەرنىڭ قەدىمكى مارستىكى ھاياتلىق ئاساسلىرىنى ئىزدەشكە بولغان قىزىقىشىنى قوزغىغان. 
+
+NASA/JPL/ئارىزونا ئۇنىۋېرسىتېتى"</string>
+    <string name="mars_position_content_1">"پەسىل خاراكتېرلىك يانتۇ سىزىقچە (Recurringg slope lineae) ئىللىق مارس يانتۇلۇقىدىكى ھەرىكەتچان ئىز بولۇپ، ئۇ بەلكىم سىرغىشتىن كېلىپ چىققان بولۇشى مۇمكىن.كۆپ ساندىكى باشقا يانتۇ سىزىقلارغا سېلىشتۇرغاندا، قارا مېتېئورىت ئازگىلىدىكى سىزىقچىلار ئادەتتىكىگە ئوخشىمايدىغان قىزىل رەڭدە كۆرۈنىدۇ، بۇنى تۆمۈرنىڭ ئوكسىدلىرى (مەسىلەن، تۆمۈر دېتى) كەلتۈرۈپ چىقارغان بولۇشى مۇمكىن. 
+
+NASA/JPL/ئارىزونا ئۇنىۋېرسىتېتى"</string>
+    <string name="mars_position_content_2">"ماۋوس جىلغىسى قەدىمكى زاماندىكى سىرتقا ئاقىدىغان دەريا يولى بولۇپ، بۇ يەردە تەركىبىدە سۇس رەڭلىك سېغىز توپا مىنېرالى بولغان زور مىقداردىكى تاغ جىنسلىرى بايقالغان، سېغىز توپا پەقەت سۇدىلا مەۋجۇت بولۇپ تۇرالايدۇ. يەر شارىدىكى سېغىز توپىلىق مىنېراللار مىكرو جانلىقلارنى قوغدايدىغان ياخشى ماددا، شۇڭا مارستىكى قەدىمكى ھاياتلىق ئىزنالىرىنى ماۋوس جىلغىسىدىن تاپقىلى بولۇشى مۇمكىن. 
+
+NASA/JPL/ئارىزونا ئۇنىۋېرسىتېتى"</string>
+    <string name="mars_position_content_3">"« قىزىقىش» ناملىق مارس تەكشۈرۈش ئاپتوموبىلى گايل مېتېئورىت ئازگىلىدىكى پالېنپۇ تېغىدا كېتىۋاتقاندا، ئوربىتىلىق ئۇچقۇدىن تارتىلغان بۇ رايوننىڭ يەر شەكلى. بۇ رايوندا زور مىقداردا چۆكمە جىنس مەۋجۇت، ئالىملار سۇنىڭ مەۋجۇت بولۇشى ئاستىدا شەكىللەنگەن، قېنىق رەڭلىك رايون قۇم دەپ قارايدۇ. 
+
+NASA/JPL/ئارىزونا ئۇنىۋېرسىتېتى"</string>
+    <string name="mars_position_content_4">"بەھرام جىلغىسى مارس ئاي سازلىقى رايونىغا جايلاشقان قەدىمىي دەريا جىلغىسى. ئۇ پەقەت بىرلا جىلغا يولى بار جىلغا بولۇپ، قىسمەن رايونلاردا جىلغا تېمى يەلپۈنۈپ تۇرىدۇ. بۇ جىلغىنىڭ ئاستى قىسمىدىكى سۇ ئېقىنىنىڭ يەر يۈزىنى يالاش ئالاھىدىلىكى بۇ جىلغىنىڭ شەكىللەنگەن ۋاقىتتا ئاقار جىسىم ئېقىپ ئۆتكەنلىكىگە ۋەكىللىك قىلىدۇ. 
+
+NASA/JPL/ ئارىزونا ئۇنىۋېرسىتېتى"</string>
+    <string name="mars_position_title_0">"نىلوستېس 
+ پەلەمپەي يەر توپى"</string>
+    <string name="mars_position_title_1">"خېيل مېتېئورىت ئازگىلى
+ مەركىزىي تاغ تىزمىسى"</string>
+    <string name="mars_position_title_2">ماۋوس جىلغىسى مېتېئورىت ئازگىلى</string>
+    <string name="mars_position_title_3">پالېمپ تېغى</string>
+    <string name="mars_position_title_4">بەھرام جىلغىسى</string>
+    <string name="mars_summary">قۇملۇق پىلانېت</string>
+    <string name="mars_super_wallpaper_label">مارس</string>
+    <string name="mars_title">قىزىل مارىس</string>
+    <string name="midnight">يېرىم كېچە</string>
+    <string name="monday">دۈشەنبە</string>
+    <string name="monday_short">دۈشەنبە</string>
+    <string name="monday_shortest">دۈشەنبە</string>
+    <string name="month_april">4-ئاي</string>
+    <string name="month_april_short">ئاپرېل</string>
+    <string name="month_april_shortest">ئاپرېل</string>
+    <string name="month_august">8-ئاي</string>
+    <string name="month_august_short">ئاۋغۇست</string>
+    <string name="month_august_shortest">ئاۋغۇست</string>
+    <string name="month_december">12-ئاي</string>
+    <string name="month_december_short">دېكابىر</string>
+    <string name="month_december_shortest">دېكابىر</string>
+    <string name="month_february">2-ئاي</string>
+    <string name="month_february_short">فېۋرال</string>
+    <string name="month_february_shortest">فېۋرال</string>
+    <string name="month_january">1-ئاي</string>
+    <string name="month_january_short">يانۋار</string>
+    <string name="month_january_shortest">يانۋار</string>
+    <string name="month_july">7-ئاي</string>
+    <string name="month_july_short">ئىيۇل</string>
+    <string name="month_july_shortest">ئىيۇل</string>
+    <string name="month_june">6-ئاي</string>
+    <string name="month_june_short">ئىيۇن</string>
+    <string name="month_june_shortest">ئىيۇن</string>
+    <string name="month_march">3-ئاي</string>
+    <string name="month_march_short">مارت</string>
+    <string name="month_march_shortest">مارت</string>
+    <string name="month_may">5-ئاي</string>
+    <string name="month_may_short">ماي</string>
+    <string name="month_may_shortest">ماي</string>
+    <string name="month_november">11-ئاي</string>
+    <string name="month_november_short">نويابىر</string>
+    <string name="month_november_shortest">نويابىر</string>
+    <string name="month_october">10-ئاي</string>
+    <string name="month_october_short">ئۆكتەبىر</string>
+    <string name="month_october_shortest">ئۆكتەبىر</string>
+    <string name="month_september">9-ئاي</string>
+    <string name="month_september_short">سېنتەبىر</string>
+    <string name="month_september_shortest">سېنتەبىر</string>
+    <string name="morning">چ ب</string>
+    <string name="night">كەچ</string>
+    <string name="noon">چۈش</string>
+    <string name="pm">چ ك</string>
+    <string name="saturday">شەنبە</string>
+    <string name="saturday_short">شەنبە</string>
+    <string name="saturday_shortest">شەنبە</string>
+    <string name="saturn_summary">نامەلۇم ئالەمدە ئىزدىنىش</string>
+    <string name="saturn_super_wallpaper_label">ساتۇرىن</string>
+    <string name="saturn_title">ساتۇرىن ھالقىسى</string>
+    <string name="snowmountain_summary">سىگۇشەن تېغىنىڭ ئەتىگەن ۋە كەچلىكى</string>
+    <string name="snowmountain_super_wallpaper_label">قارلىق تاغ</string>
+    <string name="snowmountain_title">قارلىق تاغ</string>
+    <string name="sunday">يەكشەنبە</string>
+    <string name="sunday_short">يەكشەنبە</string>
+    <string name="sunday_shortest">يەكشەنبە</string>
+    <string name="super_wallpaper_list_label">ئالاھىدە تەگلىك</string>
+    <string name="thursday">پەيشەنبە</string>
+    <string name="thursday_short">پەيشەنبە</string>
+    <string name="thursday_shortest">پەيشەنبە</string>
+    <string name="time_picker_label_hour">سائەت</string>
+    <string name="time_picker_label_minute">مىنۇت</string>
+    <string name="tomorrow">ئەتە</string>
+    <string name="tuesday">سەيشەنبە</string>
+    <string name="tuesday_short">سەيشەنبە</string>
+    <string name="tuesday_shortest">سەيشەنبە</string>
+    <string name="wednesday">چارشەنبە</string>
+    <string name="wednesday_short">چارشەنبە</string>
+    <string name="wednesday_shortest">چارشەنبە</string>
+    <string name="yesterday">تۈنۈگۈن</string>
+    <string name="app_name">تەگلىك</string>
+    <string name="solar_term_autumn_begins">باش كۈز</string>
+    <string name="solar_term_autumn_equinox">كۈزلۈك كۈن-تۈن تەڭلىشىش</string>
+    <string name="solar_term_clear_and_bright">چوكانتال</string>
+    <string name="solar_term_cold_dews">سوغۇق شەبنەم</string>
+    <string name="solar_term_grain_buds">سەرەتان ئىسسىقى</string>
+    <string name="solar_term_grain_in_ear">ئورما ۋاقتى</string>
+    <string name="solar_term_grain_rain">قىزىلكوس</string>
+    <string name="solar_term_great_cold">قاپاقياردى</string>
+    <string name="solar_term_great_heat">تومۇز</string>
+    <string name="solar_term_heavy_snow">چوڭ قار</string>
+    <string name="solar_term_hoar_frost_falls">قىراۋ ئۈششۈكى</string>
+    <string name="solar_term_insects_awaken">جانۋارلار ئويغىنىشى</string>
+    <string name="solar_term_light_snow">كىچىك قار</string>
+    <string name="solar_term_slight_cold">دەلدىۋانە</string>
+    <string name="solar_term_slight_heat">باش تومۇز</string>
+    <string name="solar_term_spring_begins">باش باھار</string>
+    <string name="solar_term_stopping_the_heat">كۈزگى تېرىم</string>
+    <string name="solar_term_summer_begins">باش ياز</string>
+    <string name="solar_term_summer_solstice">يازلىق كۈن -تۈن توختاش</string>
+    <string name="solar_term_the_rains">ئەگىز سۈيى</string>
+    <string name="solar_term_vernal_equinox">ئەتىيازلىق كۈن-تۈن تەڭلىشىش</string>
+    <string name="solar_term_white_dews">ئاق شەبنەم</string>
+    <string name="solar_term_winter_begins">باش قىش</string>
+    <string name="solar_term_winter_solstice">قىشلىق كۈن-تۈن توختاش</string>
+</resources>

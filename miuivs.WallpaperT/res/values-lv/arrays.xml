@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Sākums</item>
+        <item>Ekrāna tapetes/ Super ekrāna tapetes/Sākums</item>
+        <item>Zeme;Super ekrāna tapetes;Zemes izdevums;Ekrāna tapetes</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Ģeometrija</item>
+        <item>Ekrāna tapetes/ Super ekrāna tapetes/Ģeometrija</item>
+        <item>Ģeometrija;Abstrakts;Super ekrāna tapete;Ekrāna tapete</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Sarkanā planēta</item>
+        <item>Ekrāna tapetes/Super ekrāna tapetes/Sarkanā planēta</item>
+        <item>Mars;Marsa izdevums;Super ekrāna tapetes;Ekrāna tapetes</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Saturna gredzeni</item>
+        <item>Ekrāna tapetes/Super ekrāna tapetes/Saturna gredzeni</item>
+        <item>Planētas;Saturns;Super Ekrāna tapetes: Ekrāna tapetes</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Sniegotas virsotnes</item>
+        <item>Ekrāna tapetes/ Super ekrāna tapetes/Sniegotas virsotnes</item>
+        <item>Zeme;Kalni;Super ekrāna tapetes;Ekrāna tapetes</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super ekrāna tapetes</item>
+        <item>Ekrāna tapetes/ Super ekrāna tapetes</item>
+        <item>Super ekrāna tapetes;Ekrāna tapetes;Dinamiskās ekrāna tapetes;3D ekrāna tapetes</item>
+    </string-array>
+</resources>

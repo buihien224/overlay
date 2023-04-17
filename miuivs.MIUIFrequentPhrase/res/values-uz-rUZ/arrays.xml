@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Faktura sarlavhasi: *** Inc.</item>
+        <item>Manzil: Ko‘cha, Turar joy, Shahar, Mamlakat/Mintaqa, Viloyat, Pochta indeksi</item>
+        <item>Iltimos, paketni eshik oldida qoldiring. Rahmat!</item>
+        <item>Bir daqiqa kutib turing, men hozir kelaman.</item>
+        <item>Majlisdaman. Iltimos, matnli xabar yuboring.</item>
+        <item>Hozir gaplasholmayman. Iloji boricha tezroq qo‘ng‘iroq qilaman.</item>
+        <item>Rahmat!</item>
+    </string-array>
+</resources>

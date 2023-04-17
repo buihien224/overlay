@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ଘଣ୍ଟାରେ</item>
+        <item quantity="one">1 ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ଅଧ ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ଶୀଘ୍ର</item>
+        <item quantity="one">ଶୀଘ୍ର</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d ମିନିଟରେ</item>
+        <item quantity="one">1 ମିନିଟରେ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ଏହିକ୍ଷଣି</item>
+        <item quantity="one">ଏହିକ୍ଷଣି</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dମିନିଟ୍ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ଘଣ୍ଟାରେ</item>
+        <item quantity="one">1 ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ଅଧ ଘଣ୍ଟାରେ</item>
+        <item quantity="one">ଅଧ ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ଶୀଘ୍ର</item>
+        <item quantity="one">ଶୀଘ୍ର</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d ମିନିଟରେ</item>
+        <item quantity="one">1 ମିନିଟରେ</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">ଭୁଲ୍‌ ପିନ୍‌ କୋଡ, %d ପ୍ରଚେଷ୍ଟା ବାକି ଅଛି</item>
+        <item quantity="one">ଭୁଲ୍‌ ପିନ୍‌ କୋଡ, %d ପ୍ରଚେଷ୍ଟା ବାକି ଅଛି</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">ଭୁଲ୍‌ PUK କୋଡ୍, %d ପ୍ରୟାସ ବାକି ଅଛି</item>
+        <item quantity="one">ଭୁଲ୍‌ PUK କୋଡ୍, %d ପ୍ରୟାସ ବାକି ଅଛି</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">ପାସୱାର୍ଡକୁ ସବୁବେଳେ ମନେ ରଖିବାକୁ ପ୍ରତ୍ୟେକ %d ଘଣ୍ଟାରେ ଅତିକମରେ ଥରେ ଆପଣଙ୍କ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ</item>
+        <item quantity="one">ପାସୱାର୍ଡକୁ ସବୁବେଳେ ମନେ ରଖିବାକୁ ପ୍ରତ୍ୟେକ %d ଘଣ୍ଟାରେ ଅତିକମରେ ଥରେ ଆପଣଙ୍କ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">ପାସୱାର୍ଡକୁ ସବୁବେଳେ ମନେ ରଖିବାକୁ ପ୍ରତ୍ୟେକ %d ଘଣ୍ଟାରେ ଅତିକମରେ ଥରେ ଆପଣଙ୍କ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ</item>
+        <item quantity="one">ପାସୱାର୍ଡକୁ ସବୁବେଳେ ମନେ ରଖିବାକୁ ପ୍ରତ୍ୟେକ %d ଘଣ୍ଟାରେ ଅତିକମରେ ଥରେ ଆପଣଙ୍କ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">ପ୍ରାୟ %d ଘଣ୍ଟା ବାକି ରହିଛି</item>
+        <item quantity="one">ପ୍ରାୟ %d ଘଣ୍ଟା ବାକି ରହିଛି</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">ପ୍ରାୟ %d ମିନିଟ ବାକି ରହିଛି</item>
+        <item quantity="one">ପ୍ରାୟ %d ମିନିଟ ବାକି ରହିଛି</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">ପ୍ରାୟ %1$d ଘଣ୍ଟା %2$d ମିନିଟ ବାକି ରହିଛି</item>
+        <item quantity="one">ପ୍ରାୟ %1$d ଘଣ୍ଟା %2$d ମିନିଟ ବାକି ରହିଛି</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d ମିନିଟ</item>
+        <item quantity="one">%d ମିନିଟ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d ଘଣ୍ଟା %2$d ମିନିଟ</item>
+        <item quantity="one">%1$d ଘଣ୍ଟା %2$d ମିନିଟ</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d ଘଣ୍ଟା ବାକି</item>
+        <item quantity="one">%d ଘଣ୍ଟା ବାକି</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d ମିନିଟ ବାକି</item>
+        <item quantity="one">%d ମିନିଟ ବାକି</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d ଘଣ୍ଟା %2$d ମିନିଟ ବାକି</item>
+        <item quantity="one">%1$d ଘଣ୍ଟା %2$d ମିନିଟ ବାକି</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ଏହିକ୍ଷଣି</item>
+        <item quantity="one">ଏହିକ୍ଷଣି</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌ ଚୟନ କରାଯାଇଛି</item>
+        <item quantity="one">%d ଆଇଟମ୍‌ ଚୟନ କରାଯାଇଛି</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d ନୂଆ ନୋଟିଫିକେସନ</item>
+        <item quantity="one">%d ନୂଆ ନୋଟିଫିକେସନ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ମିନିଟ ପୂର୍ବରୁ</item>
+        <item quantity="one">1 ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d ମିନିଟରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+        <item quantity="one">%d ମିନିଟରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d ସେକେଣ୍ଡରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+    </plurals>
+</resources>

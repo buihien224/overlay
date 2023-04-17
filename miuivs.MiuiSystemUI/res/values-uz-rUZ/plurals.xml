@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Noto‘g‘ri PIN kodi, %d ta urinish qoldi</item>
+        <item quantity="one">Noto‘g‘ri PIN kodi, %d ta urinish qoldi</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Noto‘g‘ri PUK kodi, %d ta urinish qoldi</item>
+        <item quantity="one">Noto‘g‘ri PUK kodi, %d ta urinish qoldi</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Parolingizni eslab qolish uchun uni kamida har %d soatda kiriting</item>
+        <item quantity="one">Parolingizni eslab qolish uchun uni kamida har %d soatda kiriting</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Parolingizni eslab qolish uchun uni kamida har %d soatda kiriting</item>
+        <item quantity="one">Parolingizni eslab qolish uchun uni kamida har %d soatda kiriting</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">%d soat​ qoldi</item>
+        <item quantity="one">%d soat​ qoldi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">%d daqiqa qoldi</item>
+        <item quantity="one">%d daqiqa qoldi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">%1$d soat %2$d daq. qoldi</item>
+        <item quantity="one">%1$d soat %2$d daq. qoldi</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d daq</item>
+        <item quantity="one">%d daq</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d daq</item>
+        <item quantity="one">%1$d h %2$d daq</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d soat qoldi</item>
+        <item quantity="one">%d soat qoldi</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d daq. qoldi</item>
+        <item quantity="one">%d daq. qoldi</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d soat %2$d daq qoldi</item>
+        <item quantity="one">%1$d soat %2$d daq. qoldi</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ta element tanlandi</item>
+        <item quantity="one">%d ta element tanlandi</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d daqiqadan keyin qaytadan ko‘ring</item>
+        <item quantity="one">%d daqiqadan keyin qaytadan ko‘ring</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d soniya ichida qaytadan ko‘ring</item>
+        <item quantity="one">%d soniya ichida qaytadan ko‘ring</item>
+    </plurals>
+</resources>

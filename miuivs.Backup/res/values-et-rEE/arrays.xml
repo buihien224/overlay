@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Üldine kogemus</item>
+        <item>Ülekande kestus</item>
+        <item>Protsessi lihtsus</item>
+        <item>Juhiste selgus</item>
+        <item>See omadus on kasulik</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Väga rahulolematu</item>
+        <item>Mõnevõrra rahulolematu</item>
+        <item>Neutraalne</item>
+        <item>Mõnevõrra rahul</item>
+        <item>Väga rahul</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Üldine hinnang</item>
+        <item>Ülekande kestus</item>
+        <item>Protsessi lihtsus</item>
+        <item>Juhiste selgus</item>
+    </string-array>
+</resources>

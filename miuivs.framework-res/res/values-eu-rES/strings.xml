@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB arazketa aktibatuta dago</string>
+    <string name="lock_to_app_description">"Pantailaren ainguraketa bistaratzea bista bakar batean blokeatzen du
+
+Ainguraketa kentzeko, ukitu eta mantendu Hasiera eta Pizte botoia batera."</string>
+    <string name="lock_to_app_description_accessible">"Pantailaren ainguraketa bistaratzea bista bakar batean blokeatzen du
+
+Ainguraketa kentzeko, ukitu eta mantendu Hasiera eta Pizte botoia batera."</string>
+    <string name="lock_to_app_toast">Pantaila honen ainguraketa kentzeko, ukitu eta mantendu Hasiera eta Pizte botoia batera.</string>
+    <string name="lock_to_app_toast_accessible">Pantaila honen ainguraketa kentzeko, ukitu eta mantendu Hasiera eta Pizte botoia batera.</string>
+    <string name="lockscreen_missing_sim_instructions">Sartu SIM txartela.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM txartela falta da edo ezin da irakurri. Sartu SIM txartela.</string>
+    <string name="lockscreen_missing_sim_message">Ez dago SIM txartelik telefonoan.</string>
+    <string name="lockscreen_missing_sim_message_short">Ez dago SIM txartelik</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Zure SIM txartela betirako desgaituta izan da.
+Jar zaitez kontaktuan zure hari-gabeko sareen hornitzailearekin SIM berri bat lortzeko."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Erabili ezin den SIM txartela.</string>
+    <string name="tethered_notification_message">Ukitu instalatzeko.</string>
+    <string name="tethered_notification_multi_device_message">Konektatutako gailuak: %1$s</string>
+    <string name="tethered_notification_no_device_message">Ez dago gailurik konektatuta</string>
+    <string name="tethered_notification_one_device_message">Konektatutako gailuak: %1$s</string>
+    <string name="tethered_notification_title">Ainguraketa edo sarbide puntua aktibatuta</string>
+    <string name="usb_midi_notification_title">MIDI USB-ren bidez aktibatuta dago</string>
+    <string name="usb_mtp_notification_title">USB fitxategi transferitzea aktibatuta dago</string>
+    <string name="usb_ptp_notification_title">PTP USB-ren bidez aktibatuta dago</string>
+    <string name="usb_tether_notification_title">USB ainguraketa aktibatuta dago</string>
+    <string name="usb_unsupported_audio_accessory_message">Konektatutako gailua ez da telefono honekin bateragarria. Sakatu gehiago jakiteko.</string>
+    <string name="usb_unsupported_audio_accessory_title">Audio analogikoko osagarri bat detektatuta</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth-a</string>
+    <string name="volume_icon_description_incall">Deitu</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Jakinarazpena</string>
+    <string name="volume_icon_description_ringer">Txirrina</string>
+</resources>

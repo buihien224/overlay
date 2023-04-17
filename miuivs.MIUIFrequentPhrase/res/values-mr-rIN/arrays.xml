@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>इनव्हाईस हेडर: *** Inc.</item>
+        <item>पत्ताः स्ट्रीट, आप्ट, शहर, देश / प्रदेश, प्रांत, पोस्टल कोड</item>
+        <item>कृपया पॅकेज दाराजवळच सोडा. धन्यवाद!</item>
+        <item>एक मिनिट थांबा, मी परत येईन.</item>
+        <item>मी मिटींगमध्ये आहे. कृपया टेक्स्ट मेसेज पाठवा.</item>
+        <item>मी आता बोलू शकत नाही. मी तुम्हाला शक्य तितक्या लवकर परत कॉल करेन.</item>
+        <item>धन्यवाद!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>மிகக் குறைவு</item>
+        <item>குறைவு</item>
+        <item>வழக்கமானது</item>
+        <item>அதிகம்</item>
+        <item>அதிகபட்சம்</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anisotropic">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+        <item>8X</item>
+        <item>16X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>சமநிலை</item>
+        <item>உயர் தரம்</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>அதிக வேகம்</item>
+        <item>சமநிலை</item>
+        <item>உயர் தரம்</item>
+    </string-array>
+</resources>

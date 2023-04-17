@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>连接网络</item>
+        <item>读取短信</item>
+        <item>修改短信</item>
+        <item>接收短信</item>
+        <item>发送短信</item>
+        <item>拨打电话</item>
+        <item>读取通讯录</item>
+        <item>更改通讯录</item>
+        <item>读取通话记录</item>
+        <item>修改通话记录</item>
+        <item>使用相机</item>
+        <item>定位</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">ການແກ້ໄຂ USB ຖືກເປີດ</string>
+    <string name="lock_to_app_description">"ການປັກໝຸດໜ້າຈໍຈະລັອກການສະແດງຜົນໃນແບບໜ້າຈໍດ່ຽວ.
+
+ເພື່ອຍົກເລີກການປັກໝຸດໜ້າຈໍ, ກົດປຸ່ມຫຼັກແລະປຸ່ມເປີດປິດຄ້າງໄວ້ພ້ອມກັນ."</string>
+    <string name="lock_to_app_description_accessible">"ການປັກໝຸດໜ້າຈໍຈະລັອກການສະແດງຜົນໃນແບບໜ້າຈໍດ່ຽວ.
+
+ເພື່ອຍົກເລີກການປັກໝຸດໜ້າຈໍ, ກົດປຸ່ມຫຼັກແລະປຸ່ມເປີດປິດຄ້າງໄວ້ພ້ອມກັນ."</string>
+    <string name="lock_to_app_toast">ເພື່ອຍົກເລີກການປັກໝຸດໜ້າຈໍນີ້, ກົດປຸ່ມຫຼັກແລະປຸ່ມເປີດປິດຄ້າງໄວ້ພ້ອມກັນ.</string>
+    <string name="lock_to_app_toast_accessible">ເພື່ອຍົກເລີກການປັກໝຸດໜ້າຈໍນີ້, ກົດປຸ່ມຫຼັກແລະປຸ່ມເປີດປິດຄ້າງໄວ້ພ້ອມກັນ.</string>
+    <string name="lockscreen_missing_sim_instructions">ກະລຸນາໃສ່ແຜ່ນ SIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">ບໍ່ພົບແຜ່ນ SIM ຫຼືອ່ານບໍ່ໄດ້. ກະລຸນາໃສ່ແຜ່ນ SIM.</string>
+    <string name="lockscreen_missing_sim_message">ບໍ່ມີແຜ່ນ SIM ໃນໂທລະສັບ.</string>
+    <string name="lockscreen_missing_sim_message_short">ບໍ່ມີແຜ່ນ SIM</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"ແຜ່ນ SIM ຂອງທ່ານຖືກປິດໃຊ້ງານຖາວອນ.
+ຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການໄຮ້ສາຍຂອງທ່ານເພື່ອຂໍແຜ່ນ SIM ໃໝ່."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">ແຜ່ນ SIM ບໍ່ສາມາດໃຊ້ງານໄດ້.</string>
+    <string name="tethered_notification_message">ແຕະເພື່ອຕັ້ງຄ່າ.</string>
+    <string name="tethered_notification_multi_device_message">%1$s ອຸປະກອນທີ່ເຊື່ອມຕໍ່</string>
+    <string name="tethered_notification_no_device_message">ບໍ່ມີອຸປະກອນທີ່ເຊື່ອມຕໍ່</string>
+    <string name="tethered_notification_one_device_message">%1$s ອຸປະກອນທີ່ເຊື່ອມຕໍ່</string>
+    <string name="tethered_notification_title">ແບ່ງປັນເຄືອຂ່າຍຫຼືໃຊ້ງານຮັອດສະປອດ</string>
+    <string name="usb_midi_notification_title">MIDI ຜ່ານ USB ຖືກເປີດ</string>
+    <string name="usb_mtp_notification_title">ການໂອນຍ້າຍໄຟລ໌ USB ຖືກເປີດ</string>
+    <string name="usb_ptp_notification_title">PTP ຜ່ານ USB ຖືກເປີດ</string>
+    <string name="usb_tether_notification_title">ແບ່ງປັນເຄືອຂ່າຍຜ່ານ USB ຖືກເປີດ</string>
+    <string name="usb_unsupported_audio_accessory_message">ອຸປະກອນທີ່ເຊື່ອມຕໍ່ບໍ່ສາມາດໃຊ້ໄດ້ກັບໂທລະສັບນີ້. ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ.</string>
+    <string name="usb_unsupported_audio_accessory_title">ຄົ້ນພົບອຸປະກອນເສີມສຽງອະນາລັອກ</string>
+    <string name="volume_icon_description_bluetooth">ບລູທູດ</string>
+    <string name="volume_icon_description_incall">ໂທ</string>
+    <string name="volume_icon_description_media">ມີເດຍ</string>
+    <string name="volume_icon_description_notification">​ການ​ແຈ້ງ​ເຕືອນ</string>
+    <string name="volume_icon_description_ringer">ສຽງເອີ້ນເຂົ້າ</string>
+</resources>

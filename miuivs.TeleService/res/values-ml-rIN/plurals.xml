@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">താമസം: %d സെക്കന്റ്</item>
+        <item quantity="one">താമസം: %d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">%s ആളുകളെ വരെ നിങ്ങൾക്ക് ചേർക്കാനാകും, വീണ്ടും തിരഞ്ഞെടുക്കുക.</item>
+        <item quantity="one">%s ആളെ വരെ നിങ്ങൾക്ക് ചേർക്കാനാകും, വീണ്ടും തിരഞ്ഞെടുക്കുക.</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d നമ്പർ</item>
+        <item quantity="one">%d നമ്പർ</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d നമ്പർ മായ്ക്കപ്പെടും.</item>
+        <item quantity="one">%d നമ്പർ മായ്ക്കപ്പെടും.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s ദിവസം</item>
+        <item quantity="one">%s ദിവസം</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s മണിക്കൂർ</item>
+        <item quantity="one">%s മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ഇനങ്ങള്‍ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%d ഇനം തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d ശ്രമങ്ങൾ ശേഷിക്കുന്നു."</item>
+        <item quantity="one">"
+%d ശ്രമം ശേഷിക്കുന്നു."</item>
+    </plurals>
+</resources>

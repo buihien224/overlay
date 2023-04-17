@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="qs_control_big_tile_blue_bg">@android:color/system_accent1_200</color>
-    <color name="qs_control_big_tile_green_bg">@android:color/system_accent3_200</color>
-    <color name="qs_control_tile_icon_enable_color">@android:color/system_accent1_200</color>
-    <color name="qs_tile_icon_bg_enabled_color">@android:color/system_accent1_200</color>
-    <color name="qs_detail_item_selected_color">@android:color/system_accent1_200</color>
-</resources>

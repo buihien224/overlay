@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>وصولی کے وقت کے لحاظ سے ترتیب دیں</item>
+        <item>اطلاعات کی تعداد کے لحاظ سے ترتیب دیں</item>
+        <item>ایپس جو اطلاعات دکھا سکتے ہیں</item>
+        <item>ایپس جو اطلاعات نہیں دکھا سکتے ہیں</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>اطلاعاتی مواد دکھائیں</item>
+        <item>لاک اسکرین اطلاعات نہ دکھائیں</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>اطلاعاتی مواد دکھائیں</item>
+        <item>اطلاعات دکھائیں مگر مواد پوشیدہ کریں</item>
+        <item>لاک اسکرین اطلاعات نہ دکھائیں</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>اینڈرائیڈ</item>
+    </string-array>
+</resources>

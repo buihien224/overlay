@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ئەر</item>
+        <item>ئايال</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ھېسابات ۋە ھوقۇقلاندۇرۇش</item>
+        <item>Facebook/Google قاتارلىق SNSھېسابات باغلاشنى كۆرۈش</item>
+        <item>ھوقۇقلاندۇرۇش؛Facebook؛Google؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ھېسابات ۋە ھوقۇقلاندۇرۇش</item>
+        <item>باغلانغان ئۈندىدار/QQ قاتارلىق SNS ھېساباتىنى كۆرۈش</item>
+        <item>باغلاپ ھوقۇقلاندۇرۇش؛SNS؛ئۈندىدار؛QQ؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>پارول ئۆزگەرتىش</item>
+        <item>ھېسابات پارولىنى ئۆزگەرتىش</item>
+        <item>پارول ئۆزگەرتىش؛پارول ئۆزگەرتىش؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>بۇلۇت بوشلۇقىنى ئورتاقلىشىش</item>
+        <item>بۇلۇت بوشلۇقىنى ئورتاقلىشىشنى كۆرۈش/ئېچىش</item>
+        <item>بۇلۇت بوشلۇقىنى ئورتاقلىشىش؛بوشلۇق ئورتاقلىشىش</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ئائىلە مۇلازىمىتى</item>
+        <item>ئائىلە مۇلازىمىتىنى كۆرۈش/ئېچىش</item>
+        <item>ئائىلىدىكىلەر؛ئائىلە مۇلازىمىتى؛ئائىلە ئورتاقلىشىش</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ھېسابات ياردەم مەركىزى</item>
+        <item>شياۋمى ھېساباتى ياردەم مەركىزىنى كۆرۈش</item>
+        <item>شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات ياردىمى؛ھېسابات ياردىمى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>كىرىشنى ئىككىنچى قېتىم دەلىللەش</item>
+        <item>ھېساباتقا كىرىشنى دەلىللەش ئۇسۇلىنى تەڭشەش</item>
+        <item>كىرىپ دەلىللەش؛كىرىپ ئىككىنچى قېتىم دەلىللەش؛ئىككىنچى قېتىم دەلىللەش؛ھېسابات بىخەتەرلىكىنى دەلىللەش؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>كىرىش ۋە بىخەتەرلىك</item>
+        <item>ھېسابات بىخەتەر يانفون نومۇرى باغلاش/تورخەت/پارول ئۆزگەرتىش قاتارلىقلار</item>
+        <item>تىزىملىتىش ۋە بىخەتەرلىك؛ بىخەتەر يان تېلېفون؛ بىخەتەرلىك پوچتا ساندۇقى؛ ھېسابات نومۇرى بىخەتەرلىك ئۇچۇرى؛ ھېسابات نومۇرى بىخەتەرلىك ئۇچۇرى؛ تېلېفون نومۇرى؛ پوچتا ساندۇقى؛ مەخپىي نومۇرنى ئۆزگەرتىش؛ يان تېلېفونغا باغلاش؛تورخەتكە باغلاش؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>كۆپ ئۈسكۈنىدە تىزىملىتىشنى باشقۇرۇش</item>
+        <item>كىرگەن ھېساباتنىڭ شياۋمى ئۈسكۈنىسىنى باشقۇرۇش</item>
+        <item>ئۈسكۈنە باشقۇرۇش؛ئۈسكۈنىگە كىرىش؛ئۈسكۈنە تىزىملىكى؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ھېسابات شەخسىي مەخپىيەتلىك سىياسىتى</item>
+        <item>شياۋمى ھېساباتى شەخسىي مەخپىيەتلىك سىياسىتىنى كۆرۈش</item>
+        <item>شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛شەخسىي مەخپىيەتلىك كېلىشىمى؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>بىخەتەر تورخەت</item>
+        <item>ھېسابات بىخەتەر تورخېتىنى باغلاش</item>
+        <item>بىخەتەر تورخەت؛تورخەت ساندۇقى؛باغلاش؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>بىخەتەر يانفون</item>
+        <item>ھېسابات بىخەتەر يانفون نومۇرىنى باغلاش</item>
+        <item>بىخەتەر يانفون؛باغلاش؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>سىستېما ئېلانى</item>
+        <item>سىستېما ئېلانىنى تەڭشەش</item>
+        <item>سىستېما ئېلانى؛شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ھېسابات شەخس ئۇچۇرى</item>
+        <item>باش سۈرەت/ئىسىم تەڭشەش قاتارلىق ئۇچۇرلارنى كۆرۈش</item>
+        <item>شەخس ئۇچۇرى؛باش سۈرەت؛ئىسىم؛ھېسابات ئۇچۇرى؛ھېسابات ئۇچۇرى؛شياۋمىID؛ID؛شياۋمى ھېساباتى،شياۋمى ھېساباتى؛ھېسابات؛ھېسابات</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ھېسابات ئىشلەتكۈچى كېلىشىمى</item>
+        <item>شياۋمى ھېساباتى ئىشلەتكۈچى كېلىشىمىنى كۆرۈش</item>
+        <item>شياۋمى ھېساباتى؛شياۋمى ھېساباتى؛ھېسابات؛ئىشلەتكۈچى كېلىشىمى؛ھېسابات ئىشلەتكۈچى كېلىشىمى؛ھېسابات</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>ประสบการณ์โดยรวม</item>
+        <item>ระยะเวลาถ่ายโอน</item>
+        <item>กระบวนการอย่างง่าย</item>
+        <item>วิธีใช้อย่างชัดเจน</item>
+        <item>คุณลักษณะนี้มีประโยชน์</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>ไม่พอใจอย่างมาก</item>
+        <item>ค่อนข้างไม่พอใจ</item>
+        <item>เฉยๆ</item>
+        <item>ค่อนข้างพอใจ</item>
+        <item>พอใจอย่างมาก</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>อันดับโดยรวม</item>
+        <item>ระยะเวลาของการถ่ายโอน</item>
+        <item>กระบวนการอย่างง่าย</item>
+        <item>วิธีใช้อย่างชัดเจน</item>
+    </string-array>
+</resources>

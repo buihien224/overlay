@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>ପ୍ରାପ୍ତ ହୋଇଥିବା ସମୟ ଅନୁଯାୟୀ ସର୍ଟ କରନ୍ତୁ</item>
+        <item>ନୋଟଫିକେସନର ସଂଖ୍ୟା ଅନୁସାରେ ସର୍ଟ କରନ୍ତୁ</item>
+        <item>ନୋଟିଫିକେସନ ଦେଖାଇପାରୁଥିବା ଆପ୍ସ</item>
+        <item>ନୋଟିଫିକେସନ ଦେଖାଇପାରୁନଥିବା ଆପ୍ସ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>ନୋଟିଫିକେସନ କଣ୍ଟେଣ୍ଟ ଦେଖାନ୍ତୁ</item>
+        <item>ଲକ୍ ସ୍କ୍ରିନ୍‍ ନୋଟିଫିକେସନ ଦେଖାନ୍ତୁ ନାହିଁ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>ନୋଟିଫିକେସନ କଣ୍ଟେଣ୍ଟ ଦେଖାନ୍ତୁ</item>
+        <item>ନୋଟିଫିକେସନ ଦେଖାନ୍ତୁ କିନ୍ତୁ କଣ୍ଟେଣ୍ଟ ଲୁଚାନ୍ତୁ</item>
+        <item>ଲକ୍ ସ୍କ୍ରିନ୍‍ ନୋଟିଫିକେସନ ଦେଖାନ୍ତୁ ନାହିଁ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Lelaki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Akaun</item>
+        <item>Tambah dan urus akaun pihak ketiga</item>
+        <item>Akaun;SNS;Facebook;Google;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Akaun</item>
+        <item>Tambah dan urus akaun pihak ketiga</item>
+        <item>Akaun;SNS;WeChat;QQ;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Tukar kata laluan</item>
+        <item>Tukar kata laluan Akaun Xiaomi</item>
+        <item>Tukar kata laluan;Kemas kini kata laluan;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Ruang penstoran keluarga</item>
+        <item>Lihat/hidupkan ruang penstoran Keluarga</item>
+        <item>Ruang penstoran keluarga;Perkongsian penstoran</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Perkhidmatan keluarga</item>
+        <item>Lihat/hidupkan perkhidmatan Keluarga</item>
+        <item>Keluarga;Perkhidmatan keluarga;Perkongsian keluarga</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Bantuan</item>
+        <item>Dapatkan bantuan dan sokongan Akaun Xiaomi</item>
+        <item>Akaun Mi;Akaun;Akaun Xiaomi;Bantuan akaun;Pusat bantuan</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Pengesahan 2-langkah</item>
+        <item>Tetapkan pengesahan 2 langkah untuk Akaun Xiaomi anda</item>
+        <item>Log masuk;Log masuk;2 langkah;pengesahan;Xiaomi;Akaun;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Keselamatan akaun</item>
+        <item>Telefon dan e-mel pemulihan, pengurusan kata laluan</item>
+        <item>Keselamatan akaun;Melog masuk;Telefon pemulihan;E-mel pemulihan;Perlindungan akaun;Nombor telefon;E-mel;Tukar kata laluan;Tambahkan nombor telefon;Tambah e-mel;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Peranti</item>
+        <item>Urus peranti yang berkaitan dengan Akaun Xiaomi anda</item>
+        <item>Urus peranti;Peranti saya;Peranti;Senarai peranti;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Dasar Privasi</item>
+        <item>Lihat Dasar Privasi Akaun Xiaomi</item>
+        <item>Akaun Mi;Akaun;Akaun Xiaomi;Dasar Privasi</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-mel pemulihan</item>
+        <item>Tambah e-mel pemulihan</item>
+        <item>E-mel pemulihan;E-mel;Tambah e-mel;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon pemulihan</item>
+        <item>Tambah telefon pemulihan</item>
+        <item>Telefon pemulihan;Tambah telefon;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Iklan</item>
+        <item>Urus iklan sistem</item>
+        <item>Iklan;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Info akaun</item>
+        <item>Lihat gambar profil anda dan urus maklumat akaun</item>
+        <item>Maklumat peribadi;gambar profil;nama panggilan;maklumat akaun;ID Mi;ID;Akaun Mi;Akaun;Akaun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Perjanjian Pengguna</item>
+        <item>Perjanjian Pengguna</item>
+        <item>Akaun Mi;Akaun;Akaun Xiaomi;Perjanjian Pengguna;EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ကျား</item>
+        <item>မ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>အကောင့်များ</item>
+        <item>ပြင်ပအဖွဲ့၏ အကောင့်များကို ပေါင်းထည့်ရန်နှင့် စီမံရန်</item>
+        <item>အကောင့်များ၊ SNS၊ Facebook၊ Google၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>အကောင့်များ</item>
+        <item>ပြင်ပအဖွဲ့၏ အကောင့်များကို ပေါင်းထည့်ရန်နှင့် စီမံရန်</item>
+        <item>အကောင့်များ၊ SNS၊ WeChat၊ QQ၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>စကားဝှက်ပြောင်းလဲရန်</item>
+        <item>Xiaomi အကောင့် စကားဝှက်ပြောင်းရန်</item>
+        <item>စကားဝှက်ပြောင်းရန်၊ စကားဝှက်အပ်ပဒိတ်၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>မိသားစုသိုလှောင်ခန်းနေရာ</item>
+        <item>မိသားစုသိုလှောင်ခန်းနေရာ ကြည့်ရန်/ဖွင့်ရန်</item>
+        <item>မိသားစုသိုလှောင်ခန်းနေရာ;သိုလှောင်ခန်းမျှသုံးမှု</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>မိသားစုဝန်ဆောင်မှုများ</item>
+        <item>မိသားစုဝန်ဆောင်မှုများ ကြည့်ရန်/ဖွင့်ရန်</item>
+        <item>မိသားစု;မိသားစုဝန်ဆောင်မှုများ;မိသားစုမျှသုံးမှု</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>အကူအညီ</item>
+        <item>Xiaomi အကောင့်အကူအညီနှင့်ပံ့ပိုးမှု ရယူရန်</item>
+        <item>Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်၊ အကောင့်အကူအညီ၊ ကူညီရေးရာစင်တာ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>မှန်ကြောင်း ၂-ဆင့်အတည်ပြုခြင်း</item>
+        <item>သင်၏ Xiaomi အကောင့်အတွက် မှန်ကြောင်း ၂-ဆင့်အတည်ပြုခြင်း</item>
+        <item>အကောင့်ဝင်၊ အကောင့်ဝင်၊ ၂-ဆင့်၊ အတည်ပြု၊ Xiaomi၊ အကောင့်၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>အကောင့်လုံခြုံရေး</item>
+        <item>အကောင့်ပြန်ရယူရန် ဖုန်းနှင့် အီးမေးလ်၊ စကားဝှက် စီမံခန့်ခွဲမှု</item>
+        <item>အကောင့်လုံခြုံရေး၊ အကောင့်ဝင်ခြင်း၊ အရန်ဖုန်း၊ အရန်အီးမေး(လ်)၊ အကောင့်ကာကွယ်ရေး၊ ဖုန်းနံပါတ်၊ အီးမေး(လ်)၊ စကားဝှက်ပြောင်းရန်၊ ဖုန်းနံပါတ်ထည့်ရန်၊ အီးမေး(လ်)ထည့်ရန်၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>စက်များ</item>
+        <item>သင်၏ Xiaomi အကောင့်နှင့်တွဲဖက်ထားသော စက်များကို စီမံရန်</item>
+        <item>စက်များစီမံခန့်ခွဲရန်၊ ကျွန်ုပ်စက်၊ စက်များ၊ စက်စာရင်း၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</item>
+        <item>Xiaomi အကောင့်ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို ကြည့်ရှုရန်</item>
+        <item>Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်၊ ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>အရန် အီးမေးလ်</item>
+        <item>အကောင့်ပြန်ယူရန် အီးမေးလ်ကို ပေါင်းထည့်ရန်</item>
+        <item>အရန်အီးမေး(လ်)၊ အီးမေး(လ်)၊ အီးမေး(လ်)ထည့်ရန်၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>အရန် ဖုန်း</item>
+        <item>အကောင့်ပြန်ယူရန် ဖုန်းကို ပေါင်းထည့်ရန်</item>
+        <item>အရန်ဖုန်း၊ ဖုန်းထည့်ပါ၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ကြော်ငြာ</item>
+        <item>စနစ်ကြော်ငြာများကို စီမံရန်</item>
+        <item>ကြော်ငြာများ၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>အကောင့်အချက်အလက်</item>
+        <item>သင်၏ ပရိုဖိုင်ဓာတ်ပုံကို ကြည့်ရှု၍ အကောင့်အချက်အလက်ကို စီမံရန်</item>
+        <item>ကိုယ်ရေးကိုယ်တာအချက်အလက်၊ ပရိုဖိုင်ပုံ၊ အမည်ပြောင်၊ အကောင့်အချက်အလက်၊ Mi ID၊ Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>အသုံးပြုသူ သဘောတူညီချက်</item>
+        <item>အသုံးပြုသူ သဘောတူညီချက်</item>
+        <item>Mi အကောင့်၊ အကောင့်၊ Xiaomi အကောင့်၊ အသုံးပြုသူသဘောတူညီချက်၊ EULA</item>
+    </string-array>
+</resources>

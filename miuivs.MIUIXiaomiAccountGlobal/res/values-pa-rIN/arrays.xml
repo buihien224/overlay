@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ਆਦਮੀ</item>
+        <item>ਔਰਤ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ਖਾਤੇ</item>
+        <item>ਤੀਜੀ ਧਿਰ ਦੇ ਖਾਤਿਆਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਕੇ ਉਹਨਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</item>
+        <item>ਖਾਤੇ;SNS;Facebook;Google;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ਖਾਤੇ</item>
+        <item>ਤੀਜੀ ਧਿਰ ਦੇ ਖਾਤਿਆਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਕੇ ਉਹਨਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</item>
+        <item>ਖਾਤੇ;SNS;WeChat;QQ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>ਪਾਸਵਰਡ ਬਦਲੋ</item>
+        <item>Xiaomi ਖਾਤੇ ਦਾ ਪਾਸਵਰਡ ਬਦਲੋ</item>
+        <item>ਪਾਸਵਰਡ ਬਦਲੋ;ਪਾਸਵਰਡ ਅੱਪਡੇਟ ਕਰੋ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ਪਰਿਵਾਰਕ ਸਟੋਰੇਜ ਥਾਂ</item>
+        <item>ਪਰਿਵਾਰਕ ਸਟੋਰੇਜ ਥਾਂ ਦੇਖੋ/ਚਾਲੂ ਕਰੋ</item>
+        <item>ਪਰਿਵਾਰਕ ਸਟੋਰੇਜ ਥਾਂ;ਸਟੋਰੇਜ ਸਾਂਝਾਕਰਨ</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ਪਰਿਵਾਰਕ ਸੇਵਾਵਾਂ</item>
+        <item>ਪਰਿਵਾਰਕ ਸੇਵਾਵਾਂ ਦੇਖੋ/ਚਾਲੂ ਕਰੋ</item>
+        <item>ਪਰਿਵਾਰ;ਪਰਿਵਾਰਕ ਸੇਵਾਵਾਂ;ਪਰਿਵਾਰਕ ਸਾਂਝਾਕਰਨ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ਮਦਦ</item>
+        <item>Xiaomi ਖਾਤਾ ਮਦਦ ਅਤੇ ਸਮਰਥਨ ਪਾਓ</item>
+        <item>Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ;ਖਾਤੇ ਸੰਬੰਧੀ ਮਦਦ;ਮਦਦ ਕੇਂਦਰ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ਪੜਾਵੀਂ ਪੁਸ਼ਟੀਕਰਨ</item>
+        <item>ਆਪਣੇ Xiaomi ਖਾਤੇ ਲਈ 2-ਪੜਾਵੀਂ ਪੁਸ਼ਟੀਕਰਨ ਸੈੱਟ ਕਰੋ</item>
+        <item>ਸਾਈਨ-ਇਨ;ਲਾਗ ਇਨ;2-ਪੜਾਵੀਂ ਪੁਸ਼ਟੀਕਰਨ;Xiaomi;ਖਾਤਾ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ਖਾਤਾ ਸੁਰੱਖਿਆ</item>
+        <item>ਰਿਕਵਰੀ ਫ਼ੋਨ ਅਤੇ ਈਮੇਲ, ਪਾਸਵਰਡ ਪ੍ਰਬੰਧਨ</item>
+        <item>ਖਾਤਾ ਸੁਰੱਖਿਆ;ਸਾਈਨ-ਇਨ ਕਰਨਾ;ਰਿਕਵਰੀ ਫ਼ੋਨ;ਰਿਕਵਰੀ ਈਮੇਲ;ਖਾਤਾ ਸੁਰੱਖਿਆ;ਫ਼ੋਨ ਨੰਬਰ;ਈਮੇਲ;ਪਾਸਵਰਡ ਬਦਲੋ;ਫ਼ੋਨ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰੋ;ਈਮੇਲ ਸ਼ਾਮਲ ਕਰੋ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ਡੀਵਾਈਸਾਂ</item>
+        <item>ਆਪਣੇ Xiaomi ਖਾਤੇ ਨਾਲ ਸੰਬੰਧਿਤ ਡੀਵਾਈਸਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</item>
+        <item>ਡੀਵਾਈਸਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ;ਮੇਰੇ ਡੀਵਾਈਸ;ਡੀਵਾਈਸ;ਡੀਵਾਈਸ ਸੂਚੀ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ਪਰਦੇਦਾਰੀ ਨੀਤੀ</item>
+        <item>Xiaomi ਖਾਤੇ ਦੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਦੇਖੋ</item>
+        <item>Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ;ਪਰਦੇਦਾਰੀ ਨੀਤੀ</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ਰਿਕਵਰੀ ਈਮੇਲ</item>
+        <item>ਰਿਕਵਰੀ ਈਮੇਲ ਸ਼ਾਮਲ ਕਰੋ</item>
+        <item>ਰਿਕਵਰੀ ਈਮੇਲ;ਈਮੇਲ;ਈਮੇਲ ਸ਼ਾਮਲ ਕਰੋ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>ਰਿਕਵਰੀ ਫ਼ੋਨ</item>
+        <item>ਰਿਕਵਰੀ ਫ਼ੋਨ ਸ਼ਾਮਲ ਕਰੋ</item>
+        <item>ਰਿਕਵਰੀ ਫ਼ੋਨ;ਫ਼ੋਨ ਸ਼ਾਮਲ ਕਰੋ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ਵਿਗਿਆਪਨ</item>
+        <item>ਸਿਸਟਮ ਵਿਗਿਆਪਨਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</item>
+        <item>ਵਿਗਿਆਪਨ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ਖਾਤਾ ਜਾਣਕਾਰੀ</item>
+        <item>ਆਪਣੀ ਪ੍ਰੋਫ਼ਾਈਲ ਫ਼ੋਟੋ ਦੇਖੋ ਅਤੇ ਖਾਤਾ ਜਾਣਕਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</item>
+        <item>ਨਿੱਜੀ ਜਾਣਕਾਰੀ;ਪ੍ਰੋਫ਼ਾਈਲ ਫ਼ੋਟੋ;ਉਪਨਾਮ;ਖਾਤਾ ਜਾਣਕਾਰੀ;Mi ਆਈਡੀ;ਆਈਡੀ;Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ਵਰਤੋਂਕਾਰ ਸਮਝੌਤਾ</item>
+        <item>ਵਰਤੋਂਕਾਰ ਸਮਝੌਤਾ</item>
+        <item>Mi ਖਾਤਾ;ਖਾਤਾ;Xiaomi ਖਾਤਾ;ਵਰਤੋਂਕਾਰ ਸਮਝੌਤਾ;EULA</item>
+    </string-array>
+</resources>

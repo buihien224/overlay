@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>পুরুষ</item>
+        <item>মহিলা</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>অ্যাকাউন্ট</item>
+        <item>তৃতীয় পক্ষের অ্যাকাউন্ট যোগ ও ম্যানেজ করুন</item>
+        <item>অ্যাকাউন্ট;SNS;Facebook;Google;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>অ্যাকাউন্ট</item>
+        <item>তৃতীয় পক্ষের অ্যাকাউন্ট যোগ ও ম্যানেজ করুন</item>
+        <item>অ্যাকাউন্ট;SNS;WeChat;QQ;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>পাসওয়ার্ড পরিবর্তন করুন</item>
+        <item>Xiaomi অ্যাকাউন্ট পাসওয়ার্ড পরিবর্তন করুন</item>
+        <item>পাসওয়ার্ড পরিবর্তন করুন;পাসওয়ার্ড আপডেট;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ফ্যামিলি স্টোরেজ</item>
+        <item>ফ্যামিলি স্টোরেজ দেখুন/চালু করুন</item>
+        <item>ফ্যামিলি স্টোরেজ;স্টোরেজ শেয়ারিং</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ফ্যামিলি সার্ভিস</item>
+        <item>ফ্যামিলি সার্ভিস দেখুন/চালু করুন</item>
+        <item>ফ্যাামিলি;ফ্যামিলি সার্ভিস;ফ্যামিলি শেয়ারিং</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>সাহায্য</item>
+        <item>Xiaomi অ্যাকাউন্ট সাহায্য ও সহায়তা পান</item>
+        <item>Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট;অ্যাকাউন্ট সাহায্য;হেল্প সেন্টার</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ধাপের যাচাইকরণ</item>
+        <item>আপনার Xiaomi অ্যাকাউন্টের জন্য 2-ধাপের যাচাইকরণ যোগ করুন</item>
+        <item>সাই ইন;লগ-ইন;2-ধাপের যাচাইকরণ;Xiaomi;অ্যাকাউন্ট; Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>অ্যাকাউন্টের নিরাপত্তা</item>
+        <item>অ্যাকাউন্ট ফিরে পাওয়ার ফোন নম্বর ও ইমেল,পাসওয়ার্ড ম্যানেজমেন্ট</item>
+        <item>অ্যাকাউন্ট নিরাপত্তা;সাইন ইন করা;অ্যাকাউন্ট ফিরিয়ে আনার ফোন;অ্যাকাউন্ট ফিরিয়ে আনার ইমেল;অ্যাকাউন্ট সুরক্ষা;ফোন নম্বর;ইমেল;পাসওয়ার্ড পরিবর্তন;ফোন নম্বর যোগ করুন;ইমেল যোগ করুন;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ডিভাইস</item>
+        <item>আপনার Xiaomi অ্যাকাউন্টের সাথে সংযুক্ত সব ডিভাইস পরিচালনা করুন</item>
+        <item>ডিভাইস ম্যানেজ করুন;আমার ডিভাইস;ডিভাইসগুলি;ডিভাইস লিস্ট;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>গোপনীয়তা নীতি</item>
+        <item>Xiaomi অ্যাকাউন্ট গোপনীয়তা নীতি দেখুন</item>
+        <item>Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট;গোপনীয়তা নীতি</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>অ্যাকাউন্ট ফিরে পাওয়ার ইমেল</item>
+        <item>অ্যাকাউন্ট ফিরে পাওয়ার ইমেল যোগ করুন</item>
+        <item>অ্যাকাউন্ট ফেরত পাওয়ার ইমেল;ইমেল;ইমেল যোগ করুন;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>অ্যাকাউন্ট ফিরে পাওয়ার ফোন</item>
+        <item>অ্যাকাউন্ট ফিরে পাওয়ার ফোন যোগ করুন</item>
+        <item>অ্যাকাউন্ট ফেরত পাওয়ার ফোন;ফোন যোগ করুন;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>বিজ্ঞাপন</item>
+        <item>সিসটেম বিজ্ঞাপন পরিচালনা করুন</item>
+        <item>Ads; Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>অ্যাকাউন্ট তথ্য</item>
+        <item>আপনার প্রোফাইল ফটো দেখুন এবং অ্যাকাউন্ট পরিচালনা করুন</item>
+        <item>ব্যক্তিগত তথ্য;প্রোফাইল ফটো;ডাকনাম;অ্যাকাউন্ট তথ্য; Mi ID;ID;Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ব্যবহারকারীর চুক্তি</item>
+        <item>ব্যবহারকারীর চুক্তি</item>
+        <item>Mi অ্যাকাউন্ট;অ্যাকাউন্ট;Xiaomi অ্যাকাউন্ট;ব্যবহারকারীর চুক্তি;EULA</item>
+    </string-array>
+</resources>

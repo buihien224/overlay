@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ಮುಖಪುಟ</item>
+        <item>ವಾಲ್‌ಪೇಪರ್‌/ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು/ಮುಖಪುಟ</item>
+        <item>ಭೂಮಿ;ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು;ಭೂಮಿ ಎಡಿಷನ್‌;ವಾಲ್‌ಪೇಪರ್‌</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>ಜಿಯೋಮೆಟ್ರಿ</item>
+        <item>ವಾಲ್‌ಪೇಪರ್‌/ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು/ಜಿಯೋಮೆಟ್ರಿ</item>
+        <item>ಜಿಯೋಮೆಟ್ರಿ;ಅಬ್‌ಸ್ಟ್ರಾಕ್ಟ್‌;ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್;ವಾಲ್‌ಪೇಪರ್‌</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>ಅಂಗಾರಕ</item>
+        <item>ವಾಲ್‌ಪೇಪರ್‌/ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು/ಅಂಗಾರಕ</item>
+        <item>ಮಾರ್ಸ್;ಮಾರ್ಸ್‌ ಎಡಿಷನ್‌;ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು;ವಾಲ್‌ಪೇಪರ್‌</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>ಸ್ನೋವಿ ಪೀಕ್ಸ್‌</item>
+        <item>ವಾಲ್‌ಪೇಪರ್‌/ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು/ಸ್ನೋವಿ ಪೀಕ್ಸ್‌</item>
+        <item>ಭೂಮಿ;ಪರ್ವತಗಳು;ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌;ವಾಲ್‌ಪೇಪರ್‌</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</item>
+        <item>ವಾಲ್‌ಪೇಪರ್‌/ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</item>
+        <item>ಸೂಪರ್‌ ವಾಲ್‌ಪೇಪರ್‌ಗಳು;ವಾಲ್‌ಪೇಪರ್‌;ಡೈನಾಮಿಕ್‌ ವಾಲ್‌ಪೇಪರ್‌;3D ವಾಲ್‌ಪೇಪರ್‌</item>
+    </string-array>
+</resources>

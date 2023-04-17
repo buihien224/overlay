@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Yleiskokemus</item>
+        <item>Siirron kesto</item>
+        <item>Prosessin yksinkertaisuus</item>
+        <item>Ohjeiden selkeys</item>
+        <item>Tämä ominaisuus on hyödyllinen</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Erittäin tyytymätön</item>
+        <item>Jokseenkin tyytymätön</item>
+        <item>Neutraali</item>
+        <item>Jokseenkin tyytyväinen</item>
+        <item>Erittäin tyytyväinen</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Yleisluokitus</item>
+        <item>Siirron kesto</item>
+        <item>Prosessin yksinkertaisuus</item>
+        <item>Ohjeiden selkeys</item>
+    </string-array>
+</resources>

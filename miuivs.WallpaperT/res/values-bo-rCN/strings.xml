@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">ཕྱི་དྲོ།</string>
+    <string name="am">སྔ་དྲོ།</string>
+    <string name="date_picker_label_day">ཉི་མ།</string>
+    <string name="date_picker_label_month">ཟླ།</string>
+    <string name="date_picker_label_year">ལོ།</string>
+    <string name="early_morning">ཐོ་རངས།</string>
+    <string name="earth_position_content_0">ས་དབུས་རྒྱ་མཚོའི་ས་ཁུལ་དུ་གནས་པའི་ཁ་རེ་ཤེ་ཡའི་ Kap Kamenjak རྒྱལ་ཁབ་སྤྱི་གླིང་དུ་དྭངས་ཤིང་གཙང་བའི་སྔོ་ཐིང་ཐིང་གི་རྒྱ་མཚོའི་འགྲམ་རྒྱུད་ཡོད། དེ་གར་དམིགས་བསལ་གྱི་ས་གཤིས་ས་བབ་དེ་ཆུ་མཆོང་དང་འཚམ་པའི་ཁུག་ཀྱོག་གཡང་གཟར་ཞིག་ཆགས་ཡོད་པ་དང་། ལོ་རེའི་དབྱར་ཁར་དེ་གའི་ཉི་འོད་དང་ས་དབུས་རྒྱ་མཚོའི་དྲོ་སྐྱིད་ལྡན་པའི་མཚོ་ཆུས་ཕྱི་རོལ་གྱི་དགའ་པོ་བྱེད་མཁན་མང་པོའི་ཡིད་དབང་འཕྲོག་གི་ཡོད།</string>
+    <string name="earth_position_content_1">"སྐས་ཞིང་ནི་མིའི་རིགས་ཀྱི་བསྒྱུར་བཀོད་ས་ངོས་ཀྱི་རྣམ་པ་ནི་མི་རྣམས་ཧང་སངས་དགོས་པ་ཞིག་རེད། 
+ཀྲུང་གོའི་སྐས་ཞིང་གཙོ་བོ་འབྲི་ཆུའི་ལྷོ་རྒྱུད་ཀྱི་རི་ཁུལ་དུ་ཁྱབ་ཡོད། ཀོང་ཤིས་ཀུའེ་ལིན་ལུང་ཧྲེང་དུ་གནས་པའི་ལུང་ཅི་སྐས་ཞིང་དེ་ཡོན་རྒྱལ་རབས་སུ་སྐྲུན་འགོ་ཚུགས་པ་དང་ད་བར་ལོ་700ཙམ་གྱི་ལོ་རྒྱུས་ལྡན་ཡོད། ལུང་ཅི་ཡི་གནའ་བོའི་གྲོང་ཚོར་ད་བར་གནའ་ཤུལ་མང་པོ་གནས་ཡོད།"</string>
+    <string name="earth_position_content_2">དབྱི་ལུའུ་ལི་ས་ཐེ་ནི་ཀེ་ལིན་ལན་ནུབ་ངོགས་ཀྱི་དབུས་རྒྱུད་དུ་གནས་ཤིང་། བྱང་སྣེའི་མུ་ཁྱུད་ཀྱི་བྱང་ཕྱོགས་སུ་སྤྱི་ལེ་200ཡོད། དེ་གར་མཛེས་སྡུག་ལྡན་པའི་དབྱི་ལུའུ་ལི་ས་ཐེ་འཁྱགས་ཁུག་གི་རིང་ཚད་ལ་སྤྱི་ལེ་ 56 ཡོད་པ་དང་དེའི་ཤར་ངོས་ཀྱི་ཆུ་འགོ་ནི་ཡ་ཀོ་པུ་གྲུ་ཁའི་འཁྱག་རོམ་ཡིན་པ་དང་སའི་གོ་ལའི་ཕྱེད་བྱང་མའི་རྒྱུག་ཚད་ཆེ་ཤོས་ཀྱི་འཁྱག་རོམ་ཞིག་ཡིན་ཞིང་། ལོ་ལྟར་འཁྱགས་རི་ཏུན་དུང་ཕྱུར་ཉིས་བརྒྱ་ནས་འགག་ཁུག་ནས་ཕྱིར་དོན་ཏེ་མཚོ་རྒྱུན་བརྒྱུད་དེ་བྱང་ཕྱོགས་དང་དེ་ནས་ལྷོ་ཕྱོགས་སུ་བསྐྱོད་དེ་ནུབ་རྒྱ་མཚོ་ཆེ་མོར་སྐྱོད་ཀྱི་ཡོད།</string>
+    <string name="earth_position_content_3">ནུབ་གྲུ་མཚོ་ཁུག་ནི་ཀེ་རི་སེའི་ཨའེ་ཨའོ་ཉི་ཡ་གླིང་ཚོམ་ཀྲ་ཅིན་སུའོ་སི་གླིང་ཕྲན་གྱི་ནུབ་ངོགས་སུ་གནས་ཡོད།འདིར་མི་རྣམས་ཀྱིས“ལྷ་ཡུལ་བརྗེད་དུ་འཇུག་པའི་ས་ཆ”ཞེས་འབོད་ཀྱི་ཡོད།གཡང་གཟར་དང་།མི་སེམས་བཟི་བར་བྱེད་པའི་མཚོ་ཆུ་སྔོ་ཞིང་དྭངས་པ་དང་།དཀར་ཞིང་གཙང་བའི་བྱེ་ཐང་།བཙའ་ཆགས་པའི་ལྕགས་གྲུ་རྙིང་བ་ཞིག་ཡོད་པ་ལ།དེ་ནས་བཟུང་མིང་ལ“བྱིང་གྲུའི་མཚོ་ཁུག”ཟེར།</string>
+    <string name="earth_position_content_4">དབྱི་ཐ་ལིའི་བྱང་ཕྱོགས་འཕྲེད་དུ་བཅད་པའི་ཏོ་ལོ་སྨི་ཏི་རི་རྒྱུད་ནི་ཨར་པེ་སི་རི་རྒྱུད་ཀྱི་ཆ་ཤས་ཤིག་ཡིན། གནས་འདིའི་སེ་ཆེ་ཏ་ཧྲན་གྱི་ངོས་ནི་ལྗང་མདོག་གི་སྤང་རི་（འབིབས་བྱེད་ཅེས་ཀྱང་འབོད）ཡིན། ཕྱོགས་གཞན་ཞིག་ནི་གྲིས་གཏུབ་པ་ལྟ་བུའི་རི་བོ་གཟར་པོ་ཞིག་རེད།བརྗིད་ཉམས་ཆེ་བ་ནི་ཏུའོ་ལུའོ་སྨི་ཏི་རི་བོའི་མཚོན་རྟགས་རང་བཞིན་གྱི་མཛེས་ལྗོངས་གལ་ཆེན་ཞིག་རེད།</string>
+    <string name="earth_position_title_0">"ཁེ་རོ་ཐི་ཡ།
+ས་དབུས་རྒྱ་མཚོ་རང་བྱུང་སྲུང་སྐྱོབ་ཁུལ།"</string>
+    <string name="earth_position_title_1">"ཀྲུང་གོའི་ཀོང་ཞི།
+ཀུས་ལིང་ལུང་ཅི་སྐས་ཞིང་།"</string>
+    <string name="earth_position_title_2">"ཀེ་ལིང་ལན་གླིང་ཕྲན་
+དབྱི་ལུ་ལི་ས་ཐེ་འཁྱགས་རི།"</string>
+    <string name="earth_position_title_3">"ཀེ་རི་སི་
+ཀྲ་ཅིན་སོ་སིའི་གླིང་ཆེན་གྱི་གྲུ་དིམ་ཁུག"</string>
+    <string name="earth_position_title_4">"དབྱི་ཐ་ལི།
+ཏོ་ལོ་མི་ཏི་རི་བོ་འབིབས་བྱེད།"</string>
+    <string name="earth_summary">མིའི་རིགས་ཀྱི་ལོ་རྒྱུས་དང་དཔལ་ཡོན་གྱི་འབྱུང་རྩ།</string>
+    <string name="earth_super_wallpaper_label">སའི་གོ་ལ།</string>
+    <string name="earth_title">ས་གོ་ལའི་ཁྱིམ་བརྒྱུད།</string>
+    <string name="empty" />
+    <string name="eras_ad">སྤྱི་ལོ།</string>
+    <string name="eras_bc">སྤྱི་ལོ་སྔོན།</string>
+    <string name="evening">དགོང་མོ།</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">ཉིན་d</string>
+    <string name="fmt_date_long_month">ཟླ།M</string>
+    <string name="fmt_date_long_month_day">ཟླMཚེསdཉིན།</string>
+    <string name="fmt_date_long_year_month">yyyy ལོའི་ཟླ་ M</string>
+    <string name="fmt_date_long_year_month_day">yyyy ལོའི་ཟླ་ M ཚེས་ d ཉིན།</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">ཟླ་བ་M</string>
+    <string name="fmt_date_short_month_day">ཟླ་ M ཚེས་ d</string>
+    <string name="fmt_date_short_year_month">yyyy ལོའི་ཟླ་ M</string>
+    <string name="fmt_date_short_year_month_day">yyyy ལོའི་ཟླ་ M ཚེས་ d ཉིན།</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">zD T</string>
+    <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyyལོ།</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">དུས་ཚོདh</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">aah:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">aah:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_pm">aah:mm:ss</string>
+    <string name="fmt_time_12hour_pm">དུས་ཚོདaah</string>
+    <string name="fmt_time_24hour">དུས་ཚོདH</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">སྐར་ཕྲS</string>
+    <string name="fmt_time_minute">སྐར་མm</string>
+    <string name="fmt_time_minute_second">སྐར་མmསྐར་ཆs</string>
+    <string name="fmt_time_minute_second_millis">སྐར་མmསྐར་ཆs.S</string>
+    <string name="fmt_time_second">སྐར་ཆs</string>
+    <string name="fmt_time_second_millis">སྐར་ཆs.S</string>
+    <string name="fmt_time_timezone">zT</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">DW</string>
+    <string name="fmt_weekday_date_time">DW T</string>
+    <string name="fmt_weekday_date_time_timezone">zDW T</string>
+    <string name="fmt_weekday_date_timezone">zDW</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">zW T</string>
+    <string name="fmt_weekday_timezone">zW</string>
+    <string name="friday">གཟའ་པ་སངས།</string>
+    <string name="friday_short">གཟའ་པ་སངས།</string>
+    <string name="friday_shortest">པ་སངས།</string>
+    <string name="geometry_summary">འོད་གྲིབ་དང་རྒྱུ་ཆའི་བར་སྟོང་གི་འགྲུལ་བཞུད།</string>
+    <string name="geometry_super_wallpaper_label">དབྱིབས་རྩིས།</string>
+    <string name="geometry_title">དབྱིབས་རྩིས།</string>
+    <string name="mars_position_content_0">"ཉི་ལོ་སེ་ཐེ་སི་ཐའེ་ཏི་ཚོམ་ཁུལ་དུ་གཡང་རོང་དང་། དེའུ་འབུར། ཁོད་ཡངས་ཀྱི་ངོས་སྙོམས་གྲོག་རོང་སོགས་ཚུད། སྤྱིར་བཏང་དེ་ནི་བྲག་རོང་གིས་གྲུབ་པའི་འཁྱགས་རོང་གིས་གྲུབ་པར་ཡིད་ཆེས་དགོས། དེ་གར་འདམ་སའི་གཏེར་ཡང་རྙེད་ལ། འདམ་སའི་གཏེར་དེ་དག་གིས་མི་རྣམས་ལ་གནའ་བོའི་སྐར་མ་མིག་དམར་གྱི་ཚེ་སྲོག་གི་དཔང་པོའི་སྤྲོ་སྣང་། 
+
+NASA/JPL/ཨ་ལི་སང་ན་སློབ་ཆེན།"</string>
+    <string name="mars_position_content_1">"དུས་ཚིགས་རང་བཞིན་གྱི་གསེག་ངོས་གྲུ་རིས་（Recurring slope lineae）ནི་དྲོད་སྣང་དྲོད་འཇམ་གྱི་མེ་སྟག་ལྡེབས་ཀྱི་འགུལ་སྐྱོད་རྗེས་ཤུལ་ནི་ཆུ་སིམ་པ་ལས་བྱུང་བ་ཡིན་ཤས་ཆེ། གསེག་ངོས་གྲུ་རིས་མང་ཆེ་བ་དང་འདྲ་བར། ཧེའར་སྐར་རྡོའི་ཁུང་ཁྲོད་ཀྱི་གྲུ་རིས་ནི་རྒྱུན་གཏན་མིན་པའི་དམར་པོ་ལས་བྱུང་། དེ་ནི་ལྕགས་ཀྱི་དབྱང་འགྱུར་རྫས（དཔེར་ན་བཙའ་ལྟ་བུ）ལས་གྲུབ། 
+
+NASA/JPL/ཨ་ལི་སང་ན་སློབ་ཆེན།"</string>
+    <string name="mars_position_content_2">"མ་ཨོ་སི་ཁུ་ནི་གནའ་རབས་ཀྱི་ཕྱི་བཞུར་ཆུ་ལམ་ཞིག་ཡིན་ཞིང་། འདི་རུ་ས་མྱགས་གཏེར་དངོས་སྲབ་མོ་འདུས་པའི་བྲག་རྡོ་མང་པོ་རྙེད་ཅིང་། ས་མྱགས་ནི་ཆུ་ཡོད་ན་ད་གཟོད་དབྱིབས་ཡོད། སའི་གོ་ལའི་སྟེང་གི་ས་མྱགས་གཏེར་དངོས་ནི་སྐྱེ་དངོས་ཕྲ་རབ་ལ་སྲུང་སྐྱོབ་བྱེད་པའི་དངོས་པོ་བཟང་པོ་ཞིག་ཡིན་པས། མེ་མིག་དམར་སྟེང་གི་གནའ་བོའི་ཚེ་སྲོག་རྗེས་ཤུལ་དེ་མ་ཝོ་སི་ཀུའུ་ནས་རྙེད་སྲིད། 
+
+NASA/JPL/ཨ་ལི་སང་ན་སློབ་ཆེན།"</string>
+    <string name="mars_position_content_3">"ཡ་མཚར་རྟགས་ཅན་གྱི་སྐར་མ་མིག་དམར་ཚོད་ཞིབ་འཕྲུལ་འཁོར་ནི་ཀེའར་སྐར་རྡོའི་ས་དོང་ཕ་ལོོན་ཕུ་རི་བོའི་ཁུད་དུ་བསྐྱོད་སྐབས་ཁུག་ལམ་ནས་འཕུར་བསྐྱོད་ཆས་ཀྱི་ཐོག་ནས་ས་གནས་འདི་གའི་རྣམ་པ་པར་ལེན་བྱེད་དགོས། ས་གནས་འདིར་བསགས་རྡོ་མང་པོ་ཞིག་ཡོད་ཅིང་། ཚན་རིག་པས་དེ་ནི་ཆུ་གཞི་གྲུབ་པའི་རྗེས་སུ་ཆགས་པར་བཤད་ལ། མདོག་སྨུན་པོ་དག་ནི་བྱེ་མ་ཡིན། 
+
+NASA/JPL/ཨ་རི་སང་ནའི་སློབ་ཆེན།"</string>
+    <string name="mars_position_content_4">"པ་ཧེ་ལྷ་མོ་ཁུགནི་སྐར་མ་མིག་དམར་གྱི་ཟླ་བ་ཁུག་ཁུལ་དུ་ཆགས་པའི་གནའ་བོའི་ཆུ་ཁོག་ཅིག་ཡིན། དེ་ནི་ཁུག་ལམ་གཅིག་ལས་མེད་པའི་མཚོ་ཁུག་ཅིག་ཡིན། ཁུལ་ཁག་ཅིག་ནི་རླུང་གཡབ་ཀྱི་དབྱིབས་ཡིན། ཁུག་དེའི་མཐིལ་དུ་ཆུས་ཟད་པའི་ས་དབྱིབས་ཀྱི་ཁྱད་ཆོས་ཤིག་མངོན་པ་དེས་མཚོ་ཁུག་དེ་ལ་བཞུར་རྒྱུན་ཡོད་པ་མཚོན། 
+
+NASA/JPL/ཨ་རི་སང་ནའི་སློབ་ཆེན།"</string>
+    <string name="mars_position_title_0">"ཉི་ལོ་སེ་ཐེ་སི
+ཐའེ་ཏི་ཚོམ།"</string>
+    <string name="mars_position_title_1">"ཧེའར་སྐར་རྡོའི་ཁུང་
+ཀྲུང་དབྱང་རི་བོ།"</string>
+    <string name="mars_position_title_2">མ་ཨོ་སི་ཁུ་སྐར་རྡོའི་ཁུང་བུ།</string>
+    <string name="mars_position_title_3">ཕ་ལོན་ཕུ་རི་བོ།</string>
+    <string name="mars_position_title_4">པ་ཧེ་ལྷ་མོ་ཁུག</string>
+    <string name="mars_summary">མིའི་རིགས་ཀྱི་འཚར་སྣང་ཡོད་པའི་བྱེ་མའི་སྐར་མ།</string>
+    <string name="mars_super_wallpaper_label">སྐར་མ་མིག་དམར།</string>
+    <string name="mars_title">མིག་དམར་དམར་པོ།</string>
+    <string name="midnight">ནམ་དགུང་།</string>
+    <string name="monday">གཟའ་ཟླ་བ།</string>
+    <string name="monday_short">གཟའ་ཟླ་བ།</string>
+    <string name="monday_shortest">ཟླ་བ།</string>
+    <string name="month_april">ཟླ་བཞི་པ།</string>
+    <string name="month_april_short">བཞི།</string>
+    <string name="month_april_shortest">བཞི།</string>
+    <string name="month_august">ཟླ་བརྒྱད་པ།</string>
+    <string name="month_august_short">བརྒྱད།</string>
+    <string name="month_august_shortest">བརྒྱད།</string>
+    <string name="month_december">ཟླ་བཅུ་གཉིས།</string>
+    <string name="month_december_short">བཅུ་གཉིས།</string>
+    <string name="month_december_shortest">བཅུ་གཉིས།</string>
+    <string name="month_february">ཟླ་གཉིས་པ།</string>
+    <string name="month_february_short">གཉིས།</string>
+    <string name="month_february_shortest">གཉིས།</string>
+    <string name="month_january">ཟླ་བ་དང་པོ།</string>
+    <string name="month_january_short">གཅིག</string>
+    <string name="month_january_shortest">གཅིག</string>
+    <string name="month_july">ཟླ་བདུན་པ།</string>
+    <string name="month_july_short">བདུན།</string>
+    <string name="month_july_shortest">བདུན།</string>
+    <string name="month_june">ཟླ་དྲུག་པ།</string>
+    <string name="month_june_short">དྲུག</string>
+    <string name="month_june_shortest">དྲུག</string>
+    <string name="month_march">ཟླ་གསུམ་པ།</string>
+    <string name="month_march_short">གསུམ།</string>
+    <string name="month_march_shortest">གསུམ།</string>
+    <string name="month_may">ཟླ་ལྔ་པ།</string>
+    <string name="month_may_short">ལྔ</string>
+    <string name="month_may_shortest">ལྔ།</string>
+    <string name="month_november">ཟླ་བཅུ་གཅིག</string>
+    <string name="month_november_short">བཅུ་གཅིག</string>
+    <string name="month_november_shortest">བཅུ་གཅིག</string>
+    <string name="month_october">ཟླ་བཅུ་པ།</string>
+    <string name="month_october_short">བཅུ།</string>
+    <string name="month_october_shortest">བཅུ།</string>
+    <string name="month_september">ཟླ་དགུ་པ།</string>
+    <string name="month_september_short">དགུ།</string>
+    <string name="month_september_shortest">དགུ།</string>
+    <string name="morning">སྔ་དྲོ།</string>
+    <string name="night">དགོང་མོ།</string>
+    <string name="noon">ཉིན་གུང་།</string>
+    <string name="pm">ཕྱི་དྲོ།</string>
+    <string name="saturday">གཟའ་སྤེན་པ།</string>
+    <string name="saturday_short">གཟའ་སྤེན་པ།</string>
+    <string name="saturday_shortest">སྤེན་པ།</string>
+    <string name="saturn_summary">མི་ཤེས་པའི་འཇིག་རྟེན་གྱི་འབབ་ཚུགས་གསར་པ་འཚོལ་ཞིབ།</string>
+    <string name="saturn_super_wallpaper_label">སྐར་མ་སྤེན་མ།</string>
+    <string name="saturn_title">སྐར་མ་སྤེན་པའི་འཁོར་རྒྱུན།</string>
+    <string name="snowmountain_summary">སྐུ་བླ་རི་བོའི་ཞོགས་པ་དང་ས་སྲོད།</string>
+    <string name="snowmountain_super_wallpaper_label">གངས་རི།</string>
+    <string name="snowmountain_title">གངས་རི།</string>
+    <string name="sunday">གཟའ་ཉི་མ།</string>
+    <string name="sunday_short">གཟའ་ཉི་མ།</string>
+    <string name="sunday_shortest">ཉི་མ།</string>
+    <string name="super_wallpaper_list_label">རིམ་འདས་རྩིག་ཤོག</string>
+    <string name="thursday">གཟའ་ཕུར་བུ།</string>
+    <string name="thursday_short">གཟའ་ཕུར་བུ།</string>
+    <string name="thursday_shortest">ཕུར་བུ།</string>
+    <string name="time_picker_label_hour">ཆུ་ཚོད།</string>
+    <string name="time_picker_label_minute">སྐར་</string>
+    <string name="tomorrow">སང་ཉིན།</string>
+    <string name="tuesday">གཟའ་མིག་དམར།</string>
+    <string name="tuesday_short">གཟའ་མིག་དམར།</string>
+    <string name="tuesday_shortest">མིག་དམར།</string>
+    <string name="wednesday">གཟའ་ལྷག་པ།</string>
+    <string name="wednesday_short">གཟའ་ལྷག་པ།</string>
+    <string name="wednesday_shortest">ལྷག་པ།</string>
+    <string name="yesterday">ཁ་ས།</string>
+    <string name="app_name">རྩིག་ཤོག</string>
+    <string name="solar_term_autumn_begins">སྟོན་ཚུགས།</string>
+    <string name="solar_term_autumn_equinox">སྟོན་མཉམ།</string>
+    <string name="solar_term_clear_and_bright">དྭངས་གསལ།</string>
+    <string name="solar_term_cold_dews">བད་ནག</string>
+    <string name="solar_term_grain_buds">བྲི་བ་གང་།</string>
+    <string name="solar_term_grain_in_ear">མྱུར་འདེབས།</string>
+    <string name="solar_term_grain_rain">འབྲུ་ཆར།</string>
+    <string name="solar_term_great_cold">གྲང་ངར་ཆེ།</string>
+    <string name="solar_term_great_heat">ཚ་བ་ཆེ།</string>
+    <string name="solar_term_heavy_snow">ཁ་བ་ཆེན་པོ།</string>
+    <string name="solar_term_hoar_frost_falls">བ་མོ་འབབ།</string>
+    <string name="solar_term_insects_awaken">སྲིན་འབུ་འགུལ།</string>
+    <string name="solar_term_light_snow">ཁ་བ་ཆུང་ཆུང་།</string>
+    <string name="solar_term_slight_cold">གྲང་ངར་ཆུང་།</string>
+    <string name="solar_term_slight_heat">ཚ་བ་ཆུང་།</string>
+    <string name="solar_term_spring_begins">དཔྱིད་ཚུགས།</string>
+    <string name="solar_term_stopping_the_heat">བསིལ་འགུག</string>
+    <string name="solar_term_summer_begins">དབྱར་ཚུགས།</string>
+    <string name="solar_term_summer_solstice">དབྱར་ཉི་ལྡོག</string>
+    <string name="solar_term_the_rains">ཆར་འབབ།</string>
+    <string name="solar_term_vernal_equinox">དཔྱིད་མཉམ།</string>
+    <string name="solar_term_white_dews">བད་དཀར།</string>
+    <string name="solar_term_winter_begins">དགུན་ཚུགས།</string>
+    <string name="solar_term_winter_solstice">དགུན་ཉི་ལྡོག</string>
+</resources>

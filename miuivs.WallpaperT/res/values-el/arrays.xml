@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Σπίτι</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες/Σπίτι</item>
+        <item>Γη;Σούπερ ταπεταρίες;Έκδοση Γη;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Γεωμετρία</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες/Γεωμετρία</item>
+        <item>Γεωμετρία/Αφηρημένο/Σούπερ ταπετσαρίες/Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Ο κόκκινος πλανήτης</item>
+        <item>Ταπετσαρία/Σούπερ ταπετσαρίες/Ο κόκκινος πλανήτης</item>
+        <item>Άρης;Έκδοση Άρης;Σούπερ ταπετσαρίες;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Χιονισμένες κορυφές</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες/Χιονισμένες κορυφές</item>
+        <item>Γη,Βουνά,Σούπερ ταπετσαρία,Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Σούπερ ταπετσαρίες</item>
+        <item>Ταπετσαρίες/Σούπερ ταπετσαρίες</item>
+        <item>Σούπερ ταπετσαρίες;Ταπετσαρία;Δυναμική ταπετσαρία;3D ταπετσαρία</item>
+    </string-array>
+</resources>

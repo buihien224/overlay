@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Susun ikut waktu diterima</item>
+        <item>Susun ikut bilangan notifikasi</item>
+        <item>Apl yang boleh memaparkan notifikasi</item>
+        <item>Apl yang tidak boleh memaparkan notifikasi</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Papar kandungan notifikasi</item>
+        <item>Jangan tunjukkan notifikasi Skrin Kunci</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Papar kandungan notifikasi</item>
+        <item>Papar notifikasi tetapi sembunyikan kandungan</item>
+        <item>Jangan tunjukkan notifikasi Skrin Kunci</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

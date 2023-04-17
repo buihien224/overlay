@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ঘণ্টা পূৰ্বে</item>
+        <item quantity="one">1 ঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ঘণ্টা পূৰ্বে</item>
+        <item quantity="one">1 ঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">আধা ঘণ্টা পূৰ্বে</item>
+        <item quantity="one">আধা ঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ঘন্টাত</item>
+        <item quantity="one">1 ঘন্টাত</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">আধা ঘণ্টাত</item>
+        <item quantity="one">আধা ঘণ্টাত</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">অবিলম্বে</item>
+        <item quantity="one">অবিলম্বে</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d মিনিটত</item>
+        <item quantity="one">1 মিনিটত</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">এইমাত্ৰ</item>
+        <item quantity="one">এইমাত্ৰ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d মিনিট পূৰ্বে</item>
+        <item quantity="one">1 মিনিট পূৰ্বে</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">%1$sক স্বয়ংক্ৰিয়ভাৱে ক্লিপবোৰ্ডৰ আইটেমলৈ %2$d বাৰ প্ৰৱেশৰ অনুমতি দিছিল</item>
+        <item quantity="one">%1$sক স্বয়ংক্ৰিয়ভাৱে ক্লিপবোৰ্ডৰ আইটেমলৈ %2$d বাৰ প্ৰৱেশৰ অনুমতি দিছিল</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">%1$sৰ বাবে ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ %2$d টা প্ৰয়াস অৱৰোধ কৰা হৈছে</item>
+        <item quantity="one">%1$sৰ বাবে ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ %2$d টা প্ৰয়াস অৱৰোধ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$sয়ে ক্লিপবোৰ্ডৰ আইটেমলৈ %2$d বাৰ প্ৰৱেশ কৰিছিল</item>
+        <item quantity="one">%1$sয়ে ক্লিপবোৰ্ডৰ আইটেমলৈ %2$d বাৰ প্ৰৱেশ কৰিছিল</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">আধা ঘণ্টা পূৰ্বে</item>
+        <item quantity="one">আধা ঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ঘন্টাত</item>
+        <item quantity="one">1 ঘন্টাত</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">আধা ঘণ্টাত</item>
+        <item quantity="one">আধা ঘণ্টাত</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">অবিলম্বে</item>
+        <item quantity="one">অবিলম্বে</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d মিনিটত</item>
+        <item quantity="one">1 মিনিটত</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">এইমাত্ৰ</item>
+        <item quantity="one">এইমাত্ৰ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">"%d টা আইটেম চয়ন কৰা হ'ল"</item>
+        <item quantity="one">"%d টা আইটেম চয়ন কৰা হ'ল"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d মিনিট পূৰ্বে</item>
+        <item quantity="one">1 মিনিট পূৰ্বে</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">আপুনি আজি %2$sক ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ বাবে %1$d বাৰ অনুমতি দিছিল। আপুনি %3$sক সদায় ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ অনুমতি দিব খোজেনে?</item>
+        <item quantity="one">আপুনি আজি %2$sক ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ বাবে %1$d বাৰ অনুমতি দিছিল। আপুনি %3$sক সদায় ক্লিপবোৰ্ডলৈ প্ৰৱেশৰ অনুমতি দিব খোজেনে?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">আপুনি %2$sয়ে ক্লিপবোৰ্ডলৈ প্ৰৱেশ কৰাত ইতিমধ্যেই %1$d বাৰ প্ৰতিবন্ধিত কৰিছে। ক্লিপবোৰ্ডলৈ %3$sৰ প্ৰৱেশ স্থায়ীভাৱে প্ৰতিবন্ধিত কৰিবনে?</item>
+        <item quantity="one">আপুনি %2$sয়ে ক্লিপবোৰ্ডলৈ প্ৰৱেশ কৰাত ইতিমধ্যেই %1$d বাৰ প্ৰতিবন্ধিত কৰিছে। ক্লিপবোৰ্ডলৈ %3$sৰ প্ৰৱেশ স্থায়ীভাৱে প্ৰতিবন্ধিত কৰিবনে?</item>
+    </plurals>
+</resources>

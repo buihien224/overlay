@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vratite se na početnu stranicu</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Više opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odaberite aplikaciju</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">razmak</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite...</string>
+    <string name="abc_searchview_description_clear">Obriši upit</string>
+    <string name="abc_searchview_description_query">Pretraži upit</string>
+    <string name="abc_searchview_description_search">Pretraži</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeli sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Suzi</string>
+    <string name="afternoon">Popodne</string>
+    <string name="am">Prije podne</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Jutro</string>
+    <string name="earth_position_content_0">Nacionalni park Rt Kamenjak u Hrvatskoj je mjesto gdje možete svjedočiti vjerovatno najzanosnijim pogledima na cijeloj obali Mediterana. Zadivljujuće geološke formacije ovo mjesto pretvaraju u raj za ronioce. Svakog ljeta, primamljujuće sunce i topla voda Mediterana privlači mnoge turiste.</string>
+    <string name="earth_position_content_1">"Terase su posljedica djelovanja ljudi, i služe kao turističko mjesto.
+U Kini, terase riže se uglavnom nalaze južno od rijeke Yangtze, gdje su kiše česte a reljef brdovit. Longji terase postoje preko 700 godina, a obližnja sela imaju bogatu istoriju."</string>
+    <string name="earth_position_content_2">Ilulissat se nalazi u zapadnom dijelu Grenlanda, 200 kilometara sjeverno od Arktičkog kruga. Ilulissat, predivni ledeni fjord dug 56 kilometara, nalazi se odmah pored Jakobshavn Isbræ glečera. To je ujedno i najveći glečer u Sjevernoj hemisferi, i proizvodi 2 milijarde tona santi leda svake godine. Sante leda prvo putuju sjeverno, a zatim se kreću južnu i ulijevaju u Atlantik.</string>
+    <string name="earth_position_content_3">Navagio je jedna od najljepših plaža na obali Zakynthosa, na Jonskim otocima u Grčkoj, a navodno je mjesto poznatog brodoloma, zbog čega se plaža naziva i \"Uvala krijumčara\".</string>
+    <string name="earth_position_content_4">Dolomiti su planinski lanac smješten na sjeveroistoku italije, a planina Seceda uistinu je jedno od najslikovitijih mjesta tamo.</string>
+    <string name="earth_position_title_0">"Hrvatska
+Rt Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Kina
+Longji terase riže"</string>
+    <string name="earth_position_title_2">"Grenland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grčka
+Plaža Navagio"</string>
+    <string name="earth_position_title_4">"Italija
+Dolomiti"</string>
+    <string name="earth_summary">Zemlja je kolijevka ljudske civilizacije</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Zemlja</string>
+    <string name="empty" />
+    <string name="eras_ad">n.e.</string>
+    <string name="eras_bc">p.n.e.</string>
+    <string name="evening">Popodne</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d. MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy.</string>
+    <string name="fmt_date_long_year_month_day">d. MMMM yyyy.</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d. M.</string>
+    <string name="fmt_date_numeric_year">yyyy.</string>
+    <string name="fmt_date_numeric_year_month">M. yyyy.</string>
+    <string name="fmt_date_numeric_year_month_day">d. M. yyyy.</string>
+    <string name="fmt_date_short_month">MMM.</string>
+    <string name="fmt_date_short_month_day">d. MMM.</string>
+    <string name="fmt_date_short_year_month">MMM. yyyy.</string>
+    <string name="fmt_date_short_year_month_day">d. MMM. yyyy.</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy.</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">Petak</string>
+    <string name="friday_short">Pet</string>
+    <string name="friday_shortest">Pet</string>
+    <string name="geometry_summary">Oblici, svjetlo i boje</string>
+    <string name="geometry_super_wallpaper_label">Geometrija</string>
+    <string name="geometry_title">Geometrija</string>
+    <string name="mars_position_content_0">"Ova regija sadrži stijene, visoravni, široke ravne doline za koje se vjeruje da su nastale kao rezultat rada glečera. Minerali gline su ovdje također pronađeni, što je od velike važnosti pri potrazi za tragovima života na starom Marsu.
+
+ NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Uslikano kada je mars-rover Curiosity istraživao Pahrump brda u Gale krateru. Ova regija sadrži sedimentne stijene za koje naučnici vjeruju da su nastali uz prisustvo vode, a tamna regije predstavljaju pijesak.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis je drevni kanal izlijevanja vode sa svijetlim kamenjem bogatog glinom. Glineni minerali lako čuvaju mikroskopski život na Zemlji, tako da se tragovi drevnog života možda mogu pronaći na Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"Uslikano kada je mars-rover Curiosity istraživao Pahrump brda u Gale krateru. Ova regija sadrži sedimentne stijene za koje naučnici vjeruju da su nastali uz prisustvo vode. Tamne regije predstavljaju pijesak.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis je dolina rijeke sa izrezima na pojedinim mjestima. Prisustvo erozionih karakteristika u njenom koritu pokazuje da je postojala voda tokom formiranja.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae regija"</string>
+    <string name="mars_position_title_1">Gale krater</string>
+    <string name="mars_position_title_2">"Krater u
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump brda</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">Beskonačne pustinje Marsa su oduvijek fascinirale čovječanstvo</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">Crvena planeta</string>
+    <string name="midnight">Noć</string>
+    <string name="monday">Ponedjeljak</string>
+    <string name="monday_short">Pon</string>
+    <string name="monday_shortest">Pon</string>
+    <string name="month_april">April</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
+    <string name="month_august">August</string>
+    <string name="month_august_short">Aug</string>
+    <string name="month_august_shortest">Aug</string>
+    <string name="month_december">Decembar</string>
+    <string name="month_december_short">Dec</string>
+    <string name="month_december_shortest">Dec</string>
+    <string name="month_february">Februar</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
+    <string name="month_january">Januar</string>
+    <string name="month_january_short">Jan</string>
+    <string name="month_january_shortest">Jan</string>
+    <string name="month_july">Juli</string>
+    <string name="month_july_short">Jul</string>
+    <string name="month_july_shortest">Jul</string>
+    <string name="month_june">Juni</string>
+    <string name="month_june_short">Jun</string>
+    <string name="month_june_shortest">Jun</string>
+    <string name="month_march">Mart</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
+    <string name="month_may">Maj</string>
+    <string name="month_may_short">Maj</string>
+    <string name="month_may_shortest">Maj</string>
+    <string name="month_november">Novembar</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
+    <string name="month_october">Oktobar</string>
+    <string name="month_october_short">Okt</string>
+    <string name="month_october_shortest">Okt</string>
+    <string name="month_september">Septembar</string>
+    <string name="month_september_short">Sep</string>
+    <string name="month_september_shortest">Sep</string>
+    <string name="morning">Jutro</string>
+    <string name="night">Veče</string>
+    <string name="noon">Podne</string>
+    <string name="pm">Popodne</string>
+    <string name="saturday">Subota</string>
+    <string name="saturday_short">Sub</string>
+    <string name="saturday_shortest">Sub</string>
+    <string name="saturn_summary">Saturnovi prstenovi su najspektakularnija pojava u Sunčevom sistemu</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Udaljeni prsteni</string>
+    <string name="search_menu_title">Pretražite</string>
+    <string name="snowmountain_summary">Osunčane planinske padine planine Singuniang</string>
+    <string name="snowmountain_super_wallpaper_label">Snježni vrhovi</string>
+    <string name="snowmountain_title">Snježni vrhovi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">Nedjelja</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
+    <string name="super_wallpaper_list_label">Super pozadine</string>
+    <string name="thursday">Četvrtak</string>
+    <string name="thursday_short">Čet</string>
+    <string name="thursday_shortest">Čet</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Sutra</string>
+    <string name="tuesday">Utorak</string>
+    <string name="tuesday_short">Uto</string>
+    <string name="tuesday_shortest">Uto</string>
+    <string name="wednesday">Srijeda</string>
+    <string name="wednesday_short">Sri</string>
+    <string name="wednesday_shortest">Sri</string>
+    <string name="yesterday">Jučer</string>
+</resources>

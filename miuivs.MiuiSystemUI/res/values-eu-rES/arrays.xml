@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Hau gomendatutako edukia da.</item>
+        <item>Hau iragarki bat da.</item>
+    </string-array>
+</resources>

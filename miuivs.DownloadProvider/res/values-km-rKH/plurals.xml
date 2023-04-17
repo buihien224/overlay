@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d​ឯកសារកំពុងទាញយក</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d ឯកសារកំពុងរង់ចាំ</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">កំពុងទាញយក %1$d ឯកសារ</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">មិនអាចទាញយក %1$d ធាតុ</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d បានទាញយក</item>
+    </plurals>
+</resources>

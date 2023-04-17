@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">Wara nofsinhar</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Filgħodu</string>
+    <string name="earth_position_content_0">"Il-Park Naturali ta' Cape Kamenjak ġewwa l-Kroazja huwa mogħni b'uħud mill-isbaħ veduti li toffri l-kosta ta' Mediterran. Il-formazzjoni ġeoloġika tal-post wasslitu biex ikun post popolari ħafna mal-għaddasa. Fis-sajf ifittxuh ħafna nies li jħobbu n-natura għax joffri post fejn wieħed jista' jgawdi kemm ix-xemx kif ukoll l-ilmijiet sħan tal-baħar Mediterran."</string>
+    <string name="earth_position_content_1">"L-għelieqi mtarġa huma xogħol il-bniedem imma jistgħu jitqiesu wkoll bħala panorama naturali mill-isbaħ.
+Fiċ-Ċina, l-għelieqi mtarġa tar-ross jinsabu l-iktar taħt ix-Xmara Yangtze fejn tagħmel ħafna xita u ssib ukoll ħafna art muntanjuża. L-għelieqi mtarġa ta' Longji ilhom jeżistu għal iktar minn 700 sena u fl-irħula tal-qrib wieħed jista' jsibu koll numru ta' monumenti storiċi."</string>
+    <string name="earth_position_content_2">"Ilulissat tinsab fin-naħa tal-puntent ta' Greenland, 200 kilometru fuq iċ-Ċirku Artiku. Il-fjord tas-silġ ta' Ilulissat twil 56 kilometru u jinsab eżatt ħdejn il-glaċier Jakobshavn Isbræ. Kull sena joħoġu minnu 2 biljun tunellati ta' icebergs u għalhekk jitqies bħala l-ikbar ġlaċier fl-Emisfera ta' Fuq. Wara li dal-icebergs jivvjaġġaw ftit lejn it-tramuntana, iduru lejn in-nofsinhar u joħorġu fl-Oċean Atlantiku."</string>
+    <string name="earth_position_content_3">"Navagio hija waħda mill-isbaħ bajjiet tal-kosta ta' Zakynthos ġewwa l-Gżejjer Joniċi tal-Ġreċja. Jingħad li fil-bajja hemm xi fdalijiet ta' nawfraġju famuż u għalhekk il-bajja magħrufa wkoll bħala l-\"Moħba tal-Kuntrabandisti\"."</string>
+    <string name="earth_position_content_4">"Id-Dolomiti huma firxa ta' muntanji fil-grigal tal-Italja. Il-Muntanja Seceda hija waħda mill-iktar postijiet pittoreski tad-Dolomiti."</string>
+    <string name="earth_position_title_0">"Il-Kroazja
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, iċ-Ċina
+L-Għelieqi Mtarġa ta' Longji"</string>
+    <string name="earth_position_title_2">"Greenland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Il-Greċja
+Il-Bajja ta' Navagio"</string>
+    <string name="earth_position_title_4">"L-Italja
+Id-Dolomiti"</string>
+    <string name="earth_summary">Id-Dinja hija fejn twieldet iċ-ċivilizzazzjoni tal-bniedem</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Dar</string>
+    <string name="empty" />
+    <string name="eras_ad">WK</string>
+    <string name="eras_bc">QK</string>
+    <string name="evening">Wara nofsinhar</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">Il-Ġimgħa</string>
+    <string name="friday_short">Ġim</string>
+    <string name="friday_shortest">Ġim</string>
+    <string name="geometry_summary">Forom, dawl u kuluri</string>
+    <string name="geometry_super_wallpaper_label">Ġeometrija</string>
+    <string name="geometry_title">Ġeometrija</string>
+    <string name="mars_position_content_0">"Dar-reġjun mimli rdumijiet, mesas u widien wisgħin u ċatti li ħafna jaħsbu li ġew iffurmati minn glaċieri mgħottija bit-trabijiet. Hawnhekk instabu wkoll minerali tat-tafal li huma interessanti ħafna għal dawk li qed ifittxu għall-ħajja fuq il-pjaneta Mars.
+
+NASA/JPL/L-Università ta' Arizona"</string>
+    <string name="mars_position_content_1">"Meħud meta l-esploratur ta' Mars, Curiosity kien qed jesplora l-Għoljiet Pahrump fil-Gale Crater. Ir-reġjun issiblu ġebel sedimentarju li x-xjentisti jemmnu li fforma minħabba li kien hemm l-ilma, filwaqt li ż-żoni mudlama huma ramel.
+
+NASA/JPL/L-Università ta' Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis huwa kanal antik li kien jgħaddi minnu l-ilma u li issa mimli ġebel tafli b'kuluri ċari. Il-minerali taflin normalment issibilhom ħajja mikroskopika fid-dinja tagħna għalhekk forsi għad jinstab xi ħjiel ta' ħajja antika ġewwa Mawrth.
+
+NASA/JPL/L-Università ta' Arizona"</string>
+    <string name="mars_position_content_3">"Dawn ir-ritratti nġibdu waqt li l-esploratur ta' Mars Curiosity kien qed jesplora l-Għoljiet Pahrump fil-Gale Crater. F'dan ir-reġjun wieħed isib ġebel sedimentarju li x-xjentisti jemmnu li fforma minħabba li kien hemm l-ilma. Iż-żoni mudlama huma ramel.
+
+NASA/JPL/L-Università ta' Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis huwa wied ta' xmara b'fergħa waħda li f'ċertu postijiet għandu l-ħitan immewwġa. Il-fatt li fil-qiegħ wieħed isib is-sinjali tal-mermir ifisser li l-fluwidu kien parti mir-raġuni li dal-wied ifforma.
+
+NASA/JPL/L-Università ta' Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis Ir-Reġjun ta' Mensae"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Kratier ġo
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">L-Għoljiet Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">"Id-deżerti ta' kobor immens fuq Mars dejjem ħallew l-umanità bla kliem"</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">Il-pjaneta l-ħamra</string>
+    <string name="midnight">Bil-lejl</string>
+    <string name="monday">It-Tnejn</string>
+    <string name="monday_short">Tne</string>
+    <string name="monday_shortest">Tne</string>
+    <string name="month_april">April</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
+    <string name="month_august">Awwissu</string>
+    <string name="month_august_short">Aww</string>
+    <string name="month_august_shortest">Aww</string>
+    <string name="month_december">Diċembru</string>
+    <string name="month_december_short">Diċ</string>
+    <string name="month_december_shortest">Diċ</string>
+    <string name="month_february">Frar</string>
+    <string name="month_february_short">Fra</string>
+    <string name="month_february_shortest">Fra</string>
+    <string name="month_january">Jannar</string>
+    <string name="month_january_short">Jan</string>
+    <string name="month_january_shortest">Jan</string>
+    <string name="month_july">Lulju</string>
+    <string name="month_july_short">Lul</string>
+    <string name="month_july_shortest">Lul</string>
+    <string name="month_june">Ġunju</string>
+    <string name="month_june_short">Ġun</string>
+    <string name="month_june_shortest">Ġun</string>
+    <string name="month_march">Marzu</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
+    <string name="month_may">Mejju</string>
+    <string name="month_may_short">Mej</string>
+    <string name="month_may_shortest">Mej</string>
+    <string name="month_november">Novembru</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
+    <string name="month_october">Ottubru</string>
+    <string name="month_october_short">Ott</string>
+    <string name="month_october_shortest">Ott</string>
+    <string name="month_september">Settembru</string>
+    <string name="month_september_short">Set</string>
+    <string name="month_september_shortest">Set</string>
+    <string name="morning">Filgħodu</string>
+    <string name="night">Filgħaxija</string>
+    <string name="noon">Nofsinhar</string>
+    <string name="pm">PM</string>
+    <string name="saturday">Is-Sibt</string>
+    <string name="saturday_short">Sib</string>
+    <string name="saturday_shortest">Sib</string>
+    <string name="saturn_summary">"Iċ-ċrieki ta' Saturnu joffru l-isbaħ spettaklu tas-Sistema Solari"</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Ċrieki Faraway</string>
+    <string name="snowmountain_summary">Il-ġnub tal-muntanja Siguniang miksija bid-dija tax-xemx</string>
+    <string name="snowmountain_super_wallpaper_label">Qċaċet bis-silġ</string>
+    <string name="snowmountain_title">Qċaċet bis-silġ</string>
+    <string name="sunday">Il-Ħadd</string>
+    <string name="sunday_short">Ħad</string>
+    <string name="sunday_shortest">Ħad</string>
+    <string name="super_wallpaper_list_label">"Wallpapers ta' veru"</string>
+    <string name="thursday">Il-Ħamis</string>
+    <string name="thursday_short">Ħam</string>
+    <string name="thursday_shortest">Ħam</string>
+    <string name="time_picker_label_hour">S</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Għada</string>
+    <string name="tuesday">It-Tlieta</string>
+    <string name="tuesday_short">Tli</string>
+    <string name="tuesday_shortest">Tli</string>
+    <string name="wednesday">L-Erbgħa</string>
+    <string name="wednesday_short">Erb</string>
+    <string name="wednesday_shortest">Erb</string>
+    <string name="yesterday">Ilbieraħ</string>
+</resources>

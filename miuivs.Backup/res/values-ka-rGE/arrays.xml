@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>სრული გამოცდილება</item>
+        <item>გადაცემის განგრძლივობა</item>
+        <item>პროცესის სიმარტივე</item>
+        <item>ინსტრუქციების სიცხადე</item>
+        <item>ეს ფუნქციები სასარგებლოა</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>ძალიან უკმაყოფილო ვარ</item>
+        <item>რაღაცით უკმაყოფილო ვარ</item>
+        <item>ნეიტრალური ვარ</item>
+        <item>რაღაცით კმაყოფილი ვარ</item>
+        <item>ძალიან კმაყოფილი ვარ</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>საერთო რეიტინგი</item>
+        <item>ტრანსფერის ხანგრძლივობა</item>
+        <item>პროცესის სიმარტივე</item>
+        <item>ინსტრუქციების ნათელყოფა</item>
+    </string-array>
+</resources>

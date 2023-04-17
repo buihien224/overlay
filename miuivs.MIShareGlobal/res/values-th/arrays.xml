@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>สำหรับการเข้าถึงและบันทึก ภาพ แอป และไฟล์อื่นๆ รวมถึงการถ่ายโอน</item>
+        <item>สำหรับการถ่ายโอนไฟล์โดยใช้ บลูทูธ และ Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>สำหรับการเข้าถึงและบันทึก ภาพ แอป และไฟล์อื่นๆ รวมถึงการถ่ายโอน</item>
+        <item>สำหรับการถ่ายโอนไฟล์โดยใช้ Bluetooth และ WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>สำหรับการส่งและรับไฟล์</item>
+        <item>สำหรับการถ่ายโอนไฟล์โดยใช้ บลูทูธ และ Wi-Fi</item>
+        <item>สำหรับการค้นหาอุปกรณ์ที่มีอยู่ใกล้เคียงโดยใช้บลูทูธ</item>
+        <item>สำหรับการค้นหาอุปกรณ์ที่มีอยู่ใกล้เคียงและถ่ายโอนไฟล์โดยใช้ Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>สำหรับการส่งและรับไฟล์</item>
+        <item>สำหรับการถ่ายโอนไฟล์โดยใช้ Bluetooth และ WLAN</item>
+        <item>สำหรับการค้นหาอุปกรณ์ที่มีอยู่ใกล้เคียงโดยใช้บลูทูธ</item>
+        <item>สำหรับการค้นหาอุปกรณ์ที่มีอยู่ใกล้เคียงและถ่ายโอนไฟล์โดยใช้ WLAN</item>
+    </string-array>
+</resources>

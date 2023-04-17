@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afternoon">பிற்பகல்</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">காலை</string>
+    <string name="earth_position_content_0">குரேஷியாவில், கேப் காமென்ஜாக் இயற்கை பூங்காவானது மத்தியத் தரைக்கடல் கடற்கரைகளில் மிகவும் அழகான காட்சிகளைக் கொண்ட ஒரு இடம் என்று கருதப்படுகிறது. அற்புதமான புவியியல் கூறுகள் இந்த இடத்தை டைவர்களுக்கான சொர்க்கமாக மாற்றியுள்ளது. ஒவ்வொரு கோடை காலமும், பளிச்சென்ற சூரிய ஒளியும் இதமான மத்திய தரைக்கடல் பகுதி நீரும் எண்ணிலடங்கா வெளிப்புற ஆர்வலர்களை இங்கே ஈர்க்கின்றன.</string>
+    <string name="earth_position_content_1">"தட்டை நிலப்பரப்புகள் என்பவை மனித நடவடிக்கையால் உருவாகுபவை, ஆனால் அவை ஒரு அற்புதமான இயற்கை காட்சி இடமாக இருக்கின்றன.
+சீனாவில், அரிசி நிலப்பரப்புகள் பெரும்பாலும் யாங்க்ட்ஸீ நதியின் தெற்கு பகுதியில் அமைந்துள்ளன, இங்கே மழையும், மலைத்தொடர்களும் ஏராளமாக அமைந்துள்ளன. லாங்ஜி நிலப்பரப்பு, 700 ஆண்டுகளுக்கு மேலாக அமைந்திருக்கின்றன, அதேபோல அருகிலுள்ள கிராமங்களில் ஏராளமான வரலாற்று நினைவுச்சின்னங்கள் உள்ளன."</string>
+    <string name="earth_position_content_2">லுலிஸ்ஸாட் என்பது மேற்கு கிரீன்லாந்து பகுதியில் அமைந்துள்ளது, ஆர்க்டிக் வட்டத்திற்கு 200 கிலோமீட்டர்கள் வடக்கே அமைந்துள்ளது. இந்த அழகான 56 கிலோ மீட்டர் லுலிஸ்ஸாட் ஐஸ் ஃபியோர்ட் ஜாகோப்ஷேவன் ஐஸ்ப்ரே பனிப்பாறைக்கு அடுத்ததாக அமைந்துள்ளது. வடக்கு அரைக்கோளத்தில் மிகப்பெரிய பனிப்பாறையான இது, ஒவ்வொரு ஆண்டும் 200 கோடி டன் அளவுக்கு பனிப்பாறைகளை உற்பத்தி செய்கிறது. சிறிது தொலைவு வடக்கு நோக்கி சென்ற பிறகு, இவை தெற்கு நோக்கி திரும்பி, அட்லாண்டிக் பெருங்கடலில் ஓடி செல்கின்றன.</string>
+    <string name="earth_position_content_3">ஜகைந்தோஸ் கடற்கரையில் உள்ள மிகவும் அழகான கடற்கரைகளில் ஒன்று நவாஜியோ, இது கிரீஸின் லோனியன் தீவுகளில் அமைந்துள்ளது. இது ஒரு பிரபலமான கப்பல் சிதைவின் இருப்பிடமாக அமைந்திருப்பதால், இதை \"ஸ்மக்லர்ஸ் கோவ்\" என்றும் அழைக்கின்றனர்.</string>
+    <string name="earth_position_content_4">டோலமைட்ஸ் என்பது வடகிழக்கு இத்தாலியில் அமைந்துள்ள ஒரு மலைத்தொடர். அங்கிருக்கும் அழகான இடங்களில் ஒன்று செசெடா மலையாகும்.</string>
+    <string name="earth_position_title_0">"குரேஷியா
+கேப் காமென்ஜாக்"</string>
+    <string name="earth_position_title_1">"குவாங்ஷி, சீனா
+லாங்ஜி தட்டை நிலப்பரப்புகள்"</string>
+    <string name="earth_position_title_2">"கிரீன்லாந்து
+லுலிஸ்ஸாட்"</string>
+    <string name="earth_position_title_3">"கிரீஸ்
+நவாஜியோ பீச்"</string>
+    <string name="earth_position_title_4">"இத்தாலி
+டோலோமைட்ஸ்"</string>
+    <string name="earth_summary">பூமியே மனித நாகரீகத்தின் தொட்டில்</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">புவி</string>
+    <string name="empty" />
+    <string name="eras_ad">கிபி</string>
+    <string name="eras_bc">கிமு</string>
+    <string name="evening">பிற்பகல்</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'மணி'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'மணி'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'மிவி'"</string>
+    <string name="fmt_time_minute">"m'நிமி'"</string>
+    <string name="fmt_time_minute_second">"m'min' s'வி'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S'வி'"</string>
+    <string name="fmt_time_second">"s'வி'"</string>
+    <string name="fmt_time_second_millis">"s.S'வி'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">வெள்ளி</string>
+    <string name="friday_short">வெள்</string>
+    <string name="friday_shortest">வெள்</string>
+    <string name="geometry_summary">வடிவங்கள், ஒளி மற்றும் நிறங்கள்</string>
+    <string name="geometry_super_wallpaper_label">வடிவியல்</string>
+    <string name="geometry_title">வடிவியல்</string>
+    <string name="mars_position_content_0">"இந்தப் பகுதியில், சிகரங்கள், தட்டை நிலங்கள் மற்றும் அகலமான தட்டையான பள்ளத்தாக்குகள் ஆகியவை உள்ளன, இவை சிதைவுகள் நிறைந்த பனி பாறைகளால் உருவானதாக நம்பப்படுகிறது. களிமண் தாதுப்பொருட்களும் இங்கே கிடைத்துள்ளன, இவை பழங்கால செவ்வாய் கிரகத்தில் உயிருக்கான ஆதாரங்களுக்கான தேடலில் ஆர்வத்தைத் தூண்டியுள்ளன.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"மார்ஸ் ரோவர் கியூரியாசிட்டி கேல் பள்ளத்தாக்கில் உள்ள பாஹ்ரம்ப் மலைகளை ஆராயும்போது எடுக்கப்பட்டது. இந்தப் பகுதியில், படிவுப்பாறைகள் உள்ளன, இவை தண்ணீர் இருப்பின் காரணமாக உருவாகியிருக்கலாம் என்று அறிவியலாளர்கள் நம்புகின்றனர். இதிலுள்ள இருண்ட பரப்புகள் மண்ணால் ஆனவை.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"மாவ்ரத் வேலிஸ் என்பது, பழங்கால தண்ணீர் வெளி ஓட்ட கால்வாய் ஆகும், வெளிர் நிற களிமண் நிறைந்த பாறைகள் நிறைந்தது. களிமண் தாதுக்கள் எளிமையாக பழங்கால நுண்ணுயிரிகளை பூமியில் பாதுகாத்து வந்துள்ளன. எனவே மாவ்ரத்திலும் பழங்கால உயிரிகளின் தடங்கள் கண்டறியப்படலாம்.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"மார்ஸ் ரோவர் கியூரியாசிட்டி பாஹ்ரம்ப் மலைகள் உள்ள பாஹ்ரம்ப் மலைகளை ஆராயும்போது இந்தப் படங்கள் எடுக்கப்பட்டது. இந்தப் பகுதியில், படிவுப்பாறைகள் உள்ளன, இவை தண்ணீர் இருப்பின் காரணமாக உருவாகியிருக்கலாம் என்று அறிவியலாளர்கள் நம்புகின்றனர். இதிலுள்ள இருண்ட பரப்புகள் மண்ணால் ஆனவை.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_4">"பஹ்ரான் வேலிஸ் என்பது ஒற்றை கிளையுடைய ஆற்று பள்ளத்தாக்கு, அதன் சுவற்றில் சில புதை படிவங்கள் இருக்கின்றன. சீராக அமைந்துள்ள அரிப்பு அம்சங்கள், இதன் உருவாக்கத்திற்கு திரவங்கள் காரணமாக இருந்தன என்பதைக் காட்டுகின்றன.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"நிலோஸைர்டிஸ்
+மென்சா பகுதி"</string>
+    <string name="mars_position_title_1">கேல் பள்ளத்தாக்கு</string>
+    <string name="mars_position_title_2">"மாவ்ரத் வேலிஸில்
+உள்ள பள்ளதாக்கு"</string>
+    <string name="mars_position_title_3">பாஹ்ரம்ப் மலைகள்</string>
+    <string name="mars_position_title_4">பஹ்ரான் வேலிஸ்</string>
+    <string name="mars_summary">செவ்வாய் கோளின் மாபெரும் பாலைநிலங்கள் மனித இனத்தை எப்போதும் வியக்கவைத்து வந்துள்ளன</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">சிவப்பு கிரகம்</string>
+    <string name="midnight">இரவு</string>
+    <string name="monday">திங்கள்</string>
+    <string name="monday_short">திங்</string>
+    <string name="monday_shortest">திங்</string>
+    <string name="month_april">ஏப்ரல்</string>
+    <string name="month_april_short">ஏப்</string>
+    <string name="month_april_shortest">ஏப்</string>
+    <string name="month_august">ஆகஸ்ட்</string>
+    <string name="month_august_short">ஆக</string>
+    <string name="month_august_shortest">ஆக</string>
+    <string name="month_december">டிசம்பர்</string>
+    <string name="month_december_short">டிச</string>
+    <string name="month_december_shortest">டிச</string>
+    <string name="month_february">பிப்ரவரி</string>
+    <string name="month_february_short">பிப்</string>
+    <string name="month_february_shortest">பிப்</string>
+    <string name="month_january">ஜனவரி</string>
+    <string name="month_january_short">ஜன</string>
+    <string name="month_january_shortest">ஜன</string>
+    <string name="month_july">ஜூலை</string>
+    <string name="month_july_short">ஜூலை</string>
+    <string name="month_july_shortest">ஜூலை</string>
+    <string name="month_june">ஜூன்</string>
+    <string name="month_june_short">ஜூன்</string>
+    <string name="month_june_shortest">ஜூன்</string>
+    <string name="month_march">மார்ச்</string>
+    <string name="month_march_short">மார்</string>
+    <string name="month_march_shortest">மார்</string>
+    <string name="month_may">மே</string>
+    <string name="month_may_short">மே</string>
+    <string name="month_may_shortest">மே</string>
+    <string name="month_november">நவம்பர்</string>
+    <string name="month_november_short">நவ</string>
+    <string name="month_november_shortest">நவ</string>
+    <string name="month_october">அக்டோபர்</string>
+    <string name="month_october_short">அக்</string>
+    <string name="month_october_shortest">அக்</string>
+    <string name="month_september">செப்டம்பர்</string>
+    <string name="month_september_short">செப்</string>
+    <string name="month_september_shortest">செப்</string>
+    <string name="morning">காலை</string>
+    <string name="night">மாலை</string>
+    <string name="noon">மதியம்</string>
+    <string name="pm">PM</string>
+    <string name="saturday">சனி</string>
+    <string name="saturday_short">சனி</string>
+    <string name="saturday_shortest">சனி</string>
+    <string name="saturn_summary">சனிக்கோளின் வளையங்கள், சூரியக் குடும்பத்தின் அற்புதமான காட்சியாக உள்ளது</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">தொலைதூர வளையங்கள்</string>
+    <string name="snowmountain_summary">சூரிய ஒளியில் சிகுன்யாங் மலையின் சரிவுகள்</string>
+    <string name="snowmountain_super_wallpaper_label">பனிச் சிகரங்கள்</string>
+    <string name="snowmountain_title">பனிச் சிகரங்கள்</string>
+    <string name="sunday">ஞாயிறு</string>
+    <string name="sunday_short">ஞாயி</string>
+    <string name="sunday_shortest">ஞாயி</string>
+    <string name="super_wallpaper_list_label">சூப்பர் வால்பேப்பர்கள்</string>
+    <string name="thursday">வியாழன்</string>
+    <string name="thursday_short">வியா</string>
+    <string name="thursday_shortest">வியா</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">நாளை</string>
+    <string name="tuesday">செவ்வாய்</string>
+    <string name="tuesday_short">செவ்</string>
+    <string name="tuesday_shortest">செவ்</string>
+    <string name="wednesday">புதன்</string>
+    <string name="wednesday_short">புத</string>
+    <string name="wednesday_shortest">புத</string>
+    <string name="yesterday">நேற்று</string>
+</resources>

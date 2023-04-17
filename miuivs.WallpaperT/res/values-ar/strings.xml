@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">مفعّلة</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="afternoon">بعد الظهر</string>
+    <string name="am">ص</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">فجر</string>
+    <string name="earth_position_content_0">تعتبر حديقة كامينجاك الطبيعية في كرواتيا واحدة من أفضل الأماكن ذات المناظر الخلابة على طول ساحل البحر الأبيض المتوسط.. حيث حولت التكوينات الجيولوجية المثيرة للإعجاب هذا المكان إلى جنة الغواص. ففي كل صيف، تجذب الشمس ومياه البحر الأبيض المتوسط ​​الدافئة عددًا لا يحصى من السياح وعشاق الرياضة.</string>
+    <string name="earth_position_content_1">"على الرغم من أن مدرجات الحقول هي نتيجة للنشاط البشري، إلا أنها أيضا بقعة طبيعية خلابة.
+ففي الصين، تقع مصاطب الأرز بشكل رئيسي في جنوب نهر لونغ (اليانغتسي)، حيث تكون هذه المناطق ذات أمطار غزيرة وجبال شاهقة. حقول لونجي موجودة هنا منذ أكثر من 700 عام. ويمكن العثور على عدد لا يحصى من المعالم التاريخية في القرى المجاورة."</string>
+    <string name="earth_position_content_2">تقع مدينة إيلوليسات غرب جرينلاند. حيث تبعد 200 كيلومتر شمال الدائرة القطبية الشمالية. ويقع مضيق إيلوليسات الجليدي المذهل الذي يبلغ طوله 56 كم بجوار جاكوبشافن الجليدي. وكونه أكبر نهر جليدي في نصف الكرة الشمالي، فإنه ينتج 2 مليار طن من مدقات الجليد كل عام. بعد استدارة قصيرة إلى الشمال، بتوجة جنوبًا مرة أخرى ليتدفق إلى المحيط الأطلسي.</string>
+    <string name="earth_position_content_3">خليج نافاجيو هو أحد أجمل الشواطئ الواقعة على ساحل زاكينثوس، في الجزر الأيونية باليونان. يُقال إنه موطن حطام سفينة شهيرة، ولهذا يُطلق على الشاطئ أيضا اسم \"كهف المهربين\".</string>
+    <string name="earth_position_content_4">الدولوميت هي سلسلة جبال تقع في شمال شرق إيطاليا. يعد جبل سيسيدا حقًا أحد أكثر الأماكن الخلابة هناك.</string>
+    <string name="earth_position_title_0">"كرواتيا
+كاب كامينجاك"</string>
+    <string name="earth_position_title_1">"مقاطعة قوانغشي الصينية
+مدرجات حقول الأرز في لونجي"</string>
+    <string name="earth_position_title_2">"جرينلاند
+إيلوليسات"</string>
+    <string name="earth_position_title_3">"اليونان
+شاطئ نافاجيو"</string>
+    <string name="earth_position_title_4">"إيطاليا
+الدولوميت"</string>
+    <string name="earth_summary">مهد الحضارة الإنسانية</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">الأرض</string>
+    <string name="empty" />
+    <string name="eras_ad">بعد الميلاد</string>
+    <string name="eras_bc">قبل الميلاد</string>
+    <string name="evening">عصر</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM، yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM، yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'ساعة'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_24hour">"H 'ساعة'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'مللي ثانية'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">الجمعة</string>
+    <string name="friday_short">الجمعة</string>
+    <string name="friday_shortest">الجمعة</string>
+    <string name="geometry_summary">أشكال وأضواء وألوان</string>
+    <string name="geometry_super_wallpaper_label">هندسة</string>
+    <string name="geometry_title">هندسة</string>
+    <string name="mars_position_content_0">"تحتوي المنطقة على المنحدرات والميسا والأودية المسطحة الواسعة التي يعتقد الناس أنها نتجت عن الحطام المغطى بالجليد. تم العثور على معادن الطين في هذا المجال، والتي لها أهمية كبيرة في البحث عن أدلة على الحياة على كوكب المريخ.
+
+وكالة ناسا/JPL/جامعة أريزونا"</string>
+    <string name="mars_position_content_1">"تم تصويره في وقت كانت فيه مركبة تسمى \"الفضول\" على كوكب المريخ تستكشف تلال باهرومب في فوهة غيل. تحتوي هذه المنطقة على صخور رسوبية يعتقد العلماء أنها تشكلت في وجود الماء والمناطق المظلمة هي رمال.
+
+وكالة ناسا/JPL/جامعة أريزونا"</string>
+    <string name="mars_position_content_2">"وادي مورث هو قناة تصريف قديمة ذات أحجار فاتحة اللون غنية بالطين. غالبًا ما تحافظ معادن الطين على الحياة المجهرية السابقة على الأرض. ربما في يوم من الأيام سنجد آثارًا للحياة القديمة في مورث.
+
+وكالة ناسا/JPL/جامعة أريزونا"</string>
+    <string name="mars_position_content_3">"تم التقاط هذه الصور أثناء استكشاف مسبار المريخ كيوريوسيتي تلال باهرومب في فوهة غيل. حيث تحتوي المنطقة على صخور رسوبية يعتقد العلماء أنها تشكلت في وجود الماء والمناطق المظلمة هي رمال.
+
+
+
+وكالة ناسا/JPL/جامعة أريزونا"</string>
+    <string name="mars_position_content_4">"وادي برهام هو وادي ذو جذع واحد، له جدران صدفية في بعض الأماكن. يظهر وجود خواص التعرية الانسيابية على أرضه أن السوائل شاركت في تكوينه.
+
+وكالة ناسا/JPL/جامعة أريزونا"</string>
+    <string name="mars_position_title_0">"منطقة نيلوسيرتس منسي
+في المريخ"</string>
+    <string name="mars_position_title_1">فوهة غيل</string>
+    <string name="mars_position_title_2">فوهة في وادي مورث</string>
+    <string name="mars_position_title_3">تلال باهرومب</string>
+    <string name="mars_position_title_4">وادي برهام</string>
+    <string name="mars_summary">لطالما سحرت صحراء المريخ الشاسعة البشرية</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">الكوكب الأحمر</string>
+    <string name="midnight">الليل</string>
+    <string name="monday">الإثنين</string>
+    <string name="monday_short">الإثنين</string>
+    <string name="monday_shortest">الإثنين</string>
+    <string name="month_april">أبريل</string>
+    <string name="month_april_short">أبريل</string>
+    <string name="month_april_shortest">أبريل</string>
+    <string name="month_august">أغسطس</string>
+    <string name="month_august_short">أغسطس</string>
+    <string name="month_august_shortest">أغسطس</string>
+    <string name="month_december">ديسمبر</string>
+    <string name="month_december_short">ديسمبر</string>
+    <string name="month_december_shortest">ديسمبر</string>
+    <string name="month_february">فبراير</string>
+    <string name="month_february_short">فبراير</string>
+    <string name="month_february_shortest">فبراير</string>
+    <string name="month_january">يناير</string>
+    <string name="month_january_short">يناير</string>
+    <string name="month_january_shortest">يناير</string>
+    <string name="month_july">يوليو</string>
+    <string name="month_july_short">يوليو</string>
+    <string name="month_july_shortest">يوليو</string>
+    <string name="month_june">يونيو</string>
+    <string name="month_june_short">يونيو</string>
+    <string name="month_june_shortest">يونيو</string>
+    <string name="month_march">مارس</string>
+    <string name="month_march_short">مارس</string>
+    <string name="month_march_shortest">مارس</string>
+    <string name="month_may">مايو</string>
+    <string name="month_may_short">مايو</string>
+    <string name="month_may_shortest">مايو</string>
+    <string name="month_november">نوفمبر</string>
+    <string name="month_november_short">نوفمبر</string>
+    <string name="month_november_shortest">نوفمبر</string>
+    <string name="month_october">أكتوبر</string>
+    <string name="month_october_short">أكتوبر</string>
+    <string name="month_october_shortest">أكتوبر</string>
+    <string name="month_september">سبتمبر</string>
+    <string name="month_september_short">سبتمبر</string>
+    <string name="month_september_shortest">سبتمبر</string>
+    <string name="morning">الصباح</string>
+    <string name="night">المساء</string>
+    <string name="noon">الظهر</string>
+    <string name="pm">م</string>
+    <string name="saturday">السبت</string>
+    <string name="saturday_short">السبت</string>
+    <string name="saturday_shortest">السبت</string>
+    <string name="saturn_summary">حلقات زحل هي أكثر المشاهد المذهلة في النظام الشمسي</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">حلقات زحل</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="snowmountain_summary">منحدرات جبل سيجونيانغ المضاءة بنور الشمس</string>
+    <string name="snowmountain_super_wallpaper_label">منحدرات ثلجية</string>
+    <string name="snowmountain_title">منحدرات ثلجية</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">الأحد</string>
+    <string name="sunday_short">الأحد</string>
+    <string name="sunday_shortest">الأحد</string>
+    <string name="super_wallpaper_list_label">خلفيات سوبر</string>
+    <string name="thursday">الخميس</string>
+    <string name="thursday_short">الخميس</string>
+    <string name="thursday_shortest">الخميس</string>
+    <string name="time_picker_label_hour">س</string>
+    <string name="time_picker_label_minute">دق</string>
+    <string name="tomorrow">غدا</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="tuesday_short">الثلاثاء</string>
+    <string name="tuesday_shortest">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="wednesday_short">الأربعاء</string>
+    <string name="wednesday_shortest">الأربعاء</string>
+    <string name="yesterday">أمس</string>
+</resources>

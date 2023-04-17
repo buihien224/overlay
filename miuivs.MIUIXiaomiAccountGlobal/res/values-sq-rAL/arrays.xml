@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mashkull</item>
+        <item>Femër</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Llogaritë</item>
+        <item>Shtoni dhe menaxhoni llogaritë e palëve të treta</item>
+        <item>Llogarite;SNS;Facebook;Google;Llogaria e Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Llogaritë</item>
+        <item>Shtoni dhe menaxhoni llogaritë e palëve të treta</item>
+        <item>Llogarite;SNS;WeChat;QQ;Llogaria e Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Ndrysho fjalëkalimin</item>
+        <item>Ndryshoni fjalëkalimin e llogarisë Xiaomi</item>
+        <item>Ndrysho fjalekalim;Përditso fjalekalimin;Llogaria Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Hapësia ruajtese e familjes</item>
+        <item>Shiko/aktivizo hapësirën ruajtëse të familjes</item>
+        <item>Hapësirë ​​ruajtëse familjare;Ndarja e hapësirës ruajtëse</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Shërbimet familjare</item>
+        <item>Shiko/aktivizo shërbimet e familjes</item>
+        <item>Familja;Shërbimet familjare;Ndarja e familjes</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ndihmë</item>
+        <item>Merrni ndihmë dhe mbështetje të Llogarisë Xiaomi</item>
+        <item>Llogaria Xiaomi;Llogari;Llogaria Xiaomi;ndihma e llogaris;qendra e ndihmes</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verifikim me 2 hapa</item>
+        <item>Vendosni verifikimin me dy hapa për llogarinë tuaj Xiaomi</item>
+        <item>Identifikohuni;Hyni;2-hapa; verifikim;Xiaomi;Llogari;Llogaria Mi;Cilësimet;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Siguria e llogarisë</item>
+        <item>Riparimi i telefonit dhe postës elektronike, menaxhimi i fjalëkalimit</item>
+        <item>Siguria e llogarisë; Identifikimi; Telefoni i rikuperimit; Emaili i rikuperimit; Mbrojtja e llogarisë; Numri i telefonit; Email; Ndrysho fjalëkalimin; Shto numrin e telefonit; Shto email; Llogaria Mi; Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Pajisjet</item>
+        <item>Menaxhoni pajisjet e lidhura me llogarinë tuaj Xiaomi</item>
+        <item>Menaxho pajisjet;Pajisja ime;Pajisjet;lista e pajisjeve;Llogaria e Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Politika e Privatësisë</item>
+        <item>Shikoni Politikën e Privatësisë së Llogarisë Xiaomi</item>
+        <item>Llogaria Mi;Llogari;Llogaria Xiaomi;Politika e Privatësisë</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Email rikuperimi</item>
+        <item>Shto email rikuperues</item>
+        <item>Email rikuperimi;Email;Shto email;Llogaria e Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefoni rikuperues</item>
+        <item>Shtoni telefonin e rimëkëmbjes</item>
+        <item>Telefon rikuperimi;Shto telefon;Llogaria e Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklama</item>
+        <item>Menaxhoni reklamat e sistemit</item>
+        <item>Reklama;Llogaria Mi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informacioni i llogarisë</item>
+        <item>Shikoni foton tuaj të profilit dhe menaxhoni informacionin e llogarisë</item>
+        <item>Informacione personale;foto e profilit;nofka;informacione të llogarisë;ID MI;ID; llogari Xiaomi;Llogari;Llogaria Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Marrëveshja e Përdoruesit</item>
+        <item>Marrëveshja e Përdoruesit</item>
+        <item>Llogaria Xiaomi;Llogaria;Llogaria Xiaomi;Marrëveshja e përdoruesit;EULA</item>
+    </string-array>
+</resources>

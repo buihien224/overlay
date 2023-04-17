@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Za pristup i čuvanje slika, aplikacija i drugih fajlova, kao i za njihov prijenos</item>
+        <item>Za prijenos fajlova Bluetooth-om i Wi-Fi-jem</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Za pristup i čuvanje slika, aplikacija i drugih fajlova, kao i za njihov prijenos</item>
+        <item>Za prijenos fajlova Bluetooth-om i WLANom</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Za slanje i primanje fajlova</item>
+        <item>Za prijenos fajlova Bluetooth-om i Wi-Fi-jem</item>
+        <item>Za nalaženje dostupnih uređaja Bluetoothom</item>
+        <item>Za nalaženje dostupnih uređaja u blizini i prebacivanje fajlova Wi-Fijem</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Za slanje i primanje fajlova</item>
+        <item>Za prijenos fajlova Bluetooth-om i WLANom</item>
+        <item>Za nalaženje dostupnih uređaja Bluetoothom</item>
+        <item>Za nalaženje dostupnih uređaja u blizini i prebacivanje fajlova WLANom</item>
+    </string-array>
+</resources>

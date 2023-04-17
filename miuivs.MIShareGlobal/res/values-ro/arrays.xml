@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Pentru accesarea și salvarea de imagini, aplicații și alte fișiere, precum și transferul acestora</item>
+        <item>Pentru transferul fișierelor folosind Bluetooth și Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Pentru accesarea și salvarea de imagini, aplicații și alte fișiere, precum și transferul acestora</item>
+        <item>Pentru transferul fișierelor folosind Bluetooth și WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Pentru trimiterea și primirea fișierelor</item>
+        <item>Pentru transferul fișierelor folosind Bluetooth și Wi-Fi</item>
+        <item>Pentru găsirea dispozitivelor disponibile în apropiere utilizând Bluetooth</item>
+        <item>Pentru găsirea dispozitivelor disponibile în apropiere și transferul fișierelor utilizând Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Pentru trimiterea și primirea fișierelor</item>
+        <item>Pentru transferul fișierelor folosind Bluetooth și WLAN</item>
+        <item>Pentru găsirea dispozitivelor disponibile în apropiere utilizând Bluetooth</item>
+        <item>Pentru găsirea dispozitivelor disponibile în apropiere și transferul fișierelor utilizând WLAN</item>
+    </string-array>
+</resources>

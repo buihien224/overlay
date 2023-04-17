@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Titulli i faturës: *** Inc.</item>
+        <item>Adresa: Rruga, Apt, Qyteti, Shteti / Rajoni, Provinca, kodi postar</item>
+        <item>Ju lutemi lini paketën tek dera. Faleminderit!</item>
+        <item>Prisni një minutë, do të kthehem mbrapa.</item>
+        <item>Unë jam në një takim. Ju lutemi dërgoni një mesazh me tekst.</item>
+        <item>Nuk mund te flas tani. Do ju telefonoj sa më shpejt që të jetë e mundur.</item>
+        <item>Faleminderit!</item>
+    </string-array>
+</resources>

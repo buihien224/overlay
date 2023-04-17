@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>ဓာတ်ပုံများ၊ အက်(ပ်)များနှင့် အခြားဖိုင်များကို ဖတ်ရန်နှင့် သိမ်းရန်အတွက်သာမက လွှဲပြောင်းခြင်းပါ ပြုလုပ်ရန်အတွက်</item>
+        <item>ဖိုင်များကို ဘလူးတုသ်နှင့် Wi-Fi သုံးပြီး လွှဲပြောင်းရန်အတွက်</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>ဖိုင်များ ပို့ရန်နှင့် လက်ခံရန်</item>
+        <item>ဖိုင်များကို ဘလူးတုသ်နှင့် Wi-Fi သုံးပြီး လွှဲပြောင်းရန်အတွက်</item>
+        <item>ဘလူးတုသုံးပြီး အနီးအနားတွင် ရနိုင်သော စက်များကို ရှာရန်</item>
+        <item>အနီးအနားတွင် ရနိုင်သော စက်များကို ရှာရန်နှင့် Wi-Fi သုံးပြီး ဖိုင်များ ရွှေ့ပြောင်းရန်</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

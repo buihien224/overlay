@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Դասավորել ըստ ստացված ժամանակի</item>
+        <item>Տեսակավորել ըստ ծանուցումների քանակի</item>
+        <item>Հավելվածները կարող են ցուցադրել ծանուցումները</item>
+        <item>Հավելվածները չեն կարող ցուցադրել ծանուցումները</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Ցուցադրել ծանուցման բովանդակությունը</item>
+        <item>Չցուցադրել Փակ էկրանին ծանուցումներ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Ցուցադրել ծանուցման բովանդակությունը</item>
+        <item>Ցուցադրել ծանուցումները՝ թաքցնելով դրանց բովանդակությունը</item>
+        <item>Չցուցադրել Փակ էկրանին ծանուցումներ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

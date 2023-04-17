@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Found %d results</item>
+        <item quantity="one">Found %d result</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d people</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" steps"</item>
+        <item quantity="one">" step"</item>
+    </plurals>
+</resources>

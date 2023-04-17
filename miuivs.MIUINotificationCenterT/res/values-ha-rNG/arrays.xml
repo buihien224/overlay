@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>An karbi kasawa ta lokaci</item>
+        <item>Kasawa ta adadin sanarwa</item>
+        <item>Manhaja dake iya nuna sanarwa</item>
+        <item>Manhaja da basu iya nuna sanarwa</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Nuna abunda sanarwa ya kunsa</item>
+        <item>Ka ya nuna sanarwar Allon kulle</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Nuna abunda sanarwa ya kunsa</item>
+        <item>Nuna sanarwa amma a boye abun da su ka kunsa</item>
+        <item>Ka ya nuna sanarwar Allon kulle</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

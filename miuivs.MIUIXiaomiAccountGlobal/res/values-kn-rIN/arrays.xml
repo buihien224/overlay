@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ಪುರುಷ</item>
+        <item>ಮಹಿಳೆ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ಖಾತೆಗಳು</item>
+        <item>ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಖಾತೆಗಳನ್ನು ಸೇರಿಸಿ ಹಾಗೂ ನಿರ್ವಹಿಸಿ</item>
+        <item>ಖಾತೆಗಳು;SNS;Facebook;Google;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ಖಾತೆಗಳು</item>
+        <item>ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಖಾತೆಗಳನ್ನು ಸೇರಿಸಿ ಹಾಗೂ ನಿರ್ವಹಿಸಿ</item>
+        <item>ಖಾತೆಗಳು;SNS;WeChat;QQ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ</item>
+        <item>Xiaomi ಖಾತೆ ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ</item>
+        <item>ಪಾಸ್‌ವರ್ಡ್‌ ಬದಲಾಯಿಸಿ;ಪಾಸ್‌ವರ್ಡ್‌ ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ಕುಟುಂಬ ಸಂಗ್ರಹಣೆ ಸ್ಥಳ</item>
+        <item>ಕುಟುಂಬ ಸಂಗ್ರಹಣೆ ಸ್ಥಳ ನೋಡಿ/ಆನ್‌ ಮಾಡಿ</item>
+        <item>ಕುಟುಂಬ ಸಂಗ್ರಹಣೆ ಸ್ಥಳ;ಸಂಗ್ರಹಣೆ ಹಂಚಿಕೆ</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ಕುಟುಂಬ ಸೇವೆಗಳು</item>
+        <item>ಕುಟುಂಬ ಸೇವೆಗಳನ್ನು ನೋಡಿ/ಆನ್‌ ಮಾಡಿ</item>
+        <item>ಕುಟುಂಬ;ಕುಟುಂಬ ಸೇವೆಗಳು;ಕುಟುಂಬ ಹಂಚಿಕೆ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ಸಹಾಯ</item>
+        <item>Xiaomi ಖಾತೆ ಸಹಾಯ ಮತ್ತು ಬೆಂಬಲ</item>
+        <item>Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ;ಖಾತೆ ಸಹಾಯ;ಸಹಾಯ ಕೇಂದ್ರ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ಹಂತದ ಪರಿಶೀಲನೆ</item>
+        <item>ನಿಮ್ಮ Xiaomi ಖಾತೆಗಾಗಿ 2-ಹಂತದ ಪರಿಶೀಲನೆ ಹೊಂದಿಸಿ</item>
+        <item>ಸೈನ್‌ ಇನ್;ಲಾಗ್ ಇನ್;2-ಹಂತ;ಪರಿಶೀಲನೆ;Xiaomi;ಖಾತೆ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ಖಾತೆ ಭದ್ರತೆ</item>
+        <item>ರಿಕವರಿ ಫೋನ್ ಮತ್ತು ಇಮೇಲ್, ಪಾಸ್‌ವರ್ಡ್ ನಿರ್ವಹಣೆ</item>
+        <item>ಖಾತೆ ಭದ್ರತೆ;ಸೈನ್‌ ಇನ್‌;ರಿಕವರಿ ಫೋನ್‌;ರಿಕವರಿ ಇಮೇಲ್‌;ಖಾತೆ ರಕ್ಷಣೆ;ಫೋನ್‌ ಸಂಖ್ಯೆ;ಇಮೇಲ್‌;ಪಾಸ್‌ವರ್ಡ್‌ ಬದಲಾಯಿಸಿ;ಫೋನ್‌ ಸಂಖ್ಯೆ ಸೇರಿಸಿ;ಇಮೇಲ್‌ ಸೇರಿಸಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ಡಿವೈಸ್‌ಗಳು</item>
+        <item>ನಿಮ್ಮ Xiaomi ಖಾತೆಯೊಂದಿಗೆ ಸಂಯೋಜನೆಗೊಂಡ ಡಿವೈಸ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</item>
+        <item>ಡಿವೈಸ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ;ನನ್ನ ಡಿವೈಸ್‌ಗಳು;ಡಿವೈಸ್‌ಗಳು;ಡಿವೈಸ್‌ ಪಟ್ಟಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ಗೌಪ್ಯತೆ ನೀತಿ</item>
+        <item>Xiaomi ಖಾತೆ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ನೋಡಿ</item>
+        <item>Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ;ಗೌಪ್ಯತೆ ನೀತಿ</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ರಿಕವರಿ ಇಮೇಲ್</item>
+        <item>ರಿಕವರಿ ಇಮೇಲ್‌ ಸೇರಿಸಿ</item>
+        <item>ರಿಕವರಿ ಇಮೇಲ್‌;ಇಮೇಲ್‌;ಇಮೇಲ್‌ ಸೇರಿಸಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>ರಿಕವರಿ ಫೋನ್‌</item>
+        <item>ರಿಕವರಿ ಫೋನ್‌ ಸೇರಿಸಿ</item>
+        <item>ರಿಕವರಿ ಫೋನ್‌;ಫೋನ್‌ ಸೇರಿಸಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ಜಾಹೀರಾತುಗಳು</item>
+        <item>ಸಿಸ್ಟಂ ಜಾಹೀರಾತುಗಳನ್ನು ನಿರ್ವಹಿಸಿ</item>
+        <item>ಜಾಹೀರಾತುಗಳು;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ಖಾತೆ ಮಾಹಿತಿ</item>
+        <item>ಪ್ರೊಫೈಲ್‌ ಫೋಟೋ ನೋಡಿ ಮತ್ತು ಖಾತೆ ಮಾಹಿತಿ ನಿರ್ವಹಿಸಿ</item>
+        <item>ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ;ಪ್ರೊಫೈಲ್‌ ಫೋಟೋ;ಅಡ್ಡಹೆಸರು;ಖಾತೆ ಮಾಹಿತಿ;Mi ಐಡಿ;ಐಡಿ;Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ಬಳಕೆದಾರ ಒಪ್ಪಂದ</item>
+        <item>ಬಳಕೆದಾರ ಒಪ್ಪಂದ</item>
+        <item>Mi ಖಾತೆ;ಖಾತೆ;Xiaomi ಖಾತೆ;ಬಳಕೆದಾರ ಒಪ್ಪಂದ;EULA</item>
+    </string-array>
+</resources>

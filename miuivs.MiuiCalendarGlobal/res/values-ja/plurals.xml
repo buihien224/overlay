@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d日前</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">%1$d日後の%2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d日前の%2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d時間前</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d週間前</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1時間前</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1時間前</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30分前</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1時間後</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30分後</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">今すぐ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d分後</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">たった今</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s日</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">記念日：%3$d日後は%1$s%2$d周年</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">記念日: %1$s%2$d周年</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s年</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d日前は</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d日後は</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s歳</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">残り%1$s日</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d日後</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d日前</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d日後</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d日前</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d日</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">%1$d日までの範囲で入力できます</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">リマインダーは%d個まで設定できます</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">30分前</item>
+    </plurals>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">完了した%d件のタスクを非表示</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1時間後</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">30分後</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">今すぐ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d分後</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">たった今</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">%1$d日目 (予定)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">%1$d日目</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">次の生理は%1$d日後</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d個を選択済み</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%1$d个邀请对象</item>
+    </plurals>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">日</item>
+    </plurals>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">週</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="num_picker_hint">
+        <item quantity="other">" 日"</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">%1$s ごとの%2$s</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d日</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$dか月</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d週間</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d年</item>
+    </plurals>
+    <plurals name="show_completed_notes">
+        <item quantity="other">完了した%d件のタスクを表示</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">%1$d日間記録されていません。正確な予測情報を取得するために生理を記録してください。</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">この生理は合計%1$d日間続いています</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">この生理周期の%1$d日目</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">生理%1$d日目</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">次の生理まで%1$d日</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">予測では生理%1$d日目</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%1$sまで車で%2$s分です。</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">第%d週</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d就業日</item>
+    </plurals>
+</resources>

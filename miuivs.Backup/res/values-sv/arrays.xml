@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Övergripande upplevelse</item>
+        <item>Överföringsvaraktighet</item>
+        <item>Hur enkel var processen</item>
+        <item>Hur tydliga var instruktionerna</item>
+        <item>Denna funktion var användbar</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Väldigt missnöjd</item>
+        <item>Lite missnöjd</item>
+        <item>Neutral</item>
+        <item>Lite nöjd</item>
+        <item>Väldigt nöjd</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Sammantagna bedömningen</item>
+        <item>Tiden för överföringen</item>
+        <item>Hur enkel var processen</item>
+        <item>Hur tydliga var instruktionerna</item>
+    </string-array>
+</resources>

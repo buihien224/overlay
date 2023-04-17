@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d օր առաջ</item>
+        <item quantity="one">%d օր առաջ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d տարի առաջ</item>
+        <item quantity="one">%d տարի առաջ</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">Ձեր սարքն օգտագործելու լրիվ թույլտվություն ունի %1$d ծառայություն</item>
+        <item quantity="one">Ձեր սարքն օգտագործելու լրիվ թույլտվություն ունի %1$d ծառայություն</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s վայրկյան</item>
+        <item quantity="one">%1$s վայրկյան</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Երկար (%1$s վայրկյան)</item>
+        <item quantity="one">Երկար (%1$s վայրկյան)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Միջին (%1$s վայրկյան)</item>
+        <item quantity="one">Միջին (%1$s վայրկյան)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Կարճ (%1$s վայրկյան)</item>
+        <item quantity="one">Կարճ (%1$s վայրկյան)</item>
+    </plurals>
+    <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d աջակցվող հղում</item>
+        <item quantity="one">%d աջակցվող հղում</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_message">
+        <item quantity="other">Այս հղումները հաստատված են և ավտոմատ բացվում են այս հավելվածում։</item>
+        <item quantity="one">Այս հղումները հաստատված են և ավտոմատ բացվում են այս հավելվածում։</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d հաստատված հղում</item>
+        <item quantity="one">%d հաստատված հղում</item>
+    </plurals>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">Հավելվածը հաստատում է, որ մշակում է %d հղում</item>
+        <item quantity="one">Հավելվածը հաստատում է, որ մշակում է %d հղում</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item quantity="other">Անջատված է %d հավելվածի համար</item>
+        <item quantity="one">Անջատված է %d հավելվածի համար</item>
+    </plurals>
+    <plurals name="autofill_passwords_count">
+        <item quantity="other">%1$d գաղտնաբառ</item>
+        <item quantity="one">%1$d գաղտնաբառ</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">Սահմանափակված է %1$d հավելված</item>
+        <item quantity="one">Սահմանափակված է %1$d հավելված</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Սահմանափակե՞լ %1$d հավելված</item>
+        <item quantity="one">Սահմանափակե՞լ %1$d հավելված</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">Այս հավելվածները չեն կարող աշխատել ֆոնային ռեժիմում</item>
+        <item quantity="one">Այս հավելվածը չի կարող աշխատել ֆոնային ռեժիմում</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d հավելվածներ վերջերս սահմանափակվել են</item>
+        <item quantity="one">%2$d հավելված վերջերս սահմանափակվել է</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d հավելվածներ օգտագործում են շատ էներգիա</item>
+        <item quantity="one">%2$d հավելված օգտագործում է շատ էներգիա</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Սահմանափակել %1$d հավելված</item>
+        <item quantity="one">Սահմանափակել %1$d հավելված</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">Մնաց %d օր</item>
+        <item quantity="one">Մնաց %d օր</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Թրաֆիկի տնտեսման ռեժիմում %1$d հավելված կարող է օգտագործել բջջային ինտերնետն առանց սահմանափակումների</item>
+        <item quantity="one">Թրաֆիկի տնտեսման ռեժիմում %1$d հավելված կարող է օգտագործել բջջային ինտերնետն առանց սահմանափակումների</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Տեսախցիկի հավելվածներ</item>
+        <item quantity="one">Տեսախցիկի հավելված</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Էլփոստի սպասառու հավելվածներ</item>
+        <item quantity="one">Էլփոստի սպասառու հավելված</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Հեռախոսի հավելվածներ</item>
+        <item quantity="one">Հեռախոսի հավելված</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">Ջնջվել է %d կատեգորիա</item>
+        <item quantity="one">Ջնջվել է %d կատեգորիա</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Հեռացնե՞լ ընտրված լեզուները</item>
+        <item quantity="one">Հեռացնե՞լ ընտրված լեզուն</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">%d հավելված կարող է աջակցվող հղումներ բացել</item>
+        <item quantity="one">%d հավելված կարող է աջակցվող հղումներ բացել</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">Նվազագույնը %d CA հավաստագիր</item>
+        <item quantity="one">Նվազագույնը %d CA հավաստագիր</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d փորձ</item>
+        <item quantity="one">%d փորձ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d հավելված</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Նվազագույնը %d հավելված</item>
+        <item quantity="one">Նվազագույնը %d հավելված</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d կապված հավելված</item>
+        <item quantity="one">%d կապված հավելված</item>
+    </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">Տեղադրության տվյալները հասանելի են %2$d հավելվածից %1$d-ին</item>
+        <item quantity="one">Տեղադրության տվյալները հասանելի են %2$d հավելվածից %1$d-ին</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Միացված է – Տեղադրության տվյալները հասանելի են %1$d հավելվածի</item>
+        <item quantity="one">Միացված է – Տեղադրության տվյալները հասանելի են %1$d հավելվածի</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Պետք է պարունակի առնվազն %d տառ</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d տառ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Պետք է պարունակի առնվազն %d փոքրատառ</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d փոքրատառ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Պետք է պարունակի առնվազն %d ոչ-տառային գրանշան</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d ոչ-տառային գրանշան</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Պետք է պարունակի առնվազն %d ոչ թվային նիշ</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d ոչ թվային նիշ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Պետք է պարունակի առնվազն %d թվանշան</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d թվանշան</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Պետք է պարունակի առնվազն %d հատուկ նշան</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d հատուկ նշան</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Պետք է պարունակի առնվազն %d մեծատառ</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d մեծատառ</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Չպետք է գերազանցի %d նիշը</item>
+        <item quantity="one">Չպետք է գերազանցի %d նիշը</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Պետք է պարունակի առնվազն %d նիշ</item>
+        <item quantity="one">Պետք է պարունակի առնվազն %d նիշ</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Պետք է %d-ից քիչ թվանշան պարունակի</item>
+        <item quantity="one">Պետք է %d-ից քիչ թվանշան պարունակի</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN-ը պետք է պարունակի առնվազն %d թվանշան</item>
+        <item quantity="one">PIN-ը պետք է պարունակի առնվազն %d թվանշան</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d հավելված կարող է ծանուցումներ կարդալ</item>
+        <item quantity="one">%d հավելված կարող է ծանուցումներ կարդալ</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d ակտիվ վստահության գործակալ</item>
+        <item quantity="one">%d ակտիվ վստահության գործակալ</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Վերջին %2$sում հիշողությունն օգտագործել է %1$d հավելված</item>
+        <item quantity="one">Վերջին %2$sում հիշողությունն օգտագործել է %1$d հավելված</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM քարտ</item>
+        <item quantity="one">%1$d SIM քարտ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d նոր ծանուցում</item>
+        <item quantity="one">%d նոր ծանուցում</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%1$d սահմանափակում</item>
+        <item quantity="one">%1$d սահմանափակում</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d կատեգորիա</item>
+        <item quantity="one">%d կատեգորիա</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d ծանուցում</item>
+        <item quantity="one">%d ծանուցում</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Անջատված է %d հավելվածի համար</item>
+        <item quantity="one">Անջատված է %d հավելվածի համար</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">%d կատեգորիա անջատված է</item>
+        <item quantity="one">%d կատեգորիա անջատված է</item>
+    </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">Օրական ~%d ծանուցում</item>
+        <item quantity="one">Օրական ~%d ծանուցում</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">Շաբաթական ~%d ծանուցում</item>
+        <item quantity="one">Շաբաթական ~%d ծանուցում</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">%d ակտիվ հավելված</item>
+        <item quantity="one">%d ակտիվ հավելված</item>
+    </plurals>
+    <plurals name="number_of_urls">
+        <item quantity="other">%d URL</item>
+        <item quantity="one">%d URL</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s հավելված</item>
+        <item quantity="one">%s հավելված</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Տրամադրվել է %d թույլտվություն</item>
+        <item quantity="one">Տրամադրվել է %d թույլտվություն</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d հավելված սխալ է աշխատում</item>
+        <item quantity="one">%2$d հավելված սխալ է աշխատում</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Մարտկոցի լիցքն արագ սպառող հավելվածներ</item>
+        <item quantity="one">Մարտկոցի լիցքն արագ սպառող հավելվածներ</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d տպելու առաջադրանք</item>
+        <item quantity="one">%1$d տպելու առաջադրանք</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item quantity="other">Միացված է %1$d տպման ծառայություն</item>
+        <item quantity="one">Միացված է %1$d տպման ծառայություն</item>
+    </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d կարևոր զրույց</item>
+        <item quantity="one">%d կարևոր զրույց</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">Մարտկոցի օգտագործումը սահմանափակված է %1$d հավելվածի համար</item>
+        <item quantity="one">Մարտկոցի օգտագործումը սահմանափակված է %1$d հավելվածի համար</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d լրացուցիչ թույլտվություն</item>
+        <item quantity="one">%d լրացուցիչ թույլտվություն</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Տրվել է %1$d-ից %2$d թույլտվություն</item>
+        <item quantity="one">Տրվել է %1$d-ից %2$d թույլտվություն</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s վայրկյան</item>
+        <item quantity="one">%s վայրկյան</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Ավելացվել է %1$d մատնահետք</item>
+        <item quantity="one">Ավելացվել է %1$d մատնահետք</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Ցուցադրել բոլոր %1$d հավելվածները</item>
+        <item quantity="one">Ցուցադրել բոլոր %1$d հավելվածները</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Ցույց տալ %d թաքնված տարրեր</item>
+        <item quantity="one">Ցույց տալ %d թաքնված տարր</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Եվս %1$d քայլ, և դուք ծրագրավորող եք:</item>
+        <item quantity="one">Եվս %1$d քայլ, և դուք ծրագրավորող եք:</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d պահված լսողական ապարատներ</item>
+        <item quantity="one">%1$d պահված լսողական ապարատ</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d հավելված կարող է անսահմանափակ տվյալներ օգտագործել</item>
+        <item quantity="one">%d հավելված կարող է անսահմանափակ տվյալներ օգտագործել</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Հաստատեք կամ հեռացրեք վկայականները</item>
+        <item quantity="one">Հաստատեք կամ հեռացրեք վկայականները</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s տիրույթը ձեր աշխատանքային պրոֆիլի համար տեղադրել է սերտիֆիկացման կենտրոնի վկայականներ, որոնք կարող են նրան թույլ տալ վերահսկել աշխատանքային ցանցի գործունեությունը, ներառյալ էլփոստը, հավելվածները և ապահով կայքերը:
+
+Այս վկայականների մասին լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր ադմինիստրատորին:"</item>
+        <item quantity="one">"%s տիրույթը ձեր աշխատանքային պրոֆիլի համար տեղադրել է սերտիֆիկացման կենտրոնի վկայականներ, որոնք կարող են նրան թույլ տալ վերահսկել աշխատանքային ցանցի գործունեությունը, ներառյալ էլփոստը, հավելվածները և ապահով կայքերը:
+
+Այս վկայականների մասին լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր ադմինիստրատորին:"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s տիրույթը ձեր սարքում տեղադրել է սերտիֆիկացման կենտրոնի վկայականներ, որոնք կարող են նրան թույլ տալ վերահսկել սարքի ցանցային գործունեությունը, ներառյալ էլփոստը, հավելվածները և ապահով կայքերը:
+
+Այս վկայականների մասին լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր ադմինիստրատորին:"</item>
+        <item quantity="one">"%s տիրույթը ձեր սարքում տեղադրել է սերտիֆիկացման կենտրոնի վկայականներ, որոնք կարող են նրան թույլ տալ վերահսկել սարքի ցանցային գործունեությունը, ներառյալ էլփոստը, հավելվածները և ապահով կայքերը:
+
+Այս վկայականների մասին լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր ադմինիստրատորին:"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Ստուգել վկայականները</item>
+        <item quantity="one">Ստուգել վկայականները</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d հուշում</item>
+        <item quantity="one">+%1$d հուշում</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d հուշում</item>
+        <item quantity="one">%1$d հուշում</item>
+    </plurals>
+    <plurals name="unused_apps_summary">
+        <item quantity="other">%d չօգտագործվող հավելված</item>
+        <item quantity="one">%d չօգտագործվող հավելված</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d տարր</item>
+        <item quantity="one">%d տարր</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">%d ցանց</item>
+        <item quantity="one">%d ցանց</item>
+    </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d ցանց և բաժանորդագրություն</item>
+        <item quantity="one">%d ցանց և բաժանորդագրություն</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d բաժանորդագրություն</item>
+        <item quantity="one">%d բաժանորդագրություն</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Միացված է %1$d սարք</item>
+        <item quantity="one">Միացված է %1$d սարք</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN կոդը սխալ է: Մնաց %d փորձ:</item>
+        <item quantity="one">SIM PIN կոդը սխալ է: Մնաց %d փորձ:</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d ժամով մինչև %2$s</item>
+        <item quantity="one">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d ժամով մինչև %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d րոպեով (մինչև %2$s)</item>
+        <item quantity="one">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d րոպեով (մինչև %2$s)</item>
+    </plurals>
+</resources>

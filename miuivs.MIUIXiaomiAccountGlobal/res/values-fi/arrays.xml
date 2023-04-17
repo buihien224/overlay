@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Tilit</item>
+        <item>Lisää ja hallinnoi kolmansien osapuolien tilejä</item>
+        <item>Tilit;SNS;Facebook;Google;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Tilit</item>
+        <item>Lisää ja hallinnoi kolmansien osapuolien tilejä</item>
+        <item>Tilit;SNS;WeChat;QQ;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Vaihda salasana</item>
+        <item>Vaihda Xiaomi-tilin salasana</item>
+        <item>Vaihda salasana;Päivitä salasana;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Perheen säilytystilaa</item>
+        <item>Näytä/ota käyttöön perheen tallennustila</item>
+        <item>Perheen tallennustila;Tallennustilan jakaminen</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Perhepalvelut</item>
+        <item>Näytä/ota käyttöön perhepalvelut</item>
+        <item>Perhe;Perhepalvelut;Perhejakaminen</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Tuki</item>
+        <item>Hae Xiaomi-tilin apua ja tukea</item>
+        <item>Mi-tili;Tili;Xiaomi-tili;Tilin ohje;Ohjekeskus</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-vaiheinen todennus</item>
+        <item>Aseta 2-vaiheinen todennus Xiaomi-tilillesi</item>
+        <item>Kirjaudu sisään;Kirjaudu sisään;2-vaiheinen;todennus;Xiaomi;Tili;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Tilin turvallisuus</item>
+        <item>Palautuspuhelin ja -sähköposti, salasanan hallinta</item>
+        <item>Tilin suojaus;Sisäänkirjautuminen;Palautuspuhelin;Palautussähköposti;Tilin suojaus;Puhelinnumero;Sähköposti;Vaihda salasana;Lisää puhelinnumero;Lisää sähköposti;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Laitteet</item>
+        <item>Hallinnoi Xiaomi-tiliisi liitettyjä laitteita</item>
+        <item>Hallitse laitteita;Omat laitteet;Laitteet;Laiteluettelo;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Tietosuojakäytäntö</item>
+        <item>Näytä Xiaomi-tilin tietosuojakäytäntö</item>
+        <item>Mi-tili;Tili;Xiaomi-tili;Tietosuojakäytäntö</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Palautussähköposti</item>
+        <item>Lisää palautussähköposti</item>
+        <item>Palautussähköposti;Sähköposti;Lisää sähköpostiosoite;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Palautuspuhelin</item>
+        <item>Lisää palautuspuhelin</item>
+        <item>Palautuspuhelin;Lisää puhelin;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Mainokset</item>
+        <item>Hallinnoi järjestelmämainoksia</item>
+        <item>Mainokset;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Tilitiedot</item>
+        <item>Tarkastele profiilikuvaasi ja hallinnoi tilitietoja</item>
+        <item>Henkilökohtaiset tiedot;profiilikuva;lempinimi;tilitiedot;Mi-tunnus;tunnus;Mi-tili;Tili;Xiaomi-tili</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Käyttäjäsopimus</item>
+        <item>Käyttäjäsopimus</item>
+        <item>Mi-tili;Tili;Xiaomi-tili;Käyttäjäsopimus;EULA</item>
+    </string-array>
+</resources>

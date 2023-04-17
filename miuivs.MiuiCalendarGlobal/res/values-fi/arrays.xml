@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Ei mitään</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Vesimies</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Oinas</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliiga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Rapu</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Kauris</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Kaikki tapahtumat sarjassa</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Eteenpäin</item>
+        <item>Taaksepäin</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Tapahtuman aikaan</item>
+        <item>5 minuuttia ennen</item>
+        <item>15 minuuttia ennen</item>
+        <item>30 minuuttia ennen</item>
+        <item>1 tunti ennen</item>
+        <item>4 tuntia ennen</item>
+        <item>1 päivä ennen</item>
+        <item>2 päivää ennen</item>
+        <item>1 viikko ennen</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Tämä ja tulevat tapahtumat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Kaksoset</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leijona</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Vaaka</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Liiga 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Kalat</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain, kun soittoääni on mykistetty</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Alueen oletus</item>
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Ei koskaan</item>
+        <item>Aika</item>
+        <item>Määrä</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Tammi</item>
+        <item>Helmi</item>
+        <item>Maalis</item>
+        <item>Huhti</item>
+        <item>Touko</item>
+        <item>Kesä</item>
+        <item>Heinä</item>
+        <item>Elo</item>
+        <item>Syys</item>
+        <item>Loka</item>
+        <item>Marras</item>
+        <item>Joulu</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>ensimmäinen</item>
+        <item>toinen</item>
+        <item>kolmas</item>
+        <item>neljäs</item>
+        <item>viimeinen</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Ma - Pe</item>
+        <item>Viikonloppu</item>
+        <item>Koko viikko</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Ei koskaan</item>
+        <item>Kuukausittain</item>
+        <item>Vuosittain</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>päivä</item>
+        <item>viikko</item>
+        <item>kuukausi</item>
+        <item>vuosi</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ensimmäinen maanantai</item>
+        <item>ensimmäinen tiistai</item>
+        <item>ensimmäinen keskiviikko</item>
+        <item>ensimmäinen torstai</item>
+        <item>ensimmäinen perjantai</item>
+        <item>ensimmäinen lauantai</item>
+        <item>ensimmäinen sunnuntai</item>
+        <item>toinen maanantai</item>
+        <item>toinen tiistai</item>
+        <item>toinen keskiviikko</item>
+        <item>toinen torstai</item>
+        <item>toinen perjantai</item>
+        <item>toinen lauantai</item>
+        <item>toinen sunnuntai</item>
+        <item>kolmas maanantai</item>
+        <item>kolmas tiistai</item>
+        <item>kolmas keskiviikko</item>
+        <item>kolmas torstai</item>
+        <item>kolmas perjantai</item>
+        <item>kolmas lauantai</item>
+        <item>kolmas sunnuntai</item>
+        <item>neljäs maanantai</item>
+        <item>neljäs tiistai</item>
+        <item>neljäs keskiviikko</item>
+        <item>neljäs torstai</item>
+        <item>neljäs perjantai</item>
+        <item>neljäs lauantai</item>
+        <item>neljäs sunnuntai</item>
+        <item>viimeinen maanantai</item>
+        <item>viimeinen tiistai</item>
+        <item>viimeinen keskiviikko</item>
+        <item>viimeinen torstai</item>
+        <item>viimeinen perjantai</item>
+        <item>viimeinen lauantai</item>
+        <item>viimeinen sunnuntai</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ei vastausta</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Jousimies</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Skorpioni</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>A-sarja</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Härkä</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallsaaret</item>
+        <item>Midwaysaaret</item>
+        <item>Havaiji</item>
+        <item>Alaska</item>
+        <item>Tyynenmeren aika</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Vuoristoaika</item>
+        <item>Keski-Amerikka</item>
+        <item>Keskusaika</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Itäinen aika</item>
+        <item>Venezuela</item>
+        <item>Atlantin aika (Barbados)</item>
+        <item>Atlantin aika (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Grönlanti</item>
+        <item>Montevideo</item>
+        <item>Keski-Atlantti</item>
+        <item>Azorit</item>
+        <item>Kap Verde</item>
+        <item>Casablanca</item>
+        <item>Lontoo, Dublin</item>
+        <item>Amsterdam, Berliini</item>
+        <item>Belgrad</item>
+        <item>Bryssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Länsi-Afrikan aika</item>
+        <item>Amman, Jordania</item>
+        <item>Ateena, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarskin</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Macao</item>
+        <item>Singapore</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 tuntia ennen</item>
+        <item>4 tuntia ennen</item>
+        <item>5 tuntia ennen</item>
+        <item>6 tuntia ennen</item>
+        <item>1 päivä ennen</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Neitsyt</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Selkeää</item>
+        <item>Pilvinen</item>
+        <item>Synkkä</item>
+        <item>Sumu</item>
+        <item>Kova myrsky</item>
+        <item>Myrsky</item>
+        <item>Pieni myrsky</item>
+        <item>Ukkosmyrsky</item>
+        <item>Sateinen</item>
+        <item>Rankkasade</item>
+        <item>Sadetta</item>
+        <item>Kevyt sade</item>
+        <item>Sadetta ja lunta</item>
+        <item>Lumimyrsky</item>
+        <item>Lumikuurot</item>
+        <item>Rankka lumisade</item>
+        <item>Lumi</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Pöly</item>
+        <item>Kevyt hiekkamyrsky</item>
+        <item>Raekuuro</item>
+        <item>Leijailevaa pölyä</item>
+        <item>Usva</item>
+        <item>Jäätävä sade</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>SU</item>
+        <item>MA</item>
+        <item>TI</item>
+        <item>KE</item>
+        <item>TO</item>
+        <item>PE</item>
+        <item>LA</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Läpinäkyvä</item>
+        <item>Valkoinen tausta</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

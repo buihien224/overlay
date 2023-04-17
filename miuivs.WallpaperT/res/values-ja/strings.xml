@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームに戻る</string>
+    <string name="abc_action_bar_up_description">前に戻る</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="afternoon">午後</string>
+    <string name="am">午前</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">早朝</string>
+    <string name="earth_position_content_0">クロアチアのカメンジャク岬自然公園は、地中海沿岸で最も息をのむような景色が見られる場所です。この場所の印象的な地層がダイバーの楽園となっています。毎年夏になると、まばゆいばかりの太陽と暖かい地中海の海水が、数え切れないほどのアウトドア愛好家を魅了します。</string>
+    <string name="earth_position_content_1">"棚田は人間の営みの結果ですが、優れた自然景勝地にもなっています。
+中国では、棚田は主に雨が良く降り、山地の多い長江の南側に位置しています。龍脊棚田は700年以上の歴史があり、近くの村にはかなりの数の史跡があります。"</string>
+    <string name="earth_position_content_2">イルリサットはグリーンランド西部、北極圏の北200kmに位置しています。全長56kmのイルリサットアイスフィヨルドは、ヤコブスハウンイスブラ氷河のすぐ隣に位置しています。北半球最大の氷河で、毎年20億トンもの氷山を生み出しています。短い北向きの迂回路を経て、南下して大西洋に流れ込みます。</string>
+    <string name="earth_position_content_3">ナヴァイオは、ギリシャのイオニア諸島にあるザキントス島の海岸にある美しいビーチの1つです。この地に座礁した有名な難破船が密輸を行っていたと噂されたことから、このビーチは「スマグラーズコーブ (密輸者の入り江)」とも呼ばれています。</string>
+    <string name="earth_position_content_4">ドロミーティ (ドロミテ) はイタリア北東部に位置する山脈です。セチェーダ山は、まるで絵のように美しい場所の1つです。</string>
+    <string name="earth_position_title_0">"クロアチア
+カメンジャク岬"</string>
+    <string name="earth_position_title_1">"中国江西省
+龍脊棚田"</string>
+    <string name="earth_position_title_2">"グリーンランド
+イルリサット"</string>
+    <string name="earth_position_title_3">"ギリシャ
+ナヴァイオビーチ"</string>
+    <string name="earth_position_title_4">"イタリア
+ドロミーティ"</string>
+    <string name="earth_summary">地球は人類文明のゆりかごである</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">ホーム</string>
+    <string name="empty" />
+    <string name="eras_ad">西暦</string>
+    <string name="eras_bc">紀元前</string>
+    <string name="evening">夕方</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d日</string>
+    <string name="fmt_date_long_month">M月</string>
+    <string name="fmt_date_long_month_day">M月d日</string>
+    <string name="fmt_date_long_year_month">yyyy年M月</string>
+    <string name="fmt_date_long_year_month_day">yyyy年M月d日</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">yyyy/M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy/M/d</string>
+    <string name="fmt_date_short_month">M月</string>
+    <string name="fmt_date_short_month_day">M月d日</string>
+    <string name="fmt_date_short_year_month">yyyy年M月</string>
+    <string name="fmt_date_short_year_month_day">yyyy年M月d日</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy年</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h'時'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_24hour">"H'時'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ミリ秒'"</string>
+    <string name="fmt_time_minute">"m'分'"</string>
+    <string name="fmt_time_minute_second">"m'分's'秒'"</string>
+    <string name="fmt_time_minute_second_millis">"m'分's.S'秒'"</string>
+    <string name="fmt_time_second">"s'秒'"</string>
+    <string name="fmt_time_second_millis">"s.S'秒'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">金曜日</string>
+    <string name="friday_short">金</string>
+    <string name="friday_shortest">金</string>
+    <string name="geometry_summary">形、光、色</string>
+    <string name="geometry_super_wallpaper_label">幾何学</string>
+    <string name="geometry_title">幾何学</string>
+    <string name="mars_position_content_0">"この地域には断崖、メサ、広い平坦な谷があり、瓦礫に覆われてた氷河が原因で形成されたと考えられています。粘土鉱物もここで検出されており、古代火星に生命が存在していた証拠を探す上で非常に興味深いです。
+
+NASA/JPL/アリゾナ大学"</string>
+    <string name="mars_position_content_1">"火星探査車キュリオシティがゲールクレーターのパーランプヒルズを探査しているときに撮影されました。この地域には、科学者たちが水の存在下で形成されたと考えている堆積岩が含まれており、暗い部分は砂です。
+
+NASA/JPL/アリゾナ大学"</string>
+    <string name="mars_position_content_2">"マースヴァリスは、淡い色をした粘土質の石を持つ古代の水の流出路です。 粘土鉱物は地球上の微小な生命体を保存しやすいので、マースヴァリスにはもしかしたら古代の生命体の痕跡が残っているかもしれません。
+
+NASA/JPL/アリゾナ大学"</string>
+    <string name="mars_position_content_3">"これらの画像は、火星探査機キュリオシティがゲイルクレーターのパーランプ丘を探査している間に撮影されたものです。この地域には、科学者たちが水の存在下で形成されたと考えている堆積岩が含まれています。暗い部分は砂です。
+
+NASA/JPL/アリゾナ大学"</string>
+    <string name="mars_position_content_4">"バーラム峡谷は、一本川の谷で所々にスカラップ状の壁があります。床面には流線型の侵食地形が見られ、流体が形成に関与していたことを示しています。
+
+NASA/JPL/アリゾナ大学"</string>
+    <string name="mars_position_title_0">"ニロシルティス
+卓状台地"</string>
+    <string name="mars_position_title_1">ゲールクレーター</string>
+    <string name="mars_position_title_2">"マゥルス峡谷
+のクレーター"</string>
+    <string name="mars_position_title_3">パーランプ丘</string>
+    <string name="mars_position_title_4">バーラム峡谷</string>
+    <string name="mars_summary">火星の広大な砂漠は常に人類に畏敬の念を抱かせてきた</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">赤い惑星</string>
+    <string name="midnight">真夜中</string>
+    <string name="monday">月曜日</string>
+    <string name="monday_short">月</string>
+    <string name="monday_shortest">月</string>
+    <string name="month_april">4月</string>
+    <string name="month_april_short">4月</string>
+    <string name="month_april_shortest">4月</string>
+    <string name="month_august">8月</string>
+    <string name="month_august_short">8月</string>
+    <string name="month_august_shortest">8月</string>
+    <string name="month_december">12月</string>
+    <string name="month_december_short">12月</string>
+    <string name="month_december_shortest">12月</string>
+    <string name="month_february">2月</string>
+    <string name="month_february_short">2月</string>
+    <string name="month_february_shortest">2月</string>
+    <string name="month_january">1月</string>
+    <string name="month_january_short">1月</string>
+    <string name="month_january_shortest">1月</string>
+    <string name="month_july">7月</string>
+    <string name="month_july_short">7月</string>
+    <string name="month_july_shortest">7月</string>
+    <string name="month_june">6月</string>
+    <string name="month_june_short">6月</string>
+    <string name="month_june_shortest">6月</string>
+    <string name="month_march">3月</string>
+    <string name="month_march_short">3月</string>
+    <string name="month_march_shortest">3月</string>
+    <string name="month_may">5月</string>
+    <string name="month_may_short">5月</string>
+    <string name="month_may_shortest">5月</string>
+    <string name="month_november">11月</string>
+    <string name="month_november_short">11月</string>
+    <string name="month_november_shortest">11月</string>
+    <string name="month_october">10月</string>
+    <string name="month_october_short">10月</string>
+    <string name="month_october_shortest">10月</string>
+    <string name="month_september">9月</string>
+    <string name="month_september_short">9月</string>
+    <string name="month_september_shortest">9月</string>
+    <string name="morning">午前</string>
+    <string name="night">夜</string>
+    <string name="noon">正午</string>
+    <string name="pm">午後</string>
+    <string name="saturday">土曜日</string>
+    <string name="saturday_short">土</string>
+    <string name="saturday_shortest">土</string>
+    <string name="saturn_summary">土星の環は太陽系で最も信じられない光景を作る</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">土星の環</string>
+    <string name="search_menu_title">検索</string>
+    <string name="snowmountain_summary">四姑娘山の太陽に照らされた山の斜面</string>
+    <string name="snowmountain_super_wallpaper_label">雪山</string>
+    <string name="snowmountain_title">雪山</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">日曜日</string>
+    <string name="sunday_short">日</string>
+    <string name="sunday_shortest">日</string>
+    <string name="super_wallpaper_list_label">スーパー壁紙</string>
+    <string name="thursday">木曜日</string>
+    <string name="thursday_short">木</string>
+    <string name="thursday_shortest">木</string>
+    <string name="time_picker_label_hour">時</string>
+    <string name="time_picker_label_minute">分</string>
+    <string name="tomorrow">明日</string>
+    <string name="tuesday">火曜日</string>
+    <string name="tuesday_short">火</string>
+    <string name="tuesday_shortest">火</string>
+    <string name="wednesday">水曜日</string>
+    <string name="wednesday_short">水</string>
+    <string name="wednesday_shortest">水</string>
+    <string name="yesterday">昨日</string>
+</resources>

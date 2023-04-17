@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: miuivs.InCallUI.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- AndroidManifest.xml
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1-dirty
+versionInfo:
+  versionCode: '28'
+  versionName: miuivs-2.0

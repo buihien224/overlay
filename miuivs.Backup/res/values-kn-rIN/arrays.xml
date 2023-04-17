@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>ಒಟ್ಟಾರೆ ಅನುಭವ</item>
+        <item>ವರ್ಗಾವಣೆ ಅವಧಿ</item>
+        <item>ಪ್ರಕ್ರಿಯೆಯ ಸರಳತೆ</item>
+        <item>ಸೂಚನೆಗಳ ಸ್ಪಷ್ಟತೆ</item>
+        <item>ಈ ಫೀಚರ್‌ ಉಪಯುಕ್ತವಾಗಿದೆ</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>ತುಂಬ ಅಸಮಾಧಾನ</item>
+        <item>ಸ್ವಲ್ಪ ಅಸಮಾಧಾನ</item>
+        <item>ತಟಸ್ಥ</item>
+        <item>ಸ್ವಲ್ಪ ತೃಪ್ತಿ</item>
+        <item>ತುಂಬ ತೃಪ್ತಿಯಾಯಿತು</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>ಒಟ್ಟಾರೆ ಅರ್ಹತೆ</item>
+        <item>ವರ್ಗಾವಣೆಯ ಅವಧಿ</item>
+        <item>ಪ್ರಕ್ರಿಯೆಯ ಸರಳತೆ</item>
+        <item>ಸೂಚನೆಗಳ ಸ್ಪಷ್ಟತೆ</item>
+    </string-array>
+</resources>

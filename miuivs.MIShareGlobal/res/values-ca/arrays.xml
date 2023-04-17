@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Per a accedir a i desar imatges, aplicacions i altres arxius, a més de transferir-los</item>
+        <item>Per a transferir arxius a través de Bluetooth i wifi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Per a enviar i rebre arxius</item>
+        <item>Per a transferir arxius a través de Bluetooth i wifi</item>
+        <item>Per a trobar dispositius propers disponibles amb el Bluetooth</item>
+        <item>Per a trobar dispositius propers disponibles i transferir arxius amb el wifi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

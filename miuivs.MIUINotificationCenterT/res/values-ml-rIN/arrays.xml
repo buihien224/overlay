@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>സ്വീകരിച്ച സമയം പ്രകാരം അടുക്കുക</item>
+        <item>അറിയിപ്പുകളുടെ എണ്ണം പ്രകാരം അടുക്കുക</item>
+        <item>അറിയിപ്പുകൾ കാണിക്കാനാകുന്ന ആപ്പുകൾ</item>
+        <item>അറിയിപ്പുകൾ കാണിക്കാനാകാത്ത ആപ്പുകൾ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>അറിയിപ്പ് ഉള്ളടക്കം കാണിക്കുക</item>
+        <item>ലോക്ക് സ്‌ക്രീൻ അറിയിപ്പുകൾ കാണിക്കരുത്</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>അറിയിപ്പ് ഉള്ളടക്കം കാണിക്കുക</item>
+        <item>അറിയിപ്പുകൾ കാണിക്കുക, പക്ഷേ ഉള്ളടക്കം മറയ്ക്കുക</item>
+        <item>ലോക്ക് സ്‌ക്രീൻ അറിയിപ്പുകൾ കാണിക്കരുത്</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

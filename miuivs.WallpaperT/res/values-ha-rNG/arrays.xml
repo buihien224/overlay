@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Gida</item>
+        <item>Takardar allo/Takardun allo supa/Gida</item>
+        <item>Kasar duniya;Takardun allo supa;Bugu na Kasr duniya;Takardar allo</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Gometiri</item>
+        <item>Takardar allo/Takardun allo supaT/Gometiri</item>
+        <item>Gometiri;Abun ciki;Takardun allo supa;Takardun Allo</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Ja duniya</item>
+        <item>Takardar allo/Takardun allo supa/Jan duniya</item>
+        <item>Mars;Bugu na Mars ;Takardun allo supa; Takardar allo</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Kogin dusar kankara</item>
+        <item>Takardar allo/Takardun allo supa/Kogin dusar kankara</item>
+        <item>Doron kasa;Duwatsu;Takardun allo supa;Takardun Allo</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Takardun allo supa</item>
+        <item>Takardar allo/Takardun allo supa</item>
+        <item>Takardun allo supa; Takardar allo;Takardar allo na Dynamik, takardar allo na 3D</item>
+    </string-array>
+</resources>

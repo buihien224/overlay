@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+        <item quantity="one">prije 1 sat</item>
+        <item quantity="few">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+        <item quantity="one">prije 1 sat</item>
+        <item quantity="few">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+        <item quantity="one">Za 1 sat</item>
+        <item quantity="few">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za%d min</item>
+        <item quantity="one">za 1 min</item>
+        <item quantity="few">za%d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sad</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+        <item quantity="few">prije %d min</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">Podatkovne datoteke aplikacija: %d</item>
+        <item quantity="one">%d podatkovna datoteka aplikacije</item>
+        <item quantity="few">Podatkovne datoteke aplikacija: %d</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">podaci sustava%d</item>
+        <item quantity="one">%d podaci sustava</item>
+        <item quantity="few">%d podaci sustava</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">Stavke: %d</item>
+        <item quantity="one">Stavka: %d</item>
+        <item quantity="few">Stavke: %d</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">Broj stavki: %d</item>
+        <item quantity="one">Broj stavki: %d</item>
+        <item quantity="few">Broj stavki: %d</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d stavki</item>
+        <item quantity="one">%1$d/%2$d stavka</item>
+        <item quantity="few">%1$d/%2$d stavke</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+        <item quantity="one">Za 1 sat</item>
+        <item quantity="few">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za%d minuta</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">za%d minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s sigurnosnih kopija (%2$s)</item>
+        <item quantity="one">%1$s sigurnosna kopija (%2$s)</item>
+        <item quantity="few">%1$s sigurnosne kopije (%2$s)</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Broj odabranih stavki:%d</item>
+        <item quantity="one">%d odabrana stavka</item>
+        <item quantity="few">Broj odabranih stavki: %d</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Sigurnosna kopija uspješno stvorena. Nije bilo moguće napraviti Sig. kopiju za %d stavki.</item>
+        <item quantity="one">Sigurnosna kopija uspješno stvorena. Nije bilo moguće napraviti Sig. kopiju za %d stavku.</item>
+        <item quantity="few">Sigurnosna kopija uspješno stvorena. Nije bilo moguće napraviti Sig. kopiju za %d stavke.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Uspješno vraćeno. Nije bilo moguće vratiti %d stavki.</item>
+        <item quantity="one">Uspješno vraćeno. Nije bilo moguće vratiti %d stavku.</item>
+        <item quantity="few">Uspješno vraćeno. Nije bilo moguće vratiti %d stavke.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">Prije 1 minute</item>
+        <item quantity="few">prije %d min</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Uvezeno stavki: %d. "</item>
+        <item quantity="one">"Uvezena %d stavka. "</item>
+        <item quantity="few">"Uvezeno stavki: %d. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Uvezite stavke %d ponovno.</item>
+        <item quantity="one">Uvezite %d stavku ponovno.</item>
+        <item quantity="few">Uvezite stavke %d ponovno.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Uvezeno i vraćeno stavki: %d</item>
+        <item quantity="one">Uvezena i vraćena %d stavka</item>
+        <item quantity="few">Uvezeno i vraćeno stavki: %d</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Vraćeno stavki: %d</item>
+        <item quantity="one">Vraćena %d stavka</item>
+        <item quantity="few">Vraćeno stavki: %d</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">stavki</item>
+        <item quantity="one">stavka</item>
+        <item quantity="few">stavki</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d stavki</item>
+        <item quantity="one">%1$s | %2$d stavka</item>
+        <item quantity="few">%1$s | %2$d stavki</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">Stavki %d,</item>
+        <item quantity="one">%d stavka,</item>
+        <item quantity="few">Stavki %d,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">Nije moguće prenijeti %d stavki. Dodirnite za pregled pojedinosti</item>
+        <item quantity="one">Nije moguće prenijeti %d stavku. Dodirnite za pregled pojedinosti.</item>
+        <item quantity="few">Nije moguće prenijeti %d stavke. Dodirnite za pregled pojedinosti</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">Nije moguće prenijeti%d stavke.</item>
+        <item quantity="one">Nije moguće prenijeti%d stavku.</item>
+        <item quantity="few">Nije moguće prenijeti%d stavke.</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sati</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minuta</item>
+    </plurals>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">%2$d തവണ ക്ലിപ്പ്ബോർഡിലെ ഇനങ്ങൾ സ്വയമേവ ആക്സസ്സുചെയ്യുന്നതിന് %1$s-നെ അനുവദിച്ചു</item>
+        <item quantity="one">%2$d തവണ ക്ലിപ്പ്ബോർഡിലെ ഇനങ്ങൾ സ്വയമേവ ആക്സസ്സുചെയ്യുന്നതിന് %1$s-നെ അനുവദിച്ചു</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">%1$s എന്നതിനായി ക്ലിപ്പ്ബോർഡിലേക്ക് ആക്സസ്സ് ചെയ്യാനുള്ള %2$d ശ്രമങ്ങൾ തടഞ്ഞു.</item>
+        <item quantity="one">%1$s എന്നതിനായി ക്ലിപ്പ്ബോർഡിലേക്ക് ആക്സസ്സ് ചെയ്യാനുള്ള %2$d ശ്രമം തടഞ്ഞു.</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%2$d തവണ %1$s ക്ലിപ്പ്ബോർഡിലെ ഇനങ്ങൾ ആക്‌സസ്സുചെയ്തു</item>
+        <item quantity="one">%2$d തവണ %1$s ക്ലിപ്പ്ബോർഡിലെ ഇനങ്ങൾ ആക്‌സസ്സുചെയ്തു</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ഇനങ്ങള്‍ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%d ഇനം തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">നിങ്ങൾ %2$s എന്നതിനെ ക്ലിപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യാൻ %1$d തവണ ഇതിനകം അനുവദിച്ചു. ക്ലീപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യാൻ %3$s എന്നതിനെ എല്ലായ്‌പ്പോഴും അനുവദിക്കണോ?</item>
+        <item quantity="one">നിങ്ങൾ %2$s എന്നതിനെ ക്ലിപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യാൻ %1$d തവണ ഇതിനകം അനുവദിച്ചു. ക്ലീപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യാൻ %3$s എന്നതിനെ എല്ലായ്‌പ്പോഴും അനുവദിക്കണോ?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">നിങ്ങൾ ഇതിനകം %2$s എന്നതിനെ ക്ലിപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യുന്നതിൽ നിന്ന് %1$d തവണ നിയന്ത്രിച്ചു. %3$s എന്നതിനായി ക്ലിപ്പ്ബോർഡിലേക്കുള്ള ആക്സസ് ശാശ്വതമായി നിയന്ത്രിക്കണോ?</item>
+        <item quantity="one">നിങ്ങൾ ഇതിനകം %2$s എന്നതിനെ ക്ലിപ്പ്ബോർഡ് ആക്സസ്സുചെയ്യുന്നതിൽ നിന്ന് %1$d തവണ നിയന്ത്രിച്ചു. %3$s എന്നതിനായി ക്ലിപ്പ്ബോർഡിലേക്കുള്ള ആക്സസ് ശാശ്വതമായി നിയന്ത്രിക്കണോ?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Повідомило користувачів MIUI: %d</item>
+        <item quantity="one">Повідомило користувачів MIUI: %d</item>
+        <item quantity="few">Повідомило користувачів MIUI: %d</item>
+        <item quantity="many">Повідомило користувачів MIUI: %d</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Завершення виклику через %1$s сек…</item>
+        <item quantity="one">Завершення виклику через %1$s сек…</item>
+        <item quantity="few">Завершення виклику через %1$s сек…</item>
+        <item quantity="many">Завершення виклику через %1$s сек…</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Записано %d викликів.</item>
+        <item quantity="one">Записано %d виклик.</item>
+        <item quantity="few">Записано %d виклика.</item>
+        <item quantity="many">Записано %d викликів.</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Повторних викликів: %d</item>
+        <item quantity="one">Повторних викликів: %d</item>
+        <item quantity="few">Повторних викликів: %d</item>
+        <item quantity="many">Повторних викликів: %d</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s людей</item>
+        <item quantity="one">%s людина</item>
+        <item quantity="few">%s людини</item>
+        <item quantity="many">%s людей</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d год</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d год</item>
+        <item quantity="many">%d год</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d cек</item>
+        <item quantity="one">%d cек</item>
+        <item quantity="few">%d cек</item>
+        <item quantity="many">%d cек</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+        <item quantity="few">Обрано: %d</item>
+        <item quantity="many">Обрано: %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
+    </plurals>
+</resources>

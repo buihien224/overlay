@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ପୁରୁଷ</item>
+        <item>ମହିଳା</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>ଆକାଉଣ୍ଟଗୁଡ଼ିକ</item>
+        <item>ତୃତୀୟ ପକ୍ଷ ଆକାଉଣ୍ଟ ଯୋଗ କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ</item>
+        <item>ଆକାଉଣ୍ଟ;SNS;Facebook;Google;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>ଆକାଉଣ୍ଟଗୁଡ଼ିକ</item>
+        <item>ତୃତୀୟ ପକ୍ଷ ଆକାଉଣ୍ଟ ଯୋଗ କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ</item>
+        <item>ଆକାଉଣ୍ଟ;SNS;WeChat;QQ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ</item>
+        <item>Xiaomi ଆକାଉଣ୍ଟ ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ</item>
+        <item>ପାସୱାର୍ଡ ବଦଳାନ୍ତୁ;ପାସୱାର୍ଡ ଅପଡେଟ୍ କରନ୍ତୁ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ପରିବାର ଷ୍ଟୋରେଜ ସ୍ପେସ</item>
+        <item>ପରିବାର ଷ୍ଟୋରେଜ ସ୍ପେସ ଦେଖନ୍ତୁ/ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ପରିବାର ଷ୍ଟୋରେଜ ସ୍ପେସ;ଷ୍ଟୋରେଜ ସେଆରିଂ</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ପରିବାର ସେବାଗୁଡ଼ିକ</item>
+        <item>ପରିବାର ସେବାଗୁଡ଼ିକ ଦେଖନ୍ତୁ/ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ପରିବାର;ପରିବାର ସେବାଗୁଡ଼ିକ;ପରିବାର ସେଆରିଂ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ସାହାଯ୍ୟ</item>
+        <item>Xiaomi ଆକାଉଣ୍ଟ ସାହାଯ୍ୟ ଏବଂ ସହାୟତା ପାଆନ୍ତୁ</item>
+        <item>Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ ସାହାଯ୍ୟ;ସାହାଯ୍ୟ କେନ୍ଦ୍ର</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚକରଣ</item>
+        <item>ଆପଣଙ୍କ Xiaomi ଆକାଉଣ୍ଟ ପାଇଁ 2-ଷ୍ଟେପ୍ ଯାଞ୍ଚକରଣ ସେଟ୍ କରନ୍ତୁ</item>
+        <item>ସାଇନ୍‌ ଇନ୍‌;ଲଗ୍ ଇନ୍;2-ଷ୍ଟେପ;ଯାଞ୍ଚକରଣ;Xiaomi;ଆକାଉଣ୍ଟ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ଆକାଉଣ୍ଟ‌ ସୁରକ୍ଷା</item>
+        <item>ରିକଭରୀ ଫୋନ୍ ଏବଂ ଇମେଲ୍‌, ପାସୱାର୍ଡ ପରିଚାଳନା</item>
+        <item>ଆକାଉଣ୍ଟ ସୁରକ୍ଷା;ସାଇନିଂ ଇନ;ରିକଭରି ଫୋନ;ରିକଭରି ଇମେଲ;ଆକାଉଣ୍ଟ ସୁରକ୍ଷା;ଫୋନ ନମ୍ବର;ଇମେଲ;ପାସୱାର୍ଡ ବଦଳାନ୍ତୁ;ଫୋନ ନମ୍ବର ଯୋଗ କରନ୍ତୁ;ଇମେଲ ଯୋଗ କରନ୍ତୁ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ଡିଭାଇସଗୁଡ଼ିକ</item>
+        <item>ଆପଣଙ୍କ Xiaomi ଆକାଉଣ୍ଟ ସହିତ ସମ୍ବନ୍ଧିତ ଡିଭାଇସଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ</item>
+        <item>ଡିଭାଇସଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ;ମୋ ଡିଭାଇସଗୁଡ଼ିକ;ଡିଭାଇସଗୁଡ଼ିକ;ଡିଭାଇସ ତାଲିକା;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>ଗୋପନୀୟତା ନୀତି</item>
+        <item>Xiaomi ଆକାଉଣ୍ଟ ଗୋପନୀୟତା ନୀତି ଦେଖନ୍ତୁ</item>
+        <item>Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ;ଗୋପନୀୟତା ନୀତି</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ରିକଭରୀ ଇମେଲ୍‌</item>
+        <item>ରିକଭରୀ ଇମେଲ୍‌ ଯୋଗ କରନ୍ତୁ</item>
+        <item>ରିକଭରି ଇମେଲ;ଇମେଲ;ଇମେଲ ଯୋଗ କରନ୍ତୁ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>ରିକଭରୀ ଫୋନ୍‌</item>
+        <item>ରିକଭରୀ ଫୋନ୍ ଯୋଗ କରନ୍ତୁ</item>
+        <item>ରିକଭରି ଫୋନ;ଫୋନ୍ ଯୋଗ କରନ୍ତୁ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>ବିଜ୍ଞାପନ</item>
+        <item>ସିଷ୍ଟମ୍ ବିଜ୍ଞାପନ ପରିଚାଳନା କରନ୍ତୁ</item>
+        <item>ବିଜ୍ଞାପନ;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>ଆକାଉଣ୍ଟ୍‌ ସୂଚନା</item>
+        <item>ଆପଣଙ୍କ ପ୍ରୋଫାଇଲ ଫଟୋ ଦେଖନ୍ତୁ ଏବଂ ଆକାଉଣ୍ଟ ସୂଚନା ପରିଚାଳନା କରନ୍ତୁ</item>
+        <item>ବ୍ୟକ୍ତିଗତ ସୂଚନା;ପ୍ରୋଫାଇଲ ଫଟୋ;ଡାକନାମ;ଆକାଉଣ୍ଟ ସୂଚନା;Mi ID;ID;Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ଉପଭୋକ୍ତା ଚୁକ୍ତି</item>
+        <item>ଉପଭୋକ୍ତା ଚୁକ୍ତି</item>
+        <item>Mi ଆକାଉଣ୍ଟ;ଆକାଉଣ୍ଟ;Xiaomi ଆକାଉଣ୍ଟ;ଉପଭୋକ୍ତା ଚୁକ୍ତି;EULA</item>
+    </string-array>
+</resources>

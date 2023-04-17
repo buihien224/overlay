@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>গৃহ</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ/গৃহ</item>
+        <item>পৃথিৱী;চুপাৰ ৱালপেপাৰ;পৃথিৱী সংস্কৰণ;ৱালপেপাৰ</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>জ্যামিতি</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ/জ্যামিতি</item>
+        <item>জ্যামিতি;বিমূৰ্ত;চুপাৰ ৱালপেপাৰ;ৱালপেপাৰ</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>ৰঙা গ্ৰহ</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ/ৰঙা গ্ৰহ</item>
+        <item>মংগল;মংগল সংস্কৰণ;চুপাৰ ৱালপেপাৰ;ৱালপেপাৰ</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>শণিগ্ৰহৰ আঙুঠি</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ/শণিগ্ৰহৰ আঙুঠি</item>
+        <item>গ্ৰহ;শণি;চুপাৰ ৱালপেপাৰ;ৱালপেপাৰ</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>বৰফময় শিখৰসমূহ</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ/বৰফময় শিখৰসমূহ</item>
+        <item>পৃথিৱী;পৰ্বতসমূহ;চুপাৰ ৱালপেপাৰ;ৱালপেপাৰ</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>চুপাৰ ৱালপেপাৰ</item>
+        <item>ৱালপেপাৰ/চুপাৰ ৱালপেপাৰ</item>
+        <item>চুপাৰ ৱালপেপাৰ;ৱালপেপাৰ;ডাইনামিক ৱালপেপাৰ;3D ৱালপেপাৰ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני יום אחד (%d)</item>
+        <item quantity="two">לפני יומיים (%d)</item>
+        <item quantity="many">לפני %d ימים</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה (%d)</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">לפני %d שנים</item>
+        <item quantity="one">לפני שנה (%d)</item>
+        <item quantity="two">לפני %d שנים</item>
+        <item quantity="many">לפני %d שנים</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">נוספו %s פקדים.</item>
+        <item quantity="one">נוסף פקד אחד (%s).</item>
+        <item quantity="two">נוספו %s פקדים.</item>
+        <item quantity="many">נוספו %s פקדים.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s אפליקציות פעילות</item>
+        <item quantity="one">אפליקציה אחת (%s) פעילה</item>
+        <item quantity="two">%s אפליקציות פעילות</item>
+        <item quantity="many">%s אפליקציות פעילות</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">‏יש להזין קוד אימות של כרטיס SIM. נותרו לך %d ניסיונות נוספים.</item>
+        <item quantity="one">‏יש להזין קוד אימות של כרטיס SIM. נותר לך ניסיון נוסף (%d) לפני שיהיה צורך ליצור קשר עם הספק כדי לבטל את נעילת המכשיר.</item>
+        <item quantity="two">‏יש להזין קוד אימות של כרטיס SIM. נותרו לך %d ניסיונות נוספים.</item>
+        <item quantity="many">‏יש להזין קוד אימות של כרטיס SIM. נותרו לך %d ניסיונות נוספים.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">‏כרטיס ה-SIM מושבת כעת. יש להזין קוד PUK כדי להמשיך. נותרו לך %d ניסיונות נוספים לפני שכרטיס ה-SIM יינעל באופן סופי. למידע נוסף, ניתן לפנות לספק שלך.</item>
+        <item quantity="one">‏כרטיס ה-SIM מושבת כעת. יש להזין קוד PUK כדי להמשיך. נותר לך ניסיון אחד (%d) נוסף לפני שכרטיס ה-SIM יינעל באופן סופי. למידע נוסף, ניתן לפנות לספק שלך.</item>
+        <item quantity="two">‏כרטיס ה-SIM מושבת כעת. יש להזין קוד PUK כדי להמשיך. נותרו לך %d ניסיונות נוספים לפני שכרטיס ה-SIM יינעל באופן סופי. למידע נוסף, ניתן לפנות לספק שלך.</item>
+        <item quantity="many">‏כרטיס ה-SIM מושבת כעת. יש להזין קוד PUK כדי להמשיך. נותרו לך %d ניסיונות נוספים לפני שכרטיס ה-SIM יינעל באופן סופי. למידע נוסף, ניתן לפנות לספק שלך.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏קוד האימות של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות.</item>
+        <item quantity="one">‏קוד האימות של כרטיס ה-SIM שגוי. נותר לך עוד ניסיון %d לפני שיהיה עליך ליצור קשר עם הספק כדי לבטל את נעילת המכשיר.</item>
+        <item quantity="two">‏קוד האימות של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות.</item>
+        <item quantity="many">‏קוד האימות של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
+        <item quantity="one">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותר לך ניסיון %d נוסף לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
+        <item quantity="two">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
+        <item quantity="many">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">עוד %s התראות נוספות.</item>
+        <item quantity="one">יש התראה נוספת.%s.</item>
+        <item quantity="two">עוד %s התראות נוספות.</item>
+        <item quantity="many">עוד %s התראות.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">‏%d מכשירים</item>
+        <item quantity="one">מכשיר אחד</item>
+        <item quantity="two">‏%d מכשירים</item>
+        <item quantity="many">‏%d מכשירים</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">‏%d שעות</item>
+        <item quantity="one">שעה</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">‏%d שעות</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">‏%d דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">‏%d דקות</item>
+        <item quantity="many">‏%d דקות</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">ניתן להוסיף עד %d משתמשים.</item>
+        <item quantity="one">ניתן ליצור רק משתמש אחד.</item>
+        <item quantity="two">ניתן להוסיף עד %d משתמשים.</item>
+        <item quantity="many">ניתן להוסיף עד %d משתמשים.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Voor toegang tot en het opslaan en overzetten van afbeeldingen, apps en andere bestanden</item>
+        <item>Voor het overzetten van bestanden met bluetooth en wifi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Voor het verzenden en ontvangen van bestanden</item>
+        <item>Voor het overzetten van bestanden via Bluetooth en Wifi</item>
+        <item>Voor het vinden van beschikbare apparaten in de buurt via Bluetooth</item>
+        <item>Voor het vinden van beschikbare apparaten in de buurt en het overzetten van bestanden via wifi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

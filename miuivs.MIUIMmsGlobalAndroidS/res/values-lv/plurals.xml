@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pirms 1 stundas</item>
+        <item quantity="zero">Pirms 1 stundas</item>
+        <item quantity="one">Pirms 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pirms 1 stundas</item>
+        <item quantity="zero">Pirms 1 stundas</item>
+        <item quantity="one">Pirms 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Pēc 1 stundas</item>
+        <item quantity="zero">Pēc 1 stundas</item>
+        <item quantity="one">Pēc 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="zero">pēc %d minūtēm</item>
+        <item quantity="one">pēc 1 minūtes</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Izdzēst %1$s ziņas?</item>
+        <item quantity="zero">Izdzēst %1$s ziņas?</item>
+        <item quantity="one">Izdzēst %1$s ziņu?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d ziņas</item>
+        <item quantity="zero">%d ziņas</item>
+        <item quantity="one">%d ziņa</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d ziņas nav sinhronizētas</item>
+        <item quantity="zero">%d ziņas nav sinhronizētas</item>
+        <item quantity="one">%d ziņa nav sinhronizēta</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Dzēst %1$s izvēlētās sarunas?</item>
+        <item quantity="zero">Dzēst %1$s izvēlētās sarunas?</item>
+        <item quantity="one">Dzēst %1$s izvēlēto sarunu?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d izvēlētie</item>
+        <item quantity="zero">%d izvēlētie</item>
+        <item quantity="one">%d izvēlētie</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Saņemts ziņojums no %1$s un %2$d citiem cilvēkiem</item>
+        <item quantity="zero">Saņemts ziņojums no %1$s un %2$d citiem cilvēkiem</item>
+        <item quantity="one">Saņemts ziņojums no %1$s un %2$d citas personas</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">Neizdevās nosūtīt %d kontaktiem</item>
+        <item quantity="zero">Neizdevās nosūtīt %d kontaktiem</item>
+        <item quantity="one">Neizdevās nosūtīt %d kontaktam</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d ziņas</item>
+        <item quantity="zero">%d ziņas</item>
+        <item quantity="one">%d ziņa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Pēc 1 stundas</item>
+        <item quantity="zero">Pēc 1 stundas</item>
+        <item quantity="one">Pēc 1 stundas</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="zero">pēc %d minūtēm</item>
+        <item quantity="one">pēc 1 minūtes</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d cilvēku atzīmējuši kā %2$s</item>
+        <item quantity="zero">%1$d cilvēku atzīmējuši kā %2$s</item>
+        <item quantity="one">%1$d cilvēks atzīmējis kā %2$s</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s ziņas</item>
+        <item quantity="zero">%1$s ziņas</item>
+        <item quantity="one">%1$s ziņa</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Izvēlēti %d vienumi</item>
+        <item quantity="zero">Izvēlēti %d vienumi</item>
+        <item quantity="one">Izvēlēts %d vienums</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s ziņas | "</item>
+        <item quantity="zero">"%s ziņas | "</item>
+        <item quantity="one">"%s ziņa | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Atsaukt (%ds)</item>
+        <item quantity="zero">Atsaukt (%ds)</item>
+        <item quantity="one">Atsaukt (%ds)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Jūs esat saņēmis %d grupas tērzēšanas ielūgumus</item>
+        <item quantity="zero">Jūs esat saņēmis %d grupas tērzēšanas ielūgumus</item>
+        <item quantity="one">Jūs esat saņēmis %d grupas tērzēšanas ielūgumu</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s cilvēki</item>
+        <item quantity="zero">%1$s cilvēki</item>
+        <item quantity="one">%1$s cilvēks</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultāti \"%2$s\"</item>
+        <item quantity="zero">%1$s rezultāti \"%2$s\"</item>
+        <item quantity="one">%1$s rezultāts \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">Nosūtītas %1$s ziņas</item>
+        <item quantity="zero">Nosūtītas %1$s ziņas</item>
+        <item quantity="one">Nosūtīta %1$s ziņa</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d sek</item>
+        <item quantity="zero">%d sek</item>
+        <item quantity="one">%d sek</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d sek</item>
+        <item quantity="zero">%d sek</item>
+        <item quantity="one">%d sek</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d laikiestatītas ziņas netika nosūtītas</item>
+        <item quantity="zero">%d laikiestatītas ziņas netika nosūtītas</item>
+        <item quantity="one">%d laikiestatīta ziņa netika nosūtīta</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d ziņas)</item>
+        <item quantity="zero">(%d ziņas)</item>
+        <item quantity="one">(%d ziņa)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d adresāti</item>
+        <item quantity="zero">%d adresāti</item>
+        <item quantity="one">%d adresāts</item>
+    </plurals>
+</resources>

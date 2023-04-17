@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>পুৰুষ</item>
+        <item>নাৰী</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>একাউণ্টসমূহ</item>
+        <item>তৃতীয় পক্ষৰ একাউণ্ট যোগ আৰু ব্যৱস্থাপন কৰক</item>
+        <item>একাউণ্ট;SNS;Facebook;Google;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>একাউণ্টসমূহ</item>
+        <item>তৃতীয় পক্ষৰ একাউণ্ট যোগ আৰু ব্যৱস্থাপন কৰক</item>
+        <item>একাউণ্ট;SNS;WeChat;QQ;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>পাছৱৰ্ড পৰিৱৰ্তন কৰক</item>
+        <item>Xiaomi একাউণ্টৰ পাছৱৰ্ড পৰিৱৰ্তন কৰক</item>
+        <item>পাছৱৰ্ড পৰিৱৰ্তন;পাছৱৰ্ড আপডেট;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>পৰিয়ালৰ সংগ্ৰহণ স্থান</item>
+        <item>পৰিয়ালৰ সংগ্ৰহণ স্থান দৰ্শন/অন কৰক</item>
+        <item>পৰিয়ালৰ সংগ্ৰহণ স্থান;সংগ্ৰহণ ভাগ-বতৰা</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>পৰিয়ালৰ সেৱাসমূহ</item>
+        <item>পৰিয়ালৰ সেৱাসমূহ দৰ্শন/অন কৰক</item>
+        <item>পৰিয়াল;পৰিয়ালৰ সেৱাসমূহ;পৰিয়ালৰ ভাগ-বতৰা</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>সহায়</item>
+        <item>Xiaomi একাউণ্ট সহায় আৰু সমৰ্থন লাভ কৰক</item>
+        <item>Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট;একাউণ্ট সহায়;সহায় কেন্দ্ৰ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2 টা-স্তৰৰ সত্যাপন</item>
+        <item>আপোনাৰ Xiaomi একাউণ্টৰ বাবে 2 টা-স্তৰৰ সত্যাপন ছেট কৰক</item>
+        <item>ছাইন ইন;লগ ইন;2 টা-স্তৰ;সত্যাপন;Xiaomi;একাউণ্ট;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>একাউণ্ট নিৰাপত্তা</item>
+        <item>পুনৰুদ্ধাৰ ফোন আৰু ইমেইল, পাছৱৰ্ড মেনেজমেণ্ট</item>
+        <item>একাউণ্ট নিৰাপত্তা;ছাইন ইন;পুনৰুদ্ধাৰ ফোন;পুনৰুদ্ধাৰ ইমেইল;একাউণ্ট সুৰক্ষা;ফোন নম্বৰ;ইমেইল;পাছৱৰ্ড পৰিৱৰ্তন;ফোন নম্বৰ যোগ;ইমেইল যোগ;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ডিভাইচ</item>
+        <item>আপোনাৰ Xiaomi একাউণ্টৰ সৈতে সম্পৰ্কিত ডিভাইচ ব্যৱস্থাপন কৰক</item>
+        <item>ডিভাইচ ব্যৱস্থাপন;মোৰ ডিভাইচসমূহ;ডিভাইচসমূহ;ডিভাইচ সূচী;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>গোপনীয়তাৰ নীতি</item>
+        <item>Xiaomi একাউণ্টৰ গোপনীয়তাৰ নীতি দৰ্শন কৰক</item>
+        <item>Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট;গোপনীয়তাৰ নীতি</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>পুনৰুদ্ধাৰ ইমেইল</item>
+        <item>পুনৰুদ্ধাৰ ইমেইল যোগ কৰক</item>
+        <item>পুনৰুদ্ধাৰ ইমেইল;ইমেইল;ইমেইল যোগ;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>পুনৰুদ্ধাৰ ফোন</item>
+        <item>পুনৰুদ্ধাৰ ফোন যোগ কৰক</item>
+        <item>পুনৰুদ্ধাৰ ফোন;ফোন যোগ;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>বিজ্ঞাপন</item>
+        <item>ছিষ্টেম বিজ্ঞাপন ব্যৱস্থাপন কৰক</item>
+        <item>বিজ্ঞাপন;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>একাউণ্টৰ তথ্য</item>
+        <item>"আপোনাৰ প্ৰ'ফাইল ফটো দৰ্শন আৰু একাউণ্ট তথ্য ব্যৱস্থাপন কৰক"</item>
+        <item>"ব্যক্তিগত তথ্য;প্ৰ'ফাইল ফটো;উপনাম;একাউণ্ট তথ্য;Mi আইডি;আইডি;Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট"</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>ব্যৱহাৰকাৰীৰ চুক্তি</item>
+        <item>ব্যৱহাৰকাৰীৰ চুক্তি</item>
+        <item>Mi একাউণ্ট;একাউণ্ট;Xiaomi একাউণ্ট;ব্যৱহাৰকাৰীৰ চুক্তি;EULA</item>
+    </string-array>
+</resources>

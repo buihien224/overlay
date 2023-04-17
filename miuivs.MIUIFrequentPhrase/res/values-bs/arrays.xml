@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Zaglavlje fakture: *** Inc.</item>
+        <item>Adresa: Ulica, stan, grad, zemlja/regija, provincija, poštanski broj</item>
+        <item>Molim Vas ostavite paket pred vratima. Hvala Vam!</item>
+        <item>Pričekajte malo, vraćam se ubrzo.</item>
+        <item>Na sastanku sam. Molim Vas pošaljite SMS.</item>
+        <item>Ne mogu pričati sada. Pozvat ću Vas čim to bude moguće.</item>
+        <item>Hvala!</item>
+    </string-array>
+</resources>

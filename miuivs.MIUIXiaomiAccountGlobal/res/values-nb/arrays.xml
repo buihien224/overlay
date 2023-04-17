@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mann</item>
+        <item>Kvinne</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Kontoer</item>
+        <item>Legg til og administrer tredjepartskontoer</item>
+        <item>Kontoer;SNS;Facebook;Google;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Kontoer</item>
+        <item>Legg til og administrer tredjepartskontoer</item>
+        <item>Kontoer;SNS;WeChat;QQ;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Endre passord</item>
+        <item>Endre passord for Mi-konto</item>
+        <item>Endre passord;Oppdater passord;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Familielagringsplass</item>
+        <item>Vis / Skru på familielagringsplass</item>
+        <item>Familielagringsplass;Lagringsdeling</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familietjenester</item>
+        <item>Se / slå på familietjenester</item>
+        <item>Familie;Familietjenester;Familiedeling</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Hjelp</item>
+        <item>Få hjelp og støtte til Mi-kontoen din</item>
+        <item>Mi-konto;Konto;Kontohjelp;Hjelpesenter</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Totrinnsverifisering</item>
+        <item>Angi totrinnsverifisering for Mi-kontoen din</item>
+        <item>Logg inn;Logg på;Totrinns;verifikasjon;Xiaomi;Konto;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Kontosikkerhet</item>
+        <item>Telefonnummer og e-postadresse for gjenoppretting, passordbehandling</item>
+        <item>Kontosikkerhet;Logge på;Telefon for gjenoppretting;E-postadresse for gjenoppretting;Kontobeskyttelse;Telefonnummer;E-postadresse;Endre passord;Legg til telefonnummer;Legg til e-postadresse;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Enheter</item>
+        <item>Administrer enheter knyttet til Mi-kontoen din</item>
+        <item>Administrer enheter;Mine enheter;Enheter;Enhetsliste;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Personvernerklæring</item>
+        <item>Vis personvernerklæring for Mi-konto</item>
+        <item>Mi-konto;Konto;Personvernerklæring</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-postadresse for gjenoppretting</item>
+        <item>Legg til e-postadresse for gjenoppretting</item>
+        <item>E-postadresse for gjenoppretting;E-postadresse;Legg til e-postadresse;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefonnummer for gjenoppretting</item>
+        <item>Legg til telefonnummer for gjenoppretting</item>
+        <item>Telefon for gjenoppretting;Legg til telefon;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Annonser</item>
+        <item>Administrer systemannonser</item>
+        <item>Annonser;Mi-konto;Konto;Mi-konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontoinformasjon</item>
+        <item>Vis profilbildet og administrer kontoinformasjon</item>
+        <item>Personlig informasjon;profilbilde;kallenavn;kontoinformasjon;Mi-ID;ID;Mi-konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Brukeravtale</item>
+        <item>Brukeravtale</item>
+        <item>Mi-konto;Konto;Brukeravtale;Lisensavtale for sluttbrukere</item>
+    </string-array>
+</resources>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>ไม่มี</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>ราศีกุมภ์</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>ราศีเมษ</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>บูนเดสลิกา</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>ราศีกรกฎ</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>ราศีมกร</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>เฉพาะกำหนดการนี้</item>
+        <item>กำหนดการทั้งหมดในซีรีส์</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>ไปข้างหน้า</item>
+        <item>ย้อนหลัง</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>เวลากำหนดการ</item>
+        <item>ก่อน 5 นาที</item>
+        <item>ก่อน 15 นาที</item>
+        <item>ก่อน 30 นาที</item>
+        <item>ก่อน 1 ชั่วโมง</item>
+        <item>ก่อน 4 ชั่วโมง</item>
+        <item>ก่อน 1 วัน</item>
+        <item>ก่อน 2 วัน</item>
+        <item>ก่อน 1 สัปดาห์</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>เฉพาะกำหนดการนี้</item>
+        <item>กำหนดการนี้และในอนาคต</item>
+        <item>กำหนดการทั้งหมด</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>ราศีเมถุน</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>ลาลิก้า</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>ราศีสิงห์</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>ราศีตุล</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+        <item>วันอังคาร</item>
+        <item>วันพุธ</item>
+        <item>วันพฤหัสบดี</item>
+        <item>วันศุกร์</item>
+        <item>วันเสาร์</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>ราศีมีน</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>เสมอ</item>
+        <item>เมื่อปิดเสียงเรียกเข้าเท่านั้น</item>
+        <item>ไม่ต้อง</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ภูมิภาคเริ่มต้น</item>
+        <item>วันเสาร์</item>
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ไม่ต้อง</item>
+        <item>เวลา</item>
+        <item>จำนวนครั้ง</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>มกรา</item>
+        <item>กุมภา</item>
+        <item>มีนา</item>
+        <item>เมษา</item>
+        <item>พฤษภา</item>
+        <item>มิถุนา</item>
+        <item>กรกฎา</item>
+        <item>สิงหา</item>
+        <item>กันยา</item>
+        <item>ตุลา</item>
+        <item>พฤศจิกา</item>
+        <item>ธันวา</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>แรก</item>
+        <item>สอง</item>
+        <item>ที่สาม</item>
+        <item>ที่สี่</item>
+        <item>สุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>จันทร์ - ศุกร์</item>
+        <item>วันหยุดสุดสัปดาห์</item>
+        <item>ตลอดทั้งสัปดาห์</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัส</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ไม่ต้อง</item>
+        <item>ทุกเดือน</item>
+        <item>ทุกปี</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>วัน</item>
+        <item>สัปดาห์</item>
+        <item>เดือน</item>
+        <item>ปี</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>วันจันทร์แรก</item>
+        <item>วันอังคารแรก</item>
+        <item>วันพุธแรก</item>
+        <item>วันพฤหัสบดีแรก</item>
+        <item>วันศุกร์แรก</item>
+        <item>วันเสาร์แรก</item>
+        <item>วันอาทิตย์แรก</item>
+        <item>วันจันทร์ที่สอง</item>
+        <item>วันอังคารที่สอง</item>
+        <item>วันพุธที่สอง</item>
+        <item>วันพฤหัสบดีที่สอง</item>
+        <item>วันศุกร์ที่สอง</item>
+        <item>วันเสาร์ที่สอง</item>
+        <item>วันอาทิตย์ที่สอง</item>
+        <item>วันจันทร์ที่สาม</item>
+        <item>วันอังคารที่สาม</item>
+        <item>วันพุธที่สาม</item>
+        <item>วันพฤหัสบดีที่สาม</item>
+        <item>วันศุกร์ที่สาม</item>
+        <item>วันเสาร์ที่สาม</item>
+        <item>วันอาทิตย์ที่สาม</item>
+        <item>วันจันทร์ที่สี่</item>
+        <item>วันอังคารที่สี่</item>
+        <item>วันพุธที่สี่</item>
+        <item>วันพฤหัสบดีที่สี่</item>
+        <item>วันศุกร์ที่สี่</item>
+        <item>วันเสาร์ที่สี่</item>
+        <item>วันอาทิตย์ที่สี่</item>
+        <item>วันจันทร์สุดท้าย</item>
+        <item>วันอังคารสุดท้าย</item>
+        <item>วันพุธสุดท้าย</item>
+        <item>วันพฤหัสบดีสุดท้าย</item>
+        <item>วันศุกร์สุดท้าย</item>
+        <item>วันเสาร์สุดท้าย</item>
+        <item>วันอาทิตย์สุดท้าย</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>ไม่มีการตอบสนอง</item>
+        <item>ใช่</item>
+        <item>อาจจะ</item>
+        <item>ไม่</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>ราศีธนู</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>ราศีพิจิก</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>กัลโช่ซิลิอา</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>ราศีพฤษภ</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>หมู่เกาะมาร์แชลล์</item>
+        <item>เกาะมิดเวย์</item>
+        <item>รัฐฮาวาย</item>
+        <item>รัฐอะแลสกา</item>
+        <item>เวลามาตรฐานแปซิฟิก (PST)</item>
+        <item>ตีฮัวนา</item>
+        <item>รัฐแอริโซนา</item>
+        <item>รัฐชีวาวา</item>
+        <item>โซนเวลาเมาน์เทน (MT)</item>
+        <item>อเมริกากลาง</item>
+        <item>โซนเวลากลาง (CT)</item>
+        <item>เม็กซิโกซิตี</item>
+        <item>รัฐซัสแคตเชวัน</item>
+        <item>โบโกตา</item>
+        <item>โซนเวลาตะวันออก (ET)</item>
+        <item>เวเนซุเอลา</item>
+        <item>โซนเวลาแอตแลนติก (บาร์เบโดส)</item>
+        <item>โซนเวลาแอตแลนติก (แคนาดา)</item>
+        <item>มาเนาส์</item>
+        <item>ซานเตียโก</item>
+        <item>รัฐนิวฟันด์แลนด์</item>
+        <item>บราซีเลีย</item>
+        <item>บัวโนสไอเรส</item>
+        <item>กรีนแลนด์</item>
+        <item>มอนเตวิเดโอ</item>
+        <item>ไมด์-แอตแลนติก</item>
+        <item>อะโซร์ส</item>
+        <item>กาบูเวร์ดี</item>
+        <item>กาซาบล็องกา</item>
+        <item>ลอนดอน ดับลิน</item>
+        <item>อัมสเตอร์ดัม เบอร์ลิน</item>
+        <item>เบลเกรด</item>
+        <item>บรัสเซลส์</item>
+        <item>ซาราเยโว</item>
+        <item>วินด์ฮุก</item>
+        <item>โซนเวลาแอฟริกาตะวันตก (WAT)</item>
+        <item>อัมมาน จอร์แดน</item>
+        <item>เอเธนส์ อิสตันบูล</item>
+        <item>เบรุต เลบานอน</item>
+        <item>ไคโร</item>
+        <item>เฮลซิงกิ</item>
+        <item>เยลูซาเลม</item>
+        <item>มินสค์</item>
+        <item>ฮาราเร</item>
+        <item>แบกแดด</item>
+        <item>มอสโค</item>
+        <item>คูเวต</item>
+        <item>ไนโรบี</item>
+        <item>เตหะราน</item>
+        <item>บากู</item>
+        <item>ทบิลีซี</item>
+        <item>เยเรวาน</item>
+        <item>ดูไบ</item>
+        <item>คาบูล</item>
+        <item>อิสลามาบาด การาจี</item>
+        <item>ออรัล อัค โซล</item>
+        <item>เยคาเตรินบุร์ก</item>
+        <item>โกลกาตา</item>
+        <item>ศรีลันกา</item>
+        <item>กาฐมาณฑุ</item>
+        <item>อัสตานา</item>
+        <item>ย่างกุ้ง</item>
+        <item>ครัสโนยาสค์</item>
+        <item>กรุงเทพ</item>
+        <item>ปักกิ่ง</item>
+        <item>ฮ่องกง</item>
+        <item>มาเก๊า</item>
+        <item>สิงค์โปร์</item>
+        <item>อีร์คุตสค์</item>
+        <item>กัวลาลัมเปอร์</item>
+        <item>เพิร์ธ</item>
+        <item>ไทเป</item>
+        <item>โซล</item>
+        <item>โตเกียว โอซาก้า</item>
+        <item>โซล</item>
+        <item>แอดิเลด</item>
+        <item>ดาร์วิน</item>
+        <item>บริสเบน</item>
+        <item>ดาร์วิน</item>
+        <item>ซิดนีย์ แคนเบอร์รา</item>
+        <item>วลาดีวอสตอค</item>
+        <item>กวม</item>
+        <item>มากาดาน</item>
+        <item>โอ๊คแลนด์</item>
+        <item>ฟิจิ</item>
+        <item>ตองกา</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 ชั่วโมงก่อน</item>
+        <item>4 ชั่วโมงก่อน</item>
+        <item>5 ชั่วโมงก่อน</item>
+        <item>6 ชั่วโมงก่อน</item>
+        <item>ก่อน 1 วัน</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>ราศีกันย์</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>แจ่มใส</item>
+        <item>มีเมฆมาก</item>
+        <item>มืดครึ้ม</item>
+        <item>หมอก</item>
+        <item>พายุหนัก</item>
+        <item>พายุ</item>
+        <item>พายุฟ้าคะนอง</item>
+        <item>ฝนฟ้าคะนอง</item>
+        <item>ฝนตก</item>
+        <item>ฝนตกหนัก</item>
+        <item>ฝนตก</item>
+        <item>ฝนเล็กน้อย</item>
+        <item>ฝนและหิมะ</item>
+        <item>พายุหิมะ</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกหนัก</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>พายุทรายรุนแรง</item>
+        <item>พายุทราย</item>
+        <item>ฝุ่นละออง</item>
+        <item>พายุทรายเล็กน้อย</item>
+        <item>ลูกเห็บตก</item>
+        <item>ทัศนวิสัยต่ำ</item>
+        <item>มีเมฆหมอก</item>
+        <item>ฝนเยือกแข็ง</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>อา.</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>โปร่งแสง</item>
+        <item>พื้นหลังสีขาว</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

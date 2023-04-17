@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Početna</item>
+        <item>Pozadina/Super pozadine/Početna</item>
+        <item>Zemlja;Super pozadine;Izdanje Zemlja;Pozadina</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Pozadina/Super pozadine/Geometrija</item>
+        <item>Geometrija;Uzorak;Super pozadina;Pozadina</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Crveni planet</item>
+        <item>Pozadina/Super pozadine/Crveni planet</item>
+        <item>Mars;Izdanje Mars;Super pozadine;Pozadina</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Snježni vrhovi</item>
+        <item>Pozadina/Super pozadine/Snježni vrhovi</item>
+        <item>Zemlja;Planine;Super pozadina;Pozadina</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super pozadine</item>
+        <item>Pozadina/Super pozadine</item>
+        <item>Super pozadine;Pozadina;Dinamična pozadina;3D pozadina</item>
+    </string-array>
+</resources>

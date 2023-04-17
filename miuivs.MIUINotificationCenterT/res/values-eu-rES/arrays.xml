@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sailkatu jasotako orduaren arabera</item>
+        <item>Sailkatu jakinarazpen kopuruaren arabera</item>
+        <item>Jakinarazpenak erakutsi dezaketen aplikazioak</item>
+        <item>Jakinarazpenak erakutsi ezin dezaketen aplikazioak</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Erakutsi jakinarazpenen edukia</item>
+        <item>Ez erakutsi blokeo pantailaren jakinarazpenak</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Erakutsi jakinarazpenen edukia</item>
+        <item>Jakinarazpenak erakutsi baina edukia ezkutatu</item>
+        <item>Ez erakutsi blokeo pantailaren jakinarazpenak</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

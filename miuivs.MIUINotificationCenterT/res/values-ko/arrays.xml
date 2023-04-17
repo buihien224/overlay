@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>수신 시간으로 정렬</item>
+        <item>알림의 수로 정렬</item>
+        <item>앱이 알림을 표시할 수 있음</item>
+        <item>앱이 알림을 표시할 수 없음</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>알림 내용 표시</item>
+        <item>잠금화면 알림 표시하지 않음</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>알림 내용 표시</item>
+        <item>내용을 숨긴 알림 표시</item>
+        <item>잠금화면 알림 표시하지 않음</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

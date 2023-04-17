@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Kopējā pieredze</item>
+        <item>Pārnešanas ilgums</item>
+        <item>Procesa vienkāršība</item>
+        <item>Instrukciju skaidrība</item>
+        <item>Šī funkcija ir noderīga</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Ļoti neapmierināts</item>
+        <item>Daži neapmierināti</item>
+        <item>Neitrāls</item>
+        <item>Daži apmierināti</item>
+        <item>Ļoti apmierināts</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Kopējais novērtējums</item>
+        <item>Pārnešanas ilgums</item>
+        <item>Procesa vienkāršība</item>
+        <item>Instrukciju skaidrība</item>
+    </string-array>
+</resources>

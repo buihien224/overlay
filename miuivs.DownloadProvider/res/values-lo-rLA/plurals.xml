@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d ໄຟລ໌ກຳລັງດາວໂຫຼດ</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d ໄຟລ໌ກຳລັງລໍຖ້າ</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">ກຳລັງດາວໂຫຼດ %1$d ໄຟລ໌</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">ບໍ່ສາມາດດາວໂຫຼດ %1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">ດາວໂຫຼດແລ້ວ %1$d</item>
+    </plurals>
+</resources>

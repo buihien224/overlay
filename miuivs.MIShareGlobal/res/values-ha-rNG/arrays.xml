@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Na isowa da ajiyewar hotuna, manhaja, da wasu fayiloli, har da aikawar abubuwa</item>
+        <item>Na aikawar fayiloli da Bluetooth da Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Na isowa da ajiyewar hotuna, manhaja, da wasu fayiloli, har da aikawar abubuwa</item>
+        <item>Na aikawar fayiloli da Bluetooth da WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Na aikawar da karbar fayiloli</item>
+        <item>Na aikawar fayiloli da Bluetooth da Wi-Fi</item>
+        <item>"Na samun na'urori da akwai a kusa ta hanyar amfani da Bluetooth"</item>
+        <item>"Na samun na'urorin da akwai kusa da aikawar fayiloli ta Wi-Fi"</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Na aikawar da karbar fayiloli</item>
+        <item>Na aikawar fayiloli da Bluetooth da WLAN</item>
+        <item>"Na samun na'urori da akwai a kusa ta hanyar amfani da Bluetooth"</item>
+        <item>"Na samun na'urorin da akwai kusa da aikawar fayiloli ta WLAN"</item>
+    </string-array>
+</resources>

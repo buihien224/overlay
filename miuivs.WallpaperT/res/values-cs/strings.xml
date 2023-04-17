@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Další možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYP</string>
+    <string name="abc_capital_on">ZAP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Dotaz pro vyhledávání</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet s</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="afternoon">Odpoledne</string>
+    <string name="am">dop.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Ráno</string>
+    <string name="earth_position_content_0">Přírodní park Kamenjak v Chorvatsku patří jednoznačně k místům s největším množstvím úchvatných výhledů podél pobřeží Středozemního moře. Působivé geologické útvary proměnily toto místo v ráj potápěčů. Každé léto přilákají slunce a teplé středomořské vody bezpočet turistů a sportovních nadšenců.</string>
+    <string name="earth_position_content_1">"Ačkoli jsou terasovitá pole výsledkem lidské činnosti, dnes slouží jako vynikající příklad přírodní památky.
+V Číně se rýžové terasy nacházejí především na jih od Dlouhé řeky (Jang-c’-ťiang), v oblastech s velkým množstvím dešťových srážek a pohoří. Terasy Longji jsou tu již více než 700 let. V nedalekých vesnicích je také zároveň možné najít nespočet historických památek."</string>
+    <string name="earth_position_content_2">Ilulissat se nachází v západním Grónsku, 200 km severně od polárního kruhu. Úžasný 56 km dlouhý ledovcový fjord Ilulissat se nachází hned vedle ledovce Jakobshavn Isbræ. Jako největší ledovec na severní polokouli produkuje každý rok 2 miliardy tun ledových ker. Po krátké odbočce na sever, se tyto kry opět stáčí na jih a odtékají do Atlantického oceánu.</string>
+    <string name="earth_position_content_3">Navagio je jedna z nejkrásnějších pláží na pobřeží řeckého ostrova Zakynthos, který je součástí Jónských ostrovů. Mezi lidmi je tato pláž přezdívána \"Zátoka pašeráků\", kvůli vraku pašerácké lodi který je zde dodnes k vidění.</string>
+    <string name="earth_position_content_4">Dolomity jsou pohoří nacházející se v severovýchodní Itálii. V jeho srdci leží hora Seceda, která je považována za jedno z nejmalebnějších míst v okolí.</string>
+    <string name="earth_position_title_0">"Chorvatsko
+Kamenjak"</string>
+    <string name="earth_position_title_1">"Kuang-si, Čína
+Rýžové terasy Longji"</string>
+    <string name="earth_position_title_2">"Grónsko
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Řecko
+Pláž Navagio"</string>
+    <string name="earth_position_title_4">"Itálie
+Dolomity"</string>
+    <string name="earth_summary">Země je kolébkou lidské civilizace</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Země</string>
+    <string name="empty" />
+    <string name="eras_ad">n.l.</string>
+    <string name="eras_bc">př.n.l.</string>
+    <string name="evening">Odpoledne</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d. MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d. M. yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d. MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd. MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min.'"</string>
+    <string name="fmt_time_minute_second">"m'min.' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min.' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">Pátek</string>
+    <string name="friday_short">Pát</string>
+    <string name="friday_shortest">Pát</string>
+    <string name="geometry_summary">Tvary, světlo a barvy</string>
+    <string name="geometry_super_wallpaper_label">Geometrie</string>
+    <string name="geometry_title">Geometrie</string>
+    <string name="mars_position_content_0">"Tato oblast obsahuje útesy, mesy a široká plochá údolí, o nichž se lidé domnívají, že byly způsobeny ledovci pokrytými troskami. V této oblasti byly také nalezeny jílové nerosty, které mají velký význam při hledání důkazů o životě na Marsu.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Vyfoceno v době, kdy vozítko nazvané \"Zvědavost\" na Marsu prozkoumávalo Pahrump Hills v kráteru Gale. Tato oblast obsahuje sedimentární horniny, o nichž se vědci domnívají, že vznikly za přítomnosti vody a tmavé oblasti jsou písek.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis je starobylý odtokový kanál se světle zbarvenými kameny bohatými na jíl. Jílové minerály často uchovávají předchozí mikroskopický život na Zemi. Možná tak jednou nalezneme stopy starověkého života v údolí Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"Vyfoceno v době, kdy vozítko nazvané \"Zvědavost\" na Marsu prozkoumávalo Pahrump Hills v kráteru Gale. Tato oblast obsahuje sedimentární horniny, o nichž se vědci domnívají, že vznikly za přítomnosti vody. Tmavší oblasti jsou písek.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis je říční údolí, jehož stěny jsou v některých částech lemované vroubkovanými hřebeny. Útvary připomínající erozní linie naznačují, že toto údolí bylo vytvořeno následkem průtoku kapaliny.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Oblast Mensae"</string>
+    <string name="mars_position_title_1">Gale (kráter)</string>
+    <string name="mars_position_title_2">"Kráter v
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump Hills</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">Rozlehlé pouště Marsu lidstvo vždy fascinovaly</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">Rudá planeta</string>
+    <string name="midnight">Noc</string>
+    <string name="monday">Pondělí</string>
+    <string name="monday_short">Pon</string>
+    <string name="monday_shortest">Pon</string>
+    <string name="month_april">duben</string>
+    <string name="month_april_short">dub</string>
+    <string name="month_april_shortest">dub</string>
+    <string name="month_august">srpen</string>
+    <string name="month_august_short">srp</string>
+    <string name="month_august_shortest">srp</string>
+    <string name="month_december">prosinec</string>
+    <string name="month_december_short">pro</string>
+    <string name="month_december_shortest">pro</string>
+    <string name="month_february">únor</string>
+    <string name="month_february_short">úno</string>
+    <string name="month_february_shortest">úno</string>
+    <string name="month_january">leden</string>
+    <string name="month_january_short">led</string>
+    <string name="month_january_shortest">led</string>
+    <string name="month_july">červenec</string>
+    <string name="month_july_short">čvc</string>
+    <string name="month_july_shortest">čvc</string>
+    <string name="month_june">červen</string>
+    <string name="month_june_short">čer</string>
+    <string name="month_june_shortest">čer</string>
+    <string name="month_march">březen</string>
+    <string name="month_march_short">bře</string>
+    <string name="month_march_shortest">bře</string>
+    <string name="month_may">kvě</string>
+    <string name="month_may_short">kvě</string>
+    <string name="month_may_shortest">kvě</string>
+    <string name="month_november">listopad</string>
+    <string name="month_november_short">lis</string>
+    <string name="month_november_shortest">lis</string>
+    <string name="month_october">říjen</string>
+    <string name="month_october_short">říj</string>
+    <string name="month_october_shortest">říj</string>
+    <string name="month_september">září</string>
+    <string name="month_september_short">zář</string>
+    <string name="month_september_shortest">zář</string>
+    <string name="morning">Dopoledne</string>
+    <string name="night">Večer</string>
+    <string name="noon">Poledne</string>
+    <string name="pm">odp.</string>
+    <string name="saturday">Sobota</string>
+    <string name="saturday_short">Sob</string>
+    <string name="saturday_shortest">Sob</string>
+    <string name="saturn_summary">Saturnovy prstence jsou tou nejneuvěřitelnější podívanou ve sluneční soustavě</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Vzdálené prstence</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="snowmountain_summary">Sluncem ozářené svahy hory Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">Zasněžené vrcholky</string>
+    <string name="snowmountain_title">Zasněžené vrcholky</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">Neděle</string>
+    <string name="sunday_short">Ned</string>
+    <string name="sunday_shortest">Ned</string>
+    <string name="super_wallpaper_list_label">Super tapety</string>
+    <string name="thursday">Čtvrtek</string>
+    <string name="thursday_short">Čtv</string>
+    <string name="thursday_shortest">Čtv</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Zítra</string>
+    <string name="tuesday">Úterý</string>
+    <string name="tuesday_short">Úte</string>
+    <string name="tuesday_shortest">Úte</string>
+    <string name="wednesday">Středa</string>
+    <string name="wednesday_short">Stř</string>
+    <string name="wednesday_shortest">Stř</string>
+    <string name="yesterday">Včera</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Sashen kara saurin hanyar sadarwa zai ƙare a cikin rana %d. Kuna iya fara fuskantar jinkirin hanyar sadarwa. Sabunta sashen yanzu?</item>
+        <item quantity="one">Sashen kara saurin hanyar sadarwa zai ƙare a cikin rana %d. Kuna iya fara fuskantar jinkirin hanyar sadarwa. Sabunta sashen yanzu?</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">awowi %s</item>
+        <item quantity="one">awowi %s</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">mintuna %s</item>
+        <item quantity="one">mintuna %s</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Da sauran minti %s na amfani da Allo</item>
+        <item quantity="one">Da sauran minti %s na amfani da Allo</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Faktura-goiburua: *** Inc.</item>
+        <item>Helbidea: kalea, apartamentua, hiria, herrialdea/eskualdea, probintzia, postal-kodea</item>
+        <item>Utzi paketea atean. Eskerrik asko!</item>
+        <item>Itxaron minutu bat, laster bueltatuko naiz.</item>
+        <item>Bilera batean nago. Bidali testu mezu bat.</item>
+        <item>Orain ezin dut hitz egin. Ahalik eta lasterren deituko dizut.</item>
+        <item>Eskerrik asko!</item>
+    </string-array>
+</resources>

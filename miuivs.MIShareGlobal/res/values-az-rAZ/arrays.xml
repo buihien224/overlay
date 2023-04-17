@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Şəkil, tətbiq və digər fayllara müraciət etmək, yaddaşda saxlamaq və köçürmək üçün</item>
+        <item>Bluetooth və Wi-Fi istifadə edərək fayl köçürmək üçün</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Şəkil, tətbiq və digər fayllara müraciət etmək, yaddaşda saxlamaq və köçürmək üçün</item>
+        <item>Bluetooth və WLAN istifadə edərək fayl köçürmək üçün</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Faylları göndərmək və qəbul etmək üçün</item>
+        <item>Bluetooth və Wi-Fi istifadə edərək fayl köçürmək üçün</item>
+        <item>Bluetooth istifadə edərək yaxınlıqdakı cihazları tapmaq üçün</item>
+        <item>Yaxınlıqdakı cihazları tapmaq və Wi-Fi istifadə edərək faylları köçürmək üçün</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Faylları göndərmək və qəbul etmək üçün</item>
+        <item>Bluetooth və WLAN istifadə edərək fayl köçürmək üçün</item>
+        <item>Bluetooth istifadə edərək yaxınlıqdakı cihazları tapmaq üçün</item>
+        <item>Yaxınlıqdakı cihazları tapmaq və WLAN istifadə edərək faylları köçürmək üçün</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Účty</item>
+        <item>Přidání a správa účtů třetích stran</item>
+        <item>Účty;SNS;Facebook;Google;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Účty</item>
+        <item>Přidání a správa účtů třetích stran</item>
+        <item>Účty;SNS;WeChat;QQ;Mi účet;Účet;Xiaomi účet</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Změnit heslo</item>
+        <item>Změnit heslo Xiaomi účtu</item>
+        <item>Změnit heslo;Aktualizovat heslo;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Rodinné úložiště</item>
+        <item>Zobrazit/zapnout Rodinné úložiště</item>
+        <item>Rodinné úložiště;Sdílení úložiště</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Rodinné služby</item>
+        <item>Zobrazit/zapnout Rodinné služby</item>
+        <item>Rodina;Rodinné služby;Rodinné sdílení</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Nápověda</item>
+        <item>Nápověda při potížích se Xiaomi účtem</item>
+        <item>Xiaomi účet;Účet;Nápověda účtu;Pomoc;Nápověda;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-stupňové ověření</item>
+        <item>Nastavení 2-stupňového ověření vašeho Xiaomi účtu</item>
+        <item>Přihlášení;Registrace;2-stupňové ověření;Xiaomi;účet;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Zabezpečení účtu</item>
+        <item>Záložní telefonní číslo a e-mail, správa hesla</item>
+        <item>Zabezpečení účtu;Přihlášení;Záložní číslo;Záložní telefonní číslo;Záložní e-mail;Ochrana účtu;Telefonní číslo;E-mail;Změna hesla;Přidat telefonní číslo;Přidat e-mail;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Zařízení</item>
+        <item>Správa zařízení propojených s vaším Xiaomi účtem</item>
+        <item>Správa zařízení;Moje zařízení;Zařízení;Seznam zařízení;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Zásady ochrany osobních údajů</item>
+        <item>Zobrazit Zásad ochrany osobních údajů Xiaomi účtu</item>
+        <item>Mi účet;Účet;Xiaomi účet;Zásady ochrany osobních údajů</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Záložní e-mail</item>
+        <item>Přidat záložní e-mail</item>
+        <item>Záložní e-mail;E-mail;Přidat e-mail;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Záložní číslo</item>
+        <item>Přidat záložní číslo</item>
+        <item>Záložní číslo;Záložní telefonní číslo;Přidat číslo;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklamy</item>
+        <item>Správa systémových reklam</item>
+        <item>Reklamy;Mi účet;Účet;Xiaomi účet</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informace o účtu</item>
+        <item>Zobrazení profilové fotografie a správa informací o účtu</item>
+        <item>Osobní informace;profilová fotografie;přezdívka;informace o účtu;Xiaomi ID;ID;Xiaomi účet;Účet;Mi účet</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Smluvní podmínky</item>
+        <item>Smluvní podmínky</item>
+        <item>Xiaomi účet;Účet;Smluvní podmínky;EULA;Mi účet</item>
+    </string-array>
+</resources>

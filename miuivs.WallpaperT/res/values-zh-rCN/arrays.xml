@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>地球家园</item>
+        <item>壁纸/超级壁纸/地球家园</item>
+        <item>地球;超级地球;超级壁纸;壁纸</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>几何</item>
+        <item>壁纸/超级壁纸/几何</item>
+        <item>几何;超级几何;超级壁纸;壁纸</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>红色火星</item>
+        <item>壁纸/超级壁纸/红色火星</item>
+        <item>火星;超级火星;超级壁纸;壁纸</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>土星环</item>
+        <item>壁纸/超级壁纸/土星环</item>
+        <item>土星;超级土星;超级壁纸;壁纸</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>雪山</item>
+        <item>壁纸/超级壁纸/雪山</item>
+        <item>雪山;超级雪山;超级壁纸;壁纸</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>超级壁纸</item>
+        <item>壁纸/超级壁纸</item>
+        <item>超级壁纸;壁纸;联动壁纸</item>
+    </string-array>
+</resources>

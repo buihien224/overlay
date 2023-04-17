@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_default_name">ຄ່າເລີ່ມຕົ້ນ</string>
+    <string name="calendar_info">ຂໍ້ມູນປະຕິທິນ</string>
+    <string name="calendar_info_error">ຜິດພາດ</string>
+    <string name="calendar_info_events">ເຫດການ: %1$d</string>
+    <string name="calendar_info_events_dirty">ເຫດການ: %1$d | ບໍ່ໄດ້ບັນທຶກ: %2$d</string>
+    <string name="calendar_info_no_calendars">ບໍ່ມີຂໍ້ມູນປະຕິທິນ</string>
+    <string name="calendar_storage">ບ່ອນຈັດເກັບຂໍ້ມູນປະຕິທິນ</string>
+    <string name="channel_description" />
+    <string name="channel_name">ການເຕືອນປະຕິທິນ</string>
+    <string name="cta_notice">ເປີດປະຕິທິນແລະອະນຸຍາດໃຫ້ເຊື່ອມຕໍ່ອິນເຕີເນັດກ່ອນ.</string>
+    <string name="debug_tool_delete_button">ລົບ</string>
+    <string name="debug_tool_email_body">ສິ່ງທີ່ຄັດຕິດມາແມ່ນຖານຂໍ້ມູນປະຕິທິນ, ລວມທັງນັດໝາຍແລະຂໍ້ມູນສ່ວນຕົວ. ກະລຸນາລະມັດລະວັງ.</string>
+    <string name="debug_tool_email_sender_picker">ເລືອກແອັບທີ່ຈະສົ່ງໄຟລ໌ຂອງທ່ານ</string>
+    <string name="debug_tool_email_subject">ຄັດຕິດເຄື່ອງມືແກ້ໄຂຂໍ້ບົກພ່ອງປະຕິທິນແລ້ວ</string>
+    <string name="debug_tool_message">ທ່ານກຳລັງຄັດລອກຖານຂໍ້ມູນປະຕິທິນຂອງທ່ານໄປທີ່ແຜ່ນ SD/ບ່ອນຈັດເກັບຂໍ້ມູນ USB ເຊິ່ງທຸກແອັບສາມາດອ່ານໄດ້ແລະສົ່ງຖານຂໍ້ມູນຜ່ານທາງອີເມວ. ກະລຸນາລົບຂໍ້ມູນຄັດລອກດັ່ງກ່າວທັນທີທີ່ທ່ານສຳຮອງຂໍ້ມູນສຳເລັດແລ້ວຫຼືເມື່ອອີເມວສົ່ງເຖິງປາຍທາງແລ້ວ.</string>
+    <string name="debug_tool_start_button">​ເລີ່ມ​ຕົ້ນ</string>
+    <string name="holiday_data_no_network">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ. ກວດສອບການເຊື່ອມຕໍ່ຂໍ້ມູນຂອງທ່ານແລະລອງອີກຄັ້ງ.</string>
+    <string name="holiday_data_update_failed">ບໍ່ສາມາດອັບເດດໄດ້. ກວດສອບການເຊື່ອມຕໍ່ຂໍ້ມູນຂອງທ່ານແລະລອງອີກຄັ້ງ.</string>
+    <string name="holiday_data_update_succeed">ການອັບເດດສຳເລັດແລ້ວ</string>
+    <string name="holiday_data_updating">ກຳລັງອັບເດດ…</string>
+    <string name="holiday_update_summary">ແຕະເພື່ອອັບເດດຂໍ້ມູນປະຕິທິນ.</string>
+    <string name="holiday_update_title">ມີການ​ອັບ​ເດດ</string>
+    <string name="provider_label">ປະຕິທິນ</string>
+    <string name="upgrade_msg">ກຳລັງອັບເດດຖານຂໍ້ມູນປະຕິທິນ…</string>
+</resources>

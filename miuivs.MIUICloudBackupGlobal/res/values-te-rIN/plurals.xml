@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">మీరు %s వారాలుగా అంశాలేవీ బ్యాకప్ చేసినట్లు లేరు. ముఖ్యమైనవాటిలో వేటినైనా కోల్పోకుండా ఉండేందుకు బ్యాకప్‌లు సృష్టించండి.</item>
+        <item quantity="one">మీరు %s వారంగా అంశాలేవీ బ్యాకప్ చేసినట్లు లేరు. ముఖ్యమైనవాటిలో వేటినైనా కోల్పోకుండా ఉండేందుకు బ్యాకప్‌లు సృష్టించండి.</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s బ్యాకప్‌లు (%2$s)</item>
+        <item quantity="one">%1$s బ్యాకప్ (%2$s)</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d యాప్‌లు బ్యాకప్ చేయబడ్డాయి</item>
+        <item quantity="one">%d యాప్ బ్యాకప్ చేయబడింది</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d యాప్‌లు పునరుద్ధరించబడ్డాయి</item>
+        <item quantity="one">%d యాప్ పునరుద్ధరించబడింది</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">సుమారు %s నిమిషాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">సుమారు %s నిమిషం మిగిలి ఉంది</item>
+    </plurals>
+</resources>

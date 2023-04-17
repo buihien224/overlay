@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 საათის წინ</item>
+        <item quantity="one">1 საათის წინ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 საათის წინ</item>
+        <item quantity="one">1 საათის წინ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ნახევარი საათის წინ</item>
+        <item quantity="one">ნახევარი საათის წინ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 საათში</item>
+        <item quantity="one">1 საათში</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ნახევარ საათში</item>
+        <item quantity="one">ნახევარ საათში</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">დაუყოვნებლივ</item>
+        <item quantity="one">დაუყოვნებლივ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d წუთში</item>
+        <item quantity="one">1 წუთში</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ამ წუთას</item>
+        <item quantity="one">ამ წუთას</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d წუთის წინ</item>
+        <item quantity="one">1 წუთის წინ</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">წავშალო %1$s მესიჯი?</item>
+        <item quantity="one">წავშალო %1$s მესიჯი?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d მესიჯი</item>
+        <item quantity="one">%d მესიჯი</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d მესიჯი არ არის სინქრონიზირებული</item>
+        <item quantity="one">%d მესიჯი არ არის სინქრონიზირებული</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">გსურთ %1$s მონიშული საუბრის წაშლა?</item>
+        <item quantity="one">გსურთ %1$s მონიშული საუბრის წაშლა?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d მონიშნულია</item>
+        <item quantity="one">%d მონიშნულია</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">შეტყობინება მიიღო %1$s-მა, და %2$d სხვა ადამიანმა</item>
+        <item quantity="one">შეტყობინება მიიღო %1$s-მა, და %2$d სხვა ადამიანმა</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">ვერ გაიგზავნა %d კონტაქტს</item>
+        <item quantity="one">ვერ გაიგზავნა %d კონტაქტს</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ნახევარი საათის წინ</item>
+        <item quantity="one">ნახევარი საათის წინ</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d მესიჯი</item>
+        <item quantity="one">%d მესიჯი</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 საათში</item>
+        <item quantity="one">1 საათში</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ნახევარ საათში</item>
+        <item quantity="one">ნახევარ საათში</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">დაუყოვნებლივ</item>
+        <item quantity="one">დაუყოვნებლივ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">1 წუთში</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ახლა</item>
+        <item quantity="one">ახლა</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">მონიშნულია როგორც %2$s, %1$d ადამიანის მიერ</item>
+        <item quantity="one">მონიშნულია როგორც %2$s, %1$d ადამიანის მიერ</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s მესიჯი</item>
+        <item quantity="one">%1$s მესიჯი</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ერთეული მონიშნულია</item>
+        <item quantity="one">%d ერთეული მონიშნულია</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s შეტყობინება | "</item>
+        <item quantity="one">"%s შეტყობინება | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d წუთის წინ</item>
+        <item quantity="one">1 წუთის წინ</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">გამოტანა (%dწმ)</item>
+        <item quantity="one">გამოტანა (%dწმ)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">თქვენ მიიღეთ %d ჯგუფური ჩატის მოწვევები</item>
+        <item quantity="one">თქვენ მიიღეთ %d ჯგუფური ჩატის მოწვევა</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s ადამიანი</item>
+        <item quantity="one">%1$s ადამიანი</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s შედეგი \"%2$s\"</item>
+        <item quantity="one">%1$s შედეგი \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">გაიგზავნა %1$s მესიჯი</item>
+        <item quantity="one">გაიგზავნა %1$s მესიჯი</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d წამ</item>
+        <item quantity="one">%d წამ</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d წამ</item>
+        <item quantity="one">%d წამ</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d დროზე სინქრონიზირებული მესიჯი არ გაიგზავნა</item>
+        <item quantity="one">%d დროზე სინქრონიზირებული მესიჯი არ გაიგზავნა</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d მესიჯი)</item>
+        <item quantity="one">(%d მესიჯი)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d მიმღები</item>
+        <item quantity="one">%d მიმღები</item>
+    </plurals>
+</resources>

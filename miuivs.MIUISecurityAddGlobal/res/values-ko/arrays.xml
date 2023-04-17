@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>최저</item>
+        <item>저</item>
+        <item>표준</item>
+        <item>고</item>
+        <item>최고</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anisotropic">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+        <item>8X</item>
+        <item>16X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2배</item>
+        <item>4배</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>균형</item>
+        <item>고품질</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>고속</item>
+        <item>균형</item>
+        <item>고품질</item>
+    </string-array>
+</resources>

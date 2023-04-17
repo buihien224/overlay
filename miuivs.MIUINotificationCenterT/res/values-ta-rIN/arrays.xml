@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>பெறப்பட்ட நேர அடிப்படையில் வரிசைப்படுத்து</item>
+        <item>அறிவிப்புகளின் எண்ணிக்கையின்படி வரிசை</item>
+        <item>அறிவிப்புகளைக் காட்டும் செயலிகள்</item>
+        <item>அறிவிப்புகளைக் காட்ட முடியாத செயலிகள்</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>அறிவிப்பு உள்ளடக்கத்தைக் காண்பி</item>
+        <item>பூட்டுத் திரை அறிவிப்புகளைக் காட்டாதே</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>அறிவிப்பு உள்ளடக்கத்தைக் காண்பி</item>
+        <item>எல்லா அறிவிப்புகளையும் காண்பி, ஆனால் உள்ளடக்கத்தை மறைக்கவும்</item>
+        <item>பூட்டுத் திரை அறிவிப்புகளைக் காட்டாதே</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>ஆன்டாய்ர்டு</item>
+    </string-array>
+</resources>

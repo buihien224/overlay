@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>តម្រៀបតាមពេលបានទទួល</item>
+        <item>តម្រៀបតាមចំនួននៃការជូនដំណឹង</item>
+        <item>កម្មវិធីដែលអាចបង្ហាញការជូនដំណឹងបាន</item>
+        <item>កម្មវិធីដែលមិនអាចបង្ហាញការជូនដំណឹងបាន</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>បង្ហាញ​ខ្លឹមសារនៃការ​ជូនដំណឹង​</item>
+        <item>កុំបង្ហាញការជូនដំណឹងលើអេក្រង់ជាប់សោ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>បង្ហាញ​ខ្លឹមសារនៃការ​ជូនដំណឹង​</item>
+        <item>បង្ហាញ​សារជូនដំណឹង​ តែ​លាក់​​​ខ្លឹមសារបស់វា</item>
+        <item>កុំបង្ហាញការជូនដំណឹងលើអេក្រង់ជាប់សោ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

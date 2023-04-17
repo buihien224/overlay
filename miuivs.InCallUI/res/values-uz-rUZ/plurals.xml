@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">%d ta MIUI foydalanuvchi tomonidan xabar berilgan</item>
+        <item quantity="one">%d ta MIUI foydalanuvchi tomonidan xabar berilgan</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Qo‘ng‘iroq %1$s soniyada yakunlaydi…</item>
+        <item quantity="one">Qo‘ng‘iroq %1$s soniyada yakunlaydi…</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d ta qo‘ng‘iroq yozildi.</item>
+        <item quantity="one">%d ta qo‘ng‘iroq yozildi.</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">%d marta qayta terildi</item>
+        <item quantity="one">%d marta qayta terildi</item>
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s ta odam</item>
+        <item quantity="one">%s ta odam</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ta element tanlandi</item>
+        <item quantity="one">%d ta element tanlandi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+</resources>

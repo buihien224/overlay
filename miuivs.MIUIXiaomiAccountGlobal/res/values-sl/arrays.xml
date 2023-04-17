@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Računi</item>
+        <item>Dodajanje in urejanje računov tretjih ponudnikov</item>
+        <item>Računi;SNS;Facebook;Google;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+        <item>Dodajanje in urejanje računov tretjih ponudnikov</item>
+        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Spremeni geslo</item>
+        <item>Spremeni geslo Xiaomi Računa</item>
+        <item>Spremeni geslo;Posodobi geslo;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Družinski prostor za shranjevanje</item>
+        <item>Ogled/vklop Družinskega prostora za shranjevanje</item>
+        <item>Družinski prostor za shranjevanje;Deljenje prostora za shranjevanje</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Družinske storitve</item>
+        <item>Ogled/vklop Družinskih storitev</item>
+        <item>Družina;Družinske storitve;Družinsko deljenje</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Pomoč</item>
+        <item>Pomoč in podpora za Xiaomi Račun</item>
+        <item>Mi Račun;Račun:Xiaomi Račun;Pomoč za račun;Center za pomoč</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Preverjanje v dveh korakih</item>
+        <item>Nastavite preverjanje v dveh korakih za vaš Xiaomi Račun</item>
+        <item>Vpis;Prijava;dva koraka;preverjanje;Xiaomi;Račun;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Varnost računa</item>
+        <item>Telefon in e-poštni naslov za obnovitev, urejanje gesla</item>
+        <item>Varnost računa;Vpis;Telefon za obnovitev;E-poštni naslov za obnovitev;Varovanje računa;Telefonska številka;E-pošta;Spremeni geslo;Dodaj telefonsko številko;Dodaj e-poštni naslov;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Naprave</item>
+        <item>Urejanje naprav povezanih z vašim Xiaomi Računom</item>
+        <item>Upravljanje z napravami;Moje naprave;Naprave;Seznam naprav;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Pravilnik o zasebnosti</item>
+        <item>Ogled Xiaomi Račun Pravilnika o zasebnosti</item>
+        <item>Mi Račun;Račun;Xiaomi Račun;Pravilnik o zasebnosti</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-poštni naslov za obnovitev</item>
+        <item>Dodaj e-poštni naslov za obnovitev</item>
+        <item>E-poštni naslov za obnovitev;E-pošta;Dodaj e-poštni naslov;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon za obnovitev</item>
+        <item>Dodaj telefon za obnovitev</item>
+        <item>Telefon za obnovitev;Dodaj telefon;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Oglasi</item>
+        <item>Uredi sistemske oglase</item>
+        <item>Oglasi;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Podatki računa</item>
+        <item>Ogled vaše fotografije profila in urejanje podatkov o računu</item>
+        <item>Osebni podatki;fotografija profila;vzdevek;podatki o računu;Mi ID;ID;Mi Račun;Račun; Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Uporabniški dogovor</item>
+        <item>Uporabniški dogovor</item>
+        <item>Mi Račun;Račun;Xiaomi Račun;Uporabniški dogovor:EULA</item>
+    </string-array>
+</resources>

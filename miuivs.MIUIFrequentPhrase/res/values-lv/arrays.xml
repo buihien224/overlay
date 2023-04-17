@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Rēķina virsraksts: *** Inc.</item>
+        <item>Adrese: Iela, Dzīvokļa nr., Pilsēta, Valsts/Reģions, Province, Pasta indekss</item>
+        <item>Lūdzu, atstājiet paciņu pie durvīm. Paldies!</item>
+        <item>Uzgaidiet minūti, drīz atgriezīšos.</item>
+        <item>Esmu sanāksmē. Lūdzu, nosūtiet īsziņu.</item>
+        <item>Nevaru šobrīd runāt. Pārzvanīšu, kad varēšu.</item>
+        <item>Paldies!</item>
+    </string-array>
+</resources>

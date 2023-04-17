@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 तासापूर्वी</item>
+        <item quantity="one">1 तासापूर्वी</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 तासापूर्वी</item>
+        <item quantity="one">1 तासापूर्वी</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">अर्ध्या तासापूर्वी</item>
+        <item quantity="one">अर्ध्या तासापूर्वी</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 तासात</item>
+        <item quantity="one">1 तासात</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">अर्ध्या तासात</item>
+        <item quantity="one">अर्ध्या तासात</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तात्काळ</item>
+        <item quantity="one">तात्काळ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनिटात</item>
+        <item quantity="one">1 मिनिटात</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">आत्ताच</item>
+        <item quantity="one">आत्ताच</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनिटापूर्वी</item>
+        <item quantity="one">1 मिनिटापूर्वी</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">डिलीट %1$s मेसेजेस?</item>
+        <item quantity="one">डिलीट %1$s मेसेज?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d मेसेजेस</item>
+        <item quantity="one">%d मेसेज</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d मेसेजेस सिंक करण्यात आले</item>
+        <item quantity="one">%d मेसेज सिंक करण्यात आले</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">निवडलेली %1$s संभाषणे डिलीट करायची?</item>
+        <item quantity="one">निवडलेले %1$s संभाषण डिलीट करायचे?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d निवडले</item>
+        <item quantity="one">%d निवडला</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">%1$s आणि %2$d इतर लोकांनी मेसेज प्राप्त केला</item>
+        <item quantity="one">%1$s आणि %2$d इतर व्यक्तीने मेसेज प्राप्त केला</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d काँटॅक्टसना पाठवू शकलो नाही</item>
+        <item quantity="one">%d काँटॅक्टला पाठवता आले नाही</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">अर्ध्या तासापूर्वी</item>
+        <item quantity="one">अर्ध्या तासापूर्वी</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d मेसेजेस</item>
+        <item quantity="one">%d मेसेज</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 तासात</item>
+        <item quantity="one">1 तासात</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">अर्ध्या तासात</item>
+        <item quantity="one">अर्ध्या तासात</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तात्काळ</item>
+        <item quantity="one">तात्काळ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d मिनिटांत</item>
+        <item quantity="one">१ मिनिटात</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">आत्ताच</item>
+        <item quantity="one">आत्ताच</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d लोकांद्वारे %2$s असे चिन्हांकीत केले</item>
+        <item quantity="one">%1$d लोकांद्वारे %2$s असे चिन्हांकीत केले</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s मेसेजेस</item>
+        <item quantity="one">%1$s मेसेज</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d आयटम्स निवडले</item>
+        <item quantity="one">%d आयटम निवडला</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s मेसेज | "</item>
+        <item quantity="one">"%s मेसेज | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनिटांपूर्वी</item>
+        <item quantity="one">१ मिनिटापूर्वी</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">मागे घ्या (%ds)</item>
+        <item quantity="one">मागे घ्या (%ds)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">तुम्हाला %d ग्रुप चॅट निमंत्रणे प्राप्त झाली</item>
+        <item quantity="one">तुम्हाला %d ग्रुप चॅट निमंत्रण प्राप्त झाले</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$sलोक</item>
+        <item quantity="one">%1$s व्यक्ती</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" साठी %1$s परिणाम</item>
+        <item quantity="one">\"%2$s\" साठी %1$s परिणाम</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s मेसेज पाठवले</item>
+        <item quantity="one">%1$s मेसेज पाठवले</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%dसेकंद</item>
+        <item quantity="one">%dसेकंद</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%dसेकंद</item>
+        <item quantity="one">%dसेकंद</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d वेळेनुसार मेसेजेस पाठवले गेले नाहीत</item>
+        <item quantity="one">%d वेळेनुसार मेसेज पाठवला गेला नाही</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d मेसेजेस)</item>
+        <item quantity="one">(%d मेसेज)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d प्राप्तकर्ते</item>
+        <item quantity="one">%d प्राप्तकर्ता</item>
+    </plurals>
+</resources>

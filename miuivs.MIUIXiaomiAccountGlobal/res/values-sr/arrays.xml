@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мушко</item>
+        <item>Женско</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Налози</item>
+        <item>Додавање и управљање налозима трећих страна</item>
+        <item>Налози;SNS;Facebook;Google;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Налози</item>
+        <item>Додавање и управљање налозима трећих страна</item>
+        <item>Налози;SNS;WeChat;QQ;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Промени лозинку</item>
+        <item>Промените лозинку Xiaomi Налога</item>
+        <item>Промени лозинку;Ажурирај лозинку;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Породични складишни простор</item>
+        <item>Погледајте/укључите Породични складишни простор</item>
+        <item>Породични складишни простор; Дељење складишта</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Породичне услуге</item>
+        <item>Погледајте/укључите Породичне услуге</item>
+        <item>Породица;Породичне услуге;Породично дељење</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Помоћ</item>
+        <item>Добијте помоћ и подршку за Xiaomi Налог</item>
+        <item>Mi Налог;Налог;Xiaomi Налог;Помоћ за налог;Центар за помоћ</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Потврда у 2 корака</item>
+        <item>Подесите потврду у 2 корака за ваш Xiaomi Налог</item>
+        <item>Пријавите се;Региструјте се;Потврђивање у 2 корака;потврђивање;Xiaomi;Налог;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Безбедност налога</item>
+        <item>Телефон и имејл за опоравак, управљање лозинкама</item>
+        <item>Безбедност налога;Пријављивање;Телефон за опоравак;Имејл за опоравак;Заштита налога;Број телефона;Имејл;Промени лозинку;Додај број телефона;Додај имејл;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Уређаји</item>
+        <item>Управљајте уређајима повезаним с вашим Xiaomi Налогом</item>
+        <item>Управљај уређајима;My уређаји;Уређај;Листа уређаја;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Правила о приватности</item>
+        <item>Прикажи Правила о приватности Xiaomi Налога</item>
+        <item>Mi Налог;Налог;Xiaomi Налог;Правила о приватности</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Имејл за опоравак</item>
+        <item>Додајте имејл за опоравак</item>
+        <item>Имејл за опоравак;Имејл;Додај имејл;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Телефон за опоравак</item>
+        <item>Додај телефон за опоравак</item>
+        <item>Телефон за опоравак;Додај телефон;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Огласи</item>
+        <item>Управљај системским огласима</item>
+        <item>Огласи;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>О налогу</item>
+        <item>Приказ ваше профилне фотографије и уређивање података о налогу</item>
+        <item>Лични подаци;профилна фотографија;надимак;подаци о налогу;Mi ID;ID;Mi Налог;Налог;Xiaomi Налог</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Кориснички уговор</item>
+        <item>Кориснички уговор</item>
+        <item>Mi Налог;Налог;Xiaomi Налог;Кориснички уговор;EULA</item>
+    </string-array>
+</resources>

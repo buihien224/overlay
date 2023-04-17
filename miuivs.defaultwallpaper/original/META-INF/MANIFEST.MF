@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: Foqo2i+eiwnLspcvtrVZZtVPQjo=
+
+Name: res/drawable-xxxhdpi-v4/default_wallpaper.jpg
+SHA1-Digest: VEvF5JXgN+VXAk/D47UcSbdgzV4=
+
+Name: resources.arsc
+SHA1-Digest: Zh5dQoY+q0stetofp3oIZTfymSA=
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>მთავარი</item>
+        <item>ფონი/სუპერ ფონები/მთავარი</item>
+        <item>დედამიწა;სუპერ ფონები;დედამიწის გამოშვება;ფონები</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>გეომეტრია</item>
+        <item>უკანა ფონი/სუპერ ფონები/გეომეტრია</item>
+        <item>გეომეტრია; აბსტრაქტი; სუპერ უკანა ფონები; ფონი</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>წითელი პლანეტა</item>
+        <item>ფონები/სუპერ ფონები/წითელი პლანეტა</item>
+        <item>მარსი;მარსის გამოშვება;სუპერ ფონები;ფონები</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>თოვლიანი მწვერვალები</item>
+        <item>უკანა ფონი/სუპერ ფონები/თოვლიანი მწვერვალები</item>
+        <item>დედამიწა; მთები; სუპერ უკანა ფონები; უკანა ფონი</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>სუპერ ფონები</item>
+        <item>ფონები/სუპერ ფონები</item>
+        <item>სუპერ ფონები;ფონები;დინამიური ფონები;3D ფონები</item>
+    </string-array>
+</resources>

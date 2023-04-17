@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 сағат бұрын</item>
+        <item quantity="one">1 сағат бұрын</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 сағат бұрын</item>
+        <item quantity="one">1 сағат бұрын</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Жарты сағат бұрын</item>
+        <item quantity="one">Жарты сағат бұрын</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 сағатта</item>
+        <item quantity="one">1 сағатта</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Жарты сағатта</item>
+        <item quantity="one">Жарты сағатта</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Дереу</item>
+        <item quantity="one">Дереу</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d минутта</item>
+        <item quantity="one">1 минутта</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Енді ғана</item>
+        <item quantity="one">Енді ғана</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин. бұрын</item>
+        <item quantity="one">1 мин. бұрын</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">%1$s қолданбасына автоматты түрде аралық сақтағыштағы элементтерге қол жеткізуге %2$d рет рұқсат берілді</item>
+        <item quantity="one">%1$s қолданбасына автоматты түрде аралық сақтағыштағы элементтерге қол жеткізуге %2$d рет рұқсат берілді</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">%1$s қолданба үшін аралық сақтағышқа %2$d қол жеткізу әрекеті бұғатталды</item>
+        <item quantity="one">%1$s қолданба үшін аралық сақтағышқа %2$d қол жеткізу әрекеті бұғатталды</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s қолданбасы автоматты түрде аралық сақтағыштағы элементтерге %2$d рет қол жеткізді</item>
+        <item quantity="one">%1$s қолданбасы автоматты түрде аралық сақтағыштағы элементтерге %2$d рет қол жеткізді</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Жарты сағат бұрын</item>
+        <item quantity="one">Жарты сағат бұрын</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 сағатта</item>
+        <item quantity="one">1 сағатта</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Жарты сағатта</item>
+        <item quantity="one">Жарты сағатта</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Дереу</item>
+        <item quantity="one">Дереу</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d минутта</item>
+        <item quantity="one">1 минутта</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Енді ғана</item>
+        <item quantity="one">Енді ғана</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Таңдалды: %d</item>
+        <item quantity="one">%d объект таңдалды</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d минут бұрын</item>
+        <item quantity="one">1 минут бұрын</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">Сіз %2$s қолданбасына аралық сақтағышқа қол жеткізуге %1$d рет рұқсат бердіңіз. Сіз әрдайым %3$s қолданбасына аралық сақтағышқа қол жеткізуге рұқсат бергіңіз келеді ме?</item>
+        <item quantity="one">Сіз %2$s қолданбасына аралық сақтағышқа қол жеткізуге %1$d рет рұқсат бердіңіз. Сіз әрдайым %3$s қолданбасына аралық сақтағышқа қол жеткізуге рұқсат бергіңіз келеді ме?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">Сіз %2$s қолданбасына аралық сақтағышқа қол жеткізуді %1$d рет шектедіңіз. Сіз %3$s қолданбасына аралық сақтағышқа қол жеткізуді біржолата шектегіңіз келеді ме?</item>
+        <item quantity="one">Сіз %2$s қолданбасына аралық сақтағышқа қол жеткізуді %1$d рет шектедіңіз. Сіз %3$s қолданбасына аралық сақтағышқа қол жеткізуді біржолата шектегіңіз келеді ме?</item>
+    </plurals>
+</resources>

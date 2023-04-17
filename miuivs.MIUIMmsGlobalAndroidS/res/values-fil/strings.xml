@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messages_installed_notification_text_xiaomi">I-tap para magsimula ng isang chat</string>
+    <string name="messages_installed_notification_title_xiaomi">Naka-install ang Messages</string>
+    <string name="notification_channel_name_xiaomi">Mga notification ng upgrade sa app</string>
+    <string name="promo_back_btn_text_xiaomi">Bumalik sa Mi Message</string>
+    <string name="promo_install_btn_text">Susunod</string>
+    <string name="promo_install_bullet_1_xiaomi">Gamitin ang Google Assistant para sa mga text at gawain</string>
+    <string name="promo_install_bullet_2_xiaomi">Panatilihin ang mga kasalukuyan mong pag-uusap at media</string>
+    <string name="promo_install_bullet_3_xiaomi">Madaling mahanap ang mga ibinahaging mensahe at media</string>
+    <string name="promo_install_bullet_4_xiaomi">Gamitin ang Messages bilang iyong default na SMS app</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Matuto pa</a></string>
+    <string name="promo_install_subtitle_xiaomi">Makakuha ng mas detalyado at mas mataas na kalidad na chat sa Wi-Fi o data. I-install ang Messages at gamitin ito bilang iyong default na SMS app. <a href="https://support.google.com/messages/answer/6089066">Matuto pa</a></string>
+    <string name="promo_install_title_xiaomi">Lumipat sa Messages by Google</string>
+    <string name="promo_launch_messages_btn_text">Buksan ang Messages</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Hindi, salamat na lang</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Ang Messages ng Google ay iyong default na SMS app na ngayon. Para gawing paborito ang Google Messages sa home screen, pindutin nang matagal ang Mi Message at alisin ito sa mga paborito, pagkatapos ay pindutin nang matagal ang Messages at ilipat ito sa mga paborito.</string>
+    <string name="promo_use_messages_btn_text">Gamitin ang Messages</string>
+</resources>

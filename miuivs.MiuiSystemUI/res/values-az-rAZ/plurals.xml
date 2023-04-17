@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+        <item quantity="one">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">1 saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+        <item quantity="one">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+        <item quantity="one">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">1 dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">İndi</item>
+        <item quantity="one">İndi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">1 dəq əvvəl</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+        <item quantity="one">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+        <item quantity="one">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+        <item quantity="one">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Yanlış PIN kodu, %d cəhd qaldı</item>
+        <item quantity="one">Yanlış PIN kodu, %d cəhd qaldı</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Yanlış PUK kod, %d cəhd qalır</item>
+        <item quantity="one">Yanlış PUK kod, %d cəhd qalır</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Həmişə xatırlatmaq üçün şifrənizi ən az %d saatda bir daxil edin</item>
+        <item quantity="one">Həmişə xatırlatmaq üçün şifrənizi ən az %d saatda bir daxil edin</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Həmişə xatırlamaq üçün şifrənizi ən az %d saatda bir daxil edin</item>
+        <item quantity="one">Həmişə xatırlamaq üçün şifrənizi ən az %d saatda bir daxil edin</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Təxminən %d saat qaldı</item>
+        <item quantity="one">Təxminən %d saat qaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Təxminən %d dəqiqə qaldı</item>
+        <item quantity="one">Təxminən %d dəqiqə qaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Təxminən %1$d saat %2$d dəq. qaldı</item>
+        <item quantity="one">Təxminən %1$d saat %2$d dəq. qaldı</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">%d dəqiqə</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d saat %2$d dəq.</item>
+        <item quantity="one">%1$d saat %2$d dəq.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">"%d "</item>
+        <item quantity="one">Qalan vaxt %d saat</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Qalan vaxt %d dəqiqə</item>
+        <item quantity="one">Qalan vaxt %d dəqiqə</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Qalan vaxt %1$d sa %2$d dk</item>
+        <item quantity="one">Qalan vaxt %1$d sa %2$d dk</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">İndi</item>
+        <item quantity="one">İndi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d dəqiqə ərzində yenidən cəhd edin</item>
+        <item quantity="one">%d dəqiqə ərzində yenidən cəhd edin</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d saniyə ərzində yenidən cəhd edin</item>
+        <item quantity="one">%d saniyə ərzində yenidən cəhd edin</item>
+    </plurals>
+</resources>

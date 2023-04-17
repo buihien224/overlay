@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>نامى</item>
+        <item>ئىسمى</item>
+        <item>تېلېفون</item>
+        <item>تورخەت</item>
+        <item>شىركەت</item>
+        <item>پەيتلىك ئۇچۇر</item>
+        <item>تور تېلېفون</item>
+        <item>تۇغۇلغان كۈن</item>
+        <item>تور ئادرېسى</item>
+        <item>ئادرېس</item>
+        <item>ئىزاھاتلار</item>
+        <item>مۇناسىۋەت</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>【%s】يوللىغان سودىگەر كېڭەيتىش ئۇچۇرى</item>
+        <item>【%s】يوللىغان يۈرۈتكۈچى سودىگەر كېڭەيتىش ئۇچۇرى</item>
+        <item>【%s】يوللىغان مالىيە كېڭەيتىش ئۇچۇرى</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>ئەڭ ئۇزۇن</item>
+        <item>ئىككى كۈن</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>تەڭشىمەسلىك</item>
+        <item>1 سائەت</item>
+        <item>6 سائەت</item>
+        <item>12 سائەت</item>
+        <item>1 كۈن</item>
+        <item>ئەڭ ئۇزۇن</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ئىزچىل</item>
+        <item>ئۈنسىز ھالەتتىلا</item>
+        <item>ھەرگىز</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>قوبۇللاش ۋە ئۇقتۇرۇش قىلىش</item>
+        <item>پەقەت قوبۇللاش</item>
+        <item>رەت قىلىش</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>رەڭلىك ئۇچۇر ئارقىلىق</item>
+        <item>تور ئۇچۇرى ئارقىلىق</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>ئۇچۇر ئارقىلىق</item>
+        <item>تور ئۇچۇرى ئارقىلىق</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 سېكۇنت</item>
+        <item>2 سېكۇنت</item>
+        <item>3 سېكۇنت</item>
+        <item>4 سېكۇنت</item>
+        <item>5 سېكۇنت</item>
+        <item>6 سېكۇنت</item>
+        <item>7 سېكۇنت</item>
+        <item>8 سېكۇنت</item>
+        <item>9 سېكۇنت</item>
+        <item>10 سېكۇنت</item>
+        <item>باشقىلار</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>شياۋمى ئەقلىي ئۇچۇرى</item>
+        <item>جۇڭگوكۆچمىسى ئەقلىي ئۇچۇرى</item>
+    </string-array>
+    <string-array name="message_sending_method">
+        <item>ئەڭ ياخشى ئۇسۇلنى ئاپتوماتىك تاللاش</item>
+        <item>ئۇچۇر،رەڭلىك ئۇچۇر</item>
+        <item>RCS ئۇچۇرى،RCS ھۆججەت يوللاش</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>rcs ھۆججىتىنى يوللاش مەغلۇپ بولغاندىن كېيىن قىسقا ئۇچۇر شەكلىدە ئەۋەتىدۇ،ھەمدە قايتا سورىمايدۇ</item>
+        <item>rcs ھۆججىتىنى يوللاش مەغلۇپ بولغاندىن كېيىن قىسقا ئۇچۇر ئەمەس شەكلىدە ئەۋەتىدۇ،ھەمدە قايتا سورىمايدۇ</item>
+        <item>rcs ھۆججىتىنى يوللاش مەغلۇپ بولغاندىن كېيىن دائىم سورىسۇن</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>rcs ئۇچۇرىنى يوللاش مەغلۇپ بولغاندىن كېيىن قىسقا ئۇچۇر شەكلىدە ئەۋەتىدۇ،ھەمدە قايتا سورىمايدۇ</item>
+        <item>rcs ئۇچۇرىنى يوللاش مەغلۇپ بولغاندىن كېيىن قىسقا ئۇچۇر بولمىغان شەكىلدە ئەۋەتىدۇ،ھەمدە قايتا سورىمايدۇ</item>
+        <item>rcs ئۇچۇرىنى ئەۋەتىش مەغلۇپ بولغاندىن كېيىن دائىم سورىسۇن</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>دائىم سوراش</item>
+        <item>ئەسلى رەسىم</item>
+        <item>پىرىسلانغان رەسىم</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>دائىم سوراش</item>
+        <item>ئەسلىي سىن</item>
+        <item>پىرىسلانغان سىن</item>
+    </string-array>
+</resources>

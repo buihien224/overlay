@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Clasificar por hora recibida</item>
+        <item>Clasificar por número de notificacións</item>
+        <item>Aplicacións que poden amosar notificacións</item>
+        <item>Aplicacións que non poden amosar notificacións</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Amosar contido da notificación</item>
+        <item>Non amosar as notificacións da pantalla de bloqueo</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Amosar contido da notificación</item>
+        <item>Amosar notificacións pero ocultar contido</item>
+        <item>Non amosar as notificacións da pantalla de bloqueo</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

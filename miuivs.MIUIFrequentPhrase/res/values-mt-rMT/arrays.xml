@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Intestatura tal-fattura: *** Ltd.</item>
+        <item>Indirizz: Triq, Apt, Belt, Pajjiż/Reġjun, Provinċja, Kodiċi postali</item>
+        <item>Jekk jogħġbok ħalli l-pakkett ħdejn il-bieb. Grazzi!</item>
+        <item>Stennieni minuta, ġej lura issa.</item>
+        <item>Ninsab waqt laqgħa. Jekk jogħġbok ibgħatli messaġġ.</item>
+        <item>Bħalissa ma nistax nitkellem. Inċempillek lura mal-ewwel ċans.</item>
+        <item>Grazzi!</item>
+    </string-array>
+</resources>

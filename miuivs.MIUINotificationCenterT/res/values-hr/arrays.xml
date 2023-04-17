@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sortiraj po primljenom vremenu</item>
+        <item>Poredaj po broju obavijesti</item>
+        <item>Aplikacije koje mogu prikazivati obavijesti</item>
+        <item>Aplikacije koje ne mogu prikazati obavijesti</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Prikaži sadržaj obavijesti</item>
+        <item>Ne prikazuj Obavijesti Zaključanog zaslona</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Prikaži sadržaj obavijesti</item>
+        <item>Prikaži obavijesti, ali sakrij sadržaj</item>
+        <item>Ne prikazuj Obavijesti Zaključanog zaslona</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Rëndit sipas orës së marrjes</item>
+        <item>Rëndit sipas numrit të njoftimeve</item>
+        <item>Aplikacionet që mund të shfaqin njoftime</item>
+        <item>Aplikacionet që nuk mund të shfaqin njoftime</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Shfaq përmbajtjen e njoftimit</item>
+        <item>Mos shfaq njoftimet në Ekranin kyçës</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Shfaq përmbajtjen e njoftimit</item>
+        <item>Shfaq njoftimet por fshih përmbajtjen</item>
+        <item>Mos shfaq njoftimet në Ekranin kyçës</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

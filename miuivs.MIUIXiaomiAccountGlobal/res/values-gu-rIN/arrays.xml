@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>પુરૂષ</item>
+        <item>મહિલા</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>એકાઉન્ટ્સ</item>
+        <item>ત્રાહિત પક્ષ એકાઉન્ટ ઉમેરો અને સંચાલિત કરો</item>
+        <item>એકાઉન્ટ્સ;SNS;Facebook;Google;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>એકાઉન્ટ્સ</item>
+        <item>ત્રાહિત પક્ષ એકાઉન્ટ ઉમેરો અને સંચાલિત કરો</item>
+        <item>એકાઉન્ટ્સ;SNS;WeChat;QQ;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>પાસવર્ડ બદલો</item>
+        <item>Xiaomi એકાઉન્ટનો પાસવર્ડ બદલો</item>
+        <item>પાસવર્ડ બદલો;પાસવર્ડ અપડેટ કરો;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ફેમિલી સ્ટોરેજમાં જગ્યા</item>
+        <item>ફેમિલી સ્ટોરેજ સ્પેસ જુઓ/ચાલુ કરો</item>
+        <item>ફેમિલી સ્ટોરેજ સ્પેસ;સ્ટોરેજ શેરિંગ</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>પરિવારની સેવાઓ</item>
+        <item>કૌટુંબિક સેવાઓ જુઓ/ચાલુ કરો</item>
+        <item>કુટુંબ; કુટુંબ સેવાઓ; કુટુંબ શેરિંગ</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>મદદ</item>
+        <item>Xiaomi એકાઉન્ટ મદદ અને સહાયતા મેળવો</item>
+        <item>Mi એકાઉન્ટ;એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ;એકાઉન્ટ સહાય;સહાય કેન્દ્ર</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-પગલાની ચકાસણી</item>
+        <item>તમારા Xiaomi એકાઉન્ટ માટે 2-પગલાની ચકાસણી સેટ કરો</item>
+        <item>સાઇન ઇન કરો;લોગ ઇન કરો;2-પગલાંની ચકાસણી;Xiaomi;એકાઉન્ટ;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>એકાઉન્ટ સેક્યુરીટી</item>
+        <item>રિકવરી ફોન અને ઇમેઇલ, પાસવર્ડ સંચાલન</item>
+        <item>એકાઉન્ટસેક્યુરીટી;સાઇનિંગ ઇન;રીકવરી ફોન;રિકવરી ઇમેઇલ;એકાઉન્ટ સુરક્ષા;ફોન નંબર;ઇમેઇલ;પાસવર્ડ બદલો;ફોન નંબર ઇમેઇલ ઉમેરો;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ડિવાઇસ</item>
+        <item>તમારા Xiaomi એકાઉન્ટ સાથે સંકળાયેલા ડિવાઇસ સંચાલિત કરો</item>
+        <item>ડિવાઇસેસ મેનેજ કરો;મારા ડિવાઇસેસ;ડિવાઇસેસ;ડિવાઇસ સુચિ;Mi એકાઉન્ટ;એકાઉન્ટXiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>પ્રાઇવસી પોલિસી</item>
+        <item>Xiaomi એકાઉન્ટની પ્રાઇવસી પોલિસી જુઓ</item>
+        <item>Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ;પ્રાઇવસી પોલિસી</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>રિકવરી ઇમેઇલ</item>
+        <item>રિકવરી ઇમેઇલ ઉમેરો</item>
+        <item>રિકવરી ઇમેઇલ;ઇમેઇલ;ઇમેઇલ ઉમેરો;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>રિકવરી ફોન</item>
+        <item>રિકવરી ફોન ઉમેરો</item>
+        <item>રીકવરી ફોન;ફોન ઉમેરો;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>જાહેરાતો</item>
+        <item>સિસ્ટમ જાહેરાતો સંચાલિત કરો</item>
+        <item>જાહેરાતો;Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>એકાઉન્ટની માહિતી</item>
+        <item>તમારો પ્રોફાઇલ ફોટો જુઓ અને એકાઉન્ટ માહિતી સંચાલિત કરો</item>
+        <item>વ્યક્તિગત માહિતી;પ્રોફાઇલ ફોટો;ટૂંકુંનામ;એકાઉન્ટ માહિતી;Mi ID;ID;Mi એકાઉન્ટ;એકાઉન્ટXiaomi એકાઉન્ટ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>વપરાશકર્તા કરાર</item>
+        <item>ઉપયોગકર્તા કરાર</item>
+        <item>Mi એકાઉન્ટ;એકાઉન્ટ;Xiaomi એકાઉન્ટ;ઉપયોગકર્તા કરાર;EULA</item>
+    </string-array>
+</resources>

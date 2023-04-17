@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>હોમ</item>
+        <item>વોલપેપર/સુપર વોલપેપર/હોમ</item>
+        <item>પૃથ્વી;સુપર વોલપેપર;પૃથ્વી આવૃત્તિ;વોલપેપર</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>ભૂમિતિ</item>
+        <item>વોલપેપર/સુપર વોલપેપર/ભૂમિતિ</item>
+        <item>ભૂમિતિ;સાર;સુપર વોલપેપર;વોલપેપર</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>લાલ ગ્રહ</item>
+        <item>વોલપેપર/સુપર વોલપેપર/લાલ ગ્રહ</item>
+        <item>મંગળ;મંગળ આવૃત્તિ;સુપર વોલપેપર;વોલપેપર</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>બરફીલા શિખરો</item>
+        <item>વૉલપેપર/સુપર વૉલપેપર/બરફીલા શિખરો</item>
+        <item>પૃથ્વી; પર્વત; સુપર વૉલપેપર; વૉલપેપર</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>સુપર વોલપેપર</item>
+        <item>વોલપેપર/સુપર વોલપેપર</item>
+        <item>સુપર વોલપેપર;વોલપેપર;ડાઇનેમિક વોલપેપર; 3D વોલપેપર</item>
+    </string-array>
+</resources>

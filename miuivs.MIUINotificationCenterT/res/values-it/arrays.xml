@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Ordina per data di ricezione</item>
+        <item>Ordina per numero di notifiche</item>
+        <item>App che possono mostrare le notifiche</item>
+        <item>App che non possono mostrare le notifiche</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Mostra il contenuto delle notifiche</item>
+        <item>Non mostrare le notifiche sulla schermata di blocco</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Mostra il contenuto delle notifiche</item>
+        <item>Nascondi il contenuto delle notifiche</item>
+        <item>Non mostrare le notifiche sulla schermata di blocco</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Záhlaví faktury: *** Inc.</item>
+        <item>Adresa: provincie/region, ulice, číslo domu/bytu, stát, PSČ</item>
+        <item>Nechejte prosím balíček u dveří. Děkuji!</item>
+        <item>Počkejte chvilku, hned budu zpět.</item>
+        <item>Jsem na poradě. Zašlete mi prosím textovou zprávu.</item>
+        <item>Nemůžu teď mluvit. Zavolám zpět, jakmile to bude možné.</item>
+        <item>Děkuji!</item>
+    </string-array>
+</resources>

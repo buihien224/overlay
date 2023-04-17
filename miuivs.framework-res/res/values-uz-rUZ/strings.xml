@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB disk raskadrovka yoqilgan</string>
+    <string name="lock_to_app_description">"Qo‘yilgan ekran displeyni bir ko‘rishda qulflaydi.
+
+Olib qo‘yish uchun, \"Uy\" va \"O‘chirish\" tugmalarini bir vaqtning o‘zida bosib turing."</string>
+    <string name="lock_to_app_description_accessible">"Qo‘yilgan ekran displeyni bir ko‘rishda qulflaydi.
+
+Olib qo‘yish uchun, \"Uy\" va \"O‘chirish\" tugmalarini bir vaqtning o‘zida bosib turing."</string>
+    <string name="lock_to_app_toast">Ushbu ekranni olish qo‘yish uchun, \"Uy\" va \"O‘chirish\" tugmalarini bir vaqtning o‘zida bosib turing.</string>
+    <string name="lock_to_app_toast_accessible">Ushbu ekranni olish qo‘yish uchun, \"Uy\" va \"O‘chirish\" tugmalarini bir vaqtning o‘zida bosib turing.</string>
+    <string name="lockscreen_missing_sim_instructions">SIM-kartani joylashtiring.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM-karta mavjud emas yoki qo‘llanmaydi. SIM-kartani joylashtiring.</string>
+    <string name="lockscreen_missing_sim_message">SIM-karta o‘rnatilmagan.</string>
+    <string name="lockscreen_missing_sim_message_short">SIM-karta yo‘q</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"USIM-kartangiz butunlay qulflandi.
+Boshqa SIM-kartani olish uchun operatoringizga murojaat qiling."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">SIM-karta bloklangan.</string>
+    <string name="tethered_notification_message">Sozlash uchun bosing.</string>
+    <string name="tethered_notification_multi_device_message">%1$s ta bog‘langan qurilma</string>
+    <string name="tethered_notification_no_device_message">Bog‘langan qurilma yo‘q</string>
+    <string name="tethered_notification_one_device_message">%1$s ta bog‘langan qurilma</string>
+    <string name="tethered_notification_title">Modem yoki ulanish nuqtasi faol</string>
+    <string name="usb_midi_notification_title">USB orqali MIDI yoqilgan</string>
+    <string name="usb_mtp_notification_title">USB fayl uzatish faol</string>
+    <string name="usb_ptp_notification_title">USB orqali PTP orqali yoqilgan</string>
+    <string name="usb_tether_notification_title">USB orqali ulanish yoqildi</string>
+    <string name="usb_unsupported_audio_accessory_message">Ulangan qurilma ushbu telefonga mos emas. Ko‘proq ma’lumot olish uchun bosing.</string>
+    <string name="usb_unsupported_audio_accessory_title">Algta analog audio aksessuari</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Qo‘ng‘iroq</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Bildirishnoma</string>
+    <string name="volume_icon_description_ringer">Musiqa</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">کد PIN اشتباه است. %d فرصت دیگر باقی مانده</item>
+        <item quantity="one">کد PIN اشتباه است. %d فرصت دیگر باقی مانده</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">کد PUK اشتباه است. %d فرصت دیگر باقی مانده</item>
+        <item quantity="one">کد PUK اشتباه است. %d فرصت دیگر باقی مانده</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا همیشه به یاد داشته باشید</item>
+        <item quantity="one">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا همیشه به یاد داشته باشید</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا همیشه به یاد داشته باشید</item>
+        <item quantity="one">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا همیشه به یاد داشته باشید</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">نزدیک به %d ساعت مانده است</item>
+        <item quantity="one">نزدیک به %d ساعت مانده است</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">نزدیک به %d دقیقه مانده است</item>
+        <item quantity="one">نزدیک به %d دقیقه مانده است</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">نزدیک به %1$d ساعت و %2$d دقیقه مانده است</item>
+        <item quantity="one">نزدیک به %1$d ساعت و %2$d دقیقه مانده است</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d ساعت و %2$d دقیقه</item>
+        <item quantity="one">%1$d ساعت و %2$d دقیقه</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d ساعت باقی مانده است</item>
+        <item quantity="one">%d ساعت باقی مانده است</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d دقیقه باقی مانده است</item>
+        <item quantity="one">%d دقیقه باقی مانده است</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d ساعت و %2$d دقیقه مانده است</item>
+        <item quantity="one">%1$d ساعت و %2$d دقیقه مانده است</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d دقیقه دیگر دوباره تلاش کنید</item>
+        <item quantity="one">%d دقیقه دیگر دوباره تلاش کنید</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d ثانیه دیگر دوباره تلاش کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره تلاش کنید</item>
+    </plurals>
+</resources>

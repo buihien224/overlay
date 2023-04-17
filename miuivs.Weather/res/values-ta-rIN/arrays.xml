@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>நல்ல நிலை</item>
+        <item>மிதமான</item>
+        <item>சென்ஸிட்டிவ் குழுக்களுக்கு ஏற்றதல்ல</item>
+        <item>ஆரோக்கியமற்ற</item>
+        <item>மிகவும் ஆரோக்கியமற்ற</item>
+        <item>தீங்கு தரக்கூடியது</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>நன்று</item>
+        <item>திருப்தி</item>
+        <item>மிதமான மாசு</item>
+        <item>மோசம்</item>
+        <item>மிகவும் மோசம்</item>
+        <item>கடுமையானது</item>
+        <item>குறியீட்டிற்கு அப்பால்</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>பெய்ஜிங்</item>
+        <item>ஷாங்காய்</item>
+        <item>ஹாங்காங்</item>
+        <item>தைபே நகரம்</item>
+        <item>ஜகார்த்தா</item>
+        <item>டெல்லி</item>
+        <item>மும்பை</item>
+        <item>மாஸ்கோ</item>
+        <item>சென்னை</item>
+        <item>இஸ்தான்புல்</item>
+        <item>ரியோ டி ஜெனீரோ</item>
+        <item>சிங்கப்பூர்</item>
+        <item>பெர்லின்</item>
+        <item>ரோம்</item>
+        <item>நியூயார்க்</item>
+        <item>லாஸ் ஏஞ்சல்ஸ்</item>
+        <item>சிகாகோ</item>
+        <item>டோக்யோ</item>
+        <item>பாரீஸ்</item>
+        <item>பேங்காக்</item>
+        <item>சோல்</item>
+        <item>கோலலம்பூர்</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>கனமான</item>
+        <item>மிதமான</item>
+        <item>லேசானது</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>தெளிவானது</item>
+        <item>மேக மூட்டம்</item>
+        <item>அதிமேகமூட்டம்</item>
+        <item>மூடுபனியான</item>
+        <item>கன மழை</item>
+        <item>மழை</item>
+        <item>புயல்மழை</item>
+        <item>இடியுடன் கூடிய மழை</item>
+        <item>மழை</item>
+        <item>கன மழை</item>
+        <item>மிதமான மழை</item>
+        <item>லேசான மழை</item>
+        <item>பனி கலந்த மழை</item>
+        <item>பனிப்புயல்</item>
+        <item>பனி</item>
+        <item>கடும் பனி</item>
+        <item>மிதமான பனி</item>
+        <item>லேசான பனி</item>
+        <item>வலுவான மணற்புயல்</item>
+        <item>மணல் புயல்</item>
+        <item>மணல்</item>
+        <item>காற்று வீச்சு</item>
+        <item>ஆலங்கட்டி மழை</item>
+        <item>தூசு</item>
+        <item>தெளிவற்றது</item>
+        <item>உறைபனி மழை</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>வடக்கு</item>
+        <item>வடகிழக்கு</item>
+        <item>கிழக்கு</item>
+        <item>தென்கிழக்கு</item>
+        <item>தெற்கு</item>
+        <item>தென்மேற்கு</item>
+        <item>மேற்கு</item>
+        <item>வடமேற்கு</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>வ</item>
+        <item>வகி</item>
+        <item>கி</item>
+        <item>தெகி</item>
+        <item>தெ</item>
+        <item>தெமே</item>
+        <item>மே</item>
+        <item>வமே</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>பேயுஃபோர்ட் அளவீடு</item>
+        <item>மணிக்கு கிலோ மீட்டர் (km/h)</item>
+        <item>விநாடிக்கு மீட்டர் (m/s)</item>
+        <item>மைல்கள்/மணிநேரம் (mph)</item>
+        <item>நாட் (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>வேகம் %1$s</item>
+        <item>%1$sகீமீ/ம</item>
+        <item>%1$sm/s</item>
+        <item>%1$sமைல்/ம.நே</item>
+        <item>%1$skn</item>
+    </string-array>
+</resources>

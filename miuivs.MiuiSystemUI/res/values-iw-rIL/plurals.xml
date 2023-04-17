@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">קוד PIN שגוי, נותרו %d ניסיונות</item>
+        <item quantity="one">קוד PIN שגוי, נותר ניסיון %d</item>
+        <item quantity="two">קוד PIN שגוי, נותרו %d ניסיונות</item>
+        <item quantity="many">קוד PIN שגוי, נותרו %d ניסיונות</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">קוד PUK שגוי, נותרו %d ניסיונות</item>
+        <item quantity="one">קוד PUK שגוי, נותר ניסיון %d</item>
+        <item quantity="two">קוד PUK שגוי, נותרו %d ניסיונות</item>
+        <item quantity="many">קוד PUK שגוי, נותרו %d ניסיונות</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="one">עליך להזין את הסיסמה שלך לפחות פעם בשעה %d כדי לזכור אותה</item>
+        <item quantity="two">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="many">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="one">עליך להזין את הסיסמה שלך לפחות פעם בשעה %d כדי לזכור אותה</item>
+        <item quantity="two">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="many">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">נותרו בערך %d שעות</item>
+        <item quantity="one">נותרה בערך שעה %d</item>
+        <item quantity="two">נותרו בערך %d שעות</item>
+        <item quantity="many">נותרו בערך %d שעות</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">נותרו בערך %d דקות</item>
+        <item quantity="one">נותרה בערך דקה %d</item>
+        <item quantity="two">נותרו בערך %d דקות</item>
+        <item quantity="many">נותרו בערך %d דקות</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="one">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="two">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="many">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="one">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="two">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="many">%1$d שעות ו-%2$d דקות</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">נותרו %d שעות</item>
+        <item quantity="one">נותרה שעה %d</item>
+        <item quantity="two">נותרו %d שעות</item>
+        <item quantity="many">נותרו %d שעות</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">נותרו %d דקות</item>
+        <item quantity="one">נותרה דקה %d</item>
+        <item quantity="two">נותרו %d דקות</item>
+        <item quantity="many">נותרו %d דקות</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="one">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="two">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="many">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה %d</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">נא לנסות שוב בעוד %d דקות</item>
+        <item quantity="one">נא לנסות שוב בעוד דקה %d</item>
+        <item quantity="two">נא לנסות שוב בעוד %d דקות</item>
+        <item quantity="many">נא לנסות שוב בעוד %d דקות</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">נא לנסות שוב בעוד %d שניות</item>
+        <item quantity="one">נא לנסות שוב בעוד שנייה %d</item>
+        <item quantity="two">נא לנסות שוב בעוד %d שניות</item>
+        <item quantity="many">נא לנסות שוב בעוד %d שניות</item>
+    </plurals>
+</resources>

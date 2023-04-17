@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Үй</item>
+        <item>Тұсқағаз/Супер тұсқағаздар/Үй</item>
+        <item>Жер;Супер тұсқағаздар;Жер Басылымы;Тұсқағаз</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Геометрия</item>
+        <item>Тұсқағаз/Супер тұсқағаздар/Геометрия</item>
+        <item>Геометрия;Дерексіз;Супер тұсқағаздар;Тұсқағаз</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Қызыл ғаламшар</item>
+        <item>Тұсқағаз/Супер тұсқағаздар/Қызыл ғаламшар</item>
+        <item>Марс;Марс Басылымы;Супер тұсқағаздар;Тұсқағаз</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Қарлы шыңдар</item>
+        <item>Тұсқағаз/Супер тұсқағаздар/Қарлы шыңдар</item>
+        <item>Жер;Таулар;Супер тұсқағаздар;Тұсқағаз</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Супер тұсқағаздар</item>
+        <item>Тұсқағаз/Супер тұсқағаздар</item>
+        <item>Супер тұсқағаздар;Тұсқағаз;Динамикалық тұсқағаз;3D тұсқағаз</item>
+    </string-array>
+</resources>

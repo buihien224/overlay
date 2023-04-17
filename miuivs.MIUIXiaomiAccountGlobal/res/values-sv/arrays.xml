@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Man</item>
+        <item>Kvinna</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Konton</item>
+        <item>Lägg till och hantera tredjepartskonto</item>
+        <item>Konton;SNS;Facebook;Google;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Konton</item>
+        <item>Lägg till och hantera tredjepartskonto</item>
+        <item>Konton;SNS;WeChat;QQ;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Ändra lösenord</item>
+        <item>Ändra lösenord för Xiaomi-konto</item>
+        <item>Ändra lösenord;uppdatera lösenord;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Lagringsutrymme för familj</item>
+        <item>Visa/aktivera lagringsutrymme för familj</item>
+        <item>Lagringsutrymme för familj;Delning av lagringsutrymme</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familjetjänster</item>
+        <item>Visa/aktivera familjetjänster</item>
+        <item>Familj;Familjetjänster;Familjedelning</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Hjälp</item>
+        <item>Få hjälp och support för Xiaomi-konto</item>
+        <item>Mi-konto;konto;Xiaomi-konto;kontohjälp;hjälpcentrum</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-stegsverifiering</item>
+        <item>Ställ in 2-stegsverifiering för ditt Xiaomi-konto</item>
+        <item>Inloggning;logga in;2-steg;verifiering;Xiaomi;konto;Mi.konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Kontosäkerhet</item>
+        <item>Telefon och e-post för återställning, lösenordshantering</item>
+        <item>Kontosäkerhet;inlogging;återställning av telefon;återställning av e-post;kontoskydd;telefonnummer;e-post;ändra lösenord;lägg till telefonnummer;lägg till e-post;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Enheter</item>
+        <item>Hantera enheter associerade med ditt Xiaomi-konto</item>
+        <item>Hantera enheter;mina enheter;enhetslista;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Integritetspolicy</item>
+        <item>Visa integritetspolicy för Xiaomi-konto</item>
+        <item>Mi-konto;Konto;Xiaomi-konto;Integritetspolicy</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-post för återställning</item>
+        <item>Lägg till e-post för återställning</item>
+        <item>Återställning av e-post;e-post;lägg till e-post;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon för återställning</item>
+        <item>Lägg till telefon för återställning</item>
+        <item>Återställning av telefon;lägg till telefon;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Annonser</item>
+        <item>Hantera systemannonser</item>
+        <item>Ads;Mi-konto;Konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontoinformation</item>
+        <item>Visa ditt profilfoto och hantera kontoinformation</item>
+        <item>Personlig info;profilfoto;smeknamn;kontoinfo;Mi ID;ID;Mi-konto;konto;Xiaomi-konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Användaravtal</item>
+        <item>Användaravtal</item>
+        <item>Mi-konto;konto;Xiaomi-konto;användaravtal;EULA</item>
+    </string-array>
+</resources>

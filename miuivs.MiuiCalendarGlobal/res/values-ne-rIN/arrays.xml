@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>कुनै पनि होइन</item>
+        <item>हिजरी सम्वत</item>
+        <item>शाका सम्वत</item>
+        <item>विक्रमी सम्वत</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>कुम्भ</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>मेष</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>कर्कट</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>मकर</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>यो कार्यक्रम मात्र</item>
+        <item>सबै कार्यक्रमहरु श्रृंखलामा</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>फर्वार्ड गर्नुहोस्</item>
+        <item>बाकवाद्र गर्नुहोस्</item>
+    </string-array>
+    <string-array name="dates">
+        <item>१</item>
+        <item>२</item>
+        <item>३</item>
+        <item>४</item>
+        <item>५</item>
+        <item>६</item>
+        <item>७</item>
+        <item>८</item>
+        <item>९</item>
+        <item>१०</item>
+        <item>११</item>
+        <item>१२</item>
+        <item>१३</item>
+        <item>१४</item>
+        <item>१५</item>
+        <item>१६</item>
+        <item>१७</item>
+        <item>१८</item>
+        <item>१९</item>
+        <item>२०</item>
+        <item>२१</item>
+        <item>२२</item>
+        <item>२३</item>
+        <item>२४</item>
+        <item>२५</item>
+        <item>२६</item>
+        <item>२७</item>
+        <item>२८</item>
+        <item>२९</item>
+        <item>३०</item>
+        <item>३१</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>कार्यक्रमको समयमा</item>
+        <item>5 मिनेट पहिले</item>
+        <item>15 मिनेट पहिले</item>
+        <item>30 मिनेट पहिले</item>
+        <item>1 घण्टा अघि</item>
+        <item>4 घण्टा पहिले</item>
+        <item>1 दिन पहिले</item>
+        <item>2 दिन पहिले</item>
+        <item>1 हप्ता पहिले</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>यो कार्यक्रम मात्र</item>
+        <item>यो र भविष्यको कार्यक्रमहरु</item>
+        <item>सबै कार्यक्रमहरु</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>मिथुन</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>मुहर्रम</item>
+        <item>सफर</item>
+        <item>रबी अल-अवाल</item>
+        <item>रबी अल-थानी</item>
+        <item>जुमादा अल-अवाल</item>
+        <item>जुमादा अल-थानी</item>
+        <item>रजब</item>
+        <item>शाहबान</item>
+        <item>रमादान</item>
+        <item>शव्वल</item>
+        <item>धुल-कादह</item>
+        <item>धुल-हिज्जा</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>सिंह</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>तुला</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>आइतवार</item>
+        <item>सोमवार</item>
+        <item>मङ्गलवार</item>
+        <item>बुधवार</item>
+        <item>बिहीवार</item>
+        <item>शुक्रवार</item>
+        <item>शनिवार</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>मीन</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>सधै</item>
+        <item>रिङगर शान्त हुँदा मात्र</item>
+        <item>कहिले पनि होइन</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>क्षेत्र पूर्वनिर्धारित</item>
+        <item>शनिवार</item>
+        <item>आइतवार</item>
+        <item>सोमवार</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>प्रथम</item>
+        <item>दोस्रो</item>
+        <item>तेस्रो</item>
+        <item>चौँथो</item>
+        <item>पाँचौ</item>
+        <item>छैटौँ</item>
+        <item>सातौँ</item>
+        <item>आठौँ</item>
+        <item>नवौँ</item>
+        <item>दसौँ</item>
+        <item>एघारौँ</item>
+        <item>बाह्रौँ</item>
+        <item>तेह्रौँ</item>
+        <item>चौधौँ</item>
+        <item>पन्ध्रौँ</item>
+        <item>16</item>
+        <item>1७</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25 औं</item>
+        <item>26औं</item>
+        <item>2७औं</item>
+        <item>28औं</item>
+        <item>29औं</item>
+        <item>30औं</item>
+        <item>31औं</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>कहिले पनि होइन</item>
+        <item>समय</item>
+        <item>गणना</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>एप्रिल</item>
+        <item>मे</item>
+        <item>जुन</item>
+        <item>जुलाई</item>
+        <item>अगस्ट</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टोबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसम्बर</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>प्रथम</item>
+        <item>दोस्रो</item>
+        <item>तेस्रो</item>
+        <item>चौथौँ</item>
+        <item>अन्तिम</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>सोम - शुक्र</item>
+        <item>हप्ताको अन्तिम दिन</item>
+        <item>पुरा हप्ता</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>सोम</item>
+        <item>मङ्गल</item>
+        <item>बुध</item>
+        <item>बिही</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+        <item>आइत</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>कहिले पनि होइन</item>
+        <item>मासिक</item>
+        <item>वार्षिक</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>दिन</item>
+        <item>हप्ता</item>
+        <item>महिना</item>
+        <item>वर्ष</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>पहिलो सोमबार</item>
+        <item>पहिलो मंगलबार</item>
+        <item>पहिलो बुधबार</item>
+        <item>पहिलो बिहिबार</item>
+        <item>पहिलो शुक्रबार</item>
+        <item>पहिलो शनिबार</item>
+        <item>पहिलो आइतबार</item>
+        <item>दोस्रो सोमबार</item>
+        <item>दोस्रो मंगलबार</item>
+        <item>दोस्रो बुधबार</item>
+        <item>दोस्रो बिहिबार</item>
+        <item>दोस्रो शुक्रबार</item>
+        <item>दोस्रो शनिबार</item>
+        <item>दोस्रो आइतबार</item>
+        <item>तेस्रो सोमबार</item>
+        <item>तेस्रो मंगलबार</item>
+        <item>तेस्रो बुधबार</item>
+        <item>तेस्रो बिहिबार</item>
+        <item>तेस्रो शुक्रबार</item>
+        <item>तेस्रो शनिबार</item>
+        <item>तेस्रो आइतबार</item>
+        <item>चौथो सोमबार</item>
+        <item>चौथो मंगलबार</item>
+        <item>चौथो बुधबार</item>
+        <item>चौथो बिहिबार</item>
+        <item>चौथो शुक्रबार</item>
+        <item>चौथो शनिबार</item>
+        <item>चौथो आइतबार</item>
+        <item>महिनाको अन्तिम सोमबार</item>
+        <item>महिनाको अन्तिम मंगलबार</item>
+        <item>महिनाको अन्तिम बुधबार</item>
+        <item>महिनाको अन्तिम बिहिबार</item>
+        <item>महिनाको अन्तिम शुक्रबार</item>
+        <item>महिनाको अन्तिम शनिबार</item>
+        <item>महिनाको अन्तिम आइतबार</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>प्रतिक्रियाहरू छैनन्</item>
+        <item>हजुर</item>
+        <item>हुन सक्छ</item>
+        <item>हैन</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>धनु</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>बृश्चिक</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Serie A</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>वृष</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>मार्शल द्वीप</item>
+        <item>मिडवेद्विप</item>
+        <item>हवाई</item>
+        <item>अलास्का</item>
+        <item>प्रशान्त समय</item>
+        <item>टिजुआना</item>
+        <item>एरिजोन</item>
+        <item>चिहुआहुआ</item>
+        <item>माउंटेन समय</item>
+        <item>मध्य अमेरिका</item>
+        <item>केंद्रीय समय</item>
+        <item>मेक्सिको सिटी</item>
+        <item>सस्केचेवान</item>
+        <item>बोगोटा</item>
+        <item>पूर्वी समय</item>
+        <item>वेनेजुएला</item>
+        <item>अटलांटिक समय (बाराबडोस)</item>
+        <item>अटलांटिक समय (कानाडा)</item>
+        <item>मनौस</item>
+        <item>सैंटियागो</item>
+        <item>न्यूफाउंडलैंड</item>
+        <item>ब्रासीलिया</item>
+        <item>ब्यूनस आयर्स</item>
+        <item>ग्रीनलान्ड</item>
+        <item>मॉन्टेवीडियो</item>
+        <item>मध्य-अटलांटिक</item>
+        <item>अज़ोरेस</item>
+        <item>केप वर्दे</item>
+        <item>कैसाब्लांका</item>
+        <item>बेलायत, डबलिन</item>
+        <item>एम्स्टर्डम, बर्लिन</item>
+        <item>बेलग्रेड</item>
+        <item>ब्रुसेल्स</item>
+        <item>साराजेवो</item>
+        <item>विंडहोक</item>
+        <item>पु. अफ्रीका समय</item>
+        <item>अम्मान, जोर्डन</item>
+        <item>एथेंस, इस्तानबुल</item>
+        <item>बेरुत, लेबनान</item>
+        <item>काइरो</item>
+        <item>हेलसिंकी</item>
+        <item>जेरूशेलम</item>
+        <item>मिंन्स्क</item>
+        <item>हरारे</item>
+        <item>बगदाद</item>
+        <item>मोस्को</item>
+        <item>कुवैत</item>
+        <item>नैरोबी</item>
+        <item>तेहरान</item>
+        <item>बाकू</item>
+        <item>टबिलिसि</item>
+        <item>येरेवान</item>
+        <item>दुबई</item>
+        <item>काबुल</item>
+        <item>इस्लामाबाद, कराची</item>
+        <item>युराल्स्क</item>
+        <item>येकाटरिंगबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलंका</item>
+        <item>काठमाडौं</item>
+        <item>अस्टाना</item>
+        <item>यानगोन</item>
+        <item>क्रास्नोयाक्</item>
+        <item>बान्कोक</item>
+        <item>बैजीङ</item>
+        <item>होङकोङ</item>
+        <item>मकाओ</item>
+        <item>सिन्गापुर</item>
+        <item>मकाउ</item>
+        <item>कुवलालम्पुर</item>
+        <item>पर्थ</item>
+        <item>ताइपेइ</item>
+        <item>सियोल</item>
+        <item>टोक्यो, ओसाका</item>
+        <item>याकुत्स्क</item>
+        <item>एडिलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिस्बेन</item>
+        <item>होबर्ट</item>
+        <item>सिडनी, क्यानबेरा</item>
+        <item>व्लादिवोस्तोक</item>
+        <item>गुआम</item>
+        <item>म्यागदान</item>
+        <item>एउकलान्ड</item>
+        <item>फिजी</item>
+        <item>टोंगा</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 घण्टा पहिले</item>
+        <item>4 घण्टा पहिले</item>
+        <item>5 घण्टा पहिले</item>
+        <item>6 घण्टा पहिले</item>
+        <item>1 दिन पहिले</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>चैत्र</item>
+        <item>बैसाख</item>
+        <item>जेठ</item>
+        <item>आषाढ</item>
+        <item>श्रावण</item>
+        <item>भाद्र</item>
+        <item>असोज</item>
+        <item>कार्तिक</item>
+        <item>मंसिर</item>
+        <item>पौष</item>
+        <item>माघ</item>
+        <item>फागुन</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>कन्या</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>सफा</item>
+        <item>बादल लागेको</item>
+        <item>ढाकेको</item>
+        <item>कुहिरो लागेको</item>
+        <item>भारी आँधीबेहरी</item>
+        <item>आँधीबेहरी</item>
+        <item>हलुका आँधीबेहरी</item>
+        <item>मेघ गर्जनसहितको बर्षा</item>
+        <item>हल्का वर्षा</item>
+        <item>भारी बर्षा</item>
+        <item>वर्षा</item>
+        <item>हल्का वर्षा</item>
+        <item>वर्षा र हिउँ</item>
+        <item>सिरेटो</item>
+        <item>हिमपात र वर्षा</item>
+        <item>भारी हिमपात</item>
+        <item>हिउँ</item>
+        <item>हल्का हिमपात</item>
+        <item>धुलोसहितको तेज तूफान</item>
+        <item>बालुवाको आन्धीबेहेरी</item>
+        <item>धुलो</item>
+        <item>हलुका बालुवाको आन्धीबेहेरी</item>
+        <item>असिना</item>
+        <item>तैरिरहेको फोहोर</item>
+        <item>कुहिरो</item>
+        <item>कठ्याँग्रिने वर्षा</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>आइत</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>बीहि</item>
+        <item>शुक्र</item>
+        <item>सनि</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>पारदर्शकता</item>
+        <item>सेतो पृष्ठभूमि</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>مرد</item>
+        <item>عورت</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>اکاؤنٹس</item>
+        <item>فریق ثالث اکاؤنٹس شامل کریں اور منظم کریں</item>
+        <item>اکاؤنٹس;SNS;Facebook;Google;Mi اکاؤنٹ; اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>اکاؤنٹس</item>
+        <item>فریق ثالث اکاؤنٹس شامل کریں اور منظم کریں</item>
+        <item>اکاؤنٹس;SNS;WeChat;QQ;Mi اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>پاسورڈ تبدیل کریں</item>
+        <item>Xiaomi اکاؤنٹ پاسورڈ تبدیل کریں</item>
+        <item>پاسورڈ تبدیل کریں;پاسورڈ اپ ڈیٹ کریں;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>فیملی اسٹوریج کی جگہ</item>
+        <item>فیملی اسٹوریج کی جگہ دیکھیں/آن کریں</item>
+        <item>فیملی اسٹوریج کی جگہ;اسٹوریج کا اشتراک</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>فیملی سروسز</item>
+        <item>فیملی سروسز دیکھیں/آن کریں</item>
+        <item>فیملی;فیملی سروسز;فیملی اشتراک</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>مدد</item>
+        <item>Xiaomi اکاؤنٹ مدد اور سپورٹ حاصل کریں</item>
+        <item>Mi اکاؤنٹ;Xiaomi اکاؤنٹ;اکاؤنٹ مدد;مدد سنٹر</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-مراحل تصدیق</item>
+        <item>اپنے Xiaomi اکاؤنٹ کے لیے 2 مرحلہ تصدیق سیٹ کریں</item>
+        <item>سائن ان;لاگ ان;2-مرحلہ;تصدیق;Xiaomi;اکاؤنٹ;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>اکاؤنٹ سیکورٹی</item>
+        <item>بحالی فون اور ای میل, پاسورڈ مینجمنٹ</item>
+        <item>اکاؤنٹ سیکورٹی;سائن ان کرنا;بحالی فون;بحالی ای میل;اکاؤنٹ کا تحفظ;فون نمبر;ای میل;پاسورڈ تبدیل کریں;فون نمبر شامل کریں;ای میل شامل کریں;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>ڈیوائسز</item>
+        <item>اپنے Xiaomi اکاؤنٹ کے ساتھ وابستہ ڈیوائسز منظم کریں</item>
+        <item>ڈیوائسز منظم کریں;میرے ڈیوائسز;ڈیوائسز;ڈیوائس لسٹ;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>رازداری پالیسی</item>
+        <item>Xiaomi اکاؤنٹ رازداری پالیسی دیکھیں</item>
+        <item>Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ;رازداری پالیسی</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>بحالی ای میل</item>
+        <item>بحالی ای میل شامل کریں</item>
+        <item>بحالی ای میل;ای میل;ای میل شامل کریں;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>بحالی فون</item>
+        <item>بحالی فون شامل کریں</item>
+        <item>بحالی فون;فون شامل کریں;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>اشتہارات</item>
+        <item>سسٹم اشتہارات منظم کریں</item>
+        <item>اشہتارات;Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>اکاؤنٹ کی معلومات</item>
+        <item>اپنی پروفائل فوٹو دیکھیں اور اکاؤنٹ کی معلومات منظم کریں</item>
+        <item>ذاتی معلومات;پروفائل فوٹو;عرفی نام;اکاؤنٹ کی معلومات;Xiaomi آئی ڈی;آئی ڈی;Mi اکاؤنٹ;اکاؤنٹ</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>صارف معاہدہ</item>
+        <item>صارف معاہدہ</item>
+        <item>Mi اکاؤنٹ;اکاؤنٹ;Xiaomi اکاؤنٹ;صارف معاہدہ;EULA</item>
+    </string-array>
+</resources>

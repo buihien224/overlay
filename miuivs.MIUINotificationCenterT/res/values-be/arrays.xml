@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Сартаваць па часу атрымання</item>
+        <item>Сартаваць па колькасці апавяшчэнняў</item>
+        <item>Праграмы, якія могуць паказваць апавяшчэнні</item>
+        <item>Праграмы, якія не могуць паказваць апавяшчэнні</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Паказваць змесціва апавяшчэнняў</item>
+        <item>Не паказваць апавяшчэнні на Экране блакавання</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Паказваць змесціва апавяшчэнняў</item>
+        <item>Паказваць апавяшчэнні, але хаваць іх змесціва</item>
+        <item>Не паказваць апавяшчэнні на Экране блакавання</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

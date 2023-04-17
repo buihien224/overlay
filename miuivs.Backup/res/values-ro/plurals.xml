@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 oră în urmă</item>
+        <item quantity="one">1 oră în urmă</item>
+        <item quantity="few">1 oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 oră în urmă</item>
+        <item quantity="one">1 oră în urmă</item>
+        <item quantity="few">1 oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">În 1 oră</item>
+        <item quantity="one">În 1 oră</item>
+        <item quantity="few">În 1 oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d min</item>
+        <item quantity="one">în 1 min</item>
+        <item quantity="few">în %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">1 min în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d fișiere date de aplicații</item>
+        <item quantity="one">%d fișier date de aplicații</item>
+        <item quantity="few">%d fișiere date de aplicații</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d fișiere sistem de date</item>
+        <item quantity="one">%d fișier sistem de date</item>
+        <item quantity="few">%d fișiere sistem de date</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d elemente</item>
+        <item quantity="one">%1$d/%2$d element</item>
+        <item quantity="few">%1$d/%2$d elemente</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">În 1 oră</item>
+        <item quantity="one">În 1 oră</item>
+        <item quantity="few">În 1 oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">în 1 minut</item>
+        <item quantity="few">în %d minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s copii de rezervă (%2$s)</item>
+        <item quantity="one">%1$s copie de rezervă (%2$s)</item>
+        <item quantity="few">%1$s copii de rezervă (%2$s)</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+        <item quantity="few">%d elemente selectate</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Copie de rezervă efectuată cu succes. Nu s-a putut salva %d elemente.</item>
+        <item quantity="one">Copie de rezervă efectuată cu succes. Nu s-a putut salva %d element.</item>
+        <item quantity="few">Copie de rezervă efectuată cu succes. Nu s-a putut salva %d elemente.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Restabilit cu succes. Nu s-a putut restabili %d elemente.</item>
+        <item quantity="one">Restabilit cu succes. Nu s-a putut restabili %d element.</item>
+        <item quantity="few">Restabilit cu succes. Nu s-a putut restabili %d elemente.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">Un 1 în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Importat %d elemente. "</item>
+        <item quantity="one">"Importat %d element. "</item>
+        <item quantity="few">"Importat %d elemente. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Importați %d elemente din nou.</item>
+        <item quantity="one">Importați %d element din nou.</item>
+        <item quantity="few">Importați %d elemente din nou.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Importate și restaurate %d elemente</item>
+        <item quantity="one">Importat și restaurat %d element</item>
+        <item quantity="few">Importate și restaurate %d elemente</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Restaurat %d elemente</item>
+        <item quantity="one">Restaurat %d element</item>
+        <item quantity="few">Restaurat %d elemente</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">elemente</item>
+        <item quantity="one">element</item>
+        <item quantity="few">elemente</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d elemente</item>
+        <item quantity="one">%1$s | %2$d element</item>
+        <item quantity="few">%1$s | %2$d elemente</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d elemente,</item>
+        <item quantity="one">%d element,</item>
+        <item quantity="few">%d elemente,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">Nu s-a putut transfera %d elemente. Atingeți pentru a vedea detalile.</item>
+        <item quantity="one">Nu s-a putut transfera %d element. Atingeți pentru a vedea detalile.</item>
+        <item quantity="few">Nu s-a putut transfera %d elemente. Atingeți pentru a vedea detalile.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">Nu s-a putut transfera %d elemente.</item>
+        <item quantity="one">Nu s-a putut transfera %d element.</item>
+        <item quantity="few">Nu s-a putut transfera %d elemente.</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+</resources>

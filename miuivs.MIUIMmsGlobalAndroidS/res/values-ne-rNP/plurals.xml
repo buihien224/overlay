@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">आधा घण्टा पहिले</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s सन्देशहरु मेत्ताउने?</item>
+        <item quantity="one">%1$s सन्देश मेत्ताउने?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d सन्देशहरू</item>
+        <item quantity="one">%d सन्देश</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d सन्देशहरु सिंक भएको छैन</item>
+        <item quantity="one">%d सन्देश सिंक भएको छैन</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">चयन गरेको %1$s कुराकानीहरू मेटाउनुहुन्छ?</item>
+        <item quantity="one">चयन गरेको %1$s कुराकानी मेटाउनुहुन्छ?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d चयन गरियो</item>
+        <item quantity="one">%d चयन गरियो</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">सन्देश %1$s र अन्य %2$d व्यक्तिलाई प्राप्त भयो</item>
+        <item quantity="one">सन्देश %1$s र अन्य %2$d व्यक्तिलाई प्राप्त भयो</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d सम्पर्हरुकलाई पठाउन सकेन</item>
+        <item quantity="one">%d सम्पर्कलाई पठाउन सकेन</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">आधा घण्टा अघि</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d सन्देशहरू</item>
+        <item quantity="one">%d सन्देश</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d मानिसहरूले %2$s चिन्हित गरिएको</item>
+        <item quantity="one">%1$d मानिसहरूले %2$s का रूपमा चिन्ह लगाएको</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s सन्देशहरू</item>
+        <item quantity="one">%1$s सन्देश</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d वस्तुहरू चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s सन्देसहरू | "</item>
+        <item quantity="one">"%s सन्देस | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">फिर्ता लिनुहोस् (%dसे)</item>
+        <item quantity="one">फिर्ता लिनुहोस् (%dसे)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">तपाईंले %d समूहबाट कुराकानी निमन्त्रणाहरू प्राप्त गर्नुभयो</item>
+        <item quantity="one">तपाईंले %d समूहबाट कुराकानी निमन्त्रणा प्राप्त गर्नुभयो</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s मानिसहरु</item>
+        <item quantity="one">%1$s मानिस</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" को लागि %1$s परिणामहरू</item>
+        <item quantity="one">\"%2$s\" को लागि %1$s परिणाम</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s सन्देशहरु पठाइयो</item>
+        <item quantity="one">%1$s सन्देश पठाइयो</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d सेकेन्डहरु</item>
+        <item quantity="one">%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d सेकेन्डहरु</item>
+        <item quantity="one">%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d समय दिइएका सन्देशहरु पठाइएका छन्</item>
+        <item quantity="one">%d समय दिइएका सन्देशह पठाइएका छन्</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d सन्देशहरु)</item>
+        <item quantity="one">(%d सन्देश)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d प्रापकहरु</item>
+        <item quantity="one">%d प्रापक</item>
+    </plurals>
+</resources>

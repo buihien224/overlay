@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Pangalan</item>
+        <item>Palayaw</item>
+        <item>Telepono</item>
+        <item>E-mail</item>
+        <item>Samahan</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Kaarawan</item>
+        <item>Website</item>
+        <item>Lugar</item>
+        <item>Tala</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Palagi</item>
+        <item>Kapag tahimik lamang</item>
+        <item>Hindi</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Sa mensahe</item>
+        <item>Sa Cloud message</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Sa mensahe</item>
+        <item>Sa Cloud message</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>maliban</item>
+    </string-array>
+</resources>

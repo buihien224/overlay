@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Conturi</item>
+        <item>Adaugă și gestionează conturi de la terță parte</item>
+        <item>Conturi;SNS;Facebook;Google;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Conturi</item>
+        <item>Adaugă și gestionează conturi de la terță parte</item>
+        <item>Conturi;SNS;WeChat;QQ;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Schimbă parola</item>
+        <item>Schimbă parola Contului Xioami</item>
+        <item>Schimbă parola;Actualizează parola;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Spațiu de stocare în familie</item>
+        <item>Vizualizați/activați spațiul de stocare pentru familie</item>
+        <item>Spațiu de stocare în Familie;Partajare spațiu de stocare</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Servicii pentru familie</item>
+        <item>Vizualizați/activați Serviciile pentru familie</item>
+        <item>Familie;Servicii pentru familie;Partajare cu familia</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ajutor</item>
+        <item>Obține ajutor și asistență pentru Contul Xiaomi</item>
+        <item>Cont Xioami;Cont;Ajutor cont;Centrul de ajutor</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificare în 2 pași</item>
+        <item>Setează verificarea în doi pași pentru Contul Xioami</item>
+        <item>Conectează-te;Autentificare;Verificare în 2 pași;Xiaomi;Cont;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Securitate cont</item>
+        <item>Telefon și e-mail de recuperare, administrare parolă</item>
+        <item>Securitate cont;Conectează-te;Telefon de recuperare;E-mail de recuperare;Protecție cont;Număr de telefon;E-mail;Schimbă parola;Adaugă număr de telefon;Adaugă e-mail;Cont Mi;Cont; Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispozitive</item>
+        <item>Gestionează dispozitivele asociate Contului Xiaomi</item>
+        <item>Gestionează dispozitive;Dispozitivele mele;Listă dispozitive;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Politica de confidențialitate</item>
+        <item>Vizualizează Politica de confidențialitate a Contului Xioami</item>
+        <item>Cont Mi;Cont;Cont Xiaomi;Politica de confidențialitate</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-mail de recuperare</item>
+        <item>Adăugați e-mail de recuperare</item>
+        <item>E-mail de recuperare;E-mail;Adaugă e-mail;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon de recuperare</item>
+        <item>Adaugă telefon de recuperare</item>
+        <item>Telefon de recuperare;Adaugă telefon;Cont Mi;Cont;Cont Xioami</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anunțuri</item>
+        <item>Gestionează anunțurile de sistem</item>
+        <item>Anunțuri;Cont Mi;Cont;Cont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informații cont</item>
+        <item>Vizualizați fotografia de profil și gestionați informațiile contului</item>
+        <item>Informații personale;fotografie de profil;poreclă;informații cont;Mi ID;ID;Cont Mi;Cont;Cont Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Acordul Utilizatorului</item>
+        <item>Acordul Utilizatorului</item>
+        <item>Cont Xaomi;Cont;Acordul utilizatorului;EULA</item>
+    </string-array>
+</resources>

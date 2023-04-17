@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godzinę temu</item>
+        <item quantity="many">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godzinę temu</item>
+        <item quantity="many">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za godzinę</item>
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+        <item quantity="few">za %d min</item>
+        <item quantity="many">za %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">1 min temu</item>
+        <item quantity="few">%d min temu</item>
+        <item quantity="many">%d min temu</item>
+    </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">Dzisiaj pozostało %2$d minuty na \"%1$s\"</item>
+        <item quantity="one">Dzisiaj pozostała %2$d minuta na \"%1$s\"</item>
+        <item quantity="few">Dzisiaj pozostały %2$d minuty na \"%1$s\"</item>
+        <item quantity="many">Dzisiaj pozostało %2$d minut na \"%1$s\"</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za godzinę</item>
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="many">za %d minut</item>
+    </plurals>
+    <plurals name="last_several_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+        <item quantity="many">%d zaznaczonych elementów</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">1 minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="many">%d minut temu</item>
+    </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Korzystałeś z urządzenia przez %d minut bez przerwy</item>
+        <item quantity="one">Korzystałeś z urządzenia przez %d minutę bez przerwy</item>
+        <item quantity="few">Korzystałeś z urządzenia przez %d minuty bez przerwy</item>
+        <item quantity="many">Korzystałeś z urządzenia przez %d minut bez przerwy</item>
+    </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Odpocznij przez %d minuty</item>
+        <item quantity="one">Odpocznij przez %d minutę</item>
+        <item quantity="few">Odpocznij przez %d minuty</item>
+        <item quantity="many">Odpocznij przez %d minut</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Korzystasz z tego urządzenia już przez %d minuty</item>
+        <item quantity="one">Korzystasz z tego urządzenia już przez %d minutę</item>
+        <item quantity="few">Korzystasz z tego urządzenia już przez %d minuty</item>
+        <item quantity="many">Korzystasz z tego urządzenia już przez %d minut</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Możesz dodać do %d przerw</item>
+        <item quantity="one">Możesz dodać tylko %d przerwę</item>
+        <item quantity="few">Możesz dodać do %d przerw</item>
+        <item quantity="many">Możesz dodać do %d przerw</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Dzisiejszy czas na ekranie jest równy %d-dniowej średniej</item>
+        <item quantity="one">Dzisiejszy czas na ekranie jest równy %d-dniowej średniej</item>
+        <item quantity="few">Dzisiejszy czas na ekranie jest równy %d-dniowej średniej</item>
+        <item quantity="many">Dzisiejszy czas na ekranie jest równy %d-dniowej średniej</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s mniej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="one">%2$s mniej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="few">%2$s mniej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="many">%2$s mniej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s więcej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="one">%2$s więcej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="few">%2$s więcej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+        <item quantity="many">%2$s więcej czasu na ekranie niż Twoja %1$d-dniowa średnia</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f razy</item>
+        <item quantity="one">%.2f raz</item>
+        <item quantity="few">%.2f razy</item>
+        <item quantity="many">%.2f razy</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f średnio razy dziennie</item>
+        <item quantity="one">%.2f średnio raz dziennie</item>
+        <item quantity="few">%.2f średnio razy dziennie</item>
+        <item quantity="many">%.2f średnio razy dziennie</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Odblokowano %d razy</item>
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="few">Odblokowano %d razy</item>
+        <item quantity="many">Odblokowano %d razy</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Odblokowano %1$d razy %2$s</item>
+        <item quantity="one">Odblokowano %1$d raz %2$s</item>
+        <item quantity="few">Odblokowano %1$d razy %2$s</item>
+        <item quantity="many">Odblokowano %1$d razy %2$s</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Odblokowano %d razy</item>
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="few">Odblokowano %d razy</item>
+        <item quantity="many">Odblokowano %d razy</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s godz.</item>
+        <item quantity="one">≈%s godz.</item>
+        <item quantity="few">≈%s godz.</item>
+        <item quantity="many">≈%s godz.</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s min</item>
+        <item quantity="one">≈%s min</item>
+        <item quantity="few">≈%s min</item>
+        <item quantity="many">≈%s min</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Odblokowano %d razy</item>
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="few">Odblokowano %d razy</item>
+        <item quantity="many">Odblokowano %d razy</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Odblokowano %d razy</item>
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="few">Odblokowano %d razy</item>
+        <item quantity="many">Odblokowano %d razy</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Odebrano %d powiadomień</item>
+        <item quantity="one">Odebrano %d powiadomienie</item>
+        <item quantity="few">Odebrano %d powiadomienia</item>
+        <item quantity="many">Odebrano %d powiadomień</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Odebrano %d powiadomień</item>
+        <item quantity="one">Odebrano %d powiadomienie</item>
+        <item quantity="few">Odebrano %d powiadomienia</item>
+        <item quantity="many">Odebrano %d powiadomień</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minut to duży krok w stronę uważności i koncentracji.</item>
+        <item quantity="one">%d minuta to duży krok w stronę uważności i koncentracji.</item>
+        <item quantity="few">%d minuty to duży krok w stronę uważności i koncentracji.</item>
+        <item quantity="many">%d minut to duży krok w stronę uważności i koncentracji.</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+        <item quantity="few">%d godz.</item>
+        <item quantity="many">%d godz.</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d godziny</item>
+        <item quantity="one">%d godzinę</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godziny</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+        <item quantity="few">" godz."</item>
+        <item quantity="many">" godz."</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+        <item quantity="few">" min"</item>
+        <item quantity="many">" min"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d powiadomień</item>
+        <item quantity="one">%d powiadomienie</item>
+        <item quantity="few">%d powiadomienia</item>
+        <item quantity="many">%d powiadomień</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d razy</item>
+        <item quantity="one">%d raz</item>
+        <item quantity="few">%d razy</item>
+        <item quantity="many">%d razy</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Śr. %.2f razy</item>
+        <item quantity="one">Śr. %.2f raz</item>
+        <item quantity="few">Śr. %.2f razy</item>
+        <item quantity="many">Śr. %.2f razy</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Weekendy: %d godzin</item>
+        <item quantity="one">Weekendy: %d godzina</item>
+        <item quantity="few">Weekendy: %d godziny</item>
+        <item quantity="many">Weekendy: %d godzin</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Weekendy: %d minut</item>
+        <item quantity="one">Weekendy: %d minuta</item>
+        <item quantity="few">Weekendy: %d minuty</item>
+        <item quantity="many">Weekendy: %d minut</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Dni robocze: %d godzin</item>
+        <item quantity="one">Dni robocze: %d godzina</item>
+        <item quantity="few">Dni robocze: %d godziny</item>
+        <item quantity="many">Dni robocze: %d godzin</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Dni robocze: %d minut</item>
+        <item quantity="one">Dni robocze: %d minuta</item>
+        <item quantity="few">Dni robocze: %d minuty</item>
+        <item quantity="many">Dni robocze: %d minut</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+        <item quantity="few">%s godz.</item>
+        <item quantity="many">%s godz.</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="few">%s min</item>
+        <item quantity="many">%s min</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+        <item quantity="few">" godz."</item>
+        <item quantity="many">" godz."</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+        <item quantity="few">" min"</item>
+        <item quantity="many">" min"</item>
+    </plurals>
+</resources>

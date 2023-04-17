@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">1 മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">%s ആഴ്‌ചയായി നിങ്ങൾ ഇനങ്ങൾ ബാക്കപ്പ് ചെയ്‌തിട്ടില്ലെന്ന് തോന്നുന്നു. പ്രധാനപ്പെട്ട ഒന്നും നഷ്‌ടപ്പെടാതിരിക്കാൻ ബാക്കപ്പുകൾ സൃഷ്‌ടിക്കുക.</item>
+        <item quantity="one">%s ആഴ്‌ചയായി നിങ്ങൾ ഇനങ്ങൾ ബാക്കപ്പുചെയ്‌തിട്ടില്ലെന്ന് തോന്നുന്നു. പ്രധാനപ്പെട്ട ഒന്നും നഷ്‌ടപ്പെടാതിരിക്കാൻ ബാക്കപ്പുകൾ സൃഷ്‌ടിക്കുക.</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s ബാക്കപ്പുകൾ (%2$s)</item>
+        <item quantity="one">%1$s ബാക്കപ്പ് (%2$s)</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">അര മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="one">അര മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 മണിക്കൂറില്‍</item>
+        <item quantity="one">1 മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">അര മണിക്കൂറില്‍</item>
+        <item quantity="one">അര മണിക്കൂറില്‍</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ഉടനടി</item>
+        <item quantity="one">ഉടനടി</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d മിനിറ്റില്‍</item>
+        <item quantity="one">1 മിനിറ്റില്‍</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ഇപ്പോൾ</item>
+        <item quantity="one">ഇപ്പോൾ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ഇനങ്ങള്‍ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%d ഇനം തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">1 മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d ആപ്പുകൾ ബാക്കപ്പുചെയ്‌തു</item>
+        <item quantity="one">%d ആപ്പ് ബാക്കപ്പുചെയ്‌തു</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d ആപ്പുകൾ പുനഃസ്ഥാപിച്ചു</item>
+        <item quantity="one">%d ആപ്പ് പുനഃസ്ഥാപിച്ചു</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">ഏകദേശം %s മിനിറ്റ് ശേഷിക്കുന്നു</item>
+        <item quantity="one">ഏകദേശം %s മിനിറ്റ് ശേഷിക്കുന്നു</item>
+    </plurals>
+</resources>

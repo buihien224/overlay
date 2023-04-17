@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>ສ່ວນຕົ້ນໃບແຈ້ງໜີ້: *** Inc.</item>
+        <item>ທີ່ຢູ່່: ຖະໜົນ, ອາພາດເມັນ, ເມືອງ, ປະເທດ/ພື້ນທີ່, ແຂວງ, ລະຫັດໄປສະນີ</item>
+        <item>ກະລຸນາວາງແພັກເກດໄວ້ຢູ່ປະຕູ. ຂອບໃຈ!</item>
+        <item>ລໍຖ້າຄາວໜຶ່ງ, ດຽວຂ້ອຍຈະກັບມາ.</item>
+        <item>ຂ້ອຍກຳລັງປະຊຸມ. ກະລຸນາສົ່ງຂໍ້ຄວາມ.</item>
+        <item>ບໍ່ສາມາດລົມໄດ້ໃນຕອນນີ້. ຂ້ອຍຈະໂທກັບໂດຍໄວທີ່ສຸດ.</item>
+        <item>ຂອບໃຈ!</item>
+    </string-array>
+</resources>

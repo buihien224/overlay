@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sortieren nach Empfangszeit</item>
+        <item>Sortieren nach Anzahl der Benachrichtigungen</item>
+        <item>Apps, die Benachrichtigungen anzeigen können</item>
+        <item>Apps, die keine Benachrichtigungen anzeigen können</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Benachrichtigungsinhalte anzeigen</item>
+        <item>Keine Benachrichtigungen anzeigen</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Benachrichtigungsinhalt anzeigen</item>
+        <item>Benachrichtigungen anzeigen, aber Inhalte ausblenden</item>
+        <item>Keine Benachrichtigungen anzeigen</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

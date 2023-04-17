@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d అప్లికేషన్‌లకి ఎన్నడూ నిలిపివేయవద్దు</item>
+        <item quantity="one">%d అప్లికేషన్‌కి ఎన్నడూ నిలిపివేయవద్దు</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d అప్లికేషన్‌లకి ఎల్లప్పుడూ నిలిపివేయి</item>
+        <item quantity="one">%d అప్లికేషన్‌కి ఎల్లప్పుడూ నిలిపివేయి</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d అప్లికేషన్‌లు స్వయంప్రారంభమయ్యేందుకు అనుమతించబడ్డాయి</item>
+        <item quantity="one">%d అప్లికేషన్ స్వయంప్రారంభమయ్యేందుకు అనుమతించబడింది</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d అప్లికేషన్‌లు నెట్‌వర్క్‌కి కనెక్ట్ కాగలవు</item>
+        <item quantity="one">%d అప్లికేషన్ నెట్‌వర్క్‌కి కనెక్ట్ కాగలదు</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d అప్లికేషన్‌లు నెట్‌వర్క్‌కి కనెక్ట్ కాలేవు</item>
+        <item quantity="one">%d అప్లికేషన్ నెట్‌వర్క్‌కి కనెక్ట్ కాలేదు</item>
+    </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d అందుబాటులో ఉన్న పరికరాలు</item>
+        <item quantity="one">%d అందుబాటులో ఉన్న పరికరం</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">ప్రతి %d సెకన్లు</item>
+        <item quantity="one">ప్రతి %d సెకను</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d పరికరాలు</item>
+        <item quantity="one">%d పరికరం</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%s అప్లికేషన్‌ల కోసం కనెక్షన్ నిరోధించబడింది</item>
+        <item quantity="one">%s అప్లికేషన్ కోసం కనెక్షన్ నిరోధించబడింది</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d వ్యక్తి కనెక్ట్ అయి ఉన్నారు</item>
+        <item quantity="one">%1$d వ్యక్తి కనెక్ట్ అయి ఉన్నారు</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">మీరు %d అక్షరాల వరకు నమోదు చేయవచ్చు</item>
+        <item quantity="one">మీరు %d అక్షరం వరకు నమోదు చేయవచ్చు</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">కనీసం %d అక్షరాలని నమోదు చేయండి</item>
+        <item quantity="one">కనీసం %d అక్షరాన్ని నమోదు చేయండి</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">పిన్‌లో తప్పనిసరిగా %d అంకెలు ఉండాలి</item>
+        <item quantity="one">పిన్‌లో తప్పనిసరిగా %d అంకె ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">మీరు %d అంకెల వరకు నమోదు చేయవచ్చు</item>
+        <item quantity="one">మీరు %d అంకె వరకు నమోదు చేయవచ్చు</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">కనీసం %d అంకెలను నమోదు చేయండి</item>
+        <item quantity="one">కనీసం %d అంకెని నమోదు చేయండి</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">కనీసం %d చుక్కలను కలపండి. మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">కనీసం %d చుక్కని కలపండి. మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">చాలా ఎక్కువ తప్పు ప్రయత్నాలు చేసారు. %d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">చాలా ఎక్కువ తప్పు ప్రయత్నాలు చేసారు. %d సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d సెకన్లు వేచి ఉండి, ఆపై మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">%d సెకను వేచి ఉండి, ఆపై మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d జోడించబడ్డాయి</item>
+        <item quantity="one">%d జోడించబడింది</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">సేవ్ చేసిన నెట్‌వర్క్‌లు సమీపంలో గుర్తించబడినప్పుడు Wi-Fi ఆటోమేటిక్‌గా ఆన్ చేయబడుతుంది, ఎటువంటి కనెక్షన్ ఏర్పాటు కాకపోతే %d నిమిషాల తరువాత ఆఫ్ చేయబడుతుంది</item>
+        <item quantity="one">సేవ్ చేసిన నెట్‌వర్క్‌లు సమీపంలో గుర్తించబడినప్పుడు Wi-Fi ఆటోమేటిక్‌గా ఆన్ చేయబడుతుంది, ఎటువంటి కనెక్షన్ ఏర్పాటు కాకపోతే %d నిమిషం తరువాత ఆఫ్ చేయబడుతుంది</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d అంశాలు ఎంచుకున్నారు</item>
+        <item quantity="one">%d అంశం ఎంచుకున్నారు</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">మీరు CITని పొందడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">మీరు CITని పొందడానికి %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">మీరు పరికర సమాచారాన్ని తెరవడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">మీరు పరికర సమాచారాన్ని తెరవడానికి %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">మీరు లోపాన్ని నివేదించడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">మీరు లోపాన్ని నివేదించడానికి %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d యాప్‌లు నోటిఫికేషన్‌లు చూపించలేవు</item>
+        <item quantity="one">%d యాప్ నోటిఫికేషన్‌లను చూపించలేదు</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d యాప్‌లు నోటిఫికేషన్‌లు చూపించగలవు</item>
+        <item quantity="one">%d యాప్ నోటిఫికేషన్ చూపించగలదు</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">మీ ఇయర్‌ఫోన్‌లలో ఒకటి %d నిమిషాల కంటే ఎక్కువ సమయం మీ చెవిలో లేక ఛార్జింగ్ కేస్‌లో లేనట్లయితే ఒక హెచ్చరికని స్వీకరిస్తారు</item>
+        <item quantity="one">మీ ఇయర్‌ఫోన్‌లలో ఒకటి %d నిమిషం కంటే ఎక్కువ సమయం మీ చెవిలో లేక ఛార్జింగ్ కేస్‌లో లేనట్లయితే ఒక హెచ్చరికని స్వీకరిస్తారు</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">%d సార్లు అన్‌లాక్ చేసారు</item>
+        <item quantity="one">%d సారి అన్‌లాక్ చేసారు</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">%d సార్లు అన్‌లాక్ చేసారు</item>
+        <item quantity="one">%d సారి అన్‌లాక్ చేసారు</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d నోటిఫికేషన్‌లు స్వీకరించారు</item>
+        <item quantity="one">%d నోటిఫికేషన్ స్వీకరించారు</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d నోటిఫికేషన్‌లు స్వీకరించారు</item>
+        <item quantity="one">%d నోటిఫికేషన్ స్వీకరించారు</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" గంటలు"</item>
+        <item quantity="one">" గంట"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" నిమిషాలు"</item>
+        <item quantity="one">" నిమిషం"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d సార్లు</item>
+        <item quantity="one">%d సారి</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">వారాంతాలు: %d గంటలు</item>
+        <item quantity="one">వారాంతాలు: %d గంట</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">వారాంతాలు: %d నిమిషాలు</item>
+        <item quantity="one">వారాంతాలు: %d నిమిషం</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">వారపు రోజులు: %d గంటలు</item>
+        <item quantity="one">వారపు రోజులు: %d గంట</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">వారపు రోజులు: %d నిమిషాలు</item>
+        <item quantity="one">వారపు రోజులు: %d నిమిషం</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" గంటలు"</item>
+        <item quantity="one">" గంట"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" నిమిషాలు"</item>
+        <item quantity="one">" నిమిషం"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d రిస్క్‌లు గుర్తించబడ్డాయి</item>
+        <item quantity="one">%d రిస్క్ గుర్తించబడింది</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d నెట్‌వర్క్‌లను భాగస్వామ్యం చేసారు</item>
+        <item quantity="one">%d నెట్‌వర్క్‌ను భాగస్వామ్యం చేసారు</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ అయ్యాయి</item>
+        <item quantity="one">%1$d పరికరం కనెక్ట్ అయింది</item>
+    </plurals>
+</resources>

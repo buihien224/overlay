@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>၎င်းသည် အကြံပြုထားသော အကြောင်းအရာဖြစ်သည်။</item>
+        <item>၎င်းသည် ကြော်ငြာဖြစ်ပါသည်။</item>
+    </string-array>
+</resources>

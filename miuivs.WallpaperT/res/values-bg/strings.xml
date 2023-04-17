@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Навигиране към началния екран</string>
+    <string name="abc_action_bar_up_description">Навигиране нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Преглед на всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">клавиша за интервал</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Търсете…</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
+    <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+    <string name="afternoon">Следобяд</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Сутрин</string>
+    <string name="earth_position_content_0">Природния Парк Нос Каменяк в Хърватия е дом на едни от най-великолепните спиращи дъха гледки по крайбрежието на Средиземно море. Впечатляващите геоложки формации тук превръщат мястото в рай за гмуркачите. Всяко лято яркото слънце и топлите средиземноморски води привличат безброй любители на природата.</string>
+    <string name="earth_position_content_1">"Терасовидните полета са резултат от човешка дейност, но също така представляват невероятна природна гледка.
+В Китай оризови тераси се намират главно на юг от река Яндзъ, където дъждовете са обилни и планински вериги завладяват пейзажа. Терасите Лундзи са на възраст над 700 години, а около тях, в близките села, са разположени и няколко забележителни исторически паметника."</string>
+    <string name="earth_position_content_2">Илулисат се намира в Западна Гренландия, 200 километра на север от Северния полярен кръг. Прекрасния 56 километров фиорд Илулисат е разположен точно до ледник Якобсхавн. Този ледник е най-големия по размер в цялото Северно Полукълбо и образува 2 милиарда тона айсберг всяка година, който след лека отбивка на север, се насочва на юг и се влива в Атлантическия Океан.</string>
+    <string name="earth_position_content_3">Наваджио е един от най-красивите плажове на брега на Закинтос в Йонийските острови на Гърция. Според легендите той е дом на известно корабокрушение, поради което плажа също бива наричан \"Залива на контрабандистите\".</string>
+    <string name="earth_position_content_4">Планинската верига Доломити се намира в североизточна Италия. Връх Сечеда е едно от най-живописните места там.</string>
+    <string name="earth_position_title_0">"Нос Каменяк
+Хърватия"</string>
+    <string name="earth_position_title_1">"Гуанси, Китай
+Терасовидни Полета Лундзи"</string>
+    <string name="earth_position_title_2">"Илулисат
+Гренландия"</string>
+    <string name="earth_position_title_3">"Гърция
+Плаж Наваджио"</string>
+    <string name="earth_position_title_4">"Италия
+Доломити"</string>
+    <string name="earth_summary">Земята е люлката на човешката цивилизация</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Родна планета</string>
+    <string name="empty" />
+    <string name="eras_ad">н.е.</string>
+    <string name="eras_bc">пр.Хр.</string>
+    <string name="evening">Следобед</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">М</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'min' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S's'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">Петък</string>
+    <string name="friday_short">Пт.</string>
+    <string name="friday_shortest">Пт.</string>
+    <string name="geometry_summary">Форми, светлина и цветове</string>
+    <string name="geometry_super_wallpaper_label">Геометрия</string>
+    <string name="geometry_title">Геометрия</string>
+    <string name="mars_position_content_0">"Този район е съставен от стръмни скали, меси и обширни равнини, за които се смята, че са били формирани от ледници покрити с отломки. Тук също са открити глинени минерали, които будят голям интерес в проучванията в търсене на живот на древния Марс. 
+
+НАСА/JPL/Университета на Аризона"</string>
+    <string name="mars_position_content_1">"Заснет по време на изследването на Полетата Пахръмп в Кратер Гейл от Марс ровър Кюриосити. Района е съставен от седиментни скали, които учените вярват са били формирани в следствие на присъствието на вода, и се предполага, че тъмните зони са съставени от пясък.
+
+НАСА/JPL/Университета на Аризона"</string>
+    <string name="mars_position_content_2">"Морт Валис е древен канал за отлив на вода заобиколен от светли скали с обилни количества глина. Глинените минерали лесно запазват микроскопичния живот на Земята, така че може би следи от древен живот ще бъде открит в Морт.
+
+НАСА/JPL/Университета на Аризона"</string>
+    <string name="mars_position_content_3">"Тези изображения са заснети по време на проучването на Паръмп Хилс в Гейл Кратера от марс роувъра Кюриосити. Този регион съдържа седиментни скали, които учените вярват са били формирани в присъствието на вода. По-тъмните райони съдържат пясък.
+
+НАСА/JPL/Университета на Аризона"</string>
+    <string name="mars_position_content_4">"Барам Валис е долина пресечена от река, която на места притежава изпечени стени. Наличието на линии оставени при ерозия на дъното доказва, че при формирането е била налична течност.
+
+НАСА/JPL/Университета на Аризона"</string>
+    <string name="mars_position_title_0">"Регион
+Nilosyrtis Mensae"</string>
+    <string name="mars_position_title_1">Кратер Гейл</string>
+    <string name="mars_position_title_2">"Кратер
+в Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Паръмп Хилс</string>
+    <string name="mars_position_title_4">Барам Валис</string>
+    <string name="mars_summary">Обятните пустини на Марс винаги са възхитявали човечеството</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">Червената планета</string>
+    <string name="midnight">Нощ</string>
+    <string name="monday">Понеделник</string>
+    <string name="monday_short">Пон.</string>
+    <string name="monday_shortest">Пон.</string>
+    <string name="month_april">Април</string>
+    <string name="month_april_short">Апр.</string>
+    <string name="month_april_shortest">Апр.</string>
+    <string name="month_august">Август</string>
+    <string name="month_august_short">Авг.</string>
+    <string name="month_august_shortest">Авг.</string>
+    <string name="month_december">Декември</string>
+    <string name="month_december_short">Дек.</string>
+    <string name="month_december_shortest">Дек.</string>
+    <string name="month_february">Февруари</string>
+    <string name="month_february_short">Фев.</string>
+    <string name="month_february_shortest">Фев.</string>
+    <string name="month_january">Януари</string>
+    <string name="month_january_short">Ян.</string>
+    <string name="month_january_shortest">Ян.</string>
+    <string name="month_july">Юли</string>
+    <string name="month_july_short">Юли</string>
+    <string name="month_july_shortest">Юли</string>
+    <string name="month_june">Юни</string>
+    <string name="month_june_short">Юни</string>
+    <string name="month_june_shortest">Юни</string>
+    <string name="month_march">Март</string>
+    <string name="month_march_short">Март</string>
+    <string name="month_march_shortest">Март</string>
+    <string name="month_may">Май</string>
+    <string name="month_may_short">Май</string>
+    <string name="month_may_shortest">Май</string>
+    <string name="month_november">Ноември</string>
+    <string name="month_november_short">Ноем.</string>
+    <string name="month_november_shortest">Ноем.</string>
+    <string name="month_october">Октомври</string>
+    <string name="month_october_short">Окт.</string>
+    <string name="month_october_shortest">Окт.</string>
+    <string name="month_september">Септември</string>
+    <string name="month_september_short">Септ.</string>
+    <string name="month_september_shortest">Септ.</string>
+    <string name="morning">Сутрин</string>
+    <string name="night">Вечер</string>
+    <string name="noon">Обед</string>
+    <string name="pm">PM</string>
+    <string name="saturday">Събота</string>
+    <string name="saturday_short">Сб.</string>
+    <string name="saturday_shortest">Сб.</string>
+    <string name="saturn_summary">Пръстените на Сатурн са най-невероятния феномен в Слънчевата система</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Далечни пръстени</string>
+    <string name="search_menu_title">Търсене</string>
+    <string name="snowmountain_summary">Планинските върхове на планина Съгунян осветени от слънцето</string>
+    <string name="snowmountain_super_wallpaper_label">Снежни върхове</string>
+    <string name="snowmountain_title">Снежни върхове</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">Неделя</string>
+    <string name="sunday_short">Нед.</string>
+    <string name="sunday_shortest">Нед.</string>
+    <string name="super_wallpaper_list_label">Супер тапети</string>
+    <string name="thursday">Четвъртък</string>
+    <string name="thursday_short">Четв.</string>
+    <string name="thursday_shortest">Четв.</string>
+    <string name="time_picker_label_hour">Ч</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Утре</string>
+    <string name="tuesday">Вторник</string>
+    <string name="tuesday_short">Вт.</string>
+    <string name="tuesday_shortest">Вт.</string>
+    <string name="wednesday">Сряда</string>
+    <string name="wednesday_short">Ср.</string>
+    <string name="wednesday_shortest">Ср.</string>
+    <string name="yesterday">Вчера</string>
+</resources>

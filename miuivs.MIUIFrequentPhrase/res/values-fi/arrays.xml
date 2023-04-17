@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Laskun otsikko: *** Inc.</item>
+        <item>Osoite: Katu, Asunto, Kaupunki, Maa/Alue, Maakunta, Postinumero</item>
+        <item>Jätäthän paketin oven viereen. Kiitos!</item>
+        <item>Odota hetki, palaan pian.</item>
+        <item>Olen kokouksessa. Ole hyvä ja lähetä tekstiviesti.</item>
+        <item>En voi puhua nyt. Soitan sinulle mahdollisimman pian.</item>
+        <item>Kiitos!</item>
+    </string-array>
+</resources>

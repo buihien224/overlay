@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Hesablar</item>
+        <item>Üçüncü tərəf hesabları əlavə et və idarə et</item>
+        <item>Hesablar;SNS;Facebook;Google;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Hesablar</item>
+        <item>Üçüncü tərəf hesabları əlavə et və idarə et</item>
+        <item>Hesablar;SNS;WeChat;QQ;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Şifrəni dəyişdir</item>
+        <item>Xiaomi Hesabının şifrəsini dəyişdirin</item>
+        <item>Şifrəni dəyişdirin;Şifrəni yeniləyin;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Ailə yaddaş sahəsi</item>
+        <item>Ailə yaddaş sahəsinə baxın/aktiv edin</item>
+        <item>Ailə yaddaş sahəsi;Yaddaş paylaşma</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Ailə xidmətləri</item>
+        <item>Ailə xidmətlərinə baxın/aktiv edin</item>
+        <item>Ailə;Ailə xidmətləri;Ailə paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Kömək</item>
+        <item>Xiaomi Hesabı yardımı və dəstəyi alın</item>
+        <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Hesab yardımı;Yardım mərkəzi</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2 addımlı təsdiqləmə</item>
+        <item>Xiaomi Hesabınız üçün 2-addımlı təsdiqləmə seçin</item>
+        <item>Daxil olma;Giriş;2 mərhələli;təsdiqləmə;Xiaomi;Hesab;Mi Hesab;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Hesab təhlükəsizliyi</item>
+        <item>Bərpa telefonu və e-poçtu, şifrə idarəetmə</item>
+        <item>Hesab təhlükəsizliyi;Giriş;Bərpa etmə telefonu;Bərpa etmə e-poçtu; Hesabın qorunması;Telefon nömrəsi;Elektron poçt;Şifrənizi dəyişdirin; Telefon nömrəsini əlavə edin;E-poçt əlavə edin;Mi Hesabı;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Cihazlar</item>
+        <item>Xiaomi Hesabınız ilə əlaqəli cihazları idarə edin</item>
+        <item>Cihazları idarə et;Cihazlarım;Cihazlar;Cihazlar siyahısı;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Gizlilik Siyasəti</item>
+        <item>Xiaomi Hesabı Gizlilik Siyasətinə bax</item>
+        <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Gizlilik Siyasəti</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Bərpa etmə e-poçtu</item>
+        <item>Bərpa etmə e-poçtu əlavə edin</item>
+        <item>Bərpa etmə e-poçtu;E-poçt;E-poçt əlavə edin;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Bərpa telefonu</item>
+        <item>Bərpa telefonu əlavə et</item>
+        <item>Bərpa etmə telefonu;Telefon əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklamlar</item>
+        <item>Sistem reklamlarını idarə et</item>
+        <item>Reklamlar; Mi Hesabı; Hesab; Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Hesab məlumatları</item>
+        <item>Profil şəkilinizə baxın və hesab məlumatlarınızı idarə edin</item>
+        <item>Şəxsi məlumat; profil şəkli; ləqəb; hesab məlumatı;Mi Kimliyi;Kimlik;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>İstifadəçi Sazişi</item>
+        <item>İstifadəçi Sazişi</item>
+        <item>Mi Hesabı;Hesab;Xiaomi Hesabı;İstifadəçi Müqaviləsi;EULA</item>
+    </string-array>
+</resources>

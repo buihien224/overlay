@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Žemė</item>
+        <item>Fono paveikslėliai/Super fono paveikslėliai/Žemė</item>
+        <item>Žemė/Super fono paveikslėliai/Žemės leidimas;Fono paveikslėlis</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Fono paveikslėliai/Super fono paveikslėliai/Geometrija</item>
+        <item>Geometrija;Abstrakcija;Super fonai;Fono paveikslėlis</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Raudonoji planeta</item>
+        <item>Fono paveikslėliai/Super fono paveikslėliai/Raudonoji planeta</item>
+        <item>Marsas;Marso leidimas;Super fono paveikslėliai;Fono paveikslėlis</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Snieguotos viršūnės</item>
+        <item>Fono paveikslėliai/Super fono paveikslėliai/Snieguotos viršūnės</item>
+        <item>Žemė;Kalnai;Super fonai;Fono paveikslėlis</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super fono paveikslėliai</item>
+        <item>Fono paveikslėliai/Super fono paveikslėliai</item>
+        <item>Super fono paveikslėliai;Fono paveikslėlis;Judantis fonas;3D fono paveikslėlis</item>
+    </string-array>
+</resources>

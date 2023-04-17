@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>ਇਹ ਸਿਫ਼ਾਰਸ਼ੀ ਸਮੱਗਰੀ ਹੈ।</item>
+        <item>ਇਹ ਇੱਕ ਵਿਗਿਆਪਨ ਹੈ।</item>
+    </string-array>
+</resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 மணிநேரம் முன்</item>
+        <item quantity="one">1 மணிநேரம் முன்</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 மணிநேரம் முன்</item>
+        <item quantity="one">1 மணிநேரம் முன்</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">அரை மணி நேரம் முன்பு</item>
+        <item quantity="one">அரை மணி நேரம் முன்பு</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 மணி நேரத்தில்</item>
+        <item quantity="one">1 மணி நேரத்தில்</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">அரை மணி நேரத்தில்</item>
+        <item quantity="one">அரை மணி நேரத்தில்</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">உடனடியாக</item>
+        <item quantity="one">உடனடியாக</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d நிமிடங்களில்</item>
+        <item quantity="one">ஒரு நிமிடத்தில்</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">இப்போது</item>
+        <item quantity="one">இப்போது</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
+        <item quantity="one">1 நிமிடம் முன்பு</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s செய்திகளை நீக்கவா?</item>
+        <item quantity="one">%1$s செய்தியை நீக்கவா?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d செய்திகள்</item>
+        <item quantity="one">%d செய்தி</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d செய்திகள் ஒத்திசைக்கப்படாது</item>
+        <item quantity="one">%d செய்தி ஒத்திசைக்கப்படாது</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">தேர்ந்தெடுத்த %1$s உரையாடல்களை நீக்கவா?</item>
+        <item quantity="one">தேர்ந்தெடுத்த %1$s உரையாடலை நீக்கவா?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%dதேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="one">%dதேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">%1$s மற்றும் %2$d பேரால் செய்தி பெறப்பட்டது</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபரால் செய்தி பெறப்பட்டது</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d தொடர்புகளுக்கு அனுப்ப முடியவில்லை</item>
+        <item quantity="one">%d தொடர்புக்கு அனுப்ப முடியவில்லை</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">அரை மணி நேரம் முன்பு</item>
+        <item quantity="one">அரை மணி நேரம் முன்பு</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d செய்திகள்</item>
+        <item quantity="one">%d செய்தி</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 மணி நேரத்தில்</item>
+        <item quantity="one">1 மணி நேரத்தில்</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">அரை மணி நேரத்தில்</item>
+        <item quantity="one">அரை மணி நேரத்தில்</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">உடனடியாக</item>
+        <item quantity="one">உடனடியாக</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d நிமிடங்களில்</item>
+        <item quantity="one">1 நிமிடத்தில்</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">இப்போது</item>
+        <item quantity="one">இப்போது</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d பேரால் %2$s என்று குறிக்கப்பட்டது</item>
+        <item quantity="one">%1$d பேரால் %2$s என்று குறிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s செய்திகள்</item>
+        <item quantity="one">%1$s செய்தி</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d உருப்படிகள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d உருப்படி தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s செய்திகள் | "</item>
+        <item quantity="one">"%s செய்தி | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
+        <item quantity="one">1 நிமிடம் முன்பு</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">திரும்பப்பெறு (%dவி)</item>
+        <item quantity="one">திரும்பப்பெறு (%dவி)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">%d குழு அரட்டை அழைப்பிதழ்களைப் பெற்றுள்ளீர்கள்</item>
+        <item quantity="one">%d குழு அரட்டை அழைப்பிதழைப் பெற்றுள்ளீர்கள்</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s பேர்</item>
+        <item quantity="one">%1$s நபர்</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$sமுடிவுகள்\"%2$s\"</item>
+        <item quantity="one">%1$sமுடிவு \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s செய்திகள் அனுப்பப்பட்டது</item>
+        <item quantity="one">%1$s செய்தி அனுப்பப்பட்டது</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d நேரம் கடந்துவிட்ட செய்திகள் அனுப்பப்படவில்லை</item>
+        <item quantity="one">%d நேரம் கடந்துவிட்ட செய்தி அனுப்பப்படவில்லை</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d செய்திகள்)</item>
+        <item quantity="one">(%d செய்தி)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d பெறுநர்கள்</item>
+        <item quantity="one">%d பெறுநர்</item>
+    </plurals>
+</resources>

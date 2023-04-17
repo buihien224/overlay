@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Namiji</item>
+        <item>Mace</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Asusun</item>
+        <item>Kara kuma ka sarrafa wata asusun daban kuma</item>
+        <item>Asusu; SNS;Facebook;Google;Asusun Mi;Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Asusun</item>
+        <item>Kara kuma ka sarrafa wata asusun daban kuma</item>
+        <item>Asusu; SNS; WeChat; QQ; Asusun Mi; Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Canza kalmar sirri</item>
+        <item>Canza kalmar sirrin Asusun Xiaomi</item>
+        <item>Canza kalmar sirri; Sabunta kalmar sirri; Asusun Mi; Asusun;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>"Sararin ma'aji na iyali"</item>
+        <item>"Duba/kunna sararin ma'aji na iyali"</item>
+        <item>"Sararin ma'aji na iyali; Raba ma'aji"</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Sabisin iyali</item>
+        <item>Duba/kunna sabis na Iyali</item>
+        <item>Iyali; Sabisin iyali; Rabawa na iyali</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Taimako</item>
+        <item>Nemi taimako da tallafi na Asusun Xiaomi</item>
+        <item>Asusun Mi; Asusu;Asusun Xiaomi;Asusun taimako; Santar taimako</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>tabbatarwa na mataki -2</item>
+        <item>Tabbatarwa na mataki -2 ma Asusun Xiaomi</item>
+        <item>Shiga; Shiga ciki; mataki 2; tabbatarwa; Xiaomi; Asusun; Asusun Mi; Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Tsaron Asusun</item>
+        <item>Wayar maido da bayanai da imel, sarrafa kalmar sirri</item>
+        <item>Tsaron asusu; Shiga; Wayar maidowa; Imel din maido da bayanai; Kariyar asusu; Lambar waya; Imel; Canza kalmar sirri; Kara lambar waya; Kara imel; Asusun Mi; Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>"Na'urori"</item>
+        <item>"Sarrafa na'urori masu alaƙa da Asusun Xiaomi dinka"</item>
+        <item>"Sarrafa na'urori; Na''urori; Na'urori; Jerin kayan aiki; Asusun Mi; Asusun;Asusun Xiaomi"</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Sharuddan Bayanai</item>
+        <item>Duba Sharuddan Bayanan Asusun Xiaomi</item>
+        <item>Asusun Mi;Asusu;Asusun Xiaomi;Sharuddan Bayanai</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Imel din maido da bayanai</item>
+        <item>Kara imel din maido da bayanai</item>
+        <item>Imel din maido da bayanai; Kara imel; Asusun Mi; Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Wayar maido da bayanai</item>
+        <item>Kara wayar maido da bayanai</item>
+        <item>Wayar maidowa; Kara waya; Asusun Mi; Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Talla</item>
+        <item>Sarrafa talla sistem</item>
+        <item>Tallace tallace;Asusun Mi;Asusu;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Bayanan Asusun</item>
+        <item>Duba hoton bayanan ku kuma sarrafa bayanan asusu</item>
+        <item>Bayanan sirri; Hoton bayani; laƙabi; bayanan asusu; ID na Asusu; ID; Asusun Mi; Asusun;Asusun Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Yarjejjeniyar Mai amfani</item>
+        <item>Yarjejjeniyar Mai amfani</item>
+        <item>Asusun Mi; Asusu;Asusun Xiaomi; Yarjejjeniyar Mai amfani; EULA</item>
+    </string-array>
+</resources>

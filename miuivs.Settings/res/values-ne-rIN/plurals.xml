@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">आधा घण्टा पहिले</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d एपहरूका लागि कहिले पनिअक्षम नगर्नुहोस्</item>
+        <item quantity="one">%d एपका लागि कहिले पनिअक्षम नगर्नुहोस्</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d एपहरूका लागि सधैं अक्षम गरेर राख्नुहोस्</item>
+        <item quantity="one">%d एपका लागि सधैं अक्षम गरेर राख्नुहोस्</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d एपहरूलाई स्वत चालू हुने अनुमति दिएको छ</item>
+        <item quantity="one">%d एपहरूलाई स्वत चालू हुने अनुमति दिएको छ</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d एपहरूमा जडान गर्न सकिन्छ</item>
+        <item quantity="one">%d एपमा जडान गर्न सकिन्छ</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d एपहरूमा जडान गर्न सकिदैन</item>
+        <item quantity="one">%d एपमा जडान गर्न सकिदैन</item>
+    </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d उपलब्ध डिभाइसहरू</item>
+        <item quantity="one">%d उपलब्ध डिभाइस</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">प्रत्येक %d सेकेन्ड</item>
+        <item quantity="one">प्रत्येक %d सेकेन्ड</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d डिभाइसहरू</item>
+        <item quantity="one">%d डिभाइस</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">प्रतिबन्धित जडानको लागी %s एपहरू</item>
+        <item quantity="one">प्रतिबन्धित जडानको लागी %s एप</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d मानिसहरू जडान भएका छन्</item>
+        <item quantity="one">%1$d व्यक्ति जडान भएका छन्</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">आधा घण्टा अघि</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">तपाईंले %d सम्म क्यारेक्टरहरू प्रविष्ट गर्न सक्नुहुन्छ</item>
+        <item quantity="one">तपाईंले %d सम्म क्यारेक्टरहरू प्रविष्ट गर्न सक्नुहुन्छ</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">कम्तिमा पनि %d क्यारेक्टर प्रयोग गर्नुहोस्</item>
+        <item quantity="one">कम्तिमा पनि %d क्यारेक्टर प्रयोग गर्नुहोस्</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">पिन कम्तिमा पनि %d अंकको हुनुपर्छ</item>
+        <item quantity="one">पिन कम्तिमा पनि %d अंकको हुनुपर्छ</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">तपाईं %d अंकसम्म प्रविष्ट गर्न सक्नुहुन्छ</item>
+        <item quantity="one">तपाईं %d अंकसम्म प्रविष्ट गर्न सक्नुहुन्छ</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">कम्तिमा पनि %d अंक प्रयोग गर्नुहोस्</item>
+        <item quantity="one">कम्तिमा पनि %d अंक प्रयोग गर्नुहोस्</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">कम्तिमा पनि %d डट्स जोड्नुहोस्। फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">कम्तिमा पनि %d डट जोड्नुहोस्। फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">धेरै पटक गलत प्रयास गरियो। %d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">धेरै पटक गलत प्रयास गरियो। %d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d सेकेन्डसम्म पर्खनुहोस् र फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">%d सेकेन्डसम्म पर्खनुहोस् र फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d थपियो</item>
+        <item quantity="one">%d थपियो</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">तपाईंको डिभाइसले नजिकै बचत गरिएको नेटवर्कहरू फेला पारेपछि वाइ-फाइ आफैं बन्द हुनेछ र कुनै जडान गर्न सकेन भने %d पछि बन्द हुनेछ</item>
+        <item quantity="one">तपाईंको डिभाइसले नजिकै बचत गरिएको नेटवर्कहरू फेला पारेपछि वाइ-फाइ आफैं बन्द हुनेछ र कुनै जडान गर्न सकेन भने %d पछि बन्द हुनेछ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d वस्तुहरू चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d वस्तुहर चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">तपाईं CIT प्रविष्ट गर्नबाट %1$d चरण टाढा हुनुहुन्छ।</item>
+        <item quantity="one">तपाईं CIT प्रविष्ट गर्नबाट %1$d चरण टाढा हुनुहुन्छ।</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">तपाईं डिभाइसको जानकारी खोल्नबाट %1$d कदम टाढा हुनुहन्छ</item>
+        <item quantity="one">तपाईं डिभाइसको जानकारी खोल्नबाट %1$d कदम टाढा हुनुहन्छ</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">तपाईं बग रिपोर्ट गर्नबाट %1$d चरण टाढा हनुहुन्छ।</item>
+        <item quantity="one">तपाईं बग रिपोर्ट गर्नबाट %1$d चरण टाढा हनुहुन्छ।</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d एपहरूले सूचना देखाउन सक्दैन</item>
+        <item quantity="one">%d एपले सूचना देखाउन सक्दैन</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d एपहरूले सूचना देखाउन सक्छ</item>
+        <item quantity="one">%d एपले सूचना देखाउन सक्छ</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">तपाईंको एउटा इयरफोन तपाईंको कानबाट टाढा हुँदा वा चार्जिंग केसमा भएको %d मिनेट पछि अलर्ट प्राप्त गर्नुहोस्</item>
+        <item quantity="one">तपाईंको एउटा इयरफोन तपाईंको कानबाट टाढा हुँदा वा चार्जिंग केसमा भएको %d मिनेट पछि अलर्ट प्राप्त गर्नुहोस्</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">%d पटक अनलक गरियो</item>
+        <item quantity="one">%d पटक अनलक गरियो</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">%d पटक अनलक गरियो</item>
+        <item quantity="one">%d पटक अनलक गरियो</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d सुचनाहरू प्राप्त भयो</item>
+        <item quantity="one">%d सुचना प्राप्त भयो</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d सुचनाहरू प्राप्त भयो</item>
+        <item quantity="one">%d सुचना प्राप्त भयो</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d घण्टा</item>
+        <item quantity="one">%d घण्टा</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d घण्टा</item>
+        <item quantity="one">%d घण्टा</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" घण्टा"</item>
+        <item quantity="one">" घण्टा"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" मिनेट"</item>
+        <item quantity="one">" मिनेट"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d सुचनाहरू</item>
+        <item quantity="one">%d सुचना</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d पटक</item>
+        <item quantity="one">%d पटक</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">हप्ताअन्त: %d घण्टा</item>
+        <item quantity="one">हप्ताअन्त: %d घण्टा</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">हप्ताअन्त: %d मिनेट</item>
+        <item quantity="one">हप्ताअन्त: %d मिनेट</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">हप्ताहका दिन: %d घण्टा</item>
+        <item quantity="one">हप्ताहका दिन: %d घण्टा</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">हप्ताहका दिन: %d मिनेट</item>
+        <item quantity="one">हप्ताहका दिन: %d मिनेट</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" घण्टा"</item>
+        <item quantity="one">" घण्टा"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" मिनेट"</item>
+        <item quantity="one">" मिनेट"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d जोखीमरू फेला पर्‍यो</item>
+        <item quantity="one">%d जोखीम फेला पर्‍यो</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">शेयर गरिएको %d नेटवर्कहरू</item>
+        <item quantity="one">शेयर गरिएको %d नेटवर्क</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d डिभाइसहरू जडान गरियो</item>
+        <item quantity="one">%1$d डिभाइस जडान गरियो</item>
+    </plurals>
+</resources>

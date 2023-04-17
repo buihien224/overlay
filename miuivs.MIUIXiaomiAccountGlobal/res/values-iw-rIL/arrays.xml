@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>חשבונות</item>
+        <item>הוסף ונהל חשבונות של צד שלישי</item>
+        <item>חשבונות;SNS;Facebook;Google;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>חשבונות</item>
+        <item>הוסף ונהל חשבונות של צד שלישי</item>
+        <item>חשבונות;SNS;WeChat;QQ;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>שינוי סיסמה</item>
+        <item>שינוי סיסמת חשבון Xiaomi</item>
+        <item>שנה סיסמה;עדכן סיסמה;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>שטח אחסון משפחתי</item>
+        <item>הצג/הפעל שטח אחסון משפחתי</item>
+        <item>שטח אחסון משפחתי;שיתוף אחסון</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>שירותי משפחה</item>
+        <item>הצג/הפעל את שירותי המשפחה</item>
+        <item>משפחה;שירותי משפחה;שיתוף משפחתי</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>עזרה</item>
+        <item>קבל עזרה ותמיכה עבור חשבון Xiaomi</item>
+        <item>חשבון Mi;חשבון;חשבון Xiaomi;עזרה בחשבון;מרכז עזרה</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>אימות דו-שלבי</item>
+        <item>הגדר אימות דו-שלבי עבור חשבון Xiaomi שלך</item>
+        <item>התחברות;כניסה;אימות דו-שלבי;Xiaomi;חשבון;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>אבטחת החשבון</item>
+        <item>טלפון ודוא\"ל שחזור, ניהול סיסמאות</item>
+        <item>אבטחת חשבון;כניסה;טלפון לשחזור;דוא\"ל לשחזור;הגנת חשבון;מספר טלפון;דוא\"ל;שינוי סיסמה;הוסף מספר טלפון;הוסף דוא\"ל;חשבון Mi; חשבון; חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>מכשירים</item>
+        <item>נהל מכשירים המשויכים לחשבון Xiaomi שלך</item>
+        <item>נהל מכשירים;המכשירים שלי;מכשירים;רשימת מכשירים;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>מדיניות הפרטיות</item>
+        <item>הצג את מדיניות הפרטיות של חשבון Xiaomi</item>
+        <item>חשבון Mi;חשבון;חשבון Xiaomi;מדיניות הפרטיות</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>דוא\"ל לשחזור</item>
+        <item>הוסף כתובת דוא\"ל לשחזור</item>
+        <item>דוא\"ל לשחזור;דוא\"ל;הוסף דוא\"ל;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>טלפון לשחזור</item>
+        <item>הוסף טלפון לשחזור</item>
+        <item>טלפון לשחזור;הוסף טלפון;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>מודעות</item>
+        <item>נהל מודעות מערכת</item>
+        <item>מודעות;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>פרטי חשבון</item>
+        <item>צפה בתמונת הפרופיל שלך ונהל את פרטי החשבון</item>
+        <item>מידע אישי;תמונת פרופיל;כינוי;מידע חשבון;מזהה Mi;מזהה;חשבון Mi;חשבון;חשבון Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>הסכם משתמש</item>
+        <item>הסכם משתמש</item>
+        <item>חשבון Mi;חשבון;חשבון Xiaomi;הסכם משתמש;הסכם רישיון למשתמש קצה (EULA)</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+</resources>

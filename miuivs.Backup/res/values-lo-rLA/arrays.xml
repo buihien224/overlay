@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>ປະສົບການໂດຍລວມ</item>
+        <item>ໄລຍະເວລາຂອງການໂອນຍ້າຍ</item>
+        <item>ຄວາມງ່າຍດາຍຂອງຂະບວນການ</item>
+        <item>ຄວາມຊັດເຈນຂອງຄຳແນະນຳ</item>
+        <item>ຄຸນສົມບັດນີ້ມີປະໂຫຍດ</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>ບໍ່ພໍໃຈຫຼາຍ</item>
+        <item>ຄ່ອນຂ້າງບໍ່ພໍໃຈ</item>
+        <item>ກາງໆ</item>
+        <item>ຄ່ອນຂ້າງພໍໃຈ</item>
+        <item>ພໍໃຈຫຼາຍ</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>ອັນດັບໂດຍລວມ</item>
+        <item>ໄລຍະເວລາຂອງການໂອນຍ້າຍ</item>
+        <item>ຄວາມງ່າຍດາຍຂອງຂະບວນການ</item>
+        <item>ຄວາມຊັດເຈນຂອງຄຳແນະນຳ</item>
+    </string-array>
+</resources>

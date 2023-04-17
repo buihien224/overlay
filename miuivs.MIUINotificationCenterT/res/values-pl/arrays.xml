@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sortuj wg daty otrzymania</item>
+        <item>Sortuj wg ilości powiadomień</item>
+        <item>Aplikacje, które mogą wyświetlać powiadomienia</item>
+        <item>Aplikacje, które nie mogą wyświetlać powiadomień</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Wyświetlaj zawartość powiadomienia</item>
+        <item>Nie wyświetlaj powiadomień na Ekranie blokady</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Wyświetlaj zawartość powiadomienia</item>
+        <item>Wyświetlaj powiadomienia, lecz ukryj zawartość</item>
+        <item>Nie wyświetlaj powiadomień na Ekranie blokady</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

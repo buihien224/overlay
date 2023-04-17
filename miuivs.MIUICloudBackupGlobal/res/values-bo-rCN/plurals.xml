@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">དུས་ཚོད1གི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">དུས་ཚོད1གི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">མྱུར་ཏུ།</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">སྐར་མ%dརྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ད་གིན།</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">སྐར་མ%dསྔོན།</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">ཁྱེད་ཀྱི་སྒྲིག་ཆས་ལ་གཟའ་འཁོར་%sརིང་སྤྲིན་གྲབས་ཉར་བྱས་མེད་པས། རང་གནས་གཞི་གྲངས་ཀྱི་བདེ་འཇགས་ལ་སྲུང་སྐྱོང་མཛོད།</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">གྲབས་ཉར་%1$sནས། བར་སྟོང་%2$sབཟུང་བ།</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ཚན་པ%dབདམས་ཟིན།</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">སྔོན་རྩིས་ལྟར་ན་ཉེར་སྤྱོད།%dགྲབས་ཉར་བྱེད།</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">སྔོན་རྩིས་ལྟར་ན་ཉེར་སྤྱོད།%dབསྐྱར་གསོ་བྱ།</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">ད་དུང་སྐར་མ་%sའདུག</item>
+    </plurals>
+</resources>

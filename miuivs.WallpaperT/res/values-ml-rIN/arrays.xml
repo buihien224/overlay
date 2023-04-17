@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ഹോം</item>
+        <item>വാൾപേപ്പർ/സൂപ്പർ വാൾപേപ്പറുകൾ/ഹോം</item>
+        <item>ഭൂമി;സൂപ്പർ വാൾപേപ്പറുകൾ;എത്ത് എഡിഷൻ;വാൾപേപ്പർ</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>ജോമെട്രി</item>
+        <item>വാൾപേപ്പർ/സൂപ്പർ വാൾപേപ്പറുകൾ/ജോമെട്രി</item>
+        <item>ജോമെട്രി;സംഗ്രഹം;സൂപ്പർ വാൾപേപ്പർ;വാൾപേപ്പർ</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>ചുവന്ന ഗ്രഹം</item>
+        <item>വാൾപേപ്പർ/സൂപ്പർ വാൾപേപ്പറുകൾ/ചുവൻ ഗ്രഹം</item>
+        <item>മാർസ്;മാർസ് പതിപ്പുകൾ;സൂപ്പർ വാൾപേപ്പറുകൾ;വാൾപേപ്പർ</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>മഞ്ഞുമലകൾ</item>
+        <item>വാൾപേപ്പർ/സൂപ്പർ വാൾപേപ്പറുകൾ/മഞ്ഞുമലകൾ</item>
+        <item>ഭൂമി;പർവതനിരകൾ;സൂപ്പർ വാൾപേപ്പർ;വാൾപേപ്പർ</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>സൂപ്പർ വാൾപേപ്പറുകൾ</item>
+        <item>വാൾപേപ്പർ/സൂപ്പർ വാൾപേപ്പറുകൾ</item>
+        <item>സൂപ്പർ വാൾപേപ്പറുകൾ;വാൾപേപ്പർ;ഡൈനാമിക് വാൾപേപ്പർ3D വാൾപേപ്പർ</item>
+    </string-array>
+</resources>

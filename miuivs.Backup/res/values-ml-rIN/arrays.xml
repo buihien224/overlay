@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>മൊത്തത്തിലുള്ള അനുഭവം</item>
+        <item>കൈമാറ്റ കാലയളവ്</item>
+        <item>പ്രോസസ്സിൻ്റെ അസങ്കീർണ്ണത</item>
+        <item>നിർദ്ദേശങ്ങളുടെ വ്യക്തത</item>
+        <item>ഈ ഫീച്ചർ ഉപയോഗപ്രദമാണ്</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>വളരെ അതൃപ്തം</item>
+        <item>ഏറെക്കുറെ അതൃപ്തം</item>
+        <item>ന്യൂട്രൽ</item>
+        <item>ഏറെക്കുറെ തൃപ്തം</item>
+        <item>വളരെ തൃപ്തം</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>മൊത്തത്തിലുള്ള റേറ്റിംഗ്</item>
+        <item>കൈമാറ്റത്തിൻ്റെ ദൈർഘ്യം</item>
+        <item>പ്രോസസ്സിൻ്റെ അസങ്കീർണ്ണത</item>
+        <item>നിർദ്ദേശങ്ങളുടെ വ്യക്തത</item>
+    </string-array>
+</resources>

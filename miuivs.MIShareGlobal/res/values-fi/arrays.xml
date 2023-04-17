@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Kuvien, sovellusten ja muiden tiedostojen käyttämistä, tallentamista sekä siirtämistä varten</item>
+        <item>Tiedostojen siirtämiseen Bluetoothilla ja Wi-Fi: llä</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Kuvien, sovellusten ja muiden tiedostojen käyttämistä, tallentamista sekä siirtämistä varten</item>
+        <item>Tiedostojen siirtämiseen kohteilla Bluetooth ja WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Tiedostojen lähettämiseen ja vastaanottamiseen</item>
+        <item>Tiedostojen siirtämiseen Bluetoothilla ja Wi-Fi:llä</item>
+        <item>Läheisten käytettävissä olevien laitteiden löytämiseksi Bluetoothin avulla</item>
+        <item>Läheisten käytettävissä olevien laitteiden löytämiseksi ja tiedostojen siirtämiseksi Wi-Fi:n avulla</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Tiedostojen lähettämiseen ja vastaanottamiseen</item>
+        <item>Tiedostojen siirtämiseen kohteilla Bluetooth ja WLAN</item>
+        <item>Läheisten käytettävissä olevien laitteiden löytämiseksi Bluetoothin avulla</item>
+        <item>Läheisten käytettävissä olevien laitteiden löytämiseksi ja tiedostojen siirtämiseksi kohteen WLAN avulla</item>
+    </string-array>
+</resources>

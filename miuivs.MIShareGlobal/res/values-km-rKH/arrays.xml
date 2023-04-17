@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>សម្រាប់ការចូលប្រើ និងរក្សាទុករូបភាព កម្មវិធី និងឯកសារផ្សេងៗ ក៏ដូចជាការផ្ទេរធាតុទាំង​នេះផថដែរ</item>
+        <item>សម្រាប់ការផ្ទេរឯកសារដោយប្រើ ប៊្លូធូស និង Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>សម្រាប់ការផ្ញើ និងទទួលឯកសារ</item>
+        <item>សម្រាប់ការផ្ទេរឯកសារដោយប្រើ ប៊្លូធូស និង Wi-Fi</item>
+        <item>សម្រាប់ការរកឧបករណ៍ដែលមាននៅក្បែរដោយប្រើប៊្លូធូស</item>
+        <item>សម្រាប់ការរកឧបករណ៍ដែលមាននៅក្បែរ និងផ្ទេរឯកសារដោយប្រើ Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>សម្រាប់ការរកឧបករណ៍ដែលមាននៅក្បែរដោយប្រើប៊្លូធូស</item>
+        <item>សម្រាប់ការរកឧបករណ៍ដែលមាននៅក្បែរ និងផ្ទេរឯកសារដោយប្រើ WLAN</item>
+    </string-array>
+</resources>

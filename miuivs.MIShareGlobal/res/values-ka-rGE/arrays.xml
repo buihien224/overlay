@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>სურათების, აპლიკაციებისა და სხვა ფაილების წვდომისა და შენახვისთვის, აგრეთვე მათი გადაცემისათვის</item>
+        <item>ფაილების გადასაცემად Bluetooth-ისა და Wi-Fi-ს გამოყენებით</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>სურათების, აპლიკაციებისა და სხვა ფაილების წვდომისა და შენახვისთვის, აგრეთვე მათი გადაცემისათვის</item>
+        <item>ფაილების გადასაცემად Bluetooth-ისა და Wi-Fi-ს გამოყენებით</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>ფაილების გასაგზავნად და მისაღებად</item>
+        <item>ფაილების გადასაცემად Bluetooth-ისა და Wi-Fi-ს გამოყენებით</item>
+        <item>Bluetooth-ის გამოყენებით ხელმისაწვდომი ახლომდებარე მოწყობილობების მოსაძიებლად</item>
+        <item>Wi-Fi-ის გამოყენებით ხელმისაწვდომი ახლომდებარე მოწყობილობების მოსაძიებლად და ფაილების გადასატანად</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>ფაილების გასაგზავნად და მისაღებად</item>
+        <item>ფაილების გადასაცემად Bluetooth-ისა და WLAN-ის გამოყენებით</item>
+        <item>Bluetooth-ის გამოყენებით ხელმისაწვდომი ახლომდებარე მოწყობილობების მოსაძიებლად</item>
+        <item>WLAN-ის გამოყენებით ხელმისაწვდომი ახლომდებარე მოწყობილობების მოსაძიებლად და ფაილების გადასატანად</item>
+    </string-array>
+</resources>

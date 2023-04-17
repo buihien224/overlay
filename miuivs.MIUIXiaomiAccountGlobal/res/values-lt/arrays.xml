@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Vyras</item>
+        <item>Moteris</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Paskyros</item>
+        <item>Pridėti ir valdyti trečiųjų šalių paskyras</item>
+        <item>Paskyros;SNS;„Facebook“;„Google“;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Paskyros</item>
+        <item>Pridėti ir valdyti trečiųjų šalių paskyras</item>
+        <item>Paskyros;SNS;„WeChat“;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Keisti slaptažodį</item>
+        <item>Keisti „Xiaomi“ paskyros slaptažodį</item>
+        <item>Slaptažodžio keitimas;Atnaujinti slaptažodį;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Šeimos saugyklos vieta</item>
+        <item>Peržiūrėti / įjungti Šeimos saugyklos vietą</item>
+        <item>Šeimos saugyklos vieta;Saugyklos bendrinimas</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Šeimos paslaugos</item>
+        <item>Peržiūrėti / įjungti Šeimos paslaugas</item>
+        <item>Šeima;Šeimos paslaugos;Dalijimasis su šeima</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Pagalba</item>
+        <item>Gauti „Xiaomi“ paskyros pagalbą ir palaikymą</item>
+        <item>„Mi“ paskyra;Paskyra;;„Xiaomi“ paskyra;Paskyros pagalba;Pagalbos centras</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-jų žingsnių patvirtinimas</item>
+        <item>Nustatyti „Xiaomi“ paskyros dviejų žingsnių patvirtinimą</item>
+        <item>Prisijungti;Prisijungimas;2-jų žingsnių; patvirtinimas;„Xiaomi“;Paskyra;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Paskyros saugumas</item>
+        <item>Atkurti telefoną ir el. paštą; slaptažodžio valdymas</item>
+        <item>Paskyros saugumas;Prisijungti;Atkūrimo telefonas;Atkūrimo el. paštas;Paskyros apsauga;Telefono numeris;El. paštas;Slaptažodžio keitimas;Pridėti telefono numerį;Pridėti el. paštą;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Įrenginiai</item>
+        <item>Valdyti įrenginius susietus su jūsų „Xiaomi“ paskyra</item>
+        <item>Valdyti įrenginius;Mano įrenginiai;Įrenginiai;Įrenginių sąrašas;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Privatumo politika</item>
+        <item>Peržiūrėti „Xiaomi“ paskyros privatumo politiką</item>
+        <item>„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra;Privatumo politika</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Atkūrimo el. paštas</item>
+        <item>Pridėti atkūrimo el. paštą</item>
+        <item>Atkūrimo el. paštas;El. paštas;Pridėti el. paštą;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Atstatymo telefonas</item>
+        <item>Pridėti atstatymo telefoną</item>
+        <item>Atkūrimo telefonas;Pridėti telefono numerį;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Skelbimai</item>
+        <item>Valdyti sisteminius skelbimus</item>
+        <item>Reklamos;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Paskyros informacija</item>
+        <item>Peržiūrėkite savo profilio nuotrauką ir valdykite paskyros informaciją</item>
+        <item>Asmeninė informacija;profilio nuotrauka;slapyvardis;paskyros informacija;„Mi“ ID;ID;„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Naudotojo sutartis</item>
+        <item>Naudotojo sutartis</item>
+        <item>„Mi“ paskyra;Paskyra;„Xiaomi“ paskyra;Naudotojo sutartis;EULA</item>
+    </string-array>
+</resources>

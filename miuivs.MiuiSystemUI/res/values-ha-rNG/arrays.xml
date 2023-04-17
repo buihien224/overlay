@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>Yana nuna fasentej kullum</item>
+        <item>Ya nuna fasentej idan yana caji (na asali)</item>
+        <item>Kar a nuna wannan tambarin</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Nuna lokaci, mintoci, da sakan</item>
+        <item>Nuna lokaci da mintoci (na asali)</item>
+        <item>Kar a nuna wannan tambarin</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Wannan abun da aka ba ka shawara ne.</item>
+        <item>Wannan talle ne.</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Marikin takarda</item>
+        <item>Lambar sirrin maballi</item>
+        <item>Juya tabbatarwa, kibod mai sauyawa</item>
+        <item>Ba kome</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Daidai</item>
+        <item>Tinjim</item>
+        <item>Durƙusawa na hagu</item>
+        <item>Durƙusawa na dama</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Matsa hagu</item>
+        <item>Matsa kasa</item>
+        <item>Matsa dama</item>
+        <item>Matsa sama</item>
+    </string-array>
+</resources>

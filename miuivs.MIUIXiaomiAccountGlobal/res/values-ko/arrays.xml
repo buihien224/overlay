@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>계정;SNS;Facebook;Google;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>계정;SNS;WeChat;QQ;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>비밀번호 변경</item>
+        <item>Xiaomi 계정 비밀번호 변경</item>
+        <item>비밀번호 변경;비밀번호 갱신;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>가족 저장 공간</item>
+        <item>가족 저장 공간 확인/켜기</item>
+        <item>가족 저장 공간;저장소 공유</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>가족 서비스</item>
+        <item>가속 서비스 확인/켜기</item>
+        <item>가족;가족 서비스;가족 공유</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>도움말</item>
+        <item>Xiaomi 계정 도움말 및 지원 받기</item>
+        <item>Mi 계정;계정;Xiaomi 계정;계정 도움말;지원 센터</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2단계 인증</item>
+        <item>Xiaomi 계정을 위한 2단계 인증 설정</item>
+        <item>등록;로그인;2단계;인증;Xiaomi;계정;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>계정 보안</item>
+        <item>복구 전화 및 이메일, 비밀번호 관리</item>
+        <item>계정 보안;로그인;복구 전화;복구 이메일;계정 보호;전화번호;이메일;비밀번호 변경;전화번호 추가;이메일 추가;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>기기</item>
+        <item>Xiaomi 계정과 관련된 기기 관리</item>
+        <item>기기 관리;내 기기;기기;기기 목록;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>개인 정보 보호 정책</item>
+        <item>Xiaomi 계정 개인 정보 보호 정책 보기</item>
+        <item>Mi 계정;계정;Xiaomi 계정;개인 정보 보호 정책</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>복구 이메일</item>
+        <item>복구 이메일 추가</item>
+        <item>복구 이메일;이메일;이메일 추가;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>복구 전화</item>
+        <item>복구 전화 추가</item>
+        <item>복구 전화;전화 추가;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>광고</item>
+        <item>시스템 광고 관리</item>
+        <item>광고;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>계정 정보</item>
+        <item>프로필 사진 확인 및 계정 정보 관리</item>
+        <item>개인 정보;프로필 사진;별명;계정 정보;Mi ID;ID;Mi 계정;계정;Xiaomi 계정</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>이용자 약관</item>
+        <item>이용자 약관</item>
+        <item>Mi 계정;계정;Xiaomi 계정;이용자 약관;EULA</item>
+    </string-array>
+</resources>

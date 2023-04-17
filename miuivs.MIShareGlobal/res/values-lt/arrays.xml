@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Vaizdų, programų ir kitų failų prieiga, išsaugojimas ir perdavimas</item>
+        <item>Failų perdavimas naudojant „Bluetooth“ ir „Wi-Fi“</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Vaizdų, programų ir kitų failų prieiga, išsaugojimas ir perdavimas</item>
+        <item>Failų perdavimas naudojant „Bluetooth“ ir „WLAN“</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Failų siuntimas ir gavimas</item>
+        <item>Failų perdavimas naudojant „Bluetooth“ ir „Wi-Fi“</item>
+        <item>Netoliese esančių įrenginių aptikimas naudojant „Bluetooth“</item>
+        <item>Netoliese esančių įrenginių aptikimas ir failų perdavimas naudojant „Wi-Fi“</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Failų siuntimas ir gavimas</item>
+        <item>Failų perdavimas naudojant „Bluetooth“ ir „WLAN“</item>
+        <item>Įrenginių netoliese aptikimas naudojant „Bluetooth“</item>
+        <item>Įrenginių aptikimas netoliese ir failų perdavimas naudojant „WLAN“</item>
+    </string-array>
+</resources>

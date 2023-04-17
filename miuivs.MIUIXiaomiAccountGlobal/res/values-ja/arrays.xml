@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>アカウント</item>
+        <item>サードパーティアカウントの追加と管理</item>
+        <item>アカウント;SNS;Facebook;Google;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>アカウント</item>
+        <item>サードパーティアカウントの追加と管理</item>
+        <item>アカウント;SNS;WeChat;QQ;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>パスワードを変更</item>
+        <item>Xiaomi アカウントのパスワードを変更</item>
+        <item>パスワードを変更;パスワードをアップデート;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>ファミリーストレージ容量</item>
+        <item>ファミリーストレージ容量を表示/オンにする</item>
+        <item>ファミリーストレージ容量;ストレージ共有</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>ファミリーサービス</item>
+        <item>ファミリーサービスを表示/オンにする</item>
+        <item>ファミリー;ファミリーサービス;ファミリー共有</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>ヘルプ</item>
+        <item>Xiaomi アカウントのヘルプとサポートを利用する</item>
+        <item>Mi アカウント;アカウント;Xiaomi アカウント;アカウントヘルプ;ヘルプセンター</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2段階認証</item>
+        <item>Xiaomi アカウントに2段階認証を設定</item>
+        <item>サインイン;ログイン;2段階;認証;Xiaomi;アカウント;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>アカウントのセキュリティ</item>
+        <item>復旧用の電話番号とメールアドレス、パスワード管理</item>
+        <item>アカウントのセキュリティ;サインイン;復旧用の電話番号;復旧用のメールアドレス;アカウント保護;電話番号;メール;パスワードを変更;電話番号を追加;メールアドレスを追加;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>デバイス</item>
+        <item>Xiaomi アカウントに関連付けられているデバイスを管理</item>
+        <item>デバイスを管理;マイ デバイス;デバイス;デバイスリスト;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>プライバシーポリシー</item>
+        <item>Xiaomi アカウント プライバシーポリシーを表示</item>
+        <item>Mi アカウント;アカウント;Xiaomi アカウント;プライバシーポリシー</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>復旧用のメールアドレス</item>
+        <item>復旧用のメールアドレスを追加</item>
+        <item>復旧用のメールアドレス;メール;メールアドレスを追加;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>復旧用の電話番号</item>
+        <item>復旧用の電話番号を追加</item>
+        <item>復旧用の電話番号;電話番号を追加;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>広告</item>
+        <item>システム広告を管理</item>
+        <item>広告;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>アカウント情報</item>
+        <item>プロフィール写真の表示とアカウント情報の管理</item>
+        <item>個人情報;プロフィール写真;ニックネーム;アカウント情報;Mi ID;ID;Mi アカウント;アカウント;Xiaomi アカウント</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>利用規約</item>
+        <item>利用規約</item>
+        <item>Mi アカウント;アカウント;Xiaomi アカウント;利用規約;EULA</item>
+    </string-array>
+</resources>

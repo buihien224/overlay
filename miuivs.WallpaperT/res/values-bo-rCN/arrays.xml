@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ས་གོ་ལའི་ཁྱིམ་བརྒྱུད།</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག/ས་གོ་ལའི་ཁྱིམ་གཞིས།</item>
+        <item>ས་གོ་ལ། རིམ་འདས་ས་གོ་ལ། རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>དབྱིབས་རྩིས།</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག/དབྱིབས་རྩིས།</item>
+        <item>དབྱིབས་རྩིས། རིམ་འདས་དབྱིབས་རྩིས། རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>མིག་དམར་དམར་པོ།</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག/མིག་དམར་དམར་པོ།</item>
+        <item>མིག་དམར། རིམ་འདས་མིག་དམར། རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>སྐར་མ་སྤེན་པའི་འཁོར་རྒྱུན།</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག/སྤེན་པའི་སྐོར་བ།</item>
+        <item>སའི་གོ་ལ། རིམ་འདས་སྤེན་པ། རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>གངས་རི།</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག/གངས་རི།</item>
+        <item>སའི་གོ་ལ། རིམ་འདས་གངས་རི། རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>རིམ་འདས་རྩིག་ཤོག</item>
+        <item>རྩིག་ཤོག/རིམ་འདས་རྩིག་ཤོག</item>
+        <item>རིམ་འདས་རྩིག་ཤོག རྩིག་ཤོག འབྲེལ་འགུལ་རྩིག་ཤོག</item>
+    </string-array>
+</resources>

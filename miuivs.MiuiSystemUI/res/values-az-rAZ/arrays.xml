@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Bu tövsiyə edilən məzmundur</item>
+        <item>Bu bir reklamdır.</item>
+    </string-array>
+</resources>

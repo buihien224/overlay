@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">आधा घण्टा पहिले</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">ढिलाई: %d सेकेन्ड</item>
+        <item quantity="one">ढिलाई: %d सेकेन्ड</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">तपाईंं %s सम्म व्यक्तिहरू जोद्न मिल्छ, चयन गर्नुहोस्</item>
+        <item quantity="one">तपाईंं %s सम्म व्यक्ति जोद्न मिल्छ, चयन गर्नुहोस्</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d नम्बरहरू</item>
+        <item quantity="one">%d नम्बर</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d नम्बरहरू मेटिनेछ।</item>
+        <item quantity="one">%d नम्बर मेटिनेछ।</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s दिन</item>
+        <item quantity="one">%s दिन</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">आधा घण्टा अघि</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s घण्टा</item>
+        <item quantity="one">%s घण्टा</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d वस्तुहरू चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d प्रयत्नहरू बाँकी छ।"</item>
+        <item quantity="one">"
+%d प्रयत्न बाँकी छ।"</item>
+    </plurals>
+</resources>

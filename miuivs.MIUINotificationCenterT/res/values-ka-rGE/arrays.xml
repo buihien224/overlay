@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>დროის მიხედვით დალაგება</item>
+        <item>შეტყობინენების რაოდენობის მიხედვით დალაგება</item>
+        <item>აპლიკაციები, რომლებსაც შეუძლიათ შეტყობინებების ჩვენება</item>
+        <item>აპლიკაციები, რომლებსაც არ შეუძლიათ შეტყობინებების ჩვენება</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>შეტყობინებების შინაარის ჩვენება</item>
+        <item>არ აჩვენოთ დაბლოკილი ეკრანის შეტყობინებები</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>შეტყობინებების შინაარსის ჩვენება</item>
+        <item>აჩვენეთ შეტყობინებები, მაგრამ დამალეთ შინაარსი</item>
+        <item>არ აჩვენოთ დაბლოკილი ეკრანის შეტყობინებები</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

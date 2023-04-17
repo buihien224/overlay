@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">ອະນຸຍາດໃຫ້ %1$s ເຂົ້າເຖິງລາຍການໃນຄລິບບອດໂດຍອັດຕະໂນມັດ %2$d ຄັ້ງ</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">ບລັອກຄວາມພະຍາຍາມເຂົ້າເຖິງຄລິບບອດ %2$d ຄັ້ງສຳລັບ %1$s</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s ເຂົ້າເຖິງລາຍການໃນຄລິບບອດແລ້ວ %2$d ຄັ້ງ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">ທ່ານອະນຸຍາດ %2$s ໃຫ້ເຂົ້າເຖິງຄລິບບອດ %1$d ຄັ້ງແລ້ວ. ທ່ານຕ້ອງການທີ່ຈະອະນຸຍາດ %3$s ໃຫ້ເຂົ້າເຖິງຄລິບບອດສະເໝີບໍ?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">ທ່ານໄດ້ຈຳກັດການເຂົ້າເຖິງຄລິບບອດສຳລັບ %2$s %1$d ຄັ້ງແລ້ວ. ຈຳກັດການເຂົ້າເຖິງຄລິບບອດສຳລັບ %3$s ຢ່າງຖາວອນບໍ?</item>
+    </plurals>
+</resources>

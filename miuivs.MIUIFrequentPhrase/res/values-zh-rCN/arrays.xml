@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>发票抬头：***有限公司</item>
+        <item>地址：省 市 区 路 小区 号楼 单元 室</item>
+        <item>麻烦放收发室，谢谢。</item>
+        <item>我很快就到，请稍微等一会儿。</item>
+        <item>我正在开会，有急事请发短信。</item>
+        <item>抱歉，我现在不方便接电话，稍后联系。</item>
+        <item>好的谢谢。</item>
+    </string-array>
+</resources>

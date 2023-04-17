@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>ដើម</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super/ដើម</item>
+        <item>ផែនដី;រូប​ផ្ទៃ​អេក្រង់ Super;កំណែផែនដី;រូប​ផ្ទៃ​អេក្រង់</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>ធរណីមាត្រ</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super/ធរណីមាត្រ</item>
+        <item>ធរណីមាត្;រអរូបី;រូបផ្ទៃអេក្រង់ Super;រូបផ្ទៃអេក្រង់</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>ពីភពពណ៌ក្រហម</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super/ពីភពពណ៌ក្រហម</item>
+        <item>ភពអង្គារ;កំណែភពអង្គារ;រូប​ផ្ទៃ​អេក្រង់ Super;រូប​ផ្ទៃ​អេក្រង់</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super/កងនៃភពសៅរ៍</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>កំពូលភ្នំទឹកកក</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super/កំពូលភ្នំទឹកកក</item>
+        <item>ផែនដី;ភ្នំ;រូបផ្ទៃអេក្រង់ Super;រូបផ្ទៃអេក្រង់</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>រូប​ផ្ទៃ​អេក្រង់ Super</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់/រូប​ផ្ទៃ​អេក្រង់ Super</item>
+        <item>រូប​ផ្ទៃ​អេក្រង់ Super;រូប​ផ្ទៃ​អេក្រង់;រូប​ផ្ទៃ​អេក្រង់រស់រវើក;រូប​ផ្ទៃ​អេក្រង់ 3D</item>
+    </string-array>
+</resources>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>بدون</item>
+        <item>التقويم الهجري</item>
+        <item>تقويم ساكا</item>
+        <item>تقويم فيكرام</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>برج الدلو</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>برج الحمل</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>٢</item>
+        <item>الدوري الألماني</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>برج السرطان</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>برج الجدي</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>هذا الحدث فقط</item>
+        <item>جميع الأحداث في هذه السلسلة</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>بعد</item>
+        <item>قبل</item>
+    </string-array>
+    <string-array name="dates">
+        <item>١</item>
+        <item>٢</item>
+        <item>۳</item>
+        <item>٤</item>
+        <item>٥</item>
+        <item>٦</item>
+        <item>٧</item>
+        <item>٨</item>
+        <item>۹</item>
+        <item>١٠</item>
+        <item>١١</item>
+        <item>١٢</item>
+        <item>١٣</item>
+        <item>١٤</item>
+        <item>١٥</item>
+        <item>١٦</item>
+        <item>١٧</item>
+        <item>١٨</item>
+        <item>١٩</item>
+        <item>٢٠</item>
+        <item>٢١</item>
+        <item>٢٢</item>
+        <item>٢٣</item>
+        <item>٢٤</item>
+        <item>٢٥</item>
+        <item>٢٦</item>
+        <item>٢٧</item>
+        <item>٢٨</item>
+        <item>٢٩</item>
+        <item>٣٠</item>
+        <item>۳۱</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>في وقت الحدث</item>
+        <item>قبل ٥ دقائق</item>
+        <item>قبل ١٥ دقيقة</item>
+        <item>قبل ٣٠ دقيقة</item>
+        <item>قبل ساعة</item>
+        <item>قبل ٤ ساعات</item>
+        <item>قبل ١ يوم</item>
+        <item>قبل ٢ أيام</item>
+        <item>قبل ١ اسبوع</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>هذا الحدث فقط</item>
+        <item>هذا الحدث والأحداث المستقبلية</item>
+        <item>كل الأحداث</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>برج الجوزاء</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربيع الأول</item>
+        <item>ربيع الثاني</item>
+        <item>جمادى الأول</item>
+        <item>جمادى الثاني</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>۳</item>
+        <item>الدوري الإسباني</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>برج الأسد</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>برج الميزان</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>٥</item>
+        <item>الدوري الأول</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>الأحد</item>
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>برج الحوت</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>دائمًا</item>
+        <item>فقط عند كتم نغمة لرنين</item>
+        <item>بدون</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>المنطقة الافتراضية</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الإثنين</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>الأول</item>
+        <item>الثاني</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الخامس</item>
+        <item>السادس</item>
+        <item>السابع</item>
+        <item>الثامن</item>
+        <item>التاسع</item>
+        <item>العاشر</item>
+        <item>الحادي عشر</item>
+        <item>الثاني عشر</item>
+        <item>الثالث عشر</item>
+        <item>الرابع عشر</item>
+        <item>الخامس عشر</item>
+        <item>السادس عشر</item>
+        <item>السابع عشر</item>
+        <item>الثامن عشر</item>
+        <item>التاسع عشر</item>
+        <item>العشرون</item>
+        <item>الحادي والعشرون</item>
+        <item>الثاني والعشرون</item>
+        <item>الثالث والعشرون</item>
+        <item>الرابع والعشرون</item>
+        <item>الخامس والعشرون</item>
+        <item>السادس والعشرون</item>
+        <item>السابع والعشرون</item>
+        <item>الثامن والعشرون</item>
+        <item>التاسع والعشرون</item>
+        <item>الثلاثون</item>
+        <item>الحادي والثلاثون</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>أبدا</item>
+        <item>الوقت</item>
+        <item>العد</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>أبريل</item>
+        <item>مايو</item>
+        <item>يونيو</item>
+        <item>يوليو</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>الأول</item>
+        <item>الثاني</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الأخير</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>الاثنين - الجمعة</item>
+        <item>نهاية الأسبوع</item>
+        <item>طول الاسبوع</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ابداً</item>
+        <item>شهري</item>
+        <item>سنوي</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>يوم</item>
+        <item>أسبوع</item>
+        <item>شهر</item>
+        <item>سنة</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>الاثنين الأول</item>
+        <item>الثلاثاء الأول</item>
+        <item>الأربعاء الأول</item>
+        <item>الخميس الأول</item>
+        <item>الجمعة الأولى</item>
+        <item>السبت الأول</item>
+        <item>الأحد الأول</item>
+        <item>الاثنين الثاني</item>
+        <item>الثلاثاء الثاني</item>
+        <item>الأربعاء الثاني</item>
+        <item>الخميس الثاني</item>
+        <item>الجمعة الثانية</item>
+        <item>السبت الثاني</item>
+        <item>الأحد الثاني</item>
+        <item>الاثنين الثالث</item>
+        <item>الثلاثاء الثالث</item>
+        <item>الأربعاء الثالث</item>
+        <item>الخميس الثالث</item>
+        <item>الجمعة الثالثة</item>
+        <item>السبت الثالث</item>
+        <item>الأحد الثالث</item>
+        <item>الاثنين الرابع</item>
+        <item>الثلاثاء الرابع</item>
+        <item>الأربعاء الرابع</item>
+        <item>الخميس الرابع</item>
+        <item>الجمعة الرابعة</item>
+        <item>السبت الرابع</item>
+        <item>الأحد الرابع</item>
+        <item>آخر اثنين</item>
+        <item>آخر ثلاثاء</item>
+        <item>آخر أربعاء</item>
+        <item>آخر خميس</item>
+        <item>آخر جمعة</item>
+        <item>آخر سبت</item>
+        <item>آخر أحد</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>لا توجد إستجابة</item>
+        <item>نعم</item>
+        <item>ربما</item>
+        <item>لا</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>برج القوس</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>برج العقرب</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>١</item>
+        <item>الدوري الإيطالي الدرجة الأولى</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>برج الثور</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزر مارشال</item>
+        <item>جزيرة ميدواي</item>
+        <item>هاواي</item>
+        <item>ألاسكا</item>
+        <item>توقيت المحيط الهادئ</item>
+        <item>تيخوانا</item>
+        <item>أريزونا</item>
+        <item>تشيهواهوا</item>
+        <item>التوقيت الجبلي</item>
+        <item>امريكا الوسطى</item>
+        <item>الوقت المركزي</item>
+        <item>مدينة مكسيكو</item>
+        <item>ساسكاتشوان</item>
+        <item>بوغوتا</item>
+        <item>التوقيت الشرقي</item>
+        <item>فنزويلا</item>
+        <item>التوقيت الأطلنطي (باربادوس)</item>
+        <item>التوقيت الأطلنطي (كندا)</item>
+        <item>ماناوس</item>
+        <item>سانتياغو</item>
+        <item>نيوفنلند</item>
+        <item>برازيليا</item>
+        <item>بوينس آيرس</item>
+        <item>الأرض الخضراء</item>
+        <item>مونتفيدو</item>
+        <item>وسط الأطلنطي</item>
+        <item>الأزور</item>
+        <item>الرأس الأخضر</item>
+        <item>الدار البيضاء</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام، برلين</item>
+        <item>بلغراد</item>
+        <item>بروكسل</item>
+        <item>سراييفو</item>
+        <item>ويندهوك</item>
+        <item>وقت غرب أفريقيا</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
+        <item>القاهرة</item>
+        <item>هلسنكي</item>
+        <item>القدس</item>
+        <item>مينسك</item>
+        <item>هراري</item>
+        <item>بغداد</item>
+        <item>موسكو</item>
+        <item>الكويت</item>
+        <item>نيروبي</item>
+        <item>طهران</item>
+        <item>باكو</item>
+        <item>تبليسي</item>
+        <item>يريفان</item>
+        <item>دبي</item>
+        <item>كابل</item>
+        <item>إسلام آباد، كراتشي</item>
+        <item>أورالسك</item>
+        <item>يكاترينبورغ</item>
+        <item>كلكتا</item>
+        <item>سيريلانكا</item>
+        <item>كاتماندو</item>
+        <item>أستانا</item>
+        <item>رانغون</item>
+        <item>كراسنويارسك</item>
+        <item>بانكوك</item>
+        <item>بكين</item>
+        <item>هونغ كونغ</item>
+        <item>ماكاو</item>
+        <item>سنغافورة</item>
+        <item>إيركوتسك</item>
+        <item>كوالالمبور</item>
+        <item>بيرث</item>
+        <item>تايبيه</item>
+        <item>سيول</item>
+        <item>طوكيو، أوساكا</item>
+        <item>ياكوتسك</item>
+        <item>أديليد</item>
+        <item>داروين</item>
+        <item>بريسبان</item>
+        <item>هوبارت</item>
+        <item>سيدني، كانبيرا</item>
+        <item>فلاديفوستوك</item>
+        <item>غوام</item>
+        <item>ماجادان</item>
+        <item>أوكلاند</item>
+        <item>فيجي</item>
+        <item>تونغا</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>قبل ٣ ساعات</item>
+        <item>قبل ٤ ساعات</item>
+        <item>قبل ٥ ساعات</item>
+        <item>قبل ٦ ساعات</item>
+        <item>قبل ١ يوم</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>"تشايترا "</item>
+        <item>فايساكها</item>
+        <item>جايستا</item>
+        <item>آشادا</item>
+        <item>شرافانا</item>
+        <item>بادرا</item>
+        <item>آسوين</item>
+        <item>كآرتيكا</item>
+        <item>مارغاسيرا</item>
+        <item>بوشيا</item>
+        <item>ماغها</item>
+        <item>فالغونا</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>برج العذراء</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>صافٍ</item>
+        <item>غائم</item>
+        <item>غيوم خفيفة</item>
+        <item>ضباب</item>
+        <item>عاصفة ثقيلة</item>
+        <item>عاصفة</item>
+        <item>عاصفة خفيفة</item>
+        <item>عاصفة رعدية</item>
+        <item>أمطار خفيفة</item>
+        <item>أمطار غزيرة</item>
+        <item>مطر</item>
+        <item>أمطار خفيفة</item>
+        <item>أمطار وثلوج</item>
+        <item>عاصفة ثلجية عنيفة</item>
+        <item>ثلوج</item>
+        <item>ثلوج كثيفة</item>
+        <item>ثلج</item>
+        <item>ثلوج خفيفة</item>
+        <item>عاصفة رملية قوية</item>
+        <item>عاصفة رملية</item>
+        <item>غبار</item>
+        <item>عاصفة رملية خفيفة</item>
+        <item>حبات برد</item>
+        <item>غبار</item>
+        <item>ضباب</item>
+        <item>أمطار متجمدة</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>شفاف</item>
+        <item>خلفية بيضاء</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>ح</item>
+        <item>ن</item>
+        <item>ث</item>
+        <item>ر</item>
+        <item>خ</item>
+        <item>ج</item>
+        <item>س</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+</resources>

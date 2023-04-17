@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>বগা</item>
+        <item>গাঢ় নীলা</item>
+        <item>পাতল নীলা</item>
+        <item>ৰঙা</item>
+        <item>সেউজীয়া</item>
+        <item>গুলপীয়া</item>
+        <item>মটীয়া</item>
+        <item>ধূসৰ</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>প্ৰতিচ্ছবি চয়ন কৰক</item>
+        <item>স্বচ্ছ পৃষ্ঠভূমি</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>বিশেষ দিন</item>
+        <item>মনত ৰাখিবলগীয়া দিন</item>
+        <item>জীৱন্ত মূহুৰ্তসমূহ</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>এটা সুস্বাদু বৰ্ষ</item>
+        <item>তিনি তৰহৰ ব্যঞ্জন। চাৰিটা ঋতু।</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>নমষ্কাৰ!</item>
+        <item>ভ্ৰমণৰত</item>
+        <item>"ঠাইসমূহৰ এক কেলিড'স্কোপ"</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>শৰৎৰ আড়ম্বৰ</item>
+        <item>মনোৰম শৰৎ</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>"ল'ৰা"</item>
+        <item>ছোৱালী</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>ফটো বেকআপ লওক</item>
+        <item>ফটোসমূহ ক্লাউডৰ সৈতে চিংক কৰক</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>মনত ৰাখিবলগীয়া এটা ৰাতি</item>
+        <item>নতুন পৃষ্ঠা</item>
+        <item>আতচবাজী</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>শুভ নৱবৰ্ষ!</item>
+        <item>নৱবৰ্ষৰ ৰাতিপুৱা</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>বান্দৰৰ বৰ্ষ</item>
+        <item>মতা-কুকুৰাৰ বৰ্ষ</item>
+        <item>কুকুৰৰ বৰ্ষ</item>
+        <item>বৰাহৰ বৰ্ষ</item>
+        <item>এন্দুৰৰ বৰ্ষ</item>
+        <item>ষাড়ৰ বৰ্ষ</item>
+        <item>বাঘৰ বৰ্ষ</item>
+        <item>শহাপহুৰ বৰ্ষ</item>
+        <item>ড্ৰেগনৰ বৰ্ষ</item>
+        <item>সৰ্পৰ বৰ্ষ</item>
+        <item>ঘোঁৰাৰ বৰ্ষ</item>
+        <item>ছাগলীৰ বৰ্ষ</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>নগৰীয়া-অট্টালিকা</item>
+        <item>আলিয়ে-গলিয়ে</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>মৃদু পাহিসমূহ</item>
+        <item>সম্পূৰ্ণ প্ৰস্ফুটিত</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>অৰণ্যত</item>
+        <item>বনৰীয়া আৰু মুক্ত</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>আমাৰ পুনৰ্মিলনসমূহ</item>
+        <item>বন্ধুবৰ্গৰ সংগত</item>
+        <item>বহুদিন দেখা-দেখি নাই</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>আপোনাৰ প্ৰিয় বিষয়সমূহ</item>
+        <item>আত্মীয় লোকসকল</item>
+        <item>জীৱনৰ উজ্জ্বল মূহুৰ্তসমূহ</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>ডাঙৰ হোৱাত ব্যস্ত</item>
+        <item>অধিক আকৰ্ষণীয়</item>
+        <item>সৰু অন্বেষণকাৰী</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>ফিটনেছ ডায়েৰী</item>
+        <item>অধিক শক্তিশালী</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>আহাৰ উপভোগ কৰক!</item>
+        <item>আৰু এগৰাহ লাগিবনে?</item>
+        <item>আপোনাৰ আহাৰ উপভোগ কৰক!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>হাঁহি আৰু হাত-জোকৰা!</item>
+        <item>খেলৰ সময়</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>"অতি সুন্দৰ আউটড'ৰ"</item>
+        <item>বৰফত থকা ৰাস্তাসমূহ</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>অপ্ৰতিৰোধ্য</item>
+        <item>স্বাস্থ্যবান হৈ থকা</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>এটা ডাঙৰ দিন</item>
+        <item>কৰিডৰৰ মাজেদি!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>খেলাৰ সময়</item>
+        <item>শিশুৰ সপ্তাহান্ত</item>
+        <item>অকণমানিটো</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>মোৰ সপ্তাহান্ত</item>
+        <item>জীৱনৰ মূহুৰ্ত</item>
+        <item>সপ্তাহান্তৰ স্মৃতিসমূহ</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>নতুন বন্ধু আৰু পুৰণি দোস্ত</item>
+        <item>যোৱা বছৰৰ পুনৰ্মিলনসমূহ</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>আজৰি</item>
+        <item>মলয়া</item>
+        <item>সপোন</item>
+        <item>ডাৱৰ</item>
+        <item>চিন্তা</item>
+        <item>কলি</item>
+        <item>"মেটামৰ্ফ'ছিছ"</item>
+        <item>গভীৰতা</item>
+        <item>প্ৰতিফলনসমূহ</item>
+        <item>মিনিমেলিষ্ট</item>
+        <item>ৰহস্য</item>
+        <item>কুহেলিকা</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>পৃষ্ঠভূমিক স্কেটছলৈ পৰিৱৰ্তিত কৰক</item>
+        <item>পানীৰং শৈলীৰ পৃষ্ঠভূমিসমূহ</item>
+        <item>"চাইবাৰপাংক ৰেট্ৰ'"</item>
+        <item>ভুল উলম্ব খণ্ডসমূহ</item>
+        <item>ধুৱলী-কুঁৱলী অস্পষ্টতা</item>
+        <item>ভৱিষ্যতমূলক অনুভৱ</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>স্কেটছ</item>
+        <item>পানীৰং</item>
+        <item>RGB</item>
+        <item>ব্লাইণ্ড</item>
+        <item>কুঁৱলীময় খিৰিকি</item>
+        <item>প্ৰযুক্তি</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>ৰঙীণ আউটলাইন</item>
+        <item>ডেচযুক্ত আউটলাইন</item>
+        <item>ফ্লুৰোচেণ্ট আউটলাইন</item>
+        <item>"ৰঙীণ শ্বেড'"</item>
+        <item>ইলেকট্ৰিক তৰংগ</item>
+        <item>চলিত</item>
+        <item>লহৰ</item>
+        <item>কণাসমূহ</item>
+        <item>পাঠ</item>
+        <item>ডেউকা</item>
+        <item>পৰী</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>লৈ যাওক</item>
+        <item>প্ৰতিলিপি</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>জানুৱাৰী</item>
+        <item>ফেব্ৰুৱাৰী</item>
+        <item>মাৰ্চ</item>
+        <item>এপ্ৰিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগষ্ট</item>
+        <item>ছেপ্টেম্বৰ</item>
+        <item>অক্টোবৰ</item>
+        <item>নৱেম্বৰ</item>
+        <item>ডিচেম্বৰ</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"আপুনি ডাঙৰ হ'ল!"</item>
+        <item>"আপুনি আকৌ ডাঙৰ হ'ল!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>মোৰ ব্যক্তিগত মেনু</item>
+        <item>সুস্বাদু স্মৃতিসমূহ</item>
+        <item>দ্বিতীয় সহায়, দয়া কৰি!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>বিশ্বৰ সৰ্বোত্তম দৃশ্যসমূহ</item>
+        <item>বগাই থাকক</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>পিতৃ</item>
+        <item>মাতৃ</item>
+        <item>ককাদেউতা</item>
+        <item>আইতা</item>
+        <item>পুথাদেউ</item>
+        <item>এনাইদেউ</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>একেলগ</item>
+        <item>ভাল সময়</item>
+        <item>একত্ৰিত</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>পথে আমাক যলৈকে লৈ যায়</item>
+        <item>ভালদৰে ভাগ-বতৰা কৰা যাত্ৰাসমূহ</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>এক প্ৰফুল্লিত বসন্ত</item>
+        <item>এক আনন্দময় গ্ৰীষ্মকাল</item>
+        <item>এক সুখৰ শৰৎ</item>
+        <item>এক উপভোগ্য শীতকাল</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>বসন্তৰ আহাৰ</item>
+        <item>গ্ৰীষ্মকালৰ খাদ্য</item>
+        <item>শৰৎৰ ভোজ-ভাত</item>
+        <item>শীতৰ খোৱা-বোৱা</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>একেলগ</item>
+        <item>বান্ধোন আৰু সম্পৰ্ক</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>মই</item>
+        <item>শিশু</item>
+        <item>পৰিয়াল</item>
+        <item>সহকৰ্মীসকল</item>
+        <item>সহপাঠী</item>
+        <item>বন্ধুবৰ্গ</item>
+        <item>গোটহীনকৃত</item>
+    </string-array>
+    <string-array name="season">
+        <item>বসন্ত</item>
+        <item>গ্ৰীষ্ম</item>
+        <item>শৰৎ</item>
+        <item>শীত</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>পিতৃ</item>
+        <item>মাতৃ</item>
+        <item>ককাদেউতা</item>
+        <item>আইতা</item>
+        <item>পুথাদেউ</item>
+        <item>এনাইদেউ</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>আগবাঢ়ি গৈছো</item>
+        <item>শক্তিৰে ভৰা</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>বসন্তৰ ফুল</item>
+        <item>বসন্তৰ আগমন</item>
+        <item>স্বাগতম বসন্ত!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>অলপমান গ্ৰীষ্ম</item>
+        <item>যেতিয়া গ্ৰীষ্ম কেতিয়াও শেষ নহয়</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>সোণালী ঘণ্টাসমূহ</item>
+        <item>সোণৰ ৰশ্মিসমূহ</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>সিঁহত অতি খৰকৈ ডাঙৰ হয়</item>
+        <item>শিশুৰ ফটোসমূহ</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>শীতৰ দিনসমূহ</item>
+        <item>শীতৰ আশ্চৰ্যলোক</item>
+    </string-array>
+</resources>

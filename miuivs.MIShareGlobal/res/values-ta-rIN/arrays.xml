@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>படங்கள், செயலிகள் மற்றும் பிற கோப்புகளை அணுகவும் சேமிக்கவும் மற்றும் அவற்றை இடமாற்றவும்</item>
+        <item>ப்ளூடூத் மற்றும்Wi-Fi -ஐப் பயன்படுத்தி கோப்புகளை இடமாற்ற</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>கோப்புகளை அனுப்பவும் பெறவும்</item>
+        <item>ப்ளூடூத் மற்றும் Wi-Fi -ஐப் பயன்படுத்தி கோப்புகளை இடமாற்ற</item>
+        <item>ப்ளூடூத்தைப் பயன்படுத்தி, அருகிலுள்ள சாதனங்களைக் கண்டறிய</item>
+        <item>Wi-Fi -ஐப் பயன்படுத்தி, அருகிலுள்ள சாதனங்களைக் கண்டறியவும் கோப்புகளை இடமாற்றவும்</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

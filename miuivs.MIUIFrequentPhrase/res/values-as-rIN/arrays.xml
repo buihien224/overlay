@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>ইনভইচ শীৰ্ষক: *** Inc.</item>
+        <item>"ঠিকনা: পথ, ভৱন, নগৰ, দেশ/অঞ্চল, প্ৰদেশ, ডাক ক'ড"</item>
+        <item>দয়া কৰি পেকেজটো দুৱাৰৰ কাষত থৈ যাওক। ধন্যৱাদ!</item>
+        <item>"এক মিনিট ৰ'ব, মই এতিয়াই ঘূৰি আহিম।"</item>
+        <item>মই মিটিঙত আছো। দয়া কৰি এটা পাঠ বাৰ্তা প্ৰেৰণ কৰক।</item>
+        <item>"মই এতিয়া কথা পাতিব নোৱাৰো। মই সোনকালেই আপোনাৰ সৈতে কথা হ'ম।"</item>
+        <item>ধন্যবাদ!</item>
+    </string-array>
+</resources>

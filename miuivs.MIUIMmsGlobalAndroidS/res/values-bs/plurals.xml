@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Prije 1 sat</item>
+        <item quantity="one">Prije 1 sat</item>
+        <item quantity="few">Prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Prije 1 sat</item>
+        <item quantity="one">Prije 1 sat</item>
+        <item quantity="few">Prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za sat</item>
+        <item quantity="one">Za sat</item>
+        <item quantity="few">Za sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d minuta</item>
+        <item quantity="one">za 1 minutu</item>
+        <item quantity="few">za %d minute</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Prije %d minuta</item>
+        <item quantity="one">Prije 1 minutu</item>
+        <item quantity="few">Prije %d minute</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Obriši %1$s poruka?</item>
+        <item quantity="one">Obriši %1$s poruku?</item>
+        <item quantity="few">Obriši %1$s poruke?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d poruka</item>
+        <item quantity="one">%d poruka</item>
+        <item quantity="few">%d poruke</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d poruka nije sinhronizovano</item>
+        <item quantity="one">%d poruka nije sinhronizovana</item>
+        <item quantity="few">%d poruke nisu sinhronizovane</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Obrisati %1$s odabranih konverzacija?</item>
+        <item quantity="one">Obrisati %1$s odabranu konverzaciju?</item>
+        <item quantity="few">Obrisati %1$s odabrane konverzacije?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d odabranih</item>
+        <item quantity="one">%d odabrana</item>
+        <item quantity="few">%d odabrane</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Poruku je primio %1$s i %2$d drugih osoba</item>
+        <item quantity="one">Poruku je primio %1$s i %2$d osoba</item>
+        <item quantity="few">Poruku je primio %1$s i %2$d druge osobe</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">Nije poslano za %d kontakata</item>
+        <item quantity="one">Nije poslano za %d kontakt</item>
+        <item quantity="few">Nije poslano za %d kontakta</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d poruka</item>
+        <item quantity="one">%d poruka</item>
+        <item quantity="few">%d poruke</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za sat</item>
+        <item quantity="one">Za sat</item>
+        <item quantity="few">Za sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minuta</item>
+        <item quantity="one">za 1 minutu</item>
+        <item quantity="few">za %d minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Označeno kao %2$s od %1$d osoba</item>
+        <item quantity="one">Označeno kao %2$s od %1$d osobe</item>
+        <item quantity="few">Označeno kao %2$s od %1$d osobe</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s poruka</item>
+        <item quantity="one">%1$s poruka</item>
+        <item quantity="few">%1$s poruke</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d stavki odabrano</item>
+        <item quantity="one">%d stavka odabrana</item>
+        <item quantity="few">%d stavke odabrane</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s poruka | "</item>
+        <item quantity="one">"%s poruka | "</item>
+        <item quantity="few">"%s poruke | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Prije %d minuta</item>
+        <item quantity="one">Prije 1 minutu</item>
+        <item quantity="few">Prije %d minutu</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Povuci (%ds)</item>
+        <item quantity="one">Povuci (%ds)</item>
+        <item quantity="few">Povuci (%ds)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Primili ste %d pozivnica za grupno ćaskanje</item>
+        <item quantity="one">Primili ste %d pozivnicu za grupno ćaskanje</item>
+        <item quantity="few">Primili ste %d pozivnice za grupno ćaskanje</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s osoba</item>
+        <item quantity="one">%1$s osoba</item>
+        <item quantity="few">%1$s osobe</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za \"%2$s\"</item>
+        <item quantity="one">%1$s rezultat za \"%2$s\"</item>
+        <item quantity="few">%1$s rezultata za \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">Poslano je %1$s poruka</item>
+        <item quantity="one">Poslana je %1$s poruka</item>
+        <item quantity="few">Poslane su %1$s poruke</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
+        <item quantity="few">%d sek</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
+        <item quantity="few">%d sek</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">Poslano je %d tempiranih poruka</item>
+        <item quantity="one">Poslana je %d tempirana poruka</item>
+        <item quantity="few">Poslane su %d tempirane poruke</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d poruka)</item>
+        <item quantity="one">(%d poruka)</item>
+        <item quantity="few">(%d poruke)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d primatelja</item>
+        <item quantity="one">%d primatelj</item>
+        <item quantity="few">%d primatelja</item>
+    </plurals>
+</resources>

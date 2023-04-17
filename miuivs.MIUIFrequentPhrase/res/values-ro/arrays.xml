@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Antetul facturii: *** Inc.</item>
+        <item>Adresă: Stradă, Apartament, Oraș, Țară/Regiune, Provincie, Cod Poștal</item>
+        <item>Vă rugăm să lăsați pachetul lângă ușă. Mulțumim!</item>
+        <item>Așteptați un minut, mă întorc imediat.</item>
+        <item>Sunt într-o ședință. Vă rugăm să trimiteți un mesaj text.</item>
+        <item>Nu pot vorbi acum. Te sun înapoi cât mai curând.</item>
+        <item>Mulţumesc!</item>
+    </string-array>
+</resources>

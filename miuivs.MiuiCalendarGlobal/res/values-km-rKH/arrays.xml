@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>ទទេ</item>
+        <item>ប្រតិទិន Hijri</item>
+        <item>ប្រតិទិន Shaka</item>
+        <item>ប្រតិទិន Vikrami</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>កុម្ភៈនិវត្តិន៍</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>មិនានិវត្តិន៍</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>២</item>
+        <item>បុនដេសលីហ្កា</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>កក្កដានិវត្ដន៍</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>មករានិវត្តិន៍</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>តែព្រឹត្តិការណ៍មួយនេះប៉ុណ្ណោះ</item>
+        <item>ព្រឹត្តិការណ៍បន្តបន្ទាប់ជាស៊េរីទាំងអស់</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>បញ្ចូនបន្ត</item>
+        <item>ថយក្រោយ</item>
+    </string-array>
+    <string-array name="dates">
+        <item>១</item>
+        <item>២</item>
+        <item>៣</item>
+        <item>៤</item>
+        <item>៥</item>
+        <item>៦</item>
+        <item>៧</item>
+        <item>៨</item>
+        <item>៩</item>
+        <item>១០</item>
+        <item>១១</item>
+        <item>១២</item>
+        <item>១៣</item>
+        <item>១៤</item>
+        <item>១៥</item>
+        <item>១៦</item>
+        <item>១៧</item>
+        <item>១៨</item>
+        <item>១៩</item>
+        <item>២០</item>
+        <item>២១</item>
+        <item>២២</item>
+        <item>២៣</item>
+        <item>២៤</item>
+        <item>២៥</item>
+        <item>២៦</item>
+        <item>២៧</item>
+        <item>២៨</item>
+        <item>២៩</item>
+        <item>៣០</item>
+        <item>៣១</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>នៅពេលព្រឹត្តិការណ៍កើតឡើង</item>
+        <item>5 នាទីមុន</item>
+        <item>15 នាទីមុន</item>
+        <item>30 នាទីមុន</item>
+        <item>1 ម៉ោងមុន</item>
+        <item>4 ម៉ោងមុន</item>
+        <item>1 ថ្ងៃមុន</item>
+        <item>2 ថ្ងៃមុន</item>
+        <item>1 សប្តាហ៍មុន</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>តែព្រឹត្តិការណ៍មួយនេះប៉ុណ្ណោះ</item>
+        <item>ព្រឹត្តិការណ៍នេះនិងព្រឹត្តិការណ៍អនាគត</item>
+        <item>ព្រឹត្តិការណ៍ទាំងអស់</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>៤</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>មិថុនានិវត្ដន៍</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>៣</item>
+        <item>ឡាលីហ្កា</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>សីហានិវត្តិន៍</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>តុលានិវត្តិន៍</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>៥</item>
+        <item>លីកទី ១</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>ថ្ងៃអាទិត្យ</item>
+        <item>ថ្ងៃច័ន្ទ</item>
+        <item>ថ្ងៃអង្គារ</item>
+        <item>ថ្ងៃពុធ</item>
+        <item>ថ្ងៃព្រហស្បត្តិ៍</item>
+        <item>ថ្ងៃសុក្រ</item>
+        <item>ថ្ងៃសៅរ៍</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>មិនានិវត្តិន៍</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>ជានិច្ចកាល</item>
+        <item>ពេលដែលសម្លេងរោទ៍ត្រូវបានបិទតែប៉ុណ្ណោះ</item>
+        <item>មិនដែលទេ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>លំនាំដើមតំបន់</item>
+        <item>ថ្ងៃសៅរ៍</item>
+        <item>ថ្ងៃអាទិត្យ</item>
+        <item>ថ្ងៃច័ន្ទ</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>ទី១</item>
+        <item>ទី២</item>
+        <item>ទី៣</item>
+        <item>ទី៤</item>
+        <item>ទី៥</item>
+        <item>ទី៦</item>
+        <item>ទី៧</item>
+        <item>ទី៨</item>
+        <item>ទី៩</item>
+        <item>ទី១០</item>
+        <item>ទី១១</item>
+        <item>ទី១២</item>
+        <item>ទី១៣</item>
+        <item>ទី១៤</item>
+        <item>ទី១៥</item>
+        <item>ទី១៦</item>
+        <item>ទី១៧</item>
+        <item>ទី១៨</item>
+        <item>ទី១៩</item>
+        <item>ទី២០</item>
+        <item>ទី២១</item>
+        <item>ទី២២</item>
+        <item>ទី២៣</item>
+        <item>ទី២៤</item>
+        <item>ទី២៥</item>
+        <item>ទី២៦</item>
+        <item>ទី២៧</item>
+        <item>ទី២៨</item>
+        <item>ទី២៩</item>
+        <item>ទី៣០</item>
+        <item>ទី៣១</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>មិនដែលទេ</item>
+        <item>ពេលេវេលា</item>
+        <item>រាប់</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>មករា</item>
+        <item>កុម្ភៈ</item>
+        <item>មិនា</item>
+        <item>មេសា</item>
+        <item>ឧសភា</item>
+        <item>មិថុនា</item>
+        <item>កក្កដា</item>
+        <item>សីហា</item>
+        <item>កញ្ញា</item>
+        <item>តុលា</item>
+        <item>វិច្ឆិកា</item>
+        <item>ធ្នូរ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>ទីមួយ</item>
+        <item>ទីពីរ</item>
+        <item>ទីបី</item>
+        <item>ទីបួន</item>
+        <item>ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>ចន្ទ -សុក្រ</item>
+        <item>ចុងសប្តាហ៍</item>
+        <item>ពេញមួយសប្តាហ៍</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>ច័ន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+        <item>អាទិត្យ</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>មិនដែលទេ</item>
+        <item>ប្រចាំខែ</item>
+        <item>ប្រចាំឆ្នាំ</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ថ្ងៃ</item>
+        <item>សប្តាហ៍</item>
+        <item>ខែ</item>
+        <item>ឆ្នាំ</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ថ្ងៃចន្ទដំបូង</item>
+        <item>ថ្ងៃអង្គារដំបូង</item>
+        <item>ថ្ងៃពុធដំបូង</item>
+        <item>ថ្ងៃព្រហស្បតិ៍ដំបូង</item>
+        <item>ថ្ងៃសុក្រដំបូង</item>
+        <item>ថ្ងៃសៅរ៍ដំបូង</item>
+        <item>ថ្ងៃអាទិត្យដំបូង</item>
+        <item>ថ្ងៃចន្ទទីពីរ</item>
+        <item>ថ្ងៃអង្គារទីពីរ</item>
+        <item>ថ្ងៃពុធទីពីរ</item>
+        <item>ថ្ងៃព្រហស្បតិ៍ទីពីរ</item>
+        <item>ថ្ងៃសុក្រទីពីរ</item>
+        <item>ថ្ងៃសៅរ៍ទីពីរ</item>
+        <item>ថ្ងៃអាទិត្យទីពីរ</item>
+        <item>ថ្ងៃចន្ទទីបី</item>
+        <item>ថ្ងៃអង្គារទីបី</item>
+        <item>ថ្ងៃពុធទីបី</item>
+        <item>ថ្ងៃព្រហស្បតិ៍ទីបី</item>
+        <item>ថ្ងៃសុក្រទីបី</item>
+        <item>ថ្ងៃសៅរ៍ទីបី</item>
+        <item>ថ្ងៃអាទិត្យទីបី</item>
+        <item>ថ្ងៃចន្ទទីបួន</item>
+        <item>ថ្ងៃអង្គារទីបួន</item>
+        <item>ថ្ងៃពុធទីបួន</item>
+        <item>ថ្ងៃព្រហស្បតិ៍ទីបួន</item>
+        <item>ថ្ងៃសុក្រទីបួន</item>
+        <item>ថ្ងៃសៅរ៍ទីបួន</item>
+        <item>ថ្ងៃអាទិត្យទីបួន</item>
+        <item>ថ្ងៃចន្ទចុងក្រោយ</item>
+        <item>ថ្ងៃអង្គារចុងក្រោយ</item>
+        <item>ថ្ងៃពុធចុងក្រោយ</item>
+        <item>ថ្ងៃព្រហស្បតិ៍ចុងក្រោយ</item>
+        <item>ថ្ងៃសុក្រចុងក្រោយ</item>
+        <item>ថ្ងៃសៅរ៍ចុងក្រោយ</item>
+        <item>ថ្ងៃអាទិត្យចុងក្រោយ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>អត់មានឆ្លើយតប</item>
+        <item>បាទ/ចាស</item>
+        <item>ប្រហែល</item>
+        <item>ទេ</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>ធ្នូរនិវត្តិន៍</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>វិច្ឆិកានិវត្តិន៍</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>១</item>
+        <item>ក្រុម A</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>មេសានិវត្ដន៍</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>កោះ Marshall</item>
+        <item>កោះ Midway</item>
+        <item>ហាវ៉ៃ</item>
+        <item>អាឡាស្កា</item>
+        <item>ម៉ោងប៉ាស៊ីហ្វិក</item>
+        <item>ទីជូណា</item>
+        <item>អារីហ្សូណា</item>
+        <item>ឈីហួហួ</item>
+        <item>ម៉ោងភ្នំ</item>
+        <item>អាមេរិក​ក​ណ្តា​ល</item>
+        <item>ម៉ោងកណ្តាល</item>
+        <item>ទីក្រុងម៉ិកស៊ិកូ</item>
+        <item>សាស់ខាត់ចេវ៉ាន</item>
+        <item>បូហ្គោតា</item>
+        <item>ម៉ោងភាគខាងកើត</item>
+        <item>វេណេហ្ស៊ុអេឡា</item>
+        <item>ម៉ោងអាត្លង់ទិក (បាបាដូស)</item>
+        <item>ម៉ោងអាត្លង់ទិក (កាណាដា)</item>
+        <item>ម៉ាណូស</item>
+        <item>សាន់ត្យាហ្គោ</item>
+        <item>ញ៉ូហ្វោនឡែន</item>
+        <item>ប្រេស៊ីល</item>
+        <item>បឺណូសអ៊ារី</item>
+        <item>ហ្គ្រីនឡិន</item>
+        <item>ម៉ុងតេវីដេអូ</item>
+        <item>តំបន់អាត្លង់ទិចកណ្តាល</item>
+        <item>អាសូរែស</item>
+        <item>កាប់វែរ</item>
+        <item>ខាសាប្លែនខា</item>
+        <item>ទីក្រុងឡុងដ៍ ឌីប្លីន</item>
+        <item>អាមធឺដាម ទីក្រុងប៊ែកឡាំង</item>
+        <item>ប៊ែលក្រាដ</item>
+        <item>ទីក្រុងប្រ៊ូសល</item>
+        <item>សារ៉ាយេវ៉ូ</item>
+        <item>វីនហឿក</item>
+        <item>ម៉ោងអាហ្វ្រិកខាងលិច</item>
+        <item>អាម៉ាន់ ហ្ស៊កដាន់</item>
+        <item>អាថែន អ៊ីស្តង់ប៊ុល</item>
+        <item>បេរូត លីបង់</item>
+        <item>ទីក្រុងគែរ</item>
+        <item>ហែលស៊ីនគី</item>
+        <item>យេរូសាឡិម</item>
+        <item>មីនស្ក៍</item>
+        <item>ហារ៉ារ៉េ</item>
+        <item>បាដាដ</item>
+        <item>ទីក្រុងម៉ូស្គូ</item>
+        <item>គុយវ៉ែត</item>
+        <item>ណៃរ៉ូប៊ី</item>
+        <item>តេអេរ៉ង់</item>
+        <item>បាគូ</item>
+        <item>តេប៊ីលីស៊ី</item>
+        <item>អ៊ីរ៉េវ៉ាន</item>
+        <item>ឌូបៃ</item>
+        <item>កាប៊ុល</item>
+        <item>ទីក្រុងអ៊ីស្លាម៉ាបាដ ការ៉ាជី</item>
+        <item>អ៊ុយរ៉ាលស្កិ៍</item>
+        <item>យ៉ាកេទីនប៊ឺក</item>
+        <item>កុលកាតា</item>
+        <item>ស្រី​លង្កា</item>
+        <item>កាម៉ាន់ឌូ</item>
+        <item>អាស្តាណា</item>
+        <item>យ៉ាំងហ្គោន</item>
+        <item>ក្រាស់ណូយ៉ាស់ក៍</item>
+        <item>ទីក្រុងបាងកក</item>
+        <item>ប៉េកាំង</item>
+        <item>ហុងកុង</item>
+        <item>ម៉ាកាវ</item>
+        <item>សិង្ហបូរី</item>
+        <item>Irkutsk</item>
+        <item>គូឡាឡាំពួ</item>
+        <item>ក្រុង Perth</item>
+        <item>តៃប៉ិ</item>
+        <item>ទីក្រុងសេអ៊ូល</item>
+        <item>ទីក្រុងតូក្យូអូសាកា</item>
+        <item>យ៉ាកស៊ូក</item>
+        <item>អាដេឡៃដ៍</item>
+        <item>ដាវីន</item>
+        <item>ប្រីសបេន</item>
+        <item>ហូបាត</item>
+        <item>ស៊ីដនី កង់បេរ៉ា</item>
+        <item>វ្ល៉ាឌីវ៉ូស្តុក</item>
+        <item>ទីក្រុងហ្គាម</item>
+        <item>ម៉ាកាដាន</item>
+        <item>Auckland</item>
+        <item>ហ្វ៊ីជី</item>
+        <item>តុងហ្គា</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 ម៉ោងមុន</item>
+        <item>4 ម៉ោងមុន</item>
+        <item>5 ម៉ោងមុន</item>
+        <item>6 ម៉ោងមុន</item>
+        <item>1 ថ្ងៃមុន</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>កញ្ញានិវត្តិន៍</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>ស្រឡះ</item>
+        <item>មានពពក</item>
+        <item>ស្រទំ</item>
+        <item>អ័ព្ទ</item>
+        <item>ព្យុះភ្លៀង​ខ្លាំង</item>
+        <item>ព្យុះភ្លៀង</item>
+        <item>ព្យុះភ្លៀងខ្សោយ</item>
+        <item>ព្យុះមានផ្គររន្ទះ</item>
+        <item>ភ្លៀងរលឹម</item>
+        <item>ភ្លៀង​ខ្លាំង</item>
+        <item>ភ្លៀង</item>
+        <item>ភ្លៀងតិចៗ</item>
+        <item>ធ្លាក់ភ្លៀង និងចុះព្រិល</item>
+        <item>ព្យុះទឹកកក</item>
+        <item>ភ្លៀងព្រិល</item>
+        <item>ធ្លាក់ព្រិលខ្លាំង</item>
+        <item>ព្រិល</item>
+        <item>ព្រិលធ្លាក់​តិចៗ</item>
+        <item>ព្យុះខ្សាច់​ខ្លាំង</item>
+        <item>ព្យុះខ្សាច់</item>
+        <item>ធូលី</item>
+        <item>ព្យុះខ្សាច់​ខ្សោយ</item>
+        <item>ធ្លាក់ទឹកកក</item>
+        <item>ធូលី​អណ្ដែត</item>
+        <item>ខ្យល់ខ្លាំង</item>
+        <item>ភ្លៀង​ត្រជាក់</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>អាទិត្យ</item>
+        <item>ចន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>ថ្លាឆ្លុះ</item>
+        <item>ផ្ទៃខាងក្រោយពណ៌ស</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

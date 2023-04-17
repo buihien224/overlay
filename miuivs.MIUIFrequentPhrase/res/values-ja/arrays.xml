@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>請求書ヘッダー：***株式会社</item>
+        <item>住所：郵便番号　都道府県　市区町村　番地　建物名　部屋番号</item>
+        <item>荷物はドアのそばに置いておいてください。ありがとうございます。</item>
+        <item>少し待ってください、すぐに戻ります。</item>
+        <item>会議中です。テキストメッセージを送ってください。</item>
+        <item>現在電話に出られません。あとで折り返しお電話いたします。</item>
+        <item>ありがとうございます。</item>
+    </string-array>
+</resources>

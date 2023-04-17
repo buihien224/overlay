@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>زمین</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/زمین</item>
+        <item>زمین;تصاویر زمینه فوق‌العاده;ویرایش زمین;تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>هندسه</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/هندسه</item>
+        <item>هندسه؛چکیده؛تصویر زمینه فوق‌العاده؛تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>سیاره سرخ</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/سیاره سرخ</item>
+        <item>مریخ;ویرایش مریخ;تصاویر زمینه فوق‌العاده;تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>قله‌های برفی</item>
+        <item>تصویر زمینه/تصاویر زمینه فوق‌العاده/قله‌های برفی</item>
+        <item>زمین؛کوه‌ها؛تصویر زمینه فوق‌العاده؛تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>تصاویر زمینه فوق‌العاده</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده</item>
+        <item>تصاویر زمینه فوق‌العاده;تصویر زمینه;تصویر زمینه پویا;تصویر زمینه سه بعدی</item>
+    </string-array>
+</resources>

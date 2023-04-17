@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>महिला</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>खाताहरू</item>
+        <item>तेस्रो पक्ष खाताहरू थप्नुहोस् र प्रबन्धन गर्नुहोस्</item>
+        <item>खाता;SNS;Facebook;Google;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>खाताहरू</item>
+        <item>तेस्रो पक्ष खाताहरू थप्नुहोस् र प्रबन्धन गर्नुहोस्</item>
+        <item>खाता;SNS;WeChat;QQ;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>पासवर्ड परिवर्तन गर्नुहोस्</item>
+        <item>Xiaomi खाताको पासवर्ड परिवर्तन गर्नुहोस्</item>
+        <item>पासवर्ड परिवर्तन गर्नुहोस्;पासवर्ड अपडेट गर्नुहोस्;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>पारिवारिक भण्डारण ठाउँ</item>
+        <item>पारिवारिक भण्डारण ठाउँ हेर्नुहोस्/सक्रिय गर्नुहोस्</item>
+        <item>पारिवारिक भण्डारण ठाउँ; भण्डारण साझेदारी</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>पारिवारिक सेवाहरू</item>
+        <item>पारिवारिक सेवाहरू हेर्नुहोस्/सक्रिय गर्नुहोस्</item>
+        <item>परिवार; पारिवारिक सेवा; परिवार साझेदारी</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>मद्दत</item>
+        <item>Xiaomi खाता मद्दत र निवारण पाउनुहोस्</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;खाता मद्दत;मद्दत केन्द्र</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2- चरण प्रमाणिकरण</item>
+        <item>तपाईंको Xiaomi खाताको लागि 2- चरण प्रमाणिकरण</item>
+        <item>साइन इन;लग इन;२-चरण;प्रमाणीकरण;Xiaomi;खाता;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>खाता सुरक्षा</item>
+        <item>रिकभरी फोन र इमेल, पासवर्ड प्रबन्धन</item>
+        <item>खाता सुरक्षा;साइन इन;रिकभरी फोन;रिकभरी इमेल;खाता सुरक्षा;फोन नम्बर;इमेल;पासवर्ड परिवर्तन गर्नुहोस्;फोन नम्बर थप्नुहोस्;इमेल थप्नुहोस्;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>डिभाइसहरू</item>
+        <item>तपाईंको Xiaomi खातासँग सम्बन्धित डिभाइसहरू प्रबन्धन गर्नुहोस्</item>
+        <item>डिभाइस व्यवस्थापन गर्नुहोस्;मेरा डिभाइसहरू;डिभाइस;डिभाइसहरूको सूची; Mi खाता; खाता; Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>गोपनीयता नीति</item>
+        <item>Xiaomi खाता गोपनीयता नीति हेर्नुहोस्</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;गोपनीयता नीति</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>रिकभरी इमेल</item>
+        <item>रिकभरी इमेल थप्नुहोस्</item>
+        <item>रिकभरी इमेल;इमेल;इमेल थप्नुहोस्;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>रिकभरी फोन</item>
+        <item>रिकभरी फोन थप्नुहोस्</item>
+        <item>रिकभरी फोन;फोन थप्नुहोस्;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>विज्ञापनहरू</item>
+        <item>सिस्टम विज्ञापनहरू प्रबन्धन गर्नुहोस्</item>
+        <item>विज्ञापन;Mi खाता;खाता;Xiaomi Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>खाता जानकारी</item>
+        <item>तपाईंको प्रोफाइल फोटो हेर्नुहोस् र खाता जानकारी प्रबन्धन गर्नुहोस्</item>
+        <item>व्यक्तिगत जानकारी;प्रोफाइ फोटो;उपनाम;खाता जानकारी;Mi ID;ID;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>प्रयोगकर्ता सम्झौता</item>
+        <item>प्रयोगकर्ता सम्झौता</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;प्रयोगकर्ता सम्झौता;EULA</item>
+    </string-array>
+</resources>

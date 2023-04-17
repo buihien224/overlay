@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Nav</item>
+        <item>Hijri Samvat</item>
+        <item>Šaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Ūdensvīrs</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Auns</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundeslīga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Vēzis</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Mežāzis</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tikai šis notikums</item>
+        <item>Visi notikumi sērijā</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Uz priekšu</item>
+        <item>Atpakaļ</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Notikuma brīdī</item>
+        <item>5 minūtes iepriekš</item>
+        <item>15 minūtes iepriekš</item>
+        <item>30 minūtes iepriekš</item>
+        <item>1 stundu iepriekš</item>
+        <item>4 stundas iepriekš</item>
+        <item>1 dienu iepriekš</item>
+        <item>2 dienas iepriekš</item>
+        <item>1 nedēļu iepriekš</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tikai šis notikums</item>
+        <item>Šis un nākotnes notikumi</item>
+        <item>Visi notikumi</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Dvīņi</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadāns</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Lauva</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Svari</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>1. līga</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Svētdiena</item>
+        <item>Pirmdiena</item>
+        <item>Otrdiena</item>
+        <item>Trešdiena</item>
+        <item>Ceturtdiena</item>
+        <item>Piektdiena</item>
+        <item>Sestdiena</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Zivis</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vienmēr</item>
+        <item>Tikai, kad apklusināts zvana signāls</item>
+        <item>Nekad</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Reģiona noklusējums</item>
+        <item>Sestdiena</item>
+        <item>Svētdiena</item>
+        <item>Pirmdiena</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nekad</item>
+        <item>Laiks</item>
+        <item>Skaits</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Janv.</item>
+        <item>Febr.</item>
+        <item>Marts</item>
+        <item>Apr.</item>
+        <item>Maijs</item>
+        <item>Jūn.</item>
+        <item>Jūl.</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>pirmais</item>
+        <item>otrais</item>
+        <item>trešais</item>
+        <item>ceturtais</item>
+        <item>pēdējais</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Pr-Pk</item>
+        <item>Nedēļas nogale</item>
+        <item>Visa nedēļa</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>Pk</item>
+        <item>S</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Nekad</item>
+        <item>Katru mēnesi</item>
+        <item>Katru gadu</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>diena</item>
+        <item>nedēļa</item>
+        <item>mēnesis</item>
+        <item>gads</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>pirmā pirmdiena</item>
+        <item>pirmā otrdiena</item>
+        <item>pirmā trešdiena</item>
+        <item>pirmā ceturtdiena</item>
+        <item>pirmā piektdiena</item>
+        <item>pirmā sestdiena</item>
+        <item>pirmā svētdiena</item>
+        <item>otrā pirmdiena</item>
+        <item>otrā otrdiena</item>
+        <item>otrā trešdiena</item>
+        <item>otrā ceturtdiena</item>
+        <item>otrā piektdiena</item>
+        <item>otrā sestdiena</item>
+        <item>otrā svētdiena</item>
+        <item>trešā pirmdiena</item>
+        <item>trešā otrdiena</item>
+        <item>trešā trešdiena</item>
+        <item>trešā ceturtdiena</item>
+        <item>trešā piektdiena</item>
+        <item>trešā sestdiena</item>
+        <item>trešā svētdiena</item>
+        <item>ceturtā pirmdiena</item>
+        <item>ceturtā otrdiena</item>
+        <item>ceturtā trešdiena</item>
+        <item>ceturtā ceturtdiena</item>
+        <item>ceturtā piektdiena</item>
+        <item>ceturtā sestdiena</item>
+        <item>ceturtā svētdiena</item>
+        <item>pēdējā pirmdiena</item>
+        <item>pēdējā otrdiena</item>
+        <item>pēdējā trešdiena</item>
+        <item>pēdējā ceturtdiena</item>
+        <item>pēdējā piektdiena</item>
+        <item>pēdēja sestdiena</item>
+        <item>pēdējā svētdiena</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Nav atbildes</item>
+        <item>Jā</item>
+        <item>Varbūt</item>
+        <item>Nē</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Strēlnieks</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Skorpions</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>A sērija</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Vērsis</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Māršala salas</item>
+        <item>Midveja sala</item>
+        <item>Havaju salas</item>
+        <item>Aļaska</item>
+        <item>PST (Klusā okeāna laika zona)</item>
+        <item>Tihuāna</item>
+        <item>" Arizona"</item>
+        <item>Čivava</item>
+        <item>UTC -7</item>
+        <item>Centrālamerika</item>
+        <item>UTC -6</item>
+        <item>Mehiko</item>
+        <item>Saskačevana</item>
+        <item>Bogota</item>
+        <item>UTC -5</item>
+        <item>Venecuēla</item>
+        <item>UTC -4 (Barbadosa)</item>
+        <item>UTC -4 (Kanāda)</item>
+        <item>Manausa</item>
+        <item>Santjago</item>
+        <item>Ņūfaundlenda</item>
+        <item>Brazilja</item>
+        <item>Buenosairesa</item>
+        <item>Grenlande</item>
+        <item>Montevideo</item>
+        <item>UTC -1</item>
+        <item>Azoru salas</item>
+        <item>Kaboverde</item>
+        <item>Kasablanka</item>
+        <item>Londona, Dublina</item>
+        <item>Amsterdama, Berlīne</item>
+        <item>Belgrada</item>
+        <item>Brisele</item>
+        <item>Sarajeva</item>
+        <item>Vindhuka</item>
+        <item>Rietumāfrikas laiks</item>
+        <item>Ammana, Jordāna</item>
+        <item>Atēnas, Stambula</item>
+        <item>Beirūta, Libāna</item>
+        <item>Kaira</item>
+        <item>Helsinki</item>
+        <item>Jeruzāleme</item>
+        <item>Minska</item>
+        <item>Harare</item>
+        <item>Bagdāde</item>
+        <item>Maskava</item>
+        <item>Kuveita</item>
+        <item>Nairobi</item>
+        <item>Teherāna</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Erevāna</item>
+        <item>Dubaija</item>
+        <item>Kabula</item>
+        <item>Islamabāda, Karači</item>
+        <item>Uraļska</item>
+        <item>Jekaterinburga</item>
+        <item>Kolkāta</item>
+        <item>Šrilanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangona</item>
+        <item>Krasnojarska</item>
+        <item>Bangkoka</item>
+        <item>Pekina</item>
+        <item>Honkonga</item>
+        <item>Makao</item>
+        <item>Singapūra</item>
+        <item>Irkutska</item>
+        <item>Kualalumpura</item>
+        <item>Pērta</item>
+        <item>Taibei</item>
+        <item>Seula</item>
+        <item>Tokija, Osaka</item>
+        <item>Jakutska</item>
+        <item>Adelaida</item>
+        <item>Dārvina</item>
+        <item>Brisbena</item>
+        <item>Hobārta</item>
+        <item>Sidneja, Kanbera</item>
+        <item>Vladivostoka</item>
+        <item>Guama</item>
+        <item>Magadāna</item>
+        <item>Oklenda</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 stundas iepriekš</item>
+        <item>4 stundas iepriekš</item>
+        <item>5 stundas iepriekš</item>
+        <item>6 stundas iepriekš</item>
+        <item>1 dienu iepriekš</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Jaunava</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Skaidrs</item>
+        <item>Mākoņains</item>
+        <item>Apmācies</item>
+        <item>Migla</item>
+        <item>Spēcīga vētra</item>
+        <item>Vētra</item>
+        <item>Neliela vētra</item>
+        <item>Pērkona negaiss</item>
+        <item>Lietusgāze</item>
+        <item>Spēcīgs lietus</item>
+        <item>Lietus</item>
+        <item>Viegls lietus</item>
+        <item>Lietus un sniegs</item>
+        <item>Sniegavētra</item>
+        <item>Sniegputenis</item>
+        <item>Stiprs sniegs</item>
+        <item>Sniegs</item>
+        <item>Neliels sniegs</item>
+        <item>Spēcīga smilšu vētra</item>
+        <item>Smilšu vētra</item>
+        <item>Putekļi</item>
+        <item>Neliela smilšu vētra</item>
+        <item>Krusa</item>
+        <item>Putekļains gaiss</item>
+        <item>Dūmaka</item>
+        <item>Ledus lietus</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>Sv</item>
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>Pk</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Caurspīdīgs</item>
+        <item>Balts fons</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

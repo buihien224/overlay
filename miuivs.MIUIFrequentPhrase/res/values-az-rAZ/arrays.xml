@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Faktura başlığı: *** Inc.</item>
+        <item>Ünvan: Küçə, Mənzil, Şəhər, Ölkə/Bölgə, Əyalət, Poçt kodu</item>
+        <item>Zəhmət olmasa paketi qapıdan buraxın. Təşəkkür edirəm!</item>
+        <item>Bir dəqiqə gözləyin, geri qayıdacağam.</item>
+        <item>İclasdayam. Zəhmət olmasa mətn mesajı göndərin.</item>
+        <item>İndi danışa bilmirəm. Ən qısa müddətdə sizə zəng edəcəyəm.</item>
+        <item>Təşəkkürlər!</item>
+    </string-array>
+</resources>

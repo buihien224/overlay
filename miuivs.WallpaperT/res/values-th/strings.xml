@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="afternoon">บ่าย</string>
+    <string name="am">AM</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">เช้า</string>
+    <string name="earth_position_content_0">อุทยานธรรมชาติ แหลม Kamenjak ในโครเอเชียเป็นที่ตั้งของทิวทัศน์ที่งดงามที่สุดตามชายฝั่งทะเลเมดิเตอร์เรเนียน การก่อตัวทางธรณีวิทยาที่น่าประทับใจทำให้ที่นี่กลายเป็นสวรรค์ของนักดำน้ำ ทุกฤดูร้อนดวงอาทิตย์ที่ส่องประกายและน้ำทะเลเมดิเตอร์เรเนียนที่อบอุ่นดึงดูดผู้ที่ชื่นชอบกิจกรรมกลางแจ้งมากมาย</string>
+    <string name="earth_position_content_1">"ทุ่งระเบียงเป็นผลมาจากกิจกรรมของมนุษย์ แต่พวกเขายังทำหน้าที่เป็นจุดชมวิวธรรมชาติที่โดดเด่น
+ในประเทศจีน นาข้าวขั้นบันไดส่วนใหญ่ตั้งอยู่ทางตอนใต้ของแม่น้ำแยงซีที่มีฝนตกชุกและมีทิวเขามากมาย ทุ่งระเบียงหลงจีนั้นมีมานานกว่า 700 ปี และมีอนุสรณ์สถานทางประวัติศาสตร์หลายแห่งในหมู่บ้านใกล้เคียง"</string>
+    <string name="earth_position_content_2">อิลูลิสชัท ตั้งอยู่ในกรีนแลนด์ทางตะวันตกห่างจากอาร์กติกเซอร์เคิล 200 กิโลเมตร อิลูลิสซัต ไอซ์ฟยอร์ด ที่สวยงามยาว 56 กิโลเมตรตั้งอยู่ติดกับธารน้ำแข็ง Jakobshavn Isbræ เป็นธารน้ำแข็งที่ใหญ่ที่สุดในซีกโลกเหนือ สร้างภูเขาน้ำแข็งออกมา 2 พันล้านตันทุกปี โดยอ้อมไปทางเหนือสั้นๆ แล้วก็เลี้ยวไปทางใต้และไหลลงสู่มหาสมุทรแอตแลนติก</string>
+    <string name="earth_position_content_3">นาวาจิโอ เป็นหนึ่งในชายหาดที่สวยที่สุดบนชายฝั่ง ซาคินทอส ในหมู่เกาะไอโอเนียนของกรีซ กล่าวกันว่าเป็นบ้านของเรืออับปางที่มีชื่อเสียงซึ่งเป็นเหตุผลว่าทำไมชายหาดจึงถูกเรียกว่า \"อ่าวผู้ค้าของเถื่อน\"</string>
+    <string name="earth_position_content_4">เทือกเขา โดโลไมต์ เป็นเทือกเขาที่ตั้งอยู่ทางตะวันออกเฉียงเหนือของอิตาลี ภูเขา เซเชด้า เป็นหนึ่งในสถานที่ที่งดงามที่สุดที่นั่น</string>
+    <string name="earth_position_title_0">"โครเอเชีย
+แหลม Kamenjak"</string>
+    <string name="earth_position_title_1">"กวางสี จีน
+ทุ่งระเบียงหลงจี"</string>
+    <string name="earth_position_title_2">"กรีนแลนด์
+อิลูลิสชัท"</string>
+    <string name="earth_position_title_3">"กรีซ
+หาดนาวาจิโอ"</string>
+    <string name="earth_position_title_4">"อิตาลี
+โดโลไมต์"</string>
+    <string name="earth_summary">โลกเป็นแหล่งกำเนิดของอารยธรรมมนุษย์</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">หน้าแรก</string>
+    <string name="empty" />
+    <string name="eras_ad">หลังคริสตกาล</string>
+    <string name="eras_bc">ก่อนคริสตกาล</string>
+    <string name="evening">บ่าย</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'น.'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"h 'น.'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
+    <string name="fmt_time_minute">"m'นาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="friday">วันศุกร์</string>
+    <string name="friday_short">ศุกร์</string>
+    <string name="friday_shortest">ศุกร์</string>
+    <string name="geometry_summary">รูปร่าง แสง และสี</string>
+    <string name="geometry_super_wallpaper_label">เรขาคณิต</string>
+    <string name="geometry_title">เรขาคณิต</string>
+    <string name="mars_position_content_0">"ภูมิภาคนี้มีหน้าผา, ผิวน้ำ, และหุบเขาแบนกว้างซึ่งเชื่อว่าเกิดจากธารน้ำแข็งที่ปกคลุมไปด้วยเศษซากปรักหักพัง มีการตรวจพบแร่ดินเหนียวที่นี่ซึ่งเป็นที่สนใจอย่างมากในการค้นหาหลักฐานของสิ่งมีชีวิตบนดาวอังคารโบราณ
+
+NASA/JPL/มหาวิทยาลัยแอริโซนา"</string>
+    <string name="mars_position_content_1">"ถ่ายเมื่อ Mars rover Curiosity กำลังสำรวจ Pahrump Hills ในหลุมอุกกาบาตเกล ภูมิภาคนี้มีหินตะกอนซึ่งนักวิทยาศาสตร์เชื่อว่าเกิดขึ้นจากน้ำ และมีบริเวณที่มืดเป็นทราย
+
+NASA/JPL/มหาวิทยาลัยแอริโซนา"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis เป็นช่องทางไหลออกของน้ำโบราณที่มีหินที่อุดมไปด้วยดินเหนียวสีอ่อน แร่ดินเหนียวสามารถรักษาสิ่งมีชีวิตขนาดเล็กบนโลกได้อย่างง่ายดาย ดังนั้นอาจพบร่องรอยของชีวิตโบราณที่ Mawrth
+
+NASA/JPL/มหาวิทยาลัยแอริโซนา"</string>
+    <string name="mars_position_content_3">"รูปภาพนี้ถูกถ่ายเมื่อ Mars rover Curiosity กำลังสำรวจ Pahrump Hills ในหลุมอุกกาบาตเกล ภูมิภาคนี้มีหินตะกอนซึ่งนักวิทยาศาสตร์เชื่อว่าเกิดขึ้นจากน้ำ และบริเวณที่มืดคือทราย
+
+NASA/JPL/มหาวิทยาลัยแอริโซนา"</string>
+    <string name="mars_position_content_4">"Bahram Vallis เป็นหุบเขาแม่น้ำลำธารสายเดียว ที่มีกำแพงสแกลลอปในบางสถานที่ คุณสมบัติการกัดกร่อนที่เพรียวลมบนพื้นของมันแสดงให้เห็นว่าของเหลวมีส่วนในการก่อตัว
+
+NASA/JPL/มหาวิทยาลัยแอริโซนา"</string>
+    <string name="mars_position_title_0">"เขต Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">หลุมอุกกาบาตเกล</string>
+    <string name="mars_position_title_2">"ปล่องภูเขาไฟใน
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump Hills</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
+    <string name="mars_summary">ทะเลทรายอันกว้างใหญ่ของดาวอังคารทำให้มนุษยชาติตกตะลึงอยู่เสมอ</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">ดาวเคราะห์สีแดง</string>
+    <string name="midnight">กลางคืน</string>
+    <string name="monday">วันจันทร์</string>
+    <string name="monday_short">จันทร์</string>
+    <string name="monday_shortest">จันทร์</string>
+    <string name="month_april">เมษายน</string>
+    <string name="month_april_short">เมษา</string>
+    <string name="month_april_shortest">เมษา</string>
+    <string name="month_august">สิงหาคม</string>
+    <string name="month_august_short">สิงหา</string>
+    <string name="month_august_shortest">สิงหา</string>
+    <string name="month_december">ธันวาคม</string>
+    <string name="month_december_short">ธันวา</string>
+    <string name="month_december_shortest">ธันวา</string>
+    <string name="month_february">กุมภาพันธ์</string>
+    <string name="month_february_short">กุมภา</string>
+    <string name="month_february_shortest">กุมภา</string>
+    <string name="month_january">มกราคม</string>
+    <string name="month_january_short">มกรา</string>
+    <string name="month_january_shortest">มกรา</string>
+    <string name="month_july">กรกฎาคม</string>
+    <string name="month_july_short">กรกฎา</string>
+    <string name="month_july_shortest">กรกฎา</string>
+    <string name="month_june">มิถุนายน</string>
+    <string name="month_june_short">มิถุนา</string>
+    <string name="month_june_shortest">มิถุนา</string>
+    <string name="month_march">มีนาคม</string>
+    <string name="month_march_short">มีนา</string>
+    <string name="month_march_shortest">มีนา</string>
+    <string name="month_may">พฤษภาคม</string>
+    <string name="month_may_short">พฤษภา</string>
+    <string name="month_may_shortest">พฤษภา</string>
+    <string name="month_november">พฤศจิกายน</string>
+    <string name="month_november_short">พฤศจิกา</string>
+    <string name="month_november_shortest">พฤศจิกา</string>
+    <string name="month_october">ตุลาคม</string>
+    <string name="month_october_short">ตุลา</string>
+    <string name="month_october_shortest">ตุลา</string>
+    <string name="month_september">กันยายน</string>
+    <string name="month_september_short">กันยา</string>
+    <string name="month_september_shortest">กันยา</string>
+    <string name="morning">เช้า</string>
+    <string name="night">เย็น</string>
+    <string name="noon">เที่ยงวัน</string>
+    <string name="pm">PM</string>
+    <string name="saturday">วันเสาร์</string>
+    <string name="saturday_short">เสาร์</string>
+    <string name="saturday_shortest">เสาร์</string>
+    <string name="saturn_summary">วงแหวนของดาวเสาร์สร้างปรากฏการณ์ที่น่าทึ่งที่สุดในระบบสุริยะ</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">วงแหวนที่ห่างไกล</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="snowmountain_summary">เนินเขาที่มีแสงแดดส่องถึงของภูเขาสี่ดรุณี</string>
+    <string name="snowmountain_super_wallpaper_label">ยอดเขาหิมะ</string>
+    <string name="snowmountain_title">ยอดเขาหิมะ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sunday">วันอาทิตย์</string>
+    <string name="sunday_short">อาทิตย์</string>
+    <string name="sunday_shortest">อาทิตย์</string>
+    <string name="super_wallpaper_list_label">ภาพพื้นหลังความละเอียดสูง</string>
+    <string name="thursday">วันพฤหัสบดี</string>
+    <string name="thursday_short">พฤหัส</string>
+    <string name="thursday_shortest">พฤหัส</string>
+    <string name="time_picker_label_hour">ชม.</string>
+    <string name="time_picker_label_minute">น.</string>
+    <string name="tomorrow">พรุ่งนี้</string>
+    <string name="tuesday">วันอังคาร</string>
+    <string name="tuesday_short">อังคาร</string>
+    <string name="tuesday_shortest">อังคาร</string>
+    <string name="wednesday">วันพุธ</string>
+    <string name="wednesday_short">พุธ</string>
+    <string name="wednesday_shortest">พุธ</string>
+    <string name="yesterday">เมื่อวาน</string>
+</resources>

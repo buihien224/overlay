@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="disable_package_replacement">
+        <item>Заблакаваць замену пакета</item>
+    </string-array>
+    <string-array name="wallpaper_version">
+        <item>Візуальны Кітай</item>
+        <item>Усходні IC</item>
+    </string-array>
+</resources>

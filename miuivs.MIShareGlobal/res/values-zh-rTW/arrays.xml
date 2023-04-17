@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>用於存取儲存空間圖片、應用程式等檔案，實現檔案傳輸功能；</item>
+        <item>用於實現藍牙/Wi-Fi狀態下的檔案傳輸功能。</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>用於存取儲存空間圖片、應用程式等檔案，實現檔案傳輸功能；</item>
+        <item>用於實現藍牙/WLAN狀態下的檔案傳輸功能。</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>用於傳送及接收傳輸的檔案</item>
+        <item>用於實現藍牙/Wi-Fi狀態下的檔案傳輸功能</item>
+        <item>使用藍牙掃描附近可互傳檔案的裝置</item>
+        <item>使用Wi-Fi掃描周圍裝置並傳輸檔案</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>用於傳送及接收傳輸的檔案</item>
+        <item>用於實現藍牙/WLAN狀態下的檔案傳輸功能</item>
+        <item>使用藍牙掃描附近可互傳檔案的裝置</item>
+        <item>使用WLAN掃描周圍裝置並傳輸檔案</item>
+    </string-array>
+</resources>

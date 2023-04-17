@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>བསྐུར་བའི་དུས་ཀྱི་སྔ་ཕྱི་ལྟར་གོ་རིམ་སྒྲིག་པ།</item>
+        <item>བསྐུར་བའི་ཚད་ཀྱི་གོ་རིམ་ལྟར་སྒྲིག་པ།</item>
+        <item>ཁ་ཕྱེ་བ་ཁོ་ན་མངོན་པ།</item>
+        <item>ཁ་བརྒྱབ་པ་ཁོ་ན་མངོན་པ།</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>བརྡ་ཐོའི་ནང་དོན་མངོན་པ།</item>
+        <item>འཆར་ངོས་བཀག་རྗེས་ཀྱི་བརྡ་ཐོ་ཡོངས་ཁ་རྒྱག་པ།</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>བརྡ་ཐོའི་ནང་དོན་མངོན་པ།</item>
+        <item>བརྡ་ཐོ་མངོན་ཡང་ནང་དོན་མི་འཆར་བ།</item>
+        <item>འཆར་ངོས་བཀག་རྗེས་ཀྱི་བརྡ་ཐོ་ཡོངས་ཁ་རྒྱག་པ།</item>
+    </string-array>
+</resources>

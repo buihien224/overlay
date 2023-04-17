@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 сат</item>
+        <item quantity="one">За 1 сат</item>
+        <item quantity="few">За 1 сат</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Пре %d дана</item>
+        <item quantity="one">Пре %d дан</item>
+        <item quantity="few">Пре %d дана</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Пре %d мин</item>
+        <item quantity="one">Пре %d мин</item>
+        <item quantity="few">Пре %d мин</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Пре %d год</item>
+        <item quantity="one">Пре %d год</item>
+        <item quantity="few">Пре %d год</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s контрола је додато.</item>
+        <item quantity="one">%s контрола је додата.</item>
+        <item quantity="few">%s контроле су додате.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s апликација је активно</item>
+        <item quantity="one">%s апликација је активна</item>
+        <item quantity="few">%s апликације су активне</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+        <item quantity="few">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Нетачан PIN код, преостало је још %d покушаја</item>
+        <item quantity="one">Нетачан PIN код, преостао је још %d покушај</item>
+        <item quantity="few">Нетачан PIN код, преостала су још %d покушаја</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Нетачан PUK код, преостало је још %d покушаја</item>
+        <item quantity="one">Нетачан PUK код, преостао је још %d покушај</item>
+        <item quantity="few">Нетачан PUK код, преостала су још %d покушаја</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Унесите лозинку бар једном на сваких %d часова да бисте је запамтили</item>
+        <item quantity="one">Унесите лозинку бар једном на %d час да бисте је запамтили</item>
+        <item quantity="few">Унесите лозинку бар једном на свака %d часа да бисте је запамтили</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Унесите лозинку бар једном на сваких %d часова да бисте је запамтили</item>
+        <item quantity="one">Унесите лозинку бар једном на %d час да бисте је запамтили</item>
+        <item quantity="few">Унесите лозинку бар једном на свака %d часа да бисте је запамтили</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Преостало је око %d часова</item>
+        <item quantity="one">Преостао је око %d ча</item>
+        <item quantity="few">Преостало је око %d часа</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Преостало је око %d мин.</item>
+        <item quantity="one">Преостало је око %d мин.</item>
+        <item quantity="few">Преостало је око %d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Преостало је још око %1$d чacова %2$d мин</item>
+        <item quantity="one">Преостало је још око %1$d чac %2$d мин.</item>
+        <item quantity="few">Преостало је још око %1$d чacа %2$d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d часова</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d часова %2$d мин.</item>
+        <item quantity="one">%1$d час %2$d мин.</item>
+        <item quantity="few">%1$d часа %2$d мин.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Преостало је %d часова</item>
+        <item quantity="one">Преостао је %d час</item>
+        <item quantity="few">Преостала су %d часа</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Преостало је %d минута</item>
+        <item quantity="one">Преостао је %d минут</item>
+        <item quantity="few">Преостала су %d минута</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Преостало: %1$d ч %2$d м</item>
+        <item quantity="one">Преостало: %1$d ч %2$d м</item>
+        <item quantity="few">Преостало: %1$d ч %2$d м</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Унесите PIN за SIM. Имате још %d покушаја.</item>
+        <item quantity="one">Унесите PIN за SIM. Имате још %d покушај.</item>
+        <item quantity="few">Унесите PIN за SIM. Имате још %d покушаја.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM је сада онемогућен. Унесите PUK кôд да бисте наставили. Имате још %d покушаја пре него што SIM постане трајно неупотребљив. Детаљне информације потражите од мобилног оператера.</item>
+        <item quantity="one">SIM је сада онемогућен. Унесите PUK кôд да бисте наставили. Имате још %d покушај пре него што SIM постане трајно неупотребљив. Детаљне информације потражите од мобилног оператера.</item>
+        <item quantity="few">SIM је сада онемогућен. Унесите PUK кôд да бисте наставили. Имате још %d покушаја пре него што SIM постане трајно неупотребљив. Детаљне информације потражите од мобилног оператера.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Нетачан PIN кôд за SIM. Имате још %d покушаја.</item>
+        <item quantity="one">Нетачан PIN кôд за SIM. Имате још %d покушај.</item>
+        <item quantity="few">Нетачан PIN кôд за SIM. Имате још %d покушаја.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Нетачан PUK кôд за SIM. Имате још %d покушаја пре него што SIM картица постане трајно неупотребљива.</item>
+        <item quantity="one">Нетачан PUK кôд за SIM. Имате још %d покушај пре него што SIM картица постане трајно неупотребљива.</item>
+        <item quantity="few">Нетачан PUK кôд за SIM. Имате још %d покушаја пре него што SIM картица постане трајно неупотребљива.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d изабраних ставки</item>
+        <item quantity="one">%d изабрана ставка</item>
+        <item quantity="few">%d изабране ставке</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Још %s обавештења у групи.</item>
+        <item quantity="one">Још %s обавештење у групи.</item>
+        <item quantity="few">Још %s обавештења у групи.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Покушајте опет за %d мин.</item>
+        <item quantity="one">Покушајте опет за %d мин.</item>
+        <item quantity="few">Покушајте опет за %d мин.</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Покушајте опет за %d сек.</item>
+        <item quantity="one">Покушајте опет за %d сек.</item>
+        <item quantity="few">Покушајте опет за %d сек.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d уређаја</item>
+        <item quantity="one">%d уређај</item>
+        <item quantity="few">%d уређаја</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d сати</item>
+        <item quantity="one">%d сат</item>
+        <item quantity="few">%d сата</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Можете да додате највише %d корисника.</item>
+        <item quantity="one">Можете да додате највише %d корисника.</item>
+        <item quantity="few">Можете да додате највише %d корисника.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>ຈັດຮຽງຕາມເວລາທີ່ໄດ້ຮັບ</item>
+        <item>ຈັດຮຽງຕາມຈຳນວນການແຈ້ງເຕືອນ</item>
+        <item>ແອັບທີ່ສາມາດສະແດງການແຈ້ງເຕືອນ</item>
+        <item>ແອັບທີ່ບໍ່ສາມາດສະແດງການແຈ້ງເຕືອນ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>ສະແດງເນື້ອຫາການແຈ້ງເຕືອນ</item>
+        <item>ບໍ່ສະແດງການແຈ້ງເຕືອນໜ້າຈໍລັອກ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>ສະແດງເນື້ອຫາການແຈ້ງເຕືອນ</item>
+        <item>ສະແດງການແຈ້ງເຕືອນແຕ່ເຊື່ອງເນື້ອຫາ</item>
+        <item>ບໍ່ສະແດງການແຈ້ງເຕືອນໜ້າຈໍລັອກ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

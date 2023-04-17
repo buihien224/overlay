@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Přístup a ukládání obrázků, aplikací a dalších souborů, stejně jako oprávnění k jejich přenosu</item>
+        <item>Přenos souborů pomocí Bluetooth a Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Pro odesílání a přijímání souborů</item>
+        <item>Přenos souborů pomocí Bluetooth a Wi-Fi</item>
+        <item>Pro hledání dostupných zařízení v okolí pomocí Bluetooth</item>
+        <item>Pro hledání dostupných zařízení v okolí a přenos souborů pomocí Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>For sending and receiving files</item>
+        <item>For transferring files using Bluetooth and WLAN</item>
+        <item>For finding available devices nearby using Bluetooth</item>
+        <item>For finding available devices nearby and transferring files using WLAN</item>
+    </string-array>
+</resources>

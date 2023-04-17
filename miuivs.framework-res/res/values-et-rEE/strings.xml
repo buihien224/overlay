@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_title">USB silumine on sisse lülitatud</string>
+    <string name="lock_to_app_description">"Ekraani kinnitamine lukustab ekraani ühele vaatele.
+
+Kinnituse mahavõtmiseks vajutage ja hoidke üheaegselt Kodu- ja toitenuppu."</string>
+    <string name="lock_to_app_description_accessible">"Ekraani kinnitamine lukustab ekraani ühele vaatele.
+
+Kinnituse mahavõtmiseks vajutage ja hoidke üheaegselt Kodu- ja toitenuppu."</string>
+    <string name="lock_to_app_toast">Ekraani kinnituse mahavõtmiseks vajutage ja hoidke üheaegselt Kodu- ja toitenuppu.</string>
+    <string name="lock_to_app_toast_accessible">Ekraani kinnituse mahavõtmiseks vajutage ja hoidke üheaegselt Kodu- ja toitenuppu.</string>
+    <string name="lockscreen_missing_sim_instructions">Sisesta SIM kaart.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM kaart kas puudub või on loetamatu. Sisesta SIM kaart.</string>
+    <string name="lockscreen_missing_sim_message">Telefonis ei ole SIM kaarti.</string>
+    <string name="lockscreen_missing_sim_message_short">SIM kaart puudub</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"SIM kaart on alatiseks keelatud.
+Võta uues SIM kaardi saamiseks ühendust oma traadita ühenduse teenusepakkujaga."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">SIM kaart on kõlbmatu.</string>
+    <string name="tethered_notification_message">Toksa, et seadistada.</string>
+    <string name="tethered_notification_multi_device_message">%1$s ühendatud seadet</string>
+    <string name="tethered_notification_no_device_message">Ühendatud seadet ei ole</string>
+    <string name="tethered_notification_one_device_message">%1$s ühendatud seade</string>
+    <string name="tethered_notification_title">Sidumine või kuumkoht on aktiivne</string>
+    <string name="usb_midi_notification_title">MIDI USB kaudu on sisse lülitatud</string>
+    <string name="usb_mtp_notification_title">USB-failiedastus on sisse lülitatud</string>
+    <string name="usb_ptp_notification_title">PTP USB kaudu on sisse lülitatud</string>
+    <string name="usb_tether_notification_title">USB lõastamine on sisse lülitatud</string>
+    <string name="usb_unsupported_audio_accessory_message">Ühendatud seade ei ühildu selle telefoniga. Lisateabe saamiseks puudutage.</string>
+    <string name="usb_unsupported_audio_accessory_title">Avastatud analoogheli tarvik</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Helista</string>
+    <string name="volume_icon_description_media">Meedia</string>
+    <string name="volume_icon_description_notification">Teavitus</string>
+    <string name="volume_icon_description_ringer">Heliseja</string>
+</resources>

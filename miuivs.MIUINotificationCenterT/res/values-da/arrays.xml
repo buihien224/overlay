@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Sortér efter modtaget tid</item>
+        <item>Sortér efter antal notifikationer</item>
+        <item>Apps, der kan vise notifikationer</item>
+        <item>Apps, der ikke kan vise notifikationer</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Vis indhold af notifikationer</item>
+        <item>Vis ikke låseskærmsnotifikationer</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Vise indhold af notifikationer</item>
+        <item>Vise notifikationer, men skjule indholdet</item>
+        <item>Vis ikke låseskærmsnotifikationer</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

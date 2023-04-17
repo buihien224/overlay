@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>महिला</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>खाते</item>
+        <item>तृतीय पक्ष के खाते जोड़ें और प्रबंधित करें</item>
+        <item>खाते;SNS;Facebook;Google;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>खाते</item>
+        <item>तृतीय पक्ष के खाते जोड़ें और प्रबंधित करें</item>
+        <item>खाते;SNS;WeChat;QQ;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>पासवर्ड बदलें</item>
+        <item>Xiaomi खाता का पासवर्ड बदलें</item>
+        <item>पासवर्ड बदलें;पासवर्ड अपडेट करें;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>फैमिली स्टोरेज स्थान</item>
+        <item>फैमिली स्टोरेज स्थान देखें/चालू करें</item>
+        <item>फैमिली स्टोरेज स्थान;स्टोरेज शेयरिंग</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>पारिवारिक सेवाएं</item>
+        <item>पारिवारिक सेवाएं देखें/चालू करें</item>
+        <item>परिवार;पारिवारिक सेवाएं;फ़ैमिली शेयरिंग</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>मदद</item>
+        <item>Xiaomi खाता मदद और सहायता पाएं</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;खाता सहायता;सहायता केंद्र</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-चरण सत्यापन</item>
+        <item>अपने Xiaomi खाता के लिए 2-चरण सत्यापन सेट करें</item>
+        <item>साइन इन करें;लॉग इन करें;2-चरण;सत्यापन;Xiaomi;खाता;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>खाता सुरक्षा</item>
+        <item>रिकवरी फ़ोन और ईमेल, पासवर्ड प्रबंधन</item>
+        <item>खाता सुरक्षा;साइन इन करना;रिकवरी फ़ोन;रिकवरी ईमेल;खाता की रक्षा;फ़ोन नंबर;ईमेल;पासवर्ड बदलें;फ़ोन नंबर जोड़ें;ईमेल जोड़ें;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>डिवाइस</item>
+        <item>अपने Xiaomi खाता से जुड़े डिवाइसों को प्रबंधित करें</item>
+        <item>डिवाइस प्रबंधित करें;मेरे डिवाइस;डिवाइस;डिवाइस सूची;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>गोपनीयता नीति</item>
+        <item>Xiaomi खाता गोपनीयता नीति देखें</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;गोपनीयता नीति</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>रिकवरी ईमेल</item>
+        <item>रिकवरी ईमेल जोड़ें</item>
+        <item>रिकवरी ईमेल;ईमेल;ईमेल जोड़ें;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>रिकवरी फ़ोन</item>
+        <item>रिकवरी फ़ोन जोड़ें</item>
+        <item>रिकवरी फ़ोन;फ़ोन जोड़ें;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>विज्ञापन</item>
+        <item>सिस्टम विज्ञापन प्रबंधित करें</item>
+        <item>विज्ञापन;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>खाता जानकारी</item>
+        <item>अपनी प्रोफ़ाइल फ़ोटो देखें और खाता जानकारी प्रबंधित करें</item>
+        <item>निजी जानकारी;प्रोफ़ाइल फ़ोटो;उपनाम;खाते की जानकारी;Mi आईडी;आईडी;Mi खाता;खाता;Xiaomi खाता</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>उपयोगकर्ता अनुबंध</item>
+        <item>उपयोगकर्ता अनुबंध</item>
+        <item>Mi खाता;खाता;Xiaomi खाता;उपयोगकर्ता अनुबंध;EULA</item>
+    </string-array>
+</resources>

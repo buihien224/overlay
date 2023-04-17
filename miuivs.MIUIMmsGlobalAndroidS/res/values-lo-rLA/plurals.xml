@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">ລົບ %1$s ຂໍ້ຄວາມ?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d ຂໍ້ຄວາມຍັງບໍ່ຖືກຊິ້ງຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ລົບ %1$s ການສົນທະນາທີ່ເລືອກ?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">ເລືອກແລ້ວ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">ຂໍ້ຄວາມໄດ້ຮັບໂດຍ %1$s ແລະ %2$d ຄົນອື່ນ</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">ບໍ່ສາມາດສົ່ງຫາ %d ລາຍຊື່ດັ່ງກ່າວ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">ເຮັດເຄື່ອງໝາຍ %2$s ດ້ວຍ %1$d ຄົນ</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s ຂໍ້ຄວາມ | "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">ຖອນ (%dວິ)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">ທ່ານໄດ້ຮັບ %d ຄຳເຊີນກຸ່ມສົນທະນາ</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s ຄົນ</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s ຜົນຮັບສຳລັບ \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">ສົ່ງ %1$s ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d ວິ</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d ວິ</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d ຂໍ້ຄວາມຕັ້ງເວລາຍັງບໍ່ຖືກສົ່ງ</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d ຂໍ້ຄວາມ)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d ຜູ້ຮັບ</item>
+    </plurals>
+</resources>

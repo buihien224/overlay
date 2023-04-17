@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Машко</item>
+        <item>Женско</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Сметки</item>
+        <item>Додадете и управувајте со сметки од трети страни</item>
+        <item>Сметки;SNS;Facebook;Google;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Сметки</item>
+        <item>Додадете и управувајте со сметки од трета страна</item>
+        <item>Сметки;SNS;WeChat;QQ;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Промени лозинка</item>
+        <item>Променете ја лозинката за Xiaomi Сметка</item>
+        <item>Променете лозинка;Ажурирајте лозинка;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Скл. простор на семејство</item>
+        <item>Прегледајте/вкл. скл. простор за Семејство</item>
+        <item>Скл. простор за Семејство;Споделување на скл. простор</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Семејни услуги</item>
+        <item>Прегледајте/вкл. Семејни Услуги</item>
+        <item>Семејство;Семејни услуги;Семејно споделување</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Помош</item>
+        <item>Добиј помош и поддршка за Xiaomi Сметка</item>
+        <item>Mi Сметка;Сметка;Xiaomi Сметка;Помош за сметка;Центар за помош</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>верификација во 2-чекори</item>
+        <item>Поставете верификација во 2 чекори за вашата Xiaomi Сметка</item>
+        <item>Најавете се;Најава;верификација во 2 чекори;Xiaomi;Сметка;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Безбедност на сметката</item>
+        <item>Мејл и телефон за опоравување, управување со лозинка</item>
+        <item>Безбедност на сметка;Најавување;Телефон за обнова;Имејл за обнова;Заштита на сметка;Телефонски број;Имејл;Променете лозинка;Додадете тел. број;Додадете имејл;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Уреди</item>
+        <item>Управувајте уреди поврзани со вашата Xiaomi Сметка</item>
+        <item>Управувај со уреди;Мои уреди;Уреди;Листа на уред;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Политика за Приватност</item>
+        <item>Прикажи Политика за приватност на Xiaomi Сметка</item>
+        <item>Mi Сметка;Сметка;Xiaomi Сметка;Политика за Приватност</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Мејл за опоравување</item>
+        <item>Додади мејл за опоравување</item>
+        <item>Телефон за обнова;Имејл;Додади имејл;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Телефон за повторно воспоставување</item>
+        <item>Додади телефон за повторно воспоставување</item>
+        <item>Телефон за обнова;Додадете телефон;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Реклами</item>
+        <item>Управувај со системските реклами</item>
+        <item>Реклами;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Информации за сметката</item>
+        <item>Приказ на вашата профилна слика и управување со инфо. за сметката</item>
+        <item>Лични инфо;профилна фотографија;прекар;инфо од сметка;Mi ID;ID;Mi Сметка;Сметка;Xiaomi Сметка</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Кориснички Договор</item>
+        <item>Кориснички Договор</item>
+        <item>Mi Сметка;Сметка;Xiaomi Сметка;Кориснички Договор;EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>영수증 수취인: *** Inc.</item>
+        <item>주소: 도, 시/군/구, 동, 아파트, 우편 번호</item>
+        <item>택배를 문 앞에 놓아주세요. 감사합니다!</item>
+        <item>잠시 기다려주십시오. 곧 돌아오겠습니다.</item>
+        <item>지금은 회의 중입니다. 메시지를 전송해 주십시오.</item>
+        <item>지금은 통화할 수 없습니다. 곧 다시 연락 드리겠습니다.</item>
+        <item>감사합니다!</item>
+    </string-array>
+</resources>
