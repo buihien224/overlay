@@ -2171,7 +2171,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="usb_ext_media_badremoval_notification_message">Ngắt kết nối USB trước khi tháo để tránh mất dữ liệu.</string>
     <string name="usb_choose_notification_title">Chạm để chọn tùy chọn USB.</string>
     <string name="theme_reset_notification_title">Đặt lại chủ đề</string>
-    <string name="theme_reset_notification_body">CHủ đề hệ thống được khôi phục vì nhiều ứng dụng buộc đóng.</string>
+    <string name="theme_reset_notification_body">Chủ đề hệ thống được khôi phục vì nhiều ứng dụng buộc đóng.</string>
     <string name="theme_install_error_title">Cài đặt chủ đề thất bại</string>
     <string name="theme_install_error_message">%s cài đặt thất bại</string>
     <string name="subscription_change_disabled_wifi_ap">Điểm phát Wi-Fi bị tắt vì SIM thay đổi đăng ký</string>

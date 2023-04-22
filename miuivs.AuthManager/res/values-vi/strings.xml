@@ -151,7 +151,7 @@
     <string name="app_name">Quyền</string>
     <string name="background_location_access_reminder_notification_content">Ứng dụng này luôn có thể truy cập vị trí của bạn. Chạm để thay đổi.</string>
     <string name="background_location_access_reminder_notification_title">%s đã sử dụng vị trí của bạn</string>
-    <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
+    <string name="blur_location_is_on_tip">%1$s đã bắt đầu dịch vụ vị trí gần đúng. Bạn có muốn bật dịch vụ vị trí gần đúng không?</string>
     <string name="blur_location_now_tip">Vị trí gần đúng đang bật</string>
     <string name="blur_location_title">Vị trí gần đúng</string>
     <string name="clearable_edittext_clear_description">Xóa</string>
