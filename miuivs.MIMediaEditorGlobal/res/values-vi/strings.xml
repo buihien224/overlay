@@ -978,7 +978,7 @@
     <string name="photo_editor_navigator_sticker_download_failed">Không thể tải xuống. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="photo_editor_navigator_sticker_download_success">Tải xuống thành công</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Dường như bạn chưa kết nối Wi-Fi. Sử dụng %1$d MB dữ liệu di động để tải xuống trình cắm?</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Looks like you aren't connected to WLAN. Use %1$d MB of mobile data to download the plug-in?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Dường như bạn chưa kết nối Wi-Fi. Sử dụng %1$d MB dữ liệu di động để tải xuống trình cắm?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Tải xuống trình cắm</string>
     <string name="photo_editor_navigator_tab_title_ai">AI</string>
     <string name="photo_editor_navigator_tab_title_basic">Cơ bản</string>

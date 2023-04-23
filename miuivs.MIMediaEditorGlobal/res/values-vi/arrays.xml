@@ -65,82 +65,82 @@
         <item>Thiên thần</item>
     </string-array>
     <string-array name="magic_idp_size_category">
-        <item>General</item>
-        <item>Travel</item>
-        <item>Work</item>
-        <item>Documents</item>
-        <item>Education</item>
-        <item>Exams</item>
+        <item>Chung</item>
+        <item>Du lịch</item>
+        <item>Công việc</item>
+        <item>Tài liệu</item>
+        <item>Giáo dục</item>
+        <item>Bài kiểm tra</item>
     </string-array>
     <string-array name="magic_idp_size_category_certificates">
-        <item>Social security</item>
-        <item>Statement of health</item>
-        <item>Medical insurance</item>
-        <item>ID</item>
-        <item>Residence permit</item>
+        <item>An ninh xã hội</item>
+        <item>Chứng nhận sức khoẻ</item>
+        <item>Bảo hiểm y tế</item>
+        <item>Giấy tờ tuỳ thân</item>
+        <item>Giấy phép cư trú</item>
     </string-array>
     <string-array name="magic_idp_size_category_common">
         <item></item>
-        <item>One cun</item>
-        <item>Teo cuns</item>
-        <item>Smaller one cun</item>
-        <item>Smaller two cuns</item>
+        <item>Một thốn</item>
+        <item>Hai thốn</item>
+        <item>Nhỏ hơn một thốn</item>
+        <item>Nhỏ hơn hai thốn</item>
     </string-array>
     <string-array name="magic_idp_size_category_education">
-        <item>Admission application</item>
-        <item>Student network</item>
-        <item>Student network for primary schools</item>
-        <item>Student network profile</item>
-        <item>University admission</item>
+        <item>Đơn xin nhập học</item>
+        <item>Mạng lưới học sinh</item>
+        <item>Mạng lưới học sinh tiểu học</item>
+        <item>Hồ sơ mạng lưới sinh viên</item>
+        <item>Tuyển sinh đại học</item>
         <item>NCEE</item>
-        <item>Resume</item>
+        <item>Bản tóm tắt</item>
     </string-array>
     <string-array name="magic_idp_size_category_examination">
-        <item>College English Test 1</item>
-        <item>College English Test 2</item>
-        <item>College English Test 3</item>
-        <item>Putonghua Proficiency Test 1</item>
-        <item>Putonghua Proficiency Test 2</item>
-        <item>Degree English Test</item>
-        <item>PET for colleges</item>
-        <item>PETS Level 3</item>
-        <item>National Computer Rank Examination 1</item>
-        <item>National Computer Rank Examination 2</item>
+        <item>Kỳ thi tiếng Anh CET-1</item>
+        <item>Kỳ thi tiếng Anh CET-2</item>
+        <item>Kỳ thi tiếng Anh CET-3</item>
+        <item>Kỳ thi tiếng phổ thông PSC-1</item>
+        <item>Kỳ thi tiếng phổ thông PSC-2</item>
+        <item>Kỳ thi tiếng Anh DET</item>
+        <item>Kỳ thi tiếng Anh PET</item>
+        <item>Kỳ thi tiếng Anh PETS-3</item>
+        <item>Kỳ thi Tin học quốc gia 1</item>
+        <item>Kỳ thi Tin học quốc gia 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Primary and secondary school teacher certification</item>
-        <item>Teacher certification</item>
-        <item>"Driver's license"</item>
-        <item>Guide permit</item>
-        <item>Electronic guide permit</item>
-        <item>National judicial examination</item>
-        <item>Electronic first-class constructor certificate</item>
-        <item>Second-class constructor certificate</item>
-        <item>Junior accounting title examination</item>
-        <item>Certified public accountant</item>
-        <item>Beijing guide permit</item>
-        <item>Intermediate accounting title examination</item>
-        <item>Senior accounting title examination</item>
-        <item>Accounting qualification certificate</item>
-        <item>Certified public accountant examination</item>
+        <item>Chứng chỉ giáo viên tiểu học và trung học cơ sở</item>
+        <item>Chứng chỉ giáo viên</item>
+        <item>"Bằng lái xe"</item>
+        <item>Giấy phép hướng dẫn viên</item>
+        <item>Giấy phép hướng dẫn viên điện tử</item>
+        <item>Kỳ thi tư pháp quốc gia</item>
+        <item>Chứng chỉ xây dựng hạng nhất điện tử</item>
+        <item>Chứng chỉ xây dựng hạng hai</item>
+        <item>Kỳ thi chứng chỉ nghiệp vụ kế toán sơ cấp</item>
+        <item>Chứng chỉ kế toán công chứng</item>
+        <item>Giấy phép hướng dẫn viên du lịch Bắc Kinh</item>
+        <item>Kỳ thi chứng chỉ nghiệp vụ kế toán trung cấp</item>
+        <item>Kỳ thi chứng chỉ nghiệp vụ kế toán cao cấp</item>
+        <item>Chứng chỉ nghiệp vụ kế toán</item>
+        <item>Kỳ thi chứng chỉ nghiệp vụ kế toán công chứng</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
-        <item>United States</item>
-        <item>Vietnam</item>
-        <item>Japan</item>
-        <item>Hong Kong and Macau</item>
-        <item>South Korea</item>
-        <item>Thailand (tourist)</item>
-        <item>Thailand (on arrival)</item>
-        <item>India</item>
+        <item>Hoa Kỳ</item>
+        <item>Việt Nam</item>
+        <item>Nhật Bản</item>
+        <item>Hồng Kông và Ma Cao</item>
+        <item>Hàn Quốc</item>
+        <item>Thái Lan (khách du lịch)</item>
+        <item>Thái Lan (nhập cảnh)</item>
+        <item>Ấn Độ</item>
         <item>Israel</item>
-        <item>Taiwan</item>
+        <item>Đài Loan</item>
         <item>Malaysia</item>
         <item>New Zealand</item>
-        <item>Italy</item>
+        <item>Ý</item>
         <item>Argentina</item>
         <item>Brazil</item>
         <item>Iceland</item>
-        <item>Kenya</item>
+        <item>Kenya</item>	
     </string-array>
 </resources>
