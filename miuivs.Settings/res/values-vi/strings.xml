@@ -12177,4 +12177,12 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="input_method_category">Phương pháp nhập</string>
     <string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi</string>
     <string name="freeform_guide_to_sidehide_summary">Kéo nhanh ứng dụng sang 2 bên màn hình để ẩn đi</string>
+    <string name="wifi_primary">Mạng Wi-Fi chính</string>
+    <string name="bluetooth_inband_ringing">Cho phép nhạc chuông trong băng tần</string>
+    <string name="bluetooth_inband_ringing_summary">Cho phép phát nhạc chuông điện thoại qua tai nghe Bluetooth.  Tính năng này chỉ có thể được sử dụng khi một thiết bị duy nhất được kết nối và có thể không tương thích với một số thiết bị.</string>
+    <string name="ethernet_tether_checkbox_text">Chia sẽ internet qua Ethernet</string>
+    <string name="nfc_image_preference_text_click">Kiểm tra vị trí của khu vực ăng-ten NFC trên thiết bị này</string>
+    <string name="nfc_image_preference_text_noclick">Đặt thiết bị của bạn gần thiết bị đầu cuối để sử dụng Mi Pay, thẻ vận chuyển, thẻ khóa và các tính năng NFC khác. </string>
+    <string name="nfc_dnd_mode_summary">Phản hồi các thẻ NFC với số lượng thẻ NDEF hạn chế</string>
+    <string name="nfc_dnd_mode_title">NFC DND</string>
 </resources>
