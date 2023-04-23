@@ -365,7 +365,7 @@
     <string name="private_num">Số cá nhân</string>
     <string name="prompt_no_volte_when_failed">Không thể thực hiện cuộc gọi. Chắc chắn rằng thiết bị của bạn đã kết nối với mạng 4G với hỗ trợ VoLTE</string>
     <string name="relay_cal_from_device_name">Từ %1$s</string>
-    <string name="relay_call">Handoff</string>
+    <string name="relay_call">Chuyển tiếp</string>
     <string name="relay_call_device_name">Thiết bị đã kết nối (%1$s)</string>
     <string name="remind_unlock_message">Thiết bị của bạn hiện bị khóa. \"%s\" sẽ khả dụng sau khi bạn mở khóa thiết bị. Mở khóa ngay?</string>
     <string name="respond_via_sms_custom_message">Tùy chỉnh SMS</string>
@@ -375,9 +375,9 @@
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="select_audio_dialog_title">Chọn chế độ trả lời</string>
     <string name="select_one_sim_title">Chỉ có thể sử dụng SIM %1$d</string>
-    <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
+    <string name="select_one_sim_title_for_heduohao">Chỉ có thể sử dụng SIM %1$d trên thuê bao %2$d</string>
     <string name="select_sim_hint">Không thể sử dụng SIM %2$d, khi đang sử dụng SIM %1$d.</string>
-    <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
+    <string name="select_sim_hint_for_heduohao">"Không thể sử dụng SIM khác trong khi SIM %1$d trên thuê bao %2$d đang được sử dụng."</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
     <string name="send">Gửi</string>
     <string name="separate_from_conference">Cuộc gọi đơn</string>
