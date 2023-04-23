@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: CSbR1FFncbzEN/uGzx7Ch1lnHt0=
+
+Name: resources.arsc
+SHA1-Digest: xipL44pYpjYlJ9ZPtUAZR1tjZUc=
+
