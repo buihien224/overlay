@@ -2651,11 +2651,4 @@ Nếu bạn chọn ưu tiên mạng di động, chúng sẽ được sử dụng
     <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
     <string name="zen_mode_settings_summary_off">Không bao giờ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Bật chế độ Không làm phiền</string>
-    <string name="enable_esim_dialog_summary">SIM %s sẽ dừng hoạt động nếu bạn kích hoạt eSIM.
-Bật eSIM ngay bây giờ?</string>
-    <string name="enable_esim_dialog_title">Đang kích hoạt eSIM</string>
-    <string name="enable_esim_error_toast_message">Không thể kích hoạt eSIM</string>
-    <string name="enable_esim_progress_activating_message">Đang kích hoạt eSIM…</string>
-    <string name="enable_esim_title">Sử dụng eSIM</string>
-    <string name="smart_multinetwork_acceleration_title">Tăng tốc mạng thông minh</string>
 </resources>
