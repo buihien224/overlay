@@ -4,7 +4,7 @@ dir=$(pwd)
 
 recp() {
 	apk=$(basename $1)
-	java -jar $dir/bin/apktool.jar -b -f b -c $1 -o output/$apk.temp 
+	java -jar $dir/bin/apktool.jar b $1 -o output/$apk.temp 
 
 	if [[ -f output/$apk.temp  ]]; then
 		zipalign -p -v 4 output/$apk.temp output/$apk.apk
