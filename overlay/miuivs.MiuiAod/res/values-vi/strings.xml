@@ -162,7 +162,7 @@ dd/MM"</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</s	tring>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_thickness">Kiểu chữ in đậm</string>
     <string name="friday">Thứ Sáu</string>
     <string name="friday_short">Thứ 6</string>
@@ -384,7 +384,7 @@ dd/MM"</string>
     <string name="the_national_father_day">Ngày sinh Tôn Trung Sơn</string>
     <string name="the_new_years_day">Tết Dương lịch</string>
     <string name="the_night_of_sevens">Thất Tịch</string>
-    <string name="the_partys_day"/>Ngày thành lập Đảng Cộng sản Trung Quốc</string>
+    <string name="the_partys_day">Ngày thành lập Đảng Cộng sản Trung Quốc</string>
     <string name="the_peace_day">Ngày Quốc tế Hòa bình</string>
     <string name="the_retrocession_day">Ngày Quang Phục</string>
     <string name="the_second_day">Mùng 2</string>
@@ -398,7 +398,7 @@ dd/MM"</string>
     <string name="the_tw_youth_day">Ngày Thanh niên</string>
     <string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
     <string name="the_valentines_day">Lễ tình nhân</string>
-    <string name="the_water_lantern_festival"/>Lễ mừng lúa mới</string>
+    <string name="the_water_lantern_festival">Lễ mừng lúa mới</string>
     <string name="theme_manager_other">Thêm mục</string>
     <string name="thursday">Thứ Năm</string>
     <string name="thursday_short">Thứ 5</string>

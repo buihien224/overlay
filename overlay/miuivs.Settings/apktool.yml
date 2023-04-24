@@ -9,8 +9,8 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '28'
-  targetSdkVersion: '28'
+  minSdkVersion: '31'
+  targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: true
 unknownFiles: {}
@@ -20,5 +20,5 @@ usesFramework:
   tag: null
 version: 2.6.1-dirty
 versionInfo:
-  versionCode: '28'
+  versionCode: '33'
   versionName: miuivs-1.7.0.1
