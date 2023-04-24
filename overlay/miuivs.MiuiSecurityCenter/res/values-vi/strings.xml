@@ -4978,4 +4978,11 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="xunyou_server_expired">Dịch vụ đã hết hạn.</string>
     <string name="yesterday">Hôm qua</string>
     <string name="yuan">NDT</string>
+    <string name="HIPS_Perm_External_READ_FILES">Truy cập tệp và tài liệu</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Truy cập các tệp và tài liệu được lưu trữ trên thiết bị này</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Truy cập tệp âm thanh</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị này</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Truy cập và lưu các tệp hình ảnh, video và âm thanh vào bộ nhớ trong</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Truy cập ảnh và video</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Truy cập ảnh và video được lưu trữ trên thiết bị này</string>
 </resources>
