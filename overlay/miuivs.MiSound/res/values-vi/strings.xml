@@ -465,11 +465,11 @@
     <string name="sound_id_hz_media">"Midrange
 %d Hz"</string>
     <string name="sound_id_music_one_description">Nhẹ | %ds</string>
-    <string name="sound_id_music_one_title">Rainy city</string>
+    <string name="sound_id_music_one_title">Thành phố mưa</string>
     <string name="sound_id_music_three_description">Giai điệu | %ds</string>
-    <string name="sound_id_music_three_title">Trace</string>
+    <string name="sound_id_music_three_title">Dấu vết</string>
     <string name="sound_id_music_two_description">Nhịp điệu | %ds</string>
-    <string name="sound_id_music_two_title">Night fever</string>
+    <string name="sound_id_music_two_title">Cơn sốt đêm</string>
     <string name="sound_id_no_effect_msg">Không sử dụng âm thanh cá nhân</string>
     <string name="sound_id_notice_headset_change_msg">Dường như bạn đang sử dụng cặp tai nghe khác. Kiểm tra đã dừng lại.</string>
     <string name="sound_id_notice_headset_change_msg2">Dường như bạn đang sử dụng cặp tai nghe khác. Hãy chắc chắn rằng âm thanh cá nhân này phù hợp với đôi tai nghe này.</string>
