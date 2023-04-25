@@ -651,7 +651,7 @@ không được tạo trong Không gian thứ hai"</string>
     <string name="the_anti_aggression_day">Kỷ niệm ngày chiến thắng chiến tranh Trung-Nhật</string>
     <string name="the_arbor_day">Tết Trồng Cây</string>
     <string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
-    <string name="the_armys_day"/>Ngày thành lập Quân Giải phóng Nhân dân Trung Quốc</string>
+    <string name="the_armys_day">Ngày thành lập Quân Giải phóng Nhân dân Trung Quốc</string>
     <string name="the_childrens_day">Ngày Quốc Tế Thiếu Nhi</string>
     <string name="the_chinese_youth_day">Ngày Thanh Niên</string>
     <string name="the_christmas_day">Lễ Giáng Sinh</string>
@@ -668,11 +668,11 @@ không được tạo trong Không gian thứ hai"</string>
     <string name="the_labour_day">Ngày Quốc tế Lao động</string>
     <string name="the_lantern_festival">Lễ hội Đèn lồng</string>
     <string name="the_mid_autumn_festival">Tết Trung thu</string>
-    <string name="the_national_day"/>Ngày Quốc khánh</string>
+    <string name="the_national_day">Ngày Quốc khánh</string>
     <string name="the_national_father_day">Ngày sinh Tôn Trung Sơn</string>
     <string name="the_new_years_day">Tết Dương lịch</string>
     <string name="the_night_of_sevens">Thất Tịch</string>
-    <string name="the_partys_day"/>Ngày thành lập Đảng Cộng sản Trung Quốc</string>
+    <string name="the_partys_day">Ngày thành lập Đảng Cộng sản Trung Quốc</string>
     <string name="the_peace_day">Ngày Quốc tế Hòa bình</string>
     <string name="the_retrocession_day">Ngày Quang Phục</string>
     <string name="the_second_day">Mùng 2</string>
@@ -686,7 +686,7 @@ không được tạo trong Không gian thứ hai"</string>
     <string name="the_tw_youth_day">Ngày Thanh niên</string>
     <string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
     <string name="the_valentines_day">Lễ tình nhân</string>
-    <string name="the_water_lantern_festival"/>Lễ mừng lúa mới</string>
+    <string name="the_water_lantern_festival">Lễ mừng lúa mới</string>
     <string name="thememanager_not_found">Không thể mở Chủ đề. Đảm bảo ứng dụng này đã được cài đặt trên thiết bị.</string>
     <string name="thursday">Thứ Năm</string>
     <string name="thursday_short">Thứ 5</string>
