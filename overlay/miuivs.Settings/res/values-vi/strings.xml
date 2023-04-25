@@ -8653,6 +8653,7 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
     <string name="wifi_required_info_text">Để hoàn tất cài đặt, thiết bị của bạn cần truy cập Wi-Fi. Sau khi cài đặt, bạn có thể chuyển đổi giữa dữ liệu di động và Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Băng tần 5 GHz không khả dụng ở quốc gia này</string>
     <string name="wifi_save">Lưu</string>
+    <string name="wifi_saved_access_point">Mạng đã lưu</string>
     <string name="wifi_saved_access_points_label">Mạng đã lưu</string>
     <string name="wifi_saved_other_networks_tab">Mạng khác</string>
     <string name="wifi_scan_always_available">Quét luôn khả dụng</string>

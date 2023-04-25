@@ -1,4 +1,4 @@
-# overlay
+# VS OVERLAY
 VS Overlay for MIUI is an initiative aimed at providing comprehensive and accurate translations for MIUI versions, a user interface for Android devices developed by Xiaomi.
 
 Our project focuses on translating text strings from Chinese into various languages such as English, Vietnamese, French, German, and many others. We use translation methods along with translation tools to ensure that our translations are accurate and easily understandable.
