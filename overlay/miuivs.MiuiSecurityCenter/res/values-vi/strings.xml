@@ -3371,8 +3371,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_wireless_update_notification_title">Cập nhật sạc không dây</string>
     <string name="power_wireless_update_text">Cập nhật</string>
     <string name="power_wireless_update_tv_text">Đang cập nhật firmware… Không tắt thiết bị.</string>
-    <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
-    <string name="pp_sms_and_contacts">Liên hệ và tin nhắn</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_adjust_data_usage">Tin nhắn mẫu nhà cung cấp</string>
     <string name="pref_adjust_data_usage_summary">Sau khi bạn thay đổi mẫu hiệu chỉnh, MIUI sẽ sử dụng nó để nhận thống kê sử dụng dữ liệu từ nhà mạng</string>
