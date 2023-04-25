@@ -3259,4 +3259,9 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="zman_title">Chia sẻ an toàn</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+    <string name="hdr_show_hint">Cân chỉnh màn hình để hiển thị thêm chi tiết trong vùng bóng và độ sáng cao trên các vật phẩm có độ phân tầm năng động cao.</string>
+    <string name="hdr_show_title">Hiển thị HDR</string>
+    <string name="hdr_switch_show_hint">Sử dụng HDR để hiển thị thêm chi tiết trong độ sáng cao và vùng bóng.</string>
+    <string name="hdr_switch_show_title">Hiển thị HDR</string>
+    <string name="media_type_hd">Độ phân giải cao</string>
 </resources>
