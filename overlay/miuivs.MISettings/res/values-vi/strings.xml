@@ -224,7 +224,7 @@ không được tạo trong Không gian thứ hai"</string>
     <string name="exo_download_description">Tải xuống</string>
     <string name="exo_download_downloading">Đang tải xuống</string>
     <string name="exo_download_failed">Không tải xuống được</string>
-		<string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
+	<string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
