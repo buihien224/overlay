@@ -2684,7 +2684,30 @@ Nếu bạn tiếp tục, %1$s sẽ thay đổi cài đặt riêng tư của b�
     <string name="accessibility_shortcut_talkback_warning">"Giữ cả hai phím âm lượng trong vài giây, bật TalkBack, trình đọc màn hình hữu ích cho những người mù hoặc có thị lực kém. TalkBack thay đổi hoàn toàn cách thiết bị của bạn hoạt động.
 
 Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài đặt > Trợ năng."</string>
-    <string name="resolver_no_work_apps_available_share">Không có ứng dụng công việc hỗ trợ nội dung này</string>
-    <string name="resolver_cant_share_with_personal_apps">Không thể chia sẻ với ứng dụng cá nhân</string>
-    <string name="accessibility_shortcut_talkback_warning_title">Bật TalkBack?</string>
+    <string name="permdesc_add_voicemail">Cho phép %1$s thêm các tin nhắn thoại hệ thống?</string>
+    <string name="permdesc_call_phone">Cho phép %1$s thực hiện cuộc gọi?</string>
+    <string name="permdesc_get_account">Cho phép %1$s truy cập tất cả các tài khoản được lưu trữ trên thiết bị này?</string>
+    <string name="permdesc_isolate_storage">Cho phép %1$s truy cập vào ảnh, video và âm thanh được lưu trữ trên thiết bị này?</string>
+    <string name="permdesc_location">Cho phép %1$s truy cập thông tin vị trí?</string>
+    <string name="permdesc_location_background">Cho phép %1$s truy cập thông tin vị trí trong nền?</string>
+    <string name="permdesc_microphone">Cho phép %1$s sử dụng microphone để ghi âm?</string>
+    <string name="permdesc_nearby_devices">Cho phép %1$s tìm kiếm và kết nối với các thiết bị gần đây?</string>
+    <string name="permdesc_post_notification">Cho phép %1$s gửi thông báo?</string>
+    <string name="permdesc_process_outgoing_call">Cho phép %1$s trả lời và kết thúc cuộc gọi?</string>
+    <string name="permdesc_read_calendar">Cho phép %1$s truy cập và chỉnh sửa sự kiện lịch?</string>
+    <string name="permdesc_read_call_log">Cho phép %1$s truy cập vào lịch sử cuộc gọi?</string>
+    <string name="permdesc_read_contacts">Cho phép %1$s truy cập vào danh bạ?</string>
+    <string name="permdesc_read_mms">Cho phép %1$s đọc các tin nhắn đa phương tiện?</string>
+    <string name="permdesc_read_phone_numbers">Cho phép %1$s đọc số điện thoại trên thiết bị này?</string>
+    <string name="permdesc_read_phone_state">Cho phép %1$s truy cập trạng thái thiết bị và thông tin mạng di động?</string>
+    <string name="permdesc_read_sms">Cho phép %1$s đọc các tin nhắn văn bản và đa phương tiện?</string>
+    <string name="permdesc_read_storage">Cho phép %1$s truy cập vào tệp và ảnh trên thiết bị này?</string>
+    <string name="permdesc_recognition">Cho phép %1$s truy cập thông tin hoạt động của bạn?</string>
+    <string name="permdesc_send_sms">Cho phép %1$s gửi tin nhắn văn bản?</string>
+    <string name="permdesc_sensors">Cho phép %1$s đọc dữ liệu được tạo ra bởi các cảm biến cơ thể?</string>
+    <string name="permdesc_shake">Cho phép %1$s truy cập dữ liệu gia tốc kế?</string>
+    <string name="permdesc_write_calendar">Cho phép %1$s tạo và lưu sự kiện lịch?</string>
+    <string name="permdesc_write_call_log">Cho phép %1$s chỉnh sửa lịch sử cuộc gọi?</string>
+    <string name="permdesc_write_contacts">Cho phép %1$s chỉnh sửa danh bạ?</string>
+    <string name="permdesc_write_storage">Cho phép %1$s lưu trữ các tệp và hình ảnh trên thiết bị này?</string>
 </resources>
