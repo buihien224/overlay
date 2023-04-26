@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_Access_Gallery">Truy cập Thư viện</string>
+	<string name="HIPS_Perm_Access_Gallery">Truy cập Thư viện</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Cho phép ứng dụng này truy cập các mục trong Thư viện</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bật và tắt Bluetooth</string>
-    <string name="HIPS_Perm_CallLog_Desc">Viết và xóa lịch sử cuộc gọi</string>
-    <string name="HIPS_Perm_Call_Desc">Trực tiếp gọi số điện thoại</string>
+    <string name="HIPS_Perm_CallLog_Desc">Viết và xóa lịch sử cuộc gọi</string>											   
+    <string name="HIPS_Perm_Call_Desc">Trực tiếp gọi số điện thoại</string>	
     <string name="HIPS_Perm_Contact_Desc">Sửa và xóa liên hệ</string>
-    <string name="HIPS_Perm_External_Storage">Truy cập và lưu các mục đến lưu trữ</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Truy cập và lưu tập tin và ảnh vào bộ nhớ trong</string>
-    <string name="HIPS_Perm_External_Storage_Group">Quản lý quyền lưu trữ</string>
-    <string name="HIPS_Perm_External_Storage_Group_Desc">Chọn mục mà ứng dụng được phép để truy cập</string>
-    <string name="HIPS_Perm_GetInstall_Desc">Truy cập danh sách các ứng dụng đã cài đặt trên thiết bị này</string>
+    <string name="HIPS_Perm_External_READ_FILES">Truy cập tập tin và tài liệu</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Truy cập vào các tập tin và tài liệu được lưu trữ trên thiết bị này</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Truy cập tập tin âm thanh</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Truy cập vào các bài hát và các tập tin âm thanh khác được lưu trữ trên thiết bị này</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Truy cập và lưu trữ các hình ảnh, video và tập tin âm thanh vào bộ nhớ trong</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Truy cập ảnh và video</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Truy cập vào các hình ảnh và video được lưu trữ trên thiết bị này</string>
+    <string name="HIPS_Perm_External_Storage">Truy cập và lưu trữ các mục vào bộ nhớ</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Truy cập và lưu trữ các tập tin và hình ảnh vào bộ nhớ trong</string>
+    <string name="HIPS_Perm_External_Storage_Group">Quản lý quyền truy cập bộ nhớ</string>
+    <string name="HIPS_Perm_External_Storage_Group_Desc">Chọn những mục mà các ứng dụng được phép truy cập</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Truy cập danh sách các ứng dụng được cài đặt trên thiết bị này</string>
     <string name="HIPS_Perm_PhoneID_Desc">Truy cập số điện thoại, IMEI, và IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Truy cập số điện thoại và trạng thái thiết bị</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Đọc lịch sử cuộc gọi</string>
