@@ -5094,4 +5094,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="terminal_privacy_ability_voice_summary">Lệnh giọng nói và phụ đề thông minh</string>
     <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu trữ trên thiết bị này thay vì được tải lên đám mây</string>
     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
+    <string name="bottom_func_guide_default_text">Nhiều tính năng hơn</string>
+    <string name="bottom_notice_title">Vuốt lên để mở hộp công cụ</string>
 </resources>
