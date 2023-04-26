@@ -2658,4 +2658,6 @@ Bật eSIM ngay bây giờ?</string>
     <string name="enable_esim_progress_activating_message">Đang kích hoạt eSIM…</string>
     <string name="enable_esim_title">Sử dụng eSIM</string>
     <string name="smart_multinetwork_acceleration_title">Tăng tốc mạng thông minh</string>
+    <string name="enter_esim_manager">Quản lý eSIM</string>
+    <string name="enter_esim_manager_title">Quản lý eSIM</string>
 </resources>
