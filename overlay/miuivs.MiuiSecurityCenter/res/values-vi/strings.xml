@@ -5077,4 +5077,25 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="xunyou_server_expired">Dịch vụ đã hết hạn.</string>
     <string name="yesterday">Hôm qua</string>
     <string name="yuan">NDT</string>
+    <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
+    <string name="terminal_privacy_ability">Các tính năng và cơ chế</string>
+    <string name="terminal_privacy_ability_img">Xử lý hình ảnh</string>
+    <string name="terminal_privacy_ability_img_summary">Chỉnh sửa thông minh và nhận dạng hình ảnh và video trong Camera, Thư viện và Taplus</string>
+    <string name="terminal_privacy_ability_model">Nhận biết cách thiết bị của bạn tương tác với môi trường</string>
+    <string name="terminal_privacy_ability_model_summary">Bộ đếm bước, cử chỉ thông minh, chế độ túi và độ sáng tự động</string>
+    <string name="terminal_privacy_ability_others">Cơ chế khác</string>
+    <string name="terminal_privacy_ability_others_summary">Chia sẻ màn hình, môi trường thanh toán kiểm tra, nhận dạng vân tay và khuôn mặt</string>
+    <string name="terminal_privacy_ability_suggest">Gợi ý</string>
+    <string name="terminal_privacy_ability_suggest_summary">Gợi ý và đề xuất từ các thư mục trên màn hình chính, thanh bên và Ví Mi</string>
+    <string name="terminal_privacy_ability_summary">* Các tính năng và cơ chế bảo vệ quyền riêng tư trên thiết bị có thể khác nhau tùy theo model thiết bị</string>
+    <string name="terminal_privacy_ability_txt">Văn bản</string>
+    <string name="terminal_privacy_ability_txt_summary">Chỉnh sửa văn bản thông minh, phụ đề thông minh, Taplus, tin nhắn và clipboard được chia sẻ</string>
+    <string name="terminal_privacy_ability_voice">Nhận dạng giọng nói</string>
+    <string name="terminal_privacy_ability_voice_summary">Lệnh giọng nói và phụ đề thông minh</string>
+    <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu trữ trên thiết bị này thay vì được tải lên đám mây</string>
+    <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
+    <string name="see_all_app_behavior_record">Xem tất cả hành vi của ứng dụng</string>
+    <string name="see_detail">Chi tiết</string>
+    <string name="see_more_content">Cập nhật Trò chơi để xem nhiều điểm nổi bật hơn</string>
+    <string name="fully_informed_privacy">Nhận thức về quyền riêng tư</string>
 </resources>
