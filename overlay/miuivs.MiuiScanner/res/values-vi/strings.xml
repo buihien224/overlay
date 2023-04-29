@@ -796,8 +796,8 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="please_select_an_item">Chọn mục</string>
     <string name="please_try_again_later">Chờ một hoặc hai phút và thử lại</string>
     <string name="pm">CH</string>
-    <string name="ppt_dialog_content">Xuất ghi chú và bản trình chiếu sang PDF</string>
-    <string name="ppt_dialog_demo_hint">Quét ghi chú, bản trình chiếu và tạo tệp PDF</string>
+    <string name="ppt_dialog_content">Xuất ghi chú và bản trình bày sang PDF</string>
+    <string name="ppt_dialog_demo_hint">Quét ghi chú, bản trình bày và tạo tệp PDF</string>
     <string name="ppt_dialog_exit_content">Nếu thoát khỏi trình chỉnh sửa, bạn sẽ mất vĩnh viễn tất cả nội dung đã nhập. Bạn có chắc chắn muốn thoát không?</string>
     <string name="ppt_dialog_exit_title">Thoát trình chỉnh sửa?</string>
     <string name="ppt_dialog_recovery_cancel">Huỷ bỏ</string>
@@ -814,7 +814,7 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="ppt_loading_moire">Chỉ vài giây…</string>
     <string name="ppt_loading_processing">Chỉ vài giây…</string>
     <string name="ppt_loading_recovery">Đang khôi phục…</string>
-    <string name="ppt_preview_bottom_tips">*Kéo các trang trình chiếu để sắp xếp lại chúng</string>
+    <string name="ppt_preview_bottom_tips">*Kéo các trang trình bày để sắp xếp lại chúng</string>
     <string name="ppt_preview_color">Chỉnh sửa ảnh</string>
     <string name="ppt_preview_color_enhance">Nâng cao</string>
     <string name="ppt_preview_color_moire">Xoá moiré</string>
@@ -835,7 +835,7 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="ppt_sort_dialog_content">Dừng chỉnh sửa ngay bây giờ? Các thay đổi của bạn sẽ không được lưu.</string>
     <string name="ppt_sort_dialog_title">Dừng chỉnh sửa</string>
     <string name="ppt_sort_title">Sắp xếp</string>
-    <string name="ppt_toast_max">Thêm tối đa %1$d trang trình chiếu</string>
+    <string name="ppt_toast_max">Thêm tối đa %1$d trang trình bày</string>
     <string name="ppt_toast_recovery_fail">Không thể khôi phục dữ liệu</string>
     <string name="pref_camera_focusmode_default">chụp liên tục</string>
     <string name="pref_camera_jpeg_quality_fine">tốt</string>
@@ -939,7 +939,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="scan_pdf">Tạo PDF</string>
     <string name="scan_pdf_guard">Quét tài liệu giấy để tạo PDF</string>
     <string name="scan_ppt">PPT</string>
-    <string name="scan_ppt_guard">Quét nội dung để tạo bản trình chiếu PowerPoint</string>
+    <string name="scan_ppt_guard">Quét nội dung để tạo bản trình bày PowerPoint</string>
     <string name="scan_result">Kết quả</string>
     <string name="scan_shop">Xác định sản phẩm</string>
     <string name="scan_support_type">WeChat, Alipay, mã QR, mã vạch</string>
@@ -978,7 +978,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="setting_preference_weixin_process_method">Mã WeChat</string>
     <string name="setting_second_banner_content">Mi AI có thể nhận dạng thực vật, động vật, ô tô và con người</string>
     <string name="setting_seventh_banner_content">Quét tài liệu giấy để tạo tệp PDF với độ phân giải cao</string>
-    <string name="setting_sixth_banner_content">Quét bản trình chiếu PowerPoint để ghi chú</string>
+    <string name="setting_sixth_banner_content">Quét bản trình bày PowerPoint để ghi chú</string>
     <string name="setting_third_banner_content">Tìm các sản phẩm tương tự và xem thông tin về thương hiệu hay giá cả</string>
     <string name="setting_title">Cài đặt</string>
     <string name="setting_use_last_choose">Nhớ lựa chọn trước đó</string>
