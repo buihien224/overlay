@@ -5389,10 +5389,8 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="ew_first_start_network_title">Điều khoản và điều kiện</string>
     <string name="ew_get_location">Định vị</string>
     <string name="ew_global_default_signature">EEWS BMKG</string>
-    <string name="ew_global_signature">"Thông tin được cung cấp bởi EEWS BMKG
-    Hỗ trợ kỹ thuật bởi Xiaomi & ICL"</string>
-    <string name="ew_global_signature_template">"Thông tin được cung cấp bởi %s
-    Hỗ trợ kỹ thuật bởi Xiaomi & ICL"</string>
+    <string name="ew_global_signature">"Thông tin được cung cấp bởi EEWS BMKG. Hỗ trợ kỹ thuật bởi Xiaomi và ICL"</string>
+    <string name="ew_global_signature_template">"Thông tin được cung cấp bởi %s. Hỗ trợ kỹ thuật bởi Xiaomi và ICL"</string>
     <string name="ew_guide_law_agree">Đồng ý</string>
     <string name="ew_guide_law_done">Đã hiểu</string>
     <string name="ew_guide_law_exit">"Không đồng ý"</string>
