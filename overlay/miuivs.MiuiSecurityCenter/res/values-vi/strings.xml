@@ -5127,18 +5127,11 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="eletric_risk_call_identification_announcement">Thông báo về các rủi ro có thể xảy ra khi nhận cuộc gọi từ các số không rõ</string>
     <string name="eletric_status_protecting">Bật</string>
     <string name="shut_down_password_content">Nếu bạn mất thiết bị của mình, xác nhận tắt nguồn sẽ bảo vệ nó khỏi bị người khác tìm thấy tắt nguồn.</string>
-    <string name="sp_power_off_password_summary">Yêu cầu nhập mật khẩu trước khi thiết bị được tắt nguồn</string>
-    <string name="sp_power_off_password_title">Xác nhận tắt nguồn</string>
-    <string name="scan_open_shut_down_password_content">Bảo vệ thiết bị của bạn khỏi truy cập trái phép.</string>
-    <string name="scan_open_shut_down_password_title">Xác nhận tắt nguồn</string>
     <string name="sim_lock_card_name">"SIM %d - "</string>
     <string name="sim_lock_change_done_message">"Đã thiết lập thành công! Hãy nhớ mã PIN mới của bạn. Nếu quên, bạn sẽ phải liên hệ với dịch vụ khách hàng của nhà mạng để khôi phục lại mã PIN."</string>
     <string name="sim_lock_cloud_notification_message">"Không thể xác minh mã PIN khi đồng bộ hóa với đám mây đã tắt"</string>
     <string name="sim_lock_cloud_notification_title">"Thẻ SIM chưa được bảo vệ"</string>
     <string name="sim_lock_confirm_pin_hint">Xác nhận mã PIN mới</string>
-    <string name="sim_lock_dialog_cancel">Kiểm tra PIN</string>
-    <string name="sim_lock_dialog_message">"Thẻ SIM của bạn đã được bảo vệ. Hãy nhớ mã PIN của bạn."</string>
-    <string name="sim_lock_dialog_title">Thẻ SIM đã được bảo vệ</string>
     <string name="sim_lock_done_dialog_confirm">Thiết lập</string>
     <string name="sim_lock_done_dialog_message">"Bạn đang sử dụng mã PIN của nhà mạng mặc định. Thiết lập mã PIN mới để làm cho thẻ SIM của bạn an toàn hơn. Thiết lập ngay?"</string>
     <string name="sim_lock_done_dialog_title">Thiết lập mã PIN mới</string>
@@ -5146,9 +5139,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="sim_lock_done_enable">Thẻ SIM của bạn đã được bảo vệ</string>
     <string name="sim_lock_done_title">Bảo mật SIM</string>
     <string name="sim_lock_enable_done_message">"Thẻ SIM của bạn đã được liên kết với thiết bị này. Mã PIN SIM sẽ được xác minh tự động. Tuy nhiên, bạn vẫn phải nhập mã PIN thủ công khi sử dụng thẻ SIM này với các thiết bị khác."</string>
-    <string name="sim_lock_guide_button">Cài đặt</string>
-    <string name="sim_lock_guide_message">Liên kết thẻ SIM của bạn với thiết bị này để làm cho nó ít dễ bị tấn công bởi các mối đe dọa về bảo mật</string>
-    <string name="sim_lock_guide_title">Bảo vệ thẻ SIM của bạn</string>
     <string name="sim_lock_locked_dialog_message">"Bạn đã đạt đến giới hạn số lần nhập PUK sai được đặt bởi nhà mạng. Thẻ SIM của bạn đã bị hủy."</string>
     <string name="sim_lock_locked_dialog_title">Thẻ SIM đã bị hủy</string>
     <string name="sim_lock_locked_notification_message">Nhấp để nhập mã PIN</string>
@@ -5184,10 +5174,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="sim_lock_query_pin_length_error" formatted="false">PIN phải chứa %d-%d chữ số</string>
     <string name="sim_lock_query_pin_mismatch_error">"Các PIN mà bạn nhập không khớp"</string>
     <string name="sim_lock_query_pin_same_error">PIN mới của bạn giống như PIN cũ</string>
-    <string name="sim_lock_query_title">Kiểm tra PIN</string>
-    <string name="sim_lock_setting_keyguard_enable_message">Bật để xác minh PIN trước khi xác nhận khóa màn hình</string>
-    <string name="sim_lock_setting_keyguard_enable_title">Xác minh PIN sau khi bật màn hình</string>
-    <string name="sim_lock_setting_title">Bảo mật SIM</string>
     <string name="sim_lock_start_account_dialog_enable">Đăng nhập</string>
     <string name="sim_lock_start_account_dialog_message">Thẻ SIM của bạn sẽ được liên kết với thiết bị này thông qua Xiaomi Cloud. Đăng nhập để tiếp tục?</string>
     <string name="sim_lock_start_account_dialog_title">Đăng nhập vào Xiaomi Cloud</string>
@@ -5209,7 +5195,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="sim_lock_start_notification_title">Bảo vệ thẻ SIM của bạn</string>
     <string name="sim_lock_start_query_pin">Kiểm tra PIN</string>
     <string name="sim_lock_start_summary">Tính năng này bảo vệ bạn khỏi các rủi ro có thể xảy ra nếu thẻ SIM của bạn bị mất.</string>
-    <string name="sim_lock_start_title">Bảo mật SIM</string>
     <string name="sim_lock_toast_no_sim">Hãy cài đặt thẻ SIM trước</string>
     <string name="warn_function_no_work">&lt;u>Không thể thông báo bình thường khi nhận được phong bì đỏ?&lt;/u></string>
     <string name="warningcenter_action_check">Xem</string>
