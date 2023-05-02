@@ -463,4 +463,5 @@
     <string name="wednesday_shortest">Th 4</string>
     <string name="wifi_call">Cuộc gọi VoWifi</string>
     <string name="yesterday">Hôm qua</string>
+    <string name="msim_select_default_last">Đã dùng gần đây</string>
 </resources>
