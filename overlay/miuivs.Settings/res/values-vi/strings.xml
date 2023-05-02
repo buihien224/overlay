@@ -2722,16 +2722,6 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="enabled_authorised_apps_title">Đã cấp ủy quyền</string>
     <string name="enabled_by_admin">Đã bật bởi Quản trị viên</string>
     <string name="enalbe_identify_iPhone">Nhận dạng điểm phát</string>
-    <string name="encrypt_talkback_dialog_message_password">Khi bạn nhập mật khẩu của mình để khởi động thiết bị này, các dịch vụ trợ năng như %1$s sẽ chưa khả dụng.</string>
-    <string name="encrypt_talkback_dialog_message_pattern">Khi bạn nhập mẫu của mình để khởi động thiết bị này, các dịch vụ trợ năng như %1$s sẽ chưa khả dụng.</string>
-    <string name="encrypt_talkback_dialog_message_pin">Khi bạn nhập mã PIN của mình để khởi động thiết bị này, các dịch vụ trợ năng như %1$s sẽ chưa khả dụng.</string>
-    <string name="encrypt_talkback_dialog_require_password">Yêu cầu mật khẩu?</string>
-    <string name="encrypt_talkback_dialog_require_pattern">Yêu cầu hình?</string>
-    <string name="encrypt_talkback_dialog_require_pin">Yêu cầu mã PIN?</string>
-    <string name="encryption_and_credential_settings_summary">Điện thoại được mã hóa</string>
-    <string name="encryption_and_credential_settings_title">Mã hóa và thông tin đăng nhập</string>
-    <string name="encryption_continue_button">Tiếp tục</string>
-    <string name="encryption_interstitial_header">Khởi động an toàn</string>
     <string name="encryption_interstitial_message_password">"Bạn có thể bảo vệ thiết bị này hơn nữa bằng cách yêu cầu mật khẩu của mình trước khi khởi động thiết bị. Thiết bị không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo thức cho đến khi khởi động thiết bị. 
 
 Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc lấy cắp."</string>
