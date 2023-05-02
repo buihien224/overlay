@@ -12240,4 +12240,60 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="tare_wakeup_inexact">Inexact Wakeup Alarm</string>
     <string name="tare_wakeup_inexact_idle">Allow While Idle Inexact Wakeup Alarm</string>
     <string name="tare_widget_interaction">Widget Interaction</string>
+    <string name="security_advanced_settings">Các thiết lập bảo mật nâng cao</string>
+    <string name="encrypt_talkback_dialog_message_password">Khi bạn nhập mật khẩu để bật thiết bị này, các dịch vụ trợ năng khả dụng như %1$s sẽ chưa sẵn sàng.</string>
+    <string name="encrypt_talkback_dialog_message_pattern">Khi bạn nhập mẫu để bật thiết bị này, các dịch vụ trợ năng khả dụng như %1$s sẽ chưa sẵn sàng.</string>
+    <string name="encrypt_talkback_dialog_message_pin">Khi bạn nhập mã PIN để bật thiết bị này, các dịch vụ trợ năng khả dụng như %1$s sẽ chưa sẵn sàng.</string>
+    <string name="encrypt_talkback_dialog_require_password">Yêu cầu mật khẩu?</string>
+    <string name="encrypt_talkback_dialog_require_pattern">Yêu cầu mẫu?</string>
+    <string name="encrypt_talkback_dialog_require_pin">Yêu cầu PIN?</string>
+    <string name="encrypt_title">Mã hóa điện thoại</string>
+    <string name="encrypted_summary">Đã mã hóa</string>
+    <string name="encryption_and_credential_settings_summary">Điện thoại được mã hóa</string>
+    <string name="encryption_and_credential_settings_title">Mã hóa và thông tin xác thực</string>
+    <string name="encryption_continue_button">Tiếp tục</string>
+    <string name="encryption_interstitial_header">Bảo vệ khởi động</string>
+    <string name="encryption_interstitial_message_password">"Bạn có thể bảo vệ thiết bị này thêm bằng cách yêu cầu mật khẩu của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo thức.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị đánh mất hoặc bị mất cắp. Bạn có muốn yêu cầu mật khẩu để khởi động thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_password_for_biometrics">"Ngoài việc sử dụng sinh trắc học của bạn để mở khóa thiết bị, bạn có thể bảo vệ thiết bị này thêm bằng cách yêu cầu mật khẩu của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo thức.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị đánh mất hoặc bị mất cắp. Bạn có muốn yêu cầu mật khẩu để khởi động thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_password_for_face">"Ngoài việc sử dụng khuôn mặt của bạn để mở khóa thiết bị, bạn có thể bảo vệ thiết bị này thêm bằng cách yêu cầu mật khẩu của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo thức.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị đánh mất hoặc bị mất cắp. Bạn có muốn yêu cầu mật khẩu để khởi động thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Ngoài việc sử dụng vân tay để mở khóa thiết bị của bạn, bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mật khẩu của bạn trước khi nó bắt đầu hoạt động. Cho đến khi thiết bị bắt đầu hoạt động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mật khẩu để bắt đầu thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_pattern">"Bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mẫu của bạn trước khi nó bắt đầu hoạt động. Cho đến khi thiết bị bắt đầu hoạt động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mẫu để bắt đầu thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_pattern_for_biometrics">"Ngoài việc sử dụng sinh trắc học của bạn để mở khóa thiết bị, bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mẫu của bạn trước khi nó bắt đầu hoạt động. Cho đến khi thiết bị bắt đầu hoạt động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mẫu để bắt đầu thiết bị của bạn không?"</string>
+    <string name="encryption_interstitial_message_pattern_for_face">"Ngoài việc sử dụng khuôn mặt để mở khóa thiết bị của bạn, bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mật khẩu của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mật khẩu để khởi động thiết bị?"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Ngoài việc sử dụng dấu vân tay để mở khóa thiết bị của bạn, bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mật khẩu của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mật khẩu để khởi động thiết bị?"</string>
+    <string name="encryption_interstitial_message_pin">"Bạn có thể bảo vệ thiết bị này hơn bằng cách yêu cầu mã PIN của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc đánh cắp. Bạn có muốn yêu cầu mã PIN để khởi động thiết bị?"</string>
+   
+    <string name="encryption_interstitial_message_pin_for_biometrics">"Ngoài việc sử dụng nhận dạng sinh trắc học để mở khóa thiết bị của bạn, bạn còn có thể bảo vệ thiết bị này hơn nữa bằng cách yêu cầu nhập PIN của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc bị đánh cắp. Bạn có muốn yêu cầu nhập PIN để khởi động thiết bị không?"</string>
+    <string name="encryption_interstitial_message_pin_for_face">"Ngoài việc sử dụng khuôn mặt của bạn để mở khóa thiết bị, bạn còn có thể bảo vệ thiết bị này hơn nữa bằng cách yêu cầu nhập PIN của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc bị đánh cắp. Bạn có muốn yêu cầu nhập PIN để khởi động thiết bị không?"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Ngoài việc sử dụng dấu vân tay để mở khóa thiết bị của bạn, bạn còn có thể bảo vệ thiết bị này hơn nữa bằng cách yêu cầu nhập PIN của bạn trước khi nó khởi động. Cho đến khi thiết bị khởi động, nó sẽ không thể nhận cuộc gọi, tin nhắn hoặc thông báo, bao gồm cả báo động.
+
+    Điều này giúp bảo vệ dữ liệu trên các thiết bị bị mất hoặc bị đánh cắp. Bạn có muốn yêu cầu nhập PIN để khởi động thiết bị không?"</string>
+    <string name="encryption_interstitial_no">Không</string>
+    <string name="encryption_interstitial_yes">Có</string>
+    <string name="encryption_progress_summary">"Đang mã hóa, không khởi động lại thiết bị của bạn."</string>
+    <string name="encryption_settings_title">Mã hóa</string>
+    <string name="certificate_management_app">Ứng dụng quản lý chứng chỉ</string>
+    <string name="certificate_management_app_description">Chứng chỉ sẽ xác minh danh tính của bạn khi sử dụng các ứng dụng và URL dưới đây</string>
 </resources>
