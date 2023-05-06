@@ -12190,4 +12190,37 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="tare_dialog_confirm_button_title">Xác nhận</string>
     <string name="tare_hard_consumption_limit">Giới hạn tiêu thụ tối đa</string>
     <string name="tare_initial_consumption_limit">Giới hạn tiêu thụ ban đầu</string>
+    <string name="extension_function">Các tính năng bổ sung</string>
+    <string name="extension_function_hint">Các lối tắt tính năng sẽ không xuất hiện trong Cài đặt sau khi bạn tắt các công tắc</string>
+    <string name="haptic_descripthion_for_min_level">Nhẹ nhàng</string>
+    <string name="haptic_descripthion_for_middle_level">Êm ái</string>
+    <string name="haptic_descripthion_for_max_level">Mãnh liệt</string>
+    <string name="emergency_address_summary">Được sử dụng làm địa chỉ của bạn khi bạn thực hiện cuộc gọi khẩn cấp qua Wi-Fi</string>
+    <string name="emergency_address_title">Địa chỉ khẩn cấp</string>
+    <string name="emergency_dashboard_summary">SOS khẩn cấp, thông tin y tế, cảnh báo</string>
+    <string name="emergency_gesture_call_for_help_dialog_title">Số để gọi cầu cứu</string>
+    <string name="emergency_gesture_call_for_help_summary">%1$s. Chạm để thay đổi</string>
+    <string name="emergency_gesture_call_for_help_title">Gọi cầu cứu</string>
+    <string name="emergency_gesture_category_call_for_help_title">Thông báo cầu cứu</string>
+    <string name="emergency_gesture_entrypoint_summary">Được quản lý bởi %1$s</string>
+    <string name="emergency_gesture_number_override_notes">"Nếu bạn nhập một số không phải là số khẩn cấp:
+
+    Thiết bị của bạn phải được mở khóa để sử dụng SOS khẩn cấp
+    Cuộc gọi của bạn có thể không được trả lời"</string>
+    <string name="emergency_gesture_screen_summary">Nhấn nhanh nút Nguồn 5 lần hoặc nhiều hơn để bắt đầu các hành động dưới đây</string>
+    <string name="emergency_gesture_screen_title">SOS khẩn cấp</string>
+    <string name="emergency_gesture_settings_package" />
+    <string name="emergency_gesture_sound_setting_summary">Phát một âm thanh to khi SOS khẩn cấp bắt đầu</string>
+    <string name="emergency_gesture_sound_setting_title">Phát báo đếm ngược</string>
+    <string name="emergency_gesture_switchbar_title">Sử dụng SOS khẩn cấp</string>
+    <string name="emergency_info_summary">Thông tin &amp; danh bạ cho %1$s</string>
+    <string name="emergency_info_title">Thông tin khẩn cấp</string>
+    <string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>
+    <string name="emergency_sos_title">SOS khẩn cấp</string>
+    <string name="emergency_tone_alert">Âm thanh</string>
+    <string name="emergency_tone_silent">Im lặng</string>
+    <string name="emergency_tone_summary">Đặt hành vi khi thực hiện cuộc gọi khẩn cấp</string>
+    <string name="emergency_tone_title">Tín hiệu gọi khẩn cấp</string>
+    <string name="emergency_tone_vibrate">Rung</string>
+
 </resources>
