@@ -12195,8 +12195,6 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="haptic_descripthion_for_min_level">Nhẹ nhàng</string>
     <string name="haptic_descripthion_for_middle_level">Êm ái</string>
     <string name="haptic_descripthion_for_max_level">Mãnh liệt</string>
-    <string name="emergency_address_summary">Được sử dụng làm địa chỉ của bạn khi bạn thực hiện cuộc gọi khẩn cấp qua Wi-Fi</string>
-    <string name="emergency_address_title">Địa chỉ khẩn cấp</string>
     <string name="emergency_dashboard_summary">SOS khẩn cấp, thông tin y tế, cảnh báo</string>
     <string name="emergency_gesture_call_for_help_dialog_title">Số để gọi cầu cứu</string>
     <string name="emergency_gesture_call_for_help_summary">%1$s. Chạm để thay đổi</string>
@@ -12208,19 +12206,21 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     Thiết bị của bạn phải được mở khóa để sử dụng SOS khẩn cấp
     Cuộc gọi của bạn có thể không được trả lời"</string>
     <string name="emergency_gesture_screen_summary">Nhấn nhanh nút Nguồn 5 lần hoặc nhiều hơn để bắt đầu các hành động dưới đây</string>
-    <string name="emergency_gesture_screen_title">SOS khẩn cấp</string>
     <string name="emergency_gesture_settings_package" />
     <string name="emergency_gesture_sound_setting_summary">Phát một âm thanh to khi SOS khẩn cấp bắt đầu</string>
     <string name="emergency_gesture_sound_setting_title">Phát báo đếm ngược</string>
     <string name="emergency_gesture_switchbar_title">Sử dụng SOS khẩn cấp</string>
-    <string name="emergency_info_summary">Thông tin &amp; danh bạ cho %1$s</string>
-    <string name="emergency_info_title">Thông tin khẩn cấp</string>
     <string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>
     <string name="emergency_sos_title">SOS khẩn cấp</string>
-    <string name="emergency_tone_alert">Âm thanh</string>
-    <string name="emergency_tone_silent">Im lặng</string>
-    <string name="emergency_tone_summary">Đặt hành vi khi thực hiện cuộc gọi khẩn cấp</string>
-    <string name="emergency_tone_title">Tín hiệu gọi khẩn cấp</string>
-    <string name="emergency_tone_vibrate">Rung</string>
-
+    <string name="reduce_bright_colors_about_title">Về chế độ giảm độ sáng mạnh</string>
+    <string name="reduce_bright_colors_intensity_end_label">Sáng hơn</string>
+    <string name="reduce_bright_colors_intensity_preference_title">Độ mạnh</string>
+    <string name="reduce_bright_colors_intensity_start_label">Tối hơn</string>
+    <string name="reduce_bright_colors_persist_preference_title">Giữ chế độ sau khi thiết bị khởi động lại</string>
+    <string name="reduce_bright_colors_preference_intro_text">Làm cho màn hình của bạn tối hơn để đọc thoải mái hơn</string>
+    <string name="reduce_bright_colors_preference_subtitle">Chế độ giảm độ sáng mạnh có thể hữu ích trong những trường hợp sau: &lt;ol> &lt;li>Mức độ sáng tối thiểu mặc định của điện thoại vẫn quá sáng&lt;/li> &lt;li>Bạn sử dụng điện thoại trong môi trường tối, như buổi tối hoặc trong phòng tối trước khi đi ngủ&lt;/li> &lt;/ol></string>
+    <string name="reduce_bright_colors_preference_summary">Giảm độ sáng màn hình dưới mức độ sáng tối thiểu của điện thoại</string>
+    <string name="reduce_bright_colors_preference_title">Chế độ giảm độ sáng mạnh</string>
+    <string name="reduce_bright_colors_shortcut_title">Phím tắt chế độ giảm độ sáng mạnh</string>
+    <string name="reduce_bright_colors_switch_title">Bật chế độ giảm độ sáng mạnh màn hình</string>
 </resources>
