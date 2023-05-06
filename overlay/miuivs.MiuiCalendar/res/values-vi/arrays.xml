@@ -142,8 +142,8 @@
         <item>22/12 - 19/01</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Về trước</item>
         <item>Về sau</item>
+        <item>Về trước</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Vào thời gian sự kiện</item>
@@ -236,7 +236,7 @@
         <item>lần cuối</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Thứ hai - Thứ sáu</item>
+        <item>Thứ Hai - Thứ Sáu</item>
         <item>Cuối tuần</item>
         <item>Cả tuần</item>
     </string-array>
@@ -664,13 +664,13 @@
         <item>Từ chối</item>
     </string-array>
     <string-array name="panchang_weeks">
-        <item>Chủ nhật</item>
-        <item>Thứ hai</item>
-        <item>Thứ ba</item>
-        <item>Thứ tư</item>
-        <item>Thứ năm</item>
-        <item>Thứ sáu</item>
-        <item>Thứ bảy</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
     </string-array>
     <string-array name="week_array">
         <item>Chủ nhật</item>
