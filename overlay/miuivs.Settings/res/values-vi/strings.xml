@@ -12210,11 +12210,9 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="emergency_gesture_sound_setting_summary">Phát một âm thanh to khi SOS khẩn cấp bắt đầu</string>
     <string name="emergency_gesture_sound_setting_title">Phát báo đếm ngược</string>
     <string name="emergency_gesture_switchbar_title">Sử dụng SOS khẩn cấp</string>
-    <string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>
-    <string name="emergency_sos_title">SOS khẩn cấp</string>
+    <string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>  
     <string name="reduce_bright_colors_about_title">Về chế độ giảm độ sáng mạnh</string>
     <string name="reduce_bright_colors_intensity_end_label">Sáng hơn</string>
-    <string name="reduce_bright_colors_intensity_preference_title">Độ mạnh</string>
     <string name="reduce_bright_colors_intensity_start_label">Tối hơn</string>
     <string name="reduce_bright_colors_persist_preference_title">Giữ chế độ sau khi thiết bị khởi động lại</string>
     <string name="reduce_bright_colors_preference_intro_text">Làm cho màn hình của bạn tối hơn để đọc thoải mái hơn</string>
