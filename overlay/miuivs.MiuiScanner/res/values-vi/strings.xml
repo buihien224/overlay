@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Approval">Áp dụng</string>
-    <string name="Enhance">Nâng cao</string>
+    <string name="Enhance">Tăng cường</string>
     <string name="Fullmask_mode">Ẩn danh</string>
     <string name="Fullmask_mode_str1">Hiển thị kết quả đã được xử lý bởi máy quét WeChat mà không hiển thị quá trình nhận dạng</string>
     <string name="Fullmask_mode_str2">Hiển thị kết quả đã được xử lý bởi máy quét WeChat cùng với từng bước trong quá trình nhận dạng</string>
@@ -17,12 +17,12 @@
     <string name="abc_capital_on">BẬT</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Delete</string>
-    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_delete_shortcut_label">Phím Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Phím Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">Cách</string>
+    <string name="abc_menu_space_shortcut_label">Phím cách</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
@@ -50,7 +50,7 @@
     <string name="agree_monitor_use">Phát hiện thời gian và tỷ lệ chăm chú lắng nghe, mất tập trung và rời đi trong suốt các buổi học trực tuyến. Tất cả dữ liệu cá nhân của bạn sẽ được lưu trữ cục bộ</string>
     <string name="agree_storage_permission">Để truy cập và nhập các hình ảnh từ Thư viện, và lưu trữ tập tin</string>
     <string name="all_text">Toàn bộ văn bản</string>
-    <string name="already_ocr_result">Các mục được chọn tự động</string>
+    <string name="already_ocr_result">Các mục đã được chọn tự động</string>
     <string name="always">Luôn luôn</string>
     <string name="am">SA</string>
     <string name="app_description_content">Máy quét cho phép bạn quét mã QR, tài liệu, danh thiếp và nhiều hơn nữa. Hãy đảm bảo rằng bạn có thể thực hiện mà không cần sử dụng các tính năng này trước khi gỡ bỏ ứng dụng.</string>
@@ -255,7 +255,7 @@
     <string name="document_color_picture">Màu sắc</string>
     <string name="document_color_picture_tip">Đang chuyển sang màu…</string>
     <string name="document_crop_title">Cắt tài liệu</string>
-    <string name="document_default_location">"Tập tin sẽ được lưu vào "</string>
+    <string name="document_default_location">"Tệp sẽ được lưu vào "</string>
     <string name="document_effect">Hiệu ứng</string>
     <string name="document_grayscale">Xám</string>
     <string name="document_grayscale_tip_msg">Đang chuyển đổi tài liệu sang màu xám...</string>
@@ -265,7 +265,7 @@
     <string name="document_ocr">OCR</string>
     <string name="document_ocr_fail">Không thể nhận dạng văn bản. Xoay ảnh sao cho phù hợp với hướng thiết bị của bạn và thử lại.</string>
     <string name="document_ocr_fail_no_text">Không thể nhận dạng văn bản. Chọn và bắt đầu lại.</string>
-    <string name="document_ocr_result_copy">Sao chép văn bản</string>
+    <string name="document_ocr_result_copy">Sao chép</string>
     <string name="document_ocr_result_save">Lưu vào Ghi chú</string>
     <string name="document_ocr_tip_msg">Đang đọc…</string>
     <string name="document_read">Đọc</string>
@@ -314,8 +314,8 @@
     <string name="email">Email:</string>
     <string name="emails">Email</string>
     <string name="empty" />
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
+    <string name="eras_ad">Công Nguyên</string>
+    <string name="eras_bc">Trước Công Nguyên</string>
     <string name="error_camera_disabled">Quyền truy cập camera đã bị từ chối vì lý do bảo mật</string>
     <string name="error_cannot_connect_camera">"Không thể kết nối với camera"</string>
     <string name="error_empty_result">Không tìm thấy kết quả</string>
@@ -325,7 +325,7 @@
     <string name="error_not_found_excel_activity">Không tìm thấy ứng dụng để mở tệp Excel</string>
     <string name="error_permissions">Máy quét không có các quyền cần thiết để máy hoạt động bình thường. Chuyển đến Cài đặt và kiểm tra quyền để tiếp tục.</string>
     <string name="error_server_error">Đã xảy ra lỗi máy chủ.</string>
-    <string name="evening">CH</string>
+    <string name="evening">Buổi tối</string>
     <string name="examples_form_guide">Cách quét bảng</string>
     <string name="examples_text_guide">Cách quét văn bản</string>
     <string name="expand_button_title">Nâng cao</string>
@@ -348,7 +348,7 @@
     <string name="flash_close">đóng</string>
     <string name="flash_open">mở</string>
     <string name="flight_mode_connecting_to_wifi">Bật Wi-Fi thủ công khi Chế độ máy bay đang bật</string>
-    <string name="fmt_chinese_date">e N</string>
+    <string name="fmt_chinese_date">N tháng e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -411,11 +411,11 @@
     <string name="food_module_thumbs_up">Thích</string>
     <string name="food_module_tip">Đặt thực phẩm bên trong khung quét</string>
     <string name="food_module_title_food">Calo</string>
-    <string name="form_demo_dialog_negative">Nhấn để quét bảng, sau đó xuất dưới dạng tệp Excel.</string>
+    <string name="form_demo_dialog_negative">Chụp để quét bảng, sau đó xuất dưới dạng tệp Excel.</string>
     <string name="form_excel_save_sucess">Lưu tệp Excel thành công</string>
     <string name="form_preview_title">Xem trước bảng Excel</string>
     <string name="form_recognition_crop_hint">Đảm bảo các góc của bảng nằm trong khu vực đã chọn</string>
-    <string name="form_result_export">Xuất sang Excel</string>
+    <string name="form_result_export">Xuất sang tệp Excel</string>
     <string name="form_result_retake_picture">Chụp lại ảnh</string>
     <string name="form_result_title">Xem trước bảng</string>
     <string name="format_error">Mật khẩu không đúng</string>
@@ -449,7 +449,7 @@
     <string name="gravity_left">bên trái</string>
     <string name="gravity_right">bên phải</string>
     <string name="grayscale">Thang độ xám</string>
-    <string name="guide_dialog_use_presentation_file">Demo</string>
+    <string name="guide_dialog_use_presentation_file">Xem thử</string>
     <string name="half_covered_mode">Không ẩn danh</string>
     <string name="hand_query">Kiểm tra đơn hàng</string>
     <string name="heavenly_stems_bing">Bính</string>
@@ -523,7 +523,7 @@
     <string name="low_version_tip">Cập nhật MIUI lên phiên bản mới nhất để có thể sử dụng Máy quét.</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="mi_pay">Mi Pay</string>
-    <string name="midnight">Đêm khuya</string>
+    <string name="midnight">Ban đêm</string>
     <string name="mihome_goto_install">Cài đặt</string>
     <string name="mihome_goto_update">Cập nhật</string>
     <string name="mihome_install_message">Cài đặt và đăng nhập vào ứng dụng Mi Home trước.</string>
@@ -709,7 +709,7 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="pay_no_tip">Không hiện lại</string>
     <string name="pay_save_this_choose">Nhớ lựa chọn của tôi</string>
     <string name="payment_text">Mở bằng %s</string>
-    <string name="pdf_is_being_saved">Đang lưu PDF…</string>
+    <string name="pdf_is_being_saved">Đang lưu tệp PDF…</string>
     <string name="pdf_name">Tên tệp</string>
     <string name="pdf_save_sucess">Lưu thành công</string>
     <string name="peper_batch_filter">Bộ lọc hàng loạt</string>
@@ -796,7 +796,7 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="please_select_an_item">Chọn mục</string>
     <string name="please_try_again_later">Chờ một hoặc hai phút và thử lại</string>
     <string name="pm">CH</string>
-    <string name="ppt_dialog_content">Xuất ghi chú và bản trình bày sang PDF</string>
+    <string name="ppt_dialog_content">Xuất ghi chú và bản trình bày sang tệp PDF</string>
     <string name="ppt_dialog_demo_hint">Quét ghi chú, bản trình bày và tạo tệp PDF</string>
     <string name="ppt_dialog_exit_content">Nếu thoát khỏi trình chỉnh sửa, bạn sẽ mất vĩnh viễn tất cả nội dung đã nhập. Bạn có chắc chắn muốn thoát không?</string>
     <string name="ppt_dialog_exit_title">Thoát trình chỉnh sửa?</string>
@@ -829,7 +829,7 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="ppt_preview_save_photo">Ảnh</string>
     <string name="ppt_preview_save_title">Xuất dưới dạng…</string>
     <string name="ppt_preview_title">Xem trước</string>
-    <string name="ppt_preview_toast_save_pdf">Xuất sang PDF thành công</string>
+    <string name="ppt_preview_toast_save_pdf">Xuất sang tệp PDF thành công</string>
     <string name="ppt_preview_toast_save_photo">Lưu vào Thư viện thành công</string>
     <string name="ppt_preview_transform">Xuất</string>
     <string name="ppt_sort_dialog_content">Dừng chỉnh sửa ngay bây giờ? Các thay đổi của bạn sẽ không được lưu.</string>
@@ -910,11 +910,11 @@ Vui lòng đặt thiết bị theo góc nhìn như trong hình và thử lại"<
     <string name="save_word">Lưu</string>
     <string name="scanHistory">Nhật ký Máy quét</string>
     <string name="scanHistory_close">Tắt</string>
-    <string name="scanHistory_isOpen">Bắt đầu theo dõi nhật ký các mục đã quét ngay bây giờ?</string>
+    <string name="scanHistory_isOpen">Theo dõi nhật ký các mục đã quét ngay bây giờ?</string>
     <string name="scanHistory_open">Bật</string>
     <string name="scan_card">Thẻ</string>
     <string name="scan_card_summary">Quét danh thiếp để tạo danh bạ</string>
-    <string name="scan_character">Quét văn bản</string>
+    <string name="scan_character">Văn bản</string>
     <string name="scan_character_and_paper_summary">Trích xuất văn bản/bài thi viết tay</string>
     <string name="scan_character_guard">Trích xuất và sao chép văn bản từ ảnh</string>
     <string name="scan_character_summary">Trích xuất và sao chép văn bản, xuất văn bản sang tài liệu Word</string>
@@ -930,16 +930,16 @@ Chúng tôi đang khắc phục sự cố. Vui lòng thử lại sau."</string>
 Kết nối mạng và quét lại."</string>
     <string name="scan_content_no_pass_warning">"Văn bản này chứa nội dung bị cấm.
 Thay vào đó, hãy quét một thứ gì khác."</string>
-    <string name="scan_document_top_tip">Quét tài liệu giấy để tạo PDF</string>
-    <string name="scan_document_top_tip_second">Quét nhiều mục để tạo PDF</string>
+    <string name="scan_document_top_tip">Quét tài liệu giấy để tạo tệp PDF</string>
+    <string name="scan_document_top_tip_second">Quét nhiều mục để tạo tệp PDF</string>
     <string name="scan_form">Quét bảng</string>
     <string name="scan_form_guard">Quét bảng để tạo tệp Excel</string>
     <string name="scan_form_top_tip">Quét, lưu và chỉnh sửa bảng</string>
     <string name="scan_general_top_tip">Nhận biết thực vật, con người và sản phẩm</string>
     <string name="scan_pdf">Tạo PDF</string>
-    <string name="scan_pdf_guard">Quét tài liệu giấy để tạo PDF</string>
-    <string name="scan_ppt">PPT</string>
-    <string name="scan_ppt_guard">Quét nội dung để tạo bản trình bày PowerPoint</string>
+    <string name="scan_pdf_guard">Quét tài liệu giấy để tạo tệp PDF</string>
+    <string name="scan_ppt">Quét PPT</string>
+    <string name="scan_ppt_guard">Quét bản trình bày PowerPoint, ghép nối và xuất sang tệp PDF</string>
     <string name="scan_result">Kết quả</string>
     <string name="scan_shop">Xác định sản phẩm</string>
     <string name="scan_support_type">WeChat, Alipay, mã QR, mã vạch</string>
@@ -968,7 +968,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Luôn hỏi</string>
     <string name="setting_default_function">Tính năng mặc định</string>
-    <string name="setting_fifth_banner_content">Quét bảng để tạo tài liệu Excel</string>
+    <string name="setting_fifth_banner_content">Quét bảng để tạo tệp Excel</string>
     <string name="setting_first_banner_content">Xem và làm nhiều hơn với Máy quét Mi AI</string>
     <string name="setting_first_banner_title">Máy quét Mi AI (Máy quét)</string>
     <string name="setting_fourth_banner_content">Quét và sao chép văn bản từ ảnh</string>
@@ -1044,12 +1044,12 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="switch_open">Bật</string>
     <string name="switchover">Chuyển đổi</string>
     <string name="take_a_picture">Camera</string>
-    <string name="take_the_word">Đặt từ vào ô và nhấn để lấy từ</string>
+    <string name="take_the_word">Đặt từ vào ô và chụp để lấy từ</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Điện thoại</string>
     <string name="test_paper_to_handwrite">Bài kiểm tra viết tay</string>
     <string name="test_paper_to_handwrite_dialog_title">Bạn có muốn huỷ bỏ các bức ảnh đã chụp không?</string>
-    <string name="text_extraction_demo_dialog_title">Nhấn để nhận dạng và sao chép văn bản</string>
+    <string name="text_extraction_demo_dialog_title">Chụp văn bản để nhận dạng và sao chép</string>
     <string name="text_general_guide_btn_tips">Hiểu rồi</string>
     <string name="text_general_guide_tips_first">Quét và nhận dạng đối tượng</string>
     <string name="text_general_guide_tips_second">Quét mã, nhận dạng thực vật và tìm các sản phẩm tương tự</string>
@@ -1113,7 +1113,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="today">Hôm nay</string>
     <string name="toinstall">Tải xuống</string>
     <string name="tomorrow">Ngày mai</string>
-    <string name="transfer_document">Chuyển tài liệu</string>
+    <string name="transfer_document">Tài liệu</string>
     <string name="transfer_document_ppt_summary">Quét sang PDF / Trích xuất PPT</string>
     <string name="transfer_document_ppt_table_summary">Quét sang PDF / Trích xuất PPT / Trích xuất bảng Excel</string>
     <string name="transfer_document_summary">Tạo PDF</string>
@@ -1128,7 +1128,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="translate_loading">Đang dịch…</string>
     <string name="translate_long_screen">Dịch cuộn trang</string>
     <string name="translate_overtime">Dịch vụ đã hết thời gian</string>
-    <string name="translate_parallel_2_lines">Đảm bảo văn bản song song với các dòng trên màn hình</string>
+    <string name="translate_parallel_2_lines">Đảm bảo văn bản song song với các đường lưới trên màn hình</string>
     <string name="translate_save_fail">Không thể lưu ghi chú</string>
     <string name="translate_src_lang">Ngôn ngữ nguồn</string>
     <string name="translate_text_compare">So sánh</string>
@@ -1169,7 +1169,7 @@ Thay vào đó, hãy quét một thứ gì khác."</string>
     <string name="url_is_safety">Trang web này an toàn</string>
     <string name="url_is_unknown">Không thể kiểm tra xem trang web này có an toàn không</string>
     <string name="url_is_unsafety">Trang web này không an toàn</string>
-    <string name="use_presentation_file">Demo</string>
+    <string name="use_presentation_file">Xem thử</string>
     <string name="user_agreement">Thoả thuận người dùng</string>
     <string name="user_notification">Rút lại chấp thuận</string>
     <string name="v7_preference_off">TẮT</string>
