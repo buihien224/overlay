@@ -367,7 +367,7 @@
     <string name="edit_date_calculate_days_forward_error_hint">Không thể tính toán ngược</string>
     <string name="edit_event_all_day_label">Cả ngày</string>
     <string name="edit_event_anniversary_name_empty_hint">Nhập tên sự kiện</string>
-    <string name="edit_event_anniversary_name_hint">Biến cố</string>
+    <string name="edit_event_anniversary_name_hint">Sự kiện</string>
     <string name="edit_event_birthday_import_from_contact">Nhập ngày sinh từ danh bạ</string>
     <string name="edit_event_birthday_name_empty_hint">Nhập tên</string>
     <string name="edit_event_birthday_name_hint">Tên</string>
@@ -375,7 +375,7 @@
     <string name="edit_event_choose_date">Chọn ngày</string>
     <string name="edit_event_confirm_message">Loại bỏ những thay đổi?</string>
     <string name="edit_event_countdown_name_empty_hint">Nhập tên sự kiện</string>
-    <string name="edit_event_countdown_name_hint">Biến cố</string>
+    <string name="edit_event_countdown_name_hint">Sự kiện</string>
     <string name="edit_event_custom_reminder_time_dup">Lời nhắc tùy chỉnh: %1$s</string>
     <string name="edit_event_dislike_title">Tại sao bạn hủy tạo chương trình làm việc?</string>
     <string name="edit_event_from_label">Từ</string>
