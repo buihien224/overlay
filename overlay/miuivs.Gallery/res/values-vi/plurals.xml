@@ -143,6 +143,11 @@
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Xóa %d mục?</item>
+        <item quantity="one">Xóa %d mục?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Xóa %d mục?</item>
+        <item quantity="one">Xóa %d mục?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Xóa %d ảnh khỏi tất cả thiết bị và Xiaomi Cloud?</item>

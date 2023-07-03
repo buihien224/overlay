@@ -1055,8 +1055,8 @@ d MMMM"</string>
     <string name="miui_clock_city_name_local">Điện thoại</string>
     <string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng thiết bị Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM - e/N</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM - e/N</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
 dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
@@ -1065,6 +1065,7 @@ dd/MM"</string>
 dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd/MM"</string>
+
     <string name="miui_notification_menu_aggregate_feedback">Phản hồi</string>
     <string name="miui_notification_menu_allow">Cho phép</string>
     <string name="miui_notification_menu_feedback_success">Cảm ơn bạn đã phản hồi!</string>
@@ -1374,26 +1375,37 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="private_dns_mode_provider_hostname_hint">Nhập hostname nhà cung cấp DNS</string>
     <string name="profile_connect_timeout_subtext">Vấn đề kết nối. Tắt và bật lại thiết bị</string>
     <string name="profile_info_settings_title">Thông tin tiểu sử</string>
+    <string name="qs_alarm_tile_no_alarm">Chưa đặt báo thức</string>
+    <string name="qs_bill_message_balance">%1$s %2$s còn lại</string>
+    <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_closed">Tắt</string>
-    <string name="qs_control_big_tile_state_closing">Đang tắt…</string>
+    <string name="qs_control_big_tile_state_closing">Đang tắt...</string>
     <string name="qs_control_big_tile_state_connected">Đã kết nối</string>
-    <string name="qs_control_big_tile_state_connecting">Đang kết nối…</string>
-    <string name="qs_control_big_tile_state_disconnected">Chưa kết nối</string>
-    <string name="qs_control_big_tile_state_disconnecting">Đang ngắt kết nối…</string>
+    <string name="qs_control_big_tile_state_connecting">Đang kết nối...</string>
+    <string name="qs_control_big_tile_state_disconnected">Không được kết nối</string>
+    <string name="qs_control_big_tile_state_disconnecting">Đang ngắt kết nối...</string>
     <string name="qs_control_big_tile_state_opened">Bật</string>
-    <string name="qs_control_big_tile_state_opening">Đang bật…</string>
+    <string name="qs_control_big_tile_state_opening">Đang bật...</string>
     <string name="qs_control_big_tile_state_unavailable">Không khả dụng</string>
-    <string name="qs_control_customize_other_tiles_title">Nút khả dụng</string>
-    <string name="qs_control_customize_save_text">Đã xong</string>
-    <string name="qs_control_customize_sub_title">Kéo thả nút vừa thêm để sắp xếp</string>
-    <string name="qs_control_customize_title">Nút đã thêm</string>
+    <string name="qs_control_customize_other_tiles_title">Chức năng khác</string>
+    <string name="qs_control_customize_save_text">Hoàn tất</string>
+    <string name="qs_control_customize_sub_title">Kéo các chức năng đã thêm để sắp xếp lại</string>
+    <string name="qs_control_customize_title">Chức năng đã thêm</string>
     <string name="qs_control_expand_detail_title">Dữ liệu của tôi</string>
-    <string name="qs_control_header_tiles_title">TT Điều khiển</string>
-    <string name="qs_customize_title">Sửa</string>
-    <string name="qs_dnd_prompt_app">Không làm phiền được bật bởi ứng dụng (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule">Không làm phiền được bật bởi quy tắt tự động (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule_app">Không làm phiền được bật bởi quy tắt tự động hoặc ứng dụng.</string>
+    <string name="qs_control_header_tiles_title">Trung tâm điều khiển</string>
+    <string name="qs_customize_remove">Xóa</string>
+    <string name="qs_customize_title">Chỉnh sửa</string>
+    <string name="qs_dnd_prompt_app">Chế độ Không làm phiền đã được bật bởi ứng dụng (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule">Chế độ Không làm phiền đã được bật bởi quy tắc tự động (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule_app">Chế độ Không làm phiền đã được bật bởi quy tắc tự động hoặc ứng dụng.</string>
     <string name="qs_edit">Chỉnh sửa</string>
+    <string name="qs_tile_request_dialog_add">Thêm chức năng</string>
+    <string name="qs_tile_request_dialog_not_add">Không thêm chức năng</string>
+    <string name="qs_tile_request_dialog_text">%1$s muốn thêm chức năng sau vào Cài đặt nhanh</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s vượt quá giới hạn</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s còn lại</string>
+    <string name="qs_traffic_message_type_used">Đã dùng %1$s %2$s</string>
+    <string name="qs_user_switch_dialog_title">Chọn người dùng</string>
     <string name="qs_open_night_mode_alert_summary">Một số cài đặt hiển thị không tương thích với Chế độ tối. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Chế độ tối.</string>
     <string name="quick_controls_title">điều khiển thiết bị</string>
     <string name="quick_settings_autobrightness_label">Độ sáng tự động</string>
@@ -1653,6 +1665,10 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
 d MMM"</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">"E, dd/MM 
+e/N 'ÂL'"</string>
+    <string name="status_bar_clock_date_weekday_format_brief">E", dd/MM 
+e/N 'ÂL'"</string>
     <string name="status_bar_ethernet">Internet</string>
     <string name="status_bar_settings_auto_rotation">Tự động xoay màn hình</string>
     <string name="status_bar_work">Hồ sơ công việc</string>
@@ -2821,7 +2837,6 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="no_tiles_add">Không có tiêu đề</string>
     <string name="qs_customize">Cho phép nhấn giữ tùy chỉnh Cài đặt nhanh</string>
     <string name="qs_customize_info">Thông tin</string>
-    <string name="qs_customize_remove">Xóa</string>
     <string name="qs_paging">Sử dụng Cài đặt nhanh mới</string>
     <string name="report_rejected_touch">Báo cáo từ chối chạm</string>
     <string name="sos_status_bar_summary">chạm để thoát</string>

@@ -695,4 +695,8 @@ Hãy nghỉ ngơi!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojan: %d</item>
     </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="one">Tối ưu hóa việc sử dụng pin trong %d tình huống</item>
+        <item quantity="other">Tối ưu hóa việc sử dụng pin trong %d tình huống</item>
+    </plurals>
 </resources>
