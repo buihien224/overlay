@@ -12221,4 +12221,9 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="reduce_bright_colors_preference_title">Chế độ giảm độ sáng mạnh</string>
     <string name="reduce_bright_colors_shortcut_title">Phím tắt chế độ giảm độ sáng mạnh</string>
     <string name="reduce_bright_colors_switch_title">Bật chế độ giảm độ sáng mạnh màn hình</string>
+    <string name="search_history_clear_description">Xóa lịch sử tìm kiếm</string>
+    <string name="search_history_description">Lịch sử tìm kiếm</string>
+    <string name="miui_type_style_summary">Kiểu gõ được áp dụng khi Đọc màn hình đang được bật</string>
+    <string name="miui_type_style_title">Kiểu gõ</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Kết nối tai nghe</string>
 </resources>
