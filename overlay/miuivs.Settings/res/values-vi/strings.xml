@@ -12263,4 +12263,6 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="stylus_keyboard_settings_title">Bút và bàn phím</string>
     <string name="conversation_assistant">Công cụ hội nghị</string>
     <string name="miui_device_control_description">Hiển thị các ứng dụng hỗ trợ điều khiển thiết bị để có thể điều khiển các thiết bị nhà thông minh tương thích</string>
+    <string name="application_mode_empty_text">Chưa có ứng dụng nào ở đây</string>
+    <string name="application_mode_name">Bố cục ứng dụng</string>
 </resources>

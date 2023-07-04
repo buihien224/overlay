@@ -5715,4 +5715,10 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="ew_subscribe_search_hint">Tìm kiếm khu vực</string>
     <string name="ew_subscribe_title">Cảnh báo động đất | Đã xảy ra động đất cường độ khoảng %2$s tại %1$s, có thể cảm nhận rung ở %3$s</string>
     <string name="ew_user_feedback">Phản hồi</string>
+    <string name="conversation_settings_top">"·Trượt thanh công cụ Hội nghị ra ngoài trong cuộc gọi âm thanh và video toàn màn hình để truy cập các tính năng của nó.
+·Loại và số lượng tính năng phụ thuộc vào mô hình thiết bị."</string>
+    <string name="conversation_sider_tips">Sử dụng các công cụ Hội nghị mới để có trải nghiệm cuộc gọi tốt nhất</string>
+    <string name="conversation_summary">Làm đẹp, chú thích chữ viết và các tính năng khác trong cuộc gọi âm thanh và video</string>
+    <string name="conversation_title">Công cụ Hội nghị</string>
+    <string name="size_embedded">Cửa sổ song song</string>
 </resources>
