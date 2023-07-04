@@ -12226,4 +12226,41 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="miui_type_style_summary">Kiểu gõ được áp dụng khi Đọc màn hình đang được bật</string>
     <string name="miui_type_style_title">Kiểu gõ</string>
     <string name="accessibility_hearingaid_pair_instructions_title">Kết nối tai nghe</string>
+    <string name="search_result_feedback_text">Không tìm thấy kết quả</string>
+    <string name="tablet_screen_application_adaptation_title">Giao diện tùy chỉnh cho máy tính bảng</string>
+    <string name="tablet_screen_settings_title">Các tính năng cho máy tính bảng</string>
+    <string name="tablet_screen_special_function_title">Các tính năng cho máy tính bảng</string>
+    <string name="fold_application_mode_name">Giao diện ứng dụng</string>
+    <string name="fold_game_adaptation">Giao diện trò chơi</string>
+    <string name="fold_screen_application_adaptation_title">Giao diện tùy chỉnh cho các thiết bị gập</string>
+    <string name="fold_screen_settings_title">Các tính năng cho các thiết bị gập</string>
+    <string name="fold_screen_special_function_title">Các tính năng cho các thiết bị gập</string>
+    <string name="adapt_embedded">Cửa sổ song song có sẵn</string>
+    <string name="device_ime_keyboard_fold">Bàn phím cho các thiết bị gập</string>
+    <string name="device_ime_keyboard_pad">Bàn phím cho máy tính bảng</string>
+    <string name="imitate_real_keyboard">Bàn phím truyền thống</string>
+    <string name="imitate_real_keyboard_summary">Tiện lợi khi thiết bị của bạn đặt trên mặt phẳng</string>
+    <string name="symbol_fast_input">Ký tự đặc biệt</string>
+    <string name="symbol_fast_input_summary">Chạm vào nút được chỉ định để duy trì bàn phím với các ký tự đặc biệt và nhập nhiều ký tự cùng một lúc</string>
+    <string name="separate_keyboard">Bàn phím tiện lợi</string>
+    <string name="separate_keyboard_summary_fold">Phân chia bàn phím thành hai phần bằng một vách ngăn ở giữa để gõ phím thoải mái hơn khi cầm thiết bị bằng cả hai tay</string>
+    <string name="separate_keyboard_summary_pad">Phân chia bàn phím thành hai phần bằng một vách ngăn ở giữa để gõ phím nhanh hơn và thoải mái hơn</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Kéo một ứng dụng từ thanh bên sang giữa màn hình để mở nó trong một cửa sổ động hoặc sang bên để sử dụng chế độ màn hình chia</string>
+    <string name="miui_bubbles_notification">Hộp thoại trò chuyện</string>
+    <string name="miui_bubbles_notification_status_opened">Bật</string>
+    <string name="multi_window_cvw_summary">Kéo góc để chuyển sang chế độ cửa sổ động và điều chỉnh kích thước của nó</string>
+    <string name="multi_window_cvw_summary_global">Kéo góc để chuyển sang chế độ cửa sổ động và điều chỉnh kích thước của nó</string>
+    <string name="freeform_guide_multi_window">Đa nhiệm</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Kéo góc để thu nhỏ một ứng dụng</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Kéo góc để thu nhỏ một ứng dụng</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Nhấn và giữ phần dưới của cửa sổ, và kéo nó đến cạnh trên của màn hình.
+    Chức năng này chỉ hoạt động khi điều hướng hệ thống được đặt thành cử chỉ."</string>
+    <string name="freeform_guide_to_sidehide_title">Ẩn cửa sổ đang bay</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Chạm vào một ứng dụng trên thanh bên để mở nó trong một cửa sổ đang bay.
+    · Kéo một ứng dụng vào giữa màn hình để mở nó trong một cửa sổ đang bay hoặc vào cạnh để sử dụng Chia màn hình."</string>
+    <string name="freeform_vedio_description_pad">Kéo các mục ra khỏi dock để mở cửa sổ đang bay</string>
+    <string name="size_embedded">Cửa sổ song song</string>
+    <string name="stylus_keyboard_settings_title">Bút và bàn phím</string>
+    <string name="conversation_assistant">Công cụ hội nghị</string>
+    <string name="miui_device_control_description">Hiển thị các ứng dụng hỗ trợ điều khiển thiết bị để có thể điều khiển các thiết bị nhà thông minh tương thích</string>
 </resources>
