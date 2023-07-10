@@ -566,7 +566,7 @@
     <string name="unit">Đơn vị</string>
     <string name="unit_temperature">Đơn vị nhiệt độ</string>
     <string name="unit_wind">Đơn vị tốc độ gió</string>
-    <string name="update_night_setting_summary_text">Cập nhật thông tin thời tiết trong khoảng thời gian từ %1$s đến %1$s</string>
+    <string name="update_night_setting_summary_text">Cập nhật thông tin thời tiết trong khoảng thời gian từ 23:00 đến 07:00</string>
     <string name="update_night_setting_title_text">Cập nhật buổi tối tự động</string>
     <string name="update_notification_info">Đang cập nhật dữ liệu trong nền…</string>
     <string name="updated_a_moment_ago">Vừa cập nhật</string>
