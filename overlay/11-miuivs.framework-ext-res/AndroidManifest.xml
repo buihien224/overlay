@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="33"
+    android:versionName="13"
+    android:compileSdkVersion="33"
+    android:compileSdkVersionCodename="13"
+    coreApp="true"
+    package="miuivs.com.miui.rom"
+    platformBuildVersionCode="33"
+    platformBuildVersionName="13">
+    <uses-sdk
+        android:minSdkVersion="33"
+        android:targetSdkVersion="33" />
+    <overlay
+        android:priority="100"
+        android:targetPackage="com.miui.rom"
+        android:isStatic="true" />
+    <application
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>

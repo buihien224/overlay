@@ -3,8 +3,11 @@ dir=$(pwd)
 
 
 recp() {
-	apk=$(basename $1)
-	java -jar $dir/bin/apktool.jar b -f $1 -o output/$apk.temp 
+	apkp=$(ls $dir/overlay | grep $1)
+	apk=${apkp:3}
+	echo $apk
+
+	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk.temp 
 
 	if [[ -f output/$apk.temp  ]]; then
 		zipalign -p -v 4 output/$apk.temp output/$apk.apk
@@ -20,8 +23,10 @@ recp() {
 }
 
 if [[ $1 == "all" ]]; then
-	for i in $(ls overlay); do
-		recp overlay/$i
+	for i in $(ls $dir/overlay); do
+		path=$(basename $i)
+		num=${path:0:2}
+		recp $num
 	done
 else
 	recp $1
