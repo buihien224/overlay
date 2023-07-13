@@ -3944,6 +3944,9 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="location_scanning_wifi_always_scanning_title">Quét Wi‑Fi</string>
     <string name="location_services_preference_title">Dịch vụ vị trí</string>
     <string name="location_services_screen_title">Dịch vụ vị trí</string>
+    <string name="location_settings_footer_general">Các ứng dụng có quyền Trong khi ở gần thiết bị khác có thể xác định vị trí tương đối của các thiết bị được kết nối.</string>
+    <string name="location_settings_footer_learn_more_content_description">Tìm hiểu thêm về Cài đặt Vị trí.</string>
+    <string name="location_settings_footer_location_off">Truy cập vị trí đã bị tắt cho các ứng dụng và dịch vụ. Vị trí thiết bị của bạn vẫn có thể được gửi cho các nhân viên cứu hỏa khi bạn gọi hoặc nhắn tin đến một số khẩn cấp.</string>
     <string name="location_settings_loading_app_permission_stats">Đang tải…</string>
     <string name="location_settings_primary_switch_title">Sử dụng vị trí</string>
     <string name="location_settings_summary_location_off">Tắt</string>
