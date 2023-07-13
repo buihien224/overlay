@@ -1776,4 +1776,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Mỗi ba giây</item>
         <item>Mỗi năm giây</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Chuẩn</item>
+        <item>Cảm ứng</item>
+        <item>Cảm ứng trực tiếp</item>
+    </string-array>
 </resources>

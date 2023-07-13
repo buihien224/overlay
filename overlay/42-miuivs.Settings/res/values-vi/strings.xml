@@ -86,6 +86,8 @@
     <string name="accessibility_button_size_title">Kích thước</string>
     <string name="accessibility_button_summary">Truy cập nhanh các tính năng trợ năng</string>
     <string name="accessibility_button_title">Nút Trợ năng</string>
+    <string name="accessibility_call_vibration_category_title">Cuộc gọi</string>
+    <string name="accessibility_caption_preference_intro">Tùy chỉnh kích thước và kiểu chữ chú thích để dễ đọc hơn</string>
     <string name="accessibility_caption_preference_summary">Không phải tất cả ứng dụng đều hỗ trợ cài đặt chú thích này</string>
     <string name="accessibility_caption_primary_switch_summary">Chỉ cho các ứng dụng được hỗ trợ</string>
     <string name="accessibility_caption_primary_switch_title">Sử dụng phụ đề</string>
@@ -742,10 +744,14 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="auto_brightness_very_low_title">Rất thấp</string>
     <string name="auto_caps">Tự động viết hoa</string>
     <string name="auto_caps_summary">Viết hoa chữ cái đầu tiên trong câu</string>
-    <string name="auto_clean_description">"Thông tin về tính năng này
-1. Chạy tính năng này một hoặc hai lần nếu bạn thấy loa bị che bởi bụi bẩn.
-2. Nếu loa bị che quá nhiều, chạy tính năng này 2-5 lần trong khi lắc điện thoại của bạn với loa úp xuống dưới."</string>
-    <string name="auto_clean_summary">Phát một đoạn âm thanh 30 giây để làm sạch loa</string>
+    <string name="auto_clean_description">"Về tính năng này
+    %3$d. Chạy tính năng này một hoặc hai lần nếu bạn thấy loa bị nhẹ như bị bụi bẩn che phủ.
+    %4$d. Nếu loa bị bịt kín nặng, chạy tính năng này %1$d-%2$d lần trong khi lắc thiết bị với loa hướng xuống."</string>
+    <string name="auto_clean_description_pad">"Về tính năng này
+    Chạy tính năng này một hoặc hai lần nếu bạn thấy loa bị nhẹ như bị bụi bẩn che phủ.
+    Nếu loa bị bịt kín nặng, chạy tính năng này %1$d-%2$d lần trong khi lắc thiết bị với loa hướng xuống."</string>
+    <string name="auto_clean_summary">Phát âm thanh trong 30 giây để làm sạch loa</string>
+    <string name="auto_clean_summary_new">Phát âm thanh trong %d giây để làm sạch loa. Sử dụng tính năng này nhiều lần liên tiếp để loại bỏ lượng bụi đáng kể.</string>
     <string name="auto_clean_title">Làm sạch loa</string>
     <string name="auto_disable_screenbuttons_ask">Hỏi để tắt</string>
     <string name="auto_disable_screenbuttons_auto">Luôn tắt</string>
@@ -2845,13 +2851,17 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="exterior">Bảng màu</string>
     <string name="external_code_size_label">Ứng dụng bộ lưu trữ USB</string>
     <string name="external_data_size_label">Dữ liệu bộ lưu trữ USB</string>
-    <string name="external_ram_dialog_btn_cancel">Để sau</string>
     <string name="external_ram_dialog_btn_ok">Khởi động lại</string>
-    <string name="external_ram_dialog_message">Khởi động lại thiết bị để áp dụng thay đổi.</string>
+    <string name="external_ram_dialog_icon_confirm">Đã hiểu</string>
+    <string name="external_ram_dialog_icon_info">Hệ thống sẽ mở rộng RAM bằng %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Mở rộng bộ nhớ đang bật</string>
+    <string name="external_ram_dialog_message">Khởi động lại thiết bị để áp dụng các thay đổi.</string>
     <string name="external_ram_dialog_title">Khởi động lại thiết bị</string>
-    <string name="external_ram_summary">Thêm %1$s %2$s RAM bằng cách sử dụng bộ nhớ trong. Chỉ sử dụng tính năng này khi có đủ dung lượng bộ nhớ trên thiết bị của bạn.</string>
+    <string name="external_ram_intro">"Tạo thêm RAM bằng việc chiếm dụng bộ nhớ. Chỉ sử dụng tính năng này khi thiết bị của bạn có đủ không gian lưu trữ."</string>
+    <string name="external_ram_remind_toast">Dung lượng lưu trữ đang cạn kiệt. Tạm tắt mở rộng bộ nhớ tạm thời.</string>
+    <string name="external_ram_summary">"Thêm %1$s %2$s RAM bằng cách chiếm dụng bộ nhớ. Chỉ sử dụng tính năng này khi thiết bị của bạn có đủ không gian lưu trữ."</string>
     <string name="external_ram_title">Mở rộng bộ nhớ</string>
-    <string name="external_ram_toast">Không thể sử dụng phần mở rộng bộ nhớ do không đủ dung lượng bộ nhớ</string>
+    <string name="external_ram_toast">"Không thể sử dụng mở rộng bộ nhớ do không đủ không gian lưu trữ"</string>
     <string name="external_source_switch_title">Cho phép từ nguồn này</string>
     <string name="external_source_trusted">Được phép</string>
     <string name="external_source_untrusted">Không được phép</string>
@@ -7476,6 +7486,9 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="time_floating_window">Đồng hồ nổi</string>
     <string name="time_floating_window_summary">Hiển thị đồng hồ trong cửa sổ nổi ở trên ứng dụng khác</string>
     <string name="time_format_category_title">Định dạng thời gian</string>
+    <string name="time_format_entries_1">%d giờ - 1:00 PM</string>
+    <string name="time_format_entries_2">%d giờ - 13:00</string>
+    <string name="time_format_entries_3">Tự động (dựa trên ngôn ngữ hệ thống)</string>
     <string name="time_picker_dialog_title">Đặt thời gian</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_title">Giờ</string>
@@ -12268,4 +12281,7 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="miui_device_control_description">Hiển thị các ứng dụng hỗ trợ điều khiển thiết bị để có thể điều khiển các thiết bị nhà thông minh tương thích</string>
     <string name="application_mode_empty_text">Chưa có ứng dụng nào ở đây</string>
     <string name="application_mode_name">Bố cục ứng dụng</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Bạn sẽ phát âm thanh để làm sạch loa. Điều chỉnh âm lượng lên tối đa để đạt hiệu quả tốt nhất."</string>
+    <string name="dialog_speaker_auto_clean_title_new">Làm sạch loa</string>
+
 </resources>

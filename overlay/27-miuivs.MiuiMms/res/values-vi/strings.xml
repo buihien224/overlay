@@ -270,6 +270,8 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="deliver_status">Trạng thái gửi</string>
     <string name="delivery_report_activity">Báo cáo gửi đi</string>
     <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
+    <string name="dialog_agree">Đồng ý</string>
+    <string name="dialog_cancel">Hủy</string>
     <string name="dialog_choice_all_correct_as_normal">Tất cả tin nhắn từ %s</string>
     <string name="dialog_complain_tips">Cho phép Tin nhắn kết nối mạng để có thể báo cáo các mục.</string>
     <string name="dialog_message_correct_as_ad">Tất cả tin nhắn từ %s (trừ mã xác minh) sẽ được chuyển sang tin nhắn quảng cáo.</string>
@@ -615,14 +617,22 @@ Kiểm tra thẻ SIM của bạn."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Vui lòng chờ…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Không thể tải mục</string>
     <string name="mms">MMS</string>
-    <string name="mms_block_alert_message">Tất cả MMS trừ các tin nhắn được gửi từ người gửi được ủy quyền sẽ bị chặn. Người gửi được ủy quyền bao gồm các nhà cung cấp, hệ thống đặt vé đường sắt quốc gia, v.v.</string>
+    <string name="mms_5g_mms_privacy_policy">Chính sách Riêng tư Tin nhắn 5G</string>
+    <string name="mms_5g_mms_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư Tin nhắn 5G</string>
+    <string name="mms_block_alert_message">Tất cả các tin nhắn MMS trừ những tin nhắn gửi từ người gửi được ủy quyền sẽ bị chặn. Người gửi được ủy quyền bao gồm nhà mạng, hệ thống đặt vé tàu quốc gia, v.v.</string>
     <string name="mms_block_alert_ok">Chặn</string>
     <string name="mms_block_alert_title">Chặn MMS</string>
-    <string name="mms_block_hint">"Người gửi này không có trong liên hệ của bạn.
-Tin nhắn này có thể là rác."</string>
+    <string name="mms_block_hint">"Người gửi này không có trong danh bạ của bạn.
+    Tin nhắn này có thể là tin nhắn không được yêu cầu."</string>
     <string name="mms_block_hint_highlight">Chặn MMS</string>
-    <string name="mms_main_purpose">Để có quyền truy cập vào đầy đủ tính năng của Tin nhắn, hãy bật Tin nhắn Mi và Tin nhắn thông minh.</string>
+    <string name="mms_main_purpose_new">Ứng dụng này cần kết nối internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi đề nghị bạn bật dịch vụ Mi Message và Smart Messaging.</string>
+    <string name="mms_mi_message_main_purpose">Chào mừng đến với Mi Message! Một tin nhắn SMS đi ra cần được gửi để kích hoạt Mi Message. Nhà mạng của bạn sẽ tính phí cho tin nhắn này.</string>
+    <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận hưởng tối đa Mi Message.</string>
+    <string name="mms_mx_privacy_policy">Chính sách Riêng tư Mi Message</string>
+    <string name="mms_smart_msg_main_purpose">Smart Messaging có thể nhận dạng các ID người gửi, cung cấp dịch vụ menu thông minh và xác định các tin nhắn đáng ngờ.</string>
+    <string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Smart Messaging</string>
     <string name="mms_title">Tin nhắn</string>
+    <string name="mms_user_agreement">Thỏa thuận người dùng</string>
     <string name="mobile_charge">Nạp tiền</string>
     <string name="monday">Thứ hai</string>
     <string name="monday_short">Th 2</string>
@@ -736,6 +746,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="mx_reactivate">Kích hoạt lại Tin nhắn Mi</string>
     <string name="mx_recommend_msg">Chạm để bật Tin nhắn Mi</string>
     <string name="mx_stranger_recommend_msg">Chạm để chặn Tin nhắn Mi từ số không xác định</string>
+    <string name="mx_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Mi Message</string>
     <string name="mx_type_guide">Gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh cước phí</string>
     <string name="need_download">Đang đồng bộ…</string>
     <string name="net_sms_subscribed">Đăng ký thành công</string>
@@ -1261,6 +1272,7 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="smart_messages_network_allow_title">Yêu cầu kết nối mạng</string>
     <string name="smart_msg_main_purpose">Tin nhắn Thông minh cung cấp nhận dạng ID người gửi và dịch vụ menu thông minh.</string>
     <string name="smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
+    <string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Smart Messaging</string>
     <string name="smart_msg_upgrade_main_purpose">Tin nhắn thông minh hiện hoạt động với MMS. Bạn sẽ có thể sử dụng nhiều dịch vụ hơn do người gửi cung cấp cũng như nhận tin nhắn ở các định dạng mới.</string>
     <string name="sms_card_partner_label">"Đối tác thẻ SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1318,23 +1330,41 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="sunday_shortest">Cn</string>
     <string name="switch_to_editor">Chế độ biên tập</string>
     <string name="switch_to_menu">Chế độ menu</string>
-    <string name="system_permission_declare_agree">Đồng ý</string>
     <string name="system_permission_declare_disagree">Hủy</string>
     <string name="system_permission_declare_double_link" formatted="false">Đọc và đồng ý với %1s và %2s của chúng tôi trước khi sử dụng tính năng này.</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">Chào mừng sử dụng %1s! %2s</string>
-    <string name="system_permission_declare_no_say_no">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan.
-Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này."</string>
-    <string name="system_permission_declare_privacy_declare">%1s cần thu thập dữ liệu của bạn và yêu cầu các quyền sau để hoạt động bình thường:</string>
-    <string name="system_permission_declare_privacy_declare_new">Ứng dụng này cần kết nối internet và yêu cầu cấp quyền dưới đây để có thể làm việc bình thường:</string>
-    <string name="system_permission_declare_privacy_link">Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với %1s của chúng tôi.</string>
-    <string name="system_permission_declare_revoke_path">Bạn có thể hủy ủy quyền và tắt dịch vụ trong cài đặt Tin nhắn.</string>
+    <string name="system_permission_declare_exit">Thoát</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Chào mừng đến với %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Chào mừng đến với Mi Message!</string>
+    <string name="system_permission_declare_no_say_no">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các quy định của pháp luật, quy định và chính sách riêng tư liên quan.
+    Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này."</string>
+    <string name="system_permission_declare_rcs">Chào mừng đến với 5G Messaging!</string>
+    <string name="system_permission_declare_revoke_path">Bạn có thể rút lại sự ủy quyền và tắt dịch vụ trong cài đặt Tin nhắn.</string>
     <string name="system_permission_declare_single_link">Đọc và đồng ý với %1s của chúng tôi trước khi sử dụng tính năng này.</string>
-    <string name="system_permission_declare_triple_link" formatted="false">Đọc và đồng ý với %1s, %2s và %3s của chúng tôi trước khi sử dụng các tính năng này.</string>
-    <string name="system_permission_declare_use_network">Kết nối mạng</string>
-    <string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
+    <string name="system_permission_declare_smart_message">Chào mừng đến với Smart Messaging!</string>
+    <string name="system_permission_declare_user_agree">Đồng ý</string>
+    <string name="system_permission_disabled">Không được cấp</string>
+    <string name="system_permission_enabled">Được cấp</string>
+    <string name="system_permission_perm_agree_desc">Cho phép ứng dụng này kết nối internet và cấp các quyền hạn tùy chọn để có thể sử dụng tất cả các tính năng của nó.</string>
+    <string name="system_permission_perm_all_purpose">Chào mừng đến với Tin nhắn! Bạn có thể sử dụng ứng dụng này để gửi và nhận tin nhắn văn bản và đa phương tiện.</string>
+    <string name="system_permission_perm_calendar">Để tạo sự kiện Lịch</string>
+    <string name="system_permission_perm_call_log">Để truy cập danh sách liên hệ gần đây khi tạo tin nhắn</string>
+    <string name="system_permission_perm_call_phone">Để thực hiện cuộc gọi</string>
+    <string name="system_permission_perm_get_phone_state">Để truy cập số điện thoại và trạng thái thiết bị</string>
+    <string name="system_permission_perm_location">Để truy cập và chia sẻ vị trí của bạn</string>
+    <string name="system_permission_perm_new_read_sms">Để truy cập nội dung tin nhắn</string>
+    <string name="system_permission_perm_new_receive_mms">Để truy cập nội dung tin nhắn</string>
+    <string name="system_permission_perm_rcs_call_phone">Để nhận, kết thúc và giám sát cuộc gọi</string>
+    <string name="system_permission_perm_read_contact">Để truy cập danh bạ khi tạo tin nhắn</string>
     <string name="system_permission_perm_read_mms">Đọc MMS</string>
-    <string name="system_permission_perm_read_numbers">Đọc số điện thoại</string>
-    <string name="system_permission_perm_send_mms">Gửi MMS</string>
+    <string name="system_permission_perm_read_sms">Cho phép Tin nhắn đọc SMS</string>
+    <string name="system_permission_perm_record_audio">Để ghi âm</string>
+    <string name="system_permission_perm_send_sms">Để gửi tin nhắn văn bản</string>
+    <string name="system_permission_perm_storage">Để lưu trữ và tải lên các tệp đính kèm tin nhắn văn bản</string>
+    <string name="system_permission_perm_takephoto">Để chụp ảnh và video</string>
+    <string name="system_permission_perm_write_contact">Để tạo và chỉnh sửa danh bạ</string>
+    <string name="system_permission_prem_rcs_read_contact">Để hiển thị trạng thái giao hàng của tin nhắn cho các liên hệ trong tin nhắn nhóm 5G</string>
+    <string name="system_permission_requested">Yêu cầu</string>
+    <string name="system_permission_user_privacy">Trước khi bạn tiếp tục, hãy đọc và đồng ý với các điều khoản sau đây.</string>
     <string name="tab_finance">Tài chính</string>
     <string name="tab_message">Tin nhắn</string>
     <string name="tab_promotions">Quảng bá</string>
@@ -1485,4 +1515,5 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
     <string name="zero_sms_feedback_message">Tin nhắn đã báo cáo được tải lên máy chủ của chúng tôi cùng với số điện thoại của người gửi. Những tin nhắn này chỉ được sử dụng để cải thiện tính năng Danh sách chặn.</string>
     <string name="zero_sms_feedback_success">Báo cáo thành công</string>
     <string name="zero_sms_feedback_title">Báo cáo</string>
+
 </resources>
