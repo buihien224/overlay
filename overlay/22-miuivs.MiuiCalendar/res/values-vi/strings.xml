@@ -964,6 +964,7 @@
     <string name="premission_description_log">Để lưu nhật ký</string>
     <string name="premission_description_phone_state">Để xác định thiết bị của bạn dựa trên ID thiết bị</string>
     <string name="premission_description_read_contacts">Để hiển thị ngày sinh nhật của các liên hệ của bạn</string>
+    <string name="premission_description_read_phone_state">Để tự động tắt chuông báo trong khi gọi</string>
     <string name="premission_description_read_write_storage">Để truy cập và lưu các tệp và ảnh trên thiết bị này</string>
     <string name="premission_description_ringtone">Để cài đặt nhạc chuông</string>
     <string name="premission_description_title">Xem và quản lý các sự kiện đã lên lịch</string>

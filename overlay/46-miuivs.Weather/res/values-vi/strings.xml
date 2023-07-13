@@ -601,4 +601,21 @@
     <string name="xiaomi_weather_description_title_remove">Xóa \"Thời tiết\" khỏi Màn hình chính?</string>
     <string name="yes_vote_ratio">Đồng ý %1$s%%</string>
     <string name="yesterday">Hôm qua</string>
+    <string name="setting_about_permission">Quyền hạn</string>
+    <string name="setting_allowed">Được cấp</string>
+    <string name="setting_confirm_to_revoke_permission_msg">Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình với Chính sách Riêng tư của Ứng dụng Thời tiết. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ được xóa trong khoảng thời gian cụ thể theo quy định của luật pháp hiện hành, trừ khi có yêu cầu khác. Vì Ứng dụng Thời tiết cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại sự đồng ý của bạn sẽ được coi là từ chối chấp nhận dịch vụ của Ứng dụng Thời tiết. Rút lại sự đồng ý ngay bây giờ?</string>
+    <string name="setting_confirm_to_revoke_permission_title">Rút lại sự đồng ý</string>
+    <string name="setting_content_promotion">Nội dung quảng cáo</string>
+    <string name="setting_experience_plan_title">Kế hoạch trải nghiệm người dùng</string>
+    <string name="setting_get_location">Truy cập vị trí</string>
+    <string name="setting_not_allowed">Không được cấp</string>
+    <string name="setting_permission_description">Chi tiết quyền hạn</string>
+    <string name="setting_privacy">Riêng tư</string>
+    <string name="setting_privacy_policy_withdrawal_of_Consent">Rút lại sự đồng ý</string>
+    <string name="setting_read_and_write_phone_storage">Truy cập lưu trữ</string>
+    <string name="setting_read_privacy_policy">Xem Chính sách Riêng tư</string>
+    <string name="setting_share_weather_need">Để chia sẻ hình ảnh với thông tin thời tiết</string>
+    <string name="setting_today_news">Thẻ tin tức hôm nay</string>
+    <string name="setting_used_to_display_weather">Để hiển thị thông tin thời tiết liên quan</string>
+    <string name="setting_weather_video">Thẻ video thời tiết</string>
 </resources>
