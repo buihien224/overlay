@@ -12283,5 +12283,14 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="application_mode_name">Bố cục ứng dụng</string>
     <string name="dialog_speaker_auto_clean_content_new">"Bạn sẽ phát âm thanh để làm sạch loa. Điều chỉnh âm lượng lên tối đa để đạt hiệu quả tốt nhất."</string>
     <string name="dialog_speaker_auto_clean_title_new">Làm sạch loa</string>
-
+    <string name="accessibility_vibration_primary_switch_title">Sử dụng rung và phản hồi haptics</string>
+    <string name="accessibility_vibration_setting_disabled_for_silent_mode_summary">Cài đặt bị vô hiệu hóa vì thiết bị được đặt chế độ yên lặng</string>
+    <string name="accessibility_vibration_settings_state_off">Tắt</string>
+    <string name="accessibility_vibration_settings_state_on">Bật</string>
+    <string name="accessibility_vibration_settings_summary">Điều khiển cường độ rung cho các tác dụng khác nhau</string>
+    <string name="accessibility_notification_alarm_vibration_category_title">Thông báo và báo động</string>
+    <string name="accessibility_alarm_vibration_title">Rung báo động</string>
+    <string name="accessibility_interactive_haptics_category_title">Phản hồi haptics tương tác</string>
+    <string name="accessibility_media_vibration_title">Rung phương tiện</string>
+    <string name="accessibility_autoclick_intro_text">Bạn có thể thiết lập chuột kết nối để tự động nhấp chuột khi con trỏ dừng di chuyển trong một khoảng thời gian nhất định</string>
 </resources>
