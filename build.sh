@@ -4,32 +4,40 @@ dir=$(pwd)
 
 recp() {
 	apkp=$(ls $dir/overlay | grep $1)
-	apk=${apkp:3}
-	echo $apk
+	apk1=${apkp:3}
+	apk2=miuivs.$apk1
 
-	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk.temp 
+	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
-	if [[ -f output/$apk.temp  ]]; then
-		zipalign -p -v 4 output/$apk.temp output/$apk.apk
-		apksigner sign --ks $dir/bin/miuivs --ks-pass pass:linkcute output/$apk.apk
-		rm -rf output/$apk.temp output/$apk.apk.idsig
+	if [[ -f output/$apk2.temp  ]]; then
+		zipalign -p -v 4 output/$apk2.temp output/$apk2.apk
+		apksigner sign --ks $dir/bin/miuivs --ks-pass pass:linkcute output/$apk2.apk
+		rm -rf output/$apk2.temp output/$apk2.apk.idsig
 		echo "Success"
 
 	else
-		echo $apk >> $dir/error.log
+		echo $apk2 >> $dir/error.log
 		echo "Fail"
 	fi
 
 }
 
-if [[ $1 == "all" ]]; then
+if [[ $1 ]]; then
+	pick=$1
+else
+	ls $dir/overlay
+	echo -n "Enter overlay number: "
+	read pick 
+fi
+
+if [[ $pick == "all" ]]; then
 	for i in $(ls $dir/overlay); do
 		path=$(basename $i)
 		num=${path:0:2}
 		recp $num
 	done
 else
-	recp $1
+	recp $pick
 fi
 
 rm -rf $(find -type d -name build)
