@@ -690,8 +690,6 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">Chưa thêm %d ứng dụng</item>
         <item quantity="one">Chưa thêm %d ứng dụng</item>
     </plurals>
-Hãy nghỉ ngơi!"</item>
-    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d lượt xem</item>
     </plurals>
