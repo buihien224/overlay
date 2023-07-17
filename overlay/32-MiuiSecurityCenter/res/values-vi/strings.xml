@@ -95,7 +95,7 @@
     <string name="access_control_app_is_launching">Đang bắt đầu ứng dụng</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Nhập mật khẩu trước khi mở khóa bằng vân tay mới</string>
     <string name="access_control_fingerprint_not_identified_msg">Không thể đọc vân tay.</string>
-    <string name="access_control_need_password">"%s đã thêm thành côngr
+    <string name="access_control_need_password">"%s đã thêm thành công
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu Khóa ứng dụng</string>
     <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi game</string>
@@ -1143,6 +1143,13 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="btn_text_quick_save_power">Làm mát</string>
     <string name="btn_text_quick_scan">Quét</string>
     <string name="btn_text_stop">Dừng</string>
+	<string name="bubble_app_empty_page">"Không thể tìm thấy ứng dụng hỗ trợ hộp thoại trò chuyện trên thiết bị này"</string>
+    <string name="bubble_app_manage">Quản lý hộp thoại trò chuyện</string>
+    <string name="bubble_mode_barrage_switch_tips">Bật để hiển thị hộp thoại trò chuyện cho các ứng dụng được thu nhỏ dưới dạng nhận xét trên màn hình</string>
+    <string name="bubble_mode_barrage_tips">Hộp thoại trò chuyện cho các ứng dụng được thu nhỏ sẽ hiển thị dưới dạng nhận xét trên màn hình</string>
+    <string name="bubble_notification">Hộp thoại trò chuyện</string>
+    <string name="bubble_notification_switch">Hiển thị hộp thoại trò chuyện</string>
+    <string name="bubble_notification_switch_desc">Khi ứng dụng nhắn tin trong cửa sổ nổi bị ẩn ở cạnh màn hình, hãy hiển thị tin nhắn đến trong hộp thoại</string>
     <string name="button_background_connection">Cho phép</string>
     <string name="button_block_calls_from_cantacts">Bỏ chặn</string>
     <string name="button_block_calls_from_strangers">Bỏ chặn</string>
@@ -2202,6 +2209,11 @@ quan trọng khi chơi game"</string>
     <string name="get_phone_num_fail">Số điện thoại không xác định</string>
     <string name="get_sys_info">Đang nhận thông tin…</string>
     <string name="gigabyteShort">GB</string>
+	<string name="global_dock_guide_desc_with_split_screen">"  Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
+· Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+	<string name="global_dock_guide_desc_without_split_screen">"Nhấn vào một ứng dụng trên Thanh  để mở ứng dụng đó trong cửa sổ nổi.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="global_satisfaction_notification_button">Đánh giá</string>
     <string name="global_satisfaction_notification_subhead">Cho chúng tôi biết trải nghiệm của bạn</string>
     <string name="global_satisfaction_notification_title">Đánh giá thiết bị này</string>
@@ -2210,7 +2222,7 @@ quan trọng khi chơi game"</string>
     <string name="gmscore_support_remind">Bật tính năng này nếu bạn gặp sự cố khi sử dụng Gmail, Google Map và các ứng dụng khác của Google. Điều này sẽ giảm nhẹ thời gian sử dụng pin.</string>
     <string name="gmscore_support_service">Dịch vụ cơ bản của Google</string>
     <string name="go_to">Đã tiến hành</string>
-    <string name="go_to_mi_sim">Tap to use Mi SIM.</string>
+    <string name="go_to_mi_sim">chạm để dùng Mi Sim.</string>
     <string name="go_to_send">Gửi</string>
     <string name="go_to_setting_fingerprint">Cài đặt</string>
     <string name="google_base_app_fail">Không thể tải xuống. Kiểm tra xem Bảo mật có được phép kết nối với internet không.</string>

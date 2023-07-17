@@ -3072,8 +3072,8 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="flashback_open_switch_summary">Hiển thị thông tin chính khi ứng dụng được hiển thị dưới dạng cửa sổ nổi</string>
     <string name="flashback_open_switch_title">Thẻ ứng dụng</string>
     <string name="flashback_shansong_summary">Hiển thị tiến trình giao hàng</string>
-    <string name="flashback_status_close">TẮT</string>
-    <string name="flashback_status_open">BẬT</string>
+    <string name="flashback_status_close">Tắt</string>
+    <string name="flashback_status_open">Bật</string>
     <string name="flashback_summary">Hiển thị thông tin chính khi ứng dụng được hiển thị dưới dạng cửa sổ nổi</string>
     <string name="flashback_support_apps_title">Chọn ứng dụng để thêm từ bên dưới</string>
     <string name="flashback_title">Thẻ ứng dụng</string>
