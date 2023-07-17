@@ -7,8 +7,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -78,8 +78,8 @@
     <string name="accessibility_desc_work_lock">Màn hình khóa công việc</string>
     <string name="accessibility_detail_switch">Chuyển ô</string>
     <string name="accessibility_detail_switch_disable">Không có</string>
-    <string name="accessibility_detail_switch_off">TẮT</string>
-    <string name="accessibility_detail_switch_on">BẬT</string>
+    <string name="accessibility_detail_switch_off">Tắt</string>
+    <string name="accessibility_detail_switch_on">Bật</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm có thể ảnh hưởng đến hiệu suất.</string>
     <string name="accessibility_display_daltonizer_preference_title">Hiệu chỉnh màu sắc</string>
     <string name="accessibility_divider">Đường chia màn hình</string>
@@ -418,7 +418,7 @@ Tốc độ lấy mẫu"</string>
     <string name="carrier_network_change_mode">Đang chuyển mạng</string>
     <string name="category_personal">Cá nhân</string>
     <string name="category_work">Công việc</string>
-    <string name="cell_data_off">TẮT</string>
+    <string name="cell_data_off">Tắt</string>
     <string name="cell_data_off_content_description">tắt</string>
     <string name="character_counter_content_description">Ký tự đã nhập %1$d trên %2$d</string>
     <string name="character_counter_overflowed_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
@@ -1882,8 +1882,8 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="user_setup_dialog_title">Thiết lập người dùng ngay bây giờ?</string>
     <string name="user_setup_profile_dialog_message">Thiết lập tiểu sử ngay bây giờ?</string>
     <string name="user_switch_to_user">Chuyển sang %s</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra hành vi gây hại của ứng dụng đã cài đặt qua ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="voice_assist_label">Mở Trợ thoại</string>
@@ -1942,8 +1942,8 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="wifi_display_certification">Chứng chỉ hiển thị không dây</string>
     <string name="wifi_display_certification_summary">Hiển thị tùy chọn chứng chỉ hiển thị không dây</string>
     <string name="wifi_fail_to_scan">Không thể quét mạng</string>
-    <string name="wifi_hotspot_switch_off_text">TẮT</string>
-    <string name="wifi_hotspot_switch_on_text">BẬT</string>
+    <string name="wifi_hotspot_switch_off_text"Tắt</string>
+    <string name="wifi_hotspot_switch_on_text">Bật</string>
     <string name="wifi_is_off">Wi-Fi tắt</string>
     <string name="wifi_limited_connection">Đã hạn chế kết nối</string>
     <string name="wifi_metered_label">Đã đo</string>
@@ -2748,8 +2748,8 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="status_bar_no_notifications_title">Không có thông báo</string>
     <string name="status_bar_notification_app_settings_title">Cài đặt %s</string>
     <string name="status_bar_ongoing_events_title">Đang thực hiện</string>
-    <string name="status_bar_settings_auto_brightness_label">TỰ ĐỘNG</string>
-    <string name="status_bar_settings_mute_label">TẮT TIẾNG</string>
+    <string name="status_bar_settings_auto_brightness_label">Tự động</string>
+    <string name="status_bar_settings_mute_label">Tắt tiếng</string>
     <string name="status_bar_settings_notifications">Thông báo</string>
     <string name="status_bar_settings_settings_button">Cài đặt</string>
     <string name="status_bar_use_physical_keyboard">Bàn phím vật lý</string>

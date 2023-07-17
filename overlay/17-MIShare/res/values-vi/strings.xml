@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -483,8 +483,8 @@ Trước khi sử dụng Mi Share, bạn phải cấp các quyền sau, cũng nh
     <string name="uwb_summary">Beam sử dụng công nghệ UWB để nhận dạng thiết bị mục tiêu không dây. Chuyển các mục giữa các thiết bị được hỗ trợ bởi công nghệ UWB nhanh và tiện lợi hơn.</string>
     <string name="uwb_support_device">"Thiết bị tương thích: "</string>
     <string name="uwb_title">Beam</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="view_file">Xem</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>

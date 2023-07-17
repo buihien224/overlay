@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on"Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -141,10 +141,10 @@
     <string name="community_cta_dialog_title">Lối tắt Đồng hồ</string>
     <string name="community_entrance_summary">Tìm nội dung liên quan đến chủ đề trong Cộng đồng Mi. Tính năng này hỗ trợ bởi chủ đề đã chọn.</string>
     <string name="community_entrance_title">Tiện ích đồng hồ Cộng đồng Mi</string>
-    <string name="community_message_trigger_disabled">TẮT</string>
-    <string name="community_message_trigger_triggered">BẬT</string>
+    <string name="community_message_trigger_disabled">Tắt</string>
+    <string name="community_message_trigger_triggered">Bật</string>
     <string name="component_backup_preference_title">Sao lưu chủ đề</string>
-    <string name="component_category_more_title">NÂNG CAO</string>
+    <string name="component_category_more_title">Nâng cao</string>
     <string name="component_title_ringtone">Nhạc chuông</string>
     <string name="component_title_settings_video_wallpaper">Hình nền với hiệu ứng đặc biệt</string>
     <string name="component_title_video_wallpaper">Phim hình nền</string>
@@ -1304,8 +1304,8 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="the_valentines_day">Lễ Tình Nhân</string>
     <string name="theme_no">Không</string>
     <string name="time_picker_label_hour">Giờ</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="exo_track_mono">Đơn âm</string>
     <string name="vip_level_dialog_positive">Tôi biết</string>
     <string name="vip_level_dialog_title">Mẹo</string>

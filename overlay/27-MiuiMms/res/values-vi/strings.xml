@@ -22,8 +22,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -1489,8 +1489,8 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="url_scanning">Đang kiểm tra URL…</string>
     <string name="user_agreement">Thỏa thuận Người dùng</string>
     <string name="user_term">Thỏa thuận Người dùng</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verification_code_list_title">Mã xác minh</string>
     <string name="verification_code_safety_warning">Không tiết lộ các mã này cho người khác</string>
     <string name="view">Xem</string>

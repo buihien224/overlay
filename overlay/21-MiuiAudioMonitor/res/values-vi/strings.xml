@@ -7,8 +7,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -226,7 +226,7 @@ Note that infringement of other people's privacy rights is illegal. You may not 
     <string name="the_anti_aggression_day">Ngày phản chiến</string>
     <string name="the_arbor_day">Tết Trồng Cây</string>
     <string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
-    <string name="the_armys_day">PLA Day</string>
+    <string name="the_armys_day">Ngày thành lập Quân </string>
     <string name="the_childrens_day">Ngày Thiếu Nhi</string>
     <string name="the_chinese_youth_day">Ngày Thanh Niên</string>
     <string name="the_christmas_day">Giáng Sinh</string>
@@ -275,9 +275,9 @@ Note that infringement of other people's privacy rights is illegal. You may not 
     <string name="tuesday">Thứ ba</string>
     <string name="tuesday_short">Th 3</string>
     <string name="tuesday_shortest">Th 3</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
-    <string name="verify">OK</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
+    <string name="verify">Ok</string>
     <string name="voice_noise_reduction_open">Bật tối ưu voiceprint</string>
     <string name="voice_opti_always_on">Tối ưu voiceprint</string>
     <string name="voice_opti_summer">Lọc tiếng ồn và giữ cho giọng nói của bạn được rõ. Bạn cần phải bật tính năng này theo cách thủ công mọi lúc.</string>
@@ -292,7 +292,7 @@ Lưu ý rằng vi phạm quyền riêng tư của người khác là bất hợp
     <string name="voip_notice">Chạm để hiển thị %s</string>
     <string name="voipcord_privacy">Chính sách Riêng tư</string>
     <string name="voiprecord_always_on">Ghi âm cuộc gọi tự động</string>
-    <string name="voiprecord_open">Ghi âm Cuộc gọi Thoại</string>
+    <string name="voiprecord_open">Ghi âm Cuộc gọi thoại</string>
     <string name="wechat">WeChat</string>
     <string name="wednesday">Thứ tư</string>
     <string name="wednesday_short">Th 4</string>

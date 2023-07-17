@@ -10,8 +10,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -2438,8 +2438,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="user_switch_to_user">Chuyển sang %s</string>
     <string name="username_title">Tên người dùng</string>
     <string name="ussdRunning">Mã USSD đang chạy…</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="vice_card_data_in_use_alert">Có thể phát sinh thêm phí dữ liệu.</string>
