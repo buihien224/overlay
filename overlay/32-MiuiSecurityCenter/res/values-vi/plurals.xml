@@ -680,7 +680,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%d ứng dụng</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">Bạn đã xem video trong %d giờ.
+        <item quantity="other">Bạn đã xem video trong %d giờ.</item>
     </plurals>
     <plurals name="added_apps_count">
         <item quantity="other">Đã thêm %d ứng dụng</item>
