@@ -190,8 +190,8 @@
     <string name="accessibility_service_warning_description">Kiểm soát hoàn toàn giúp bạn với nhu cầu trợ năng, nhưng không phải cho hầu hết ứng dụng.</string>
     <string name="accessibility_shortcut_disabling_service">Đã tắt phím tắt trợ năng %1$s</string>
     <string name="accessibility_shortcut_enabling_service">Đã bật phím tắt trợ năng %1$s</string>
-    <string name="accessibility_shortcut_menu_item_status_off">TẮT</string>
-    <string name="accessibility_shortcut_menu_item_status_on">BẬT</string>
+    <string name="accessibility_shortcut_menu_item_status_off">Tắt</string>
+    <string name="accessibility_shortcut_menu_item_status_on">Bật</string>
     <string name="accessibility_shortcut_multiple_service_warning">"Giữ cả hai phím âm lượng trong vài giây sẽ bật tính năng trợ năng. Nó có thể thay đổi cách thiết bị hoạt động.
 
 Tính năng hiện tại:
@@ -377,8 +377,8 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="capability_title_canRequestTouchExploration">Bật Khám phá bằng cách chạm</string>
     <string name="capability_title_canRetrieveWindowContent">Truy xuất nội dung cửa sổ</string>
     <string name="capability_title_canTakeScreenshot">Chụp ảnh màn hình</string>
-    <string name="capital_off">TẮT</string>
-    <string name="capital_on">BẬT</string>
+    <string name="capital_off">Tắt</string>
+    <string name="capital_on">Bật</string>
     <string name="car_loading_profile">Đang tải</string>
     <string name="car_mode_disable_notification_message">Nhấn để thoát khỏi ứng dụng lái xe.</string>
     <string name="car_mode_disable_notification_title">Ứng dụng lái xe đang chạy</string>
@@ -650,13 +650,13 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="global_action_restart">Khởi động lại</string>
     <string name="global_action_screenshot">Chụp ảnh màn hình</string>
     <string name="global_action_settings">Cài đặt</string>
-    <string name="global_action_silent_mode_off_status">Âm thanh BẬT</string>
-    <string name="global_action_silent_mode_on_status">Âm thanh TẮT</string>
+    <string name="global_action_silent_mode_off_status">Âm thanh tắt</string>
+    <string name="global_action_silent_mode_on_status">Âm thanh bật</string>
     <string name="global_action_toggle_silent_mode">Chế độ im lặng</string>
     <string name="global_action_voice_assist">Trợ lý thoại</string>
     <string name="global_actions">Tùy chọn điện thoại</string>
-    <string name="global_actions_airplane_mode_off_status">Chế độ trên máy bay TẮT</string>
-    <string name="global_actions_airplane_mode_on_status">Chế độ trên máy bay BẬT</string>
+    <string name="global_actions_airplane_mode_off_status">Chế độ trên máy bay tắt</string>
+    <string name="global_actions_airplane_mode_on_status">Chế độ trên máy bay bật</string>
     <string name="global_actions_toggle_airplane_mode">Chế độ trên máy bay</string>
     <string name="gpsNotifMessage">Được yêu cầu bởi %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Yêu cầu vị trí từ %s</string>
@@ -1151,9 +1151,9 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
-    <string name="peerTtyModeFull">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ ĐẦY ĐỦ</string>
+    <string name="peerTtyModeFull">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ đầy đủ</string>
     <string name="peerTtyModeHco">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ HCO</string>
-    <string name="peerTtyModeOff">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ TẮT</string>
+    <string name="peerTtyModeOff">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ Tắt</string>
     <string name="peerTtyModeVco">TTY theo yêu cầu của thiết bị ngang hàng ở chế độ VCO</string>
     <string name="perm_costs_money">Bạn có thể mất tiền vì điều này</string>
     <string name="permdesc_acceptHandovers">Cho phép ứng dụng tiếp tục cuộc gọi được bắt đầu trong một ứng dụng khác.</string>
@@ -1962,8 +1962,8 @@ Bạn có muốn đóng trang không?"</string>
     <string name="disable_tether_notification_title">Đã tắt tính năng chia sẻ kết nối</string>
     <string name="email_desc">Gửi email đến địa chỉ đã chọn</string>
     <string name="fingerprint_not_recognized">Không nhận dạng được</string>
-    <string name="global_action_battery_saver_off_status">Trình tiết kiệm pin đang BẬT</string>
-    <string name="global_action_battery_saver_on_status">Trình tiết kiệm pin đang TẮT</string>
+    <string name="global_action_battery_saver_off_status">Trình tiết kiệm pin đang tắt</string>
+    <string name="global_action_battery_saver_on_status">Trình tiết kiệm pin đang bật</string>
     <string name="global_action_toggle_battery_saver">Trình tiết kiệm pin</string>
     <string name="map_desc">Tìm địa chỉ đã chọn</string>
     <string name="permgrouprequest_calendar">Cho phép &lt;b>%1$s&lt;/b> truy cập vào lịch của bạn?</string>

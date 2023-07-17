@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Nhìn tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Xóa bỏ</string>
@@ -1424,8 +1424,8 @@
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Bạn phải đồng ý với %1$s và %2$s của chúng tôi trước khi sử dụng Lịch. Để cung cấp dữ liệu chính xác về các ngày lễ, sinh nhật của địa phương, hoàn trả bằng thẻ tín dụng và các chuyến đi đã lên kế hoạch, Lịch cần truy cập vị trí, danh bạ và tin nhắn của bạn cũng như kết nối với internet. Đồng ý?</string>
     <string name="user_notice_title">Chú ý</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="valentines_day">Ngày lễ tình nhân</string>
     <string name="valentines_day_tradition">Ngày lễ tình nhân</string>
     <string name="vernal_equinox">Lập xuân</string>

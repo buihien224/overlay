@@ -681,6 +681,15 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
         <item quantity="other">"Bạn đã xem video trong %d giờ.
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Đã thêm %d ứng dụng</item>
+        <item quantity="one">Đã thêm %d ứng dụng</item>
+    </plurals>
+     <plurals name="not_added_apps_count">
+        <item quantity="other">Chưa thêm %d ứng dụng</item>
+        <item quantity="one">Chưa thêm %d ứng dụng</item>
+    </plurals>
 Hãy nghỉ ngơi!"</item>
     </plurals>
     <plurals name="view_num">

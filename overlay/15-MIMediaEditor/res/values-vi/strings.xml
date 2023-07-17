@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -153,7 +153,7 @@
     <string name="beauty_skin_beauty_category_even_skin">Điều màu</string>
     <string name="beauty_skin_beauty_category_eyebrow_enhancement">Kẻ mày</string>
     <string name="beauty_skin_beauty_category_freckle_and_acne">Khuyết điểm</string>
-    <string name="beauty_skin_beauty_category_freckle_and_acne_state_on">BẬT</string>
+    <string name="beauty_skin_beauty_category_freckle_and_acne_state_on">Bật</string>
     <string name="beauty_skin_beauty_category_microdermabrasion">Lỗ chân lông</string>
     <string name="beauty_skin_beauty_category_remove_dark_circles">Quầng thâm</string>
     <string name="beauty_skin_beauty_category_skin_texture">Họa tiết</string>
@@ -1432,8 +1432,8 @@
     <string name="user_agreement4">Chính sách Riêng tư</string>
     <string name="user_notice_identify_summary_format">&lt;Data>Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a> của Xiaomi.&lt;/Data></string>
     <string name="user_notice_title">Điều khoản và Điều kiện</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="video_analytic_cancel">Hủy</string>
     <string name="video_analytic_download">Tải xuống</string>
     <string name="video_analytic_download_failed_for_notwork">Không thể tải xuống. Kiểm tra cài đặt mạng và thử lại.</string>

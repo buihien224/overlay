@@ -9,8 +9,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
@@ -55,7 +55,7 @@
     <string name="access_control_reset_by_account">Đăng nhập vào Tài khoản Mi để đặt lại mật khẩu</string>
     <string name="access_point_names">Tên điểm truy cập</string>
     <string name="accessibility_autoclick_custom_title">Tùy chỉnh</string>
-    <string name="accessibility_autoclick_default_title">TẮT</string>
+    <string name="accessibility_autoclick_default_title"Tắt</string>
     <string name="accessibility_autoclick_description">Nếu bạn đang sử dụng chuột, bạn có thể cài đặt cho con trỏ tự động thực hiện hành động khi nó dừng di chuyển trong một khoảng thời gian nhất định.</string>
     <string name="accessibility_autoclick_long_summary">1 giây</string>
     <string name="accessibility_autoclick_long_title">Dài</string>
@@ -239,11 +239,11 @@ Lưu ý: Nhấn ba lần để thu phóng toàn bộ trừ bàn phím và thanh 
     <string name="accessibility_shortcut_type_software">Nút Trợ năng</string>
     <string name="accessibility_shortcut_type_software_gesture">Vuốt lên từ cạnh dưới bằng hai ngón tay</string>
     <string name="accessibility_shortcut_type_triple_tap">Chạm ba lần màn hình</string>
-    <string name="accessibility_summary_shortcut_disabled">TẮT</string>
+    <string name="accessibility_summary_shortcut_disabled">Tắt</string>
     <string name="accessibility_summary_shortcut_enabled">Lối tắt trên</string>
     <string name="accessibility_summary_source">Cung cấp bởi %s</string>
-    <string name="accessibility_summary_state_disabled">TẮT</string>
-    <string name="accessibility_summary_state_enabled">BẬT</string>
+    <string name="accessibility_summary_state_disabled">Tắt</string>
+    <string name="accessibility_summary_state_enabled">Bật</string>
     <string name="accessibility_summary_state_stopped">Không hoạt động. Chạm để xem thông tin.</string>
     <string name="accessibility_sync_disabled">Đồng bộ hóa đã bị tắt</string>
     <string name="accessibility_sync_enabled">Đồng bộ hóa đã được bật</string>
@@ -346,8 +346,8 @@ Lưu ý: Nhấn ba lần để thu phóng toàn bộ trừ bàn phím và thanh 
     <string name="activity_title_power_manager">Tiết kiệm pin; Tiết kiệm pin</string>
     <string name="ad_service">Dịch vụ quảng cáo</string>
     <string name="adaptive_battery_main_switch_title">Sử dụng Pin Thích nghi</string>
-    <string name="adaptive_connectivity_switch_off">TẮT</string>
-    <string name="adaptive_connectivity_switch_on">BẬT</string>
+    <string name="adaptive_connectivity_switch_off">Tắt</string>
+    <string name="adaptive_connectivity_switch_on"Bật</string>
     <string name="adaptive_sleep_contextual_slice_summary">Giữ màn hình bật khi nhìn vào</string>
     <string name="adaptive_sleep_contextual_slice_title">Bật chú ý màn hình</string>
     <string name="adaptive_sleep_description">Màn hình của bạn sẽ không mờ đi và tắt nếu phát hiện bạn nhìn vào.</string>
@@ -775,8 +775,8 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="auto_restore_summary">Khi cài đặt lại một ứng dụng, khôi phục dữ liệu và cài đặt đã sao lưu</string>
     <string name="auto_restore_title">Tự động khôi phục</string>
     <string name="auto_rotate_manage_permission_button">Quản lý quyền truy cập</string>
-    <string name="auto_rotate_option_off">TẮT</string>
-    <string name="auto_rotate_option_on">BẬT</string>
+    <string name="auto_rotate_option_off">Tắt</string>
+    <string name="auto_rotate_option_on"Bật</string>
     <string name="auto_rule">Hẹn giờ</string>
     <string name="auto_silent">Hẹn giờ bật</string>
     <string name="auto_startup_application_manage">Tự khởi chạy</string>
@@ -1350,8 +1350,8 @@ Tốc độ lấy mẫu"</string>
     <string name="bluetooth_select_avrcp_version_string">Bluetooth phiên bản AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Chọn phiên bản Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Phiên bản Bluetooth MAP</string>
-    <string name="bluetooth_setting_off">TẮT</string>
-    <string name="bluetooth_setting_on">BẬT</string>
+    <string name="bluetooth_setting_off">Tắt</string>
+    <string name="bluetooth_setting_on">Bật</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Quản lý kết nối, đặt tên thiết bị &amp; khả năng phát hiện thiết bị</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -1773,8 +1773,8 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="color_game_led_charging_summary">Sẽ tắt khi pin được sạc</string>
     <string name="color_game_led_color_title">Màu đèn</string>
     <string name="color_game_led_end_time">Thời gian kết thúc</string>
-    <string name="color_game_led_feature_off">TẮT</string>
-    <string name="color_game_led_feature_on">BẬT</string>
+    <string name="color_game_led_feature_off">Tắt</string>
+    <string name="color_game_led_feature_on"Bật</string>
     <string name="color_game_led_freq_title">Tần số nhấp nháy</string>
     <string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc Trò chơi bật</string>
     <string name="color_game_led_game_mode_title">Tăng tốc Trò chơi</string>
@@ -2723,7 +2723,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="enable_verbose_vendor_logging">Cho phép ghi nhật ký verbose</string>
     <string name="enable_verbose_vendor_logging_summary">Bao gồm nhật ký nhà cung cấp cụ thể cho thiết bị bổ sung trong các báo cáo lỗi, có thể chứa thông tin cá nhân, sử dụng nhiều pin hơn và / hoặc sử dụng nhiều bộ nhớ hơn.</string>
     <string name="enable_wifi_display">Hiển thị không dây</string>
-    <string name="enabled">BẬT</string>
+    <string name="enabled">Bật</string>
     <string name="enabled_authorised_apps_summary">Ủy quyền của bạn sẽ được hủy sau khi bạn chuyển sang ứng dụng cá nhân.</string>
     <string name="enabled_authorised_apps_title">Đã cấp ủy quyền</string>
     <string name="enabled_by_admin">Đã bật bởi Quản trị viên</string>
@@ -4404,7 +4404,7 @@ Có người dùng khác trên thiết bị này.
     <string name="miheadset_RightEar">Bên phải</string>
     <string name="miheadset_active">Quyền lực</string>
     <string name="miheadset_adaptive">Tự động</string>
-    <string name="miheadset_ancClosed">TẮT</string>
+    <string name="miheadset_ancClosed">Tắt</string>
     <string name="miheadset_ancDepth">Sâu</string>
     <string name="miheadset_ancEquilibrium">Cân bằng</string>
     <string name="miheadset_ancHigh">Cao</string>
@@ -4422,7 +4422,7 @@ Có người dùng khác trên thiết bị này.
     <string name="miheadset_call_assist">Gọi AI</string>
     <string name="miheadset_cancel_device">Hủy</string>
     <string name="miheadset_checkUpdate">Kiểm tra cập nhật</string>
-    <string name="miheadset_closeAnc">TẮT</string>
+    <string name="miheadset_closeAnc">Tắt</string>
     <string name="miheadset_connectHeadsetForFw">Kết nối tai nghe để xem phiên bản firmware</string>
     <string name="miheadset_connect_play_music">Tự động phát thông minh khi tai nghe được kết nối</string>
     <string name="miheadset_connect_toast_tips">Kết nối tai nghe trước</string>
@@ -4466,7 +4466,7 @@ Có người dùng khác trên thiết bị này.
     <string name="miheadset_in_ear_check_summary">Tự động tạm dừng hoặc phát nhạc khi bạn đeo hoặc tháo tai nghe</string>
     <string name="miheadset_key_config_ANC_list_title">Kiểm soát tiếng ồn</string>
     <string name="miheadset_key_config_call_ai">Trợ lý thoại</string>
-    <string name="miheadset_key_config_close">TẮT</string>
+    <string name="miheadset_key_config_close"Tắt</string>
     <string name="miheadset_key_config_close_summary">Tắt tính năng khử tiếng ồn và độ trong suốt</string>
     <string name="miheadset_key_config_gesture_control">Cử chỉ</string>
     <string name="miheadset_key_config_next_music">Bài tiếp theo</string>
@@ -4971,8 +4971,8 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
     <string name="nfc_se_wallet_title">Ví tiền mặc định</string>
     <string name="nfc_secure_settings_title">NFC bảo mật</string>
     <string name="nfc_secure_toggle_summary">Cho phép thanh toán NFC và Giao dịch chỉ khi màn hình đã mở khóa</string>
-    <string name="nfc_setting_off">TẮT</string>
-    <string name="nfc_setting_on">BẬT</string>
+    <string name="nfc_setting_off">Tắt</string>
+    <string name="nfc_setting_on">Bật</string>
     <string name="night">CH</string>
     <string name="night_display_activation_off_custom">Tắt đến khi %1$s</string>
     <string name="night_display_activation_off_manual">Tắt ngay</string>
@@ -5039,7 +5039,7 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
     <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
     <string name="not_battery_optimizing">Hiện không sử dụng tối ưu hóa pin</string>
     <string name="not_default_data_content_description">Không đặt để sử dụng dữ liệu</string>
-    <string name="not_enabled">TẮT</string>
+    <string name="not_enabled">Tắt</string>
     <string name="not_installed">Chưa c.đặt cho người dùng này</string>
     <string name="not_set">Chưa đặt</string>
     <string name="notch_and_status_bar_settings">Trung tâm Điều khiển &amp; Bảng thông báo</string>
@@ -5737,7 +5737,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
     <string name="private_dns_help_message"><annotation id="url">Tìm hiểu thêm</annotation> về tính năng DNS riêng tư</string>
     <string name="private_dns_mode_off">Tắt</string>
-    <string name="private_dns_mode_on">BẬT</string>
+    <string name="private_dns_mode_on"Bật</string>
     <string name="private_dns_mode_opportunistic">Tự động</string>
     <string name="private_dns_mode_provider">Hostname nhà cung cấp DNS riêng tư</string>
     <string name="private_dns_mode_provider_failure">Không thể kết nối</string>
@@ -6026,8 +6026,8 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="saved_network">Đã lưu %1$s</string>
     <string name="saved_wifi">Quản lý mạng đã lưu</string>
     <string name="saved_wifi_delete">Xóa</string>
-    <string name="scanning_status_text_off">TẮT</string>
-    <string name="scanning_status_text_on">BẬT</string>
+    <string name="scanning_status_text_off"Tắt</string>
+    <string name="scanning_status_text_on">Bật</string>
     <string name="scanning_status_text_wifi_off_ble_off">Cả quét Wi-Fi và Bluetooth đã tắt</string>
     <string name="scanning_status_text_wifi_off_ble_on">Quét Bluetooth bật, quét Wi-Fi tắt</string>
     <string name="scanning_status_text_wifi_on_ble_off">Quét Wi-Fi bật, quét Bluetooth tắt</string>
@@ -6068,8 +6068,8 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="screen_enhance_engine_sr_pic_summary_video_only">Tăng độ phân giải của video lên đến 1440p. Tính năng này được hỗ trợ bởi ứng dụng đã chọn và làm tăng nhẹ lượng pin tiêu thụ.</string>
     <string name="screen_enhance_engine_sr_title">Siêu phân giải</string>
     <string name="screen_enhance_engine_title">Công cụ hình ảnh AI</string>
-    <string name="screen_enhance_status_disable">TẮT</string>
-    <string name="screen_enhance_status_enable">BẬT</string>
+    <string name="screen_enhance_status_disable">Tắt</string>
+    <string name="screen_enhance_status_enable">Bật</string>
     <string name="screen_fps_summary_power_save">Sử dụng tỷ lệ cố định tiêu thụ ít năng lượng hơn</string>
     <string name="screen_fps_summary_smooth">Một vài ứng dụng sẽ tự động tăng tốc độ làm mới để cải thiện chất lượng hình ảnh</string>
     <string name="screen_fps_title">Tần số quét</string>
@@ -6154,8 +6154,8 @@ Nếu bạn muốn chia sẻ thiết bị với một người khác một cách
 1.\u0009Bật Ghim ứng dụng \u0009
 2.\u0009Mở Tổng quan \u0009
 3.\u0009Chạm biểu tượng phía trên màn hình, và chạm Ghim"</string>
-    <string name="screen_pinning_switch_off_text">TẮT</string>
-    <string name="screen_pinning_switch_on_text">BẬT</string>
+    <string name="screen_pinning_switch_off_text">Tắt</string>
+    <string name="screen_pinning_switch_on_text">Bật</string>
     <string name="screen_pinning_title">Ghim màn hình</string>
     <string name="screen_pinning_unlock_none">Khóa thiết bị khi bỏ khóa màn hình</string>
     <string name="screen_pinning_unlock_password">Hỏi mật khẩu trước khi bỏ khóa màn hình</string>
@@ -7332,9 +7332,9 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="sync_automatically">Tự động đồng bộ hóa dữ liệu ứng dụng</string>
     <string name="sync_calendar">Lịch</string>
     <string name="sync_contacts">Danh bạ</string>
-    <string name="sync_disabled">Đồng bộ hóa TẮT</string>
+    <string name="sync_disabled">Đồng bộ hóa tắt</string>
     <string name="sync_enable">Đồng bộ</string>
-    <string name="sync_enabled">Đồng bộ hóa BẬT</string>
+    <string name="sync_enabled">Đồng bộ hóa bật</string>
     <string name="sync_error">Lỗi đồng bộ hóa</string>
     <string name="sync_failed">Đồng bộ hóa không thành công</string>
     <string name="sync_gmail">Gmail</string>
@@ -8025,8 +8025,8 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_switch_to_user">Chuyển sang %s</string>
     <string name="user_you">Bạn (%s)</string>
     <string name="users_summary">Đã đăng nhập với tên %1$s</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off"Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra hành vi gây hại của ứng dụng đã cài đặt qua ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="version_text">Phiên bản %1$s</string>
@@ -8103,8 +8103,8 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="voice_search_settings_title">Tìm kiếm bằng giọng nói</string>
     <string name="voice_service_preference_section_title">Dịch vụ nhập bằng giọng nói</string>
     <string name="voip_assistant_settings">Trợ lý VoIP</string>
-    <string name="voip_assistant_settings_off">TẮT</string>
-    <string name="voip_assistant_settings_on">BẬT</string>
+    <string name="voip_assistant_settings_off">Tắt</string>
+    <string name="voip_assistant_settings_on">Bật</string>
     <string name="voip_assistant_settings_summary">Ghi lại các cuộc gọi VoIP và sử dụng tính năng tối ưu hóa giọng nói</string>
     <string name="volte_5G_limited_text">"Điều này cũng tắt kết nối 5G của bạn.
 Khi đang gọi thoại, bạn không thể sử dụng mạng và một vài ứng dụng có thể không hoạt động."</string>
@@ -8331,8 +8331,8 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
     <string name="wifi_ap_choose_dual">Kép</string>
     <string name="wifi_ap_hidden_ssid">Ẩn SSID của nó</string>
     <string name="wifi_ap_prefer_5G">Ưu tiên băng tần 5.0 GHz</string>
-    <string name="wifi_ap_ssid_off">TẮT</string>
-    <string name="wifi_ap_ssid_on">BẬT</string>
+    <string name="wifi_ap_ssid_off">Tắt</string>
+    <string name="wifi_ap_ssid_on">Bật</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Điểm truy cập tạm thời đầy</string>
     <string name="wifi_ask_disable">%s muốn tắt Wi-Fi</string>
     <string name="wifi_ask_enable">%s muốn bật Wi-Fi</string>
@@ -8551,8 +8551,8 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
     <string name="wifi_hotspot_off_subtext">Không chia sẻ kết nối Internet của điện thoại này qua điểm phát sóng</string>
     <string name="wifi_hotspot_on_local_only_subtext">Ứng dụng đang chia sẻ nội dung. Để chia sẻ kết nối mạng, tắt điểm phát và bật lại</string>
     <string name="wifi_hotspot_password_title">Mật khẩu điểm phát</string>
-    <string name="wifi_hotspot_switch_off_text">TẮT</string>
-    <string name="wifi_hotspot_switch_on_text">BẬT</string>
+    <string name="wifi_hotspot_switch_off_text">Tắt</string>
+    <string name="wifi_hotspot_switch_on_text">Bật</string>
     <string name="wifi_hotspot_tethering_on_subtext">Chia sẻ kết nối mạng của thiết bị này qua điểm phát sóng</string>
     <string name="wifi_hotspot_title">Đăng nhập để kết nối?</string>
     <string name="wifi_in_airplane_mode">Ở chế độ trên máy bay</string>
@@ -9182,8 +9182,8 @@ Chạm "<b>Quay lại</b> để kết nối với mạng Wi-Fi khác.</string>
     <string name="zen_mode_system_list_first">Âm thanh chạm</string>
     <string name="zen_mode_system_summary">Âm thanh từ bàn phím và các nút khác</string>
     <string name="zen_mode_title">Không làm phiền</string>
-    <string name="zen_mode_turned_off">TẮT</string>
-    <string name="zen_mode_turned_on">BẬT</string>
+    <string name="zen_mode_turned_off">Tắt</string>
+    <string name="zen_mode_turned_on">Bật</string>
     <string name="zen_mode_unknown_app_set_behavior">Cài đặt này không thể thay đổi bây giờ. Không làm phiền được bật bởi một ứng dụng với hành vi tùy chỉnh.</string>
     <string name="zen_mode_use_automatic_rule">Sử dụng quy tắc</string>
     <string name="zen_mode_visual_interruptions_settings_title">Ngăn gián đoạn hình ảnh</string>
@@ -9489,7 +9489,7 @@ Lưu ý: Vân tay của bạn có thể kém an toàn hơn so với hình mở k
     <string name="enable_blurs_on_windows_title">Bật làm mờ</string>
     <string name="enabled_5g_mode_title">Bật 5G</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Chế độ mạng</string>
-    <string name="plmn_failure_radio_off">Chọn mạng thất bại do radio TẮT hoặc không khả dụng</string>
+    <string name="plmn_failure_radio_off">Chọn mạng thất bại do radio tắt hoặc không khả dụng</string>
     <string name="reading_settings">Cài đặt đọc…</string>
     <string name="dialog_network_priority_title">Ưu tiên</string>
     <string name="uplmn_list_setting_add_plmn">PLMN mới</string>
@@ -9536,8 +9536,8 @@ Lưu ý: Vân tay của bạn có thể kém an toàn hơn so với hình mở k
     <string name="bluetooth_fastConnect_resource_load">Tải tài nguyên kết nối Bluetooth nhanh thất bại</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Sử dụng cho LE_AUDIO</string>
     <string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
-    <string name="miui_sos_pa_turn_off">TẮT</string>
-    <string name="miui_sos_pa_turn_on">BẬT</string>
+    <string name="miui_sos_pa_turn_off">Tắt</string>
+    <string name="miui_sos_pa_turn_on">Bật</string>
     <string name="pre_install_app_gallery">Album</string>
     <string name="screen_recorder_title">Quay phim màn hình</string>
     <string name="pre_install_app_camera">Máy ảnh</string>
@@ -10151,8 +10151,8 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="system_alert_window_off">Không</string>
     <string name="write_settings_preference">Quyền sửa đổi cài đặt hệ thống của ứng dụng</string>
     <string name="see_all">Xem tất cả</string>
-    <string name="display_summary_on">Độ sáng thích ứng được BẬT</string>
-    <string name="display_summary_off">Độ sáng thích ứng bị TẮT</string>
+    <string name="display_summary_on">Độ sáng thích ứng được bật</string>
+    <string name="display_summary_off">Độ sáng thích ứng bị tắt</string>
     <string name="user_summary">Đã đăng nhập với tên %1$s</string>
     <string name="location_on_summary">Bật</string>
     <string name="location_off_summary">Tắt</string>
@@ -12141,7 +12141,7 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="var_font_switch_title">Phông chữ điều chỉnh toàn hệ thống</string>
     <string name="subscreen_title">Màn hình phía sau</string>
     <string name="charge_animation_style_video">Rực sáng</string>
-    <string name="charge_animation_style_none">TẮT</string>
+    <string name="charge_animation_style_none">Tắt</string>
     <string name="charge_animation_style_wave">Sóng</string>
     <string name="charge_animation_style_lollipop">Luồng</string>
     <string name="color_game_led_freq_entries">Mỗi %d giây</string>

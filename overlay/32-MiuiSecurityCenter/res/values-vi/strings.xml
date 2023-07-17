@@ -47,8 +47,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off"Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -5172,8 +5172,8 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="use_other_ime_warn">Bàn phím bên thứ ba có thể ghi lại mọi thứ bạn nhập, bao gồm mật khẩu và các thông tin nhạy cảm khác.</string>
     <string name="user_define_title">Thêm quy tắc</string>
     <string name="user_guide">Trượt lên để khám phá thêm nhiều game thú vị</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="vb_advanced_settings">Ảnh</string>
     <string name="vb_advanced_settings_after_open">Sau</string>
     <string name="vb_advanced_settings_before_open">Trước</string>
