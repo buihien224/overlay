@@ -5794,4 +5794,7 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="widget_safe_size_1">23.6</string>
     <string name="widget_safe_title">Rác điện thoại</string>
     <string name="widget_safe_title_1">Chiếm dụng bộ nhớ</string>
+    <string name="app_name_pad">Bảo mật</string>
+    <string name="app_name_phone">Bảo mật</string>
+    <string name="app_name_securitycenter_new">Bảo mật</string>
 </resources>
