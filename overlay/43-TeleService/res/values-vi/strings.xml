@@ -104,6 +104,8 @@
     <string name="additional_gsm_call_settings_with_label">Tùy chọn cài đặt bổ sung (%s)</string>
     <string name="administrative_disable">Đã vô hiệu hóa quản trị</string>
     <string name="administrative_enable">Đã bật quản trị</string>
+    <string name="hide_stk_name">Bộ công cụ sim</string>
+    <string name="stk_name">Bộ công cụ sim</string>
     <string name="advanced_mobile_settings">Cài đặt nâng cao</string>
     <string name="advanced_options_title">Nâng cao</string>
     <string name="advanced_settings">Các mục cài đặt khác</string>
