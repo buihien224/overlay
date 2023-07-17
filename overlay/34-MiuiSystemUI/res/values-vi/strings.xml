@@ -1942,7 +1942,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="wifi_display_certification">Chứng chỉ hiển thị không dây</string>
     <string name="wifi_display_certification_summary">Hiển thị tùy chọn chứng chỉ hiển thị không dây</string>
     <string name="wifi_fail_to_scan">Không thể quét mạng</string>
-    <string name="wifi_hotspot_switch_off_text"Tắt</string>
+    <string name="wifi_hotspot_switch_off_text">Tắt</string>
     <string name="wifi_hotspot_switch_on_text">Bật</string>
     <string name="wifi_is_off">Wi-Fi tắt</string>
     <string name="wifi_limited_connection">Đã hạn chế kết nối</string>

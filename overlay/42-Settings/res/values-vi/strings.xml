@@ -55,7 +55,7 @@
     <string name="access_control_reset_by_account">Đăng nhập vào Tài khoản Mi để đặt lại mật khẩu</string>
     <string name="access_point_names">Tên điểm truy cập</string>
     <string name="accessibility_autoclick_custom_title">Tùy chỉnh</string>
-    <string name="accessibility_autoclick_default_title"Tắt</string>
+    <string name="accessibility_autoclick_default_title">Tắt</string>
     <string name="accessibility_autoclick_description">Nếu bạn đang sử dụng chuột, bạn có thể cài đặt cho con trỏ tự động thực hiện hành động khi nó dừng di chuyển trong một khoảng thời gian nhất định.</string>
     <string name="accessibility_autoclick_long_summary">1 giây</string>
     <string name="accessibility_autoclick_long_title">Dài</string>
@@ -347,7 +347,7 @@ Lưu ý: Nhấn ba lần để thu phóng toàn bộ trừ bàn phím và thanh 
     <string name="ad_service">Dịch vụ quảng cáo</string>
     <string name="adaptive_battery_main_switch_title">Sử dụng Pin Thích nghi</string>
     <string name="adaptive_connectivity_switch_off">Tắt</string>
-    <string name="adaptive_connectivity_switch_on"Bật</string>
+    <string name="adaptive_connectivity_switch_on">Bật</string>
     <string name="adaptive_sleep_contextual_slice_summary">Giữ màn hình bật khi nhìn vào</string>
     <string name="adaptive_sleep_contextual_slice_title">Bật chú ý màn hình</string>
     <string name="adaptive_sleep_description">Màn hình của bạn sẽ không mờ đi và tắt nếu phát hiện bạn nhìn vào.</string>
@@ -776,7 +776,7 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="auto_restore_title">Tự động khôi phục</string>
     <string name="auto_rotate_manage_permission_button">Quản lý quyền truy cập</string>
     <string name="auto_rotate_option_off">Tắt</string>
-    <string name="auto_rotate_option_on"Bật</string>
+    <string name="auto_rotate_option_on">Bật</string>
     <string name="auto_rule">Hẹn giờ</string>
     <string name="auto_silent">Hẹn giờ bật</string>
     <string name="auto_startup_application_manage">Tự khởi chạy</string>
@@ -1774,7 +1774,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="color_game_led_color_title">Màu đèn</string>
     <string name="color_game_led_end_time">Thời gian kết thúc</string>
     <string name="color_game_led_feature_off">Tắt</string>
-    <string name="color_game_led_feature_on"Bật</string>
+    <string name="color_game_led_feature_on">Bật</string>
     <string name="color_game_led_freq_title">Tần số nhấp nháy</string>
     <string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc Trò chơi bật</string>
     <string name="color_game_led_game_mode_title">Tăng tốc Trò chơi</string>
@@ -4466,7 +4466,7 @@ Có người dùng khác trên thiết bị này.
     <string name="miheadset_in_ear_check_summary">Tự động tạm dừng hoặc phát nhạc khi bạn đeo hoặc tháo tai nghe</string>
     <string name="miheadset_key_config_ANC_list_title">Kiểm soát tiếng ồn</string>
     <string name="miheadset_key_config_call_ai">Trợ lý thoại</string>
-    <string name="miheadset_key_config_close"Tắt</string>
+    <string name="miheadset_key_config_close">Tắt</string>
     <string name="miheadset_key_config_close_summary">Tắt tính năng khử tiếng ồn và độ trong suốt</string>
     <string name="miheadset_key_config_gesture_control">Cử chỉ</string>
     <string name="miheadset_key_config_next_music">Bài tiếp theo</string>
@@ -5737,7 +5737,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
     <string name="private_dns_help_message"><annotation id="url">Tìm hiểu thêm</annotation> về tính năng DNS riêng tư</string>
     <string name="private_dns_mode_off">Tắt</string>
-    <string name="private_dns_mode_on"Bật</string>
+    <string name="private_dns_mode_on">Bật</string>
     <string name="private_dns_mode_opportunistic">Tự động</string>
     <string name="private_dns_mode_provider">Hostname nhà cung cấp DNS riêng tư</string>
     <string name="private_dns_mode_provider_failure">Không thể kết nối</string>
@@ -6026,7 +6026,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="saved_network">Đã lưu %1$s</string>
     <string name="saved_wifi">Quản lý mạng đã lưu</string>
     <string name="saved_wifi_delete">Xóa</string>
-    <string name="scanning_status_text_off"Tắt</string>
+    <string name="scanning_status_text_off">Tắt</string>
     <string name="scanning_status_text_on">Bật</string>
     <string name="scanning_status_text_wifi_off_ble_off">Cả quét Wi-Fi và Bluetooth đã tắt</string>
     <string name="scanning_status_text_wifi_off_ble_on">Quét Bluetooth bật, quét Wi-Fi tắt</string>
@@ -8025,7 +8025,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_switch_to_user">Chuyển sang %s</string>
     <string name="user_you">Bạn (%s)</string>
     <string name="users_summary">Đã đăng nhập với tên %1$s</string>
-    <string name="v7_preference_off"Tắt</string>
+    <string name="v7_preference_off">Tắt</string>
     <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra hành vi gây hại của ứng dụng đã cài đặt qua ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>

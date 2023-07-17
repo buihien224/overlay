@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="abc_capital_off">Tắt</string>
-    <string name="abc_capital_on"Bật</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -933,7 +933,7 @@ nGửi mã này cho người giám sát."</string>
 &lt;/Data>"</string>
     <string name="user_license_without_3rd_unicom">"&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href=%3$s>Điều khoản Dịch vụ Xác Thực China Unicom&lt;/a>.
 &lt;/Data>"</string>
-    <string name="v7_preference_off"Tắt</string>
+    <string name="v7_preference_off">Tắt</string>
     <string name="v7_preference_on">Bật</string>
     <string name="vip_account_settings">Cài đặt VIP</string>
     <string name="vip_settings_info">Cài đặt VIP</string>

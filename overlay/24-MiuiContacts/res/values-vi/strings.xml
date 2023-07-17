@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="abc_capital_off">Tắt</string>
-    <string name="abc_capital_on"Bật</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -1181,7 +1181,7 @@ Quá trình nâng cấp yêu cầu khoảng %s MB bộ nhớ trong.
 Chọn một trong các tùy chọn sau:"</string>
     <string name="use_photo_as_primary2">Dùng ảnh liên hệ của %1$s</string>
     <string name="v7_preference_off">Tắt</string>
-    <string name="v7_preference_on"Bật</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="vcard_export_request_rejected_message">Yêu cầu xuất vCard bị từ chối. Hãy thử lại sau.</string>
     <string name="vcard_export_will_start_message">%s sẽ sớm được xuất.</string>
     <string name="vcard_import_failed">Không thể nhập vCard %s.</string>
