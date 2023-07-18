@@ -3871,8 +3871,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím được ủy quyền bởi Xiaomi</string>
     <string name="privacy_input_mode_version_supported">Cập nhật bàn phím của bạn để sử dụng tính năng này</string>
     <string name="privacy_input_model_guide_choose">Tải xuống tính năng nhập giọng ngoại tuyến</string>
-    <string name="privacy_input_model_guide_text">"Tính năng này bảo vệ quyền riêng tư của bạn trong quá trình nhập văn bản. Khi tính năng này được bật, một số chức năng dựa trên mạng (ví dụ: tùy chọn cá nhân hóa, biểu tượng cảm xúc, gõ tiên đoán) sẽ không khả dụng."</string>
-    <string name="privacy_input_model_tips">"Chế độ nhập an toàn đã được bật. Bàn phím của bạn không thể hiển thị cửa sổ pop-up hoặc truy cập vào danh bạ, thông tin vị trí và lịch sử cuộc gọi."</string>
+    <string name="privacy_input_model_guide_text">Tính năng này bảo vệ quyền riêng tư của bạn trong quá trình nhập văn bản. Khi tính năng này được bật, một số chức năng dựa trên mạng (ví dụ: tùy chọn cá nhân hóa, biểu tượng cảm xúc, gõ tiên đoán) sẽ không khả dụng.</string>
+    <string name="privacy_input_model_tips">Chế độ nhập an toàn đã được bật. Bàn phím của bạn không thể hiển thị cửa sổ pop-up hoặc truy cập vào danh bạ, thông tin vị trí và lịch sử cuộc gọi.</string>
     <string name="privacy_lab_empty">Chưa có tính năng nào ở đây</string>
     <string name="privacy_location_info_summary">Quản lý quyền truy cập vị trí của bạn</string>
     <string name="privacy_location_info_title">Thông tin vị trí</string>
