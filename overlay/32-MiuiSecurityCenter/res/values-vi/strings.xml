@@ -3871,8 +3871,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím được ủy quyền bởi Xiaomi</string>
     <string name="privacy_input_mode_version_supported">Cập nhật bàn phím của bạn để sử dụng tính năng này</string>
     <string name="privacy_input_model_guide_choose">Tải xuống tính năng nhập giọng ngoại tuyến</string>
-    <string name="privacy_input_model_guide_text">"Tính năng này bảo vệ quyền riêng tư của bạn trong quá trình nhập văn bản. Khi tính năng này được bật, một số chức năng dựa trên mạng (ví dụ: tùy chọn cá nhân hóa, biểu tượng cảm xúc, gõ tiên đoán) sẽ không khả dụng."</string>
-    <string name="privacy_input_model_tips">"Chế độ nhập an toàn đã được bật. Bàn phím của bạn không thể hiển thị cửa sổ pop-up hoặc truy cập vào danh bạ, thông tin vị trí và lịch sử cuộc gọi."</string>
+    <string name="privacy_input_model_guide_text">Tính năng này bảo vệ quyền riêng tư của bạn trong quá trình nhập văn bản. Khi tính năng này được bật, một số chức năng dựa trên mạng (ví dụ: tùy chọn cá nhân hóa, biểu tượng cảm xúc, gõ tiên đoán) sẽ không khả dụng.</string>
+    <string name="privacy_input_model_tips">Chế độ nhập an toàn đã được bật. Bàn phím của bạn không thể hiển thị cửa sổ pop-up hoặc truy cập vào danh bạ, thông tin vị trí và lịch sử cuộc gọi.</string>
     <string name="privacy_lab_empty">Chưa có tính năng nào ở đây</string>
     <string name="privacy_location_info_summary">Quản lý quyền truy cập vị trí của bạn</string>
     <string name="privacy_location_info_title">Thông tin vị trí</string>
@@ -4337,6 +4337,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="sp_device_security_title">Bảo mật thiết bị</string>
     <string name="sp_eew_summary">Cảnh báo động đất</string>
     <string name="sp_eew_title">Cảnh báo động đất</string>
+	<string name="ew_china_version_first_start_network_msg">Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Nó sẽ thông báo cho bạn về các trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách bảo mật có liên quan. &lt;br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp các cảnh báo động đất chính xác. &lt;br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. &lt;br>Bạn phải đọc và đồng ý với&lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này.</string>
+	<string name="ew_guide_law_text">Chức năng này cung cấp cho bạn tính năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi cơ quan cảnh báo sớm bên thứ ba. Xiaomi không giám sát và không có bất kì sự kiểm soát nào đối với họ. Xiaomi không hứa hẹn và đảm bảo về tính chính xác, hợp lệ và kịp thời về thông tin cảnh báo động đất, cũng không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn. Bạn phải hiểu rằng tính năng này cung cấp cho bạn thông tin chỉ mang tính tham khảo. Bạn hoàn toàn chịu trách nhiệm về các rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
     <string name="sp_empty_title_sign_exception">Giữ ứng dụng để thêm vào danh sách ngoại lệ</string>
     <string name="sp_family_guard_summary">Cung cấp hỗ trợ từ xa</string>
     <string name="sp_family_guard_title">Bảo vệ Gia đình</string>
@@ -4788,6 +4790,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="system_anti_fraud_dialog_message">Bảo vệ chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_title">Cảnh báo chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_title2">Cảnh báo chống lừa đảo</string>
+	<string name="privacy_apps_password_enable_summay">Bảo vệ các tệp riêng tư bằng khóa ứng dụng</string>
     <string name="system_app">Ứng dụng hệ thống</string>
     <string name="system_app_permission_instruction">Ứng dụng này cần các quyền sau để cung cấp dịch vụ hệ thống cơ bản. Quản lý quyền bị giới hạn đối với ứng dụng này, do thay đổi trạng thái quyền sẽ dẫn đến hệ thống hoạt động bất thường.</string>
     <string name="system_application">Ứng dụng hệ thống</string>
@@ -5656,7 +5659,7 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="ew_guide_tips_1">"Bạn sẽ nhận được cảnh báo về động đất sắp xảy ra và nghe âm thanh cảnh báo"</string>
     <string name="ew_guide_tips_2">Thông tin sớm về động đất và âm thanh cảnh báo sẽ được cập nhật trong suốt động đất</string>
     <string name="ew_guide_tips_3">"Bạn sẽ có thể tìm thấy nơi trú ẩn gần nhất, gọi liên lạc khẩn cấp và giới thiệu thẻ y tế của mình nếu cần thiết"</string>
-    <string name="ew_guide_title">Xem bản demo</string>
+    <string name="ew_guide_title">Xem bản thử</string>
     <string name="ew_info_agreement">Miễn trừ trách nhiệm</string>
     <string name="ew_info_other">Khác</string>
     <string name="ew_info_range">Phạm vi dịch vụ</string>

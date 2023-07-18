@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="abc_capital_off">Tắt</string>
-    <string name="abc_capital_on"Bật</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -487,7 +487,7 @@ Tiếp xúc lâu với âm thanh lớn có thể gây ra các vấn đề về t
     <string name="tuesday">Thứ ba</string>
     <string name="tuesday_short">Th 3</string>
     <string name="tuesday_shortest">Th 3</string>
-    <string name="v7_preference_off"Tắt</string>
+    <string name="v7_preference_off">Tắt</string>
     <string name="v7_preference_on">Bật</string>
     <string name="volume_dialog_accessibility_dismissed_message">Đã ẩn điều khiển âm lượng</string>
     <string name="volume_dialog_accessibility_shown_message">Đã hiển thị %s điều khiển âm lượng. Trượt lên để bỏ qua.</string>
