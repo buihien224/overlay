@@ -4790,6 +4790,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="system_anti_fraud_dialog_message">Bảo vệ chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_title">Cảnh báo chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_title2">Cảnh báo chống lừa đảo</string>
+	<string name="privacy_apps_password_enable_summay">Bảo vệ các tệp riêng tư bằng khóa ứng dụng</string>
     <string name="system_app">Ứng dụng hệ thống</string>
     <string name="system_app_permission_instruction">Ứng dụng này cần các quyền sau để cung cấp dịch vụ hệ thống cơ bản. Quản lý quyền bị giới hạn đối với ứng dụng này, do thay đổi trạng thái quyền sẽ dẫn đến hệ thống hoạt động bất thường.</string>
     <string name="system_application">Ứng dụng hệ thống</string>
