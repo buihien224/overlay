@@ -56,7 +56,7 @@
     <string name="HIPS_Perm_Read_Contact_Desc">Đọc liên hệ của bạn</string>
     <string name="HIPS_Perm_Read_MMS">Đọc tin nhắn MMS</string>
     <string name="HIPS_Perm_Read_MMS_Desc">Đọc tin nhắn đa phương tiện của bạn</string>
-    <string name="HIPS_Perm_Read_SMS">Đọc SMS và MMS</string>
+    <string name="HIPS_Perm_Read_SMS">Đọc SMS</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Đọc tin nhắn SMS</string>
     <string name="HIPS_Perm_SendMMS">Gửi tin nhắn MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">Trực tiếp gửi tin nhắn đa phương tiện</string>
@@ -75,7 +75,7 @@
     <string name="HIPS_Perm_add_voicemail">Tin nhắn thoại</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Thêm tin nhắn thoại hệ thống</string>
     <string name="HIPS_Perm_background_start_activity">Hiển thị cửa sổ pop-up khi chạy trong nền</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">hiển thị cửa sổ pop-up khi chạy trong nền</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">Hiển thị cửa sổ pop-up khi chạy trong nền</string>
     <string name="HIPS_Perm_clipboard">Bộ nhớ tạm</string>
     <string name="HIPS_Perm_clipboard_Desc">Cho phép ứng dụng truy cập và thêm các mục bộ nhớ tạm</string>
     <string name="HIPS_Perm_deamon_notification">Thông báo cố định</string>
