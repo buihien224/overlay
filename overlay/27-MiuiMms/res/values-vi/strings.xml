@@ -3,7 +3,7 @@
     <string name="messages_installed_notification_text_xiaomi">Nhấn để bắt đầu cuộc trò chuyện</string>
     <string name="messages_installed_notification_title_xiaomi">Đã cài đặt ứng dụng Tin nhắn</string>
     <string name="notification_channel_name_xiaomi">Thông báo nâng cấp ứng dụng</string>
-    <string name="promo_back_btn_text_xiaomi">Quay lại Mi Message</string>
+    <string name="promo_back_btn_text_xiaomi">Quay lại tin nhắn Mi</string>
     <string name="promo_install_btn_text">Tiếp theo</string>
     <string name="promo_install_bullet_1_xiaomi">Sử dụng Trợ lý Google để nhắn tin và làm nhiều việc</string>
     <string name="promo_install_bullet_2_xiaomi">Lưu giữ cuộc trò chuyện và nội dung nghe nhìn hiện tại của bạn</string>
@@ -14,7 +14,7 @@
     <string name="promo_install_title_xiaomi">Chuyển sang ứng dụng Tin nhắn của Google</string>
     <string name="promo_launch_messages_btn_text">Mở ứng dụng Tin nhắn</string>
     <string name="promo_no_thanks_btn_text_xiaomi">Để sau</string>
-    <string name="promo_post_install_animation_alt_text_xiaomi">Tin nhắn của Google hiện đang là ứng dụng SMS mặc định của bạn. Để đặt Tin nhắn của Google là ứng dụng yêu thích trên màn hình chính, hãy nhấn và giữ Mi Message và xóa ứng dụng này khỏi phần ứng dụng yêu thích, sau đó nhấn và giữ Tin nhắn để chuyển vào phần ứng dụng yêu thích.</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Tin nhắn của Google hiện đang là ứng dụng SMS mặc định của bạn. Để đặt Tin nhắn của Google là ứng dụng yêu thích trên màn hình chính, hãy nhấn và giữ Tin nhắn Mi và xóa ứng dụng này khỏi phần ứng dụng yêu thích, sau đó nhấn và giữ Tin nhắn để chuyển vào phần ứng dụng yêu thích.</string>
     <string name="promo_use_messages_btn_text">Dùng ứng dụng Tin nhắn</string>
     <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
     <string name="abc_action_bar_up_description">Di chuyển lên</string>
@@ -487,6 +487,8 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="group_notify_message_title">Thông báo trò chuyện nhóm</string>
     <string name="group_rejoin_failed">Không thể tham gia trò chuyện nhóm</string>
     <string name="group_resend_message">Gửi lại (%d)</string>
+    <string name="group_verification_codes_summary">Tự động nhóm các mật khẩu dùng một lần lại với nhau</string>
+    <string name="group_verification_codes_title">Nhóm các mật khẩu dùng một lần</string>
     <string name="group_view_settings_disolved">Không thể xem các mục. Trò chuyện nhóm này đã bị xóa.</string>
     <string name="group_view_settings_not_memeber">Không thể xem các mục. Bạn không phải là thành viên của trò chuyện nhóm này.</string>
     <string name="groupchat_list_title">Trò chuyện nhóm</string>
@@ -625,12 +627,12 @@ Kiểm tra thẻ SIM của bạn."</string>
     <string name="mms_block_hint">"Người gửi này không có trong danh bạ của bạn.
     Tin nhắn này có thể là tin nhắn không được yêu cầu."</string>
     <string name="mms_block_hint_highlight">Chặn MMS</string>
-    <string name="mms_main_purpose_new">Ứng dụng này cần kết nối internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi đề nghị bạn bật dịch vụ Mi Message và Smart Messaging.</string>
-    <string name="mms_mi_message_main_purpose">Chào mừng đến với Mi Message! Một tin nhắn SMS đi ra cần được gửi để kích hoạt Mi Message. Nhà mạng của bạn sẽ tính phí cho tin nhắn này.</string>
-    <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận hưởng tối đa Mi Message.</string>
-    <string name="mms_mx_privacy_policy">Chính sách Riêng tư Mi Message</string>
-    <string name="mms_smart_msg_main_purpose">Smart Messaging có thể nhận dạng các ID người gửi, cung cấp dịch vụ menu thông minh và xác định các tin nhắn đáng ngờ.</string>
-    <string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Smart Messaging</string>
+    <string name="mms_main_purpose_new">Ứng dụng này cần kết nối internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi đề nghị bạn bật dịch vụ Tin nhắn Mi và Tin nhắn thông minh.</string>
+    <string name="mms_mi_message_main_purpose">Chào mừng đến với Tin nhắn Mi! Một tin nhắn SMS đi ra cần được gửi để kích hoạt Tin nhắn Mi. Nhà mạng của bạn sẽ tính phí cho tin nhắn này.</string>
+    <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận hưởng tối đa Tin nhắn Mi.</string>
+    <string name="mms_mx_privacy_policy">Chính sách Riêng tư Tin nhắn Mi</string>
+    <string name="mms_smart_msg_main_purpose">Tin nhắn thông minh có thể nhận dạng các ID người gửi, cung cấp dịch vụ menu thông minh và xác định các tin nhắn đáng ngờ.</string>
+    <string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn thông minh</string>
     <string name="mms_title">Tin nhắn</string>
     <string name="mms_user_agreement">Thỏa thuận người dùng</string>
     <string name="mobile_charge">Nạp tiền</string>
@@ -746,7 +748,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="mx_reactivate">Kích hoạt lại Tin nhắn Mi</string>
     <string name="mx_recommend_msg">Chạm để bật Tin nhắn Mi</string>
     <string name="mx_stranger_recommend_msg">Chạm để chặn Tin nhắn Mi từ số không xác định</string>
-    <string name="mx_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Mi Message</string>
+    <string name="mx_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của tin nhắn Mi</string>
     <string name="mx_type_guide">Gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh cước phí</string>
     <string name="need_download">Đang đồng bộ…</string>
     <string name="net_sms_subscribed">Đăng ký thành công</string>
@@ -867,6 +869,8 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="pref_summary_privacy_authority">Chuyển đổi phím nhanh để cấp hoặc hủy ủy quyền</string>
     <string name="pref_summary_send_delivery_reports">Gửi báo cáo đã nhận cho người gửi khi bạn nhận được tin nhắn đa phương tiện</string>
     <string name="pref_summary_voice_report">Bật để đọc tin nhắn thành tiếng khi nhận được. Nhấn phím Giảm âm lượng hoặc phím Nguồn để dừng phát.</string>
+    <string name="pref_summary_switch_aim_card">Hiển thị thông báo có chứa video, hình ảnh và định dạng phức tạp dưới dạng thẻ</string>
+    <string name="pref_title_switch_aim_card">Chuyển đổi tin nhắn sang thẻ</string>
     <string name="pref_summary_wake_up_screen">Bật màn hình khi nhận được tin nhắn mới</string>
     <string name="pref_switch_sdk_setting">Chuyển đổi nhà cung cấp dịch vụ SMS thông minh</string>
     <string name="pref_system_title">Hệ thống</string>
@@ -1272,7 +1276,7 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="smart_messages_network_allow_title">Yêu cầu kết nối mạng</string>
     <string name="smart_msg_main_purpose">Tin nhắn Thông minh cung cấp nhận dạng ID người gửi và dịch vụ menu thông minh.</string>
     <string name="smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
-    <string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Smart Messaging</string>
+    <string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Tin nhắn thông minh</string>
     <string name="smart_msg_upgrade_main_purpose">Tin nhắn thông minh hiện hoạt động với MMS. Bạn sẽ có thể sử dụng nhiều dịch vụ hơn do người gửi cung cấp cũng như nhận tin nhắn ở các định dạng mới.</string>
     <string name="sms_card_partner_label">"Đối tác thẻ SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1334,13 +1338,13 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="system_permission_declare_double_link" formatted="false">Đọc và đồng ý với %1s và %2s của chúng tôi trước khi sử dụng tính năng này.</string>
     <string name="system_permission_declare_exit">Thoát</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Chào mừng đến với %1s! %2s</string>
-    <string name="system_permission_declare_mi_message">Chào mừng đến với Mi Message!</string>
+    <string name="system_permission_declare_mi_message">Chào mừng đến với Tin nhắn Mi!</string>
     <string name="system_permission_declare_no_say_no">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các quy định của pháp luật, quy định và chính sách riêng tư liên quan.
     Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này."</string>
-    <string name="system_permission_declare_rcs">Chào mừng đến với 5G Messaging!</string>
+    <string name="system_permission_declare_rcs">Chào mừng đến với Tin nhắn 5G!</string>
     <string name="system_permission_declare_revoke_path">Bạn có thể rút lại sự ủy quyền và tắt dịch vụ trong cài đặt Tin nhắn.</string>
     <string name="system_permission_declare_single_link">Đọc và đồng ý với %1s của chúng tôi trước khi sử dụng tính năng này.</string>
-    <string name="system_permission_declare_smart_message">Chào mừng đến với Smart Messaging!</string>
+    <string name="system_permission_declare_smart_message">Chào mừng đến với Tin nhắn thông minh!</string>
     <string name="system_permission_declare_user_agree">Đồng ý</string>
     <string name="system_permission_disabled">Không được cấp</string>
     <string name="system_permission_enabled">Được cấp</string>
@@ -1433,7 +1437,7 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="title_show_sms_template">Tin nhắn Thông minh</string>
     <string name="title_show_sms_template_in">Kiểm tra tin nhắn OTP</string>
     <string name="title_timed_message_dialog">Đặt thời gian nhắn tin</string>
-    <string name="title_use_gsm_alphabet">Sử dụng GSM alphabet</string>
+    <string name="title_use_gsm_alphabet">Sử dụng chữ  GSM</string>
     <string name="to_address_label">"Tới: "</string>
     <string name="to_label">"Tới "</string>
     <string name="to_send_wrapper">Sẽ gửi lúc %s</string>
