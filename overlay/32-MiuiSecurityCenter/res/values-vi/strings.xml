@@ -5798,4 +5798,19 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="app_name_pad">Bảo mật</string>
     <string name="app_name_phone">Bảo mật</string>
     <string name="app_name_securitycenter_new">Bảo mật</string>
+    <string name="phone_manager_title">Hộp công cụ</string>
+    <string name="security_guide_title">Hộp công cụ</string>
+    <string name="commonly_used_func_card_title">Tính năng thông dụng</string>
+    <string name="app_behavior_record_hide_system">Ẩn ứng dụng hệ thống</string>
+    <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
+    <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
+    <string name="app_behavior_record_show_system">Hiển thị ứng dụng hệ thống</string>
+    <string name="permission_instruction_shake">Quyền này cho phép các ứng dụng theo dõi hướng và chuyển động của thiết bị của bạn (ví dụ: lắc, nghiêng và xoay)</string>
+    <string name="permission_instruction_scoped">Cơ chế bảo vệ bộ nhớ mới cho phép bạn kiểm soát tốt hơn cách các ứng dụng tương thích sử dụng quyền bộ nhớ</string>
+    <string name="permission_instruction_read_media_pic">Quyền này cho phép ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+    <string name="permission_instruction_media_audio">Quyền này cho phép ứng dụng truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+    <string name="permission_instruction_sociality">Nếu bạn cho phép các ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập các tệp được tạo trong các ứng dụng truyền thông xã hội để bảo vệ quyền riêng tư của bạn hay không. Giống như các ứng dụng với API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ, thì chúng tôi sẽ không cung cấp công tắc này.</string>
+    <string name="permission_instruction_storage">Nếu bạn cho phép các ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập các mục trong Thư viện của bạn và các tệp được tạo trong các ứng dụng truyền thông xã hội để bảo vệ quyền riêng tư. Vì các ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ nên chúng tôi sẽ không cung cấp khóa chuyển này.</string>
+    <string name="permission_instruction_gallery">Nếu bạn cho phép các ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập các mục trong Thư viện của bạn để bảo vệ quyền riêng tư của bạn hay không. Như các ứng dụng với Android API cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ, chuyển đổi này sẽ không được cung cấp cho chúng.</string>
+    <string name="input_hint_search_app">Tìm ứng dụng</string>
 </resources>
