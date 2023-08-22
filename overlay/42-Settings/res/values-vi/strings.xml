@@ -12299,4 +12299,6 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="mic_toggle_title">Truy cập microphone</string>
     <string name="show_clip_access_notification">Hiển thị truy cập clipboard</string>
     <string name="show_clip_access_notification_summary">Hiển thị thông báo khi các ứng dụng truy cập văn bản, hình ảnh hoặc nội dung khác mà bạn đã sao chép</string>
+    <string name="finger_add_user_info_dialog_message">"Để bạn có thể sử dụng tính năng Mở khóa bằng vân tay và thực hiện thanh toán bằng vân tay, chúng tôi cần thu thập dấu vân tay của bạn. Dấu vân tay sẽ được lưu trữ cục bộ trên thiết bị này. Để xóa nó, hãy tìm kiếm \"Mở khóa bằng vân tay \" Trong cài đặt rồi chọn Mở khóa bằng vân tay > Vân tay. Bạn sẽ không thể sử dụng tính năng này nếu không đồng ý."</string>
+    <string name="face_data_suggesstion_first">Mở khóa bằng khuôn mặt kém an toàn hơn so với mã PIN, mật khẩu hoặc hình mở khóa. Thiết bị của bạn có thể được mở khóa bằng ảnh của bạn, cũng như bởi những người hoặc đối tượng có hình thức tương tự.</string>
 </resources>

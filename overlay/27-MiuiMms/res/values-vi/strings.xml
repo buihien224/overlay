@@ -3,7 +3,7 @@
     <string name="messages_installed_notification_text_xiaomi">Nhấn để bắt đầu cuộc trò chuyện</string>
     <string name="messages_installed_notification_title_xiaomi">Đã cài đặt ứng dụng Tin nhắn</string>
     <string name="notification_channel_name_xiaomi">Thông báo nâng cấp ứng dụng</string>
-    <string name="promo_back_btn_text_xiaomi">Quay lại tin nhắn Mi</string>
+    <string name="promo_back_btn_text_xiaomi">Quay lại Tin nhắn Mi</string>
     <string name="promo_install_btn_text">Tiếp theo</string>
     <string name="promo_install_bullet_1_xiaomi">Sử dụng Trợ lý Google để nhắn tin và làm nhiều việc</string>
     <string name="promo_install_bullet_2_xiaomi">Lưu giữ cuộc trò chuyện và nội dung nghe nhìn hiện tại của bạn</string>
@@ -748,7 +748,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="mx_reactivate">Kích hoạt lại Tin nhắn Mi</string>
     <string name="mx_recommend_msg">Chạm để bật Tin nhắn Mi</string>
     <string name="mx_stranger_recommend_msg">Chạm để chặn Tin nhắn Mi từ số không xác định</string>
-    <string name="mx_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của tin nhắn Mi</string>
+    <string name="mx_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Tin nhắn Mi</string>
     <string name="mx_type_guide">Gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh cước phí</string>
     <string name="need_download">Đang đồng bộ…</string>
     <string name="net_sms_subscribed">Đăng ký thành công</string>
