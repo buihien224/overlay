@@ -3267,7 +3267,7 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="google_service_title">Dịch vụ Google</string>
     <string name="google_title">Google</string>
     <string name="got_it">Tôi biết</string>
-    <string name="gps_description">Nhiều hệ thống định vị vệ tinh (GPS, BeiDou, GLONASS, Galileo) được hỗ trợ</string>
+    <string name="gps_description">Nhiều hệ thống định vị vệ tinh (GPS, Bắc Đẩu, GLONASS, Galileo) được hỗ trợ</string>
     <string name="gps_description_global">Thiết bị Xiaomi tương thích với nhiều hệ thống điều hướng, bao gồm GPS, NavIC, BeiDou, GLONASS, và Galileo.</string>
     <string name="graphics_driver_all_apps_preference_title">Bật cho tất cả ứng dụng</string>
     <string name="graphics_driver_app_preference_default">Mặc định</string>
@@ -3305,7 +3305,7 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="gxzw_anim_rhythm">Nhịp điệu</string>
     <string name="gxzw_anim_star">Ánh sao</string>
     <string name="gxzw_anim_title">Hiệu ứng vân tay</string>
-    <string name="gxzw_aod_show_summary">Biểu tượng vân tay sẽ hiển thị khi màn ình tắt. Tính năng này sẽ gây hao pin hơn.</string>
+    <string name="gxzw_aod_show_summary">Biểu tượng vân tay sẽ hiển thị khi màn hình tắt</string>
     <string name="gxzw_aod_show_tittle">Hiển thị biểu tượng vân tay khi tắt màn hình</string>
     <string name="gxzw_dialog_message">Để cảm biến vân tay trong màn hình hoạt động bình thường, đừng sử dụng miếng dán màn hình. Nếu vần thiết, hãy sử dụng miếng dán chính hãng hoặc được ủy quyền</string>
     <string name="gxzw_dialog_not_show_again">Không hiển thị lại</string>
@@ -12166,7 +12166,7 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="wifi_primary">Mạng Wi-Fi chính</string>
     <string name="bluetooth_inband_ringing">Cho phép nhạc chuông trong băng tần</string>
     <string name="bluetooth_inband_ringing_summary">Cho phép phát nhạc chuông điện thoại qua tai nghe Bluetooth.  Tính năng này chỉ có thể được sử dụng khi một thiết bị duy nhất được kết nối và có thể không tương thích với một số thiết bị.</string>
-    <string name="ethernet_tether_checkbox_text">Chia sẽ internet qua Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Chia sẻ internet qua Ethernet</string>
     <string name="nfc_image_preference_text_click">Kiểm tra vị trí của khu vực ăng-ten NFC trên thiết bị này</string>
     <string name="nfc_image_preference_text_noclick">Đặt thiết bị của bạn gần thiết bị đầu cuối để sử dụng Mi Pay, thẻ vận chuyển, thẻ khóa và các tính năng NFC khác. </string>
     <string name="nfc_dnd_mode_summary">Phản hồi các thẻ NFC với số lượng thẻ NDEF hạn chế</string>
