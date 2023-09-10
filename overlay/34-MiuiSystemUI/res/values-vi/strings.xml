@@ -3293,4 +3293,6 @@ Vẫn hiển thị chúng?"</string>
     <string name="wifitrackerlib_speed_label_very_slow">Rất chậm</string>
     <string name="wifitrackerlib_speed_label_very_fast">Rất nhanh</string>
     <string name="material_slider_range_start">Khoảng bắt đầu,</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Chọn mạng WLAN gần đây</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Chọn mạng WLAN gần đây</string>
 </resources>

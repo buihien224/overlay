@@ -1415,26 +1415,40 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Đang xác thực…</item>
         <item>Đang nhận địa chỉ IP…</item>
         <item>Đã kết nối</item>
-        <item>Đã tạm dừng</item>
+        <item>Đã tạm ngừng</item>
         <item>Đang ngắt kết nối…</item>
         <item>Đã ngắt kết nối</item>
         <item>Không thành công</item>
-        <item>Đã chặn</item>
-        <item>Tạm thời tránh kết nối kém</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém chất lượng</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Đang quét…</item>
-        <item>Đang kết nối %1$s…</item>
-        <item>Đang xác thực %1$s…</item>
+        <item>Đang kết nối đến %1$s…</item>
+        <item>Đang xác thực với %1$s…</item>
         <item>Đang nhận địa chỉ IP từ %1$s…</item>
-        <item>Kết nối %1$s</item>
-        <item>Đã tạm dừng</item>
-        <item>Đang ngắt kết nối khỏi %1$s…</item>
+        <item>Đã kết nối đến %1$s</item>
+        <item>Đã tạm ngừng</item>
+        <item>Đang ngắt kết nối từ %1$s…</item>
         <item>Đã ngắt kết nối</item>
         <item>Không thành công</item>
-        <item>Đã chặn</item>
-        <item>Tạm thời tránh kết nối kém</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém chất lượng</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Đang quét…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác thực…</item>
+        <item>Đang nhận địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm ngừng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém chất lượng</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Tắt ảnh động</item>

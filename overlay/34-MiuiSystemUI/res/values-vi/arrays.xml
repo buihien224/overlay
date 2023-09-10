@@ -293,6 +293,20 @@
         <item>Đã chặn</item>
         <item>Tránh kết nối yếu tạm thời</item>
     </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Đang quét…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác thực…</item>
+        <item>Đang nhận địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm ngừng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém chất lượng</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Tắt ảnh động</item>
         <item>Tỷ lệ ảnh động 0.5x</item>
