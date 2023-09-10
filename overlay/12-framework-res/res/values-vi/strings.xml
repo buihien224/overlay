@@ -1920,10 +1920,10 @@ Bạn có muốn đóng trang không?"</string>
     <string name="lock_to_app_start">Đã ghim màn hình</string>
     <string name="lock_to_app_toast_locked">Ứng dụng được ghim: Không được phép bỏ ghim trên thiết bị này.</string>
     <string name="map">Bản đồ</string>
-    <string name="notification_channel_hotspot">Thông báo điểm phát song Wi-Fi</string>
+    <string name="notification_channel_hotspot">Thông báo điểm phát sóng Wi-Fi</string>
     <string name="old_app_description">Không khởi động ứng dụng mới.</string>
     <string name="permission">Quyền</string>
-    <string name="usb_cd_installer_notification_title">Đã kết nối như 1 trình cài đặt</string>
+    <string name="usb_cd_installer_notification_title">Đã kết nối như một trình cài đặt</string>
     <string name="user_encrypted_detail">Đã khóa dữ liệu người dùng</string>
     <string name="user_encrypted_message">Nhấn để mở khóa</string>
     <string name="user_encrypted_title">Một số chức năng có thể bị hạn chế</string>
