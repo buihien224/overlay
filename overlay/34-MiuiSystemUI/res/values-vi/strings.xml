@@ -1362,7 +1362,7 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
     <string name="power_suggestion_battery_run_out">Pin có thể hết vì %1$s</string>
     <string name="pref_show_lunar_calendar_title">Hiển thị lịch Trung Quốc trên màn hình khóa</string>
-    <string name="preference_copied">\"%1$s\" đã sao chép vào cliboard.</string>
+    <string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
     <string name="priority_conversations">Hội thoại ưu tiên</string>
     <string name="privacy_type_camera">Máy ảnh</string>
     <string name="privacy_type_location">Vị trí</string>
