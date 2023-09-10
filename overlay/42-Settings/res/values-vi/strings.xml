@@ -5190,7 +5190,6 @@ Nó cũng cho ứng dụng có thể tắt hoặc mở Chế độ Không làm p
     <string name="notification_update_now">Cập nhật ngay</string>
     <string name="notification_vibrate_title">Rung</string>
     <string name="notification_volume_option_title">Âm lượng thông báo</string>
-    <string name="notification_volume_title">Thông báo</string>
     <string name="notifications_bubble_setting_description">Một vài hội thoại sẽ hiển thị dạng bong bóng phía trên ứng dụng khác</string>
     <string name="notifications_bubble_setting_on_summary">Bật / Hội thoại có thể hiển thị là biểu tượng nổi</string>
     <string name="notifications_bubble_setting_title">Cho phép ứng dụng hiển thị bong bóng</string>
@@ -12298,12 +12297,10 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="show_clip_access_notification">Hiển thị truy cập clipboard</string>
     <string name="show_clip_access_notification_summary">Hiển thị thông báo khi các ứng dụng truy cập văn bản, hình ảnh hoặc nội dung khác mà bạn đã sao chép</string>
     <string name="finger_add_user_info_dialog_message">"Để bạn có thể sử dụng tính năng Mở khóa bằng vân tay và thực hiện thanh toán bằng vân tay, chúng tôi cần thu thập dấu vân tay của bạn. Dấu vân tay sẽ được lưu trữ cục bộ trên thiết bị này. Để xóa nó, hãy tìm kiếm \"Mở khóa bằng vân tay \" Trong cài đặt rồi chọn Mở khóa bằng vân tay > Vân tay. Bạn sẽ không thể sử dụng tính năng này nếu không đồng ý."</string>
-    <string name="face_data_suggesstion_first">Mở khóa bằng khuôn mặt kém an toàn hơn so với mã PIN, mật khẩu hoặc hình mở khóa. Thiết bị của bạn có thể được mở khóa bằng ảnh của bạn, cũng như bởi những người hoặc đối tượng có hình thức tương tự.</string>
     <string name="nfc_default_payment_settings_title">Ứng dụng thanh toán mặc định</string>
     <string name="max_fps_right_value">Tối đa %s Hz</string>
     <string name="notification_volume_control">Kiểm soát âm thanh thông báo</string>
     <string name="notification_volume_control_note">Điều chỉnh âm lượng âm thanh thông báo riêng lẻ</string>
-    <string name="notification_volume_option_title">Âm lượng thông báo</string>
     <string name="notification_volume_sync_ring">Âm lượng thông báo sẽ giống như nhạc chuông của bạn</string>
     <string name="notification_volume_title">Thông báo</string>
     <string name="otg_closed">Tắt</string>

@@ -2363,7 +2363,6 @@ to join our egg hunt!"</string>
     <string name="hide_mode_app_background_setting_text">Tiết kiệm pin ứng dụng</string>
     <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm Pin cho ứng dụng cá nhân</string>
     <string name="hide_mode_summary_text">Quản lý hoạt động nền ứng dụng để tiết kiệm pin</string>
-    <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
     <string name="hint_antispam_mode_edit">Tùy chỉnh chế độ</string>
     <string name="hints_handle_item_text_virus">Nguy hiểm</string>
     <string name="hints_input_roaming_daily_limit">Nhập giới hạn sử dụng dữ liệu</string>
@@ -4261,7 +4260,6 @@ Rút lại chấp thuận ngay?"</string>
     <string name="shield_keyboard_title">Giới hạn phím và cử chỉ</string>
     <string name="shortcut_title_scan">Quét</string>
     <string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
-    <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="show_traffic_dialog_message">Thông tin sử dụng dữ liệu của bạn sẽ được hiển thị trên Thanh thông báo. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Sử dụng dữ liệu > Cài đặt.</string>
     <string name="show_traffic_dialog_title">Hiển thị sử dụng trên Thanh thông báo</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
@@ -5815,7 +5813,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="input_hint_search_app">Tìm ứng dụng</string>
     <string name="system_anti_fraud_stayaway_from_risk">Chống gian lận kỹ thuật số</string>
     <string name="terms_and_conditions_content"><Data>Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Tính năng này sẽ thông báo cho bạn về các trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp của mình và xuất trình thẻ y tế của bạn nếu được yêu cầu. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các luật, quy định và chính sách quyền riêng tư có liên quan. &lt;br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp các cảnh báo động đất chính xác. &lt;br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. &lt;br>Bạn phải đọc và đồng ý với &lt;a href=%s>Chính sách bảo mật&lt;/a> trước khi sử dụng tính năng này.</Data></string>
-    <string name="scan_open_shut_down_password_title">Xác nhận tắt máy</string>
     <string name="confirm_open_shut_down_password_content">Đặt khóa màn hình trước khi bật xác nhận tắt máy.</string>
     <string name="confirm_open_shut_down_password_title">Đặt khóa màn hình</string>
     <string name="verify_shut_down_password_content">Yêu cầu xác nhận khóa màn hình nếu thiết bị của bạn bị tắt nguồn khi khóa</string>

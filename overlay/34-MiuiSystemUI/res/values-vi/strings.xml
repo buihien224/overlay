@@ -1514,6 +1514,8 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Chuyển giữa các mạng</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Tăng tốc Wi-Fi băng tần kép cần sử dụng hai băng tần Wi-Fi. Nếu bạn kết nối với một mạng chính khác, kết nối phụ sẽ bị mất.</string>
     <string name="quick_settings_wifi_detail_empty_text">Mạng Wi-Fi không khả dụng</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Mạng Wi-Fi không khả dụng</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">Mạng Wi-Fi không khả dụng</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_secondary_label_transient">Đang bật…</string>
     <string name="quick_settings_work_mode_label">Chế độ làm việc</string>
@@ -3293,6 +3295,6 @@ Vẫn hiển thị chúng?"</string>
     <string name="wifitrackerlib_speed_label_very_slow">Rất chậm</string>
     <string name="wifitrackerlib_speed_label_very_fast">Rất nhanh</string>
     <string name="material_slider_range_start">Khoảng bắt đầu,</string>
-    <string name="quick_settings_state_wifi_select_nearby_ap">Chọn mạng WLAN gần đây</string>
-    <string name="quick_settings_state_wlan_select_nearby_ap">Chọn mạng WLAN gần đây</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Chọn mạng Wi-Fi gần đây</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Chọn mạng Wi-Fi gần đây</string>
 </resources>
