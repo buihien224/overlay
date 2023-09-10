@@ -2022,7 +2022,7 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_game_ratio_right">Phải</string>
     <string name="gb_game_ratio_top">Trên</string>
     <string name="gb_game_time_toast">Hẹn giờ hiện khả dụng!</string>
-    <string name="gb_game_tips_restart">The game will be restarted to apply changes</string>
+    <string name="gb_game_tips_restart">Trò chơi sẽ được khởi động lại để áp dụng các thay đổi</string>
     <string name="gb_game_video_bottom_tips">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau 7 ngày.</string>
     <string name="gb_game_video_bottom_tips_new">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau %d ngày.</string>
     <string name="gb_game_video_item_tag">Khoảnh khắc đáng nhớ</string>
@@ -2053,7 +2053,7 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_msg_transparent_dispaly_summary">Trong suốt</string>
     <string name="gb_network_status_bad">Lỗi kết nối.</string>
     <string name="gb_new_feature">Tính năng mới</string>
-    <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
+    <string name="gb_not_support_on_device">"Ứng dụng này không thể sử dụng được trên màn hình bên ngoài"</string>
     <string name="gb_operat_frequently">Không quá nhanh!</string>
     <string name="gb_performance_balance">Cân bằng</string>
     <string name="gb_performance_balance_tips">"Chế độ cân bằng tiết kiệm điện
@@ -3437,8 +3437,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_center_super_wireless_charge_dialog_summary">Chế độ này tăng tốc độ quạt làm mát sạc không dây. Bật chế độ này để sạc thiết bị nhanh hơn, hoặc tắt đi nếu bạn cảm thấy quá ồn.</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">Vào Bảo mật > Pin > Cài đặt để có thêm tùy chọn.</string>
     <string name="power_center_super_wireless_charge_dialog_title">Sạc nhanh không dây</string>
-    <string name="power_center_super_wireless_charge_enter_noti_summary">无线充电器风扇转速提高，充电速度更快</string>
-    <string name="power_center_super_wireless_charge_enter_noti_title">可开启极速无线充电模式</string>
+    <string name="power_center_super_wireless_charge_enter_noti_summary">Tốc độ quạt sạc không dây tăng lên, sạc nhanh hơn</string>
+    <string name="power_center_super_wireless_charge_enter_noti_title">Có thể bật chế độ sạc không dây cực nhanh</string>
     <string name="power_center_super_wireless_charge_noti_summary">Chạm để mở Cài đặt</string>
     <string name="power_center_super_wireless_charge_noti_switch">Thông báo về sạc nhanh không dây</string>
     <string name="power_center_super_wireless_charge_noti_title">Sạc nhanh không dây đang bật</string>
@@ -5109,7 +5109,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="traffic_setting_fragment_title_guide">Nhà cung cấp và gói lưu lượng</string>
     <string name="traffic_to_limit_warning">Bạn đã sử dụng hết %s giới hạn dữ liệu</string>
     <string name="traffic_usage_warning_body">Bạn đã sử dụng %s dữ liệu di động tháng này.</string>
-    <string name="traffic_usage_warning_body_go_to_mi_sim">"You've already used %s of mobile data this month,Tap to use Mi SIM."</string>
+    <string name="traffic_usage_warning_body_go_to_mi_sim">"Bạn đã sử dụng %s dữ liệu di động trong tháng này, Nhấn để sử dụng Mi SIM."</string>
     <string name="traffic_usage_warning_limit">Giới hạn cảnh báo sử dụng dữ liệu</string>
     <string name="traffic_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="traffic_warning_purchase_title">Cảnh báo sử dụng dữ liệu di động</string>
