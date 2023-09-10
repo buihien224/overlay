@@ -5261,8 +5261,6 @@ Nó cũng cho ứng dụng có thể tắt hoặc mở Chế độ Không làm p
     <string name="osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
     <string name="ota_disable_automatic_update">Cập nhật hệ thống tự động</string>
     <string name="ota_disable_automatic_update_summary">Cài đặt cập nhật khi thiết bị khởi động lại</string>
-    <string name="otg_closed">Tắt</string>
-    <string name="otg_opened">Bật</string>
     <string name="otg_tip">"USB On-The-Go cho phép thiết bị USB và bàn phím, chuột kết nối với điện thoại và trao đổi dữ liệu.
 
 OTG tự động tắt sau 10 phút không hoạt động."</string>
@@ -12301,4 +12299,15 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="show_clip_access_notification_summary">Hiển thị thông báo khi các ứng dụng truy cập văn bản, hình ảnh hoặc nội dung khác mà bạn đã sao chép</string>
     <string name="finger_add_user_info_dialog_message">"Để bạn có thể sử dụng tính năng Mở khóa bằng vân tay và thực hiện thanh toán bằng vân tay, chúng tôi cần thu thập dấu vân tay của bạn. Dấu vân tay sẽ được lưu trữ cục bộ trên thiết bị này. Để xóa nó, hãy tìm kiếm \"Mở khóa bằng vân tay \" Trong cài đặt rồi chọn Mở khóa bằng vân tay > Vân tay. Bạn sẽ không thể sử dụng tính năng này nếu không đồng ý."</string>
     <string name="face_data_suggesstion_first">Mở khóa bằng khuôn mặt kém an toàn hơn so với mã PIN, mật khẩu hoặc hình mở khóa. Thiết bị của bạn có thể được mở khóa bằng ảnh của bạn, cũng như bởi những người hoặc đối tượng có hình thức tương tự.</string>
+    <string name="nfc_default_payment_settings_title">Ứng dụng thanh toán mặc định</string>
+    <string name="max_fps_right_value">Tối đa %s Hz</string>
+    <string name="notification_volume_control">Kiểm soát âm thanh thông báo</string>
+    <string name="notification_volume_control_note">Điều chỉnh âm lượng âm thanh thông báo riêng lẻ</string>
+    <string name="notification_volume_option_title">Âm lượng thông báo</string>
+    <string name="notification_volume_sync_ring">Âm lượng thông báo sẽ giống như nhạc chuông của bạn</string>
+    <string name="notification_volume_title">Thông báo</string>
+    <string name="otg_closed">Tắt</string>
+    <string name="otg_new_tip">Bật OTG để có thể kết nối thiết bị của bạn trực tiếp với các thiết bị khác bằng cổng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
+    <string name="otg_opened">Bật</string>
+    <string name="otg_settings">Cài đặt OTG</string>
 </resources>

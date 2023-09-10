@@ -1794,5 +1794,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Chuẩn</item>
         <item>Cảm ứng</item>
         <item>Cảm ứng trực tiếp</item>
+    <string-array name="nfc_payment_favor">
+        <item>Luôn luôn</item>
+        <item>Ngoại trừ khi một ứng dụng thanh toán khác đang mở</item>
+    </string-array>
+
     </string-array>
 </resources>
