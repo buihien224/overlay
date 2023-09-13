@@ -5826,4 +5826,17 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="protect_data_security_detail">Dữ liệu do bàn phím tạo ra sẽ bị cô lập và các ứng dụng khác không thể truy cập được.</string>
     <string name="offline_voice_input">Nhập giọng nói ngoại tuyến</string>
     <string name="offline_voice_input_detail">Bạn sẽ không cần internet để nhập liệu bằng giọng nói.</string>
+	<string name="permission_instruction_shake">Quyền này cho phép ứng dụng theo dõi hướng và chuyển động của thiết bị của bạn (ví dụ: lắc, nghiêng và xoay)</string>
+	<string name="system_anti_fraud_stayaway_from_risk">Tránh gian lận kĩ thuật số</string>
+	<string name="precise_location_title">Vị trí chính xác</string>
+	<string name="real_location_off">Vị trí gần đúng được bật</string>
+	<string name="real_location_on">Vị trí gần đúng bị tắt</string>
+	<string name="app_permission_use_group_location_des">Vị trí chính xác và gần đúng</string>
+	<string name="blur_location_title">Vị trí gần đúng</string>
+	<string name="pp_privacy_lab_blur_location">Vị trí gần đúng</string>
+	<string name="permission_instruction_scoped">Cơ chế bảo vệ bộ nhớ mới cho phép bạn kiểm soát tốt hơn cách các ứng dụng tương thích sử dụng quyền bộ nhớ</string>
+	<string name="category_scoped">Ứng dụng tương thích</string>
+	<string name="permission_instruction_read_media_pic">Quyền này cho phép các ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+	<string name="permission_instruction_media_audio">Quyền này cho phép các ứng dụng truy cập các bài hát và các tệp âm thanh khác được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+	<string name="input_hint_search_app">Tìm kiếm ứng dụng</string>
 </resources>
