@@ -12307,4 +12307,17 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="otg_new_tip">Bật OTG để có thể kết nối thiết bị của bạn trực tiếp với các thiết bị khác bằng cổng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
     <string name="otg_opened">Bật</string>
     <string name="otg_settings">Cài đặt OTG</string>
+    <string name="media_management_apps_description">Nếu được phép, ứng dụng này có thể sửa đổi hoặc xóa các tệp phương tiện được tạo bằng ứng dụng khác mà không cần hỏi bạn. Ứng dụng phải có quyền truy cập vào tệp và phương tiện.</string>
+     <string name="media_management_apps_title">Ứng dụng quản lý phương tiện</string>
+     <string name="media_management_apps_toggle_label">Cho phép ứng dụng quản lý phương tiện</string>
+     <string name="alarms_and_reminders_footer_title">Cho phép ứng dụng này đặt báo thức và lên lịch cho các hành động nhạy cảm được đặt với thời gian. Điều này cho phép ứng dụng chạy ở chế độ nền và có thể sử dụng nhiều pin hơn.
+
+Nếu quyền này bị tắt, các báo thức hiện có và các sự kiện dựa trên thời gian được ứng dụng này lên lịch sẽ không hoạt động.</string>
+     <string name="alarms_and_reminders_label">Báo thức và nhắc nhở</string>
+     <string name="alarms_and_reminders_switch_title">Cho phép đặt báo thức và lời nhắc</string>
+     <string name="alarms_and_reminders_title">Báo thức &amp; lời nhắc</string>
+     <string name="allow_turn_screen_on">Cho phép bật màn hình</string>
+     <string name="allow_turn_screen_on_description">Cho phép ứng dụng bật màn hình. Nếu quyền này được cấp, ứng dụng có thể bật màn hình bất kỳ lúc nào mà không cần sự quyết định của bạn.</string>
+     <string name="allow_ongo_title">Cho phép thông báo vĩnh viễn</string>
+     <string name="accessibility_control_timeout_preference_intro_text">Chọn khoảng thời gian hiển thị các thông báo tạm thời yêu cầu bạn thực hiện hành động</string>
 </resources>
