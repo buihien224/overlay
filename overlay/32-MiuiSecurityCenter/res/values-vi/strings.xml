@@ -5826,4 +5826,6 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="protect_data_security_detail">Dữ liệu do bàn phím tạo ra sẽ bị cô lập và các ứng dụng khác không thể truy cập được.</string>
     <string name="offline_voice_input">Nhập giọng nói ngoại tuyến</string>
     <string name="offline_voice_input_detail">Bạn sẽ không cần internet để nhập liệu bằng giọng nói.</string>
+    <string name="pc_low_batterty_got_it">Hiểu rồi</string>
+    <string name="save_mode_btn_ok">Hiểu rồi</string>
 </resources>
