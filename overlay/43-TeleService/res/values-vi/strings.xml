@@ -2667,4 +2667,10 @@ Bạn vẫn muốn hủy kích hoạt eSIM?</string>
     <string name="disable_esim_dialog_title">Đang hủy kích hoạt eSIM</string>
     <string name="disable_esim_error_toast_message">Không thể hủy kích hoạt eSIM</string>
     <string name="disable_esim_progress_activating_message">Đang hủy kích hoạt eSIM…</string>
+    <string name="forbidden_fakecell">Không kết nối với các trạm thu phát sóng giả</string>
+    <string name="forbidden_fakecell_summary">Ngăn điện thoại của bạn kết nối với các trạm thu phát sóng giả mạo</string>
+    <string name="not_support_forbidden_fakecell">Thiết bị của bạn không hỗ trợ cấp độ bảo vệ chip khỏi các trạm thu phát sóng giả mạo.</string>
+    <string name="support_forbidden_fakecell">Lưu ý: Hạn chế kết nối với các trạm thu phát sóng giả có thể làm giảm tín hiệu ở những khu vực có vùng phủ sóng kém.</string>
+    <string name="activity_title_fakecell">Bảo vệ khỏi các trạm thu phát sóng giả</string>
+    <string name="detect_fakecell">Nhận dạng SMS từ các trạm thu phát sóng giả</string>
 </resources>
