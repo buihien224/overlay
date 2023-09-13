@@ -12307,4 +12307,5 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="otg_new_tip">Bật OTG để có thể kết nối thiết bị của bạn trực tiếp với các thiết bị khác bằng cổng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
     <string name="otg_opened">Bật</string>
     <string name="otg_settings">Cài đặt OTG</string>
+    <string name="solid_text">Sử dụng phản hồi xúc giác tần số thấp và chuyển tiếp hình ảnh tương ứng để tạo ra trải nghiệm cử chỉ chắc chắn, mạnh mẽ</string>
 </resources>
