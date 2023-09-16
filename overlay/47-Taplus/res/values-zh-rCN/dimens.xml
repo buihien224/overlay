@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_recognition_image_operate_margin">56.0dip</dimen>
+    <item type="dimen" name="card_recognition_operate_drawable_padding">@dimen/size_14</item>
+</resources>

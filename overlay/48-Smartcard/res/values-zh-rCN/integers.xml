@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="agreement_span">2</integer>
+    <integer name="change_phone_number_tips_span">5</integer>
+</resources>

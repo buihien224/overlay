@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_transit_card_common_problem_names">
+        <item>常见问题</item>
+    </string-array>
+    <string-array name="bind_bank_card_faq_msg">
+        <item>为了资金安全，请绑定当前持卡人本人的银行卡。绑定成功后，身份信息将与您的小米账号绑定。</item>
+        <item>银行卡刷卡时需要输入的6位数字密码</item>
+        <item>有效期是打印在信用卡正面卡号下方，位于“VALID THRU”右侧形如月月/年年的一串数字。</item>
+        <item>CVN2（Card Verification Number 2）即安全码，平印在信用卡背面签名栏上卡号后4位处的3位数字。</item>
+        <item>银行预留的手机号是办理该银行卡时所填写的手机号码。没有预留、手机号忘记或者已停用，请联系银行客服更新处理。</item>
+    </string-array>
+    <string-array name="bind_bank_card_faq_title">
+        <item>本人的银行卡卡号</item>
+        <item>银行取款密码</item>
+        <item>什么是有效期</item>
+        <item>什么是CVN2</item>
+        <item>银行预留手机号</item>
+    </string-array>
+</resources>
