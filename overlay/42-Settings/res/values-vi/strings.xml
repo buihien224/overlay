@@ -12311,22 +12311,4 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="security_advanced_settings_keywords">bảo mật, nhiều cài đặt bảo mật hơn, nhiều cài đặt hơn, cài đặt bảo mật nâng cao</string>
     <string name="security_advanced_settings_no_work_profile_settings_summary">Mã hóa, thông tin xác thực và hơn thế nữa</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Khóa hồ sơ công việc, mã hóa, v.v.</string>
-    <string name="security_encryption_alert_dialog_info_first">Đặt khóa màn hình để bật tính năng này. Bạn sẽ phải nhập khóa màn hình sau mỗi lần khởi động lại để giải mã và sử dụng thiết bị bình thường.</string>
-    <string name="security_encryption_alert_dialog_title_first">Đặt khóa màn hình trước</string>
-    <string name="security_encryption_attention_1">Bạn sẽ không thể sử dụng báo thức khi thiết bị tắt.</string>
-    <string name="security_encryption_attention_2">Bạn sẽ phải nhập khóa màn hình sau mỗi lần khởi động lại để giải mã thiết bị. Việc khởi động lại sẽ mất nhiều thời gian hơn bình thường.</string>
-    <string name="security_encryption_attention_3">Bạn sẽ phải đặt khóa màn hình mới.</string>
-    <string name="security_encryption_attention_4">Đảm bảo bạn nhớ khóa màn hình của mình, nếu không bạn sẽ phải hoàn tất quá trình thiết lập lại toàn bộ và xóa tất cả dữ liệu trên thiết bị.</string>
-    <string name="security_encryption_attention_info">Bạn có thể mã hóa tài khoản, cài đặt, ứng dụng đã tải xuống cũng như dữ liệu, phương tiện và các tệp khác của chúng.</string>
-    <string name="security_encryption_attention_title">Quan trọng</string>
-    <string name="security_encryption_close_dialog_info">Việc chọn không mã hóa thiết bị bằng khóa màn hình có thể khiến một số dịch vụ của Google không khả dụng.</string>
-    <string name="security_encryption_close_dialog_title">Quay lại mã hóa hệ thống mặc định</string>
-    <string name="security_encryption_diaglog_continue">Tiếp tục</string>
-    <string name="security_encryption_is_used">Bật</string>
-    <string name="security_encryption_progress_dialog_close">Đang giải mã…</string>
-    <string name="security_encryption_progress_dialog_open">Đang mã hóa…</string>
-    <string name="security_encryption_rejected_via_home_manager">Tính năng này không được hỗ trợ trong phiên bản demo.</string>
-    <string name="security_encryption_title">Mã hóa thiết bị bằng mật khẩu Màn hình khóa</string>
-    <string name="certificate_management_app">Ứng dụng quản lý chứng chỉ</string>
-    <string name="emergency_info_title">Thông tin khẩn cấp</string>
 </resources>
