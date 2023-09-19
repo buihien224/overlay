@@ -93,8 +93,7 @@
     <string name="access_control_app_is_launching">Đang bắt đầu ứng dụng</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Nhập mật khẩu trước khi mở khóa bằng vân tay mới</string>
     <string name="access_control_fingerprint_not_identified_msg">Không thể đọc vân tay.</string>
-    <string name="access_control_need_password">"%s đã thêm thành côngr
-"</string>
+    <string name="access_control_need_password">"%s đã thêm thành công"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu Khóa ứng dụng</string>
     <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi game</string>
     <string name="action_button_text_100">Tối ưu</string>
