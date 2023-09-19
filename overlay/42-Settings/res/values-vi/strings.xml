@@ -12329,4 +12329,5 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="security_encryption_title">Mã hóa thiết bị bằng mật khẩu Màn hình khóa</string>
     <string name="certificate_management_app">Ứng dụng quản lý chứng chỉ</string>
     <string name="emergency_info_title">Thông tin khẩn cấp</string>
+        <string name="external_ram_dialog_btn_cancel">Để sau</string>
 </resources>
