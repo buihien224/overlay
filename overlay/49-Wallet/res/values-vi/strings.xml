@@ -681,7 +681,7 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
      <string name="jr_mipay_user_license">"Thỏa thuận người dùng"</string>
 	 <string name="keyword_adult_hospital_ins">Bảo hiểm nằm viện cho người lớn; tai nạn; bảo hiểm tai nạn toàn diện; bảo hiểm tai nạn người lớn; bảo hiểm tai nạn cá nhân; bảo hiểm tai nạn người cao tuổi; bảo hiểm tai nạn nhân viên; bảo hiểm tai nạn; bảo hiểm thể thao; bảo hiểm du lịch; bảo hiểm y tế; bảo vệ bệnh hiểm nghèo; bảo hiểm bệnh hiểm nghèo Bảo hiểm; bảo hiểm bệnh hiểm nghèo; bảo hiểm y tế; ChengRenZhuYuan</string>
      <string name="keyword_car_ins">Bảo hiểm ô tô Xiaomi; bảo hiểm ô tô; Bảo hiểm ô tô Ping An; máy tính bảo hiểm ô tô; báo giá bảo hiểm ô tô; cách mua bảo hiểm ô tô với mức giá hợp lý; CheXian</string>
-     <string name="keyword_children_ins">Bảo hiểm tai nạn trẻ em; Bảo hiểm trẻ em Xiaomi; bảo hiểm nhập viện cho trẻ em; bảo hiểm trẻ sơ sinh; bảo hiểm trẻ em; bảo hiểm trẻ em; bảo hiểm trẻ em; bảo hiểm y tế trẻ em; bảo hiểm y tế sức khỏe trẻ em; bảo hiểm tai nạn trẻ em; ErTong; ShaoEr</ / chuỗi>
+     <string name="keyword_children_ins">Bảo hiểm tai nạn trẻ em; Bảo hiểm trẻ em Xiaomi; bảo hiểm nhập viện cho trẻ em; bảo hiểm trẻ sơ sinh; bảo hiểm trẻ em; bảo hiểm trẻ em; bảo hiểm trẻ em; bảo hiểm y tế trẻ em; bảo hiểm y tế sức khỏe trẻ em; bảo hiểm tai nạn trẻ em; ErTong; ShaoEr</string>
      <string name="keyword_composite_ins">Bảo hiểm tai nạn toàn diện; tai nạn; bảo hiểm tai nạn người lớn; bảo hiểm tai nạn cá nhân; bảo hiểm tai nạn người cao tuổi; bảo hiểm tai nạn nhân viên; bảo hiểm tai nạn; bảo hiểm thể thao; bảo hiểm du lịch; ZongHeYiWai</string>
      <string name="keyword_credit">Tín dụng Xiaomi; Điểm tín dụng Xiaomi; Giới hạn điểm tín dụng Xiaomi; Cách cải thiện điểm tín dụng Xiaomi; Ứng dụng nào là điểm tín dụng Xiaomi; Tần suất cập nhật điểm tín dụng Xiaomi; Tín dụng Xiaomi ở đâu; Cách cải thiện Tín dụng tài chính Tianxing; Điểm tín dụng của Tianxing Financial ở đâu? Làm thế nào để cải thiện tín dụng của Xiaomi? Thông tin cải thiện tín dụng của Xiaomi; Điểm tín dụng của Xiaomi được cải thiện; Điểm tín dụng của Xiaomi được cập nhật vào ngày nào; Cách cải thiện điểm tín dụng của Xiaomi; Khoản vay tài chính Tianxing không có giới hạn </string>
      <string name="keyword_dqb">Quản lý tài chính có kỳ hạn; lãi suất có kỳ hạn; lãi suất tiền gửi có kỳ hạn; thu nhập quản lý tài chính có kỳ hạn; quản lý tài sản công ty chứng khoán; bảo hiểm quản lý tài chính</string>
@@ -704,7 +704,7 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
      <string name="lifeUtility_search">Thanh toán cuộc sống; hóa đơn điện; hóa đơn nước; hóa đơn gas; hóa đơn băng thông rộng; thanh toán hóa đơn gas trực tuyến; thanh toán hóa đơn điện trực tuyến; thanh toán hóa đơn nước trực tuyến; thanh toán hóa đơn băng thông rộng trực tuyến; cách thanh toán hóa đơn tiền điện trên Xiaomi điện thoại di động; cách thanh toán hóa đơn điện thoại di động Xiaomi Thanh toán hóa đơn nước; cách thanh toán hóa đơn gas trên điện thoại di động Xiaomi; cách thanh toán hóa đơn băng thông rộng trên điện thoại di động Xiaomi; cách thanh toán hóa đơn điện; cách thanh toán hóa đơn nước; cách thanh toán gas hóa đơn; cách thanh toán hóa đơn băng thông rộng</string>
      <string name="list_info_text">Hiển thị nhanh</string>
      <string name="list_navigation_title">Thư mục ID của tôi</string>
-     <string name="list_quick_card_dialog_message"><Data>Sau khi bật chức năng này, một tài liệu sẽ được thêm vào phía bên trái của trang chủ ví&lt;/b>&lt;/font> Lớp nổi nhanh cho phép bạn xem nhanh thông tin tài liệu. &lt;br>Bạn cũng có thể&lt;font color=%1$d>&lt;b>bật hoặc tắt&lt;/b>&lt;/font>tính năng này bất kỳ lúc nào. </dữ liệu></string>
+     <string name="list_quick_card_dialog_message"><Data>Sau khi bật chức năng này, một tài liệu sẽ được thêm vào phía bên trái của trang chủ ví&lt;/b>&lt;/font> Lớp nổi nhanh cho phép bạn xem nhanh thông tin tài liệu. &lt;br>Bạn cũng có thể&lt;font color=%1$d>&lt;b>bật hoặc tắt&lt;/b>&lt;/font>tính năng này bất kỳ lúc nào.</Data></string>
      <string name="list_quick_card_dialog_title">Hiển thị nhanh chức năng ID</string>
      <string name="list_quick_card_disabled">Hiển thị nhanh ID đã bị đóng trên trang chủ</string>
      <string name="list_quick_card_enabled">Tính năng hiển thị ID nhanh được bật trên trang chủ</string>
@@ -760,7 +760,7 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
      <string name="lockscreen_access_pattern_cleared">Đã xóa mẫu</string>
      <string name="lockscreen_access_pattern_ detected">Mẫu đã hoàn thành</string>
      <string name="lockscreen_access_pattern_start">Mẫu đã bắt đầu</string>
-     <string name="login_alerts_popup_message"><Data>Tài khoản của bạn đã được đăng nhập trên %2$s lúc %1$s. Nếu đây không phải là thao tác của bạn, vui lòng thay đổi mật khẩu tài khoản kịp thời hoặc kiểm tra xem SMS của bạn có được chuyển tiếp hay không. </dữ liệu></string>
+     <string name="login_alerts_popup_message"><Data>Tài khoản của bạn đã được đăng nhập trên %2$s lúc %1$s. Nếu đây không phải là thao tác của bạn, vui lòng thay đổi mật khẩu tài khoản kịp thời hoặc kiểm tra xem SMS của bạn có được chuyển tiếp hay không. </Data></string>
      <string name="login_alerts_popup_title">Mẹo đăng nhập bảo mật</string>
      <string name="login_btn">Đăng nhập</string>
      <string name="login_forget_password">Quên mật khẩu của bạn? </string>
@@ -1429,33 +1429,19 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mipay_term_type">Thanh toán giữa kỳ</string>
      <string name="mipay_text_collapse">Hủy</string>
      <string name="mipay_text_expand">Mở rộng</string>
+     <string name="mipay_trade_record_empty_of_type">Không có lịch sử cho %1$s</string>
+     <string name="mipay_trade_record_money_flow_amount">￥%1$s%2$s</string>
+     <string name="mipay_trade_status">Trạng thái:</string>
+     <string name="mipay_transfer">Chuyển khoản</string>
      <string name="mipay_thirdparty_transcard_apply">Thêm thẻ</string>
      <string name="mipay_thirdparty_transcard_desc">Sử dụng điện thoại của bạn làm thẻ giao thông công cộng. Nạp tiền, vuốt và đi tới nơi bạn muốn.</string>
      <string name="mipay_thirdparty_transcard_title">Thẻ giao thông công cộng</string>
      <string name="mipay_trade_detail_title">Chi tiết</string>
-     <string name="mipay_trade_record_empty">Không có lịch sử</string>
-     <string name="mipay_trade_record_empty_of_type">Không có lịch sử cho %1$s</string>
-     <string name="mipay_trade_record_money_flow_amount">￥%1$s%2$s</string>
+     <string name="mipay_trade_record_empty">Lịch sử trống</string>
      <string name="mipay_trade_record_nomore">Không còn lịch sử</string>
      <string name="mipay_trade_record_nomore_of_type">Không còn lịch sử cho %1$s</string>
      <string name="mipay_trade_record_title">Lịch sử thanh toán</string>
      <string name="mipay_trade_result_timeout">Đang xử lý</string>
-     <string name="mipay_trade_status">Trạng thái:</string>
-     <string name="mipay_transfer">Chuyển khoản</string>
-	 <string name="mipay_text_expand">Mở rộng</string>
-     <string name="mipay_thirdparty_transcard_apply">Thêm thẻ</string>
-     <string name="mipay_thirdparty_transcard_desc">Sử dụng điện thoại của bạn làm thẻ giao thông công cộng. Nạp tiền, vuốt và đi tới nơi bạn muốn.</string>
-     <string name="mipay_thirdparty_transcard_title">Thẻ giao thông công cộng</string>
-     <string name="mipay_trade_detail_title">Chi tiết</string>
-     <string name="mipay_trade_record_empty">Không có lịch sử</string>
-     <string name="mipay_trade_record_empty_of_type">Không có lịch sử cho %1$s</string>
-     <string name="mipay_trade_record_money_flow_amount">￥%1$s%2$s</string>
-     <string name="mipay_trade_record_nomore">Không còn lịch sử</string>
-     <string name="mipay_trade_record_nomore_of_type">Không còn lịch sử cho %1$s</string>
-     <string name="mipay_trade_record_title">Lịch sử thanh toán</string>
-     <string name="mipay_trade_result_timeout">Đang xử lý</string>
-     <string name="mipay_trade_status">Trạng thái:</string>
-     <string name="mipay_transfer">Chuyển khoản</string>
      <string name="mipay_transfer_account_frozen">Tài khoản Xiaomi hiện tại đã bị đóng băng, hãy thử lại sau</string>
      <string name="mipay_transfer_amount_hint">Nhập số tiền chuyển</string>
      <string name="mipay_transfer_amount_notice">Nhập số tiền chuyển</string>
@@ -1576,38 +1562,6 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mobile_phone_not_support">Mẫu này chưa được hỗ trợ #Vui lòng thay đổi điện thoại của bạn và thử lại</string>
      <string name="modify_phone_number">Sửa đổi số điện thoại di động dành riêng</string>
      <string name="modify_phone_number_success">Số điện thoại di động dành riêng đã được sửa đổi thành công</string>
-	 <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
-     <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
-     <string name="mtrl_exceed_max_badge_number_content_description">Hơn %1$d thông báo mới</string>
-     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-     <string name="mtrl_picker_a11y_next_month">Đổi sang tháng sau</string>
-     <string name="mtrl_picker_a11y_prev_month">Thay đổi về tháng trước</string>
-     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-     <string name="mtrl_picker_confirm">@android:string/ok</string>
-     <string name="mtrl_picker_date_header_selected">%1$s</string>
-     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
-     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
-     <string name="mtrl_picker_day_of_week_column_header">Cột ngày: %1$s</string>
-     <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
-     <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
-     <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
-     <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
-     <string name="mtrl_picker_navigate_to_year_description">Điều hướng đến năm %1$s</string>
-     <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
-     <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
-     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
-     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-     <string name="mtrl_picker_range_header_title">Chọn phạm vi</string>
-     <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
-     <string name="mtrl_picker_save">Lưu</string>
-     <string name="mtrl_picker_text_input_date_hint">Ngày</string>
-     <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
-     <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
-     <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
-     <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chọn ngày</string>
-     <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
-     <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chọn năm</string>
      <string name="name">Tên:</string>
      <string name="net_auth_fail">Xác thực mạng không thành công</string>
      <string name="net_auth_load">Tải xác thực ...</string>
@@ -1640,7 +1594,7 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="order_amount">Số tiền đặt hàng</string>
      <string name="order_amount_install">Số tiền đặt hàng:</string>
      <string name="order_number">Số đơn hàng</string>
-     <string name=" Organisation_confirm">Xác nhận</string>
+     <string name="Organisation_confirm">Xác nhận</string>
 	 <string name="page_pay_text_title">Giao dịch thanh toán di động Universal Pay, vui lòng chọn phương thức thanh toán bạn cần! </string>
      <string name="page_pay_title">Chọn phương thức thanh toán</string>
      <string name="param_cancel">Hủy thanh toán</string>
@@ -1818,7 +1772,6 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
     <string name="passport_wrong_vcode">Mã bạn nhập không chính xác</string>
     <string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
     <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
-    <string name="preference_copied">Đã sao chép \"%1$s\" vào khay nhớ tạm.</string>
 	<string name="pay_again">Thanh toán lại</string>
      <string name="pay_amount">Yêu cầu thanh toán</string>
      <string name="pay_code">Mã thanh toán được nhập thủ công là:</string>
@@ -2158,7 +2111,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="read_id_fail">Đọc không thành công</string>
      <string name="recv_message">Nhận tin nhắn. Nội dung là \"%1$s\"</string>
      <string name="redPackage">Tianxing Pay</string>
-     <string name="redPackage_description">Tianxing Financial·Wallet—gói tiền mặt màu đỏ được gửi hàng tháng</string>
+     <string name="redPackage_description">Tianxing Financial·Wallet — gói tiền mặt màu đỏ được gửi hàng tháng</string>
      <string name="redPackage_search">Phong bì tiền mặt màu đỏ; phong bì màu đỏ của tôi; phong bì màu đỏ; Tianxing Financial·Wallet phong bì màu đỏ; đã nhận phong bì màu đỏ; Tianxing Financial·ví đã nhận được phong bì màu đỏ; nhận phong bì màu đỏ; nhận tiền mặt</string>
      <string name="refresh">Làm mới</string>
      <string name="register_fail">Đăng ký thất bại.</string>
@@ -2177,7 +2130,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="revoke_eid">Đăng xuất eID</string>
      <string name="revoke_origen_eid">Đăng xuất eID gốc</string>
      <string name="revoke_origin_eid_fail">Không thể đăng xuất khỏi eID ban đầu, vui lòng thử lại!</string>
-     <string name="risk_block_title"><Data>Giao dịch đã đóng, vui lòng gọi&lt;font color=#0000ff>95534&lt;/font></Data></string> để biết chi tiết
+     <string name="risk_block_title"><Data>Giao dịch đã đóng, vui lòng gọi&lt;font color=#0000ff>95534&lt;/font> để biết chi tiết</Data></string>
      <string name="risk_evaluation">Đánh giá rủi ro</string>
      <string name="rotate_phone_description">Đặt camera trước lên trên</string>
      <string name="rotate_phone_title">Hãy xoay điện thoại</string>
@@ -2410,7 +2363,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="stat_event_fingerprint_off">tắt dấu vân tay</string>
      <string name="stat_event_fingerprint_on">mở dấu vân tay</string>
      <string name="stat_event_fingerprint_preference_all">Công tắc mở khóa bằng vân tay</string>
-      <string name="stat_event_fingerprint_preference_all_click">Nhấp vào công tắc chính mở khóa bằng vân tay</string>
+     <string name="stat_event_fingerprint_preference_all_click">Nhấp vào công tắc chính mở khóa bằng vân tay</string>
      <string name="stat_event_fingerprint_preference_app">Ứng dụng ứng dụng</string>
      <string name="stat_event_fingerprint_preference_app_click">Thêm ứng dụng APP</string>
      <string name="stat_event_fingerprint_preference_card_folder">Cung cấp thẻ nhớ</string>
@@ -2490,7 +2443,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="stat_verification_start">Bắt đầu xác thực khuôn mặt</string>
      <string name="stat_verification_success">Xác thực khuôn mặt thành công</string>
      <string name="stat_verify_fail_cancel">Hộp bật lên xác minh thất bại_cancel</string>
-     <string name="stat_verify_fail_retry">Xác minh thất bại <string>
+     <string name="stat_verify_fail_retry">Xác minh thất bại</string>
      <string name="statuecode_empty_prompt">Mã trạng thái người dùng không được để trống</string>
      <string name="statuecode_error_prompt">Lỗi mã trạng thái người dùng</string>
      <string name="stop">Dừng</string>
@@ -2503,7 +2456,6 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="support_verify_privacy">Vui lòng đọc và đồng ý&lt;txt color=\"#337DFF\" href=\"https://jr.mi.com/uc/s/app_setting/agreements/privacy_latest.html? app= com.xiaomi.jr&amp;amp;_external=true&amp;amp;from=%1$s\">"Chính sách bảo mật tài chính của Tianxing"&lt;/txt></string>
      <string name="switch_nfc_pay"><u>Chuyển thanh toán qua NFC</u></string>
      <string name="switch_scancode_pay"><u>Chuyển thanh toán bằng mã quét</u></string>
-     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
 	 <string name="take_photo_manualy">Chụp ảnh thủ công</string>
      <string name="text_add_bank_card">Thêm thẻ ngân hàng</string>
      <string name="text_cancel_input_password">Hủy xác minh mật khẩu thanh toán sẽ dẫn đến việc thanh toán này không thành công. Vui lòng xác nhận xem bạn có muốn thoát xác minh mật khẩu thanh toán hay không</string>
@@ -2611,7 +2563,7 @@ Vui lòng kiểm tra ngày địa phương của bạn và thử lại."</string
      <string name="ucashier_faq">Câu hỏi thường gặp</string>
      <string name="ucashier_handle_loading">Đang xử lý…</string>
      <string name="ucashier_installment_stagecost_and_stage">￥%1$s*%2$s</string>
-     <string name="ucashier_installment_total_fee"><Data>Tổng số tiền hoàn trả &lt;font color=#ff5142>&lt;xliff:g id=amount>%1$s&lt;/xliff:g> RMB&lt;/font></Data>< /chuỗi>
+     <string name="ucashier_installment_total_fee"><Data>Tổng số tiền hoàn trả &lt;font color=#ff5142>&lt;xliff:g id=amount>%1$s&lt;/xliff:g> RMB&lt;/font></Data></string>
      <string name="ucashier_interest_free">0APR</string>
      <string name="ucashier_loading">Đang tải…</string>
      <string name="ucashier_main_title">UCashier</string>
@@ -2639,7 +2591,7 @@ Vui lòng kiểm tra ngày địa phương của bạn và thử lại."</string
      <string name="ucashier_ums_alipay_not_exist_toast">Bạn chưa cài đặt Alipay, vui lòng tải xuống và cài đặt trước</string>
      <string name="ucashier_ums_wx_not_exist_toast">Bạn chưa cài đặt WeChat, vui lòng tải xuống và cài đặt trước</string>
      <string name="ucashier_uppay_error_mipay_undefault">Vui lòng đặt ví mặc định thành Ví Airstar trong Cài đặt-NFC.</string>
-     <string name="ucashier_uppay_error_nfc_close">Chức năng NFC của bạn đã được bật
+     <string name="ucashier_uppay_error_nfc_close">Chức năng NFC của bạn đã được bật</string>
 	 <string name="ucashier_uppay_error_search_phone_close">"Bạn chưa bật tính năng Tìm điện thoại của tôi"</string>
      <string name="ucashier_uppay_error_unlogin">Bạn chưa đăng nhập vào tài khoản Xiaomi</string>
      <string name="ucashier_use_coupons">Tôi hiểu rồi</string>
@@ -2706,9 +2658,7 @@ vượt qua. Chú ý đến ánh sáng và tránh sự phản chiếu của ch�
      <string name="verifying">Đang nhận dạng</string>
      <string name="version_code">Mã phiên bản</string>
      <string name="version_title">Phiên bản</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
-	<string name="wbcf_error_msg">Hãy đảm bảo rằng khuôn mặt hướng vào khung và không bị chặn</string>
+	 <string name="wbcf_error_msg">Hãy đảm bảo rằng khuôn mặt hướng vào khung và không bị chặn</string>
      <string name="wbcf_light_get_pic_failed">Không phát hiện được khuôn mặt rõ ràng; vui lòng giữ mặt trước rõ ràng và không rung</string>
      <string name="wbcf_no_try">Không cần cố gắng nữa</string>
      <string name="wbcf_open_máy ảnh_permission">"Bạn có thể thử sử dụng tính năng quản lý quyền của ứng dụng di động

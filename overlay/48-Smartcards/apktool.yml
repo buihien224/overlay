@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.Wallet.apk
+apkFileName: miuivs.Smartcard.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -9,7 +9,7 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '23'
+  minSdkVersion: '28'
   targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: true
@@ -20,5 +20,5 @@ usesFramework:
   tag: null
 version: 2.8.1
 versionInfo:
-  versionCode: '20577471'
-  versionName: miuivs-2.5
+  versionCode: '1235'
+  versionName: miuivs-2.3.0.4

@@ -282,7 +282,7 @@ Bạn có thể tắt chức năng cổng thông tin bất cứ lúc nào trong 
 Các hạn chế ở trên sẽ được kết hợp với các mục bạn thêm vào danh sách chặn của mình.</string>
      <string name="other_app_blacklist_empty_title">Không thể tìm thấy ứng dụng.</string>
      <string name="other_app_blacklist_summary">Thêm ứng dụng vào danh sách chặn nếu bạn cho rằng chúng không cần hỗ trợ từ Taplus. Danh sách chặn có thể giúp bạn tránh các vấn đề về tương thích.</string>
-     <string name="other_app_blacklist_title">Danh sách chặn ứng dụng</string>
+     <string name="other_app_blacklist_title">Danh sách ứng dụng bị chặn</string>
      <string name="pad_settings_taplus_introduction">Taplus là một ứng dụng hệ thống hoạt động với văn bản được sao chép và cho phép bạn nhận các dịch vụ bổ sung.</string>
      <string name="pad_settings_taplus_title">Làm được nhiều hơn với văn bản đã sao chép</string>
      <string name="permission_storage_deny_content">Để có thể lưu hình ảnh, trước tiên hãy cấp các quyền cần thiết.</string>
