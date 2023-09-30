@@ -3282,4 +3282,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="hdr_switch_show_hint">Sử dụng HDR để hiển thị thêm chi tiết trong độ sáng cao và vùng bóng.</string>
     <string name="hdr_switch_show_title">Hiển thị HDR</string>
     <string name="media_type_hd">Độ phân giải cao</string>
+    <string name="secret_album_password_update_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư có tác dụng với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
+     <string name="secret_album_password_first_use_with_sms_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
+     <string name="secret_album_set_pc_password_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
 </resources>

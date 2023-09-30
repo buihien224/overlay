@@ -174,7 +174,7 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="cm_privacy_dialog_allow">Đồng ý</string>
     <string name="cm_privacy_dialog_cancel">Hủy</string>
     <string name="cm_privacy_dialog_spannable_tips">Chính sách Riêng tư</string>
-    <string name="cm_privacy_dialog_tips">Dịch vụ tin nhắn thông minh được cung cấp bởi nhà cung cấp dịch vụ. Tin nhắn cần kết nối Internet và truy cập vị trí của bạn để cung cấp các dịch vụ này. Bạn phải đồng ý với %1s của nhà cung cấp trước khi bắt đầu sử dụng dịch vụ. Đồng ý?</string>
+    <string name="cm_privacy_dialog_tips">Dịch vụ Tin nhắn Thông minh được cung cấp bởi nhà cung cấp dịch vụ. Tin nhắn cần kết nối Internet và truy cập vị trí của bạn để cung cấp các dịch vụ này. Bạn phải đồng ý với %1s của nhà cung cấp trước khi bắt đầu sử dụng dịch vụ. Đồng ý?</string>
     <string name="cm_privacy_dialog_title">Chú ý</string>
     <string name="cmcc_privacy">Thỏa thuận Riêng tư của nhà cung cấp dịch vụ China Mobile</string>
     <string name="coach">Toa</string>
@@ -282,7 +282,7 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="dialog_message_rcs">Tin nhắn China Mobile cho phép bạn gửi tin nhắn đến người dùng China Mobile khác ở Trung Quốc Đại lục mà không phải trả phí phát sinh. Bạn phải đồng ý với \"%1$s\" trước khi sử dụng Tin nhắn China Mobile.</string>
     <string name="dialog_sim_locked_confirm">OK</string>
     <string name="dialog_sim_locked_message">Chức năng thẻ SIM không hoạt động đầy đủ với điện thoại này do không tuân thủ các điều khoản và điều kiện đăng ký. Nếu bạn có bất kỳ câu hỏi hoặc cần thêm thông tin về vấn đề này, vui lòng liên hệ với các trung tâm dịch vụ của Xiaomi hoặc cửa hàng bán sản phẩm cho bạn.</string>
-    <string name="dialog_smart_message_privacy_tips">Dịch vụ Tin nhắn Thông minh được cung cấp một phần bởi Dianhuabang. Trước khi sử dụng Tin nhắn thông minh, bạn phải đồng ý với \"%1$s\". Tin nhắn Thông minh cần kết nối internet và truy cập vị trí của bạn để hoạt động bình thường. Đồng ý?</string>
+    <string name="dialog_smart_message_privacy_tips">Dịch vụ Tin nhắn Thông minh được cung cấp một phần bởi Dianhuabang. Trước khi sử dụng Tin nhắn Thông minh, bạn phải đồng ý với \"%1$s\". Tin nhắn Thông minh cần kết nối internet và truy cập vị trí của bạn để hoạt động bình thường. Đồng ý?</string>
     <string name="dialog_smart_message_privacy_tips_title">Chính sách Riêng tư Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Chuyển đến tin nhắn quảng cáo</string>
     <string name="dialog_title_correct_as_normal">Chuyển đến tin nhắn thông thường</string>
@@ -399,7 +399,7 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="feature_mx">Tin nhắn Mi</string>
     <string name="feature_mx_summary"><b>Tin nhắn Mi cho phép bạn gửi tin nhắn cho những người dùng Tin nhắn Mi khác qua internet mà không phải trả phí</b>. Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp dịch vụ sẽ tính phí tin nhắn này. Đọc và đồng ý với <a href="http://url1"><font color="#B3000000">Thỏa thuận Người dùng</font></a> và <a href="http://url2"><font color="#B3000000">Chính sách Riêng tư</font></a> của chúng tôi trước khi sử dụng tính năng này.</string>
     <string name="feature_smart_sms">Tin nhắn Thông minh</string>
-    <string name="feature_smart_sms_summary"><b>Tin nhắn Thông minh cung cấp nhận dạng ID Người gửi và menu thông minh</b>. Tin nhắn thông minh được cung cấp một phần bởi Yulore. Đọc và đồng ý với <a href="http://url3"><font color="#B3000000">Chính sách Riêng tư</font></a> của Yolore trước khi sử dụng tính năng này.</string>
+    <string name="feature_smart_sms_summary"><b>Tin nhắn Thông minh cung cấp nhận dạng ID Người gửi và menu thông minh</b>. Tin nhắn Thông minh được cung cấp một phần bởi Yulore. Đọc và đồng ý với <a href="http://url3"><font color="#B3000000">Chính sách Riêng tư</font></a> của Yolore trước khi sử dụng tính năng này.</string>
     <string name="festival_sms_loading">Đang tải…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Đã tạo:</string>
@@ -627,12 +627,12 @@ Kiểm tra thẻ SIM của bạn."</string>
     <string name="mms_block_hint">"Người gửi này không có trong danh bạ của bạn.
     Tin nhắn này có thể là tin nhắn không được yêu cầu."</string>
     <string name="mms_block_hint_highlight">Chặn MMS</string>
-    <string name="mms_main_purpose_new">Ứng dụng này cần kết nối internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi đề nghị bạn bật dịch vụ Tin nhắn Mi và Tin nhắn thông minh.</string>
+    <string name="mms_main_purpose_new">Ứng dụng này cần kết nối internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi đề nghị bạn bật dịch vụ Tin nhắn Mi và Tin nhắn Thông minh.</string>
     <string name="mms_mi_message_main_purpose">Chào mừng đến với Tin nhắn Mi! Một tin nhắn SMS đi ra cần được gửi để kích hoạt Tin nhắn Mi. Nhà mạng của bạn sẽ tính phí cho tin nhắn này.</string>
     <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận hưởng tối đa Tin nhắn Mi.</string>
     <string name="mms_mx_privacy_policy">Chính sách Riêng tư Tin nhắn Mi</string>
-    <string name="mms_smart_msg_main_purpose">Tin nhắn thông minh có thể nhận dạng các ID người gửi, cung cấp dịch vụ menu thông minh và xác định các tin nhắn đáng ngờ.</string>
-    <string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn thông minh</string>
+    <string name="mms_smart_msg_main_purpose">Tin nhắn Thông minh có thể nhận dạng các ID người gửi, cung cấp dịch vụ menu thông minh và xác định các tin nhắn đáng ngờ.</string>
+    <string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
     <string name="mms_title">Tin nhắn</string>
     <string name="mms_user_agreement">Thỏa thuận người dùng</string>
     <string name="mobile_charge">Nạp tiền</string>
@@ -1276,8 +1276,8 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="smart_messages_network_allow_title">Yêu cầu kết nối mạng</string>
     <string name="smart_msg_main_purpose">Tin nhắn Thông minh cung cấp nhận dạng ID người gửi và dịch vụ menu thông minh.</string>
     <string name="smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
-    <string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Tin nhắn thông minh</string>
-    <string name="smart_msg_upgrade_main_purpose">Tin nhắn thông minh hiện hoạt động với MMS. Bạn sẽ có thể sử dụng nhiều dịch vụ hơn do người gửi cung cấp cũng như nhận tin nhắn ở các định dạng mới.</string>
+    <string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý với Chính sách Riêng tư của Tin nhắn Thông minh</string>
+    <string name="smart_msg_upgrade_main_purpose">Tin nhắn Thông minh hiện hoạt động với MMS. Bạn sẽ có thể sử dụng nhiều dịch vụ hơn do người gửi cung cấp cũng như nhận tin nhắn ở các định dạng mới.</string>
     <string name="sms_card_partner_label">"Đối tác thẻ SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Nội dung:</string>
@@ -1344,7 +1344,7 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="system_permission_declare_rcs">Chào mừng đến với Tin nhắn 5G!</string>
     <string name="system_permission_declare_revoke_path">Bạn có thể rút lại sự ủy quyền và tắt dịch vụ trong cài đặt Tin nhắn.</string>
     <string name="system_permission_declare_single_link">Đọc và đồng ý với %1s của chúng tôi trước khi sử dụng tính năng này.</string>
-    <string name="system_permission_declare_smart_message">Chào mừng đến với Tin nhắn thông minh!</string>
+    <string name="system_permission_declare_smart_message">Chào mừng đến với Tin nhắn Thông minh!</string>
     <string name="system_permission_declare_user_agree">Đồng ý</string>
     <string name="system_permission_disabled">Không được cấp</string>
     <string name="system_permission_enabled">Được cấp</string>
