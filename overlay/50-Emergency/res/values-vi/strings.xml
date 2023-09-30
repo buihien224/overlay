@@ -324,7 +324,6 @@ Lựa chọn"</string>
      <string name="disable_overlays_summary">Luôn sử dụng GPU để tổng hợp màn hình</string>
      <string name="disabled">Đã tắt</string>
      <string name="disabled_by_admin">Đã bị quản trị viên vô hiệu</string>
-     <string name="disabled_by_admin_summary_text">Do quản trị viên kiểm soát</string>
      <string name="disabled_by_app_ops_text">Được kiểm soát bởi cài đặt hạn chế</string>
      <string name="done">Xong</string>
      <string name="dream_complication_title_aqi">Chất lượng không khí</string>

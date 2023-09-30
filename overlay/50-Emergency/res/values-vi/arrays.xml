@@ -34,24 +34,6 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    <array name="background_style1">
-        <item>@drawable/rounded_ripple</item>
-    </array>
-    <array name="background_style2">
-        <item>@drawable/left_rounded_ripple</item>
-        <item>@drawable/right_rounded_ripple</item>
-    </array>
-    <array name="background_style3">
-        <item>@drawable/left_rounded_ripple</item>
-        <item>@drawable/square_ripple</item>
-        <item>@drawable/right_rounded_ripple</item>
-    </array>
-    <array name="background_style4">
-        <item>@drawable/left_rounded_ripple</item>
-        <item>@drawable/square_ripple</item>
-        <item>@drawable/square_ripple</item>
-        <item>@drawable/right_rounded_ripple</item>
-    </array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -77,10 +59,6 @@
         <item>15</item>
         <item>100</item>
     </integer-array>
-    <array name="batterymeter_color_values">
-        <item>?android:colorError</item>
-        <item>@android:color/white</item>
-    </array>
     <integer-array name="batterymeter_plus_points">
         <item>3</item>
         <item>0</item>
@@ -107,42 +85,6 @@
         <item>3</item>
         <item>3</item>
     </integer-array>
-    <string-array name="blood_type_content_description">
-        <item>@string/o_positive</item>
-        <item>@string/o_negative</item>
-        <item>@string/a_positive</item>
-        <item>@string/a_negative</item>
-        <item>@string/b_positive</item>
-        <item>@string/b_negative</item>
-        <item>@string/ab_positive</item>
-        <item>@string/ab_negative</item>
-        <item>@string/h_h</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
-    <string-array name="blood_type_entries">
-        <item>@string/oplus</item>
-        <item>@string/ominus</item>
-        <item>@string/aplus</item>
-        <item>@string/aminus</item>
-        <item>@string/bplus</item>
-        <item>@string/bminus</item>
-        <item>@string/abplus</item>
-        <item>@string/abminus</item>
-        <item>@string/hh</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
-    <string-array name="blood_type_values">
-        <item>0+</item>
-        <item>O-</item>
-        <item>A+</item>
-        <item>A-</item>
-        <item>B+</item>
-        <item>B-</item>
-        <item>AB+</item>
-        <item>AB-</item>
-        <item>H/H</item>
-        <item></item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
          <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
          <item>16 bit/mẫu</item>
@@ -351,11 +293,6 @@
          <item>chỉ drm</item>
          <item>luôn luôn</item>
      </string-array>
-     <string-array name="organ_donor_entries">
-         <item>@string/có</item>
-         <item>@string/no</item>
-         <item>@string/unknown_organ_donor</item>
-     </string-array>
      <string-array name="organ_donor_values">
          <item>Có</item>
          <item>Không</item>
@@ -446,13 +383,6 @@
          <item>ẩn</item>
          <item>khu vực</item>
          <item>đánh dấu</item>
-     </string-array>
-     <string-array name="simulate_color_space_entries">
-         <item>@string/daltonizer_mode_disabled</item>
-         <item>@string/daltonizer_mode_monochromacy</item>
-         <item>@string/daltonizer_mode_deuteranomaly</item>
-         <item>@string/daltonizer_mode_protanomaly</item>
-         <item>@string/daltonizer_mode_tritanomaly</item>
      </string-array>
      <string-array name="simulate_color_space_values">
          <item>-1</item>

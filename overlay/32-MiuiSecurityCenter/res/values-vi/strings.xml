@@ -3650,7 +3650,6 @@
     <string name="privacy_guide_permission_use_text">MIUI sẽ đếm và hiển thị số lần ứng dụng sử dụng các quyền nhạy cảm, bao gồm truy cập vị trí, liên hệ, lịch sử cuộc gọi, bộ nhớ, cũng như ghi âm. Bạn có thể tìm hiểu số lần mỗi ứng dụng sử dụng các quyền này và xác định xem bạn có cần điều chỉnh cài đặt quyền truy cập hay không.</string>
     <string name="privacy_hide_other_permissions">Ẩn quyền khác</string>
     <string name="privacy_informed_title">Thống kê</string>
-    <string name="privacy_input_model_tips">Nhập an toàn đang bật. Bàn phím không thể hiển thị cửa sổ bật lên hoặc truy cập danh bạ, thông tin vị trí và lịch sử cuộc gọi.</string>
     <string name="privacy_lab_empty">Chưa có tính năng nào ở đây</string>
     <string name="privacy_location_info_summary">Quản lý quyền truy cập vị trí của bạn</string>
     <string name="privacy_location_info_title">Thông tin vị trí</string>
@@ -4035,7 +4034,6 @@
     <string name="shield_keyboard_title">Giới hạn phím và cử chỉ</string>
     <string name="shortcut_title_scan">Quét</string>
     <string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
-    <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="show_traffic_dialog_message">Thông tin sử dụng dữ liệu của bạn sẽ được hiển thị trên Thanh thông báo. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Sử dụng dữ liệu > Cài đặt.</string>
     <string name="show_traffic_dialog_title">Hiển thị sử dụng trên Thanh thông báo</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
@@ -5222,7 +5220,6 @@
         <string name="pp_antitrack_detail">Các ứng dụng có thể theo dõi hoạt động của bạn thông qua thông tin nhận dạng cá nhân, thông tin vị trí và các loại thông tin cá nhân khác được chia sẻ với chúng. Việc theo dõi hoạt động của bạn trong các ứng dụng và trang web khác nhau cho phép họ cá nhân hóa quảng cáo và đề xuất nội dung phù hợp cho bạn.</string>
         <string name="pp_app_behavior_record_detail">Ghi lại mọi hành vi của ứng dụng</string>
         <string name="pp_app_del_img_intercept_detail">Nhận thông báo khi ứng dụng xóa các mục khỏi Thư viện mà không có sự cho phép của bạn</string>
-        <string name="pp_app_gets_dangeous_permission_reminder">Nhận thông báo khi ứng dụng sử dụng quyền có mức độ rủi ro cao</string>
         <string name="pp_app_gets_dangeous_permission_reminder_detail">Nhận thông báo mỗi khi ứng dụng sử dụng quyền có mức độ rủi ro cao và xem xét các lựa chọn của bạn</string>
         <string name="pp_app_lock_introduction">Khóa màn hình bổ sung</string>
         <string name="pp_app_reads_clipboard_smart_reminder">Bảo vệ bộ nhớ tạm</string>
@@ -5676,7 +5673,6 @@
      <string name="app_behavior_record_open_content_text">Hồ sơ hành vi ứng dụng hiển thị chức năng của ứng dụng và giúp bạn tránh các rủi ro bảo mật.</string>
      <string name="app_behavior_record_cancel">Hủy</string>
      <string name="full_informed_privacy">Nhận thức về quyền riêng tư</string>
-     <string name="item_app_permission">Quyền ứng dụng</string>
      <string name="pp_app_permission_settings_detail">Cho phép ứng dụng sử dụng các quyền liên quan đến quyền riêng tư</string>
      <string name="privacy_input_mode">Đầu vào an toàn</string>
      <string name="privacy_input_model_tips">"Đầu vào bảo mật đang bật. Bàn phím của bạn không thể hiển thị cửa sổ bật lên hoặc truy cập danh bạ, thông tin vị trí và lịch sử cuộc gọi."</string>
@@ -5692,7 +5688,6 @@
      <string name="offline_voice_input">Nhập giọng nói ngoại tuyến</string>
      <string name="offline_voice_input_detail">"Bạn sẽ không cần Internet để nhập giọng nói."</string>
      <string name="pp_app_gets_dangeous_permission_reminder">Nhận thông báo khi ứng dụng sử dụng quyền có mức độ rủi ro cao</string>
-     <string name="pp_app_gets_dangeous_permission_reminder_detail">Nhận thông báo mỗi khi ứng dụng sử dụng quyền có mức độ rủi ro cao và xem xét các lựa chọn của bạn</string>
      <string name="permission_instruction_storage">"Nếu bạn cho phép ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập vào các mục trong Thư viện của bạn và các tệp được tạo trong ứng dụng mạng xã hội để bảo vệ bạn hay không quyền riêng tư. Vì các ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ nên khóa chuyển này sẽ không được cung cấp cho chúng."</string>
      <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
      <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu giữ trên thiết bị này thay vì được tải lên đám mây</string>
@@ -5714,5 +5709,4 @@
      <string name="sim_lock_setting_keyguard_enable_message">Bật để xác minh mã PIN trước khi xác nhận khóa màn hình của bạn</string>
      <string name="security_guide_title">Hộp công cụ</string>
         <string name="phone_manager_title">Hộp công cụ</string>
-
 </resources>

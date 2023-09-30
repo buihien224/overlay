@@ -7,6 +7,10 @@ recp() {
 	apk1=${apkp:3}
 	apk2=miuivs.$apk1
 
+	echo $apkp
+	echo $apk1
+	echo $apk2
+
 	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
 	if [[ -f output/$apk2.temp  ]]; then
