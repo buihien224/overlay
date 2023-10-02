@@ -454,9 +454,9 @@
     <string name="app_manager_force_stop_dlg_title">Buộc dừng?</string>
     <string name="app_manager_full_screen_summary">Cho phép ứng dụng được chọn làm việc trong chế độ toàn màn hình</string>
     <string name="app_manager_full_screen_title">Chế độ toàn màn hình</string>
-    <string name="app_manager_globel_other_perm_title">Quyền khác</string>
-    <string name="app_manager_globel_perm_summary">Quản lý quyền truy cập vị trí, lưu trữ, điện thoại, tin nhắn và liên hệ.</string>
-    <string name="app_manager_globel_perm_title">Quyền ứng dụng</string>
+    <string name="app_manager_global_other_perm_title">Quyền khác</string>
+    <string name="app_manager_global_perm_summary">Quản lý quyền truy cập vị trí, lưu trữ, điện thoại, tin nhắn và liên hệ.</string>
+    <string name="app_manager_global_perm_title">Quyền ứng dụng</string>
     <string name="app_manager_has_not_data">Không có dữ liệu</string>
     <string name="app_manager_have_not_consume">Không</string>
     <string name="app_manager_hide_system_server">Ẩn dịch vụ hệ thống</string>
@@ -489,12 +489,12 @@
     <string name="app_manager_reset_app_preferences_button">Đặt lại ứng dụng</string>
     <string name="app_manager_reset_app_preferences_desc">"Thao tác này sẽ đặt lại tất cả các tùy chọn cho:
 
-    "<li>Ứng dụng đã vô hiệu hóa</li>"
-    "<li>Thông báo ứng dụng đã vô hiệu hóa</li>"
-    "<li>Ứng dụng mặc định</li>"
-    "<li>Giới hạn dữ liệu nền ứng dụng</li>"
+"<li>Ứng dụng đã vô hiệu hóa</li>"
+"<li>Thông báo ứng dụng đã vô hiệu hóa</li>"
+"<li>Ứng dụng mặc định</li>"
+"<li>Giới hạn dữ liệu nền ứng dụng</li>"
 
-    Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
+Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_manager_reset_app_preferences_title">Đặt lại tùy chọn ứng dụng?</string>
     <string name="app_manager_restricted_settings_title">Cho phép cài đặt giới hạn</string>
     <string name="app_manager_search_prompt">Không tìm thấy kết quả? Thử hiển thị kết quả từ tất cả các ứng dụng.</string>
@@ -859,14 +859,14 @@
     <string name="bh_purchase_dialog_number_text">"Số điện thoại: "</string>
     <string name="bh_purchase_dialog_tips">Mua có thể nhận được trễ</string>
     <string name="bh_set_phone_dialog_title">"Đảm bảo số điện thoại bạn nhập vào đây là chính xác.
-    Bạn có thể thay đổi số điện thoại trong Cài đặt."</string>
+Bạn có thể thay đổi số điện thoại trong Cài đặt."</string>
     <string name="bh_settings_declare">Từ chối trách nhiệm</string>
     <string name="bh_settings_policy_text">Chính sách Riêng tư</string>
     <string name="bh_settings_user_agreement">Thỏa thuận Người dùng</string>
     <string name="bh_settings_withdrawal_dialog_content_text">"Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư của Yulore Limited.
-    Sau đó, chúng tôi sẽ ngừng thu thập và sử dụng thông tin cá nhân của bạn và xóa lịch sử đặt hàng của bạn vĩnh viễn. Đảm bảo tất cả giao dịch của bạn đã được hoàn thành trước khi bạn rút lại chấp thuận."</string>
+Sau đó, chúng tôi sẽ ngừng thu thập và sử dụng thông tin cá nhân của bạn và xóa lịch sử đặt hàng của bạn vĩnh viễn. Đảm bảo tất cả giao dịch của bạn đã được hoàn thành trước khi bạn rút lại chấp thuận."</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">"Dường như bạn muốn rút lại chấp thuận đối với Chính sách Riêng tư của Yulore Limited.
-    Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để có thể rút lại chấp thuận, liên hệ với bộ phận hỗ trợ khách hàng để đóng đơn đặt hàng của bạn."</string>
+Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để có thể rút lại chấp thuận, liên hệ với bộ phận hỗ trợ khách hàng để đóng đơn đặt hàng của bạn."</string>
     <string name="bh_settings_withdrawal_dialog_title">Rút lại chấp thuận</string>
     <string name="bh_settings_withdrawal_subtitle">Rút lại chấp thuận Chính sách Riêng tư Sử dụng dữ liệu</string>
     <string name="bh_settings_withdrawal_text">Rút lại chấp thuận</string>
@@ -1101,7 +1101,7 @@
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
     <string name="conversation_settings_top">"·Trượt thanh Công cụ hội nghị trong cuộc gọi âm thanh và video toàn màn hình để truy cập các tính năng.
-    ·Loại và số lượng tính năng tùy thuộc vào mẫu thiết bị."</string>
+·Loại và số lượng tính năng tùy thuộc vào mẫu thiết bị."</string>
     <string name="conversation_sider_tips">Sử dụng Công cụ hội nghị mới để có trải nghiệm cuộc gọi tốt nhất</string>
     <string name="conversation_summary">Làm đẹp, phiên âm phụ đề và các tính năng khác trong cuộc gọi âm thanh và video</string>
     <string name="conversation_title">Công cụ hội nghị</string>
@@ -1181,7 +1181,7 @@
     <string name="data_usage_no_total_package_title">Thiết lập giới hạn sử dụng dữ liệu</string>
     <string name="data_usage_protected_dialog_message">"MIUI đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
 
-    Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
+Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
     <string name="data_usage_protected_notify_message">MIUI đã tắt dữ liệu di động để chặn phát sinh phí từ nhà cung cấp.</string>
     <string name="data_usage_protected_notify_title">Bạn đã sử dụng 5GB dữ liệu di động</string>
     <string name="data_usage_warning_body">Chạm để xem chi tiết sử dụng dữ liệu.</string>
@@ -1220,7 +1220,7 @@
     <string name="details_subtitle">Chi tiết sử dụng</string>
     <string name="device_manager_apply_step_1">Kích hoạt quản trị viên thiết bị cho ứng dụng này?</string>
     <string name="device_manager_apply_step_2">"Kích hoạt quản trị viên thiết bị cho ứng dụng này có thể dẫn đến việc hiển thị dữ liệu cá nhân của bạn.
-    Tất cả dữ liệu trên thiết bị có thể bị xóa và mật khẩu Màn hình khóa có thể được đặt lại."</string>
+Tất cả dữ liệu trên thiết bị có thể bị xóa và mật khẩu Màn hình khóa có thể được đặt lại."</string>
     <string name="device_manager_apply_step_3">Đảm bảo bạn hiểu tất cả các rủi ro có thể xảy ra trước khi tiếp tục. Kích hoạt quản trị viên thiết bị cho ứng dụng này bây giờ?</string>
     <string name="dialog_app_roaming_message">%1$s không thể sử dụng dữ liệu di động khi chuyển vùng. Khi bạn chuyển vùng, chỉ có ứng dụng được thêm trong danh sách ngoại lệ mới có thể sử dụng dữ liệu di động.</string>
     <string name="dialog_app_roaming_title">%1$s không thể sử dụng chuyển vùng dữ liệu</string>
@@ -1243,10 +1243,10 @@
     <string name="dialog_roaming_warning_ok">Bật</string>
     <string name="dialog_skt_roaming_warning_cancel">Không đồng ý</string>
     <string name="dialog_skt_roaming_warning_message">"Đọc và đồng ý với các điều kiện bên dưới để sử dụng chuyển vùng dữ liệu. Phí chuyển vùng dữ liệu quốc tế có thể được áp dụng. Nếu không có gói chuyển vùng dữ liệu, các ứng dụng tự động cập nhật có thể bị tính phí đáng kể, chẳng hạn như các ứng dụng liên quan đến mạng xã hội, email và thời tiết.
-    * Khi bạn không đồng ý sử dụng chuyển vùng dữ liệu, chuyển vùng dữ liệu sẽ bị tắt.
-    * HD Voice được sử dụng mặc định trên các mạng được hỗ trợ.
-    * Chuyển vùng dữ liệu 5G chỉ khả dụng trong các mạng đối tác của chúng tôi.
-    "</string>
+ * Khi bạn không đồng ý sử dụng chuyển vùng dữ liệu, chuyển vùng dữ liệu sẽ bị tắt.
+ * HD Voice được sử dụng mặc định trên các mạng được hỗ trợ.
+ * Chuyển vùng dữ liệu 5G chỉ khả dụng trong các mạng đối tác của chúng tôi.
+"</string>
     <string name="dialog_skt_roaming_warning_ok">Đồng ý</string>
     <string name="dialog_skt_roaming_warning_title">Thỏa thuận chuyển vùng dữ liệu</string>
     <string name="dialog_title_attention">Chú ý</string>
@@ -1281,12 +1281,12 @@
     <string name="dlg_message_not_open_stranger_identify">Để bật tính năng này, hãy vào Cài đặt > Điện thoại.</string>
     <string name="dlg_move_to_white">Thêm vào d.sách ngoại lệ</string>
     <string name="dlg_no_block">"Bỏ chặn số điện thoại này?
-    Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
+Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
     <string name="dlg_not_block_call">"Bỏ chặn các số đã chọn?
-    Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
+Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
     <string name="dlg_not_block_sms">"Bỏ chặn các số đã chọn?
-    Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong hộp thư tin nhắn."</string>
+Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong hộp thư tin nhắn."</string>
     <string name="dlg_onlie_service_summary">Tắt dịch vụ trực tuyến sẽ làm cho tất cả tính năng ứng dụng không khả dụng. Vẫn tắt?</string>
     <string name="dlg_open_online_service_pos_text">Bật</string>
     <string name="dlg_open_online_service_summary">Một số tính năng sẽ không khả dụng khi dịch vụ trực tuyến tắt. Bật dịch vụ trực tuyến ngay?</string>
@@ -1609,37 +1609,37 @@
     <string name="free_time_traffic_title">Nhập giới hạn dữ liệu ngoài giờ cao điểm</string>
     <string name="free_traffic_settings">Cài đặt sử dụng dữ liệu ngoài giờ cao điểm</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
-    · Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình."</string>
+· Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình."</string>
     <string name="friday">Thứ sáu</string>
     <string name="friday_short">Th 6</string>
     <string name="friday_shortest">Th 6</string>
     <string name="full_fill_oprator_and_location">Cung cấp thông tin và vị trí nhà cung cấp</string>
     <string name="full_fill_sim_location">Thiết lập vị trí trước</string>
     <string name="function_auto_reject_detail">"Giới thiệu tính năng này:
-    1. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động.
-    2. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
-    3. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc."</string>
+1. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động.
+2. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
+3. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc."</string>
     <string name="function_auto_reject_detail_new">"Giới thiệu tính năng này:
-    %1$d. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động
-    %2$d. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
-    %3$d. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc đại lục."</string>
+%1$d. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động
+%2$d. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
+%3$d. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc đại lục."</string>
     <string name="function_auto_reject_title">Từ chối cuộc VoLTE đến thẻ SIM không có dịch vụ dữ liệu</string>
     <string name="function_close">Tắt</string>
     <string name="function_gwsd_detail">"Giới thiệu tính năng này: 
-    1. Khi bạn đang sử dụng dữ liệu di động trên thẻ SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi cuộc gọi đến cho đến khi bạn nhấc máy. 
-    2. Khi tính năng này được bật, đối phương sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ từ chối tự động sau 7-10 giây không hoạt động. 
-    3. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
+ 1. Khi bạn đang sử dụng dữ liệu di động trên thẻ SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi cuộc gọi đến cho đến khi bạn nhấc máy. 
+ 2. Khi tính năng này được bật, đối phương sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ từ chối tự động sau 7-10 giây không hoạt động. 
+ 3. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
     <string name="function_gwsd_detail_new">"Giới thiệu tính năng này:
-    %1$d. Khi bạn đang sử dụng dữ liệu di động trên thẻ SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi cuộc gọi đến cho đến khi bạn nhấc máy.
-    %2$d. Khi tính năng này được bật, đối phương sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ từ chối tự động sau %3$d-%4$d giây không hoạt động.
-    %5$d. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
+%1$d. Khi bạn đang sử dụng dữ liệu di động trên thẻ SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi cuộc gọi đến cho đến khi bạn nhấc máy.
+%2$d. Khi tính năng này được bật, đối phương sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ từ chối tự động sau %3$d-%4$d giây không hoạt động.
+%5$d. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
     <string name="function_gwsd_title">Không cho phép các cuộc gọi đến làm gián đoạn kết nối SIM dữ liệu</string>
     <string name="function_oncall_not_close_network">Không ngắt kết nối đối với cuộc gọi</string>
     <string name="function_oncall_not_close_network_detail">"Giới thiệu tính năng này:
-    %1$d. Tính năng này cho phép bạn luôn trực tuyến trong các phiên chơi game mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này kết nối với mạng 5G cụ thể.
-    %2$d. Nếu cả hai thẻ SIM đều không được kết nối với mạng 5G, thì SIM chính sẽ tự động từ chối các cuộc gọi đến.
-    %3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.
-    %4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
+%1$d. Tính năng này cho phép bạn luôn trực tuyến trong các phiên chơi game mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này kết nối với mạng 5G cụ thể.
+%2$d. Nếu cả hai thẻ SIM đều không được kết nối với mạng 5G, thì SIM chính sẽ tự động từ chối các cuộc gọi đến.
+%3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.
+%4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
     <string name="function_shield_auto_bright">Tắt độ sáng tự động</string>
     <string name="function_shield_eye_shield">Tắt Chế độ đọc sách</string>
     <string name="function_shield_pull_notification_bar">Không mở Thanh thông báo</string>
@@ -1819,7 +1819,7 @@
     <string name="gb_game_fill_desc">Nội dung có thể bị biến dạng trong một số trường hợp</string>
     <string name="gb_game_macro_bubble_tips">Thử combo</string>
     <string name="gb_game_macro_toast_tips">"Thử combo!
-    Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
+Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_game_mode_change_btn_right">Khởi động lại</string>
     <string name="gb_game_mode_change_message">Khởi động lại game để áp dụng các thay đổi ngay?</string>
     <string name="gb_game_mode_change_new">Chuyển đổi giữa các bố cục tại đây</string>
@@ -1842,7 +1842,7 @@
     <string name="gb_game_ratio_right">Phải</string>
     <string name="gb_game_ratio_top">Trên</string>
     <string name="gb_game_time_toast">Hẹn giờ hiện khả dụng!</string>
-    <string name="gb_game_tips_restart">The game will be restarted to apply changes</string>
+    <string name="gb_game_tips_restart">Trò chơi sẽ được khởi động lại để áp dụng các thay đổi</string>
     <string name="gb_game_video_bottom_tips">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau 7 ngày.</string>
     <string name="gb_game_video_bottom_tips_new">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau %d ngày.</string>
     <string name="gb_game_video_item_tag">Khoảnh khắc đáng nhớ</string>
@@ -1873,15 +1873,15 @@
     <string name="gb_msg_transparent_dispaly_summary">Trong suốt</string>
     <string name="gb_network_status_bad">Lỗi kết nối.</string>
     <string name="gb_new_feature">Tính năng mới</string>
-    <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
+    <string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
     <string name="gb_operat_frequently">Không quá nhanh!</string>
     <string name="gb_performance_balance">Cân bằng</string>
     <string name="gb_performance_balance_tips">"Chế độ cân bằng tiết kiệm điện
-    nhưng giảm tốc độ làm mới và giới hạn nhiệt độ"</string>
+nhưng giảm tốc độ làm mới và giới hạn nhiệt độ"</string>
     <string name="gb_performance_high">Hiệu suất</string>
     <string name="gb_performance_mode">Chế độ trò chơi</string>
     <string name="gb_performance_tips">"Chế độ Hiệu suất cải thiện hiệu suất đồ họa,
-    nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết bị của bạn quá nóng"</string>
+nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết bị của bạn quá nóng"</string>
     <string name="gb_predownload_check">Xem phần thưởng</string>
     <string name="gb_predownload_dialog_cancel">Không, cảm ơn</string>
     <string name="gb_predownload_dialog_checked">Không hiển thị lại</string>
@@ -1952,12 +1952,12 @@
     <string name="gb_vision_enhance">Tăng cường hình ảnh</string>
     <string name="gb_vision_enhance_desc">Cải thiện chất lượng hình ảnh và hiệu suất</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Tốc độ khung hình thông minh
-    %dFPS"</string>
+%dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Tốc độ khung hình thông minh</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Tự động điều chỉnh tốc độ khung hình để chuyển động mượt mà hơn</string>
     <string name="gb_vision_enhance_super_resolution">Siêu phân giải</string>
     <string name="gb_vision_enhance_super_resolution_desc">Tăng độ phân giải để xem chi tiết tốt hơn</string>
-    <string name="gb_voice_change_audition_tip">Demo</string>
+    <string name="gb_voice_change_audition_tip">Thử</string>
     <string name="gb_voice_change_settinged">Công cụ thay đổi giọng nói đang bật</string>
     <string name="gb_voice_changer_cartoon">Hoạt hình</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Gia hạn đăng ký để có thể sử dụng phản hồi theo thời gian thực.</string>
@@ -1985,14 +1985,14 @@
     <string name="gb_voice_changer_setting_realtime_title">Phản hồi theo thời gian thực</string>
     <string name="gb_voice_changer_setting_rights">Điều khoản Dịch vụ và Chính sách Riêng tư</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Thử sử dụng Trình thay đổi giọng nói!
-    Thoải mái chuyển đổi các nhân vật và hiệu ứng đặc biệt."</string>
+Thoải mái chuyển đổi các nhân vật và hiệu ứng đặc biệt."</string>
     <string name="gb_voice_changer_toast_window_open">Đã bật hiệu ứng \"%s\"</string>
     <string name="gb_voice_changer_trial_gender_dialog">Nhận dùng thử miễn phí thành công! Vui lòng chọn giới tính để điều chỉnh hiệu ứng và đề xuất thích hợp.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Dùng thử miễn phí</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Nhận 1 lần dùng thử miễn phí…</string>
     <string name="gb_voice_changer_user_status_expired">Đăng ký hết hạn</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Nhận %d-ngày dùng thử miễn phí
-    và khám phá thay đổi giọng nói của bạn!"</string>
+và khám phá thay đổi giọng nói của bạn!"</string>
     <string name="gb_voice_changer_user_status_no_login">Đăng nhập Tài khoản Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">Ngày hết hạn: %s</string>
     <string name="gb_voice_changer_user_status_renew">Gia hạn</string>
@@ -2000,7 +2000,7 @@
     <string name="gb_voice_changer_user_vip_expired">Đã hết hạn</string>
     <string name="gb_voice_changer_user_vip_remain_time">Ngày hết hạn: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Quay lại các khoảnh khắc
-    quan trọng khi chơi game"</string>
+quan trọng khi chơi game"</string>
     <string name="gb_wonderful_video_cancel">Hủy</string>
     <string name="gb_wonderful_video_checkall">Chọn tất cả</string>
     <string name="gb_wonderful_video_delete">Xóa</string>
@@ -2040,10 +2040,10 @@
     <string name="get_sys_info">Đang nhận thông tin…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Chạm một ứng dụng trên thanh bên để mở trên cửa sổ nổi.
-    · Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình.
-    · Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
+· Kéo một ứng dụng đến giữa màn hình để mở trên cửa sổ nổi hoặc đến cạnh màn hình để sử dụng Chia màn hình.
+· Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Chạm một ứng dụng trên cạnh bên để mở trên cửa sổ nổi.
-    · Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
+· Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</string>
     <string name="global_satisfaction_notification_button">Đánh giá</string>
     <string name="global_satisfaction_notification_subhead">Cho chúng tôi biết trải nghiệm của bạn</string>
     <string name="global_satisfaction_notification_title">Đánh giá thiết bị này</string>
@@ -2052,7 +2052,7 @@
     <string name="gmscore_support_remind">Bật tính năng này nếu bạn gặp sự cố khi sử dụng Gmail, Google Map và các ứng dụng khác của Google. Điều này sẽ giảm nhẹ thời gian sử dụng pin.</string>
     <string name="gmscore_support_service">Dịch vụ cơ bản của Google</string>
     <string name="go_to">Đã tiến hành</string>
-    <string name="go_to_mi_sim">Tap to use Mi SIM.</string>
+    <string name="go_to_mi_sim">Chạm để sử dụng Mi SIM.</string>
     <string name="go_to_send">Gửi</string>
     <string name="go_to_setting_fingerprint">Cài đặt</string>
     <string name="google_base_app_fail">Không thể tải xuống. Kiểm tra xem Bảo mật có được phép kết nối với internet không.</string>
@@ -2163,7 +2163,7 @@
     <string name="gtb_spring_festival_egg_obtain_fail">Không thể kết nối mạng</string>
     <string name="gtb_spring_festival_goto_gameturbo">Xem</string>
     <string name="gtb_spring_festival_guide">"Switch to landscape mode
-    to join our egg hunt!"</string>
+to join our egg hunt!"</string>
     <string name="gtb_spring_festival_guide_know">Tôi biết</string>
     <string name="gtb_spring_festival_push_active_desc">Win phones, smart devices and coupons</string>
     <string name="gtb_spring_festival_push_active_title">Easter egg hunt is on!</string>
@@ -2296,7 +2296,7 @@
     <string name="legal_workday_message">(Bỏ qua ngày lễ)</string>
     <string name="leisure_usage_dialog_message">"Bạn đã đạt đến giới hạn dữ liệu ngoài giờ cao điểm.
 
-    Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối dữ liệu di động."</string>
+Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối dữ liệu di động."</string>
     <string name="leisure_usage_dialog_title">Bạn đã vượt quá giới hạn dữ liệu ngoài giờ cao điểm, kết nối dữ liệu đã bị tắt</string>
     <string name="limit_speed_by_quota">Hạn chế tốc độ có thể áp dụng sau khi bạn đạt đến giới hạn</string>
     <string name="list_empty_text">Trống</string>
@@ -2383,9 +2383,9 @@
     <string name="main_purchase_tips">Giảm giá</string>
     <string name="main_tc_over">Đã hiệu chỉnh thành công</string>
     <string name="main_tc_send_sms">"Gửi SMS
-    để hiệu chỉnh"</string>
+ để hiệu chỉnh"</string>
     <string name="main_tc_wait_result">"Đang chờ nhà cung cấp
-    phản hồi"</string>
+phản hồi"</string>
     <string name="main_today_used">Đã dùng hôm nay</string>
     <string name="main_toolbar_firewall">Hạn chế sử dụng dữ liệu</string>
     <string name="main_toolbar_purchase">Mua lưu lượng</string>
@@ -2446,7 +2446,7 @@
     <string name="memory_clean_memory_size_tip">Bộ nhớ đệm</string>
     <string name="memory_clean_no_need_clean">Mọi thứ đều tốt</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Đã giải phóng %s.
-    Thiết bị của bạn nhanh hơn %s."</string>
+Thiết bị của bạn nhanh hơn %s."</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
     <string name="memory_title">Trống: %1$s\u0009\u0009Tổng: %2$s</string>
     <string name="menu_add">Thêm</string>
@@ -2689,38 +2689,38 @@
     <string name="network_disable_dialog_title">Không thể kết nối mạng</string>
     <string name="network_mobile_exception_detail">"Thiết bị của bạn không thể kết nối internet:
 
-    1. Đảm bảo rằng bạn chưa vượt quá giới hạn dữ liệu di động mà bạn đã đăng ký.
+1. Đảm bảo rằng bạn chưa vượt quá giới hạn dữ liệu di động mà bạn đã đăng ký.
 
-    2. Nếu bạn vừa mới mua thêm lưu lượng, hãy khởi động lại thiết bị và thử lại.
+2. Nếu bạn vừa mới mua thêm lưu lượng, hãy khởi động lại thiết bị và thử lại.
 
-    3. Tín hiệu mạng của nhà cung cấp có thể yếu ở vị trí hiện tại."</string>
+3. Tín hiệu mạng của nhà cung cấp có thể yếu ở vị trí hiện tại."</string>
     <string name="network_operator_exception_summary">Không thể kích hoạt thẻ SIM. Đảm bảo rằng thẻ SIM của bạn đã được lắp đặt đúng và đã được nhà mạng kích hoạt.</string>
     <string name="network_permission_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng</string>
     <string name="network_roaming_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng khi chuyển vùng.</string>
     <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:
 
-    "<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"
-    Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
+ "<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"
+Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
 
-    "<b>2. Vấn đề cung cấp dịch vụ Internet</b>"
+ "<b>2. Vấn đề cung cấp dịch vụ Internet</b>"
 
-    Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với nhà cung cấp dịch vụ Internet.
+Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với nhà cung cấp dịch vụ Internet.
 
-    "<b>3. Vấn đề về phần cứng bộ định tuyến</b>"
-    Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
+ "<b>3. Vấn đề về phần cứng bộ định tuyến</b>"
+Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
 
-    "<b>4. Vấn đề về bộ định tuyến khác</b>"
-    Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
+ "<b>4. Vấn đề về bộ định tuyến khác</b>"
+Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
 
-    "<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"
-    Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
+ "<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"
+Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
     <string name="network_sim_exception_detail">"Có vấn đề với thẻ SIM của bạn:
 
-    1. Đảm bảo rằng tài khoản của bạn đang ở trạng thái hoạt động tốt. Hãy thử sử dụng thẻ SIM của bạn bè để xem có kết nối bình thường không.
+1. Đảm bảo rằng tài khoản của bạn đang ở trạng thái hoạt động tốt. Hãy thử sử dụng thẻ SIM của bạn bè để xem có kết nối bình thường không.
 
-    2. Nếu bạn sử dụng 2 thẻ SIM, thử đổi thẻ để kiểm tra kết nối.
+2. Nếu bạn sử dụng 2 thẻ SIM, thử đổi thẻ để kiểm tra kết nối.
 
-    3. Đảm bảo rằng thẻ SIM và khe cắm SIM điện thoại của bạn không bị hư hỏng. Xác nhận rằng thẻ SIM bạn đang sử dụng đã được lắp đặt đúng vào khay SIM."</string>
+3. Đảm bảo rằng thẻ SIM và khe cắm SIM điện thoại của bạn không bị hư hỏng. Xác nhận rằng thẻ SIM bạn đang sử dụng đã được lắp đặt đúng vào khay SIM."</string>
     <string name="network_speed_for_apps_close">Buộc đóng</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>
@@ -3100,6 +3100,8 @@
     <string name="permission_close_permission_control_dialog_msg">Khi quản lý Quyền truy cập tắt, ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị.</string>
     <string name="permission_close_permission_control_dialog_title">Tắt?</string>
     <string name="permission_exception_title">Hạn chế kết nối ứng dụng</string>
+	<string name="permission_instruction_sociality">Nếu bạn cho phép ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập các tệp được tạo trong ứng dụng mạng xã hội để bảo vệ quyền riêng tư của bạn hay không. Vì các ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ nên khóa chuyển này sẽ không được cung cấp cho chúng.</string>
+	<string name="permission_instruction_storage">Nếu bạn cho phép ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập vào các mục trong Thư viện của bạn và các tệp được tạo trong ứng dụng mạng xã hội để bảo vệ quyền riêng tư của bạn hay không . Vì các ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ nên khóa chuyển này sẽ không được cung cấp cho chúng.</string>
     <string name="permission_instruction_access_notification">Quyền này cho phép ứng dụng đọc, tìm kiếm và xóa tất cả các thông báo của bạn. Hãy lưu ý rằng thông báo có thể bao gồm thông tin cá nhân (ví dụ: số thẻ ngân hàng và mật khẩu).</string>
     <string name="permission_instruction_activity_recognition">Quyền này cho phép ứng dụng truy cập thông tin được thu thập bởi các cảm biến phát hiện hoạt động thể chất tích hợp (ví dụ: số bước và luyện tập). Lưu ý rằng hông tin về hoạt động thể chất là thông tin cá nhân.</string>
     <string name="permission_instruction_add_voicemail">Quyền này cho phép ứng dụng thêm thư thoại vào hệ thống.</string>
@@ -3481,6 +3483,8 @@
     <string name="power_wireless_update_tv_text">Đang cập nhật firmware… Không tắt thiết bị.</string>
     <string name="pp_app_warning_permission_tips">Nhận thông báo về hành vi ứng dụng</string>
     <string name="pp_app_warning_permission_tips_detail">Nhận thông báo khi ứng dụng truy cập vị trí của bạn, ghi âm hoặc sử dụng camera</string>
+    <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
+    <string name="pp_sms_and_contacts">Liên hệ và tin nhắn</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_adjust_data_usage">Tin nhắn mẫu nhà cung cấp</string>
     <string name="pref_adjust_data_usage_summary">Sau khi bạn thay đổi mẫu hiệu chỉnh, MIUI sẽ sử dụng nó để nhận thống kê sử dụng dữ liệu từ nhà mạng</string>
@@ -3650,6 +3654,7 @@
     <string name="privacy_guide_permission_use_text">MIUI sẽ đếm và hiển thị số lần ứng dụng sử dụng các quyền nhạy cảm, bao gồm truy cập vị trí, liên hệ, lịch sử cuộc gọi, bộ nhớ, cũng như ghi âm. Bạn có thể tìm hiểu số lần mỗi ứng dụng sử dụng các quyền này và xác định xem bạn có cần điều chỉnh cài đặt quyền truy cập hay không.</string>
     <string name="privacy_hide_other_permissions">Ẩn quyền khác</string>
     <string name="privacy_informed_title">Thống kê</string>
+    <string name="privacy_input_model_tips">Nhập an toàn đang bật. Bàn phím không thể hiển thị cửa sổ bật lên hoặc truy cập danh bạ, thông tin vị trí và lịch sử cuộc gọi.</string>
     <string name="privacy_lab_empty">Chưa có tính năng nào ở đây</string>
     <string name="privacy_location_info_summary">Quản lý quyền truy cập vị trí của bạn</string>
     <string name="privacy_location_info_title">Thông tin vị trí</string>
@@ -3704,8 +3709,8 @@
     <string name="privacy_revoke_category_title">Rút lại chấp thuận và hủy dịch vụ</string>
     <string name="privacy_revoke_dialog_content">Bằng cách tắt, bạn rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật. Chúng tôi sẽ dừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Bảo mật cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Rút lại chấp thuận đối với Chính sách Riêng tư được coi là từ chối chấp nhận các dịch vụ dựa trên thông tin cá nhân được thu thập.</string>
     <string name="privacy_revoke_dialog_content_cn">"Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư của %1$s. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác.
-    Do %2$s cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận các dịch vụ của %3$s.
-    Rút lại chấp thuận ngay?"</string>
+Do %2$s cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận các dịch vụ của %3$s.
+Rút lại chấp thuận ngay?"</string>
     <string name="privacy_revoke_dialog_negetive_text">Hủy</string>
     <string name="privacy_revoke_dialog_positive_text">Rút lại</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Rút lại (%d giây)</string>
@@ -3952,7 +3957,7 @@
     <string name="sc_warning_updater_not_found">Không tìm thấy ứng dụng Cập nhật.</string>
     <string name="scan_installed_games">Đang kiểm tra trò chơi đã cài đặt…</string>
     <string name="scan_open_shut_down_password_content">Bảo vệ thiết bị của bạn khỏi bị truy cập trái phép</string>
-    <string name="scan_open_shut_down_password_title">Xác nhận tắt nguồn</string>
+    <string name="scan_open_shut_down_password_title">Xác nhận tắt máy</string>
     <string name="scan_status_risk">Rủi ro</string>
     <string name="scan_status_safe">Bảo mật</string>
     <string name="scanning_bar_number_new">%s</string>
@@ -3986,7 +3991,6 @@
     <string name="securityadd_update_tips_title">Cập nhật</string>
     <string name="securitycenter_tab_title">Bảo mật</string>
     <string name="see_detail">Chi tiết</string>
-    <string name="see_more_content">Cập nhật Mi Game để xem các nội dung nổi bật</string>
     <string name="select_province_and_city">Chọn vị trí</string>
     <string name="select_traffic_type_and_reminder_type">Chạm để đặt</string>
     <string name="send">Gửi</string>
@@ -4019,7 +4023,7 @@
     <string name="settings_location_subtitle_no">Không có thông tin vị trí</string>
     <string name="settings_negative_button_text">Lần tới</string>
     <string name="settings_power_save_ontime_title">Hẹn giờ</string>
-    <string name="settings_privacy_revoke_desc">Bằng cách tắt, bạn rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật.</string>
+    <string name="settings_privacy_revoke_desc">Bằng cách tắt, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật.</string>
     <string name="settings_privacy_revoke_title">Rút lại chấp thuận</string>
     <string name="settings_privacy_settings_title">Riêng tư</string>
     <string name="settings_share_enable_summary">Các mục bạn chia sẻ trên WeChat sẽ xuất hiện với biểu tượng MIUI</string>
@@ -4034,6 +4038,7 @@
     <string name="shield_keyboard_title">Giới hạn phím và cử chỉ</string>
     <string name="shortcut_title_scan">Quét</string>
     <string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
+    <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="show_traffic_dialog_message">Thông tin sử dụng dữ liệu của bạn sẽ được hiển thị trên Thanh thông báo. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Sử dụng dữ liệu > Cài đặt.</string>
     <string name="show_traffic_dialog_title">Hiển thị sử dụng trên Thanh thông báo</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
@@ -4411,13 +4416,13 @@
     <string name="storage_deepclean_entry">Dọn dẹp sâu</string>
     <string name="storage_dialog_unmountable">"^1 này đã bị hỏng.
 
-    Để sử dụng ^1, bạn phải tiến hành cài đặt trước."</string>
+Để sử dụng ^1, bạn phải tiến hành cài đặt trước."</string>
     <string name="storage_dialog_unmounted">"^1 đã được tháo ra an toàn, nhưng vẫn còn đặt trên máy.
 
-    Để sử dụng ^1 này, bạn phải lắp vào trước."</string>
+Để sử dụng ^1 này, bạn phải lắp vào trước."</string>
     <string name="storage_dialog_unsupported">"Thiết bị này không hỗ trợ ^1 này.
 
-    Để sử dụng ^1 cùng với thiết bị này, bạn phải tiến hành cài đặt trước."</string>
+Để sử dụng ^1 cùng với thiết bị này, bạn phải tiến hành cài đặt trước."</string>
     <string name="storage_fbo_clear">Chống phân mảnh</string>
     <string name="storage_fbo_des">Bộ nhớ lưu trữ bên trong bị phân mảnh, có thể làm chậm đáng kể thiết bị. Chống phân mảnh được thực hiện tự động khi bạn không sử dụng thiết bị. Chống phân mảnh vật lý để sắp xếp lại các tập tin, hạn chế số lượng phân mảnh nhỏ nhất để giảm độ trễ.</string>
     <string name="storage_fbo_number_tip">Hợp nhất vào %1$s</string>
@@ -4455,7 +4460,7 @@
     <string name="storage_wizard_format_confirm_v2_action">Định dạng ^1</string>
     <string name="storage_wizard_format_confirm_v2_body">"^1 cần định dạng để lưu trữ ứng dụng, tập tin, và phương tiện.
 
-    Định dạng sẽ xóa nội dung có sẵn trên ^2. Để đề phòng mất mát dữ liệu, hãy sao lưu đến ^3 hoặc thiết bị."</string>
+Định dạng sẽ xóa nội dung có sẵn trên ^2. Để đề phòng mất mát dữ liệu, hãy sao lưu đến ^3 hoặc thiết bị."</string>
     <string name="storage_wizard_format_confirm_v2_title">Định dạng ^1 này ngay?</string>
     <string name="suggest_app_tolock">Kiến nghị</string>
     <string name="suggest_app_tolock_masked">Nội dung đã ẩn</string>
@@ -4816,19 +4821,19 @@
     <string name="traffic_config_alert_auto_modify">Cập nhật kế hoạch sử dụng dữ liệu tự động</string>
     <string name="traffic_config_alert_body">"The dữ liệu của nhà cung cấp: %s.
 
-    Bạn sẽ sử dụng dữ liệu này?"</string>
+Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_config_alert_body_extra">"
-    Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công."</string>
+Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công."</string>
     <string name="traffic_config_alert_body_extra_notset">"
-    Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
+Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_body_leisure">"
-    Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
+Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-    \"Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu ngoài giờ cao điểm."</string>
+\"Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu ngoài giờ cao điểm."</string>
     <string name="traffic_config_alert_body_normal">"
-    Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
+Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_package">"
-    Rolled over extra data"</string>
+Rolled over extra data"</string>
     <string name="traffic_config_alert_setted">Đã áp dụng cài đặt</string>
     <string name="traffic_config_alert_title">Hiệu chỉnh %s</string>
     <string name="traffic_correction_failed">Không thể nhận thông tin</string>
@@ -4840,7 +4845,7 @@
     <string name="traffic_limit_error_alert_body">Dữ liệu còn lại của bạn tháng này (%1$s) lớn hơn gói hàng tháng của bạn (%2$s). Gói hàng tháng đã thay đổi?</string>
     <string name="traffic_limit_error_alert_package">"
 
-    Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước."</string>
+Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước."</string>
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
     <string name="traffic_limit_input">Giới hạn dữ liệu (bắt buộc)</string>
     <string name="traffic_none">Không</string>
@@ -4957,14 +4962,14 @@
     <string name="vb_ve_settings_display_style_tips_new">*Hiệu ứng sẽ chỉ được áp dụng tại khu vực phát video</string>
     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Hiệu ứng này sẽ chỉ áp dụng tại khu vực phát video.
 
-    Tính năng này không hoạt động với video đã tăng cường.
+Tính năng này không hoạt động với video đã tăng cường.
 
-    Bật tính năng này sẽ tắt tính năng kia."</string>
+Bật tính năng này sẽ tắt tính năng kia."</string>
     <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Hiệu ứng này sẽ được áp dụng cho toàn bộ màn hình.
 
-    Tính năng này không hoạt động với video đã tăng cường.
+Tính năng này không hoạt động với video đã tăng cường.
 
-    Bật tính năng này sẽ tắt tính năng kia."</string>
+Bật tính năng này sẽ tắt tính năng kia."</string>
     <string name="vb_ve_settings_pic_border_stronger">Tăng cường đường viền</string>
     <string name="vb_ve_settings_picture_stronger">Tăng cường ảnh động</string>
     <string name="vb_video_effects_3d">Âm thanh vòm</string>
@@ -5003,18 +5008,18 @@
     <string name="vb_video_effects_some_headphone">Hỗ trợ mẫu tai nghe đã chọn</string>
     <string name="vb_video_effects_spatial">Theo dõi chuyển động của đầu</string>
     <string name="vb_video_effects_spatial_summary">"Điều chỉnh âm thanh nổi ba chiều dựa trên di chuyển của đầu
-    *Chỉ hỗ trợ mẫu tai nghe chơi game"</string>
+*Chỉ hỗ trợ mẫu tai nghe chơi game"</string>
     <string name="vb_video_effects_spatial_summary_new">Trải nghiệm cảm giác không gian và hướng nâng cao cho âm thanh được hỗ trợ khi sử dụng tai nghe</string>
     <string name="vb_video_effects_srs_premium_sound">Âm thanh</string>
     <string name="vb_video_super_division">Nâng độ phân giải</string>
     <string name="vb_video_super_division_desc">"Nâng độ phân giải tự động khi độ phân giải ở mức ≤720p.
 
-    Sử dụng tính năng này sẽ làm tăng mức tiêu thụ điện năng.
+Sử dụng tính năng này sẽ làm tăng mức tiêu thụ điện năng.
 
-    Tính năng này không hoạt động với tính năng làm mượt chuyển động.
-    Bật một trong các tính năng này sẽ tắt tính năng còn lại."</string>
+Tính năng này không hoạt động với tính năng làm mượt chuyển động.
+Bật một trong các tính năng này sẽ tắt tính năng còn lại."</string>
     <string name="vb_video_super_division_tips">"Không đủ sắc nét?
-    Hãy thử nâng độ phân giải!"</string>
+Hãy thử nâng độ phân giải!"</string>
     <string name="video_repeat">Phát lại</string>
     <string name="videobox_hangup_tips_content">Màn hình của bạn sẽ bị khóa, nhưng ứng dụng vẫn sẽ chạy trong nền khi tính năng này được bật. Bấm phím Nguồn để bật lại màn hình. Bật tính năng này bây giờ?</string>
     <string name="videobox_hangup_tips_title">Chú ý</string>
@@ -5115,598 +5120,691 @@
     <string name="xunyou_server_expired">Dịch vụ đã hết hạn.</string>
     <string name="yesterday">Hôm qua</string>
     <string name="yuan">NDT</string>
-        <string name="dialog_remobe_luckymoney_cancle">Câu chuyện kinh doanh</string>
-        <string name="dialog_remobe_luckymoney_ok">Vào mở lì xì</string>
-        <string name="dialog_remove_luckymoney">Phiên bản MIUI hiện tại hỗ trợ trợ lý lì xì cấp hệ thống. Bạn có muốn gỡ cài đặt phiên bản duy nhất và vào trình quản lý điện thoại để kích hoạt trợ lý lì xì Xiaomi nhanh hơn và ổn định hơn không? </string>
-        <string name="security_center_auto_task">Trung tâm tác vụ</string>
-        <string name="auto_task_allow_suggestion">Đề xuất nhiệm vụ thông minh</string>
-        <string name="auto_task_available_device">Các thiết bị có sẵn</string>
-        <string name="auto_task_conncet_to_some_device">Kết nối với %s</string>
-        <string name="auto_task_create_success">Đã tạo nhiệm vụ thành công</string>
-        <string name="auto_task_custom_time">Đặt thời gian</string>
-        <string name="auto_task_custom_time_lable">phút</string>
-        <string name="auto_task_default_add_action">Thêm hành động</string>
-        <string name="auto_task_default_add_task">Thêm vào "Nhiệm vụ của tôi"</string>
-        <string name="auto_task_default_add_to_task_list">Thêm vào "Nhiệm vụ của tôi"</string>
-        <string name="auto_task_default_do_action">Vậy</string>
-        <string name="auto_task_default_if_exclude">Nếu</string>
-        <string name="auto_task_default_task_summary_driver_car">Bật điểm phát sóng di động khi kết nối với hệ thống ô tô qua Bluetooth</string>
-        <string name="auto_task_default_task_summary_get_up">Tắt chế độ DND và bật lại Bluetooth, WLAN và dữ liệu di động</string>
-        <string name="auto_task_default_task_summary_listen_music">Phát nhạc và chọn loại tai nghe</string>
-        <string name="auto_task_default_task_summary_meet">Lên lịch họp và bật chế độ DND</string>
-        <string name="auto_task_default_task_summary_noon_break">Lên lịch ngủ trưa và bật chế độ DND</string>
-        <string name="auto_task_default_task_summary_save_power">Bật Trình tiết kiệm pin khi pin yếu hơn %s</string>
-        <string name="auto_task_default_task_summary_sleep">Lên lịch đi ngủ và tùy chỉnh hoạt động của thiết bị</string>
-        <string name="auto_task_default_task_summary_watch_video">Mở ứng dụng, bật WLAN, điều chỉnh âm lượng</string>
-        <string name="auto_task_default_task_title_driver_car">Lái xe</string>
-        <string name="auto_task_default_task_title_get_up">Đứng lên</string>
-        <string name="auto_task_default_task_title_listen_music">Nghe nhạc</string>
-        <string name="auto_task_default_task_title_meet">Cuộc họp</string>
-        <string name="auto_task_default_task_title_noon_break">Ngủ</string>
-        <string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
-        <string name="auto_task_default_task_title_sleep">Ngủ</string>
-        <string name="auto_task_default_task_title_watch_video">Xem video</string>
-        <string name="auto_task_delete_task">Xóa nhiệm vụ</string>
-        <string name="auto_task_disconnect_to_some_device">Ngắt kết nối khỏi %s</string>
-        <string name="auto_task_font_setting_weight_toast">Không thể điều chỉnh độ đậm cho phông chữ này</string>
-        <string name="auto_task_leave_app">Rời khỏi %s</string>
-        <string name="auto_task_lock_screen_now">Khóa màn hình</string>
-        <string name="auto_task_loop_exclude_cancel">Tác vụ lặp lại đã bị hủy</string>
-        <string name="auto_task_nearby_device">Các thiết bị có sẵn</string>
-        <string name="auto_task_nearby_wlan">Các mạng khả dụng</string>
-        <string name="auto_task_no_in_call">Khi không có cuộc gọi</string>
-        <string name="auto_task_no_need">Không, cảm ơn</string>
-        <string name="auto_task_notification_tips">Thông báo</string>
-        <string name="auto_task_offen_use_device">Thiết bị của tôi</string>
-        <string name="auto_task_offen_use_wlan">Mạng của tôi</string>
-        <string name="auto_task_open_app">Mở %s</string>
-        <string name="auto_task_open_bluetooth">Bật Bluetooth</string>
-        <string name="auto_task_open_wlan">Bật mạng WLAN</string>
-        <string name="auto_task_Operation_airplane_mode">Chế độ trên máy bay</string>
-        <string name="auto_task_Operation_auto_brightness">Độ sáng tự động</string>
-        <string name="auto_task_Operation_bluetooth">Bluetooth</string>
-        <string name="auto_task_Operation_brightness">Độ sáng màn hình</string>
-        <string name="auto_task_Operation_close">Tắt</string>
-        <string name="auto_task_Operation_close_string">Tắt %s</string>
-        <string name="auto_task_Operation_gps">GPS</string>
-        <string name="auto_task_Operation_memory_clean_lockscreen">Xóa bộ nhớ</string>
-        <string name="auto_task_Operation_mobile_data">Dữ liệu di động</string>
-        <string name="auto_task_Operation_modify_string">Chỉnh sửa %s</string>
-        <string name="auto_task_Operation_mute">Chế độ im lặng</string>
-        <string name="auto_task_Operation_no_op">Không</string>
-        <string name="auto_task_Operation_open">Bật</string>
-        <string name="auto_task_Operation_open_string">Bật %s</string>
-        <string name="auto_task_Operation_string_comma">,</string>
-        <string name="auto_task_Operation_string_etc">, v.v.</string>
-        <string name="auto_task_Operation_string_split">;</string>
-        <string name="auto_task_Operation_sync">Đồng bộ hóa</string>
-        <string name="auto_task_Operation_vibration">Rung</string>
-        <string name="auto_task_Operation_wifi">Wi-Fi</string>
-        <string name="auto_task_please_select_item">Chọn mục</string>
-        <string name="auto_task_rule_bluetooth">Bạn có thể tự động mở %2$s khi sử dụng Bluetooth với %1$s. Tạo nhiệm vụ này ngay bây giờ?</string>
-        <string name="auto_task_rule_map_location">Bạn có thể tự động bật dịch vụ định vị khi sử dụng bản đồ. Tạo nhiệm vụ này ngay bây giờ?</string>
-        <string name="auto_task_rule_read_mode">Bạn có thể tự động bật Chế độ đọc khi sử dụng ứng dụng đọc. Tạo nhiệm vụ này ngay bây giờ?</string>
-        <string name="auto_task_rule_zen_mode">Bạn có thể tự động bật chế độ DND khi ngủ trưa từ 12:00 đến 14:00. Tạo nhiệm vụ này ngay bây giờ?</string>
-        <string name="auto_task_select_address_company">Cơ quan</string>
-        <string name="auto_task_select_address_home">Trang chủ</string>
-        <string name="auto_task_select_address_leave">Rời khỏi</string>
-        <string name="auto_task_select_address_no_set">Chưa được đặt</string>
-        <string name="auto_task_select_address_other">Địa chỉ thường xuyên</string>
-        <string name="auto_task_select_address_to">Đến</string>
-        <string name="auto_task_set_conncet_bluetooth">Đặt</string>
-        <string name="auto_task_set_conncet_wlan">Đặt</string>
-        <string name="auto_task_set_exit_condition">Sử dụng điều kiện hoàn thành</string>
-        <string name="auto_task_set_exit_condition_summary">Hoàn thành nhiệm vụ khi đáp ứng một trong các điều kiện sau</string>
-        <string name="auto_task_set_open_app">Đặt</string>
-        <string name="auto_task_setting_allow_notify">Cho phép thông báo</string>
-        <string name="auto_task_setting_allow_tips_smart_task">Cho phép thông báo với đề xuất thông minh</string>
-        <string name="auto_task_setting_Before_exclude_notify">Thông báo trước nhiệm vụ</string>
-        <string name="auto_task_setting_exclude_notify">Thông báo trong khi thực hiện nhiệm vụ</string>
-        <string name="auto_task_setting_need_reset">Khôi phục mặc định sau khi hoàn thành nhiệm vụ</string>
-        <string name="auto_task_setting_show_task_shortcut_in_desktop">Phím tắt màn hình chính</string>
-        <string name="auto_task_show_notification_b Before_exclude">Thông báo trước khi thực hiện</string>
-        <string name="auto_task_show_notification_b Before_exit">Thông báo trước khi hoàn thành</string>
-        <string name="auto_task_temp_allow">Được</string>
-        <string name="auto_task_temp_no_exit">Hủy</string>
-        <string name="auto_task_temp_no_need">Hủy</string>
-        <string name="auto_task_voice_dialog_alarm_title">Báo động</string>
-        <string name="auto_task_voice_dialog_call_title">Cuộc gọi, thông báo, lời nhắc</string>
-        <string name="auto_task_voice_dialog_media_title">Âm nhạc, trò chơi, phương tiện truyền thông</string>
-        <string name="system_anti_fraud_stayaway_from_risk">Tránh gian lận kỹ thuật số</string>
-        <string name="verify_shut_down_password_content">Yêu cầu xác nhận khóa màn hình nếu thiết bị của bạn tắt nguồn khi bị khóa</string>
-        <string name="verify_shut_down_password_title">Xác nhận tắt máy</string>
-        <string name="shut_down_password_content">Nếu bạn bị mất thiết bị, xác nhận tắt máy sẽ bảo vệ thiết bị khỏi bị tắt bởi bất kỳ ai tìm thấy nó.</string>
-        <string name="pp_anti_track_summary">Không cho phép theo dõi hoạt động của bạn</string>
-        <string name="pp_antitrack_detail">Các ứng dụng có thể theo dõi hoạt động của bạn thông qua thông tin nhận dạng cá nhân, thông tin vị trí và các loại thông tin cá nhân khác được chia sẻ với chúng. Việc theo dõi hoạt động của bạn trong các ứng dụng và trang web khác nhau cho phép họ cá nhân hóa quảng cáo và đề xuất nội dung phù hợp cho bạn.</string>
-        <string name="pp_app_behavior_record_detail">Ghi lại mọi hành vi của ứng dụng</string>
-        <string name="pp_app_del_img_intercept_detail">Nhận thông báo khi ứng dụng xóa các mục khỏi Thư viện mà không có sự cho phép của bạn</string>
-        <string name="pp_app_gets_dangeous_permission_reminder_detail">Nhận thông báo mỗi khi ứng dụng sử dụng quyền có mức độ rủi ro cao và xem xét các lựa chọn của bạn</string>
-        <string name="pp_app_lock_introduction">Khóa màn hình bổ sung</string>
-        <string name="pp_app_reads_clipboard_smart_reminder">Bảo vệ bộ nhớ tạm</string>
-        <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI sẽ quyết định xem các ứng dụng có được phép truy cập vào bộ nhớ tạm của bạn hay không. Khi họ làm vậy, bạn sẽ nhận được thông báo.</string>
-        <string name="pp_block_mac">Hạn chế quyền truy cập vào địa chỉ MAC</string>
-        <string name="pp_block_mac_summary">Quyền truy cập vào địa chỉ MAC của bạn bị hạn chế theo mặc định đối với tất cả các ứng dụng.</string>
-        <string name="pp_call_phone_msg">Lịch sử cuộc gọi</string>
-        <string name="pp_capability_approved_title">Các biện pháp bảo vệ quyền riêng tư của chúng tôi đã được thử nghiệm và chứng nhận bởi các chuyên gia hàng đầu trong ngành.</string>
-        <string name="pp_chain_start_is_prohibited">Hạn chế khởi động chuỗi</string>
-        <string name="pp_chain_start_is_prohibited_detail">Kiểm soát các tình huống khi các ứng dụng của bên thứ ba khởi động lẫn nhau và lấy thông tin cá nhân của bạn mà bạn không biết</string>
-        <string name="pp_clipboard">Bộ nhớ tạm</string>
-        <string name="pp_comprehensive_privacy_management">Bảo vệ quyền riêng tư toàn diện</string>
-        <string name="pp_contacts_msg">Danh bạ</string>
-        <string name="pp_data_rights_realization">Quyền dữ liệu</string>
-        <string name="pp_fuzzy_positioning">Độ chính xác định vị thấp hơn</string>
-        <string name="pp_fuzzy_positioning_detail">Giảm độ chính xác định vị và cho phép các ứng dụng truy cập thông tin vị trí kém chính xác hơn</string>
-        <string name="pp_grant_permission_only_during_app_use">Chỉ cho phép ứng dụng sử dụng quyền khi bạn đang sử dụng ứng dụng</string>
-        <string name="pp_grant_permission_only_during_app_use_detail">Để ngăn ứng dụng sử dụng các quyền trong nền, bạn có thể chỉ cho phép sử dụng các quyền liên quan đến vị trí, ghi âm và danh bạ khi bạn đang sử dụng ứng dụng</string>
-        <string name="pp_hide_app">Ẩn ứng dụng</string>
-        <string name="pp_hide_app_form_desktop">Xóa biểu tượng ứng dụng khỏi Màn hình chính</string>
-        <string name="pp_icon_layout_status_bg_content_enable">Được bảo vệ</string>
-        <string name="pp_icon_layout_status_bg_content_unable">Tắt</string>
-        <string name="pp_identifier_protection">Bảo vệ thông tin nhận dạng cá nhân</string>
-        <string name="pp_interception_net_visit_content_manager">Bảo vệ thư viện và các tập tin ứng dụng truyền thông xã hội</string>
-        <string name="pp_interception_net_visit_content_manager_detail">Chọn ứng dụng nào được phép truy cập Thư viện và các tệp từ ứng dụng mạng xã hội của bạn</string>
-        <string name="pp_lab_compact_blur_location">Các ứng dụng truy cập vị trí gần đúng</string>
-        <string name="pp_lab_compact_blur_location_summary">Chọn "Mặc định" để sử dụng chức năng vị trí gần đúng của Android hoặc "Tất cả" để chuyển sang MIUI.</string>
-        <string name="pp_local_msg">Thông tin vị trí</string>
-        <string name="pp_manage_apps_location_information">Cho phép ứng dụng truy cập vị trí của bạn</string>
-        <string name="pp_manage_track">Theo dõi trình theo dõi</string>
-        <string name="pp_manage_track_summary">Phát hiện và vô hiệu hóa nhiều loại trình theo dõi được nhúng trong ứng dụng. Những trình theo dõi như vậy có thể chia sẻ thông tin nhận dạng cá nhân của bạn bằng cách truy cập và lưu các mục vào bộ nhớ trong hoặc sử dụng SDK dùng chung để theo dõi hoạt động của bạn.</string>
-        <string name="pp_one_app_two_use">Sử dụng hai tài khoản mà không cần đăng xuất</string>
-        <string name="pp_one_phone_two_space">Sử dụng một thiết bị chia làm 2 không gian khác nhau</string>
-        <string name="pp_only_allow_permission_during_this_run">Cho phép ứng dụng sử dụng quyền một lần</string>
-        <string name="pp_only_allow_permission_during_this_run_detail">Bạn chỉ có thể cho phép sử dụng các quyền liên quan đến vị trí, ghi âm và danh bạ một lần. Các quyền này sẽ lại bị hạn chế ngay sau khi đóng ứng dụng.</string>
-        <string name="pp_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
-        <string name="pp_operator_get_number_summary">Các ứng dụng sẽ yêu cầu sự cho phép của bạn khi chúng muốn truy cập vào số điện thoại của bạn để đăng nhập.</string>
-        <string name="pp_Option_protection_function">Các biện pháp bảo vệ tùy chọn</string>
-        <string name="pp_permission_action_virtual_detail">Cấp quyền nhưng cấp cho ứng dụng các tệp trống thay vì thông tin cá nhân</string>
-        <string name="pp_permission_settings">Quyền</string>
-        <string name="pp_privacy_input_tips">Bảo vệ bàn phím của bạn</string>
-        <string name="pp_privacy_lab_blur_location">Vị trí gần đúng</string>
-        <string name="pp_privacy_lab_blur_location_summary">Cá nhân hóa thông tin vị trí của bạn cho phép các ứng dụng truy cập vào vị trí gần đúng của bạn</string>
-        <string name="pp_privacy_lab_clipboard">Bảo vệ bộ nhớ tạm</string>
-        <string name="pp_privacy_lab_clipboard_summary">Cho phép MIUI quyết định xem ứng dụng có thể truy cập vào bộ nhớ tạm hay không và nhận thông báo khi có</string>
-        <string name="pp_privacy_lab_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
-        <string name="pp_privacy_lab_operator_get_number_summary">Yêu cầu ứng dụng xin phép bạn khi chúng muốn truy cập số điện thoại của bạn để đăng nhập</string>
-        <string name="pp_privacy_lab_operator_introduction">Chú ý</string>
-        <string name="pp_privacy_lab_operator_introduction_summary">Ứng dụng có thể lưu số điện thoại của bạn nếu số đó đã được lấy trước đó. Việc thay đổi quyền này sẽ không xóa các số điện thoại có được trước đó.</string>
-        <string name="pp_privacy_protection">Bảo vệ</string>
-        <string name="pp_privacy_protection_function">Tính năng bảo vệ quyền riêng tư</string>
-        <string name="pp_privacy_protection_lab">Phòng thí nghiệm bảo vệ quyền riêng tư</string>
-        <string name="pp_privacy_protection_lab_summary">Giữ mọi thứ riêng tư</string>
-        <string name="pp_privacy_risk_Detection">Phát hiện rủi ro về quyền riêng tư</string>
-        <string name="pp_privacy_risk_Detection_detail">Tự động phát hiện các rủi ro về quyền riêng tư và nhận đề xuất về các biện pháp bảo vệ</string>
-        <string name="pp_privacy_safe_box">Không gian riêng tư</string>
-        <string name="pp_private_file_dir">Tệp riêng tư</string>
-        <string name="pp_private_file_dir_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
-        <string name="pp_private_photo_album">Ảnh và video riêng tư</string>
-        <string name="pp_private_photo_album_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
-        <string name="pp_prohibit_use_camera_in_background">Hạn chế sử dụng máy ảnh ở chế độ nền</string>
-        <string name="pp_prohibit_use_camera_in_background_detail">Theo mặc định, các ứng dụng sẽ không thể sử dụng máy ảnh ở chế độ nền</string>
-        <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
-        <string name="pp_record_msg">Ghi âm</string>
-        <string name="pp_safe_box">Không gian riêng tư</string>
-        <string name="pp_safe_box_detail">Các mục riêng tư chỉ được mã hóa và lưu trữ trên thiết bị này. Những người khác sẽ không thể truy cập chúng khi họ đang sử dụng thiết bị này và bản thân thiết bị sẽ không được phép truy cập các mục được mã hóa và sử dụng chúng theo bất kỳ cách nào.</string>
-        <string name="pp_safe_box_summary">Bảo vệ quyền riêng tư</string>
-        <string name="pp_safe_input_pwd">Bảo vệ mật khẩu của bạn</string>
-        <string name="pp_safe_keyboard">Bàn phím bảo mật</string>
-        <string name="pp_safe_save_pwd_and_account">Lưu trữ mật khẩu trong môi trường an toàn</string>
-        <string name="pp_safe_share_img_detail">Chia sẻ ảnh mà không cần thông tin vị trí và siêu dữ liệu</string>
-        <string name="pp_smart_manager_pwd">Mật khẩu</string>
-        <string name="pp_sms_and_contacts">Danh bạ và nhắn tin</string>
-        <string name="pp_special_permission_settings">Quyền đặc biệt</string>
-        <string name="pp_special_permission_settings_detail">Kiểm soát cách ứng dụng sử dụng quyền đặc biệt</string>
-        <string name="pp_storage_msg">Bộ nhớ</string>
-        <string name="pp_understanding_privacy">Nhận thức</string>
-        <string name="pp_virtual_identity_manager">ID ảo</string>
-        <string name="pp_virtual_identity_summary">ID ảo (OAID) có thể được cung cấp cho ứng dụng thay vì mã nhận dạng thực của bạn. Nó bảo vệ quyền riêng tư của bạn và cho phép bạn kiểm soát cách các ứng dụng theo dõi hành vi của bạn.</string>
-        <string name="precise_location_title">Vị trí chính xác</string>
-        <string name="eletric_card_key_1">Cuộc gọi</string>
-        <string name="eletric_card_key_2">Tin nhắn</string>
-        <string name="eletric_card_key_3">Ứng dụng</string>
-        <string name="eletric_card_key_4">Duyệt web</string>
-        <string name="eletric_card_key_5">Đang truyền</string>
-        <string name="eletric_card_one_identification_risk_app">Cảnh báo về các ứng dụng đáng ngờ</string>
-        <string name="eletric_card_one_identification_risk_app_summary">Tự động nhận cảnh báo và hạn chế quyền khi phát hiện rủi ro</string>
-        <string name="eletric_card_one_identification_risk_mms">Phát hiện rủi ro trong tin nhắn đến</string>
-        <string name="eletric_card_one_identification_risk_mms_summary">Kiểm tra rủi ro trong tin nhắn đến dựa trên số điện thoại của người gửi và URL đính kèm</string>
-        <string name="eletric_card_one_identification_risk_screen">Ẩn các mục riêng tư</string>
-        <string name="eletric_card_one_identification_risk_screen_summary">Không hiển thị thông báo và ứng dụng riêng tư trên màn hình bên ngoài trong khi truyền màn hình</string>
-        <string name="eletric_card_status_bg_content_disable">Tắt</string>
-        <string name="eletric_card_status_bg_content_enable">Bật</string>
-        <string name="eletric_card_summary_1">Kiểm tra các cuộc gọi đến để phát hiện rủi ro bảo mật</string>
-        <string name="eletric_card_summary_2">Phát hiện rủi ro trong tin nhắn đến</string>
-        <string name="eletric_card_summary_3">Cảnh báo về các ứng dụng đáng ngờ</string>
-        <string name="eletric_card_summary_4">Thông báo về các trang web nguy hiểm</string>
-        <string name="eletric_card_summary_5">Ẩn các mục riêng tư</string>
-        <string name="eletric_card_two_identification_risk_app">Cảnh báo về các giao dịch rủi ro</string>
-        <string name="eletric_card_two_identification_risk_app_summary">Nhận cảnh báo khi thực hiện giao dịch tài chính sau các cuộc gọi hoặc tin nhắn đáng ngờ</string>
-        <string name="eletric_card_two_identification_risk_mms">Cảnh báo về mã xác minh được chuyển tiếp</string>
-        <string name="eletric_card_two_identification_risk_mms_summary">Nhận cảnh báo khi mã xác minh được chuyển tiếp đến các ứng dụng mạng xã hội</string>
-        <string name="eletric_group_title_one_identification_risk_app">Tự động hạn chế quyền</string>
-        <string name="eletric_group_title_one_identification_risk_app_summary">Tự động hạn chế quyền khi phát hiện rủi ro trong ứng dụng</string>
-        <string name="eletric_group_title_one_identification_risk_mms">Bảo vệ tin nhắn</string>
-        <string name="eletric_group_title_one_identification_risk_mms_summary">Nhận thông báo về những rủi ro có thể xảy ra trong các tin nhắn được gửi từ số chưa biết</string>
-        <string name="eletric_group_title_one_identification_risk_screen">Ẩn thông báo</string>
-        <string name="eletric_group_title_one_identification_risk_screen_summary">Thông báo của bạn sẽ không được hiển thị trên màn hình bên ngoài khi truyền</string>
-        <string name="eletric_group_title_two_identification_risk_app">Nhận cảnh báo về rủi ro tài chính</string>
-        <string name="eletric_group_title_two_identification_risk_app_summary">Nhận cảnh báo khi giao dịch tài chính được thực hiện sau các cuộc gọi hoặc tin nhắn đáng ngờ</string>
-        <string name="eletric_group_title_two_identification_risk_mms">Nhận cảnh báo khi mã xác minh được chuyển tiếp</string>
-        <string name="eletric_group_title_two_identification_risk_mms_summary">Bạn sẽ nhận được cảnh báo khi mã xác minh từ tin nhắn của bạn được chuyển tiếp tới mạng xã hội</string>
-        <string name="eletric_group_title_two_identification_risk_screen">Ẩn ứng dụng riêng tư</string>
-        <string name="eletric_group_title_two_identification_risk_screen_summary">Nếu bạn mở ứng dụng chứa thông tin cá nhân nhạy cảm (Mạng xã hội, Ngân hàng, Thư viện, v.v.) trong khi chia sẻ màn hình thiết bị của mình, thông tin này sẽ không được hiển thị. Bạn có thể bắt đầu chia sẻ lại theo cách thủ công.</string>
-        <string name="eletric_group_two_identification_risk_app">Cảnh báo về các giao dịch tài chính rủi ro</string>
-        <string name="eletric_group_two_identification_risk_mms">Bảo vệ mã xác minh</string>
-        <string name="eletric_identification_unfamiliar_numbers">Xác định các số chưa biết</string>
-        <string name="eletric_identification_unfamiliar_numbers_summary">Hiển thị loại cuộc gọi cho các số chưa xác định dựa trên phản hồi của người dùng</string>
-        <string name="eletric_key_protect_electric_announcement">Bảo vệ chống lừa đảo</string>
-        <string name="eletric_no_grant_dialog_message_for_phone">Cấp các quyền cần thiết để có thể xác định các số chưa biết.</string>
-        <string name="eletric_no_grant_dialog_ Negative_button">Hủy</string>
-        <string name="eletric_no_grant_dialog_posit_button">Cài đặt</string>
-        <string name="eletric_no_grant_dialog_title">Yêu cầu quyền</string>
-        <string name="eletric_risk_call_identification">Bảo vệ cuộc gọi</string>
-        <string name="eletric_risk_call_identification_announcement">Nhận thông báo về những rủi ro có thể xảy ra khi nhận cuộc gọi từ số lạ</string>
-        <string name="eletric_status_protecting">Bật</string>
-        <string name="ew_alert_earthquake_center_title">Tâm chấn</string>
-        <string name="ew_alert_earthquake_distance">Bạn đang cách tâm chấn %s km</string>
-        <string name="ew_alert_earthquake_feel_little">Rung lắc nhẹ</string>
-        <string name="ew_alert_earthquake_feel_max">Nghiêm trọng</string>
-        <string name="ew_alert_earthquake_feel_middle">Mạnh</string>
-        <string name="ew_alert_earthquake_feel_none">Không hợp lý</string>
-        <string name="ew_alert_earthquake_feel_normal">Trung bình</string>
-        <string name="ew_alert_earthquake_feel_title">Cường độ ước tính</string>
-        <string name="ew_alert_earthquake_level_title">Cường độ ước tính</string>
-        <string name="ew_alert_emergency_text">Hiển thị
-    thẻ y tế</string>
-        <string name="ew_alert_emergency_text_single">Hiển thị thẻ y tế</string>
-        <string name="ew_alert_help_earthquake_title">Sóng địa chấn đã đến</string>
-        <string name="ew_alert_help_place_navigation">Điều hướng</string>
-        <string name="ew_alert_help_safe_title">Tránh nguy hiểm</string>
-        <string name="ew_alert_help_tips">Hãy bình tĩnh và cảnh giác. Tránh xa các vật treo, không đi thang máy. Tìm một không gian an toàn, thả người xuống, che chắn và giữ chặt.</string>
-        <string name="ew_alert_no_contact">Đặt liên hệ khẩn cấp trong Bảo mật &gt; Cảnh báo động đất trước tiên</string>
-        <string name="ew_alert_no_emergency">Thêm dữ liệu y tế của bạn vào Bảo mật &gt; Cảnh báo động đất</string>
-        <string name="ew_alert_text_from">Dữ liệu được cung cấp bởi %s</string>
-        <string name="ew_app_name">Cảnh báo động đất</string>
-        <string name="ew_app_name_exercise">Cảnh báo động đất (Bản demo)</string>
-        <string name="ew_app_name_test">Cảnh báo động đất (Beta)</string>
-        <string name="ew_app_name_test_run">Cảnh báo động đất (Thử)</string>
-        <string name="ew_arrive_text_tips">Sóng địa chấn đã đến: %s</string>
-        <string name="ew_button_confirm">Đồng ý</string>
-        <string name="ew_button_exit">Không đồng ý</string>
-        <string name="ew_city_support_tip">*Chỉ hỗ trợ cảnh báo %s trong phạm vi quyền hạn của mình</string>
-        <string name="ew_click_locate">Nhấn để lấy thông tin vị trí</string>
-        <string name="ew_close">Tắt cảnh báo</string>
-        <string name="ew_close_tips">Cảnh báo động đất đã tắt</string>
-        <string name="ew_close_warning">Tắt</string>
-        <string name="ew_concern_city">Thành phố đã thêm</string>
-        <string name="ew_concern_date_empty">Không có</string>
-        <string name="ew_concern_manage">Quản lý</string>
-        <string name="ew_contact_dialog_tips">Thêm ít nhất một liên hệ khẩn cấp.</string>
-        <string name="ew_contact_dialog_title">Chú ý</string>
-        <string name="ew_current_location">Vị trí hiện tại</string>
-        <string name="ew_emergency_allergy">Dị ứng</string>
-        <string name="ew_emergency_basic_info">Thông tin cơ bản</string>
-        <string name="ew_emergency_birthday">Ngày sinh</string>
-        <string name="ew_emergency_blood_type">Nhóm máu</string>
-        <string name="ew_emergency_choose">Chọn</string>
-        <string name="ew_emergency_delete_all">Xóa tất cả thông tin y tế</string>
-        <string name="ew_emergency_delete_text">Xóa tất cả thông tin y tế ngay bây giờ?</string>
-        <string name="ew_emergency_delete_title">Xóa</string>
-        <string name="ew_emergency_detail_info">Chi tiết</string>
-        <string name="ew_emergency_edit_text">Chỉnh sửa</string>
-        <string name="ew_emergency_edit_title">Thẻ y tế</string>
-        <string name="ew_emergency_idcard">ID</string>
-        <string name="ew_emergency_input">Nhập</string>
-        <string name="ew_emergency_input_allergy">Liệt kê các bệnh dị ứng của bạn</string>
-        <string name="ew_emergency_input_medical">Liệt kê tình trạng và phương pháp điều trị của bạn</string>
-        <string name="ew_emergency_input_medicine">Liệt kê các loại thuốc bạn đang dùng</string>
-        <string name="ew_emergency_medical">Điều kiện y tế</string>
-        <string name="ew_emergency_medicine">Thuốc hoạt tính</string>
-        <string name="ew_emergency_name">Tên</string>
-        <string name="ew_emergency_organ_donation">Bạn có phải là tình nguyện viên hiến tạng không?</string>
-        <string name="ew_emergency_privacy">Tuyên bố về quyền riêng tư: Thông tin bạn cung cấp ở đây sẽ chỉ được sử dụng cho các trường hợp khẩn cấp và được lưu trữ trên thiết bị của bạn. Chúng tôi sẽ không tải thông tin này lên máy chủ của mình.</string>
-        <string name="ew_emergency_recent_medicine">Thuốc hoạt động gần đây</string>
-        <string name="ew_emergency_title">Thẻ y tế</string>
-        <string name="ew_first_start_network_title">Điều khoản và điều kiện</string>
-        <string name="ew_get_location">Xác định vị trí</string>
-        <string name="ew_global_default_signature">EEWS BMKG</string>
-        <string name="ew_global_service_scope_external_link"></string>
-        <string name="ew_global_signature">Thông tin được cung cấp bởi EEWS BMKG
-    Hỗ trợ kỹ thuật của Xiaomi &amp; ICL</string>
-        <string name="ew_global_signature_template">Thông tin được cung cấp bởi %s
-    Hỗ trợ kỹ thuật của Xiaomi &amp; ICL</string>
-        <string name="ew_guide_law_agree">Đồng ý</string>
-        <string name="ew_guide_law_done">Hiểu rồi</string>
-        <string name="ew_guide_law_exit">Không đồng ý</string>
-        <string name="ew_guide_law_text">Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi cơ quan cảnh báo sớm bên thứ ba. Xiaomi không giám sát các cơ quan bên thứ ba và không có bất kỳ quyền kiểm soát nào đối với họ. Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn. Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạn tham khảo. Bạn hoàn toàn chịu trách nhiệm về những rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
-        <string name="ew_guide_law_title">Tuyên bố từ chối trách nhiệm</string>
-        <string name="ew_guide_next_text">Tiếp theo</string>
-        <string name="ew_guide_open">Nhận cảnh báo động đất</string>
-        <string name="ew_guide_play_audio">Phát âm thanh cảnh báo</string>
-        <string name="ew_guide_play_audio_last">Phát âm thanh cảnh báo (%ds)</string>
-        <string name="ew_guide_start">Bật</string>
-        <string name="ew_guide_start_agree">Bật</string>
-        <string name="ew_guide_start_find_area">Tìm kiếm khu vực</string>
-        <string name="ew_guide_start_warning_range">Cảnh báo sớm được cung cấp cho các khu vực nằm trong Mạng lưới Cảnh báo Động đất Đại lục của Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô. Bạn có thể tìm thấy các vùng phủ sóng cụ thể trong Cài đặt.</string>
-        <string name="ew_guide_statement_text_new">Tuyên bố từ chối trách nhiệm này áp dụng cho tất cả người dùng (sau đây gọi là "bạn") bật tính năng cảnh báo động đất. Bằng cách đồng ý với tuyên bố từ chối trách nhiệm này, bạn ký kết hợp đồng ràng buộc về mặt pháp lý với Xiaomi Inc. và các chi nhánh của nó (sau đây gọi là "Xiaomi"). Bạn thừa nhận rằng bạn đã đọc tất cả nội dung của tuyên bố từ chối trách nhiệm này, đồng thời bạn hoàn toàn hiểu và đồng ý với tất cả các điều khoản và điều kiện của tuyên bố từ chối trách nhiệm này; nếu không bạn nên tắt tính năng cảnh báo động đất ngay lập tức.
-    Theo luật pháp và quy định liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan quản lý. Nghĩa là, khi bạn bật chức năng cảnh báo động đất, bạn sẽ có thể nhận được cảnh báo động đất được đưa ra cho các khu vực cụ thể. Bạn có thể tìm thấy các khu vực phủ sóng cụ thể trong Cài đặt.
-    Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô. Xiaomi không giám sát tổ chức này và không có bất kỳ quyền kiểm soát nào đối với nó.
-    Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.
-    Việc nhận thông tin cảnh báo động đất yêu cầu bạn phải luôn kết nối thiết bị của mình với mạng di động. Lỗi đường truyền liên lạc của bên thứ ba, sự cố kỹ thuật, lỗi mạng hoặc thiết bị đầu cuối, hệ thống không ổn định và các sự kiện bất khả kháng khác có thể khiến bạn không nhận được thông tin cảnh báo động đất. Xiaomi sẽ không chịu bất kỳ trách nhiệm nào đối với mọi tổn thất do những sự kiện đó gây ra.
-    Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạn tham khảo. Cảnh báo bạn nhận được có thể đến vài giây trước khi xảy ra động đất. Bạn hoàn toàn chịu trách nhiệm về những rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
-        <string name="ew_guide_tips_1">Bạn sẽ được thông báo về trận động đất sắp tới và nghe thấy âm thanh cảnh báo</string>
-        <string name="ew_guide_tips_2">Thông tin sớm về động đất và âm thanh cảnh báo sẽ được cập nhật trong trận động đất</string>
-        <string name="ew_guide_tips_3">Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu</string>
-        <string name="ew_guide_title">Xem bản demo</string>
-        <string name="ew_info_agreement">Tuyên bố từ chối trách nhiệm</string>
-        <string name="ew_info_other">Khác</string>
-        <string name="ew_info_range">Phạm vi dịch vụ</string>
-        <string name="ew_info_rule">Quy tắc</string>
-        <string name="ew_info_rule_warning">Giới thiệu về hệ thống cảnh báo</string>
-        <string name="ew_info_service_range">Phạm vi dịch vụ</string>
-        <string name="ew_list_all">Tất cả</string>
-        <string name="ew_list_empty_text">Chưa có cảnh báo nào ở đây</string>
-        <string name="ew_list_not_receive_tips">*Tâm chấn cách xa bạn. Bạn có thể không cảm nhận được trận động đất.</string>
-        <string name="ew_list_receive">Đã nhận</string>
-        <string name="ew_list_receive_distance">Tâm chấn cách bạn %s km</string>
-        <string name="ew_list_receive_time">Thời gian bắt đầu: %s</string>
-        <string name="ew_list_receive_time_title">Thời gian bắt đầu</string>
-        <string name="ew_list_title">Cảnh báo</string>
-        <string name="ew_location_failed">Vị trí không xác định</string>
-        <string name="ew_location_open">Dịch vụ định vị đang bật</string>
-        <string name="ew_main_close_text">Bạn sẽ không thể nhận được thông tin cập nhật về trận động đất này nếu bạn tắt cảnh báo. Vẫn tắt?</string>
-        <string name="ew_main_close_title">Chú ý</string>
-        <string name="ew_main_contact_change">Thay đổi</string>
-        <string name="ew_main_contact_change_dialog_content">Bạn có thể thay đổi hoặc xóa liên hệ khẩn cấp của mình. Bạn sẽ không thể sử dụng số liên lạc khẩn cấp của mình nếu bạn xóa nó.</string>
-        <string name="ew_main_contact_change_dialog_title">Thay đổi liên hệ khẩn cấp</string>
-        <string name="ew_main_contact_delete">Xóa</string>
-        <string name="ew_main_contact_summary">Đã thêm: %s</string>
-        <string name="ew_main_contact_tips">Liên hệ với người này trong trường hợp khẩn cấp</string>
-        <string name="ew_main_contact_title">Liên hệ khẩn cấp</string>
-        <string name="ew_main_detail_title">Cài đặt</string>
-        <string name="ew_main_emergency_tips">Ghi lại thông tin y tế cơ bản của bạn để luôn có trong tay</string>
-        <string name="ew_main_emergency_title">Thẻ y tế</string>
-        <string name="ew_main_open_tips">Tính năng này sẽ thông báo cho bạn về các trận động đất sắp tới và phát âm thanh cảnh báo. Bạn cũng sẽ được cung cấp thông tin về các dịch vụ khẩn cấp sau khi đồng hồ đếm ngược khẩn cấp dừng lại.</string>
-        <string name="ew_main_open_title">Nhận thông báo và nhận trợ giúp</string>
-        <string name="ew_main_place_tips">Tìm hiểu nơi trú ẩn khẩn cấp gần nhất bất cứ khi nào bạn cần</string>
-        <string name="ew_main_place_title">Nơi trú ẩn khẩn cấp gần đây</string>
-        <string name="ew_main_setting_show_desc">Bản demo</string>
-        <string name="ew_main_setting_warning_desc">Tìm hiểu thêm</string>
-        <string name="ew_main_settings">Cài đặt</string>
-        <string name="ew_main_warning_all_title">Xem các cảnh báo đã đưa ra trước đó</string>
-        <string name="ew_main_warning_list">Xem cảnh báo</string>
-        <string name="ew_main_warning_list_tips">Xem</string>
-        <string name="ew_main_warning_list_title">Xem lịch sử cảnh báo</string>
-        <string name="ew_monitor_bad_request_tips">Bảo mật không thể truy cập thông tin thiết bị</string>
-        <string name="ew_monitor_content">Thiết bị di động của bạn có thể trở thành một phần của mạng cảnh báo sớm động đất. Sau khi cảm biến của nó phát hiện sóng địa chấn, dữ liệu sẽ được phân tích bằng thuật toán AI và cảnh báo sớm sẽ được đưa ra cho người dân ở khu vực bị ảnh hưởng.</string>
-        <string name="ew_monitor_exit">Hủy đăng ký</string>
-        <string name="ew_monitor_exit_content">Xin chào Tình nguyện viên SỐ. %S! Thiết bị của bạn có thể theo dõi hoạt động địa chấn và thu thập dữ liệu giúp đưa ra cảnh báo động đất sớm. Vẫn hủy đăng ký?</string>
-        <string name="ew_monitor_exit_title">Chú ý</string>
-        <string name="ew_monitor_have_been">Tôi tự hào là một </string>
-        <string name="ew_monitor_info_title">Nó hoạt động như thế nào?</string>
-        <string name="ew_monitor_join_number">Số lượng tình nguyện viên</string>
-        <string name="ew_monitor_join_path">Tham gia chương trình bằng thiết bị Xiaomi: Bảo mật &gt; Cảnh báo động đất &gt; Tình nguyện viên giám sát động đất.</string>
-        <string name="ew_monitor_my_content">Thiết bị di động của tôi là một phần của mạng cảnh báo sớm động đất. Sau khi cảm biến của nó phát hiện sóng địa chấn, dữ liệu sẽ được phân tích bằng thuật toán AI và cảnh báo sớm sẽ được đưa ra cho người dân ở khu vực bị ảnh hưởng.</string>
-        <string name="ew_monitor_number_prex">KHÔNG. %s</string>
-        <string name="ew_monitor_open">Tham gia</string>
-        <string name="ew_monitor_privacy_revoke_title">Rút lại sự đồng ý với Chính sách quyền riêng tư của người theo dõi động đất</string>
-        <string name="ew_monitor_read_privacy"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách quyền riêng tư&lt;/a&gt;</Data>.</string>
-        <string name="ew_monitor_share">Chia sẻ</string>
-        <string name="ew_monitor_slogan">Tham gia trận động đất của chúng tôi
-    chương trình giám sát</string>
-        <string name="ew_monitor_summary1">Sử dụng thiết bị của bạn để theo dõi địa chấn.</string>
-        <string name="ew_monitor_summary2">Báo cáo thông tin liên quan đến cảnh báo động đất.</string>
-        <string name="ew_monitor_summary3">Giúp nhiều người nhận được cảnh báo động đất nhanh hơn.</string>
-        <string name="ew_monitor_support">Hỗ trợ kỹ thuật được cung cấp bởi Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô</string>
-        <string name="ew_monitor_support_rom">*Tính năng này được hỗ trợ bởi một số thiết bị Xiaomi/Redmi và phiên bản MIUI.</string>
-        <string name="ew_monitor_thanks_tips">Cảm ơn bạn đã trở thành trận động đất
-    giám sát tình nguyện viên SỐ %s!</string>
-        <string name="ew_monitor_title">Tình nguyện viên giám sát động đất</string>
-        <string name="ew_monitor_title_spilt">Theo dõi động đất
-    tình nguyện viên</string>
-        <string name="ew_no_contact_tips">Không có địa chỉ liên hệ nào ở đây</string>
-        <string name="ew_not_support_area">Cảnh báo không được hỗ trợ ở khu vực này</string>
-        <string name="ew_open_tips">Cảnh báo động đất đang bật</string>
-        <string name="ew_push_message">Cường độ ước tính: %s. Dự kiến sẽ có rung chuyển nhẹ ở gần bạn.</string>
-        <string name="ew_push_title">Cảnh báo động đất cho %s</string>
-        <string name="ew_safe_place_no_maps_tips">Không thể tìm kiếm bây giờ. Trước tiên hãy cài đặt Baidu Maps hoặc Amap.</string>
-        <string name="ew_setting_desc_message">MIUI ước tính cường độ của trận động đất dựa trên cường độ của nó, vị trí tâm chấn và vị trí của bạn. Cường độ ước tính càng lớn thì trận động đất ở khu vực của bạn càng có sức tàn phá lớn.</string>
-        <string name="ew_setting_desc_title">Cường độ ước tính là bao nhiêu?</string>
-        <string name="ew_setting_more_title">Tìm hiểu thêm về cảnh báo động đất</string>
-        <string name="ew_setting_normal_push_message">Khi cường độ ước tính thấp hơn ngưỡng cảnh báo</string>
-        <string name="ew_setting_normal_push_title">Nhận thông báo hệ thống</string>
-        <string name="ew_setting_strong_push_message">Khi cường độ ước tính cao hơn ngưỡng cảnh báo</string>
-        <string name="ew_setting_strong_push_title">Cảnh báo về động đất mạnh (Bật theo mặc định)</string>
-        <string name="ew_settings_choose_level">Đặt ngưỡng cảnh báo</string>
-        <string name="ew_settings_choose_level_title">Cường độ ước tính: %s</string>
-        <string name="ew_settings_choose_level_value_1"> (Rung động trong các tòa nhà cao tầng)</string>
-        <string name="ew_settings_choose_level_value_2"> (Rung)</string>
-        <string name="ew_settings_choose_level_value_3"> (Rung mạnh)</string>
-        <string name="ew_settings_choose_level_value_4"> (Rung mạnh)</string>
-        <string name="ew_settings_push_tips">Cảnh báo về các khu vực bên ngoài vị trí của bạn sẽ chỉ ở dạng thông báo.</string>
-        <string name="ew_settings_set_level_summary">Nhận cảnh báo về động đất khi cường độ của chúng là %s hoặc cao hơn</string>
-        <string name="ew_settings_set_level_title">Đặt ngưỡng cảnh báo động đất</string>
-        <string name="ew_signature_default">Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô Trung tâm Cảnh báo sớm Động đất Đại lục</string>
-        <string name="ew_sleep_mode_alert_content">Để đảm bảo bạn có thể nhận được cảnh báo sớm về động đất, MIUI sẽ tắt chế độ Ngủ. Các ứng dụng nền, NFC, Bluetooth, GPS, dữ liệu di động và WLAN sẽ hoạt động bình thường ngay cả khi bạn đang ngủ. Bật cảnh báo động đất ngay bây giờ?</string>
-        <string name="ew_sleep_mode_alert_title">Cảnh báo động đất</string>
-        <string name="ew_subscribe_area_title">Quản lý các khu vực đã thêm</string>
-        <string name="ew_subscribe_city">Các khu vực đã thêm</string>
-        <string name="ew_subscribe_city_count">Bạn có thể đăng ký tối đa %s thành phố</string>
-        <string name="ew_subscribe_search_hint">Tìm kiếm khu vực</string>
-        <string name="ew_subscribe_title">Cảnh báo động đất | Một trận động đất có cường độ %2$s đã xảy ra ở %1$s và %3$s có thể cảm nhận được</string>
-        <string name="ew_user_feedback">Phản hồi</string>
-        <string name="warningcenter_action_check">Xem</string>
-        <string name="warningcenter_alert_home">Vị trí</string>
-        <string name="warningcenter_alert_room">Phòng</string>
-        <string name="warningcenter_alert_source">Trung tâm Cảnh báo MIUI | Nguồn dữ liệu: %s</string>
-        <string name="warningcenter_alert_time">Thời gian</string>
-        <string name="warningcenter_alert_warning_time">Thời gian nhận được: %s</string>
-        <string name="warningcenter_disaster_all">Tất cả cảnh báo</string>
-        <string name="warningcenter_disaster_area_search_hint">Nhập khu vực</string>
-        <string name="warningcenter_disaster_area_select">Các khu vực được chọn</string>
-        <string name="warningcenter_disaster_area_suggest">Khu vực được đề xuất</string>
-        <string name="warningcenter_disaster_area_tips">*Hiện tại, dịch vụ cảnh báo sớm thiên tai chỉ được cung cấp ở "Thành phố Thiên Tân", "Thành phố Taishan" và "Thành phố Lin'an", và sẽ dần dần được mở ở các khu vực khác trong tương lai.</string>
-        <string name="warningcenter_disaster_area_title">Khu vực bị ảnh hưởng</string>
-        <string name="warningcenter_disaster_baoxue">bão tuyết</string>
-        <string name="warningcenter_disaster_baoyu">mưa bão</string>
-        <string name="warningcenter_disaster_bingbao">Xin chào</string>
-        <string name="warningcenter_disaster_blue">Cảnh báo màu xanh</string>
-        <string name="warningcenter_disaster_dafeng">Gió đất</string>
-        <string name="warningcenter_disaster_daolujiebing">Băng trên đường</string>
-        <string name="warningcenter_disaster_dawu">Sương mù dày đặc</string>
-        <string name="warningcenter_disaster_detail_suggest">Chúng tôi khuyên bạn nên bật cảnh báo có mức độ ưu tiên cao</string>
-        <string name="warningcenter_disaster_detail_title">Chi tiết</string>
-        <string name="warningcenter_disaster_dizhen">Sự kiện động đất tự nhiên</string>
-        <string name="warningcenter_disaster_dizhizaihaiqixiangfengxian">Rủi ro khí tượng thảm họa địa chất</string>
-        <string name="warningcenter_disaster_fengbaochao">Bão dâng</string>
-        <string name="warningcenter_disaster_gaowen">Nhiệt độ cao</string>
-        <string name="warningcenter_disaster_guide_title"> Hướng dẫn toàn bộ</string>
-        <string name="warningcenter_disaster_hailang">Sóng</string>
-        <string name="warningcenter_disaster_hanchao">Sóng lạnh</string>
-        <string name="warningcenter_disaster_icon_title">Cảnh báo demo</string>
-        <string name="warningcenter_disaster_info">Được xuất bản bởi Trung tâm Cảnh báo của CMA</string>
-        <string name="warningcenter_disaster_info_from">Trung tâm cảnh báo sớm MIUI | Thông tin đến từ Trung tâm cảnh báo quốc gia</string>
-        <string name="warningcenter_disaster_info_title">Giới thiệu về cảnh báo</string>
-        <string name="warningcenter_disaster_leiyudafeng">Giông bão và gió mạnh</string>
-        <string name="warningcenter_disaster_level_1">Cấp I (Cực kỳ nghiêm trọng)</string>
-        <string name="warningcenter_disaster_level_2">Cấp II (Nghiêm trọng)</string>
-        <string name="warningcenter_disaster_level_3">Cấp III (Trung bình)</string>
-        <string name="warningcenter_disaster_level_4">Cấp Ⅳ (Nhỏ)</string>
-        <string name="warningcenter_disaster_level_all">Tất cả các cấp</string>
-        <string name="warningcenter_disaster_level_info">Mức cảnh báo</string>
-        <string name="warningcenter_disaster_level_title">Mức cảnh báo</string>
-        <string name="warningcenter_disaster_list_title">Cảnh báo thiên tai</string>
-        <string name="warningcenter_disaster_local">Xác định vị trí</string>
-        <string name="warningcenter_disaster_mai">sương mù</string>
-        <string name="warningcenter_disaster_orange">cảnh báo màu cam</string>
-        <string name="warningcenter_disaster_place_settings">Khu vực</string>
-        <string name="warningcenter_disaster_place_subscribe">Chọn vùng</string>
-        <string name="warningcenter_disaster_qita">Các thảm họa địa chất khác</string>
-        <string name="warningcenter_disaster_receive_info">Định dạng cảnh báo</string>
-        <string name="warningcenter_disaster_receive_level">Chọn mức cảnh báo</string>
-        <string name="warningcenter_disaster_receive_level_blue">Màu xanh</string>
-        <string name="warningcenter_disaster_receive_level_orange">Cam</string>
-        <string name="warningcenter_disaster_receive_level_red">Đỏ</string>
-        <string name="warningcenter_disaster_receive_level_ yellow">Vàng</string>
-        <string name="warningcenter_disaster_receive_settings">Định dạng cảnh báo</string>
-        <string name="warningcenter_disaster_receive_strong">Cảnh báo có mức độ ưu tiên cao (được đề xuất)</string>
-        <string name="warningcenter_disaster_receive_strong_summary">Nhận thông báo đẩy về các cảnh báo có mức độ ưu tiên cao được đưa ra cho khu vực đã chọn</string>
-        <string name="warningcenter_disaster_receive_strong_title">Cảnh báo có mức độ ưu tiên cao</string>
-        <string name="warningcenter_disaster_receive_system">Thông báo hệ thống</string>
-        <string name="warningcenter_disaster_receive_system_summary">Nhận cảnh báo thiên tai được đưa ra cho khu vực đã chọn</string>
-        <string name="warningcenter_disaster_receive_type">Các loại cảnh báo</string>
-        <string name="warningcenter_disaster_receive_type_biological">Sinh học</string>
-        <string name="warningcenter_disaster_receive_type_forest">Rừng</string>
-        <string name="warningcenter_disaster_receive_type_geology">Địa chất</string>
-        <string name="warningcenter_disaster_receive_type_meteorological">Khí tượng</string>
-        <string name="warningcenter_disaster_receive_type_sea">Thủy văn</string>
-        <string name="warningcenter_disaster_recent">Cảnh báo gần đây</string>
-        <string name="warningcenter_disaster_red">Cảnh báo nghiêm trọng</string>
-        <string name="warningcenter_disaster_search_hint">Loại cảnh báo/khu vực/cơ quan ban hành</string>
-        <string name="warningcenter_disaster_search_keywords">Cảnh báo thời tiết</string>
-        <string name="warningcenter_disaster_senlinhuoxian">Bảo hiểm cháy rừng</string>
-        <string name="warningcenter_disaster_taifeng">Bão</string>
-        <string name="warningcenter_disaster_title">Cảnh báo thiên tai</string>
-        <string name="warningcenter_disaster_type_all">Tất cả các loại</string>
-        <string name="warningcenter_disaster_type_cancel">Đã hủy</string>
-        <string name="warningcenter_disaster_type_first">Mới</string>
-        <string name="warningcenter_disaster_type_update">Đã cập nhật</string>
-        <string name="warningcenter_disaster_ yellow">Cảnh báo màu vàng</string>
-        <string name="warningcenter_disaster_zhongwuran">Ô nhiễm nặng</string>
-        <string name="warningcenter_earthquake_info">Cảnh báo sớm về động đất</string>
-        <string name="warningcenter_mijia_alert_close">Đóng</string>
-        <string name="warningcenter_mijia_alert_settings">Thay đổi cài đặt trong Bảo mật &gt; Cảnh báo từ các thiết bị nhà thông minh</string>
-        <string name="warningcenter_mijia_alert_tips_1">Đã phát hiện nồng độ khí cao</string>
-        <string name="warningcenter_mijia_alert_tips_2">Đã phát hiện khói</string>
-        <string name="warningcenter_mijia_alert_tips_3">Đã phát hiện lũ lụt</string>
-        <string name="warningcenter_mijia_alert_tips_4">Khóa của bạn đã bị hỏng</string>
-        <string name="warningcenter_mijia_alert_view_device">Xem thiết bị</string>
-        <string name="warningcenter_mijia_devices_1">Máy dò lũ</string>
-        <string name="warningcenter_mijia_devices_2">Máy dò khói</string>
-        <string name="warningcenter_mijia_devices_3">Máy dò khí</string>
-        <string name="warningcenter_mijia_devices_4">Khóa thông minh</string>
-        <string name="warningcenter_mijia_devices_support">Các thiết bị được hỗ trợ</string>
-        <string name="warningcenter_mijia_devices_support_tips">Lưu ý: Bạn sẽ không thể nhận thông báo nếu đăng xuất khỏi tài khoản của mình trong Mi Home hoặc gỡ cài đặt ứng dụng.</string>
-        <string name="warningcenter_mijia_info">Giám sát an ninh ngôi nhà của bạn</string>
-        <string name="warningcenter_mijia_notification_summary">Bạn có thể nhận được thông báo tức thì</string>
-        <string name="warningcenter_mijia_notification_title">Cảnh báo từ các thiết bị thông minh trong nhà đang bật</string>
-        <string name="warningcenter_mijia_open_desc">Bạn sẽ nhận được cảnh báo trên điện thoại này và các thiết bị dùng chung khác bất cứ khi nào cảnh báo được đưa ra bởi các thiết bị bạn đã thêm vào Mi Home</string>
-        <string name="warningcenter_mijia_open_title">Nhận thông báo từ thiết bị thông minh</string>
-        <string name="warningcenter_mijia_page_title">Cảnh báo</string>
-        <string name="warningcenter_mijia_search_keywords">Cảnh báo Mi Home</string>
-        <string name="warningcenter_mijia_title">Cảnh báo từ các thiết bị thông minh trong nhà</string>
-        <string name="warningcenter_policeassist_charge_tips">*Bạn có thể bị tính phí cho các tin nhắn văn bản gửi đi. Hãy liên hệ với nhà cung cấp dịch vụ của bạn để tìm hiểu về mức giá.</string>
-        <string name="warningcenter_policeassist_close_btn">Tắt</string>
-        <string name="warningcenter_policeassist_flow_locating">Đang lấy thông tin…</string>
-        <string name="warningcenter_policeassist_flow_locfailed">Không thể chia sẻ vị trí</string>
-        <string name="warningcenter_policeassist_flow_privacy">Chính sách quyền riêng tư</string>
-        <string name="warningcenter_policeassist_flow_send">Chia sẻ vị trí với cảnh sát</string>
-        <string name="warningcenter_policeassist_flow_tips">Chia sẻ vị trí của bạn</string>
-        <string name="warningcenter_policeassist_noti_content">Tự động gửi tin nhắn văn bản với vị trí của bạn</string>
-        <string name="warningcenter_policeassist_noti_privacy">Nhấn để kiểm tra Chính sách quyền riêng tư</string>
-        <string name="warningcenter_policeassist_noti_send">Đã chia sẻ vị trí của bạn với cảnh sát</string>
-        <string name="warningcenter_policeassist_noti_title">Chia sẻ vị trí trong các cuộc gọi khẩn cấp</string>
-        <string name="warningcenter_policeassist_open_btn">Bật</string>
-        <string name="warningcenter_policeassist_open_content">Tự động gửi thông tin vị trí của bạn cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122.</string>
-        <string name="warningcenter_policeassist_open_title">Chia sẻ vị trí của bạn với cảnh sát trong các cuộc gọi khẩn cấp</string>
-        <string name="warningcenter_policeassist_privacy"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách quyền riêng tư&lt;/a&gt;</Data>.</string>
-        <string name="warningcenter_policeassist_title">Vị trí khẩn cấp</string>
-        <string name="warningcenter_smarthome">Mi Home</string>
-        <string name="warningcenter_title">Trung tâm cảnh báo MIUI</string>
-        <string name="app_management_empty_desc">Ứng dụng này không hỗ trợ tính năng này</string>
-        <string name="app_management_for_chain_start">Chặn mở các ứng dụng khác</string>
-        <string name="app_management_for_chain_start_desc">Ngăn chặn ứng dụng này kết nối hoặc mở các ứng dụng khác</string>
-        <string name="app_management_for_device_id">Ẩn các mã định danh và ngăn theo dõi</string>
-        <string name="app_management_for_device_id_desc">Ngăn ứng dụng này truy cập số điện thoại và thông tin cá nhân của bạn</string>
-        <string name="app_management_for_independent_storage">Cô lập dữ liệu được lưu trữ tạm thời</string>
-        <string name="app_management_for_independent_storage_desc">Chỉ cho phép ứng dụng này truy cập vào tệp và dữ liệu của riêng nó</string>
-        <string name="app_management_for_install">Chặn tải xuống ứng dụng</string>
-        <string name="app_management_for_install_desc">Ngăn ứng dụng này tải xuống hoặc cài đặt các ứng dụng khác</string>
-        <string name="app_management_measures">Quản lý ứng dụng</string>
-        <string name="commonly_used_func_card_title">Các tính năng phổ biến</string>
-        <string name="commonly_used_func_edit_too_many_func">Không thể thêm nhiều mục hơn</string>
-     <string name="see_all_app_behavior_record">Xem tất cả hành vi của ứng dụng</string>
-     <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
+     <string name="dialog_remobe_luckymoney_cancle">Câu chuyện kinh doanh</string>
+     <string name="dialog_remobe_luckymoney_ok">Vào mở lì xì</string>
+     <string name="dialog_remove_luckymoney">Phiên bản MIUI hiện tại hỗ trợ trợ lý lì xì cấp hệ thống. Bạn có muốn gỡ cài đặt phiên bản duy nhất và vào trình quản lý điện thoại để kích hoạt trợ lý lì xì Xiaomi nhanh hơn và ổn định hơn không? </string>
+     <string name="auto_task_allow_suggestion">Đề xuất nhiệm vụ thông minh</string>
+     <string name="auto_task_available_device">Các thiết bị có sẵn</string>
+     <string name="auto_task_conncet_to_some_device">Kết nối với %s</string>
+     <string name="auto_task_create_success">Đã tạo nhiệm vụ thành công</string>
+     <string name="auto_task_custom_time">Đặt thời gian</string>
+     <string name="auto_task_custom_time_lable">phút</string>
+     <string name="auto_task_delete_task">Xóa nhiệm vụ</string>
+     <string name="auto_task_disconnect_to_some_device">Ngắt kết nối khỏi %s</string>
+     <string name="auto_task_font_setting_weight_toast">Không thể điều chỉnh độ đậm cho phông chữ này</string>
+     <string name="auto_task_leave_app">Rời khỏi %s</string>
+     <string name="auto_task_lock_screen_now">Khóa màn hình</string>
+     <string name="auto_task_loop_exclude_cancel">Tác vụ lặp lại đã bị hủy</string>
+     <string name="auto_task_nearby_device">Các thiết bị có sẵn</string>
+     <string name="auto_task_nearby_wlan">Các mạng khả dụng</string>
+     <string name="auto_task_no_in_call">Khi không có cuộc gọi</string>
+     <string name="auto_task_no_need">Không, cảm ơn</string>
+     <string name="auto_task_notification_tips">Thông báo</string>
+     <string name="auto_task_offen_use_device">Thiết bị của tôi</string>
+     <string name="auto_task_offen_use_wlan">Mạng của tôi</string>
+     <string name="auto_task_open_app">Mở %s</string>
+     <string name="auto_task_open_bluetooth">Bật Bluetooth</string>
+     <string name="auto_task_open_wlan">Bật mạng WLAN</string>
+     <string name="auto_task_Operation_airplane_mode">Chế độ trên máy bay</string>
+     <string name="auto_task_Operation_auto_brightness">Độ sáng tự động</string>
+     <string name="auto_task_Operation_bluetooth">Bluetooth</string>
+     <string name="auto_task_Operation_brightness">Độ sáng màn hình</string>
+     <string name="auto_task_Operation_close">Tắt</string>
+     <string name="auto_task_Operation_close_string">Tắt %s</string>
+     <string name="auto_task_Operation_gps">GPS</string>
+     <string name="auto_task_Operation_memory_clean_lockscreen">Xóa bộ nhớ</string>
+     <string name="auto_task_Operation_mobile_data">Dữ liệu di động</string>
+     <string name="auto_task_Operation_modify_string">Chỉnh sửa %s</string>
+     <string name="auto_task_Operation_mute">Chế độ im lặng</string>
+     <string name="auto_task_Operation_no_op">Không</string>
+     <string name="auto_task_Operation_open">Bật</string>
+     <string name="auto_task_Operation_open_string">Bật %s</string>
+     <string name="auto_task_Operation_string_comma">,</string>
+     <string name="auto_task_Operation_string_etc">, v.v.</string>
+     <string name="auto_task_Operation_string_split">;</string>
+     <string name="auto_task_Operation_sync">Đồng bộ hóa</string>
+     <string name="auto_task_Operation_vibration">Rung</string>
+     <string name="auto_task_Operation_wifi">Wi-Fi</string>
+     <string name="auto_task_please_select_item">Chọn mục</string>
+     <string name="auto_task_rule_bluetooth">Bạn có thể tự động mở %2$s khi sử dụng Bluetooth với %1$s. Tạo nhiệm vụ này ngay bây giờ?</string>
+     <string name="auto_task_rule_map_location">Bạn có thể tự động bật dịch vụ định vị khi sử dụng bản đồ. Tạo nhiệm vụ này ngay bây giờ?</string>
+     <string name="auto_task_rule_read_mode">Bạn có thể tự động bật Chế độ đọc khi sử dụng ứng dụng đọc. Tạo nhiệm vụ này ngay bây giờ?</string>
+     <string name="auto_task_rule_zen_mode">Bạn có thể tự động bật chế độ không làm phiền khi ngủ trưa từ 12:00 đến 14:00. Tạo nhiệm vụ này ngay bây giờ?</string>
+     <string name="auto_task_select_address_company">Cơ quan</string>
+     <string name="auto_task_select_address_home">Trang chủ</string>
+     <string name="auto_task_select_address_leave">Rời khỏi</string>
+     <string name="auto_task_select_address_no_set">Chưa được đặt</string>
+     <string name="auto_task_select_address_other">Địa chỉ thường xuyên</string>
+     <string name="auto_task_select_address_to">Đến</string>
+     <string name="auto_task_set_conncet_bluetooth">Đặt</string>
+     <string name="auto_task_set_conncet_wlan">Đặt</string>
+     <string name="auto_task_set_exit_condition">Sử dụng điều kiện hoàn thành</string>
+     <string name="auto_task_set_exit_condition_summary">Hoàn thành nhiệm vụ khi đáp ứng một trong các điều kiện sau</string>
+     <string name="auto_task_set_open_app">Đặt</string>
+     <string name="auto_task_setting_allow_notify">Cho phép thông báo</string>
+     <string name="auto_task_setting_allow_tips_smart_task">Cho phép thông báo với đề xuất thông minh</string>
+     <string name="auto_task_setting_Before_exclude_notify">Thông báo trước nhiệm vụ</string>
+     <string name="auto_task_setting_exclude_notify">Thông báo trong khi thực hiện nhiệm vụ</string>
+     <string name="auto_task_setting_need_reset">Khôi phục mặc định sau khi hoàn thành nhiệm vụ</string>
+     <string name="auto_task_setting_show_task_shortcut_in_desktop">Phím tắt màn hình chính</string>
+     <string name="auto_task_show_notification_b Before_exclude">Thông báo trước khi thực hiện</string>
+     <string name="auto_task_show_notification_b Before_exit">Thông báo trước khi hoàn thành</string>
+     <string name="auto_task_temp_allow">Được</string>
+     <string name="auto_task_temp_no_exit">Hủy</string>
+     <string name="auto_task_temp_no_need">Hủy</string>
+     <string name="auto_task_voice_dialog_alarm_title">Báo thức</string>
+     <string name="auto_task_voice_dialog_call_title">Cuộc gọi, thông báo, lời nhắc</string>
+     <string name="auto_task_voice_dialog_media_title">Âm nhạc, trò chơi, phương tiện truyền thông</string>
+     <string name="system_anti_fraud_stayaway_from_risk">Tránh gian lận kỹ thuật số</string>
+     <string name="verify_shut_down_password_content">Yêu cầu xác nhận khóa màn hình nếu thiết bị của bạn tắt nguồn khi bị khóa</string>
+     <string name="verify_shut_down_password_title">Xác nhận tắt máy</string>
+     <string name="shut_down_password_content">Nếu bạn bị mất thiết bị, xác nhận tắt máy sẽ bảo vệ thiết bị khỏi bị tắt bởi bất kỳ ai tìm thấy nó.</string>
+     <string name="pp_anti_track_summary">Không cho phép theo dõi hoạt động của bạn</string>
+     <string name="pp_antitrack_detail">Các ứng dụng có thể theo dõi hoạt động của bạn thông qua thông tin nhận dạng cá nhân, thông tin vị trí và các loại thông tin cá nhân khác được chia sẻ với chúng. Việc theo dõi hoạt động của bạn trong các ứng dụng và trang web khác nhau cho phép họ cá nhân hóa quảng cáo và đề xuất nội dung phù hợp cho bạn.</string>
+     <string name="pp_app_behavior_record_detail">Ghi lại mọi hành vi của ứng dụng</string>
+     <string name="pp_app_del_img_intercept_detail">Nhận thông báo khi ứng dụng xóa các mục khỏi Thư viện mà không có sự cho phép của bạn</string>
+     <string name="pp_app_gets_dangeous_permission_reminder">Nhận thông báo khi ứng dụng sử dụng quyền có mức độ rủi ro cao</string>
+     <string name="pp_app_gets_dangeous_permission_reminder_detail">Nhận thông báo mỗi khi ứng dụng sử dụng quyền có mức độ rủi ro cao và xem xét các lựa chọn của bạn</string>
+     <string name="pp_app_lock_introduction">Khóa màn hình bổ sung</string>
+     <string name="pp_app_reads_clipboard_smart_reminder">Bảo vệ bộ nhớ tạm</string>
+     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI sẽ quyết định xem các ứng dụng có được phép truy cập vào bộ nhớ tạm của bạn hay không. Khi họ làm vậy, bạn sẽ nhận được thông báo.</string>
+     <string name="pp_block_mac">Hạn chế quyền truy cập vào địa chỉ MAC</string>
+     <string name="pp_block_mac_summary">Quyền truy cập vào địa chỉ MAC của bạn bị hạn chế theo mặc định đối với tất cả các ứng dụng.</string>
+     <string name="pp_call_phone_msg">Lịch sử cuộc gọi</string>
+     <string name="pp_capability_approved_title">Các biện pháp bảo vệ quyền riêng tư của chúng tôi đã được thử nghiệm và chứng nhận bởi các chuyên gia hàng đầu trong ngành.</string>
+     <string name="pp_chain_start_is_prohibited">Hạn chế khởi động chuỗi</string>
+     <string name="pp_chain_start_is_prohibited_detail">Kiểm soát các tình huống khi các ứng dụng của bên thứ ba khởi động lẫn nhau và lấy thông tin cá nhân của bạn mà bạn không biết</string>
+     <string name="pp_clipboard">Bộ nhớ tạm</string>
+     <string name="pp_comprehensive_privacy_management">Bảo vệ quyền riêng tư toàn diện</string>
+     <string name="pp_contacts_msg">Danh bạ</string>
+     <string name="pp_data_rights_realization">Quyền dữ liệu</string>
+     <string name="pp_fuzzy_positioning">Độ chính xác định vị thấp hơn</string>
+     <string name="pp_fuzzy_positioning_detail">Giảm độ chính xác định vị và cho phép các ứng dụng truy cập thông tin vị trí kém chính xác hơn</string>
+     <string name="pp_grant_permission_only_during_app_use">Chỉ cho phép ứng dụng sử dụng quyền khi bạn đang sử dụng ứng dụng</string>
+     <string name="pp_grant_permission_only_during_app_use_detail">Để ngăn ứng dụng sử dụng các quyền trong nền, bạn có thể chỉ cho phép sử dụng các quyền liên quan đến vị trí, ghi âm và danh bạ khi bạn đang sử dụng ứng dụng</string>
+     <string name="pp_hide_app">Ẩn ứng dụng</string>
+     <string name="pp_hide_app_form_desktop">Xóa biểu tượng ứng dụng khỏi Màn hình chính</string>
+     <string name="pp_icon_layout_status_bg_content_enable">Được bảo vệ</string>
+     <string name="pp_icon_layout_status_bg_content_unable">Tắt</string>
+     <string name="pp_identifier_protection">Bảo vệ thông tin nhận dạng cá nhân</string>
+     <string name="pp_interception_net_visit_content_manager">Bảo vệ thư viện và các tập tin ứng dụng truyền thông xã hội</string>
+     <string name="pp_interception_net_visit_content_manager_detail">Chọn ứng dụng nào được phép truy cập Thư viện và các tệp từ ứng dụng mạng xã hội của bạn</string>
+     <string name="pp_lab_compact_blur_location">Các ứng dụng truy cập vị trí gần đúng</string>
+     <string name="pp_lab_compact_blur_location_summary">Chọn "Mặc định" để sử dụng chức năng vị trí gần đúng của Android hoặc "Tất cả" để chuyển sang MIUI.</string>
+     <string name="pp_local_msg">Thông tin vị trí</string>
+     <string name="pp_manage_apps_location_information">Cho phép ứng dụng truy cập vị trí của bạn</string>
+     <string name="pp_manage_track">Theo dõi trình theo dõi</string>
+     <string name="pp_manage_track_summary">Phát hiện và vô hiệu hóa nhiều loại trình theo dõi được nhúng trong ứng dụng. Những trình theo dõi như vậy có thể chia sẻ thông tin nhận dạng cá nhân của bạn bằng cách truy cập và lưu các mục vào bộ nhớ trong hoặc sử dụng SDK dùng chung để theo dõi hoạt động của bạn.</string>
+     <string name="pp_one_app_two_use">Sử dụng hai tài khoản mà không cần đăng xuất</string>
+     <string name="pp_one_phone_two_space">Sử dụng một thiết bị chia làm 2 không gian khác nhau</string>
+     <string name="pp_only_allow_permission_during_this_run">Cho phép ứng dụng sử dụng quyền một lần</string>
+     <string name="pp_only_allow_permission_during_this_run_detail">Bạn chỉ có thể cho phép sử dụng các quyền liên quan đến vị trí, ghi âm và danh bạ một lần. Các quyền này sẽ lại bị hạn chế ngay sau khi đóng ứng dụng.</string>
+     <string name="pp_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
+     <string name="pp_operator_get_number_summary">Các ứng dụng sẽ yêu cầu sự cho phép của bạn khi chúng muốn truy cập vào số điện thoại của bạn để đăng nhập.</string>
+     <string name="pp_Option_protection_function">Các biện pháp bảo vệ tùy chọn</string>
+     <string name="pp_permission_action_virtual_detail">Cấp quyền nhưng cấp cho ứng dụng các tệp trống thay vì thông tin cá nhân</string>
+     <string name="pp_permission_settings">Quyền</string>
+     <string name="pp_privacy_input_tips">Bảo vệ bàn phím của bạn</string>
+     <string name="pp_privacy_lab_blur_location">Vị trí gần đúng</string>
+     <string name="pp_privacy_lab_blur_location_summary">Cá nhân hóa thông tin vị trí của bạn cho phép các ứng dụng truy cập vào vị trí gần đúng của bạn</string>
+     <string name="pp_privacy_lab_clipboard">Bảo vệ bộ nhớ tạm</string>
+     <string name="pp_privacy_lab_clipboard_summary">Cho phép MIUI quyết định xem ứng dụng có thể truy cập vào bộ nhớ tạm hay không và nhận thông báo khi có</string>
+     <string name="pp_privacy_lab_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
+     <string name="pp_privacy_lab_operator_get_number_summary">Yêu cầu ứng dụng xin phép bạn khi chúng muốn truy cập số điện thoại của bạn để đăng nhập</string>
+     <string name="pp_privacy_lab_operator_introduction">Chú ý</string>
+     <string name="pp_privacy_lab_operator_introduction_summary">Ứng dụng có thể lưu số điện thoại của bạn nếu số đó đã được lấy trước đó. Việc thay đổi quyền này sẽ không xóa các số điện thoại có được trước đó.</string>
+     <string name="pp_privacy_protection">Bảo vệ</string>
+     <string name="pp_privacy_protection_function">Tính năng bảo vệ quyền riêng tư</string>
+     <string name="pp_privacy_protection_lab">Phòng thí nghiệm bảo vệ quyền riêng tư</string>
+     <string name="pp_privacy_protection_lab_summary">Giữ mọi thứ riêng tư</string>
+     <string name="pp_privacy_risk_Detection">Phát hiện rủi ro về quyền riêng tư</string>
+     <string name="pp_privacy_risk_Detection_detail">Tự động phát hiện các rủi ro về quyền riêng tư và nhận đề xuất về các biện pháp bảo vệ</string>
+     <string name="pp_privacy_safe_box">Không gian riêng tư</string>
+     <string name="pp_private_file_dir">Tệp riêng tư</string>
+     <string name="pp_private_file_dir_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
+     <string name="pp_private_photo_album">Ảnh và video riêng tư</string>
+     <string name="pp_private_photo_album_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
+     <string name="pp_prohibit_use_camera_in_background">Hạn chế sử dụng máy ảnh ở chế độ nền</string>
+     <string name="pp_prohibit_use_camera_in_background_detail">Theo mặc định, các ứng dụng sẽ không thể sử dụng máy ảnh ở chế độ nền</string>
+     <string name="pp_record_msg">Ghi âm</string>
+     <string name="pp_safe_box">Không gian riêng tư</string>
+     <string name="pp_safe_box_detail">Các mục riêng tư chỉ được mã hóa và lưu trữ trên thiết bị này. Những người khác sẽ không thể truy cập chúng khi họ đang sử dụng thiết bị này và bản thân thiết bị sẽ không được phép truy cập các mục được mã hóa và sử dụng chúng theo bất kỳ cách nào.</string>
+     <string name="pp_safe_box_summary">Bảo vệ quyền riêng tư</string>
+     <string name="pp_safe_input_pwd">Bảo vệ mật khẩu của bạn</string>
+     <string name="pp_safe_keyboard">Bàn phím bảo mật</string>
+     <string name="pp_safe_save_pwd_and_account">Lưu trữ mật khẩu trong môi trường an toàn</string>
+     <string name="pp_safe_share_img_detail">Chia sẻ ảnh mà không cần thông tin vị trí và siêu dữ liệu</string>
+     <string name="pp_smart_manager_pwd">Mật khẩu</string>
+     <string name="pp_special_permission_settings">Quyền đặc biệt</string>
+     <string name="pp_special_permission_settings_detail">Kiểm soát cách ứng dụng sử dụng quyền đặc biệt</string>
+     <string name="pp_storage_msg">Bộ nhớ</string>
+     <string name="pp_understanding_privacy">Nhận thức</string>
+     <string name="pp_virtual_identity_manager">ID ảo</string>
+     <string name="pp_virtual_identity_summary">ID ảo (OAID) có thể được cung cấp cho ứng dụng thay vì mã nhận dạng thực của bạn. Nó bảo vệ quyền riêng tư của bạn và cho phép bạn kiểm soát cách các ứng dụng theo dõi hành vi của bạn.</string>
+     <string name="precise_location_title">Vị trí chính xác</string>
+     <string name="eletric_card_key_1">Cuộc gọi</string>
+     <string name="eletric_card_key_2">Tin nhắn</string>
+     <string name="eletric_card_key_3">Ứng dụng</string>
+     <string name="eletric_card_key_4">Duyệt web</string>
+     <string name="eletric_card_key_5">Đang truyền</string>
+     <string name="eletric_card_one_identification_risk_app">Cảnh báo về các ứng dụng đáng ngờ</string>
+     <string name="eletric_card_one_identification_risk_app_summary">Tự động nhận cảnh báo và hạn chế quyền khi phát hiện rủi ro</string>
+     <string name="eletric_card_one_identification_risk_mms">Phát hiện rủi ro trong tin nhắn đến</string>
+     <string name="eletric_card_one_identification_risk_mms_summary">Kiểm tra rủi ro trong tin nhắn đến dựa trên số điện thoại của người gửi và URL đính kèm</string>
+     <string name="eletric_card_one_identification_risk_screen">Ẩn các mục riêng tư</string>
+     <string name="eletric_card_one_identification_risk_screen_summary">Không hiển thị thông báo và ứng dụng riêng tư trên màn hình bên ngoài trong khi truyền màn hình</string>
+     <string name="eletric_card_status_bg_content_disable">Tắt</string>
+     <string name="eletric_card_status_bg_content_enable">Bật</string>
+     <string name="eletric_card_summary_1">Kiểm tra các cuộc gọi đến để phát hiện rủi ro bảo mật</string>
+     <string name="eletric_card_summary_2">Phát hiện rủi ro trong tin nhắn đến</string>
+     <string name="eletric_card_summary_3">Cảnh báo về các ứng dụng đáng ngờ</string>
+     <string name="eletric_card_summary_4">Thông báo về các trang web nguy hiểm</string>
+     <string name="eletric_card_summary_5">Ẩn các mục riêng tư</string>
+     <string name="eletric_card_two_identification_risk_app">Cảnh báo về các giao dịch rủi ro</string>
+     <string name="eletric_card_two_identification_risk_app_summary">Nhận cảnh báo khi thực hiện giao dịch tài chính sau các cuộc gọi hoặc tin nhắn đáng ngờ</string>
+     <string name="eletric_card_two_identification_risk_mms">Cảnh báo về mã xác minh được chuyển tiếp</string>
+     <string name="eletric_card_two_identification_risk_mms_summary">Nhận cảnh báo khi mã xác minh được chuyển tiếp đến các ứng dụng mạng xã hội</string>
+     <string name="eletric_group_title_one_identification_risk_app">Tự động hạn chế quyền</string>
+     <string name="eletric_group_title_one_identification_risk_app_summary">Tự động hạn chế quyền khi phát hiện rủi ro trong ứng dụng</string>
+     <string name="eletric_group_title_one_identification_risk_mms">Bảo vệ tin nhắn</string>
+     <string name="eletric_group_title_one_identification_risk_mms_summary">Nhận thông báo về những rủi ro có thể xảy ra trong các tin nhắn được gửi từ số chưa biết</string>
+     <string name="eletric_group_title_one_identification_risk_screen">Ẩn thông báo</string>
+     <string name="eletric_group_title_one_identification_risk_screen_summary">Thông báo của bạn sẽ không được hiển thị trên màn hình bên ngoài khi truyền</string>
+     <string name="eletric_group_title_two_identification_risk_app">Nhận cảnh báo về rủi ro tài chính</string>
+     <string name="eletric_group_title_two_identification_risk_app_summary">Nhận cảnh báo khi giao dịch tài chính được thực hiện sau các cuộc gọi hoặc tin nhắn đáng ngờ</string>
+     <string name="eletric_group_title_two_identification_risk_mms">Nhận cảnh báo khi mã xác minh được chuyển tiếp</string>
+     <string name="eletric_group_title_two_identification_risk_mms_summary">Bạn sẽ nhận được cảnh báo khi mã xác minh từ tin nhắn của bạn được chuyển tiếp tới mạng xã hội</string>
+     <string name="eletric_group_title_two_identification_risk_screen">Ẩn ứng dụng riêng tư</string>
+     <string name="eletric_group_title_two_identification_risk_screen_summary">Nếu bạn mở ứng dụng chứa thông tin cá nhân nhạy cảm (Mạng xã hội, Ngân hàng, Thư viện, v.v.) trong khi chia sẻ màn hình thiết bị của mình, thông tin này sẽ không được hiển thị. Bạn có thể bắt đầu chia sẻ lại theo cách thủ công.</string>
+     <string name="eletric_group_two_identification_risk_app">Cảnh báo về các giao dịch tài chính rủi ro</string>
+     <string name="eletric_group_two_identification_risk_mms">Bảo vệ mã xác minh</string>
+     <string name="eletric_identification_unfamiliar_numbers">Xác định các số chưa biết</string>
+     <string name="eletric_identification_unfamiliar_numbers_summary">Hiển thị loại cuộc gọi cho các số chưa xác định dựa trên phản hồi của người dùng</string>
+     <string name="eletric_key_protect_electric_announcement">Bảo vệ chống lừa đảo</string>
+     <string name="eletric_no_grant_dialog_message_for_phone">Cấp các quyền cần thiết để có thể xác định các số chưa biết.</string>
+     <string name="eletric_no_grant_dialog_ Negative_button">Hủy</string>
+     <string name="eletric_no_grant_dialog_posit_button">Cài đặt</string>
+     <string name="eletric_no_grant_dialog_title">Yêu cầu quyền</string>
+     <string name="eletric_risk_call_identification">Bảo vệ cuộc gọi</string>
+     <string name="eletric_risk_call_identification_announcement">Nhận thông báo về những rủi ro có thể xảy ra khi nhận cuộc gọi từ số lạ</string>
+     <string name="eletric_status_protecting">Bật</string>
+     <string name="ew_alert_earthquake_center_title">Tâm chấn</string>
+     <string name="ew_alert_earthquake_distance">Bạn đang cách tâm chấn %s km</string>
+     <string name="ew_alert_earthquake_feel_little">Rung lắc nhẹ</string>
+     <string name="ew_alert_earthquake_feel_max">Nghiêm trọng</string>
+     <string name="ew_alert_earthquake_feel_middle">Mạnh</string>
+     <string name="ew_alert_earthquake_feel_none">Không hợp lý</string>
+     <string name="ew_alert_earthquake_feel_normal">Trung bình</string>
+     <string name="ew_alert_earthquake_feel_title">Cường độ ước tính</string>
+     <string name="ew_alert_earthquake_level_title">Cường độ ước tính</string>
+     <string name="ew_alert_emergency_text">Hiển thị
+thẻ y tế</string>
+     <string name="ew_alert_emergency_text_single">Hiển thị thẻ y tế</string>
+     <string name="ew_alert_help_earthquake_title">Sóng địa chấn đã đến</string>
+     <string name="ew_alert_help_place_navigation">Điều hướng</string>
+     <string name="ew_alert_help_safe_title">Tránh nguy hiểm</string>
+     <string name="ew_alert_help_tips">Hãy bình tĩnh và cảnh giác. Tránh xa các vật treo, không đi thang máy. Tìm một không gian an toàn, thả người xuống, che chắn và giữ chặt.</string>
+     <string name="ew_alert_no_contact">Đặt liên hệ khẩn cấp trong Bảo mật &gt; Cảnh báo động đất trước tiên</string>
+     <string name="ew_alert_no_emergency">Thêm dữ liệu y tế của bạn vào Bảo mật &gt; Cảnh báo động đất</string>
+     <string name="ew_alert_text_from">Dữ liệu được cung cấp bởi %s</string>
+     <string name="ew_app_name">Cảnh báo động đất</string>
+     <string name="ew_app_name_exercise">Cảnh báo động đất (Bản demo)</string>
+     <string name="ew_app_name_test">Cảnh báo động đất (Beta)</string>
+     <string name="ew_app_name_test_run">Cảnh báo động đất (Thử)</string>
+     <string name="ew_arrive_text_tips">Sóng địa chấn đã đến: %s</string>
+     <string name="ew_button_confirm">Đồng ý</string>
+     <string name="ew_button_exit">Không đồng ý</string>
+     <string name="ew_city_support_tip">*Chỉ hỗ trợ cảnh báo %s trong phạm vi quyền hạn của mình</string>
+     <string name="ew_click_locate">Nhấn để lấy thông tin vị trí</string>
+     <string name="ew_close">Tắt cảnh báo</string>
+     <string name="ew_close_tips">Cảnh báo động đất đã tắt</string>
+     <string name="ew_close_warning">Tắt</string>
+     <string name="ew_concern_city">Thành phố đã thêm</string>
+     <string name="ew_concern_date_empty">Không có</string>
+     <string name="ew_concern_manage">Quản lý</string>
+     <string name="ew_contact_dialog_tips">Thêm ít nhất một liên hệ khẩn cấp.</string>
+     <string name="ew_contact_dialog_title">Chú ý</string>
+     <string name="ew_current_location">Vị trí hiện tại</string>
+     <string name="ew_emergency_allergy">Dị ứng</string>
+     <string name="ew_emergency_basic_info">Thông tin cơ bản</string>
+     <string name="ew_emergency_birthday">Ngày sinh</string>
+     <string name="ew_emergency_blood_type">Nhóm máu</string>
+     <string name="ew_emergency_choose">Chọn</string>
+     <string name="ew_emergency_delete_all">Xóa tất cả thông tin y tế</string>
+     <string name="ew_emergency_delete_text">Xóa tất cả thông tin y tế ngay bây giờ?</string>
+     <string name="ew_emergency_delete_title">Xóa</string>
+     <string name="ew_emergency_detail_info">Chi tiết</string>
+     <string name="ew_emergency_edit_text">Chỉnh sửa</string>
+     <string name="ew_emergency_edit_title">Thẻ y tế</string>
+     <string name="ew_emergency_idcard">ID</string>
+     <string name="ew_emergency_input">Nhập</string>
+     <string name="ew_emergency_input_allergy">Liệt kê các bệnh dị ứng của bạn</string>
+     <string name="ew_emergency_input_medical">Liệt kê tình trạng và phương pháp điều trị của bạn</string>
+     <string name="ew_emergency_input_medicine">Liệt kê các loại thuốc bạn đang dùng</string>
+     <string name="ew_emergency_medical">Điều kiện y tế</string>
+     <string name="ew_emergency_medicine">Thuốc hoạt tính</string>
+     <string name="ew_emergency_name">Tên</string>
+     <string name="ew_emergency_organ_donation">Bạn có phải là tình nguyện viên hiến tạng không?</string>
+     <string name="ew_emergency_privacy">Tuyên bố về quyền riêng tư: Thông tin bạn cung cấp ở đây sẽ chỉ được sử dụng cho các trường hợp khẩn cấp và được lưu trữ trên thiết bị của bạn. Chúng tôi sẽ không tải thông tin này lên máy chủ của mình.</string>
+     <string name="ew_emergency_recent_medicine">Thuốc hoạt động gần đây</string>
+     <string name="ew_emergency_title">Thẻ y tế</string>
+     <string name="ew_first_start_network_title">Điều khoản và điều kiện</string>
+     <string name="ew_get_location">Xác định vị trí</string>
+     <string name="ew_global_default_signature">EEWS BMKG</string>
+     <string name="ew_global_service_scope_external_link"></string>
+     <string name="ew_global_signature">Thông tin được cung cấp bởi EEWS BMKG
+Hỗ trợ kỹ thuật của Xiaomi &amp; ICL</string>
+     <string name="ew_global_signature_template">Thông tin được cung cấp bởi %s
+Hỗ trợ kỹ thuật của Xiaomi &amp; ICL</string>
+     <string name="ew_guide_law_agree">Đồng ý</string>
+     <string name="ew_guide_law_done">Hiểu rồi</string>
+     <string name="ew_guide_law_exit">Không đồng ý</string>
+     <string name="ew_guide_law_text">Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi cơ quan cảnh báo sớm bên thứ ba. Xiaomi không giám sát các cơ quan bên thứ ba và không có bất kỳ quyền kiểm soát nào đối với họ. Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn. Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạn tham khảo. Bạn hoàn toàn chịu trách nhiệm về những rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
+     <string name="ew_guide_law_title">Tuyên bố từ chối trách nhiệm</string>
+     <string name="ew_guide_next_text">Tiếp theo</string>
+     <string name="ew_guide_open">Nhận cảnh báo động đất</string>
+     <string name="ew_guide_play_audio">Phát âm thanh cảnh báo</string>
+     <string name="ew_guide_play_audio_last">Phát âm thanh cảnh báo (%ds)</string>
+     <string name="ew_guide_start">Bật</string>
+     <string name="ew_guide_start_agree">Bật</string>
+     <string name="ew_guide_start_find_area">Tìm kiếm khu vực</string>
+     <string name="ew_guide_start_warning_range">Cảnh báo sớm được cung cấp cho các khu vực nằm trong Mạng lưới Cảnh báo Động đất Đại lục của Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô. Bạn có thể tìm thấy các vùng phủ sóng cụ thể trong Cài đặt.</string>
+     <string name="ew_guide_statement_text_new">Tuyên bố từ chối trách nhiệm này áp dụng cho tất cả người dùng (sau đây gọi là "bạn") bật tính năng cảnh báo động đất. Bằng cách đồng ý với tuyên bố từ chối trách nhiệm này, bạn ký kết hợp đồng ràng buộc về mặt pháp lý với Xiaomi Inc. và các chi nhánh của nó (sau đây gọi là "Xiaomi"). Bạn thừa nhận rằng bạn đã đọc tất cả nội dung của tuyên bố từ chối trách nhiệm này, đồng thời bạn hoàn toàn hiểu và đồng ý với tất cả các điều khoản và điều kiện của tuyên bố từ chối trách nhiệm này; nếu không bạn nên tắt tính năng cảnh báo động đất ngay lập tức.
+Theo luật pháp và quy định liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan quản lý. Nghĩa là, khi bạn bật chức năng cảnh báo động đất, bạn sẽ có thể nhận được cảnh báo động đất được đưa ra cho các khu vực cụ thể. Bạn có thể tìm thấy các khu vực phủ sóng cụ thể trong Cài đặt.
+Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô. Xiaomi không giám sát tổ chức này và không có bất kỳ quyền kiểm soát nào đối với nó.
+Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.
+Việc nhận thông tin cảnh báo động đất yêu cầu bạn phải luôn kết nối thiết bị của mình với mạng di động. Lỗi đường truyền liên lạc của bên thứ ba, sự cố kỹ thuật, lỗi mạng hoặc thiết bị đầu cuối, hệ thống không ổn định và các sự kiện bất khả kháng khác có thể khiến bạn không nhận được thông tin cảnh báo động đất. Xiaomi sẽ không chịu bất kỳ trách nhiệm nào đối với mọi tổn thất do những sự kiện đó gây ra.
+Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạn tham khảo. Cảnh báo bạn nhận được có thể đến vài giây trước khi xảy ra động đất. Bạn hoàn toàn chịu trách nhiệm về những rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
+     <string name="ew_guide_tips_1">Bạn sẽ được thông báo về trận động đất sắp tới và nghe thấy âm thanh cảnh báo</string>
+     <string name="ew_guide_tips_2">Thông tin sớm về động đất và âm thanh cảnh báo sẽ được cập nhật trong trận động đất</string>
+     <string name="ew_guide_tips_3">Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu</string>
+     <string name="ew_guide_title">Xem bản demo</string>
+     <string name="ew_info_agreement">Tuyên bố từ chối trách nhiệm</string>
+     <string name="ew_info_other">Khác</string>
+     <string name="ew_info_range">Phạm vi dịch vụ</string>
+     <string name="ew_info_rule">Quy tắc</string>
+     <string name="ew_info_rule_warning">Giới thiệu về hệ thống cảnh báo</string>
+     <string name="ew_info_service_range">Phạm vi dịch vụ</string>
+     <string name="ew_list_all">Tất cả</string>
+     <string name="ew_list_empty_text">Chưa có cảnh báo nào ở đây</string>
+     <string name="ew_list_not_receive_tips">*Tâm chấn cách xa bạn. Bạn có thể không cảm nhận được trận động đất.</string>
+     <string name="ew_list_receive">Đã nhận</string>
+     <string name="ew_list_receive_distance">Tâm chấn cách bạn %s km</string>
+     <string name="ew_list_receive_time">Thời gian bắt đầu: %s</string>
+     <string name="ew_list_receive_time_title">Thời gian bắt đầu</string>
+     <string name="ew_list_title">Cảnh báo</string>
+     <string name="ew_location_failed">Vị trí không xác định</string>
+     <string name="ew_location_open">Dịch vụ định vị đang bật</string>
+     <string name="ew_main_close_text">Bạn sẽ không thể nhận được thông tin cập nhật về trận động đất này nếu bạn tắt cảnh báo. Vẫn tắt?</string>
+     <string name="ew_main_close_title">Chú ý</string>
+     <string name="ew_main_contact_change">Thay đổi</string>
+     <string name="ew_main_contact_change_dialog_content">Bạn có thể thay đổi hoặc xóa liên hệ khẩn cấp của mình. Bạn sẽ không thể sử dụng số liên lạc khẩn cấp của mình nếu bạn xóa nó.</string>
+     <string name="ew_main_contact_change_dialog_title">Thay đổi liên hệ khẩn cấp</string>
+     <string name="ew_main_contact_delete">Xóa</string>
+     <string name="ew_main_contact_summary">Đã thêm: %s</string>
+     <string name="ew_main_contact_tips">Liên hệ với người này trong trường hợp khẩn cấp</string>
+     <string name="ew_main_contact_title">Liên hệ khẩn cấp</string>
+     <string name="ew_main_detail_title">Cài đặt</string>
+     <string name="ew_main_emergency_tips">Ghi lại thông tin y tế cơ bản của bạn để luôn có trong tay</string>
+     <string name="ew_main_emergency_title">Thẻ y tế</string>
+     <string name="ew_main_open_tips">Tính năng này sẽ thông báo cho bạn về các trận động đất sắp tới và phát âm thanh cảnh báo. Bạn cũng sẽ được cung cấp thông tin về các dịch vụ khẩn cấp sau khi đồng hồ đếm ngược khẩn cấp dừng lại.</string>
+     <string name="ew_main_open_title">Nhận thông báo và nhận trợ giúp</string>
+     <string name="ew_main_place_tips">Tìm hiểu nơi trú ẩn khẩn cấp gần nhất bất cứ khi nào bạn cần</string>
+     <string name="ew_main_place_title">Nơi trú ẩn khẩn cấp gần đây</string>
+     <string name="ew_main_setting_show_desc">Bản demo</string>
+     <string name="ew_main_setting_warning_desc">Tìm hiểu thêm</string>
+     <string name="ew_main_settings">Cài đặt</string>
+     <string name="ew_main_warning_all_title">Xem các cảnh báo đã đưa ra trước đó</string>
+     <string name="ew_main_warning_list">Xem cảnh báo</string>
+     <string name="ew_main_warning_list_tips">Xem</string>
+     <string name="ew_main_warning_list_title">Xem lịch sử cảnh báo</string>
+     <string name="ew_monitor_bad_request_tips">Bảo mật không thể truy cập thông tin thiết bị</string>
+     <string name="ew_monitor_content">Thiết bị di động của bạn có thể trở thành một phần của mạng cảnh báo sớm động đất. Sau khi cảm biến của nó phát hiện sóng địa chấn, dữ liệu sẽ được phân tích bằng thuật toán AI và cảnh báo sớm sẽ được đưa ra cho người dân ở khu vực bị ảnh hưởng.</string>
+     <string name="ew_monitor_exit">Hủy đăng ký</string>
+     <string name="ew_monitor_exit_content">Xin chào Tình nguyện viên SỐ. %S! Thiết bị của bạn có thể theo dõi hoạt động địa chấn và thu thập dữ liệu giúp đưa ra cảnh báo động đất sớm. Vẫn hủy đăng ký?</string>
+     <string name="ew_monitor_exit_title">Chú ý</string>
+     <string name="ew_monitor_have_been">Tôi tự hào là một </string>
+     <string name="ew_monitor_info_title">Nó hoạt động như thế nào?</string>
+     <string name="ew_monitor_join_number">Số lượng tình nguyện viên</string>
+     <string name="ew_monitor_join_path">Tham gia chương trình bằng thiết bị Xiaomi: Bảo mật &gt; Cảnh báo động đất &gt; Tình nguyện viên giám sát động đất.</string>
+     <string name="ew_monitor_my_content">Thiết bị di động của tôi là một phần của mạng cảnh báo sớm động đất. Sau khi cảm biến của nó phát hiện sóng địa chấn, dữ liệu sẽ được phân tích bằng thuật toán AI và cảnh báo sớm sẽ được đưa ra cho người dân ở khu vực bị ảnh hưởng.</string>
+     <string name="ew_monitor_number_prex">KHÔNG. %s</string>
+     <string name="ew_monitor_open">Tham gia</string>
+     <string name="ew_monitor_privacy_revoke_title">Rút lại sự đồng ý với Chính sách quyền riêng tư của người theo dõi động đất</string>
+     <string name="ew_monitor_read_privacy"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách quyền riêng tư&lt;/a&gt;</Data>.</string>
+     <string name="ew_monitor_share">Chia sẻ</string>
+     <string name="ew_monitor_slogan">Tham gia trận động đất của chúng tôi
+chương trình giám sát</string>
+     <string name="ew_monitor_summary1">Sử dụng thiết bị của bạn để theo dõi địa chấn.</string>
+     <string name="ew_monitor_summary2">Báo cáo thông tin liên quan đến cảnh báo động đất.</string>
+     <string name="ew_monitor_summary3">Giúp nhiều người nhận được cảnh báo động đất nhanh hơn.</string>
+     <string name="ew_monitor_support">Hỗ trợ kỹ thuật được cung cấp bởi Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô</string>
+     <string name="ew_monitor_support_rom">*Tính năng này được hỗ trợ bởi một số thiết bị Xiaomi/Redmi và phiên bản MIUI.</string>
+     <string name="ew_monitor_thanks_tips">Cảm ơn bạn đã trở thành trận động đất
+giám sát tình nguyện viên SỐ %s!</string>
+     <string name="ew_monitor_title">Tình nguyện viên giám sát động đất</string>
+     <string name="ew_monitor_title_spilt">Theo dõi động đất
+tình nguyện viên</string>
+     <string name="ew_no_contact_tips">Không có địa chỉ liên hệ nào ở đây</string>
+     <string name="ew_not_support_area">Cảnh báo không được hỗ trợ ở khu vực này</string>
+     <string name="ew_open_tips">Cảnh báo động đất đang bật</string>
+     <string name="ew_push_message">Cường độ ước tính: %s. Dự kiến sẽ có rung chuyển nhẹ ở gần bạn.</string>
+     <string name="ew_push_title">Cảnh báo động đất cho %s</string>
+     <string name="ew_safe_place_no_maps_tips">Không thể tìm kiếm bây giờ. Trước tiên hãy cài đặt Baidu Maps hoặc Amap.</string>
+     <string name="ew_setting_desc_message">MIUI ước tính cường độ của trận động đất dựa trên cường độ của nó, vị trí tâm chấn và vị trí của bạn. Cường độ ước tính càng lớn thì trận động đất ở khu vực của bạn càng có sức tàn phá lớn.</string>
+     <string name="ew_setting_desc_title">Cường độ ước tính là bao nhiêu?</string>
+     <string name="ew_setting_more_title">Tìm hiểu thêm về cảnh báo động đất</string>
+     <string name="ew_setting_normal_push_message">Khi cường độ ước tính thấp hơn ngưỡng cảnh báo</string>
+     <string name="ew_setting_normal_push_title">Nhận thông báo hệ thống</string>
+     <string name="ew_setting_strong_push_message">Khi cường độ ước tính cao hơn ngưỡng cảnh báo</string>
+     <string name="ew_setting_strong_push_title">Cảnh báo về động đất mạnh (Bật theo mặc định)</string>
+     <string name="ew_settings_choose_level">Đặt ngưỡng cảnh báo</string>
+     <string name="ew_settings_choose_level_title">Cường độ ước tính: %s</string>
+     <string name="ew_settings_choose_level_value_1"> (Rung động trong các tòa nhà cao tầng)</string>
+     <string name="ew_settings_choose_level_value_2"> (Rung)</string>
+     <string name="ew_settings_choose_level_value_3"> (Rung mạnh)</string>
+     <string name="ew_settings_choose_level_value_4"> (Rung mạnh)</string>
+     <string name="ew_settings_push_tips">Cảnh báo về các khu vực bên ngoài vị trí của bạn sẽ chỉ ở dạng thông báo.</string>
+     <string name="ew_settings_set_level_summary">Nhận cảnh báo về động đất khi cường độ của chúng là %s hoặc cao hơn</string>
+     <string name="ew_settings_set_level_title">Đặt ngưỡng cảnh báo động đất</string>
+     <string name="ew_signature_default">Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô Trung tâm Cảnh báo sớm Động đất Đại lục</string>
+     <string name="ew_sleep_mode_alert_content">Để đảm bảo bạn có thể nhận được cảnh báo sớm về động đất, MIUI sẽ tắt chế độ Ngủ. Các ứng dụng nền, NFC, Bluetooth, GPS, dữ liệu di động và WLAN sẽ hoạt động bình thường ngay cả khi bạn đang ngủ. Bật cảnh báo động đất ngay bây giờ?</string>
+     <string name="ew_sleep_mode_alert_title">Cảnh báo động đất</string>
+     <string name="ew_subscribe_area_title">Quản lý các khu vực đã thêm</string>
+     <string name="ew_subscribe_city">Các khu vực đã thêm</string>
+     <string name="ew_subscribe_city_count">Bạn có thể đăng ký tối đa %s thành phố</string>
+     <string name="ew_subscribe_search_hint">Tìm kiếm khu vực</string>
+     <string name="ew_subscribe_title">Cảnh báo động đất | Một trận động đất có cường độ %2$s đã xảy ra ở %1$s và %3$s có thể cảm nhận được</string>
+     <string name="ew_user_feedback">Phản hồi</string>
+     <string name="warningcenter_action_check">Xem</string>
+     <string name="warningcenter_alert_home">Vị trí</string>
+     <string name="warningcenter_alert_room">Phòng</string>
+     <string name="warningcenter_alert_source">Trung tâm Cảnh báo MIUI | Nguồn dữ liệu: %s</string>
+     <string name="warningcenter_alert_time">Thời gian</string>
+     <string name="warningcenter_alert_warning_time">Thời gian nhận được: %s</string>
+     <string name="warningcenter_disaster_all">Tất cả cảnh báo</string>
+     <string name="warningcenter_disaster_area_search_hint">Nhập khu vực</string>
+     <string name="warningcenter_disaster_area_select">Các khu vực được chọn</string>
+     <string name="warningcenter_disaster_area_suggest">Khu vực được đề xuất</string>
+     <string name="warningcenter_disaster_area_tips">*Hiện tại, dịch vụ cảnh báo sớm thiên tai chỉ được cung cấp ở "Thành phố Thiên Tân", "Thành phố Taishan" và "Thành phố Lin'an", và sẽ dần dần được mở ở các khu vực khác trong tương lai.</string>
+     <string name="warningcenter_disaster_area_title">Khu vực bị ảnh hưởng</string>
+     <string name="warningcenter_disaster_baoxue">bão tuyết</string>
+     <string name="warningcenter_disaster_baoyu">mưa bão</string>
+     <string name="warningcenter_disaster_bingbao">Xin chào</string>
+     <string name="warningcenter_disaster_blue">Cảnh báo màu xanh</string>
+     <string name="warningcenter_disaster_dafeng">Gió đất</string>
+     <string name="warningcenter_disaster_daolujiebing">Băng trên đường</string>
+     <string name="warningcenter_disaster_dawu">Sương mù dày đặc</string>
+     <string name="warningcenter_disaster_detail_suggest">Chúng tôi khuyên bạn nên bật cảnh báo có mức độ ưu tiên cao</string>
+     <string name="warningcenter_disaster_detail_title">Chi tiết</string>
+     <string name="warningcenter_disaster_dizhen">Sự kiện động đất tự nhiên</string>
+      <string name="warningcenter_disaster_dizhizaihaiqixiangfengxian">Rủi ro khí tượng thảm họa địa chất</string>
+      <string name="warningcenter_disaster_fengbaochao">Bão dâng</string>
+      <string name="warningcenter_disaster_gaowen">Nhiệt độ cao</string>
+      <string name="warningcenter_disaster_guide_title"> Hướng dẫn toàn bộ</string>
+      <string name="warningcenter_disaster_hailang">Sóng</string>
+      <string name="warningcenter_disaster_hanchao">Sóng lạnh</string>
+     <string name="warningcenter_disaster_icon_title">Cảnh báo demo</string>
+     <string name="warningcenter_disaster_info">Được xuất bản bởi Trung tâm Cảnh báo của CMA</string>
+     <string name="warningcenter_disaster_info_from">Trung tâm cảnh báo sớm MIUI | Thông tin đến từ Trung tâm cảnh báo quốc gia</string>
+     <string name="warningcenter_disaster_info_title">Giới thiệu về cảnh báo</string>
+     <string name="warningcenter_disaster_leiyudafeng">Giông bão và gió mạnh</string>
+     <string name="warningcenter_disaster_level_1">Cấp I (Cực kỳ nghiêm trọng)</string>
+     <string name="warningcenter_disaster_level_2">Cấp II (Nghiêm trọng)</string>
+     <string name="warningcenter_disaster_level_3">Cấp III (Trung bình)</string>
+     <string name="warningcenter_disaster_level_4">Cấp Ⅳ (Nhỏ)</string>
+     <string name="warningcenter_disaster_level_all">Tất cả các cấp</string>
+     <string name="warningcenter_disaster_level_info">Mức cảnh báo</string>
+     <string name="warningcenter_disaster_level_title">Mức cảnh báo</string>
+     <string name="warningcenter_disaster_list_title">Cảnh báo thiên tai</string>
+     <string name="warningcenter_disaster_local">Xác định vị trí</string>
+     <string name="warningcenter_disaster_mai">sương mù</string>
+     <string name="warningcenter_disaster_orange">cảnh báo màu cam</string>
+     <string name="warningcenter_disaster_place_settings">Khu vực</string>
+     <string name="warningcenter_disaster_place_subscribe">Chọn vùng</string>
+     <string name="warningcenter_disaster_qita">Các thảm họa địa chất khác</string>
+     <string name="warningcenter_disaster_receive_info">Định dạng cảnh báo</string>
+     <string name="warningcenter_disaster_receive_level">Chọn mức cảnh báo</string>
+     <string name="warningcenter_disaster_receive_level_blue">Màu xanh</string>
+     <string name="warningcenter_disaster_receive_level_orange">Cam</string>
+     <string name="warningcenter_disaster_receive_level_red">Đỏ</string>
+     <string name="warningcenter_disaster_receive_level_ yellow">Vàng</string>
+     <string name="warningcenter_disaster_receive_settings">Định dạng cảnh báo</string>
+     <string name="warningcenter_disaster_receive_strong">Cảnh báo có mức độ ưu tiên cao (được đề xuất)</string>
+     <string name="warningcenter_disaster_receive_strong_summary">Nhận thông báo đẩy về các cảnh báo có mức độ ưu tiên cao được đưa ra cho khu vực đã chọn</string>
+     <string name="warningcenter_disaster_receive_strong_title">Cảnh báo có mức độ ưu tiên cao</string>
+     <string name="warningcenter_disaster_receive_system">Thông báo hệ thống</string>
+     <string name="warningcenter_disaster_receive_system_summary">Nhận cảnh báo thiên tai được đưa ra cho khu vực đã chọn</string>
+     <string name="warningcenter_disaster_receive_type">Các loại cảnh báo</string>
+     <string name="warningcenter_disaster_receive_type_biological">Sinh học</string>
+     <string name="warningcenter_disaster_receive_type_forest">Rừng</string>
+     <string name="warningcenter_disaster_receive_type_geology">Địa chất</string>
+     <string name="warningcenter_disaster_receive_type_meteorological">Khí tượng</string>
+     <string name="warningcenter_disaster_receive_type_sea">Thủy văn</string>
+     <string name="warningcenter_disaster_recent">Cảnh báo gần đây</string>
+     <string name="warningcenter_disaster_red">Cảnh báo nghiêm trọng</string>
+     <string name="warningcenter_disaster_search_hint">Loại cảnh báo/khu vực/cơ quan ban hành</string>
+     <string name="warningcenter_disaster_search_keywords">Cảnh báo thời tiết</string>
+     <string name="warningcenter_disaster_senlinhuoxian">Bảo hiểm cháy rừng</string>
+     <string name="warningcenter_disaster_taifeng">Bão</string>
+     <string name="warningcenter_disaster_title">Cảnh báo thiên tai</string>
+     <string name="warningcenter_disaster_type_all">Tất cả các loại</string>
+     <string name="warningcenter_disaster_type_cancel">Đã hủy</string>
+     <string name="warningcenter_disaster_type_first">Mới</string>
+     <string name="warningcenter_disaster_type_update">Đã cập nhật</string>
+     <string name="warningcenter_disaster_ yellow">Cảnh báo màu vàng</string>
+     <string name="warningcenter_disaster_zhongwuran">Ô nhiễm nặng</string>
+     <string name="warningcenter_earthquake_info">Cảnh báo sớm về động đất</string>
+     <string name="warningcenter_mijia_alert_close">Đóng</string>
+     <string name="warningcenter_mijia_alert_settings">Thay đổi cài đặt trong Bảo mật &gt; Cảnh báo từ các thiết bị nhà thông minh</string>
+     <string name="warningcenter_mijia_alert_tips_1">Đã phát hiện nồng độ khí cao</string>
+     <string name="warningcenter_mijia_alert_tips_2">Đã phát hiện khói</string>
+     <string name="warningcenter_mijia_alert_tips_3">Đã phát hiện lũ lụt</string>
+     <string name="warningcenter_mijia_alert_tips_4">Khóa của bạn đã bị hỏng</string>
+     <string name="warningcenter_mijia_alert_view_device">Xem thiết bị</string>
+     <string name="warningcenter_mijia_devices_1">Máy dò lũ</string>
+     <string name="warningcenter_mijia_devices_2">Máy dò khói</string>
+     <string name="warningcenter_mijia_devices_3">Máy dò khí</string>
+     <string name="warningcenter_mijia_devices_4">Khóa thông minh</string>
+     <string name="warningcenter_mijia_devices_support">Các thiết bị được hỗ trợ</string>
+     <string name="warningcenter_mijia_devices_support_tips">Lưu ý: Bạn sẽ không thể nhận thông báo nếu đăng xuất khỏi tài khoản của mình trong Mi Home hoặc gỡ cài đặt ứng dụng.</string>
+     <string name="warningcenter_mijia_info">Giám sát an ninh ngôi nhà của bạn</string>
+     <string name="warningcenter_mijia_notification_summary">Bạn có thể nhận được thông báo tức thì</string>
+     <string name="warningcenter_mijia_notification_title">Cảnh báo từ các thiết bị thông minh trong nhà đang bật</string>
+     <string name="warningcenter_mijia_open_desc">Bạn sẽ nhận được cảnh báo trên điện thoại này và các thiết bị dùng chung khác bất cứ khi nào cảnh báo được đưa ra bởi các thiết bị bạn đã thêm vào Mi Home</string>
+     <string name="warningcenter_mijia_open_title">Nhận thông báo từ thiết bị thông minh</string>
+     <string name="warningcenter_mijia_page_title">Cảnh báo</string>
+     <string name="warningcenter_mijia_search_keywords">Cảnh báo Mi Home</string>
+     <string name="warningcenter_mijia_title">Cảnh báo từ các thiết bị thông minh trong nhà</string>
+     <string name="warningcenter_policeassist_charge_tips">*Bạn có thể bị tính phí cho các tin nhắn văn bản gửi đi. Hãy liên hệ với nhà cung cấp dịch vụ của bạn để tìm hiểu về mức giá.</string>
+     <string name="warningcenter_policeassist_close_btn">Tắt</string>
+     <string name="warningcenter_policeassist_flow_locating">Đang lấy thông tin…</string>
+     <string name="warningcenter_policeassist_flow_locfailed">Không thể chia sẻ vị trí</string>
+     <string name="warningcenter_policeassist_flow_privacy">Chính sách quyền riêng tư</string>
+     <string name="warningcenter_policeassist_flow_send">Chia sẻ vị trí với cảnh sát</string>
+     <string name="warningcenter_policeassist_flow_tips">Chia sẻ vị trí của bạn</string>
+     <string name="warningcenter_policeassist_noti_content">Tự động gửi tin nhắn văn bản với vị trí của bạn</string>
+     <string name="warningcenter_policeassist_noti_privacy">Nhấn để kiểm tra Chính sách quyền riêng tư</string>
+     <string name="warningcenter_policeassist_noti_send">Đã chia sẻ vị trí của bạn với cảnh sát</string>
+     <string name="warningcenter_policeassist_noti_title">Chia sẻ vị trí trong các cuộc gọi khẩn cấp</string>
+     <string name="warningcenter_policeassist_open_btn">Bật</string>
+     <string name="warningcenter_policeassist_open_content">Tự động gửi thông tin vị trí của bạn cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122.</string>
+     <string name="warningcenter_policeassist_open_title">Chia sẻ vị trí của bạn với cảnh sát trong các cuộc gọi khẩn cấp</string>
+     <string name="warningcenter_policeassist_privacy"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách quyền riêng tư&lt;/a&gt;</Data>.</string>
+     <string name="warningcenter_policeassist_title">Vị trí khẩn cấp</string>
+     <string name="warningcenter_smarthome">Mi Home</string>
+     <string name="warningcenter_title">Trung tâm cảnh báo MIUI</string>
+     <string name="see_more_content">Cập nhật trò chơi để xem thêm thông tin nổi bật</string>
+     <string name="full_informed_privacy">Nhận thức về quyền riêng tư</string>
+     <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
+     <string name="terminal_privacy_ability">Tính năng và cơ chế</string>
+     <string name="terminal_privacy_ability_img">Xử lý hình ảnh</string>
+     <string name="terminal_privacy_ability_img_summary">Chỉnh sửa và nhận dạng thông minh cho ảnh và video trong Máy ảnh, Thư viện và Taplus</string>
+     <string name="terminal_privacy_ability_model">Nhận biết cách thiết bị của bạn tương tác với môi trường</string>
+     <string name="terminal_privacy_ability_model_summary">Bộ đếm bước, cử chỉ thông minh, chế độ bỏ túi và độ sáng tự động</string>
+     <string name="terminal_privacy_ability_others">Các cơ chế khác</string>
+     <string name="terminal_privacy_ability_others_summary">Chia sẻ màn hình, thử nghiệm môi trường thanh toán, nhận dạng vân tay và khuôn mặt</string>
+     <string name="terminal_privacy_ability_suggest">Đề xuất</string>
+     <string name="terminal_privacy_ability_suggest_summary">Đề xuất và đề xuất từ các thư mục trên Màn hình chính, thanh cạnh bên và Mi Wallet</string>
+     <string name="terminal_privacy_ability_summary">*Các tính năng và cơ chế bảo vệ quyền riêng tư trên thiết bị có thể khác nhau tùy theo kiểu thiết bị</string>
+     <string name="terminal_privacy_ability_txt">Văn bản</string>
+     <string name="terminal_privacy_ability_txt_summary">Chỉnh sửa văn bản, phụ đề thông minh, Taplus, tin nhắn và bảng tạm chia sẻ</string>
+     <string name="terminal_privacy_ability_voice">Nhận dạng giọng nói</string>
+     <string name="terminal_privacy_ability_voice_summary">Lệnh bằng giọng nói và phụ đề thông minh</string>
+     <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu giữ trên thiết bị này thay vì được tải lên đám mây</string>
+     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
+     <string name="comprehensive_protection_measures">Bảo vệ toàn diện</string>
+     <string name="privacy_input_icon_layout_status_bg_content_enable">Được bảo vệ</string>
+     <string name="privacy_input_mode">Đầu vào an toàn</string>
+     <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím được Xiaomi ủy quyền</string>
+     <string name="privacy_input_mode_version_supported">Cập nhật bàn phím của bạn để có thể sử dụng tính năng này</string>
+     <string name="privacy_input_model_guide_choose">Tải xuống tính năng nhập giọng nói ngoại tuyến</string>
+     <string name="privacy_input_model_guide_text">Tính năng này bảo vệ quyền riêng tư của bạn khi bạn nhập văn bản. Khi tính năng này bật, một số chức năng dựa trên mạng (ví dụ: tùy chọn cá nhân hóa, biểu tượng cảm xúc, nhập dự đoán) sẽ không khả dụng.</string>
+     <string name="pp_app_permission_settings">Quyền ứng dụng</string>
+     <string name="pp_app_permission_settings_detail">Cho phép ứng dụng sử dụng các quyền liên quan đến quyền riêng tư</string>
+     <string name="security_center_auto_task">Trung tâm tác vụ</string>
+     <string name="activity_mine_task">Nhiệm vụ của tôi</string>
+     <string name="task_summary_close_airplane">Tắt chế độ trên máy bay</string>
+     <string name="task_summary_close_auto_brightness">Tắt độ sáng tự động</string>
+     <string name="task_summary_close_bluetooth">Tắt Bluetooth</string>
+     <string name="task_summary_close_dark_mode">Tắt chế độ tối</string>
+     <string name="task_summary_close_dc_light">Tắt chế độ chống nhấp nháy</string>
+     <string name="task_summary_close_dial_tone">Tắt âm bàn phím quay số</string>
+     <string name="task_summary_close_drive_mode">Tắt chế độ Ô tô</string>
+     <string name="task_summary_close_eye_care_mode">Tắt chế độ Đọc</string>
+     <string name="task_summary_close_hotspot">Tắt điểm phát sóng di động</string>
+     <string name="task_summary_close_location">Tắt dịch vụ định vị</string>
+     <string name="task_summary_close_mute">Tắt chế độ Im lặng</string>
+     <string name="task_summary_close_network">Tắt dữ liệu di động</string>
+     <string name="task_summary_close_nfc">Tắt NFC</string>
+     <string name="task_summary_close_rotate_lock">Mở khóa hướng</string>
+     <string name="task_summary_close_save_battery">Tắt trình tiết kiệm pin</string>
+     <string name="task_summary_close_screen_display">Tắt chế độ hiển thị Luôn bật</string>
+     <string name="task_summary_close_system_touch">Tắt phản hồi xúc giác</string>
+     <string name="task_summary_close_wlan">Tắt mạng WLAN</string>
+     <string name="task_summary_close_zen_mode">Tắt chế độ không làm phiền</string>
+     <string name="task_summary_open_airplane">Bật chế độ trên máy bay</string>
+     <string name="task_summary_open_auto_brightness">Bật độ sáng tự động</string>
+     <string name="task_summary_open_bluetooth">Bật Bluetooth</string>
+     <string name="task_summary_open_dark_mode">Bật chế độ tối</string>
+     <string name="task_summary_open_dc_light">Bật chế độ Chống nhấp nháy</string>
+     <string name="task_summary_open_dial_tone">Bật âm bàn phím quay số</string>
+     <string name="task_summary_open_disturb_mode">Bật chế độ không làm phiền</string>
+     <string name="task_summary_open_drive_mode">Bật chế độ Ô tô</string>
+     <string name="task_summary_open_eye_care_mode">Bật chế độ Đọc</string>
+     <string name="task_summary_open_hotspot">Bật điểm phát sóng di động</string>
+     <string name="task_summary_open_location">Bật dịch vụ định vị</string>
+     <string name="task_summary_open_mute">Bật chế độ Im lặng</string>
+     <string name="task_summary_open_mute_mode">Bật chế độ Im lặng</string>
+     <string name="task_summary_open_network">Bật dữ liệu di động</string>
+     <string name="task_summary_open_nfc">Bật NFC</string>
+     <string name="task_summary_open_rotate_lock">Khóa hướng</string>
+     <string name="task_summary_open_save_battery">Bật trình tiết kiệm pin</string>
+     <string name="task_summary_open_screen_display">Bật màn hình Luôn bật</string>
+     <string name="task_summary_open_system_touch">Bật phản hồi xúc giác</string>
+     <string name="task_summary_open_wlan">Bật mạng WLAN</string>
+     <string name="task_summary_open_zen_mode">Bật chế độ không làm phiền</string>
+     <string name="title_result_absorbed">Chế độ lấy nét</string>
+     <string name="title_result_just_volume">Âm lượng</string>
+     <string name="title_result_airplan">Chế độ trên máy bay</string>
+     <string name="title_result_bluetooth">Bluetooth</string>
+     <string name="title_result_brightness">Độ sáng tự động</string>
+     <string name="title_result_dark">Chế độ tối</string>
+     <string name="title_result_dial_tone">Âm bàn phím quay số</string>
+     <string name="title_result_drive">Chế độ ô tô</string>
+     <string name="title_result_examination">Quét bảo mật</string>
+     <string name="title_result_eye_care">Chế độ đọc</string>
+     <string name="title_result_flashlight">Đèn pin</string>
+     <string name="title_result_hotspot">Điểm phát sóng di động</string>
+     <string name="title_result_location">Vị trí</string>
+     <string name="title_result_lock_screen">Màn hình khóa</string>
+     <string name="title_result_music">Phát nhạc</string>
+     <string name="title_result_mute">Chế độ im lặng</string>
+     <string name="title_result_network">Dữ liệu di động</string>
+     <string name="title_result_nfc">NFC</string>
+     <string name="title_result_rotate_off">Hướng màn hình</string>
+     <string name="title_result_save_battery">Tiết kiệm pin</string>
+     <string name="title_result_screen_brightness">Độ sáng màn hình</string>
+     <string name="title_result_screen_display">Hiển thị luôn bật</string>
+     <string name="title_result_start_activity">Mở ứng dụng</string>
+     <string name="title_result_switch">Tắt nguồn</string>
+     <string name="title_result_touch">Phản hồi xúc giác</string>
+     <string name="title_result_twinkle">Chế độ chống nhấp nháy</string>
+     <string name="title_result_typeface">Kích thước văn bản &amp; kích cỡ độ dày phông chữ</string>
+     <string name="title_result_wlan">WLAN</string>
+     <string name="title_result_zen_mode">Chế độ không làm phiền</string>
+     <string name="recommend">Đề xuất</string>
+     <string name="activity_new_result_name">Thêm kết quả</string>
+     <string name="activity_edit_task_name">Chỉnh sửa nhiệm vụ</string>
+     <string name="auto_task_default_add_action">Thêm hành động</string>
+     <string name="auto_task_default_add_task">Thêm vào "Nhiệm vụ của tôi"</string>
+     <string name="auto_task_default_add_to_task_list">Thêm vào "Nhiệm vụ của tôi"</string>
+     <string name="auto_task_default_do_action">Thì</string>
+     <string name="auto_task_default_if_exclude">Nếu</string>
+     <string name="auto_task_default_task_summary_driver_car">Bật điểm phát sóng di động khi kết nối với hệ thống ô tô qua Bluetooth</string>
+     <string name="auto_task_default_task_summary_get_up">Tắt chế độ không làm phiền và bật lại Bluetooth, WLAN và dữ liệu di động</string>
+     <string name="auto_task_default_task_summary_listen_music">Phát nhạc và chọn loại tai nghe</string>
+     <string name="auto_task_default_task_summary_meet">Lên lịch họp và bật chế độ không làm phiền</string>
+     <string name="auto_task_default_task_summary_noon_break">Lên lịch ngủ trưa và bật chế độ không làm phiền</string>
+     <string name="auto_task_default_task_summary_save_power">Bật Trình tiết kiệm pin khi pin yếu hơn %s</string>
+     <string name="auto_task_default_task_summary_sleep">Lên lịch đi ngủ và tùy chỉnh hoạt động của thiết bị</string>
+     <string name="auto_task_default_task_summary_watch_video">Mở ứng dụng, bật WLAN, điều chỉnh âm lượng</string>
+     <string name="auto_task_default_task_title_driver_car">Lái xe</string>
+     <string name="auto_task_default_task_title_get_up">Đứng lên</string>
+     <string name="auto_task_default_task_title_listen_music">Nghe nhạc</string>
+     <string name="auto_task_default_task_title_meet">Cuộc họp</string>
+     <string name="auto_task_default_task_title_noon_break">Ngủ</string>
+     <string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
+     <string name="auto_task_default_task_title_sleep">Ngủ</string>
+     <string name="auto_task_default_task_title_watch_video">Xem video</string>
+     <string name="summary_confirm_open_flashligt">Bật đèn pin?</string>
+     <string name="summary_confirm_open_meeting_tips">Bật lời nhắc cuộc họp?</string>
+     <string name="summary_confirm_open_phone_check">Chạy quét bảo mật?</string>
+     <string name="summary_confirm_switch">Tắt nguồn thiết bị?</string>
+     <string name="auto_start_tips">MIUI sẽ tối ưu hóa quyền tự khởi động của các ứng dụng bạn không sử dụng thường xuyên để cải thiện hiệu suất thiết bị.</string>
+	 <string name="see_all_app_behavior_record">Xem tất cả hành vi của ứng dụng</string>
      <string name="app_behavior_record_hide_system">Ẩn ứng dụng hệ thống</string>
      <string name="app_behavior_record_close_title">Tắt</string>
      <string name="app_behavior_record_close">Tắt</string>
      <string name="app_behavior_record_open">Bật</string>
      <string name="app_behavior_record_open_content_text">Hồ sơ hành vi ứng dụng hiển thị chức năng của ứng dụng và giúp bạn tránh các rủi ro bảo mật.</string>
      <string name="app_behavior_record_cancel">Hủy</string>
-     <string name="full_informed_privacy">Nhận thức về quyền riêng tư</string>
-     <string name="pp_app_permission_settings_detail">Cho phép ứng dụng sử dụng các quyền liên quan đến quyền riêng tư</string>
-     <string name="privacy_input_mode">Đầu vào an toàn</string>
-     <string name="privacy_input_model_tips">"Đầu vào bảo mật đang bật. Bàn phím của bạn không thể hiển thị cửa sổ bật lên hoặc truy cập danh bạ, thông tin vị trí và lịch sử cuộc gọi."</string>
-     <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím được Xiaomi ủy quyền</string>
      <string name="data_local_processing_and_storage">Dữ liệu được lưu trữ và xử lý cục bộ</string>
      <string name="data_local_processing_and_storage_detail">"Thông tin đầu vào của bạn sẽ được lưu trữ và xử lý trên thiết bị này và sẽ không được tải lên đám mây."</string>
      <string name="disable_sensitive_permissions">Các quyền nhạy cảm bị hạn chế</string>
      <string name="disable_sensitive_permissions_detail">"Bàn phím của bạn sẽ không thể sử dụng các quyền liên quan đến quyền riêng tư (ví dụ: truy cập danh bạ hoặc thông tin vị trí)."</string>
      <string name="stop_collecting_data">"Bàn phím sẽ không học thói quen của bạn"</string>
      <string name="stop_collecting_data_detail">"Bàn phím sẽ không thu thập dữ liệu để cải thiện khả năng gõ dự đoán và đề xuất các cụm từ thường gặp dựa trên thói quen của bạn."</string>
-     <string name="protect_data_security_detail">Dữ liệu do bàn phím tạo ra sẽ bị cô lập và các ứng dụng khác không thể truy cập được.</string>
-     <string name="protect_data_security">Dữ liệu bị cô lập</string>
+     <string name="protect_data_security_detail">Dữ liệu do bàn phím tạo ra sẽ bị giới hạn và các ứng dụng khác không thể truy cập được.</string>
+     <string name="protect_data_security">Dữ liệu bị giới hạn</string>
      <string name="offline_voice_input">Nhập giọng nói ngoại tuyến</string>
      <string name="offline_voice_input_detail">"Bạn sẽ không cần Internet để nhập giọng nói."</string>
-     <string name="pp_app_gets_dangeous_permission_reminder">Nhận thông báo khi ứng dụng sử dụng quyền có mức độ rủi ro cao</string>
-     <string name="permission_instruction_storage">"Nếu bạn cho phép ứng dụng truy cập các tệp trong thư mục riêng của chúng, MIUI sẽ cho phép bạn quyết định xem bạn có muốn các ứng dụng này truy cập vào các mục trong Thư viện của bạn và các tệp được tạo trong ứng dụng mạng xã hội để bảo vệ bạn hay không quyền riêng tư. Vì các ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ nên khóa chuyển này sẽ không được cung cấp cho chúng."</string>
-     <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
-     <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu giữ trên thiết bị này thay vì được tải lên đám mây</string>
-     <string name="terminal_privacy_ability">Tính năng và cơ chế</string>
-     <string name="terminal_privacy_ability_suggest">Đề xuất</string>
-     <string name="terminal_privacy_ability_suggest_summary">Đề xuất và đề xuất từ các thư mục trên Màn hình chính, thanh bên và Mi Wallet</string>
-     <string name="terminal_privacy_ability_img">Xử lý hình ảnh</string>
-     <string name="terminal_privacy_ability_img_summary">Chỉnh sửa và nhận dạng thông minh cho ảnh và video trong Máy ảnh, Thư viện và Taplus</string>
-     <string name="terminal_privacy_ability_txt">Văn bản</string>
-     <string name="terminal_privacy_ability_txt_summary">Chỉnh sửa văn bản, phụ đề thông minh, Taplus, tin nhắn và bảng tạm chia sẻ</string>
-     <string name="terminal_privacy_ability_voice">Nhận dạng giọng nói</string>
-     <string name="terminal_privacy_ability_voice_summary">Lệnh bằng giọng nói và phụ đề thông minh</string>
-     <string name="terminal_privacy_ability_model">Nhận biết cách thiết bị của bạn tương tác với môi trường</string>
-     <string name="terminal_privacy_ability_model_summary">Bộ đếm bước, cử chỉ thông minh, chế độ bỏ túi và độ sáng tự động</string>
-     <string name="terminal_privacy_ability_others">Các cơ chế khác</string>
-     <string name="terminal_privacy_ability_others_summary">Chia sẻ màn hình, thử nghiệm môi trường thanh toán, nhận dạng vân tay và khuôn mặt</string>
-     <string name="terminal_privacy_ability_summary">*Các tính năng và cơ chế bảo vệ quyền riêng tư trên thiết bị có thể khác nhau tùy theo kiểu thiết bị</string>
      <string name="sim_lock_setting_keyguard_enable_title">Xác minh mã PIN sau khi bật màn hình</string>
      <string name="sim_lock_setting_keyguard_enable_message">Bật để xác minh mã PIN trước khi xác nhận khóa màn hình của bạn</string>
      <string name="security_guide_title">Hộp công cụ</string>
-        <string name="phone_manager_title">Hộp công cụ</string>
+     <string name="phone_manager_title">Hộp công cụ</string>
+	 <string name="widget_appbehavior_apps_count_unit">lần</string>
+     <string name="widget_appbehavior_apps_title">Ứng dụng A và 3 ứng dụng khác</string>
+     <string name="widget_back_guide_appbehavior_summary">Quyền riêng tư và bảo mật, rõ ràng</string>
+     <string name="widget_back_guide_appbehavior_title">Bảo vệ quyền riêng tư</string>
+     <string name="widget_back_guide_apppredict_summary">Đề xuất thông minh, khởi chạy ứng dụng nhanh chóng</string>
+     <string name="widget_back_guide_apppredict_title">Đề xuất ứng dụng</string>
+     <string name="widget_back_guide_cleaner_summary">Dọn rác trên điện thoại của bạn chỉ bằng một cú chạm</string>
+     <string name="widget_back_guide_cleaner_title">Dọn dẹp rác</string>
+     <string name="widget_back_guide_health_summary">Trình quản lý sức khỏe di động trên máy tính để bàn</string>
+     <string name="widget_back_guide_health_title">Sức khỏe di động</string>
+     <string name="widget_back_guide_power_summary">Xem sức mạnh của tất cả các thiết bị</string>
+     <string name="widget_back_guide_power_title">Pin</string>
+     <string name="widget_back_guide_ramjat_summary">Tăng tốc điện thoại của bạn và giải phóng bộ nhớ chỉ bằng một cú nhấp chuột</string>
+     <string name="widget_back_guide_ramjat_title">Tăng tốc bằng một cú nhấp chuột</string>
+     <string name="widget_back_guide_safe_summary">Quản lý nhanh điện thoại của bạn và hiểu trạng thái của nó</string>
+     <string name="widget_back_guide_safe_title">Trình quản lý di động</string>
+     <string name="widget_behavior_perm_text">Đọc ảnh và tập tin</string>
+     <string name="widget_button_text">Thêm tiện ích</string>
+     <string name="widget_cleaner_message">Có thể dọn rác</string>
+     <string name="widget_health_message">Điện thoại vẫn an toàn, tiếp tục tối ưu hóa</string>
+     <string name="widget_power_size_message">Thời lượng khả dụng là 34 giờ 2 phút</string>
+     <string name="widget_ramjat_message">Bộ nhớ có thể giải phóng</string>
+     <string name="widget_safe_title">Rác di động</string>
+     <string name="widget_safe_title_1">Mức sử dụng bộ nhớ</string>
 </resources>
