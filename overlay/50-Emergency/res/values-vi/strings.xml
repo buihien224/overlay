@@ -897,4 +897,5 @@ Bộ nhớ thông tin xác thực có thể không bật"</string>
      <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
      <string name="zen_mode_settings_summary_off">Không bao giờ</string>
      <string name="zen_mode_settings_turn_on_dialog_title">Bật Không làm phiền</string>
+     <string name="medications">Thuốc</string>
 </resources>
