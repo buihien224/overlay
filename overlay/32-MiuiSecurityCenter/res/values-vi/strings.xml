@@ -5302,7 +5302,7 @@ Hãy thử nâng độ phân giải!"</string>
      <string name="eletric_identification_unfamiliar_numbers_summary">Hiển thị loại cuộc gọi cho các số chưa xác định dựa trên phản hồi của người dùng</string>
      <string name="eletric_key_protect_electric_announcement">Bảo vệ chống lừa đảo</string>
      <string name="eletric_no_grant_dialog_message_for_phone">Cấp các quyền cần thiết để có thể xác định các số chưa biết.</string>
-     <string name="eletric_no_grant_dialog_ Negative_button">Hủy</string>
+     <string name="eletric_no_grant_dialog_negative_button">Hủy</string>
      <string name="eletric_no_grant_dialog_posit_button">Cài đặt</string>
      <string name="eletric_no_grant_dialog_title">Yêu cầu quyền</string>
      <string name="eletric_risk_call_identification">Bảo vệ cuộc gọi</string>
@@ -5548,7 +5548,7 @@ tình nguyện viên</string>
      <string name="warningcenter_disaster_receive_level_blue">Màu xanh</string>
      <string name="warningcenter_disaster_receive_level_orange">Cam</string>
      <string name="warningcenter_disaster_receive_level_red">Đỏ</string>
-     <string name="warningcenter_disaster_receive_level_ yellow">Vàng</string>
+     <string name="warningcenter_disaster_receive_level_yellow">Vàng</string>
      <string name="warningcenter_disaster_receive_settings">Định dạng cảnh báo</string>
      <string name="warningcenter_disaster_receive_strong">Cảnh báo có mức độ ưu tiên cao (được đề xuất)</string>
      <string name="warningcenter_disaster_receive_strong_summary">Nhận thông báo đẩy về các cảnh báo có mức độ ưu tiên cao được đưa ra cho khu vực đã chọn</string>
@@ -5572,7 +5572,7 @@ tình nguyện viên</string>
      <string name="warningcenter_disaster_type_cancel">Đã hủy</string>
      <string name="warningcenter_disaster_type_first">Mới</string>
      <string name="warningcenter_disaster_type_update">Đã cập nhật</string>
-     <string name="warningcenter_disaster_ yellow">Cảnh báo màu vàng</string>
+     <string name="warningcenter_disaster_yellow">Cảnh báo màu vàng</string>
      <string name="warningcenter_disaster_zhongwuran">Ô nhiễm nặng</string>
      <string name="warningcenter_earthquake_info">Cảnh báo sớm về động đất</string>
      <string name="warningcenter_mijia_alert_close">Đóng</string>
@@ -5796,7 +5796,7 @@ tình nguyện viên</string>
      <string name="app_management_for_install">Chặn tải xuống ứng dụng</string>
      <string name="app_management_for_install_desc">Ngăn ứng dụng này tải xuống hoặc cài đặt ứng dụng khác</string>
      <string name="app_management_measures">Quản lý ứng dụng</string>
-     <string name="privacy_risk_Detection_title">Phát hiện rủi ro về quyền riêng tư</string>
+     <string name="privacy_risk_detection_title">Phát hiện rủi ro về quyền riêng tư</string>
      <string name="app_manager_globel_other_perm_title">Các quyền khác</string>
      <string name="app_manager_globel_perm_summary">Quản lý các quyền liên quan đến vị trí, bộ nhớ, điện thoại, tin nhắn và danh bạ.</string>
      <string name="app_manager_globel_perm_title">Quyền ứng dụng</string>
