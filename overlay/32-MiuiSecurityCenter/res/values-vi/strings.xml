@@ -5796,7 +5796,6 @@ tình nguyện viên</string>
      <string name="app_management_for_install">Chặn tải xuống ứng dụng</string>
      <string name="app_management_for_install_desc">Ngăn ứng dụng này tải xuống hoặc cài đặt ứng dụng khác</string>
      <string name="app_management_measures">Quản lý ứng dụng</string>
-     <string name="privacy_risk_detection_title">Phát hiện rủi ro về quyền riêng tư</string>
      <string name="app_manager_globel_other_perm_title">Các quyền khác</string>
      <string name="app_manager_globel_perm_summary">Quản lý các quyền liên quan đến vị trí, bộ nhớ, điện thoại, tin nhắn và danh bạ.</string>
      <string name="app_manager_globel_perm_title">Quyền ứng dụng</string>
