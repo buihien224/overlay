@@ -51,9 +51,8 @@
      <string name="app_update_download_tip">Ứng dụng đang được tải xuống</string>
      <string name="app_update_exit_app">Thoát</string>
      <string name="app_update_latest_version">Đây là phiên bản mới nhất.</string>
-     <string name="app_update_update_lat">Cập nhật sau</string>
+     <string name="app_update_update_later">Cập nhật sau</string>
      <string name="app_update_update_now">Cập nhật ngay</string>
-     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
      <string name="applyCreditCard">Đăng ký thẻ tín dụng</string>
      <string name="applyCreditCard_search">Thẻ tín dụng; đăng ký thẻ tín dụng; đăng ký thẻ tín dụng; đăng ký thẻ tín dụng; cách đăng ký thẻ tín dụng; cách đăng ký thẻ tín dụng; đăng ký thẻ tín dụng ; đơn đăng ký thẻ tín dụng; cách đăng ký thẻ tín dụng; quy trình đăng ký thẻ tín dụng</string>
      <string name="are_you_sure_revoke_eid_at_device">Bạn có chắc chắn hủy eID trên thiết bị này và không sử dụng nó trên thiết bị này sau khi đăng xuất không?</string>
@@ -72,7 +71,7 @@
      <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
      <string name="calendar_display_name">%1$s Nhắc nhở</string>
      <string name="call_ums_support">Vui lòng gọi cho Dịch vụ khách hàng doanh nghiệp UnionPay</string>
-     <string name="máy ảnh_init_failure">Khởi tạo máy ảnh không thành công.</string>
+     <string name="camera_init_failure">Khởi tạo máy ảnh không thành công.</string>
      <string name="cancel">Hủy</string>
      <string name="cancel_coupon">Không sử dụng phiếu giảm giá</string>
      <string name="capture_complete">Đã chụp xong</string>
@@ -277,7 +276,7 @@
      <string name="details_id_card_content_des">Thẻ định danh điện tử công dân eID, do Hệ thống nhận dạng mạng công dân của Bộ Công an cấp</string>
      <string name="details_qr_code_content_des">Nhấp vào đây để làm mới mã QR</string>
      <string name="details_title">ID điện tử của tôi</string>
-     <string name="Detector_init_fail">Khởi tạo máy dò không thành công</string>
+     <string name="detector_init_fail">Khởi tạo máy dò không thành công</string>
      <string name="device_default_name">Thiết bị cầm tay</string>
      <string name="device_item_default_time">Lần sử dụng đầu tiên:</string>
      <string name="device_not_support">Không thể khởi động camera#Vui lòng xác nhận rằng chức năng camera vẫn nguyên vẹn hoặc thử lại sau khi thay đổi thiết bị</string>
@@ -288,8 +287,8 @@
      <string name="dialog_confirm_text_confirm_and_continue">Đồng ý tiếp tục</string>
      <string name="dialog_confirm_text_i_know">Vâng, tôi biết</string>
      <string name="dialog_default_title_txt">Lưu ý:</string>
-     <string name="dialog_ Negative_text_disagree">Nhìn lại</string>
-     <string name="dialog_ Negative_text_logout">Đăng xuất</string>
+     <string name="dialog_negative_text_disagree">Nhìn lại</string>
+     <string name="dialog_negative_text_logout">Đăng xuất</string>
      <string name="dialog_sure1_txt">Xác nhận</string>
      <string name="dialog_sure_txt">Xác định</string>
      <string name="digital_identity">Nhận dạng kỹ thuật số</string>
@@ -402,7 +401,7 @@
 Nếu bạn cần kéo dài thời gian dùng thử hoặc hỏi về báo giá triển khai thương mại và tư nhân hóa, vui lòng liên hệ với người quản lý tài khoản chuyên dụng của bạn hoặc gọi đến đường dây nóng 400-066-0021. "</string>
      <string name="fin_applet_blocked_message">Applet hiện tại đã bị vô hiệu hóa và các dịch vụ liên quan tạm thời không khả dụng</string>
      <string name="fin_applet_blocked_title">Ứng dụng đã bị vô hiệu hóa</string>
-     <string name="fin_applet_máy ảnh">Máy ảnh</string>
+     <string name="fin_applet_camera">Máy ảnh</string>
      <string name="fin_applet_cancel">Hủy</string>
      <string name="fin_applet_check_network_then_start_applet">Ngoại lệ yêu cầu mạng</string>
      <string name="fin_applet_close">Đóng</string>
@@ -549,8 +548,8 @@ Vui lòng xác minh dấu vân tay hiện có của điện thoại"</string>
      <string name="guard_switch_to_fingerprint">Chuyển sang mở khóa bằng vân tay</string>
      <string name="guard_switch_to_password">Chuyển sang đăng nhập bằng mật khẩu</string>
      <string name="guard_verify_fingerprint">Nhấn để xác minh dấu vân tay</string>
-     <string name="gv_sdk_perm_máy ảnh_label">Truy cập camera</string>
-     <string name="gv_sdk_perm_CAMERA_rationale">Dịch vụ nhận dạng khuôn mặt được sử dụng trong quy trình lấy tên thật</string>
+     <string name="gv_sdk_perm_camera_label">Truy cập camera</string>
+     <string name="gv_sdk_perm_camera_rationale">Dịch vụ nhận dạng khuôn mặt được sử dụng trong quy trình lấy tên thật</string>
      <string name="gv_sdk_perm_location_label">Bật dịch vụ định vị</string>
      <string name="gv_sdk_perm_location_rationale">Lấy thông tin vị trí để phát hiện môi trường quét khuôn mặt, phát hiện bảo mật dịch vụ tín dụng và mục đích chống lừa đảo</string>
      <string name="gv_sdk_perm_storage_label">Đọc và ghi không gian lưu trữ bên ngoài</string>
@@ -591,7 +590,7 @@ Vui lòng xác minh dấu vân tay hiện có của điện thoại"</string>
      <string name="id_card_uploading">Tải lên nhận dạng</string>
      <string name="id_card_verify">Xác minh chứng chỉ</string>
      <string name="id_number">Số ID:</string>
-     <string name="id_verify_privacy_máy ảnh_hint">Tránh chụp không đầy đủ</string>
+     <string name="id_verify_privacy_camera_hint">Tránh chụp không đầy đủ</string>
      <string name="id_verify_privacy_hint">Để đảm bảo việc sử dụng dịch vụ bình thường, vui lòng tải lên ID thật của bạn</string>
      <string name="id_verify_privacy_light_hint">Tránh phản ánh</string>
      <string name="id_verify_privacy_picture_hint">Tránh ảnh bị mờ</string>
@@ -608,7 +607,7 @@ Vui lòng xác minh dấu vân tay hiện có của điện thoại"</string>
 Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ liệu và đăng nhập lại. "</string>
      <string name="information_content_value_account">Truy vấn tài khoản Xiaomi</string>
      <string name="information_content_value_null">Nội dung bộ sưu tập của bạn chưa được tìm thấy</string>
-     <string name="init_Detector_fail">Khởi tạo máy dò không thành công</string>
+     <string name="init_detector_fail">Khởi tạo máy dò không thành công</string>
      <string name="innerconfig_error">Lỗi cấu hình bên trong, không thể giải quyết cổng</string>
      <string name="input_hint">Vui lòng nhập mật khẩu</string>
      <string name="input_password">Vui lòng nhập mật khẩu hợp lệ</string>
@@ -731,7 +730,7 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
      <string name="liveness_timeout_advice">Vui lòng hoàn thành hành động trong thời gian quy định</string>
      <string name="liveness_tip_face_phone">Đối mặt với điện thoại</string>
 	 <string name="liveness_tip_show_face">Lộ toàn bộ khuôn mặt</string>
-     <string name="liveness_tip_ Enough_light">Đủ ánh sáng</string>
+     <string name="liveness_tip_enough_light">Đủ ánh sáng</string>
      <string name="liveness_wrong_action_advice">Hãy giữ hành động của bạn chuẩn mực</string>
      <string name="loading">Đang tải xuống</string>
      <string name="loadingError">Lỗi tải xuống</string>
@@ -755,9 +754,9 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
      <string name="lockpattern_retry_text"><u>Đặt lại cử chỉ</u></string>
      <string name="lockpattern_same_with_old_pattern">Tương tự với mẫu cũ, vui lòng vẽ lại</string>
      <string name="lockscreen_access_pattern_area">Khu vực mẫu</string>
-     <string name="lockscreen_access_pattern_cell_ Added_verbose">Đã thêm ô</string>
+     <string name="lockscreen_access_pattern_cell_added_verbose">Đã thêm ô</string>
      <string name="lockscreen_access_pattern_cleared">Đã xóa mẫu</string>
-     <string name="lockscreen_access_pattern_ detected">Mẫu đã hoàn thành</string>
+     <string name="lockscreen_access_pattern_detected">Mẫu đã hoàn thành</string>
      <string name="lockscreen_access_pattern_start">Mẫu đã bắt đầu</string>
      <string name="login_alerts_popup_message"><Data>Tài khoản của bạn đã được đăng nhập trên %2$s lúc %1$s. Nếu đây không phải là thao tác của bạn, vui lòng thay đổi mật khẩu tài khoản kịp thời hoặc kiểm tra xem SMS của bạn có được chuyển tiếp hay không. </Data></string>
      <string name="login_alerts_popup_title">Mẹo đăng nhập bảo mật</string>
@@ -791,8 +790,6 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
     <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
     <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
     <string name="mtrl_picker_day_of_week_column_header">Cột ngày: %1$s</string>
@@ -818,8 +815,8 @@ Vui lòng làm rõ cấu hình môi trường tài khoản hoặc xóa dữ li�
     <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chế độ chọn một ngày</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
     <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chế độ chọn một năm</string>
-	<string name="meglive_Camera_initfailed">Không mở được camera trước</string>
-     <string name="meglive_ detect_initfailed">Không khởi tạo được máy dò</string>
+	<string name="meglive_camera_initfailed">Không mở được camera trước</string>
+     <string name="meglive_detect_initfailed">Không khởi tạo được máy dò</string>
      <string name="meglive_eye_open_closed">Hãy chớp mắt</string>
      <string name="meglive_getpermission_motion">Vui lòng cho phép dữ liệu thể chất</string>
      <string name="meglive_keep_eyes_open">Cho tôi xem đôi mắt của bạn</string>
@@ -856,8 +853,8 @@ Chứng chỉ do máy chủ xuất trình được cấp bởi một tổ chức
      <string name="mifi_web_login_description">Đang tải…</string>
      <string name="million_ins">Hàng triệu bảo hiểm y tế</string>
      <string name="mipay_activity_infomation">Thông tin hoạt động</string>
-     <string name="mipay_add_bankcard_fragment_item_fast_ Payment_button">Thêm thẻ để thanh toán nhanh</string>
-     <string name="mipay_add_bankcard_fragment_item_fast_ Payment_title">Thanh toán trực tuyến nhanh chóng trên mi.com và trong các dịch vụ MIUI</string>
+     <string name="mipay_add_bankcard_fragment_item_fast_payment_button">Thêm thẻ để thanh toán nhanh</string>
+     <string name="mipay_add_bankcard_fragment_item_fast_payment_title">Thanh toán trực tuyến nhanh chóng trên mi.com và trong các dịch vụ MIUI</string>
      <string name="mipay_add_bankcard_fragment_item_nfc_button">Thêm thẻ Mi Pay</string>
      <string name="mipay_add_bankcard_fragment_item_nfc_title">Thanh toán không dây bằng Mi Pay bằng UnionPay QuickPass</string>
      <string name="mipay_add_debit_card">Thêm thẻ ghi nợ</string>
@@ -1213,7 +1210,7 @@ Vui lòng kiểm tra ngày địa phương của bạn và thử lại."</string
      <string name="mipay_error_server">Lỗi máy chủ. Vui lòng thử lại sau</string>
      <string name="mipay_face_auth_agreement">Khuôn mặt</string>
      <string name="mipay_face_authentication_dia_msg">Bạn có thể xác thực một cách dễ dàng hơn không? Bạn có thể làm được điều đó? 次支付。</string>
-     <string name="mipay_face_authentication_dia_ Negative_btn">Xác thực</string>
+     <string name="mipay_face_authentication_dia_negative_btn">Xác thực</string>
      <string name="mipay_face_authentication_dia_posit_btn">Đồng ý</string>
      <string name="mipay_face_authentication_dia_title">Có thể xác thực</string>
      <string name="mipay_face_authorization">Ủy quyền khuôn mặt</string>
@@ -1260,7 +1257,7 @@ Vui lòng kiểm tra ngày địa phương của bạn và thử lại."</string
      <string name="mipay_info_mipay_des">Sử dụng điện thoại của bạn làm thẻ ngân hàng.</string>
      <string name="mipay_info_more_settings">Cài đặt khác</string>
      <string name="mipay_info_nfc_card_package">Gói thẻ NFC</string>
-     <string name="mipay_info_ Payment_card">Thẻ thanh toán</string>
+     <string name="mipay_info_payment_card">Thẻ thanh toán</string>
      <string name="mipay_info_title">Ví và Thanh toán</string>
      <string name="mipay_info_transit_card">Thẻ chuyển tuyến</string>
      <string name="mipay_info_transit_des">Sử dụng điện thoại của bạn làm thẻ chuyển tuyến.</string>
@@ -1286,7 +1283,7 @@ Hãy đọc và đồng ý với %1$s và %2$s.của chúng tôi trước khi s�
      <string name="mipay_modify_password_success">Mật khẩu thanh toán đã được thay đổi thành công</string>
      <string name="mipay_modify_password_title">Sửa đổi mật khẩu thanh toán</string>
      <string name="mipay_more_function">Thêm tính năng</string>
-     <string name="mipay_more_Operation">Thêm hoạt động</string>
+     <string name="mipay_more_operation">Thêm hoạt động</string>
      <string name="mipay_need_verify_identity">Cần xác minh thẻ ID của bạn.</string>
 	 <string name="mipay_nfc_trans_card_title_without_unit">Thẻ chuyển tuyến</string>
      <string name="mipay_not_set">Chưa được đặt</string>
@@ -1324,14 +1321,14 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mipay_pay_type_term_fee">Hoa hồng:%1$s CNY mỗi lần trả góp</string>
      <string name="mipay_pay_type_use_new_card">Thêm thẻ ngân hàng</string>
      <string name="mipay_pay_type_use_new_card_without_ug_bo">Thêm thẻ ngân hàng</string>
-     <string name="mipay_permanently_denied_perm_máy ảnh">Cho phép camera trong Cài đặt sử dụng các tính năng.</string>
+     <string name="mipay_permanently_denied_perm_camera">Cho phép camera trong Cài đặt sử dụng các tính năng.</string>
      <string name="mipay_permanently_denied_perm_contacts">Cho phép các liên hệ trong Cài đặt sử dụng các tính năng.</string>
      <string name="mipay_permanently_denied_perm_location">Cho phép vị trí trong Cài đặt sử dụng các tính năng.</string>
      <string name="mipay_permanently_denied_perm_phonestate">Cho phép thông tin điện thoại trong Cài đặt sử dụng các tính năng.</string>
      <string name="mipay_permanently_denied_perm_phonestate_location">Cho phép thông tin và vị trí điện thoại trong Cài đặt để sử dụng các tính năng.</string>
      <string name="mipay_permanently_denied_perm_storage">Cho phép lưu trữ trong Cài đặt để sử dụng các tính năng.</string>
-     <string name="mipay_permanently_denied_perm_storage_máy ảnh">Cho phép máy ảnh và bộ lưu trữ trong Cài đặt sử dụng các tính năng.</string>
-     <string name="mipay_permission_des_location">truy cập vị trí chính xác để thực hiện chiến lược kiểm soát rủi ro và chống rửa tiền cũng như xuất trình thẻ vận chuyển có thể mở được</string>
+     <string name="mipay_permanently_denied_perm_storage_camera">Cho phép máy ảnh và bộ lưu trữ trong Cài đặt sử dụng các tính năng.</string>
+     <string name="mipay_permission_des_location">Truy cập vị trí chính xác để thực hiện chiến lược kiểm soát rủi ro và chống rửa tiền cũng như xuất trình thẻ vận chuyển có thể mở được</string>
      <string name="mipay_permission_des_read_phone_state">truy cập IMEI để phân biệt các thiết bị</string>
      <string name="mipay_permission_dialog_title">Dịch vụ ví Airstar</string>
      <string name="mipay_privacy_message_span">Chính sách quyền riêng tư</string>
@@ -1363,7 +1360,7 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mipay_ring_confirm">Vui lòng nhấp để thanh toán</string>
      <string name="mipay_ring_confirm_failed">Thanh toán đổ chuông không thành công</string>
      <string name="mipay_ring_connection">Kết nối băng tần, làm cho băng tần gần với điện thoại của bạn</string>
-     <string name="mipay_ring_ Payment_title">Thanh toán theo băng tần</string>
+     <string name="mipay_ring_payment_title">Thanh toán theo băng tần</string>
      <string name="mipay_safe_keyboard_close_keyboard_content_description">Đóng bàn phím an toàn</string>
      <string name="mipay_safe_keyboard_delete_button_content_description">Xóa</string>
      <string name="mipay_safe_keyboard_title">Hệ thống của bạn được bảo mật</string>
@@ -1372,10 +1369,10 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mipay_scan_bankcard_info">Đặt mặt thẻ lên và căn chỉnh các cạnh</string>
      <string name="mipay_scan_bankcard_tip">Khớp thẻ của bạn với đường viền</string>
      <string name="mipay_scan_bankcard_title">Quét thẻ ngân hàng của bạn</string>
-     <string name="mipay_scan_máy ảnh_Exception">Mở camera không thành công, vui lòng thử lại</string>
+     <string name="mipay_scan_camera_exception">Mở camera không thành công, vui lòng thử lại</string>
      <string name="mipay_scan_front_hint">Vui lòng quét mặt trước CMND của bạn và điều chỉnh ánh sáng</string>
      <string name="mipay_scan_front_success">Quét mặt trước CMND thành công</string>
-     <string name="mipay_scan_init_Exception">Khởi tạo công cụ quét không thành công. Vui lòng kết nối mạng và thử lại</string>
+     <string name="mipay_scan_init_exception">Khởi tạo công cụ quét không thành công. Vui lòng kết nối mạng và thử lại</string>
      <string name="mipay_sdk_web_close">Đóng</string>
      <string name="mipay_sdk_web_faq">Câu hỏi thường gặp</string>
      <string name="mipay_sdk_web_loading">Đang tải</string>
@@ -1393,7 +1390,7 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="mipay_setting_faq">Câu hỏi thường gặp</string>
      <string name="mipay_setting_faq_sub_title">Nhận trợ giúp</string>
      <string name="mipay_setting_feedback">Phản hồi</string>
-     <string name="mipay_setting_finger_ Payment">Thanh toán bằng vân tay</string>
+     <string name="mipay_setting_finger_payment">Thanh toán bằng vân tay</string>
      <string name="mipay_setting_forget_password">Đặt lại mật khẩu thanh toán</string>
      <string name="mipay_setting_identity_summary_all_unverified">Chưa được xác minh</string>
      <string name="mipay_setting_identity_summary_card_unverified">Thẻ ID chưa được xác minh</string>
@@ -1573,7 +1570,7 @@ Nếu có thêm câu hỏi, vui lòng gọi đến bộ phận dịch vụ khác
      <string name="noSupp_NFC_txt">Thiết bị không hỗ trợ chức năng NFC.</string>
      <string name="no_CAMERA_or_file_permission">Cần có quyền ghi và lưu trữ bên ngoài.</string>
      <string name="no_cam_permission">Không có quyền truy cập vào máy ảnh#Vui lòng bật quyền và thử lại</string>
-     <string name="no_ Period">Câu chuyện</string>
+     <string name="no_period">Câu chuyện</string>
      <string name="no_write_external_storage_permission">Không có quyền đọc hoặc ghi thẻ SD#Vui lòng cấp quyền và thử lại</string>
      <string name="not_set">Chưa đặt</string>
      <string name="notification_permission_remind_cancel">Hủy</string>
@@ -1795,7 +1792,7 @@ Vui lòng xác nhận kết quả giao dịch hiển thị trên POS. "</string>
      <string name="perm_accounts_rationale">Dùng để lấy danh sách tài khoản điện thoại di động để đăng nhập nhanh.</string>
      <string name="perm_calendar_label">Đọc và viết lịch</string>
      <string name="perm_calendar_rationale">Khi sử dụng dịch vụ cho vay, bạn có thể dễ dàng quản lý gói trả nợ của mình, đặt lời nhắc trả nợ và lời nhắc đăng ký sự kiện bằng cách bật quyền lịch.</string>
-     <string name="perm_máy ảnh_label">Truy cập máy ảnh</string>
+     <string name="perm_camera_label">Truy cập máy ảnh</string>
      <string name="perm_Camera_rationale">Khi bạn sử dụng tính năng quét, cài đặt hình đại diện, phản hồi của người dùng, nhận dạng hình ảnh và các dịch vụ khác, bạn có thể bật tính năng chụp ảnh trong thời gian thực và tải ảnh hoặc video lên bằng cách bật quyền máy ảnh; trong các tình huống cần nhận dạng khuôn mặt, bạn cần gọi máy ảnh của mình Chụp ảnh khuôn mặt người.</string>
      <string name="perm_contacts_label">Đọc thông tin liên hệ</string>
      <string name="perm_contacts_rationale">Khi bạn sử dụng dịch vụ nạp tiền điện thoại di động, bạn có thể chọn trực tiếp và nhập thông tin liên hệ cụ thể đã chọn từ sổ địa chỉ. Nếu không kích hoạt quyền này, bạn sẽ không thể sử dụng các chức năng liên quan đến thông tin sổ địa chỉ nhưng sẽ không ảnh hưởng đến việc bạn sử dụng các dịch vụ khác.</string>
@@ -2072,7 +2069,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="preference_caring_mode_dialog_title_open">Mở Chế độ Chăm sóc</string>
      <string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
      <string name="preference_fingerprint_password">Dấu vân tay</string>
-     <string name="preference_fingerprint_ Payment">Thanh toán bằng vân tay</string>
+     <string name="preference_fingerprint_payment">Thanh toán bằng vân tay</string>
      <string name="preference_fingerprint_unlock_card_folder">- Xác minh khi mở Thư mục Thẻ</string>
      <string name="preference_fingerprint_unlock_open_app">- Xác minh khi mở APP</string>
      <string name="preference_follow_dark_mode">Chế độ tối tuân theo cài đặt hệ thống</string>
@@ -2083,7 +2080,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="preference_personal_information">Thông tin cá nhân được thu thập</string>
      <string name="preference_personalized">Cá nhân hóa</string>
      <string name="preference_reset_pay_password">Quản lý mật khẩu thanh toán</string>
-     <string name="preference_restore_desktop_ Added">Đã thêm</string>
+     <string name="preference_restore_desktop_added">Đã thêm</string>
      <string name="preference_restore_desktop_to_add">Thêm</string>
      <string name="preference_show_gesture_track">Hiển thị dấu vết cử chỉ</string>
      <string name="preference_sign_out">Đăng xuất</string>
@@ -2300,7 +2297,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="solar_term_great_cold">Lạnh giá</string>
      <string name="solar_term_great_heat">Sức nóng lớn</string>
      <string name="solar_term_heavy_snow">Tuyết dày</string>
-     <string name="solar_term_hoar_ Frost_falls">Thác Sương Hoar</string>
+     <string name="solar_term_hoar_frost_falls">Thác Sương Hoar</string>
      <string name="solar_term_insects_awaken">Côn trùng thức tỉnh</string>
      <string name="solar_term_light_snow">Tuyết nhẹ</string>
      <string name="solar_term_slight_cold">Hơi lạnh</string>
@@ -2341,7 +2338,7 @@ Trả mật khẩu để cập nhật khóa cục bộ"</string>
      <string name="stat_category_setting">Thêm</string>
 	 <string name="stat_category_splash">Trang bắt đầu</string>
      <string name="stat_event_about_us_click">Sự kiện xảy ra</string>
-     <string name="stat_event_auto_ Payment">autoPay_list</string>
+     <string name="stat_event_auto_payment">autoPay_list</string>
      <string name="stat_event_back_press">%1$s_%2$s_Nhấp vào nút quay lại</string>
      <string name="stat_event_begin_scan">%1$s_Bắt đầu quét</string>
      <string name="stat_event_benefits_notification_sms">Thông tin thêm</string>
@@ -2579,7 +2576,7 @@ Vui lòng kiểm tra ngày địa phương của bạn và thử lại."</string
      <string name="ucashier_pre_pay_error_dialog_title">Thanh toán giao dịch bất thường</string>
      <string name="ucashier_query_trade_result_error_tips">Tạm thời không thể lấy trạng thái giao dịch, vui lòng quay lại trang đặt hàng của người bán để xác nhận kết quả thanh toán</string>
      <string name="ucashier_retention_dia_msg">Đơn hàng của bạn sẽ bị hủy nếu không được thanh toán trong vòng %1$s phút, vui lòng hoàn tất thanh toán càng sớm càng tốt</string>
-     <string name="ucashier_retention_dia_ Negative_btn_text">Xác nhận thoát</string>
+     <string name="ucashier_retention_dia_negative_btn_text">Xác nhận thoát</string>
      <string name="ucashier_retention_dia_posit_btn_text">Trả lại tiền</string>
      <string name="ucashier_retention_dia_title">Xác nhận thanh toán rút tiền</string>
      <string name="ucashier_security_tips">Airstar Finance bảo vệ an ninh thanh toán của bạn</string>
@@ -2660,7 +2657,7 @@ vượt qua. Chú ý đến ánh sáng và tránh sự phản chiếu của ch�
 	 <string name="wbcf_error_msg">Hãy đảm bảo rằng khuôn mặt hướng vào khung và không bị chặn</string>
      <string name="wbcf_light_get_pic_failed">Không phát hiện được khuôn mặt rõ ràng; vui lòng giữ mặt trước rõ ràng và không rung</string>
      <string name="wbcf_no_try">Không cần cố gắng nữa</string>
-     <string name="wbcf_open_máy ảnh_permission">"Bạn có thể thử sử dụng tính năng quản lý quyền của ứng dụng di động
+     <string name="wbcf_open_camera_permission">"Bạn có thể thử sử dụng tính năng quản lý quyền của ứng dụng di động
 Bật quyền sử dụng máy ảnh"</string>
      <string name="wbcf_quit_verify">Thoát xác minh</string>
      <string name="wbcf_request_fail">Mạng bất thường, vui lòng kiểm tra</string>

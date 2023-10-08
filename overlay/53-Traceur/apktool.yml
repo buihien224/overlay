@@ -1,15 +1,15 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.Smartcards.apk
+apkFileName: miuivs.traceur.apk
 compressionType: false
 doNotCompress:
-- resources.arsc
 - AndroidManifest.xml
+- resources.arsc
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '28'
+  minSdkVersion: '33'
   targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: true
@@ -20,5 +20,5 @@ usesFramework:
   tag: null
 version: 2.8.1
 versionInfo:
-  versionCode: '1235'
+  versionCode: '2'
   versionName: miuivs-2.5.ST

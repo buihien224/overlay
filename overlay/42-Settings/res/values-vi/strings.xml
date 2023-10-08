@@ -12170,7 +12170,7 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="nfc_image_preference_text_click">Kiểm tra vị trí của khu vực ăng-ten NFC trên thiết bị này</string>
     <string name="nfc_image_preference_text_noclick">Đặt thiết bị của bạn gần thiết bị đầu cuối để sử dụng Mi Pay, thẻ vận chuyển, thẻ khóa và các tính năng NFC khác. </string>
     <string name="nfc_dnd_mode_summary">Phản hồi các thẻ NFC với số lượng thẻ NDEF hạn chế</string>
-    <string name="nfc_dnd_mode_title">NFC DND</string>
+    <string name="nfc_dnd_mode_title">NFC không làm phiền</string>
     <string name="gxzw_vibrate_summary">"Rung sẽ không xảy ra khi không có hoạt ảnh vân tay nào được chọn"</string>
     <string name="gxzw_vibrate_title">Rung trong khi mở khóa</string>
     <string name="security_check_progress_dialog_message">Đang kiểm tra các vấn đề bảo mật…</string>
@@ -12311,4 +12311,8 @@ Dịch vụ của %2$s sẽ không bị hủy."</string>
     <string name="security_advanced_settings_keywords">bảo mật, nhiều cài đặt bảo mật hơn, nhiều cài đặt hơn, cài đặt bảo mật nâng cao</string>
     <string name="security_advanced_settings_no_work_profile_settings_summary">Mã hóa, thông tin xác thực và hơn thế nữa</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Khóa hồ sơ công việc, mã hóa, v.v.</string>
+    <string name="fiveg_vonr_switch_summary">Sử dụng VoNR trong môi trường mạng 5G để cải thiện trải nghiệm gọi điện. Tính năng này chỉ được cung cấp cho mục đích thử nghiệm.</string>
+    <string name="fiveg_vonr_switch_title">Cài đặt VoNR</string>
+	<string name="standard_limit">Giới hạn tiêu chuẩn</string>
+	<string name="no_background_processes">Không có tiến trình nền nào</string>
 </resources>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="a_ Negative">A, phủ định</string>
-     <string name="a_posit">A, tích cực</string>
-     <string name="ab_ Negative">A B âm</string>
-     <string name="ab_posid">A B dương</string>
      <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
      <string name="abc_action_bar_up_description">Điều hướng lên</string>
      <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
@@ -12,16 +8,6 @@
      <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
      <string name="abc_capital_off">TẮT</string>
      <string name="abc_capital_on">BẬT</string>
-     <string name="abc_menu_alt_shortcut_label">Alt+</string>
-     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-     <string name="abc_menu_delete_shortcut_label">Xóa</string>
-     <string name="abc_menu_enter_shortcut_label">Nhập</string>
-     <string name="abc_menu_function_shortcut_label">Chức năng+</string>
-     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-     <string name="abc_menu_space_shortcut_label">Dấu cách</string>
-     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-     <string name="abc_prepend_shortcut_label">Thực đơn+</string>
      <string name="abc_search_hint">Tìm kiếm…</string>
      <string name="abc_searchview_description_clear">Xóa truy vấn</string>
      <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
@@ -31,8 +17,6 @@
      <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
      <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
      <string name="abc_toolbar_collapse_description">Thu gọn</string>
-     <string name="abminus">AB-</string>
-     <string name="abplus">AB+</string>
      <string name="accessibility_banner_message_dismiss">Bỏ qua</string>
      <string name="accessibility_data_one_bar">Một thanh dữ liệu.</string>
      <string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy.</string>
@@ -120,8 +104,6 @@ Nếu quyền này tắt, báo thức hiện có và sự kiện dựa trên th�
     <string name="available_via_carrier">Có sẵn qua %1$s</string>
      <string name="available_via_passpoint">Có sẵn qua %1$s</string>
      <string name="avatar_picker_title">Chọn ảnh hồ sơ</string>
-     <string name="b_ Negative">B âm</string>
-     <string name="b_posid">B dương</string>
      <string name="back_navigation_animation">Hoạt hình quay lại dự đoán</string>
      <string name="back_navigation_animation_dialog">Cài đặt này bật hoạt ảnh hệ thống cho hoạt ảnh cử chỉ dự đoán. Nó yêu cầu đặt EnableOnBackInvokedCallback cho mỗi ứng dụng thành true trong tệp kê khai.</string>
      <string name="back_navigation_animation_summary">Bật hoạt ảnh hệ thống để dự đoán quay lại.</string>
@@ -132,7 +114,7 @@ Nếu quyền này tắt, báo thức hiện có và sự kiện dựa trên th�
      <string name="battery_info_status_dischargeing">Không sạc</string>
      <string name="battery_info_status_full">Đã sạc</string>
      <string name="battery_info_status_full_charged">Đã sạc đầy</string>
-     <string name="battery_info_status_not_ Charging">Đã kết nối, chưa sạc</string>
+     <string name="battery_info_status_not_charging">Đã kết nối, chưa sạc</string>
      <string name="battery_info_status_unknown">Không xác định</string>
      <string name="blob_expires_text">Hết hạn lúc %s</string>
      <string name="blob_id_text">ID dữ liệu được chia sẻ: %d</string>
@@ -430,8 +412,8 @@ Bất cứ ai cũng có thể đọc thông tin này từ màn hình khóa của
      <string name="material_clock_toggle_content_description">Chọn sáng hoặc chiều</string>
      <string name="material_hour_selection">Chọn giờ</string>
      <string name="material_hour_suffix">"%1$s giờ"</string>
-     <string name="material_ Minute_selection">Chọn phút</string>
-     <string name="material_ Minute_suffix">%1$s phút</string>
+     <string name="material_minute_selection">Chọn phút</string>
+     <string name="material_minute_suffix">%1$s phút</string>
      <string name="material_motion_easing_accelerated">khối khối(0.4, 0.0, 1.0, 1.0)</string>
      <string name="material_motion_easing_decelerated">khối khối(0.0, 0.0, 0.2, 1.0)</string>
      <string name="material_motion_easing_emphasized">đường dẫn(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1, 1)</string>
@@ -522,10 +504,6 @@ Bất cứ ai cũng có thể đọc thông tin này từ màn hình khóa của
      <string name="no_info_provided">"Không có thông tin về chủ sở hữu điện thoại"</string>
      <string name="not_default_data_content_description">Chưa được thiết lập để sử dụng dữ liệu</string>
      <string name="not_set">Chưa được đặt</string>
-     <string name="notice_header" />
-     <string name="o_ Negative">O âm</string>
-     <string name="o_posit">O dương</string>
-     <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">Mở khóa OEM</string>
      <string name="oem_unlock_enable_summary">Cho phép mở khóa bộ nạp khởi động</string>
      <string name="ok">OK</string>

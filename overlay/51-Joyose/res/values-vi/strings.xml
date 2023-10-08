@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Cài đặt</string>
+    <string name="activity_title_fakecell">Bảo vệ khỏi các trạm phát sóng giả mạo</string>
+    <string name="app_name">Nhà cung cấp các bước</string>
+    <string name="booster_config_version">"Phiên bản hiện tại: "</string>
+    <string name="cc_version">"Phiên bản hiện tại: "</string>
+    <string name="connect_wifi">Không kết nối được với Wi-Fi</string>
+    <string name="detect_fakecell">Nhận dạng SMS từ các trạm gốc giả mạo</string>
+    <string name="end_title">Trò chơi kết thúc</string>
+    <string name="forbidden_fakecell">"Không kết nối với các trạm phát sóng giả"</string>
+    <string name="forbidden_fakecell_summary">Ngăn điện thoại của bạn kết nối với các trạm phát sóng giả</string>
+    <string name="foreground_text">Sử dụng các dịch vụ trên nền trước để nâng mức độ ưu tiên</string>
+    <string name="foreground_title">Dịch vụ tiền cảnh</string>
+    <string name="hello_world">Xin chào thế giới!</string>
+    <string name="joyose_name">Trí tuệ thông minh</string>
+    <string name="lab_switch_server">Chuyển đổi máy chủ</string>
+    <string name="not_resurge_title">Đang hồi sinh</string>
+    <string name="not_support_forbidden_fakecell">"Thiết bị của bạn không hỗ trợ bảo vệ cấp độ chip khỏi các trạm gốc giả."</string>
+    <string name="open_cta">Cho phép ứng dụng này kết nối với internet trong Bảo mật.</string>
+    <string name="permstep_description">Cho phép ứng dụng này truy cập vào số bước của bạn</string>
+    <string name="permstep_label">Số bước truy cập</string>
+    <string name="restart_details">Bật hoặc tắt tính năng này yêu cầu khởi động lại thiết bị của bạn. Khởi động lại bây giờ?</string>
+    <string name="restart_later">Khởi động lại sau</string>
+    <string name="restart_now">Khởi động lại ngay</string>
+    <string name="reurged_content">Nào!</string>
+    <string name="resurged_title">Đã hồi sinh</string>
+    <string name="stop_sync">Dừng đồng bộ hóa tự động?</string>
+    <string name="support_forbidden_fakecell">Lưu ý: Hạn chế kết nối với các trạm phát sóng giả có thể làm giảm tín hiệu ở những khu vực có vùng phủ sóng kém.</string>
+    <string name="switch_international">Chuyển sang máy chủ toàn cầu</string>
+    <string name="switch_to_official">Chuyển sang máy chủ chính thức</string>
+    <string name="switch_to_russia">Chuyển sang máy chủ Nga</string>
+    <string name="switch_to_staging">Chuyển sang máy chủ chạy thử</string>
+    <string name="unknown_error">Lỗi không xác định</string>
+    <string name="update_success">Đã cập nhật thành công</string>
+</resources>

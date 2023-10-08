@@ -122,7 +122,7 @@
         <item>Tonga</item>
     </string-array>
     <string-array name="aquarius_info">
-        <item>aquarius</item>
+        <item>cung bảo bình</item>
         <item>Cung Bảo Bình</item>
         <item>20/01 - 18/2</item>
     </string-array>
@@ -137,7 +137,7 @@
         <item>22/06 - 22/07</item>
     </string-array>
     <string-array name="capricorn_info">
-        <item>capricorn</item>
+        <item>cung ma kết</item>
         <item>Cung Ma Kết</item>
         <item>22/12 - 19/01</item>
     </string-array>
@@ -172,7 +172,7 @@
         <item>23/09 - 23/10</item>
     </string-array>
     <string-array name="pisces_info">
-        <item>pisces</item>
+        <item>cung song ngư</item>
         <item>Cung Song Ngư</item>
         <item>19/2 - 20/03</item>
     </string-array>
@@ -422,7 +422,7 @@
         <item>9:00SA - 1 tuần tước</item>
     </string-array>
     <string-array name="edit_event_dislike">
-        <item>Không có loại sự kiện tôi muốn tạo</item>
+        <item>Không có loại sự kiện muốn tạo</item>
         <item>Quá nhiều cài đặt, không muốn điền vào</item>
         <item>Một vài thông tin thiết lập không thể xác định</item>
         <item>Cần xem lại</item>

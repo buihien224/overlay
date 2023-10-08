@@ -34,7 +34,7 @@
         <item quantity="other">%1$s năm</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d người trước</item>
+        <item quantity="other">%1$d ngày trước</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
         <item quantity="other">%1$d ngày sau</item>
@@ -190,13 +190,13 @@
         <item quantity="other">%d thông báo mới</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Tức thì</item>
+        <item quantity="other">Ngay lập tức</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Trong nửa giờ</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Tức thì</item>
+        <item quantity="other">Ngay lập tức</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">trong %d phút</item>
