@@ -1209,6 +1209,12 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="deep_power_save_item_title_lock_screen_time">Thiết lập màn hình ngủ</string>
     <string name="deep_save_memory_clean_summary">Xóa bộ nhớ đệm khi bạn khóa thiết bị để hạn chế ứng dụng sử dụng pin</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Hẹn giờ bật tắt thiết bị</string>
+    <string name="default_condition_summary">Ví dụ:  "Pin yếu hơn %s"</string>
+    <string name="default_condition_title">Thêm điều kiện</string>
+    <string name="default_condition_title_continue">Thêm điều kiện</string>
+    <string name="default_result_summary">Ví dụ:  "Tắt chế độ trên máy bay"</string>
+    <string name="default_result_title">Thêm kết quả</string>
+    <string name="default_result_title_continue">Thêm kết quả</string>
     <string name="delete">Xóa</string>
     <string name="delete_all_sms">Xóa tất cả</string>
     <string name="delete_from_manual_item_white_list">Xóa khỏi danh sách ngoại lệ</string>
@@ -5163,7 +5169,7 @@ Hãy thử nâng độ phân giải!"</string>
      <string name="auto_task_set_open_app">Đặt</string>
      <string name="auto_task_setting_allow_notify">Cho phép thông báo</string>
      <string name="auto_task_setting_allow_tips_smart_task">Cho phép thông báo với đề xuất thông minh</string>
-     <string name="auto_task_setting_Before_exclude_notify">Thông báo trước nhiệm vụ</string>
+     <string name="auto_task_setting_before_exclude_notify">Thông báo trước nhiệm vụ</string>
      <string name="auto_task_setting_exclude_notify">Thông báo trong khi thực hiện nhiệm vụ</string>
      <string name="auto_task_setting_need_reset">Khôi phục mặc định sau khi hoàn thành nhiệm vụ</string>
      <string name="auto_task_setting_show_task_shortcut_in_desktop">Phím tắt màn hình chính</string>
@@ -5237,8 +5243,8 @@ Hãy thử nâng độ phân giải!"</string>
      <string name="pp_privacy_protection_function">Tính năng bảo vệ quyền riêng tư</string>
      <string name="pp_privacy_protection_lab">Phòng thí nghiệm bảo vệ quyền riêng tư</string>
      <string name="pp_privacy_protection_lab_summary">Giữ mọi thứ riêng tư</string>
-     <string name="pp_privacy_risk_Detection">Phát hiện rủi ro về quyền riêng tư</string>
-     <string name="pp_privacy_risk_Detection_detail">Tự động phát hiện các rủi ro về quyền riêng tư và nhận đề xuất về các biện pháp bảo vệ</string>
+     <string name="pp_privacy_risk_detection">Phát hiện rủi ro về quyền riêng tư</string>
+     <string name="pp_privacy_risk_detection_detail">Tự động phát hiện các rủi ro về quyền riêng tư và nhận đề xuất về các biện pháp bảo vệ</string>
      <string name="pp_privacy_safe_box">Không gian riêng tư</string>
      <string name="pp_private_file_dir">Tệp riêng tư</string>
      <string name="pp_private_file_dir_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
@@ -5691,7 +5697,7 @@ tình nguyện viên</string>
      <string name="title_result_brightness">Độ sáng tự động</string>
      <string name="title_result_dark">Chế độ tối</string>
      <string name="title_result_dial_tone">Âm bàn phím quay số</string>
-     <string name="title_result_drive">Chế độ ô tô</string>
+     <string name="title_result_drive">Chế độ Lái xe</string>
      <string name="title_result_examination">Quét bảo mật</string>
      <string name="title_result_eye_care">Chế độ đọc</string>
      <string name="title_result_flashlight">Đèn pin</string>
@@ -5715,7 +5721,7 @@ tình nguyện viên</string>
      <string name="title_result_zen_mode">Chế độ không làm phiền</string>
      <string name="recommend">Đề xuất</string>
      <string name="activity_new_result_name">Thêm kết quả</string>
-     <string name="activity_edit_task_name">Chỉnh sửa Tác vụ</string>
+     <string name="activity_edit_task_name">Chỉnh sửa tác vụ</string>
      <string name="auto_task_default_add_action">Thêm hành động</string>
      <string name="auto_task_default_add_task">Thêm vào "Tác vụ của tôi"</string>
      <string name="auto_task_default_add_to_task_list">Thêm vào "Tác vụ của tôi"</string>
@@ -5737,12 +5743,12 @@ tình nguyện viên</string>
      <string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
      <string name="auto_task_default_task_title_sleep">Ngủ</string>
      <string name="auto_task_default_task_title_watch_video">Xem video</string>
-     <string name="summary_confirm_open_flashligt">Bật đèn pin?</string>
+     <string name="summary_confirm_open_flashlight">Bật đèn pin?</string>
      <string name="summary_confirm_open_meeting_tips">Bật lời nhắc cuộc họp?</string>
      <string name="summary_confirm_open_phone_check">Chạy quét bảo mật?</string>
      <string name="summary_confirm_switch">Tắt nguồn thiết bị?</string>
      <string name="auto_start_tips">MIUI sẽ tối ưu hóa quyền tự khởi động của các ứng dụng bạn không sử dụng thường xuyên để cải thiện hiệu suất thiết bị.</string>
-	 <string name="see_all_app_behavior_record">Xem tất cả hành vi của ứng dụng</string>
+     <string name="see_all_app_behavior_record">Xem tất cả hành vi của ứng dụng</string>
      <string name="app_behavior_record_hide_system">Ẩn ứng dụng hệ thống</string>
      <string name="app_behavior_record_close_title">Tắt</string>
      <string name="app_behavior_record_close">Tắt</string>
@@ -5763,7 +5769,7 @@ tình nguyện viên</string>
      <string name="sim_lock_setting_keyguard_enable_message">Bật để xác minh mã PIN trước khi xác nhận khóa màn hình của bạn</string>
      <string name="security_guide_title">Hộp công cụ</string>
      <string name="phone_manager_title">Hộp công cụ</string>
-	 <string name="widget_appbehavior_apps_count_unit">lần</string>
+     <string name="widget_appbehavior_apps_count_unit">lần</string>
      <string name="widget_appbehavior_apps_title">Ứng dụng A và 3 ứng dụng khác</string>
      <string name="widget_back_guide_appbehavior_summary">Quyền riêng tư và bảo mật, rõ ràng</string>
      <string name="widget_back_guide_appbehavior_title">Bảo vệ quyền riêng tư</string>
@@ -5787,7 +5793,7 @@ tình nguyện viên</string>
      <string name="widget_ramjat_message">Bộ nhớ có thể giải phóng</string>
      <string name="widget_safe_title">Rác di động</string>
      <string name="widget_safe_title_1">Mức sử dụng bộ nhớ</string>
-	 <string name="app_management_for_chain_start">Chặn mở các ứng dụng khác</string>
+     <string name="app_management_for_chain_start">Chặn mở các ứng dụng khác</string>
      <string name="app_management_for_chain_start_desc">Ngăn ứng dụng này liên kết hoặc mở ứng dụng khác</string>
      <string name="app_management_for_device_id">Ẩn số nhận dạng và ngăn chặn theo dõi</string>
      <string name="app_management_for_device_id_desc">Ngăn ứng dụng này truy cập vào số điện thoại và thông tin nhận dạng cá nhân của bạn</string>
@@ -5800,15 +5806,15 @@ tình nguyện viên</string>
      <string name="app_manager_globel_perm_summary">Quản lý các quyền liên quan đến vị trí, bộ nhớ, điện thoại, tin nhắn và danh bạ.</string>
      <string name="app_manager_globel_perm_title">Quyền ứng dụng</string>
      <string name="app_manager_as_dlg_msg_new">"Cho phép ứng dụng tự khởi động có thể làm tăng bộ nhớ RAM và thời lượng pin mà nó sử dụng. MIUI sẽ tối ưu hóa quyền tự khởi động của các ứng dụng bạn không sử dụng thường xuyên để cải thiện hiệu suất thiết bị."</string >
-	 <string name="activity_new_task_name">Thêm tác vụ</string>
+     <string name="activity_new_task_name">Thêm tác vụ</string>
      <string name="activity_no_task">Chưa có tác vụ nào ở đây</string>
      <string name="activity_task_center">Trung tâm tác vụ</string>
-	 <string name="default_result_title">Thêm kết quả</string>
+     <string name="default_result_title">Thêm kết quả</string>
      <string name="default_result_title_continue">Thêm kết quả</string>
-	 <string name="activity_new_condition_name">Thêm điều kiện</string>
-	 <string name="auto_task_edit_default_task_name">Chỉnh sửa tên tác vụ</string>
+     <string name="activity_new_condition_name">Thêm điều kiện</string>
+     <string name="auto_task_edit_default_task_name">Chỉnh sửa tên tác vụ</string>
      <string name="auto_task_exit_finish">Nhiệm vụ được hoàn thành tự động</string>
-	 <string name="title_condition_absorbed">Chế độ lấy nét</string>
+     <string name="title_condition_absorbed">Chế độ lấy nét</string>
      <string name="title_condition_alarm">Báo thức</string>
      <string name="title_condition_battery">Pin</string>
      <string name="title_condition_bluetooth">Bluetooth</string>
@@ -5831,5 +5837,9 @@ tình nguyện viên</string>
      <string name="title_condition_start_activity">Mở ứng dụng</string>
      <string name="title_condition_to_somewhere">Đến một địa điểm</string>
      <string name="title_condition_wlan">WLAN</string>
-	 <string name="summary_result_screen_brightness_format">Đặt độ sáng màn hình thành %s</string>
+     <string name="summary_result_screen_brightness_format">Đặt độ sáng màn hình thành %s</string>
+     <string name="summary_condition_reduce_to_target">Khi pin ở mức đã đặt</string>
+     <string name="summary_condition_reduce_to_target_percent">Khi pin ở mức %d%%</string>
+     <string name="summary_open_flashlight">Bật đèn pin</string>
+     <string name="zhifubao_not_found">Phiên bản ứng dụng của bạn quá thấp hoặc chưa được cài đặt</string>
 </resources>
