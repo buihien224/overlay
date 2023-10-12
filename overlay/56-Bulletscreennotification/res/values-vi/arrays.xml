@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="danmu_preview_text_default">
+        <item>Không có tin nhắn nào chưa xem, chỉ có những người không muốn trả lời</item>
+        <item>Nếu thích ai đó thì không thể không trả lời nhanh</item>
+        <item>Định mệnh của bạn là độc thân với Black Shark</item>
+        <item>Có thể bạn chưa có bạn gái</item>
+        <item>Sao bạn không trả lời tin nhắn của tôi? Tại sao tôi không thể đợi tin nhắn của bạn... Chúc ngủ ngon</item>
+        <item>Bạn tốt có nên trả lời tin nhắn ngay không</item>
+        <item>Ngưng xem, ngừng xem, thể thao điện tử không đáng được yêu thích</item>
+    </string-array>
+    <string-array name="danmu_preview_text_new">
+        <item>Bạn đang dạy tôi cách làm mọi việc phải không? </item>
+        <item>Sấm Gaba, Birdie Vodka! ! </item>
+        <item>Em ngu quá, làm sao có được một người chị vừa thông minh vừa có năng lực! (Bĩu môi)</item>
+        <item>Bạn có muốn đi leo núi cùng nhau không? </item>
+        <item>Ye Qing Hui (Tuổi trẻ của Ye đã trở lại)</item>
+        <item>Vậy tình yêu sẽ biến mất phải không? </item>
+        <item>Em uống trà sữa nhỏ giọng đừng bắt anh uống gió tây bắc</item>
+        <item>Một hình mẫu cho chúng tôi</item>
+        <item>Bạn có nghĩ rằng tôi vẫn còn cơ hội không? </item>
+        <item>Chắc chắn vào lần sau</item>
+    </string-array>
+</resources>
