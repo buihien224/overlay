@@ -72,6 +72,7 @@
     <string name="abnormal_consume_type_wakelock">Hệ thống không thể vào chế độ ngủ</string>
     <string name="about_autostart">Giới thiệu tự khởi chạy</string>
     <string name="about_autostart_gloabl">Giới thiệu tự khởi chạy nền</string>
+	<string name="about_autostart_global">Giới thiệu tự khởi chạy nền</string>
     <string name="ac_enter_applock">Vào Khóa ứng dụng</string>
     <string name="ac_firstUseApplock_subTitle">Tin cậy hơn với công cụ bảo mật cấp hệ thống</string>
     <string name="ac_firstUseApplock_title">Đặt mật khẩu để bảo vệ ứng dụng</string>
@@ -128,6 +129,15 @@
     <string name="ad_btn_default_text">Tìm hiểu thêm</string>
     <string name="ad_floating_window_title">Đóng cửa sổ nổi để mở khóa</string>
     <string name="ad_split_screen_title">Thoát Chia màn hình để mở khóa</string>
+	<string name="ad_text_adx">Quảng cáo</string>
+    <string name="ad_text_btn_cancel">Hủy</string>
+    <string name="ad_text_btn_download">Cài đặt</string>
+    <string name="ad_text_btn_resume">Tiếp tục</string>
+    <string name="ad_text_develop">Nhà phát triển: %1$s</string>
+    <string name="ad_text_introduce">Giới thiệu</string>
+    <string name="ad_text_permission">Quyền</string>
+    <string name="ad_text_privacy">Quyền riêng tư</string>
+    <string name="ad_text_version">Phiên bản: %1$s</string>
     <string name="ad_update_time">Cập nhật lần cuối %s</string>
     <string name="ad_update_time_unKnown">Cập nhật lần cuối: không xác định</string>
     <string name="adb_install_no_network">Kết nối mạng và thử lại</string>
@@ -180,7 +190,6 @@
     <string name="antispam_xpace_text">Chuyển sang Không gian thứ nhất để thiết lập Danh sách chặn</string>
     <string name="antivirus_browser_check">Kiểm tra trang web trong Trình duyệt Mi</string>
     <string name="antivirus_browser_check_summary">Kiểm tra trang web trong Trình duyệt Mi tự động và nhận cảnh báo về những rủi ro có thể xảy ra</string>
-    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_choose_engine_dialog_title">Chọn nhận dạng</string>
     <string name="antivirus_choose_engine_settings">Cài đặt định dạng virus</string>
     <string name="antivirus_choose_engine_title">Nhận dạng</string>
@@ -289,7 +298,6 @@
     <string name="app_behavior_get_install">%1s đã truy cập danh sách ứng dụng của bạn</string>
     <string name="app_behavior_get_install_single">Ứng dụng này đã truy cập danh sách ứng dụng của bạn</string>
     <string name="app_behavior_global_settings_perm_tips">Nhận cảnh báo trên thanh trạng thái khi ứng dụng ghi âm hoặc sử dụng camera</string>
-    <string name="app_behavior_header_time">dd MMMM</string>
     <string name="app_behavior_key_audio">Ghi âm</string>
     <string name="app_behavior_key_camera">Chụp ảnh</string>
     <string name="app_behavior_key_location">Vị trí</string>
@@ -339,7 +347,7 @@
     <string name="app_behavior_perm_change_tip_ask">Bạn sẽ được hỏi liệu hành động này (%1s) có được phép không</string>
     <string name="app_behavior_perm_change_tip_deny">Hành động này (%1s) hiện bị giới hạn</string>
     <string name="app_behavior_perm_change_tip_foreground">Hành động này (%1s) hiện được phép khi bạn đang sử dụng ứng dụng</string>
-    <string name="app_behavior_perm_change_tip_virtual">\"%1s\" đã thay đổi để \"Gửi lại tin nhắn trống\"</string>
+    <string name="app_behavior_perm_change_tip_virtual">"%1s" đã thay đổi để "Gửi lại tin nhắn trống"</string>
     <string name="app_behavior_phonenum">%1s đã truy cập số điện thoại của bạn</string>
     <string name="app_behavior_phonenum_single">Ứng dụng này đã truy cập số điện thoại của bạn</string>
     <string name="app_behavior_phonestate">%1s đã truy cập thông tin thiết bị</string>
@@ -520,7 +528,6 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Gỡ cài đặt ứng dụng kép?</string>
     <string name="app_manager_unstall_application">Gỡ cài đặt</string>
     <string name="app_managere_not_have_app">Trống</string>
-    <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Dữ liệu di động</string>
     <string name="app_name">Khóa ứng dụng</string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
@@ -632,7 +639,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | Rủi ro</string>
     <string name="apps_item_scan_virus_summary_installed">Đã cài đặt | Virus</string>
     <string name="apps_item_scan_virus_summary_uninstalled">APK | Virus</string>
-    <string name="apps_item_sign_dialog_content">Chữ ký của \"%s\" khác với phiên bản trên Chợ Ứng dụng. Xóa ứng dụng này và cài đặt phiên bản chính thức? Chú ý: cài đặt ứng dụng có chữ ký khác nhau có thể dẫn đến tình trạng mất dữ liệu ứng dụng.</string>
+    <string name="apps_item_sign_dialog_content">Chữ ký của "%s" khác với phiên bản trên Chợ Ứng dụng. Xóa ứng dụng này và cài đặt phiên bản chính thức? Chú ý: cài đặt ứng dụng có chữ ký khác nhau có thể dẫn đến tình trạng mất dữ liệu ứng dụng.</string>
     <string name="apps_item_sign_dialog_title">Cài đặt ứng dụng chính thức</string>
     <string name="apps_item_sign_install_button_text">Thay thế</string>
     <string name="apps_item_sms_default_set_success">Đặt thành công</string>
@@ -680,12 +687,10 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="auto_task_edit_choose_condition_title">Chọn điều kiện</string>
     <string name="auto_task_edit_choose_new_operation">Thêm thao tác</string>
     <string name="auto_task_edit_choose_operation_title">Chọn thao tác</string>
-    <string name="auto_task_edit_condition_summary_new">Ví dụ, \"Lúc %s\"</string>
+    <string name="auto_task_edit_condition_summary_new">Ví dụ, "Lúc %s"</string>
     <string name="auto_task_edit_condition_title">Thêm điều kiện</string>
     <string name="auto_task_edit_my_custom_task">Nhập tên nhiệm vụ</string>
-    <string name="auto_task_edit_operation_summary">Ví dụ: \"Bật chế độ máy bay\"</string>
-    <string name="auto_task_edit_step1_new">%d.</string>
-    <string name="auto_task_edit_step2_new">%d.</string>
+    <string name="auto_task_edit_operation_summary">Ví dụ: "Bật chế độ máy bay"</string>
     <string name="auto_task_edit_task_name">Tên</string>
     <string name="auto_task_main_title">Nhiệm vụ tự động</string>
     <string name="auto_task_mamange_activity_title">Nhiệm vụ tự động</string>
@@ -744,7 +749,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="battery_charge_estimating">Đang tính</string>
     <string name="battery_charge_full">Sạc đầy</string>
     <string name="battery_charging_prompt">Đang sạc</string>
-    <string name="battery_desc_ambient_display">Điện năng tiêu thụ bởi Always-on display</string>
+    <string name="battery_desc_ambient_display">Điện năng tiêu thụ bởi Màn hình luôn bật</string>
     <string name="battery_desc_apps">Pin được sử dụng bởi ứng dụng</string>
     <string name="battery_desc_bluetooth">Pin được sử dụng bởi Bluetooth</string>
     <string name="battery_desc_display">Pin được sử dụng bởi màn hình và đèn nền</string>
@@ -781,7 +786,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="battery_stats_phone_signal_label">Tín hiệu mạng di động</string>
     <string name="battery_stats_screen_on_label">Màn hình bật</string>
     <string name="battery_stats_wake_lock_label">Thức</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_good">Đang làm việc bình thường</string>
     <string name="battery_status_level_excellent">Tuyệt vời</string>
     <string name="battery_status_level_good">Tốt</string>
@@ -797,7 +802,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="beauty_fc_fill_lamp_new">Tăng sáng trước</string>
     <string name="beauty_fc_light">Độ sáng tăng sáng</string>
     <string name="beauty_fc_video_call">Làm đẹp cho cuộc gọi video</string>
-    <string name="beauty_fc_video_call_summary">Hiển thị tùy chọn Làm đẹp khi sử dụng cuộc gọi video WeChat</string>
+    <string name="beauty_fc_video_call_summary">Hiển thị tùy chọn Làm đẹp khi sử dụng cuộc gọi video</string>
     <string name="beauty_fun_filter">Làm đẹp</string>
     <string name="beauty_fun_front_light">Tăng sáng trước</string>
     <string name="beauty_fun_light">Tăng sáng</string>
@@ -998,7 +1003,6 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="card_main_private_space_summary">Sử dụng Không gian thứ hai giống như có hai thiết bị</string>
     <string name="card_main_private_space_title">Không gian Thứ hai</string>
     <string name="card_main_sectool_title">Công cụ</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Tạo</string>
     <string name="card_main_xspace_summary">Tạo tài khoản kép cho ứng dụng bất kỳ</string>
     <string name="card_main_xspace_title">Ứng dụng kép</string>
@@ -1081,7 +1085,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="common_signin_button_text">Đăng nhập</string>
     <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
     <string name="confirmSecondSpacePassword">Xác nhận mật khẩu Không gian thứ hai</string>
-    <string name="confirm_ai_allow_all_permission">Thay đổi trạng thái quyền \"Tôi quyết định\" cho tất cả ứng dụng?</string>
+    <string name="confirm_ai_allow_all_permission">Thay đổi trạng thái quyền "Tôi quyết định" cho tất cả ứng dụng?</string>
     <string name="confirm_allow_all_permission">Cho phép tất cả ứng dụng sử dụng tính năng này?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Thêm Tài khoản Xiaomi</string>
     <string name="confirm_close">Tắt</string>
@@ -1189,9 +1193,6 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="data_usage_warning_title_notify">Bạn đã vượt quá giới hạn dữ liệu</string>
     <string name="databooster_tips_message">Bật để giới hạn tất cả thẻ SIM ngoại trừ thẻ dữ liệu. Tắt tính năng này nếu xảy ra lỗi trong các trò chơi bạn chọn.</string>
     <string name="databooster_tips_title">Chú ý</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Lịch Truyền thống Trung Quốc</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="day_overflow_tips">Cảnh báo sử dụng dữ liệu hàng ngày</string>
@@ -1336,7 +1337,6 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="edit_phone_num">Chỉnh sửa số điện thoại SIM</string>
     <string name="ellipsis">…</string>
     <string name="email">Email</string>
-    <string name="empty" />
     <string name="empty_app">Không có ứng dụng nào</string>
     <string name="empty_title_auto_start_list">Không có ứng dụng có thể tự khởi chạy.</string>
     <string name="empty_title_garbage_virus_white_list">Bấm giữ kết quả trong danh sách để bỏ qua trong lần quét tới</string>
@@ -1992,7 +1992,7 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_voice_changer_setting_rights">Điều khoản Dịch vụ và Chính sách Riêng tư</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Thử sử dụng Trình thay đổi giọng nói!
 Thoải mái chuyển đổi các nhân vật và hiệu ứng đặc biệt."</string>
-    <string name="gb_voice_changer_toast_window_open">Đã bật hiệu ứng \"%s\"</string>
+    <string name="gb_voice_changer_toast_window_open">Đã bật hiệu ứng "%s"</string>
     <string name="gb_voice_changer_trial_gender_dialog">Nhận dùng thử miễn phí thành công! Vui lòng chọn giới tính để điều chỉnh hiệu ứng và đề xuất thích hợp.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Dùng thử miễn phí</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Nhận 1 lần dùng thử miễn phí…</string>
@@ -2335,8 +2335,8 @@ Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối d
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Quá nhiều lần thử không thành công!</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
-    <string name="lockpattern_tutorial_continue_label_confirm">Chạm \"OK\"</string>
-    <string name="lockpattern_tutorial_continue_label_next">Chạm \"Tiếp theo\"</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Chạm "OK"</string>
+    <string name="lockpattern_tutorial_continue_label_next">Chạm "Tiếp theo"</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_detected">Hình mở khóa hoàn tất</string>
@@ -3192,7 +3192,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pm_root_success_notification_title">Đã cho phép truy cập root</string>
     <string name="power_5g_popups_content">Mạng 5G cung cấp tốc độ kết nối cao và độ trễ thấp hơn.</string>
     <string name="power_5g_popups_title">Sử dụng mạng 5G</string>
-    <string name="power_ambient_display">Always-on display</string>
+    <string name="power_ambient_display">Màn hình luôn bật</string>
     <string name="power_analysis_consume_title">Sử dụng pin</string>
     <string name="power_analysis_suggestion_need_optimize">Đã phát hiện vấn đề sử dụng pin.</string>
     <string name="power_autorun_apps_empty">Không có ứng dụng tự khởi chạy</string>
@@ -3312,8 +3312,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_center_super_wireless_charge_dialog_summary">Chế độ này tăng tốc độ quạt làm mát sạc không dây. Bật chế độ này để sạc thiết bị nhanh hơn, hoặc tắt đi nếu bạn cảm thấy quá ồn.</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">Vào Bảo mật > Pin > Cài đặt để có thêm tùy chọn.</string>
     <string name="power_center_super_wireless_charge_dialog_title">Sạc nhanh không dây</string>
-    <string name="power_center_super_wireless_charge_enter_noti_summary">无线充电器风扇转速提高，充电速度更快</string>
-    <string name="power_center_super_wireless_charge_enter_noti_title">可开启极速无线充电模式</string>
+    <string name="power_center_super_wireless_charge_enter_noti_summary">Tốc độ quạt sạc không dây tăng lên, sạc nhanh hơn</string>
+    <string name="power_center_super_wireless_charge_enter_noti_title">Có thể bật chế độ sạc không dây cực nhanh</string>
     <string name="power_center_super_wireless_charge_noti_summary">Chạm để mở Cài đặt</string>
     <string name="power_center_super_wireless_charge_noti_switch">Thông báo về sạc nhanh không dây</string>
     <string name="power_center_super_wireless_charge_noti_title">Sạc nhanh không dây đang bật</string>
@@ -3387,7 +3387,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_optimize_darkmode_summary">Chế độ nền tối tiêu thụ ít điện năng</string>
     <string name="power_optimize_disable_5g">Giới hạn kết nối 5G</string>
     <string name="power_optimize_disable_5g_summary">Kết nối 5G tiêu hao nhiều điện năng</string>
-    <string name="power_optimize_disable_aod">Tắt Always-on display</string>
+    <string name="power_optimize_disable_aod">Tắt Màn hình luôn bật</string>
     <string name="power_optimize_disable_app_autostart">Chặn ứng dụng tự động mở</string>
     <string name="power_optimize_disable_gps">Tắt GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Tắt chế độ định vị chính xác cao</string>
@@ -3413,8 +3413,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_save_mode">Tiết kiệm pin</string>
     <string name="power_save_mode_auto_exit_summary_new">Tắt khi pin %s hoặc đã sạc đầy</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
-    <string name="power_save_mode_close_aod_display_summary">Tắt Always-on display khi Tiết kiệm Pin bật</string>
-    <string name="power_save_mode_close_aod_display_title">Tắt Always-on display</string>
+    <string name="power_save_mode_close_aod_display_summary">Tắt Màn hình luôn bật khi Tiết kiệm Pin bật</string>
+    <string name="power_save_mode_close_aod_display_title">Tắt Màn hình luôn bật</string>
     <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm Pin bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
     <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
@@ -3561,7 +3561,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pref_traffic_unlimited_package">Gói dữ liệu không giới hạn</string>
     <string name="pref_warning_values">Mức độ cảnh báo việc sử dụng dữ liệu</string>
     <string name="pref_whitelist_setting">Danh sách ngoại lệ chuyển vùng dữ liệu</string>
-    <string name="preference_copied">Đã sao chép \"%1$s\" vào khay nhớ tạm.</string>
+    <string name="preference_copied">Đã sao chép "%1$s" vào khay nhớ tạm.</string>
     <string name="preferred_app_entries_browser">Trình duyệt</string>
     <string name="preferred_app_entries_camera">Camera</string>
     <string name="preferred_app_entries_dial">Quay số</string>
@@ -4543,7 +4543,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="superpower_savemode_description_title">Tiết kiệm pin tối ưu kích hoạt giới hạn dưới đây:</string>
     <string name="superpower_savemode_limit1">Chủ đề nền tối</string>
     <string name="superpower_savemode_limit2">Hạn chế hoạt động nền</string>
-    <string name="superpower_savemode_limit3">Giảm hoạt động tiêu thụ pin (đồng bộ, GPS, rung, Always-on display, v.v.)</string>
+    <string name="superpower_savemode_limit3">Giảm hoạt động tiêu thụ pin (đồng bộ, GPS, rung, Màn hình luôn bật, v.v.)</string>
     <string name="superpower_savemode_limit4">Cho phép ứng dụng được chọn làm việc bình thường</string>
     <string name="superpower_settings">Tiết kiệm pin tối ưu</string>
     <string name="superpower_settins_autoenter_summary_new">Bật Tiết kiệm pin tối ưu tự động khi pin chỉ còn %s</string>
@@ -5809,8 +5809,6 @@ tình nguyện viên</string>
      <string name="activity_new_task_name">Thêm tác vụ</string>
      <string name="activity_no_task">Chưa có tác vụ nào ở đây</string>
      <string name="activity_task_center">Trung tâm tác vụ</string>
-     <string name="default_result_title">Thêm kết quả</string>
-     <string name="default_result_title_continue">Thêm kết quả</string>
      <string name="activity_new_condition_name">Thêm điều kiện</string>
      <string name="auto_task_edit_default_task_name">Chỉnh sửa tên tác vụ</string>
      <string name="auto_task_exit_finish">Nhiệm vụ được hoàn thành tự động</string>
@@ -5842,4 +5840,29 @@ tình nguyện viên</string>
      <string name="summary_condition_reduce_to_target_percent">Khi pin ở mức %d%%</string>
      <string name="summary_open_flashlight">Bật đèn pin</string>
      <string name="zhifubao_not_found">Phiên bản ứng dụng của bạn quá thấp hoặc chưa được cài đặt</string>
+	 <string name="permission_instruction_read_history">Truy cập lịch sử duyệt web</string>
+     <string name="permission_instruction_read_media_pic">Quyền này cho phép các ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+	 <string name="permission_instruction_scoped">Cơ chế bảo vệ bộ nhớ mới cho phép bạn kiểm soát tốt hơn cách các ứng dụng tương thích sử dụng quyền bộ nhớ</string>
+	 <string name="permission_instruction_shake">Quyền này cho phép ứng dụng theo dõi hướng và chuyển động của thiết bị của bạn (ví dụ: lắc, nghiêng và xoay)</string>
+	 <string name="person_have_hongbao">%1$s sẽ gửi cho bạn một bao lì xì! </string>
+	 <string name="lucky_activity">Hoạt động lì xì</string>
+     <string name="lucky_alarm">Đồng hồ báo thức lì xì</string>
+     <string name="lucky_alarm_app">Đếm ngược hoạt động lì xì</string>
+     <string name="lucky_alarm_app_after">Hoạt động lì xì đã kết thúc</string>
+     <string name="lucky_alarm_app_tail">Đếm ngược</string>
+     <string name="lucky_alarm_back">Quay lại trợ lý lì xì</string>
+     <string name="lucky_alarm_item_month">Tháng 11</string>
+     <string name="lucky_alarm_open_summary">Sau khi bật, một cửa sổ bật lên sẽ nhắc bạn 1 phút trước khi hoạt động lì xì bắt đầu và bạn có thể xem tất cả thời gian hoạt động của lì xì thông qua cửa sổ nổi. </string>
+     <string name="lucky_alarm_open_title">Đồng hồ báo thức lì xì</string>
+     <string name="lucky_alarm_sound_title">Âm thanh nhắc nhở hoạt động</string>
+     <string name="lucky_assistant_description">"Được sản xuất chính thức bởi Xiaomi
+WeChat/QQ/MiLiao lấy hiện vật bao lì xì
+Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không làm phiền khi đăng nhập máy tính không được hỗ trợ"</string>
+     <string name="lucky_max_chat_title">Từ QQ</string>
+     <string name="lucky_money_close">Đóng</string>
+     <string name="lucky_money_group_summary">Không cần lấy lì xì do cá nhân gửi, chỉ nên nhắc nhóm lì xì để tránh nhắc quá nhiều. </string>
+     <string name="lucky_my_luckymoney">Hồ sơ lì xì của tôi</string>
+     <string name="lucky_sound_mode_lucky">Lì xì ở đây</string>
+     <string name="lucky_sound_warn">Âm thanh nhắc nhở lì xì</string>
+     <string name="lucky_warning_count_title">Từ WeChat</string>
 </resources>
