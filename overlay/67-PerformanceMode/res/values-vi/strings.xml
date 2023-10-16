@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chế độ hiệu suất</string>
+    <string name="help_resource">Chế độ hiệu suất sẽ mang lại hiệu suất tốt hơn trong hầu hết các tình huống nhưng cũng sẽ tiêu thụ điện năng cao hơn một chút.</string>
+    <string name="turn_off_fail">Tắt chế độ hiệu suất bị lỗi!</string>
+    <string name="turn_off_invalid_handle">Thông số điều khiển không hợp lệ!</string>
+    <string name="turn_off_now">Tắt ngay bây giờ</string>
+    <string name="turn_on_fail">Bật chế độ hiệu suất bị lỗi!</string>
+    <string name="turn_on_now">Bật ngay bây giờ</string>
+</resources>

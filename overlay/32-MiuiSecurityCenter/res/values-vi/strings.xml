@@ -3093,7 +3093,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_action_accept">Chấp nhận</string>
     <string name="permission_action_ai_prompt">Tôi quyết định</string>
     <string name="permission_action_always">Luôn cho phép</string>
-    <string name="permission_action_desc">Cấp quyền nhưng gửi lại tin nhắn trắng đến ứng dụng để bảo vệ quyền riêng tư</string>
+    <string name="permission_action_desc">Cấp quyền nhưng gửi lại tin nhắn trống đến ứng dụng để bảo vệ quyền riêng tư</string>
     <string name="permission_action_desc_always">Quyền này có thể sử dụng bất cứ lúc nào</string>
     <string name="permission_action_desc_foreground">Quyền này chỉ có thể sử dụng khi bạn đang sử dụng ứng dụng</string>
     <string name="permission_action_desc_prompt">Quyền này chỉ có thể sử dụng khi bạn cho phép</string>
@@ -3178,7 +3178,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="phone_manage_recent_use">Sử dụng gần đây</string>
     <string name="phone_manage_special_summary">Khám phá tính năng bổ sung của chúng tôi</string>
     <string name="phone_manage_special_title">Tính năng đặc biệt</string>
-    <string name="phone_manage_system_tool_summary">Công cụ cấp hệ thống hữu ích</string>
+    <string name="phone_manage_system_tool_summary">Công cụ hệ thống hữu ích</string>
     <string name="phone_manage_system_tool_title">Công cụ</string>
     <string name="pkg_traffic">Thiết lập giới hạn sử dụng dữ liệu</string>
     <string name="pm">CH</string>
@@ -3801,7 +3801,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_search_keyword_2">Ẩn ứng dụng</string>
     <string name="privacy_search_keyword_3">Ẩn biểu tượng</string>
     <string name="privacy_search_keyword_4">Ẩn lối tắt Màn hình chính</string>
-    <string name="privacy_search_keyword_5">Ứng dụng cá nhan</string>
+    <string name="privacy_search_keyword_5">Ứng dụng cá nhân</string>
     <string name="privacy_search_keyword_6">Ẩn</string>
     <string name="privacy_show_other_permissions">Hiển thị quyền khác</string>
     <string name="privacy_show_password">Hiển thị mật khẩu</string>
@@ -5865,4 +5865,8 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="lucky_sound_mode_lucky">Lì xì ở đây</string>
      <string name="lucky_sound_warn">Âm thanh nhắc nhở lì xì</string>
      <string name="lucky_warning_count_title">Từ WeChat</string>
+	 <string name="permission_instruction_wallpaper">Cấp quyền này để cho phép ứng dụng thay đổi dịch vụ hình nền động mặc định và tiếp tục chạy nền.</string>
+     <string name="permission_instruction_wall_paper">Cấp quyền này để cho phép ứng dụng thay đổi dịch vụ hình nền động mặc định và tiếp tục chạy nền.</string>
+	 <string name="permission_instruction_media_audio">Quyền này cho phép các ứng dụng truy cập các bài hát và các tệp âm thanh khác được lưu trữ trên thiết bị này. Những mục này có thể chứa thông tin cá nhân.</string>
+     <string name="permission_instruction_location">Khi bạn cấp quyền này, các ứng dụng sẽ sử dụng mạng hoặc định vị vệ tinh để truy cập vị trí của bạn. Bạn có thể cho phép các ứng dụng hỗ trợ tính năng này chỉ truy cập vào vị trí gần đúng của bạn.</string>
 </resources>

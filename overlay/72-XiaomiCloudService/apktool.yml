@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: miuitmp.cloudservice.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- AndroidManifest.xml
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '10'
+  versionName: miuiTMP

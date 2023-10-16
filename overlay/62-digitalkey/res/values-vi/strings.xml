@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khung khóa kỹ thuật số Xiaomi</string>
+    <string name="ccc_hce">Dịch vụ HCE khóa kỹ thuật số CCC</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
