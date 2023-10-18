@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="local_registry_results">
+        <item>Đăng ký_thành công</item>
+        <item>Giải mã_lỗi</item>
+        <item>Kiểm tra_lỗi</item>
+    </string-array>
+    <string-array name="original_registry_results">
+        <item>Thành công</item>
+        <item>Lỗi giải mã</item>
+        <item>Lỗi kiểm tra</item>
+    </string-array>
+</resources>
