@@ -131,8 +131,8 @@
      <string name="password_manager">Trình quản lý mật khẩu</string>
      <string name="password_manager_summary">Đồng bộ hóa mật khẩu của bạn với đám mây</string>
      <string name="pm">Tối</string>
-     <string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-     <string name="saturday">Thứ Bảy</string>
+     <string name="preference_copied">\"%1$s\" đã sao chép vào khay nhớ tạm.</string>
+     <string name="saturday">Thứ bảy</string>
      <string name="saturday_short">Thứ bảy</string>
      <string name="saturday_shortest">Thứ bảy</string>
      <string name="save_content_tip">"Các mục sau sẽ được lưu: "</string>
@@ -166,7 +166,7 @@ Xóa mật khẩu?"</string>
      <string name="solar_term_white_dews">Sương</string>
      <string name="solar_term_winter_begins">Mùa đông bắt đầu</string>
      <string name="solar_term_winter_solstice">Ngày Đông Chí</string>
-     <string name="sunday">Chủ Nhật</string>
+     <string name="sunday">Chủ nhật</string>
      <string name="sunday_short">CN</string>
      <string name="sunday_shortest">CN</string>
      <string name="the_anniversary_of_lifting_martial_law">Kỷ niệm dỡ bỏ thiết quân luật</string>

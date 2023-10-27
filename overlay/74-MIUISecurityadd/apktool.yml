@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.Miuiplus.apk
+apkFileName: miuitmp.com.miui.securityadd.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -9,7 +9,7 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '31'
+  minSdkVersion: '21'
   targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: true
@@ -18,7 +18,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.1-dirty
+version: 2.8.1
 versionInfo:
-  versionCode: '33'
-  versionName: miuivs-2.5.ST
+  versionCode: '91149'
+  versionName: miuiTMP

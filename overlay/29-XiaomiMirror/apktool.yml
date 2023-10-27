@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.MIUISecurityCore.apk
+apkFileName: miuiTMP.XiaomiMirror.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -7,7 +7,7 @@ doNotCompress:
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
-  renameManifestPackage: miuivs.com.miui.securitycore
+  renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '31'
   targetSdkVersion: '33'
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.6.1-dirty
 versionInfo:
   versionCode: '33'
-  versionName: miuivs-2.5.ST
+  versionName: miuiTMP
