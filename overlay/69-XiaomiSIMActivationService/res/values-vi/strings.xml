@@ -31,9 +31,10 @@
     <string name="afternoon">Buổi chiều</string>
     <string name="am">SA</string>
 	<string name="activate">Kích hoạt</string>
-     <string name="activate_feature_call_log_sync">Đồng bộ hóa lịch sử cuộc gọi</string>
-     <string name="activate_feature_default_title">Xiaomi</string>
-     <string name="activate_feature_find_device">Định vị SMS</string>
+	<string name="app_name">Dịch vụ kích hoạt SIM Xiaomi</string>
+    <string name="activate_feature_call_log_sync">Đồng bộ hóa lịch sử cuộc gọi</string>
+    <string name="activate_feature_default_title">Xiaomi</string>
+    <string name="activate_feature_find_device">Định vị SMS</string>
      <string name="activate_feature_live_talk">Gói nạp tiền</string>
      <string name="activate_feature_mi_roaming">Chuyển vùng của tôi</string>
      <string name="activate_feature_mms_sync">Đồng bộ hóa tin nhắn</string>
@@ -42,11 +43,11 @@
      <string name="activate_feature_remote_assist">Trợ lý từ xa</string>
      <string name="activate_feature_verify_mx_token">Xác minh tài khoản Xiaomi</string>
      <string name="activate_feature_voip">Tin nhắn Mi VoIP</string>
-     <string name="activate_history_canceled_overview">Kích hoạt thẻ SIM đã bị hủy. Kích hoạt được kích hoạt bởi \"%1$s\".</string>
-     <string name="activate_history_multisim_canceled_overview">Kích hoạt thẻ SIM %2$d đã bị hủy. Kích hoạt được kích hoạt bởi \"%1$s\".</string>
-     <string name="activate_history_multisim_success_overview">Đã kích hoạt thẻ SIM %2$d thành công. Kích hoạt được kích hoạt bởi \"%1$s\".</string>
+     <string name="activate_history_canceled_overview">Kích hoạt thẻ SIM đã bị hủy. Kích hoạt này được kích hoạt bởi \"%1$s\".</string>
+     <string name="activate_history_multisim_canceled_overview">Kích hoạt thẻ SIM %2$d đã bị hủy. Kích hoạt này được kích hoạt bởi \"%1$s\".</string>
+     <string name="activate_history_multisim_success_overview">Đã kích hoạt thẻ SIM %2$d thành công. Kích hoạt này được kích hoạt bởi \"%1$s\".</string>
      <string name="activate_history_sms">SMS đã được gửi trong quá trình kích hoạt.</string>
-     <string name="activate_history_success_overview">Kích hoạt thẻ SIM thành công. Kích hoạt được kích hoạt bởi \"%1$s\".</string>
+     <string name="activate_history_success_overview">Kích hoạt thẻ SIM thành công. Kích hoạt này được kích hoạt bởi \"%1$s\".</string>
      <string name="activate_history_title">Kích hoạt thẻ SIM</string>
      <string name="activate_phone_failed_notif_title_sim">"Không thể kích hoạt \"%2$s\" bằng SIM %1$d"</string>
      <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Đã tạo thành công Tài khoản Xiaomi bằng SIM %d</string>
@@ -62,8 +63,8 @@
      <string name="activate_popup_confirm_failed_receive_sms">Thử lại</string>
      <string name="activate_popup_confirm_failed_send_sms">Gửi lại</string>
      <string name="activate_popup_confirm_failed_server">Thử lại</string>
-     <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>quốc tế SMS trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
-     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>trong nước SMS trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
+     <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>SMS quốc tế trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
+     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>SMS trong nước trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
      <string name="activate_popup_desc_all_gateway_failed_query_info">"Không thể tìm thấy số điện thoại của bạn. Hãy đảm bảo rằng thẻ SIM của bạn đã được kích hoạt.
 Nhập số điện thoại được liên kết với thẻ SIM mới của bạn để kích hoạt lại %s."</string>
      <string name="activate_popup_desc_all_gateway_failed_send_sms">"Không thể gửi tin nhắn kích hoạt. Đảm bảo rằng thẻ SIM của bạn đã được kích hoạt.
@@ -78,10 +79,10 @@ Nhập số điện thoại được liên kết với thẻ SIM mới của b�
      <string name="activate_popup_desc_failed_server_msg">Đã xảy ra lỗi máy chủ. Hãy kiểm tra cài đặt mạng của bạn và thử lại.</string>
 	 <string name="activate_popup_desc_find_device_postfix_msg">%1$s Để kích hoạt \"%3$s\", hãy nhập số điện thoại của SIM %2$d. Nếu bạn thay thẻ SIM này, một tin nhắn SMS kích hoạt khác sẽ được gửi.</string>
      <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s Để kích hoạt \"%2$s\", hãy nhập số điện thoại của bạn. Nếu bạn thay thẻ SIM này, một tin nhắn SMS kích hoạt khác sẽ được gửi.</string>
-     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>quốc tế SMS trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho tin nhắn này.</string>
+     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>tin nhắn quốc tế trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho tin nhắn này.</string>
      <string name="activate_popup_desc_mi_account_user_manual">"%1$s
 "<Data>Hãy tham khảo &lt;a href=https://account.xiaomi.com/helpcenter/faq>Hướng dẫn sử dụng tài khoản Xiaomi&lt;/a> nếu bạn có bất kỳ câu hỏi nào.</Data></string>
-     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Để kích hoạt \"%3$s\", &lt;xliff:g id=number_sms referenceto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>trong nước SMS trả phí&lt;/font> và &lt;xliff:g id=number_sms referenceto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>SMS trả phí quốc tế&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
+     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Để kích hoạt \"%3$s\", &lt;xliff:g id=number_sms referenceto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>tin nhắn trong nước trả phí&lt;/font> và &lt;xliff:g id=number_sms referenceto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>tin nhắn quốc tế trả phí&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho những tin nhắn này.</string>
      <string name="activate_popup_desc_sim_card_downlink_msg">Để kích hoạt \"%2$s\", hãy nhập số điện thoại của SIM %1$d.</string>
      <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Để kích hoạt %s, hãy nhập số điện thoại của bạn.</string>
      <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Để kích hoạt \"%2$s\", &lt;xliff:g id=number_sms referenceto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>đã thanh toán SMS&lt;/font> sẽ được gửi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho tin nhắn này.</string>

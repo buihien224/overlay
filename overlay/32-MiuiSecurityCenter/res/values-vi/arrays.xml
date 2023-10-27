@@ -25,6 +25,14 @@
         <item>PIN</item>
         <item>Mật khẩu</item>
     </string-array>
+	<string-array name="auto_task_text_layout_size_level">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>Rất lớn</item>
+        <item>Siêu lớn</item>
+    </string-array>
     <string-array name="cache_sort_type">
         <item>Kích thước</item>
         <item>Tên</item>
@@ -44,6 +52,11 @@
         <item>Thẻ Xiao Tiansheng</item>
         <item>Thẻ Tencent King</item>
     </string-array>
+	<string-array name="luckymoney_sound">
+         <item>Tắt tiếng</item>
+         <item>Tiền vàng</item>
+         <item>Lì xì ở đây</item>
+     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Tùy chỉnh</item>
         <item>Mi Mobile</item>
@@ -241,5 +254,9 @@
     <string-array name="traffic_type">
         <item>"Sử dụng dữ liệu di động "</item>
         <item>"Sử dụng Wi-Fi "</item>
+    </string-array>
+	<string-array name="pp_lab_compact_blur_location_entry">
+        <item>Mặc định</item>
+        <item>Tất cả</item>
     </string-array>
 </resources>
