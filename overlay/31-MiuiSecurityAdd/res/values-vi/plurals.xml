@@ -4,13 +4,13 @@
         <item quantity="other">1 giờ trước</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 giờ trước</item>
+        <item quantity="other">%d giờ trước</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Trong 1 giờ</item>
+        <item quantity="other">Trong %d giờ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Trong nửa giờ</item>
@@ -19,13 +19,25 @@
         <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">sau %d phút</item>
+        <item quantity="other">Sau %d phút</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Vừa xong</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Không bao giờ tắt %d ứng dụng</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Luôn tắt %d ứng dụng</item>
+    </plurals>
+    <plurals name="fileCount">
+        <item quantity="other">%d mục</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d thông báo trên Không gian thứ nhất</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
@@ -48,31 +60,20 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Đã chọn %d mục</item>
     </plurals>
-    <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Tăng tốc mạng của bạn sẽ kết thúc sau %d ngày. Bạn có thể bắt đầu trải nghiệm độ trễ của mạng. Gia hạn ngay?</item>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s giờ</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s phút</item>
-    </plurals>
-    <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantity="other">Thời gian sử dụng còn lại %s phút</item>
-    </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="one">Tìm kiếm %d ứng dụng</item>
-        <item quantity="other">Tìm kiếm %d ứng dụng</item>
+        <item quantity="other">Tìm %d ứng dụng</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="one">%d thông báo trong Khoảng trống thứ hai</item>
-        <item quantity="other">%d thông báo trong Khoảng trống thứ hai</item>
+        <item quantity="other">%d thông báo trên Không gian thứ hai</item>
     </plurals>
     <plurals name="xspace_guide_content">
-        <item quantity="one">Bạn có thể tạo &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;ứng dụng kép&lt;/font&gt;</item>
-        <item quantity="other">Bạn có thể tạo &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;ứng dụng kép&lt;/font&gt;</item>
+        <item quantity="other">Bạn có thể tạo &lt;font color=#0D84FF>%d&lt;/font> &lt;font>ứng dụng kép&lt;/font></item>
     </plurals>
 </resources>
