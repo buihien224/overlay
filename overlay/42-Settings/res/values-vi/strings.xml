@@ -2183,8 +2183,8 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="color_game_led_feature_off">Tắt</string>
     <string name="color_game_led_feature_on">Bật</string>
     <string name="color_game_led_freq_title">Tần suất nhấp nháy</string>
-    <string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Game Turbo bật</string>
-    <string name="color_game_led_game_mode_title">Sử dụng cho Game Turbo</string>
+    <string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc trò chơi bật</string>
+    <string name="color_game_led_game_mode_title">Sử dụng cho Tăng tốc trò chơi</string>
     <string name="color_game_led_incall_pulse_title">Sử dụng cho cuộc gọi đến</string>
     <string name="color_game_led_notification_pulse_title">Nhấp nháy cho thông báo trên Always-on display</string>
     <string name="color_game_led_remind_title">Hiệu ứng</string>
@@ -2207,8 +2207,8 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="color_led_battery_title">Bật khi sạc</string>
     <string name="color_led_charging_summary">Sẽ tắt khi sạc pin</string>
     <string name="color_led_end_time">Thời gian kết thúc</string>
-    <string name="color_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Game Turbo bật</string>
-    <string name="color_led_game_mode_title">Sử dụng cho Game Turbo</string>
+    <string name="color_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc trò chơi bật</string>
+    <string name="color_led_game_mode_title">Sử dụng cho Tăng tốc trò chơi</string>
     <string name="color_led_hint">Chọn tình huống khi đèn LED được sử dụng. Đèn LED sẽ sáng khi màn hình úp xuống và Chế độ không làm phiền được bật.</string>
     <string name="color_led_incall_pulse_title">Sử dụng cho cuộc gọi đến</string>
     <string name="color_led_lucky_dialog_message">Tính năng này yêu cầu sử dụng Trợ lý lỳ xì. Bật ngay?</string>
@@ -3383,7 +3383,7 @@ Hãy khởi động lại thiết bị rồi thử lần nữa.</string>
     <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
     <string name="extension_function">Tính năng ứng dụng bổ sung</string>
     <string name="extension_function_hint">Phím tắt tính năng sẽ không còn xuất hiện trong Cài đặt sau khi bạn tắt chuyển đổi phím nhanh</string>
-    <string name="exterior">Bảng màu</string>
+    <string name="exterior">Màu màn hình</string>
     <string name="external_auto_rotate_title">Khóa hướng màn hình đối với màn hình bên ngoài</string>
     <string name="external_code_size_label">Ứng dụng bộ lưu trữ USB</string>
     <string name="external_data_size_label">Dữ liệu bộ lưu trữ USB</string>
@@ -3878,7 +3878,7 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Ảnh cá nhân của bạn sẽ được lưu trữ ở đây.</string>
     <string name="game_booster">Game;Trò chơi;Turbo;Chế độ trò chơi</string>
-    <string name="game_booster_title">Game Turbo</string>
+    <string name="game_booster_title">Tăng tốc trò chơi</string>
     <string name="game_controller_settings_category">Trình điều khiển trò chơi</string>
     <string name="game_storage_settings">Trò chơi</string>
     <string name="gd_setting_title">Thanh bên</string>
@@ -4003,7 +4003,7 @@ Khu vực nơi bạn có thể xác nhận khóa màn hình sẽ chuyển sang b
     <string name="gxzw_quick_open_slow_summary">Bấm và giữ biểu tượng vân tay để mở menu lối tắt. Trượt để sử dụng lối tắt.</string>
     <string name="gxzw_quick_open_slow_title">Bấm và giữ</string>
     <string name="gxzw_quick_open_title">Lối tắt</string>
-    <string name="gxzw_vibrate_summary">Rung sẽ không xảy ra khi ảnh động vân tây được chọn</string>
+    <string name="gxzw_vibrate_summary">Rung sẽ không xảy ra khi ảnh động vân tay được chọn</string>
     <string name="gxzw_vibrate_title">Rung khi mở khóa</string>
     <string name="handy_mode">Chế độ một tay</string>
     <string name="handy_mode_enable">Chế độ một tay</string>
@@ -6340,10 +6340,10 @@ Ngoài ra, việc này còn cho phép ứng dụng bật hoặc tắt chế đ�
     <string name="open_app_button">Mở %1$s</string>
     <string name="open_demo_mode">Bật</string>
     <string name="open_demo_mode_warning_message">Khi chế độ Demo bật, đồng hồ trên thanh trạng thái sẽ dừng, các biểu tượng pin và tín hiệu sẽ hiển thị đầy. Bạn có thể tắt Chế độ Demo hoặc khởi động lại thiết bị để thay đổi.</string>
-    <string name="open_game_accelerate">Bật Game Turbo</string>
+    <string name="open_game_accelerate">Bật Tăng tốc trò chơi</string>
     <string name="open_haptic_feedback">Phản hồi xúc giác</string>
-    <string name="open_miui_optimization_title">Bật tối ưu MIUI</string>
-    <string name="open_optimization_message">Bật tối ưu để tận hưởng giao diện người dùng nhanh và mượt hơn.</string>
+    <string name="open_miui_optimization_title">Bật tối ưu hóa MIUI</string>
+    <string name="open_optimization_message">Bật tối ưu hóa MIUI để tận hưởng giao diện người dùng nhanh và mượt hơn.</string>
     <string name="open_optimization_option">Bật</string>
     <string name="open_privacy_thumbnail_blur_title">Xem trước đã được làm mờ</string>
     <string name="open_supported_links_footer">Ứng dụng muốn truy cập vào các đường liên kết sau:</string>
@@ -6388,7 +6388,7 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="overlay_settings_summary">Những ứng dụng có thể hiển thị bên trên các ứng dụng khác sẽ được phép phủ lên màn hình Cài đặt</string>
     <string name="overlay_settings_title">Cho phép phủ lên màn hình Cài đặt</string>
     <string name="overlay_toast_failed_to_apply">Không áp dụng được lớp phủ</string>
-    <string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Huy.</string>
+    <string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Tú.</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Không có</string>
     <string name="owner_info_settings_title">Chữ ký Màn hình khóa</string>
@@ -6876,7 +6876,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="privacy_thumbnail_blur_progress_message">Vui lòng chờ…</string>
     <string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
     <string name="private_dns_broken">Máy chủ DNS cá nhân không thể truy cập</string>
-    <string name="private_dns_help_message"><annotation id="url">Tìm hiểu thê</annotation>m về tính năng DNS riêng</string>
+    <string name="private_dns_help_message"><annotation id="url">Tìm hiểu thêm</annotation> về tính năng DNS riêng</string>
     <string name="private_dns_mode_off">Tắt</string>
     <string name="private_dns_mode_on">Đang bật</string>
     <string name="private_dns_mode_opportunistic">Tự động</string>
@@ -7240,7 +7240,7 @@ Tùy chọn cài đặt này sẽ ảnh hưởng đến tất cả người dùn
     <string name="screen_brightness">Độ sáng màn hình</string>
     <string name="screen_cancel">Hủy</string>
     <string name="screen_color_and_optimize">Màu sắc &amp; độ tương phản</string>
-    <string name="screen_color_and_optimize_disabled">Không thể điều chỉnh bảng màu và nhiệt độ màu trong Chế độ đọc sách</string>
+    <string name="screen_color_and_optimize_disabled">Không thể điều chỉnh màu màn hình và nhiệt độ màu trong Chế độ đọc sách</string>
     <string name="screen_color_temperature">Nhiệt độ màu</string>
     <string name="screen_color_temperature_and_saturation">Màu sắc &amp; độ bão hòa</string>
     <string name="screen_compatibility_label">Khả năng tương thích với màn hình</string>
@@ -7250,7 +7250,7 @@ Tùy chọn cài đặt này sẽ ảnh hưởng đến tất cả người dùn
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Vài ứng dụng có thể không hiển thị chính xác trong Chế độ nền tối. Bạn có thể hạn chế sử dụng Chế độ nền tối đối với một số ứng dụng tại đây.</string>
     <string name="screen_dark_mode_smart_dark_title">Chế độ nền tối toàn bộ</string>
     <string name="screen_dark_mode_time_title">Lên lịch trình bật Chế độ nền tối</string>
-    <string name="screen_effect">Bảng màu</string>
+    <string name="screen_effect">Màu màn hình</string>
     <string name="screen_enhance_engine_ai_note">%d. Tính năng này làm tăng nhẹ lượng tiêu thụ điện năng.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Chỉ hình ảnh từ ứng dụng Thư viện mới có thể được tăng cường.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Tính năng này sẽ không hoạt động nếu bạn chọn hiển thị màu gốc hoặc áp dụng điều chỉnh nâng cao.</string>
@@ -7306,7 +7306,7 @@ Tùy chọn cài đặt này sẽ ảnh hưởng đến tất cả người dùn
     <string name="screen_on_proximity_sensor_summary">Khóa chạm khi đặt trong túi</string>
     <string name="screen_on_proximity_sensor_title">Chế độ bỏ túi</string>
     <string name="screen_optimize">Màu sắc</string>
-    <string name="screen_optimize_disabled">Không thể điều chỉnh bảng màu trong Chế độ đọc sách</string>
+    <string name="screen_optimize_disabled">Không thể điều chỉnh màu màn hình trong Chế độ đọc sách</string>
     <string name="screen_paper_mode_adjust_level">Điều chỉnh</string>
     <string name="screen_paper_mode_apps_loading">Vui lòng chờ…</string>
     <string name="screen_paper_mode_apps_title">Sử dụng Chế độ đọc sách</string>
@@ -7373,7 +7373,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="screen_projection_example_document_title">Tài liệu</string>
     <string name="screen_projection_example_gallery_summary">Chạm nút Chia sẻ dưới một mục trong ứng dụng Thư viện để hiển thị trên màn hình ngoài.</string>
     <string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
-    <string name="screen_projection_example_game_summary">Game Turbo cho phép bạn chiếu trò chơi ra màn hình ngoài. Sử dụng lối tắt trong hộp công cụ Game Turbo để bật tính năng này.</string>
+    <string name="screen_projection_example_game_summary">Tăng tốc trò chơi cho phép bạn chiếu trò chơi ra màn hình ngoài. Sử dụng lối tắt trong hộp công cụ Tăng tốc trò chơi để bật tính năng này.</string>
     <string name="screen_projection_example_game_title">Game</string>
     <string name="screen_projection_help">Trợ giúp</string>
     <string name="screen_projection_sample_summary">Chiếu tài liệu, game, ảnh và video</string>
@@ -7756,27 +7756,9 @@ Mẫu khuôn mặt của bạn sẽ bị xóa vĩnh viễn theo cách an toàn.
 Sau khi xóa, bạn sẽ cần nhập vân tay, mã PIN, hình mở khóa hoặc mật khẩu để mở khóa điện thoại hoặc xác thực trong các ứng dụng.</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Thiết lập tính năng Mở khóa bằng khuôn mặt</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Sử dụng thiết lập hỗ trợ tiếp cận</string>
-    <string name="security_settings_face_enroll_introduction_accessibility_diversity"></string>
-    <string name="security_settings_face_enroll_introduction_accessibility_expanded"></string>
-    <string name="security_settings_face_enroll_introduction_accessibility_vision"></string>
     <string name="security_settings_face_enroll_introduction_agree">Tôi đồng ý</string>
     <string name="security_settings_face_enroll_introduction_cancel">Hủy</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Cho phép con bạn dùng khuôn mặt để mở khóa điện thoại hoặc xác minh danh tính. Con có thể dùng khuôn mặt khi đăng nhập vào các ứng dụng, phê duyệt một giao dịch mua và làm nhiều việc khác nữa.</string>
-    <string name="security_settings_face_enroll_introduction_control_consent_message"></string>
-    <string name="security_settings_face_enroll_introduction_control_consent_title"></string>
-    <string name="security_settings_face_enroll_introduction_control_message"></string>
-    <string name="security_settings_face_enroll_introduction_control_title"></string>
-    <string name="security_settings_face_enroll_introduction_how_consent_message"></string>
-    <string name="security_settings_face_enroll_introduction_how_message"></string>
-    <string name="security_settings_face_enroll_introduction_how_title"></string>
-    <string name="security_settings_face_enroll_introduction_info_consent_gaze"></string>
-    <string name="security_settings_face_enroll_introduction_info_consent_glasses"></string>
-    <string name="security_settings_face_enroll_introduction_info_consent_looking"></string>
-    <string name="security_settings_face_enroll_introduction_info_gaze"></string>
-    <string name="security_settings_face_enroll_introduction_info_glasses"></string>
-    <string name="security_settings_face_enroll_introduction_info_less_secure"></string>
-    <string name="security_settings_face_enroll_introduction_info_looking"></string>
-    <string name="security_settings_face_enroll_introduction_info_title"></string>
     <string name="security_settings_face_enroll_introduction_message">Sử dụng khuôn mặt của bạn để mở khóa điện thoại, ủy quyền các giao dịch mua hoặc đăng nhập vào các ứng dụng.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Sử dụng khuôn mặt của bạn để mở khóa điện thoại, ủy quyền các giao dịch mua hoặc đăng nhập vào các ứng dụng</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">Sử dụng khuôn mặt của bạn để mở khóa điện thoại hoặc phê duyệt các giao dịch mua.
@@ -9550,7 +9532,7 @@ hoặc tai nghe có jack cắm 3,5mm.</string>
     <string name="usb_switching">Đang chuyển đổi…</string>
     <string name="usb_switching_failed">Không thể chuyển đổi</string>
     <string name="usb_tethering_active_subtext">Đã chia sẻ</string>
-    <string name="usb_tethering_available_subtext">Đã kết nối USB, kiểm tra để chia sẻ</string>
+    <string name="usb_tethering_available_subtext">Đã kết nối USB, mở công tắc để chia sẻ</string>
     <string name="usb_tethering_button_text">Chia sẻ mạng qua USB</string>
     <string name="usb_tethering_errored_subtext">Chia sẻ mạng qua USB lỗi</string>
     <string name="usb_tethering_storage_active_subtext">Không thể kết nối khi lưu trữ USB đang sử dụng</string>
