@@ -79,6 +79,8 @@
     <string name="about_autostart">Giới thiệu tự khởi chạy</string>
     <string name="about_autostart_gloabl">Giới thiệu tự khởi chạy nền</string>
 	<string name="about_autostart_global">Giới thiệu tự khởi chạy nền</string>
+	<string name="about_securitycenter_phne">Đường dây nóng dịch vụ khách hàng: 400–100–5678</string>
+    <string name="about_securitycenter_title">Thông tin về ứng dụng Bảo mật</string>
     <string name="ac_enter_applock">Vào Khóa ứng dụng</string>
     <string name="ac_firstUseApplock_subTitle">Tin cậy hơn với công cụ bảo mật cấp hệ thống</string>
     <string name="ac_firstUseApplock_title">Đặt mật khẩu để bảo vệ ứng dụng</string>
@@ -102,7 +104,7 @@
     <string name="access_control_fingerprint_not_identified_msg">Không thể đọc vân tay.</string>
     <string name="access_control_need_password">"%s đã thêm thành công"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu Khóa ứng dụng</string>
-    <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi game</string>
+    <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi trò chơi</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_60">Sửa</string>
     <string name="action_button_text_60_80">Sửa</string>
@@ -182,7 +184,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Khi màn hình tắt, ứng dụng sẽ hoạt động trong nền mà không làm gián đoạn quá trình chiếu. Bấm phím Nguồn để bật lại màn hình.</string>
     <string name="all_address_choose_hint">Tất cả các số trong tỉnh này</string>
     <string name="allow_all">Cho phép tất cả</string>
-    <string name="already_close_gamebooster">Game Turbo đã tắt</string>
+    <string name="already_close_gamebooster">Tăng tốc trò chơi đã tắt</string>
     <string name="am">SA</string>
     <string name="anti_disturb_msg_detail">Tắt tất cả thông báo trừ cuộc gọi đến</string>
     <string name="anti_disturb_msg_title">Không làm phiền</string>
@@ -677,8 +679,8 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="auto_back_booster">Dừng tăng tốc</string>
     <string name="auto_booster_suc">Đã tăng tốc thành công</string>
     <string name="auto_clean_close">Tự động dọn dẹp đã tắt</string>
-    <string name="auto_data_back_booster">Game Turbo đã tắt. Các tính năng giao tiếp được khôi phục.</string>
-    <string name="auto_data_booster_suc">Game Turbo đang bật. Đã chuyển sang chế độ toàn màn hình.</string>
+    <string name="auto_data_back_booster">Tăng tốc trò chơi đã tắt. Các tính năng giao tiếp được khôi phục.</string>
+    <string name="auto_data_booster_suc">Tăng tốc trò chơi đang bật. Đã chuyển sang chế độ toàn màn hình.</string>
     <string name="auto_handle_title">CHUNG</string>
     <string name="auto_import_games">Đặt tất cả trò chơi vào một nơi</string>
     <string name="auto_send_correcting_msg">Tin nhắn trống để kiểm tra tự động qua tin nhắn SMS miễn phí</string>
@@ -715,7 +717,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="auto_task_notify_task_cancel_count_down_new">Thao tác tự động sẽ bị hủy sau %d giây</string>
     <string name="auto_task_notify_task_cancel_do">Hủy thao tác</string>
     <string name="auto_task_notify_task_canceled_summary">Bạn có thể thực hiện và nhận cuộc gọi</string>
-    <string name="auto_task_notify_task_canceled_summary2">Dường như bạn đang chơi game.</string>
+    <string name="auto_task_notify_task_canceled_summary2">Dường như bạn đang chơi trò chơi.</string>
     <string name="auto_task_notify_task_canceled_summary3">Đã hủy bởi Không gian thứ hai</string>
     <string name="auto_task_notify_task_canceled_summary4">Đã hủy bởi Không gian thứ nhất</string>
     <string name="auto_task_notify_task_canceled_title">Thao tác đã hủy</string>
@@ -1002,10 +1004,10 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="card_main_deepclean_wechat_action">Xóa</string>
     <string name="card_main_deepclean_wechat_summary">Xóa bộ nhớ đệm WeChat để giải phóng dung lượng</string>
     <string name="card_main_deepclean_wechat_title">Bộ nhớ đệm WeChat</string>
-    <string name="card_main_gamebooster_summary">Tăng ổn định kết nối để chơi game</string>
-    <string name="card_main_gamebooster_title">Game Turbo</string>
+    <string name="card_main_gamebooster_summary">Tăng ổn định kết nối để chơi trò chơi</string>
+    <string name="card_main_gamebooster_title">Tăng tốc trò chơi</string>
     <string name="card_main_hbassistant_summary">Sử dụng công cụ này để nhận Lì xì nhanh hơn</string>
-    <string name="card_main_hbassistant_title">Trợ giúp Lì xì</string>
+    <string name="card_main_hbassistant_title">Trợ lí Lì xì</string>
     <string name="card_main_monthreport_action">Xem</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
@@ -1132,7 +1134,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cpu_usage_process_run_time_little_time_new">Ít hơn %d phút</string>
     <string name="cpu_usage_view_action_btn_text">Chạm để xem</string>
     <string name="create_gamebooster_destop">Tạo lối tắt Màn hình chính thành công</string>
-    <string name="create_shortcut">Tạo lối tắt Game Turbo trên Màn hình chính</string>
+    <string name="create_shortcut">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
     <string name="cs_color_sense">Nhiệt độ màu</string>
     <string name="cs_func_toast_headset">Ngắt kết nối tai nghe để có thể sử dụng tính năng này</string>
     <string name="cs_func_toast_light">Chuyển sang camera trước để có thể sử dụng tính năng này</string>
@@ -1158,7 +1160,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cta_dialog_negative">Thoát</string>
     <string name="cta_dialog_positive">Đồng ý</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
-    <string name="cta_main_purpose">Chào mừng sử dụng Bảo mật! Bạn có thể dùng Bảo mật và mô-đun của nó (bao gồm thành phần bảo mật MIUI và dịch vụ hệ thống) để giải phóng dung lượng lưu trữ, quét virus thiết bị, kiểm soát việc sử dụng pin, tối ưu thiết bị để chơi game, quản lý ứng dụng, nhận cảnh báo sớm về động đất và nhiều tiện ích khác. Thành phần bảo mật MIUI sẽ kết nối internet và quét bảo mật khi bạn cài đặt ứng dụng và thanh toán.</string>
+    <string name="cta_main_purpose">Chào mừng sử dụng Bảo mật! Bạn có thể dùng Bảo mật và mô-đun của nó (bao gồm thành phần bảo mật MIUI và dịch vụ hệ thống) để giải phóng dung lượng lưu trữ, quét virus thiết bị, kiểm soát việc sử dụng pin, tối ưu thiết bị để chơi trò chơi, quản lý ứng dụng, nhận cảnh báo sớm về động đất và nhiều tiện ích khác. Thành phần bảo mật MIUI sẽ kết nối internet và quét bảo mật khi bạn cài đặt ứng dụng và thanh toán.</string>
     <string name="cta_settings">Cho phép kết nối internet và truy cập vị trí</string>
     <string name="current_network_state_not_need_diagnose">Kết nối Internet bình thường.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Để sử dụng danh sách chặn và thực hiện cuộc gọi đến số liên lạc khẩn cấp khi có cảnh báo động đất</string>
@@ -1614,7 +1616,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="fod_finger_notice_title">Đặt ngón tay của bạn trên màn hình</string>
     <string name="fod_finger_windows_tips">Xác minh vân tay của bạn</string>
     <string name="fod_tips_split_screen_more_than_half">Nhập mật khẩu</string>
-    <string name="forbid_autobright_summary">Độ sáng tự động sẽ tắt khi bạn chơi game và khôi phục sau khi bạn kết thúc trò chơi</string>
+    <string name="forbid_autobright_summary">Độ sáng tự động sẽ tắt khi bạn chơi trò chơi và khôi phục sau khi bạn kết thúc trò chơi</string>
     <string name="forbid_autobright_title">Sửa độ sáng màn hình</string>
     <string name="foreground_traffic">Nền trước %s</string>
     <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
@@ -1625,7 +1627,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="free_send_net_booster">Tăng tốc mạng miễn phí</string>
     <string name="free_send_net_booster_busniess">Nhận tăng tốc Xunlei miễn phí</string>
     <string name="free_send_net_booster_busniess_tip">Chạm để nhận</string>
-    <string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi game siêu mượt với tăng tốc mạng miễn phí.</string>
+    <string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi trò chơi siêu mượt với tăng tốc mạng miễn phí.</string>
     <string name="free_time_traffic">Giới hạn dữ liệu ngoài giờ cao điểm</string>
     <string name="free_time_traffic_hint">Nhập giới hạn dữ liệu ngoài giờ cao điểm</string>
     <string name="free_time_traffic_settings">Giới hạn dữ liệu ngoài giờ cao điểm</string>
@@ -1639,11 +1641,11 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="full_fill_oprator_and_location">Cung cấp thông tin và vị trí nhà cung cấp</string>
     <string name="full_fill_sim_location">Thiết lập vị trí trước</string>
     <string name="function_auto_reject_detail">"Giới thiệu tính năng này:
-1. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động.
+1. Khi bạn chơi trò chơi, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động.
 2. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
 3. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc."</string>
     <string name="function_auto_reject_detail_new">"Giới thiệu tính năng này:
-%1$d. Khi bạn chơi game, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động
+%1$d. Khi bạn chơi trò chơi, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ bị từ chối tự động
 %2$d. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người khác sẽ nghe thấy âm tin nhắn thông báo bạn đang bận.
 %3$d. Tính năng này chỉ được hỗ trợ bởi các nhà cung cấp dịch vụ di động ở Trung Quốc đại lục."</string>
     <string name="function_auto_reject_title">Từ chối cuộc VoLTE đến thẻ SIM không có dịch vụ dữ liệu</string>
@@ -1659,15 +1661,15 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="function_gwsd_title">Không cho phép các cuộc gọi đến làm gián đoạn kết nối SIM dữ liệu</string>
     <string name="function_oncall_not_close_network">Không ngắt kết nối đối với cuộc gọi</string>
     <string name="function_oncall_not_close_network_detail">"Giới thiệu tính năng này:
-%1$d. Tính năng này cho phép bạn luôn trực tuyến trong các phiên chơi game mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này kết nối với mạng 5G cụ thể.
+%1$d. Tính năng này cho phép bạn luôn trực tuyến trong các phiên chơi trò chơi mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này kết nối với mạng 5G cụ thể.
 %2$d. Nếu cả hai thẻ SIM đều không được kết nối với mạng 5G, thì SIM chính sẽ tự động từ chối các cuộc gọi đến.
 %3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.
 %4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
     <string name="function_shield_auto_bright">Tắt độ sáng tự động</string>
     <string name="function_shield_eye_shield">Tắt Chế độ đọc sách</string>
     <string name="function_shield_pull_notification_bar">Không mở Thanh thông báo</string>
-    <string name="function_shield_settings_title">Chặn tính năng dưới đây khi chơi game</string>
-    <string name="function_shield_summary">Chặn tính năng hệ thống được chọn khi chơi game</string>
+    <string name="function_shield_settings_title">Chặn tính năng dưới đây khi chơi trò chơi</string>
+    <string name="function_shield_summary">Chặn tính năng hệ thống được chọn khi chơi trò chơi</string>
     <string name="function_shield_three_finger">Chặn cử chỉ chụp ảnh màn hình</string>
     <string name="function_shield_title">Trải nghiệm nâng cao</string>
     <string name="function_shield_voice_trigger">Không đánh thức Mi AI bằng giọng nói</string>
@@ -1678,10 +1680,10 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="fw_oversea_content">Chặn cuộc gọi đến từ các số điện thoại nước ngoài</string>
     <string name="gallery_confirm_start_activity">%s không được phép truy cập Thư viện và các ứng dụng phương tiện xã hội. Ứng dụng này muốn truy cập ảnh được lưu trữ trên thiết bị này để chia sẻ các mục. Cho phép?</string>
     <string name="game_ad_recommendation">Mọi người đang chơi</string>
-    <string name="game_anti_disturb_msg">Không làm phiền khi chơi Game</string>
-    <string name="game_booster">Game Turbo</string>
-    <string name="game_booster_close">Game Turbo đã tắt</string>
-    <string name="game_booster_intro">Giới thiệu Game Turbo</string>
+    <string name="game_anti_disturb_msg">Không làm phiền khi chơi Trò chơi</string>
+    <string name="game_booster">Tăng tốc trò chơi</string>
+    <string name="game_booster_close">Tăng tốc trò chơi đã tắt</string>
+    <string name="game_booster_intro">Giới thiệu Tăng tốc trò chơi</string>
     <string name="game_booster_jump_webview">Vui lòng chờ…</string>
     <string name="game_booster_tab_top">Top</string>
     <string name="game_booster_title">Tăng tốc</string>
@@ -1696,8 +1698,8 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="game_wid_viewpoint_buttom">Nghỉ ngơi chốc lát.</string>
     <string name="gamebooster_lowbattery_notification_summary">Sạc thiết bị trước khi tắt nguồn.</string>
     <string name="gamebooster_main_activity_back">Quay lại</string>
-    <string name="gamebooster_network_dialog_cn_message">Bạn không thể sử dụng Game Turbo khi Bảo mật không được phép kết nối internet và truy cập vị trí của bạn. Cho phép ngay?</string>
-    <string name="gamebooster_network_dialog_message">Cho phép Bảo mật kết nối mạng để sử dụng tất cả tính năng của Game Turbo?</string>
+    <string name="gamebooster_network_dialog_cn_message">Bạn không thể sử dụng Tăng tốc trò chơi khi Bảo mật không được phép kết nối internet và truy cập vị trí của bạn. Cho phép ngay?</string>
+    <string name="gamebooster_network_dialog_message">Cho phép Bảo mật kết nối mạng để sử dụng tất cả tính năng của Tăng tốc trò chơi?</string>
     <string name="gamebooster_network_dialog_title">Vài tính năng không khả dụng</string>
     <string name="gamebox_ai_subtitle">Phụ đề AI</string>
     <string name="gamebox_app_not_find">Cài đặt ứng dụng trước.</string>
@@ -1784,14 +1786,14 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="gb_advance_settings_screen_hdr_summary">Tăng độ tương phản và tăng cường chi tiết cho các trò chơi</string>
     <string name="gb_advance_settings_touch">Điều khiển cảm ứng</string>
     <string name="gb_advance_settings_vibration_4d">Rung 4D</string>
-    <string name="gb_advance_settings_vibration_4d_summary">Rung khi bắn trong game</string>
-    <string name="gb_advance_settings_vibration_4d_summary2">Rung khi sử dụng kỹ năng trong game</string>
-    <string name="gb_already_in_game_list_tips">Mục này đã nằm trong game được thêm vào. Không thể thêm ở đây.</string>
+    <string name="gb_advance_settings_vibration_4d_summary">Rung khi bắn trong trò chơi</string>
+    <string name="gb_advance_settings_vibration_4d_summary2">Rung khi sử dụng kỹ năng trong trò chơi</string>
+    <string name="gb_already_in_game_list_tips">Mục này đã nằm trong trò chơi được thêm vào. Không thể thêm ở đây.</string>
     <string name="gb_already_in_video_list_tips">Mục này đã nằm trong ứng dụng video được thêm vào. Không thể thêm ở đây.</string>
     <string name="gb_application_not_find">Không có gì ở đây</string>
     <string name="gb_audition_instruction">Bấm và giữ để quay (%1$s-%2$s giây)</string>
     <string name="gb_audition_play_instruction">Sử dụng tai nghe để có hiệu quả tốt nhất</string>
-    <string name="gb_award_noti_message">Bật cập nhật nền Game for Peace trong Game Turbo để nhận phần thưởng</string>
+    <string name="gb_award_noti_message">Bật cập nhật nền Game for Peace trong Tăng tốc trò chơi để nhận phần thưởng</string>
     <string name="gb_award_noti_title">Phần thưởng Game for Peace tại đây!</string>
     <string name="gb_beauty_cold_light">Mát</string>
     <string name="gb_beauty_face">Làm đẹp</string>
@@ -1808,7 +1810,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="gb_description_image_button_reject">Từ chối</string>
     <string name="gb_description_image_button_video_answer">Gọi video</string>
     <string name="gb_dialog_game_uninstall_deleting">Đang gỡ cài đặt…</string>
-    <string name="gb_dialog_game_uninstall_loading">Đang tải game…</string>
+    <string name="gb_dialog_game_uninstall_loading">Đang tải trò chơi…</string>
     <string name="gb_dialog_game_uninstall_tips_message">Tất cả dữ liệu ứng dụng sẽ bị xóa.</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">Tất cả dữ liệu ứng dụng và ứng dụng kép liên quan sẽ bị xóa.</string>
     <string name="gb_dialog_game_uninstall_tips_title">Gỡ cài đặt %s</string>
@@ -1816,17 +1818,17 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="gb_dialog_record_way_ai_new">Quay video AI sẽ được lưu vào Gamebox và lưu trữ %d ngày.</string>
     <string name="gb_dialog_record_way_finish">Hoàn tất</string>
     <string name="gb_dialog_record_way_manual">Quay video dài tối đa 30 giây theo cách thủ công</string>
-    <string name="gb_dialog_record_way_manual_desc" formatted="false">Quay %d-%d giây video khi chơi game thủ công.</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Quay %d-%d giây video khi chơi trò chơi thủ công.</string>
     <string name="gb_dialog_record_way_manual_new">Quay video dài tối đa %d giây theo cách thủ công</string>
     <string name="gb_dialog_record_way_setting_tip_one">Tăng thiêu thụ điện năng và lag</string>
     <string name="gb_dialog_record_way_setting_tip_title">Tính năng này có thể gây ra các vấn đề sau:</string>
     <string name="gb_dialog_record_way_setting_tip_two">Xung đột với quay phim màn hình khác</string>
-    <string name="gb_dialog_record_way_setting_tips">Chú ý: Quay video khi chơi game sẽ tiêu thụ nhiều điện năng và xảy ra hiện tượng giật, lag.</string>
+    <string name="gb_dialog_record_way_setting_tips">Chú ý: Quay video khi chơi trò chơi sẽ tiêu thụ nhiều điện năng và xảy ra hiện tượng giật, lag.</string>
     <string name="gb_dialog_record_way_title">Chọn phương thức quay</string>
-    <string name="gb_first_guide_function_shiled_title">Tắt các tính năng hệ thống khi Game Turbo bật</string>
-    <string name="gb_first_guide_gamebox_des">Sử dụng lối tắt khi chơi game</string>
+    <string name="gb_first_guide_function_shiled_title">Tắt các tính năng hệ thống khi Tăng tốc trò chơi bật</string>
+    <string name="gb_first_guide_gamebox_des">Sử dụng lối tắt khi chơi trò chơi</string>
     <string name="gb_first_guide_handsfree_des">Trả lời cuộc gọi trong nền</string>
-    <string name="gb_first_guide_shortcut_des">Lối tắt Màn hình chính cho Game Turbo đã được tạo</string>
+    <string name="gb_first_guide_shortcut_des">Lối tắt Màn hình chính cho Tăng tốc trò chơi đã được tạo</string>
     <string name="gb_first_guide_title">Tăng tốc và hiệu suất cấp hệ thống</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Sử dụng trả lời nhanh</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Xem văn bản với nền trong suốt</string>
@@ -1837,22 +1839,22 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="gb_first_window_handsfree_title">Cuộc gọi rảnh tay</string>
     <string name="gb_first_window_start">Bắt đầu chơi</string>
     <string name="gb_first_window_summary">Tăng tốc và hiệu suất cấp hệ thống</string>
-    <string name="gb_first_window_title">Game Turbo</string>
-    <string name="gb_game_end_toast">Xem lại những khoảnh khắc đáng nhớ của game</string>
+    <string name="gb_first_window_title">Tăng tốc trò chơi</string>
+    <string name="gb_game_end_toast">Xem lại những khoảnh khắc đáng nhớ của trò chơi</string>
     <string name="gb_game_fill_desc">Nội dung có thể bị biến dạng trong một số trường hợp</string>
     <string name="gb_game_macro_bubble_tips">Thử combo</string>
     <string name="gb_game_macro_toast_tips">"Thử combo!
 Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_game_mode_change_btn_right">Khởi động lại</string>
-    <string name="gb_game_mode_change_message">Khởi động lại game để áp dụng các thay đổi ngay?</string>
+    <string name="gb_game_mode_change_message">Khởi động lại trò chơi để áp dụng các thay đổi ngay?</string>
     <string name="gb_game_mode_change_new">Chuyển đổi giữa các bố cục tại đây</string>
-    <string name="gb_game_mode_change_title">Khởi động lại game</string>
+    <string name="gb_game_mode_change_title">Khởi động lại trò chơi</string>
     <string name="gb_game_mode_choose_game_area">Khu vực kích hoạt</string>
     <string name="gb_game_mode_choose_title_new">Chọn bố cục</string>
-    <string name="gb_game_mode_empty">Không có game ở đây</string>
+    <string name="gb_game_mode_empty">Không có trò chơi ở đây</string>
     <string name="gb_game_mode_fill">Lấp màn hình</string>
     <string name="gb_game_mode_fill_type">Lấp màn hình</string>
-    <string name="gb_game_mode_new">Bố cục game</string>
+    <string name="gb_game_mode_new">Bố cục trò chơi</string>
     <string name="gb_game_mode_ratio">Gốc</string>
     <string name="gb_game_mode_ratio_type">Gốc</string>
     <string name="gb_game_mode_recommend">" (Kiến nghị)"</string>
@@ -1866,12 +1868,12 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_game_ratio_top">Trên</string>
     <string name="gb_game_time_toast">Hẹn giờ hiện khả dụng!</string>
     <string name="gb_game_tips_restart">Trò chơi sẽ được khởi động lại để áp dụng các thay đổi</string>
-    <string name="gb_game_video_bottom_tips">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau 7 ngày.</string>
-    <string name="gb_game_video_bottom_tips_new">Xem lại các khoảnh khắc quan trọng khi chơi game trong Game Turbo. Video sẽ tự động bị xóa sau %d ngày.</string>
+    <string name="gb_game_video_bottom_tips">Xem lại các khoảnh khắc quan trọng khi chơi trò chơi trong Tăng tốc trò chơi. Video sẽ tự động bị xóa sau 7 ngày.</string>
+    <string name="gb_game_video_bottom_tips_new">Xem lại các khoảnh khắc quan trọng khi chơi trò chơi trong Tăng tốc trò chơi. Video sẽ tự động bị xóa sau %d ngày.</string>
     <string name="gb_game_video_item_tag">Khoảnh khắc đáng nhớ</string>
     <string name="gb_game_video_page_delete_success">Xóa thành công</string>
-    <string name="gb_game_video_page_null">Quay lại các khoảnh khắc đáng nhớ khi chơi game</string>
-    <string name="gb_game_video_record_finish_tips">Đã lưu video được quay thủ công vào Game Turbo</string>
+    <string name="gb_game_video_page_null">Quay lại các khoảnh khắc đáng nhớ khi chơi trò chơi</string>
+    <string name="gb_game_video_record_finish_tips">Đã lưu video được quay thủ công vào Tăng tốc trò chơi</string>
     <string name="gb_game_video_save">Lưu</string>
     <string name="gb_game_video_save_tip">Lưu thành công</string>
     <string name="gb_game_video_type_ai">AI</string>
@@ -1909,9 +1911,10 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_predownload_dialog_cancel">Không, cảm ơn</string>
     <string name="gb_predownload_dialog_checked">Không hiển thị lại</string>
     <string name="gb_predownload_dialog_confirm">Bật</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Nội dung cập nhật game này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với Wi-Fi và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.&lt;br>&lt;br>Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố cập nhật trong nền&lt;/a> trước khi sử dụng tính năng này.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china">&lt;Data>Nội dung cập nhật trò chơi này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với Wi-Fi và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.&lt;br>&lt;br>Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố cập nhật trong nền&lt;/a> trước khi sử dụng tính năng này.&lt;/Data></string>
     <string name="gb_predownload_dialog_title">Cập nhật nền hiện khả dụng</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB nội dung cập nhật đã sẵn sàng trên thiết bị này. Bạn sẽ có thể sử dụng ngay khi phiên bản mới được phát hành.</string>
+	<string name="gb_predownload_message_new">Tự động cập nhật các trò chơi tương thích khi không sử dụng thiết bị</string>
     <string name="gb_predownload_noti_title">Đã cập nhật %s trong nền thành công</string>
     <string name="gb_predownload_receive">Nhận phần thưởng</string>
     <string name="gb_predownload_receive_error">Lỗi mạng. Thử lại.</string>
@@ -1926,25 +1929,25 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_shoulder_guide_title1">Thao tác</string>
     <string name="gb_shoulder_guide_title2">Liên tục</string>
     <string name="gb_shoulder_key">Nút vai</string>
-    <string name="gb_shoulder_key_add_show_btn">Hiển thị phím ảo khi chơi game</string>
+    <string name="gb_shoulder_key_add_show_btn">Hiển thị phím ảo khi chơi trò chơi</string>
     <string name="gb_shoulder_key_add_tips">Di chuyển [L] hoặc [R] đến vị trí tính năng bất kỳ để sử dụng chúng thông qua nút vai</string>
     <string name="gb_shoulder_key_btn_cancel">Hủy</string>
     <string name="gb_shoulder_key_btn_save_exit">Lưu</string>
-    <string name="gb_shoulder_key_dialog_message">Bạn có thể sử dụng hai nút vai đồng thời để khởi động Game Turbo khi bạn không chơi game.</string>
-    <string name="gb_shoulder_key_dialog_txt">Bạn có thể bật Game Turbo bằng cách sử dụng nút vai.</string>
+    <string name="gb_shoulder_key_dialog_message">Bạn có thể sử dụng hai nút vai đồng thời để khởi động Tăng tốc trò chơi khi bạn không chơi trò chơi.</string>
+    <string name="gb_shoulder_key_dialog_txt">Bạn có thể bật Tăng tốc trò chơi bằng cách sử dụng nút vai.</string>
     <string name="gb_shoulder_key_guide_btn_done">Tôi biết</string>
     <string name="gb_shoulder_key_guide_btn_next">Tiếp theo</string>
-    <string name="gb_shoulder_key_guide_tips">Cấu hình nút vai để chơi như game thủ chuyên nghiệp!</string>
+    <string name="gb_shoulder_key_guide_tips">Cấu hình nút vai để chơi như trò chơi thủ chuyên nghiệp!</string>
     <string name="gb_shoulder_key_guide_tips1">Mở hộp công cụ và cấu hình nút vai</string>
     <string name="gb_shoulder_key_light_effect">Hoạt ảnh màu</string>
     <string name="gb_shoulder_key_light_effect_color">Màu sắc</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">Hoạt ảnh màu sẽ hiển thị khi nút vai được bật và bạn đang chơi game</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">Hoạt ảnh màu sẽ hiển thị khi nút vai được bật và bạn đang chơi trò chơi</string>
     <string name="gb_shoulder_key_light_effect_title">Hoạt ảnh</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Bấm nút [L] hoặc [R] đến vị trí tính năng bất kỳ để kết thúc quá trình cài đặt</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">Sử dụng nút vai cho tính năng bạn chỉ định trong khi chơi game</string>
-    <string name="gb_shoulder_key_settings_summary">Sử dụng cả hai nút vai để khởi động Game Turbo khi bạn không chơi game</string>
-    <string name="gb_shoulder_key_settings_title">Sử dụng nút vai cho Game Turbo</string>
-    <string name="gb_shoulder_key_settings_title_new">Khởi động nhanh Game Turbo</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Sử dụng nút vai cho tính năng bạn chỉ định trong khi chơi trò chơi</string>
+    <string name="gb_shoulder_key_settings_summary">Sử dụng cả hai nút vai để khởi động Tăng tốc trò chơi khi bạn không chơi trò chơi</string>
+    <string name="gb_shoulder_key_settings_title">Sử dụng nút vai cho Tăng tốc trò chơi</string>
+    <string name="gb_shoulder_key_settings_title_new">Khởi động nhanh Tăng tốc trò chơi</string>
     <string name="gb_shoulder_set_left_right">Thiết lập [%s]</string>
     <string name="gb_shoulder_set_title">Bật nút vai để cài đặt cấu hình</string>
     <string name="gb_shoulder_set_title2">Di chuyển [%s] đến vị trí tính năng bất kỳ để sử dụng chúng thông qua kích hoạt pop-up</string>
@@ -1955,17 +1958,17 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_shoulder_update_left_right">Sửa %s</string>
     <string name="gb_sign_gift">Check in để nhận phần thưởng</string>
     <string name="gb_sign_gift_button_text">Nhận</string>
-    <string name="gb_sign_notification_summary">Chơi game không bị trễ mạng</string>
-    <string name="gb_sign_notification_title">Dùng thử Game Turbo miễn phí</string>
+    <string name="gb_sign_notification_summary">Chơi trò chơi không bị trễ mạng</string>
+    <string name="gb_sign_notification_title">Dùng thử Tăng tốc trò chơi miễn phí</string>
     <string name="gb_signed_gift_loading_fail">Không tải được</string>
     <string name="gb_signed_gift_loading_summary">Vui lòng chờ…</string>
     <string name="gb_signed_title">Đã check in tháng này</string>
     <string name="gb_smart_battery_surplus_new">Còn lại %1$s %2$s</string>
     <string name="gb_sound_audition">Dùng thử</string>
-    <string name="gb_storage_game_dialog_message">Bạn có thể tự động lưu trữ trò chơi trong Game Turbo. Chúng sẽ không xuất hiện trên Màn hình chính nếu bạn bật tính năng này. Bật ngay?</string>
-    <string name="gb_storage_game_uninstall">Gỡ cài đặt game</string>
-    <string name="gb_storage_summary">Không hiển thị game được thêm vào gamebox trên Màn hình chính</string>
-    <string name="gb_storage_title">Xóa game đã thêm từ Màn hình chính</string>
+    <string name="gb_storage_game_dialog_message">Bạn có thể tự động lưu trữ trò chơi trong Tăng tốc trò chơi. Chúng sẽ không xuất hiện trên Màn hình chính nếu bạn bật tính năng này. Bật ngay?</string>
+    <string name="gb_storage_game_uninstall">Gỡ cài đặt trò chơi</string>
+    <string name="gb_storage_summary">Không hiển thị trò chơi được thêm vào trò chơibox trên Màn hình chính</string>
+    <string name="gb_storage_title">Xóa trò chơi đã thêm từ Màn hình chính</string>
     <string name="gb_turbo_collimator_subtitle">Sử dụng thiết bị ngắm mục tiêu</string>
     <string name="gb_turbo_macro_subtitle">Thực hiện thao tác đỉnh cao</string>
     <string name="gb_turbo_shoulder_subtitle">Cài đặt bộ điều khiển trò chơi</string>
@@ -2023,11 +2026,11 @@ và khám phá thay đổi giọng nói của bạn!"</string>
     <string name="gb_voice_changer_user_vip_expired">Đã hết hạn</string>
     <string name="gb_voice_changer_user_vip_remain_time">Ngày hết hạn: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Quay lại các khoảnh khắc
-quan trọng khi chơi game"</string>
+quan trọng khi chơi trò chơi"</string>
     <string name="gb_wonderful_video_cancel">Hủy</string>
     <string name="gb_wonderful_video_checkall">Chọn tất cả</string>
     <string name="gb_wonderful_video_delete">Xóa</string>
-    <string name="gb_wonderful_video_goto_box">Mở Game Turbo</string>
+    <string name="gb_wonderful_video_goto_box">Mở Tăng tốc trò chơi</string>
     <string name="gb_wonderful_video_header_title">Hôm nay</string>
     <string name="gb_wonderful_video_save_suc">Đã lưu</string>
     <string name="gb_xunyou_gift_type_one">Tăng tốc Xunyou 1 ngày</string>
@@ -2044,8 +2047,8 @@ quan trọng khi chơi game"</string>
     <string name="gd_setting_group_custom_settings">Cá nhân</string>
     <string name="gd_setting_group_custom_vtb_apps">Ứng dụng video</string>
     <string name="gd_setting_group_title_switch">Bối cảnh</string>
-    <string name="gd_setting_gtb">Hiển thị khi chơi game</string>
-    <string name="gd_setting_gtb_desc">Tính năng đặc biệt cho game thủ</string>
+    <string name="gd_setting_gtb">Hiển thị khi chơi trò chơi</string>
+    <string name="gd_setting_gtb_desc">Tính năng đặc biệt cho trò chơi thủ</string>
     <string name="gd_setting_guide_one">Chạm để mở cửa sổ nổi</string>
     <string name="gd_setting_miui_dock">Luôn hiển thị</string>
     <string name="gd_setting_title">Thanh bên</string>
@@ -2101,20 +2104,20 @@ quan trọng khi chơi game"</string>
     <string name="gs_game_duration">Thời gian</string>
     <string name="gs_game_manual_record">Quay thủ công</string>
     <string name="gs_game_manual_record_subtitle_child">Bạn có thể gặp một số vấn đề trong khi sử dụng tính năng này:</string>
-    <string name="gs_game_manual_record_subtitle_child_carton">Quay video khi chơi game sẽ tiêu thụ nhiều điện năng và xảy ra hiện tượng giật, lag.</string>
+    <string name="gs_game_manual_record_subtitle_child_carton">Quay video khi chơi trò chơi sẽ tiêu thụ nhiều điện năng và xảy ra hiện tượng giật, lag.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Tính năng quay phim màn hình khác có thể không hoạt động đúng.</string>
     <string name="gs_game_net_priority">Ưu tiên kết nối</string>
     <string name="gs_game_net_priority_detail">Giới hạn tốc độ tải xuống để có đủ băng thông cho trò chơi</string>
     <string name="gs_game_performance">Hiệu suất</string>
-    <string name="gs_game_record_intro_tips">*Tính năng quay video game chỉ khả dụng đối với các game tương thích đã chọn</string>
-    <string name="gs_game_shortcut">Cải thiện trải nghiệm chơi game</string>
+    <string name="gs_game_record_intro_tips">*Tính năng quay video trò chơi chỉ khả dụng đối với các trò chơi tương thích đã chọn</string>
+    <string name="gs_game_shortcut">Cải thiện trải nghiệm chơi trò chơi</string>
     <string name="gs_gamebox">Lối tắt trong trò chơi</string>
     <string name="gs_gamebox_detail">Trượt từ cạnh trên của màn hình để xem</string>
     <string name="gs_gamebox_slip">Trượt xuống màn hình để mở</string>
     <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để tiết kiệm pin cho trò chơi</string>
-    <string name="gs_open_game_booster_summary">Tăng tốc mạng để chơi game</string>
+    <string name="gs_open_game_booster_summary">Tăng tốc mạng để chơi trò chơi</string>
     <string name="gs_performance_mode">Chế độ Hiệu suất</string>
-    <string name="gs_performance_mode_detail">Tối ưu hiệu suất hệ thống để chơi game</string>
+    <string name="gs_performance_mode_detail">Tối ưu hiệu suất hệ thống để chơi trò chơi</string>
     <string name="gs_show_way">Hướng màn hình chính</string>
     <string name="gs_show_way_horizontal">Ngang</string>
     <string name="gs_show_way_vertical">Dọc</string>
@@ -2129,53 +2132,53 @@ quan trọng khi chơi game"</string>
     <string name="gtb_brightness_dialog_sub_message">*Bạn có thể bật và tắt tính năng này trong Cài đặt.</string>
     <string name="gtb_casual_guide_toast">Khám phá nhiều hơn nữa trong Game</string>
     <string name="gtb_content_switch">Nội dung kiến nghị</string>
-    <string name="gtb_content_switch_summary">Nhận nội dung kiến nghị liên quan đến game</string>
+    <string name="gtb_content_switch_summary">Nhận nội dung kiến nghị liên quan đến trò chơi</string>
     <string name="gtb_deep_garbage_cleaning">Đang thực hiện dọn dẹp sâu…</string>
     <string name="gtb_dialog_btn_close">Tắt</string>
     <string name="gtb_dialog_btn_open">Bật</string>
-    <string name="gtb_dialog_hint_smart_5g">Bạn có thể bật và tắt tính năng này trong Game Turbo > Cài đặt.</string>
-    <string name="gtb_dialog_privacy_speed_message">Bạn sắp sử dụng Tăng tốc game Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
+    <string name="gtb_dialog_hint_smart_5g">Bạn có thể bật và tắt tính năng này trong Tăng tốc trò chơi > Cài đặt.</string>
+    <string name="gtb_dialog_privacy_speed_message">Bạn sắp sử dụng Tăng tốc trò chơi Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Tăng tốc Game Xunyou.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_title">Tăng tốc game Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">Bạn sắp sử dụng Công cụ thay đổi giọng nói game Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
+    <string name="gtb_dialog_privacy_speed_title">Tăng tốc trò chơi Xunyou</string>
+    <string name="gtb_dialog_privacy_voice_message">Bạn sắp sử dụng Công cụ thay đổi giọng nói trò chơi Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
     <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Công cụ thay đổi giọng nói Game Xunyou.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_voice_title">Công cụ thay đổi giọng nói game Xunyou</string>
-    <string name="gtb_dialog_summary_smart_5g">Mỗi khi Game Turbo phát hiện mạng 5G, sẽ ưu tiên kết nối thiết bị với mạng khả dụng tốt nhất để giảm độ trễ. Bật tính năng này ngay?</string>
+    <string name="gtb_dialog_privacy_voice_title">Công cụ thay đổi giọng nói trò chơi Xunyou</string>
+    <string name="gtb_dialog_summary_smart_5g">Mỗi khi Tăng tốc trò chơi phát hiện mạng 5G, sẽ ưu tiên kết nối thiết bị với mạng khả dụng tốt nhất để giảm độ trễ. Bật tính năng này ngay?</string>
     <string name="gtb_dialog_title_smart_5g">Tối ưu mạng 5G</string>
     <string name="gtb_dnd">Không làm phiền</string>
-    <string name="gtb_exit_game_to_gtb">Mở gamebox</string>
+    <string name="gtb_exit_game_to_gtb">Mở trò chơibox</string>
     <string name="gtb_exit_game_to_home">Quay lại Màn hình chính</string>
     <string name="gtb_garbage_clean">Giải phóng dung lượng</string>
     <string name="gtb_garbage_cleaned_tip">Giải phóng %1$s để tăng hiệu suất</string>
-    <string name="gtb_guide_accelerate">Chạm \"Tăng tốc\" để tối ưu chơi game</string>
-    <string name="gtb_guide_accelerated_tips">Game Turbo hiện được tối ưu cho trải nghiệm chơi game</string>
+    <string name="gtb_guide_accelerate">Chạm \"Tăng tốc\" để tối ưu chơi trò chơi</string>
+    <string name="gtb_guide_accelerated_tips">Tăng tốc trò chơi hiện được tối ưu cho trải nghiệm chơi trò chơi</string>
     <string name="gtb_guide_finish">Bỏ qua</string>
     <string name="gtb_guide_game_mode_tips">Chọn chế độ trò chơi ưu tiên</string>
     <string name="gtb_guide_gtb_button_done">Hoàn tất</string>
-    <string name="gtb_guide_gtb_community_desc">Chia sẻ trải nghiệm với cộng đồng game thủ</string>
+    <string name="gtb_guide_gtb_community_desc">Chia sẻ trải nghiệm với cộng đồng trò chơi thủ</string>
     <string name="gtb_guide_gtb_community_title">Cộng đồng</string>
     <string name="gtb_guide_gtb_func_desc">Nâng tầm trải nghiệm trò chơi</string>
-    <string name="gtb_guide_gtb_func_title">Game Turbo</string>
+    <string name="gtb_guide_gtb_func_title">Tăng tốc trò chơi</string>
     <string name="gtb_guide_gtb_game_effected">Đã áp dụng</string>
     <string name="gtb_guide_gtb_game_new">Mới</string>
-    <string name="gtb_guide_gtb_line_new">Thử Chế độ Hiệu suất trên Game Turbo!</string>
-    <string name="gtb_guide_gtb_line_new_global">Trượt để mở Game Turbo</string>
-    <string name="gtb_guide_gtb_line_xspace">Nâng tầm trải nghiệm chơi game với Game Turbo hoàn toàn mới!</string>
+    <string name="gtb_guide_gtb_line_new">Thử Chế độ Hiệu suất trên Tăng tốc trò chơi!</string>
+    <string name="gtb_guide_gtb_line_new_global">Trượt để mở Tăng tốc trò chơi</string>
+    <string name="gtb_guide_gtb_line_xspace">Nâng tầm trải nghiệm chơi trò chơi với Tăng tốc trò chơi hoàn toàn mới!</string>
     <string name="gtb_guide_small_window_app_desc">Sử dụng ứng dụng khác khi bạn đang chơi</string>
     <string name="gtb_guide_small_window_app_title">Cửa sổ nổi</string>
     <string name="gtb_intelligent_garbage_clean">Giải phóng dung lượng lưu trữ</string>
     <string name="gtb_memory_clean">Xóa bộ nhớ</string>
     <string name="gtb_mode_normal">Bình thường</string>
     <string name="gtb_mode_performance">Hiệu suất</string>
-    <string name="gtb_open_performance_mode_tip">Chế độ Hiệu suất sẽ cải thiện trải nghiệm chơi game đồng thời tăng mức tiêu thụ điện năng và làm nóng thiết bị.</string>
+    <string name="gtb_open_performance_mode_tip">Chế độ Hiệu suất sẽ cải thiện trải nghiệm chơi trò chơi đồng thời tăng mức tiêu thụ điện năng và làm nóng thiết bị.</string>
     <string name="gtb_phone_accelerate">Tăng hiệu suất</string>
     <string name="gtb_realtime_performance_monitoring">Giám sát hiệu suất</string>
     <string name="gtb_screenrecord">Quay video</string>
     <string name="gtb_screenshot">Ảnh chụp màn hình</string>
     <string name="gtb_screenshot_pinned">Ảnh chụp màn hình</string>
     <string name="gtb_setting">Cài đặt</string>
-    <string name="gtb_setting_item_summary_disable_ndds_sim">Chặn tất cả dịch vụ giao tiếp trên SIM hai khi chơi game để giữ kết nối ổn định và tránh chuyển đổi giữa các mạng. SIM hai sẽ được bỏ chặn khi bạn dừng chơi.</string>
-    <string name="gtb_setting_item_summary_smart_5g">Mỗi khi Game Turbo phát hiện mạng 5G, sẽ ưu tiên kết nối thiết bị với mạng khả dụng tốt nhất để giảm độ trễ.</string>
+    <string name="gtb_setting_item_summary_disable_ndds_sim">Chặn tất cả dịch vụ giao tiếp trên SIM hai khi chơi trò chơi để giữ kết nối ổn định và tránh chuyển đổi giữa các mạng. SIM hai sẽ được bỏ chặn khi bạn dừng chơi.</string>
+    <string name="gtb_setting_item_summary_smart_5g">Mỗi khi Tăng tốc trò chơi phát hiện mạng 5G, sẽ ưu tiên kết nối thiết bị với mạng khả dụng tốt nhất để giảm độ trễ.</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Tăng tốc độ kết nối lên 10%-20% khi kết nối với bộ định tuyến Mi/Redmi</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Tăng tốc độ kết nối lên %1$s-%2$s khi kết nối với bộ định tuyến Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Tự động giảm độ sáng màn hình</string>
@@ -2185,14 +2188,14 @@ quan trọng khi chơi game"</string>
     <string name="gtb_spring_festival_back_game">Quay lại trò chơi</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Không thể kết nối mạng</string>
     <string name="gtb_spring_festival_goto_gameturbo">Xem</string>
-    <string name="gtb_spring_festival_guide">"Switch to landscape mode
-to join our egg hunt!"</string>
+    <string name="gtb_spring_festival_guide">"Chuyển sang chế độ ngang
+tham gia cuộc săn trứng của chúng tôi!"</string>
     <string name="gtb_spring_festival_guide_know">Tôi biết</string>
-    <string name="gtb_spring_festival_push_active_desc">Win phones, smart devices and coupons</string>
-    <string name="gtb_spring_festival_push_active_title">Easter egg hunt is on!</string>
-    <string name="gtb_spring_festival_push_desc">Join our egg hunt to win prizes</string>
-    <string name="gtb_spring_festival_push_egg_title">You received an Easter egg!</string>
-    <string name="gtb_spring_festival_push_gift_title">Egg hunt prizes are coming!</string>
+    <string name="gtb_spring_festival_push_active_desc">Giành được điện thoại, thiết bị thông minh và phiếu giảm giá</string>
+    <string name="gtb_spring_festival_push_active_title">Cuộc săn trứng Phục sinh đã bắt đầu!</string>
+    <string name="gtb_spring_festival_push_desc">Tham gia cuộc săn trứng của chúng tôi để giành giải thưởng</string>
+    <string name="gtb_spring_festival_push_egg_title">Bạn đã nhận được một quả trứng Phục sinh!</string>
+    <string name="gtb_spring_festival_push_gift_title">Giải thưởng săn trứng đang đến!</string>
     <string name="gtb_spring_festival_push_join">Tham gia</string>
     <string name="gtb_spring_festival_push_see">Xem</string>
     <string name="gtb_spring_festival_shortcut_create">Tạo lối tắt Màn hình chính</string>
@@ -3059,6 +3062,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_main_sub_battery_text_hour_minute">Còn lại %1$s giờ %2$s phút</string>
 	<string name="pc_more_battery_feature">Tính năng bổ sung</string>
     <string name="pc_more_power_rank_apps">Thêm ứng dụng</string>
+	<string name="pc_night_charge_protect_summary">Tự động điều chỉnh thời gian sạc để duy trì tuổi thọ của pin</string>
+    <string name="pc_night_charge_protect_title">Bảo vệ sạc vào ban đêm</string>
     <string name="pc_night_sleep_mode_summary">Tự động tắt một số tính năng để tiết kiệm pin khi phát hiện thiết bị đã ngủ</string>
     <string name="pc_night_sleep_mode_title">Chế độ ban đêm</string>
     <string name="pc_no_more_remind">Không nhắc nhở</string>
@@ -3082,6 +3087,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_search_keywords_capacity">Dung lượng Pin</string>
     <string name="pc_search_keywords_property">Hiệu suất</string>
     <string name="pc_settings_title">Pin</string>
+	<string name="pc_hide_more_power_rank_apps">Ẩn</string>
+	<string name="pc_toady_charge_time_title">Số lần sạc của hôm nay</string>
     <string name="pc_smart_discharge_checkbox_summary">Khi sử dụng các ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn. Tính năng này sẽ không hoạt động khi bật Tiết kiệm pin hoặc Tiết kiệm pin tối ưu.</string>
     <string name="pc_smart_discharge_checkbox_title">Ngắt kết nối tự động khi sạc</string>
     <string name="pc_smart_discharge_drop_down_title">Cài đặt tự động ngắt kết nối</string>
@@ -3106,7 +3113,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="percentage">%d%%</string>
-    <string name="perfermance_optimization_summary">Tránh quá nhiệt và các vấn đề liên quan đến phần cứng</string>
+    <string name="perfermance_optimization_summary">Để tránh quá nhiệt và các vấn đề liên quan đến phần cứng, không nên mở tính năng này quá lâu hoặc quá nhiều</string>
     <string name="perfermance_optimization_title">Tối ưu hiệu suất</string>
     <string name="perm_intercept_content">Cấp cho ứng dụng này quyền dưới đây: %1s?</string>
     <string name="perm_intercept_notification_title">Cho phép %1s sử dụng thông báo sẽ cho phép ứng dụng này thực hiện các hành động sau:</string>
@@ -3884,9 +3891,12 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacyapp_number_unmasked_text">Nội dung thông báo có thể ẩn</string>
     <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
-    <string name="process_vpnsdkmanager_label">Game Turbo</string>
+    <string name="process_vpnsdkmanager_label">Tăng tốc trò chơi</string>
     <string name="promotion">Quảng cáo</string>
     <string name="prompt_all">Yêu cầu tất cả</string>
+    <string name="prompt_danger">Nguy hiểm</string>
+    <string name="prompt_safe">An toàn</string>
+    <string name="prompt_unknown">Không xác định</string>
     <string name="prompt_input_time_illegal">Không thể đặt thời gian này, hãy thay đổi và thử lại</string>
     <string name="protocol_exception_title">Chẩn đoán giao thức mạng</string>
     <string name="protocol_loop_back_exception_summary">Kiểm tra vòng lặp trên máy thất bại. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Phản hồi và gửi báo lỗi từ thiết bị của bạn.</string>
@@ -4097,7 +4107,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="share_uid_app">Ứng dụng có quyền chia sẻ</string>
     <string name="share_uid_instruction">Ứng dụng này cần chia sẻ quyền với ứng dụng sau để cung cấp dịch vụ hệ thống liên quan. Bất cứ khi nào bạn thay đổi trạng thái quyền đối với ứng dụng này, trạng thái tương ứng cũng sẽ được thay đổi đối với ứng dụng sau.</string>
     <string name="shield_keyboard_detail">Chạm hai lần vào phím để bật lại</string>
-    <string name="shield_keyboard_summary">Giới hạn phím và cử chỉ toàn màn hình khi chơi game</string>
+    <string name="shield_keyboard_summary">Giới hạn phím và cử chỉ toàn màn hình khi chơi trò chơi</string>
     <string name="shield_keyboard_title">Giới hạn phím và cử chỉ</string>
     <string name="shortcut_title_scan">Quét</string>
     <string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
@@ -4107,7 +4117,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
     <string name="shutdown_cancel_reminder">Không tắt nguồn</string>
     <string name="shutdown_cancel_reminder_detail">Thiết bị đã không tắt nguồn do bạn đang thực hiện cuộc gọi</string>
-    <string name="shutdown_cancel_reminder_detail2">Dường như bạn đang chơi game. Hẹn giờ tắt nguồn đã bị hủy.</string>
+    <string name="shutdown_cancel_reminder_detail2">Dường như bạn đang chơi trò chơi. Hẹn giờ tắt nguồn đã bị hủy.</string>
     <string name="signal_exception_4g_bad_rsrq">Tín hiệu nhận hiện tại kém. Tốc độ kết nối có thể thấp.</string>
     <string name="signal_exception_none_4g_5g_network">Bạn đang sử dụng mạng di động 2G/3G. Tốc độ kết nối có thể thấp.</string>
     <string name="signal_exception_summary">Không thể kết nối mạng ở khu vực này.</string>
@@ -4579,6 +4589,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="summary_virus_cloudscan">Tải lên tên và chi tiết ứng dụng và quét bằng cách sử dụng nhận dạng virus trực tuyến</string>
     <string name="summary_virus_update">Cập nhật định dạng virus mới nhất tự động</string>
     <string name="summary_xiaomi_roaming">0.01 NDT/MB đối với chuyển vùng dữ liệu di động.</string>
+	<string name="safety">Bảo mật</string>
     <string name="sunday">Chủ nhật</string>
     <string name="sunday_short">CN</string>
     <string name="sunday_shortest">CN</string>
@@ -4757,7 +4768,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
     <string name="the_valentines_day">Ngày Lễ tình nhân</string>
     <string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
-    <string name="thermal_tips_message">Chơi game trong chế độ Hiệu suất có thể dẫn đến vấn đề quá nhiệt.</string>
+    <string name="thermal_tips_message">Chơi trò chơi trong chế độ Hiệu suất có thể dẫn đến vấn đề quá nhiệt.</string>
     <string name="thermal_tips_title">Chú ý</string>
     <string name="third_application">Ứng dụng đã cài đặt</string>
     <string name="third_desktop_dialog_content">Các ứng dụng trình khởi chạy từ bên thứ ba có thể dẫn đến các sự cố như rò rỉ dữ liệu, hao pin và lag bất thường, v.v., chỉ những ứng dụng được xác minh bởi MIUI mới có thể được đặt làm trình khởi chạy mặc định.</string>
@@ -5006,7 +5017,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="use_immediately">Sử dụng</string>
     <string name="use_other_ime_warn">Bàn phím bên thứ ba có thể ghi lại mọi thứ bạn nhập, bao gồm mật khẩu và các thông tin nhạy cảm khác.</string>
     <string name="user_define_title">Thêm quy tắc</string>
-    <string name="user_guide">Trượt lên để khám phá thêm nhiều game thú vị</string>
+    <string name="user_guide">Trượt lên để khám phá thêm nhiều trò chơi thú vị</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
     <string name="vb_advanced_settings">Ảnh</string>
@@ -5072,7 +5083,7 @@ Bật tính năng này sẽ tắt tính năng kia."</string>
     <string name="vb_video_effects_some_headphone">Hỗ trợ mẫu tai nghe đã chọn</string>
     <string name="vb_video_effects_spatial">Theo dõi chuyển động của đầu</string>
     <string name="vb_video_effects_spatial_summary">"Điều chỉnh âm thanh nổi ba chiều dựa trên di chuyển của đầu
-*Chỉ hỗ trợ mẫu tai nghe chơi game"</string>
+*Chỉ hỗ trợ mẫu tai nghe chơi trò chơi"</string>
     <string name="vb_video_effects_spatial_summary_new">Trải nghiệm cảm giác không gian và hướng nâng cao cho âm thanh được hỗ trợ khi sử dụng tai nghe</string>
     <string name="vb_video_effects_srs_premium_sound">Âm thanh</string>
     <string name="vb_video_super_division">Nâng độ phân giải</string>
@@ -6348,7 +6359,7 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="malicious_win_small">Cửa sổ quá nhỏ</string>
      <string name="mi_pay_lucky">Ví tiền Xiaomi</string>
      <string name="miliao_lucky_warning">Lì xì Miliao</string>
-     <string name="no_lucky_money">Lì xì vẫn chưa được nhận</string>
+     <string name="no_lucky_money">Lì xì vẫn chưa nhận được</string>
      <string name="more_setting_summary">Hỗ trợ các loại lời nhắc Lì xì, cửa sổ nổi trên màn hình, không làm phiền thời gian và các chức năng khác</string>
      <string name="not_available">Không có</string>
      <string name="number_of_lucky_money">Bạn đã được nhắc về tổng số Lì xì</string>

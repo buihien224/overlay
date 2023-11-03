@@ -832,6 +832,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="pref_collapse_sp_messages_summary">Tự động nhóm thông báo SMS</string>
     <string name="pref_delivery_ringtone">Gửi âm</string>
     <string name="pref_edit_smsc_address">Trung tâm dịch vụ tin nhắn ngắn (SMSC)</string>
+	<string name="pref_feedback_title">Phản hồi</string>
     <string name="pref_forward_title">Chuyển tiếp</string>
     <string name="pref_group_ad_mms_recognition">Nhóm tin nhắn quảng cáo</string>
     <string name="pref_hide_verification_code_summary">Tự động ẩn mật khẩu sử dụng một lần trong thông báo tin nhắn trên Màn hình khóa</string>
@@ -877,6 +878,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="pref_title_ad_mms_recognition">Nhận dạng tin nhắn quảng cáo</string>
     <string name="pref_title_allow_si_sl_push">Cho phép tin nhắn đẩy WAP (SI/SL)</string>
     <string name="pref_title_auto_delete">Xóa tin nhắn cũ</string>
+	<string name="pref_title_authority_management">Chi tiết quyền</string>
     <string name="pref_title_card_format">Định dạng thẻ chia sẻ</string>
     <string name="pref_title_delivery_reports">Trạng thái gửi</string>
     <string name="pref_title_enable_ad_notification">Tin nhắn quảng cáo</string>
@@ -884,6 +886,20 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="pref_title_fwd_sender_info">Chuyển tiếp thông tin người gửi</string>
     <string name="pref_title_manage_sim_messages">Dung lượng thẻ SIM</string>
     <string name="pref_title_miui_card">Gửi qua thẻ</string>
+	<string name="pref_title_perm_audio">Ghi âm thanh</string>
+    <string name="pref_title_perm_calander">Truy cập lịch</string>
+    <string name="pref_title_perm_call">Thực hiện cuộc gọi</string>
+    <string name="pref_title_perm_camera">Sử dụng máy ảnh</string>
+    <string name="pref_title_perm_location">Vị trí</string>
+    <string name="pref_title_perm_read_audio">Truy cập tệp âm thanh</string>
+    <string name="pref_title_perm_read_call_log">Truy cập lịch sử cuộc gọi</string>
+    <string name="pref_title_perm_read_contacts">Truy cập danh bạ</string>
+    <string name="pref_title_perm_read_files">Truy cập tập tin và tài liệu</string>
+    <string name="pref_title_perm_read_images_video">Truy cập ảnh và video</string>
+    <string name="pref_title_perm_read_mms">Đọc SMS</string>
+    <string name="pref_title_perm_send_mms">Gửi SMS</string>
+    <string name="pref_title_perm_storage">Truy cập bộ nhớ</string>
+    <string name="pref_title_perm_write_contacts">Chỉnh sửa liên hệ</string>
     <string name="pref_title_mms_auto_retrieval">Tải xuống nội dung MMS tự động</string>
     <string name="pref_title_mms_delete">Giới hạn tin nhắn đa phương tiện</string>
     <string name="pref_title_mms_read_reports">Báo đã đọc MMS</string>
@@ -1189,6 +1205,9 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="saved_to_sim">Đã lưu</string>
     <string name="sdcard_has_not_enough_space">Không đủ dung lượng trên thẻ SD</string>
     <string name="search">Tin nhắn</string>
+	<string name="search_sms">Tìm kiếm tin nhắn</string>
+    <string name="second_mms_introduction">Chuyển sang không gian thứ hai để có thể xem tin nhắn riêng tư</string>
+    <string name="second_mms_switch">Chuyển đổi</string>
     <string name="search_empty">Không tìm thấy tin nhắn</string>
     <string name="search_hint">Tìm kiếm tin nhắn</string>
     <string name="search_keyword_mms">Tin nhắn;SMS;MMS;Văn bản;Nhắn tin</string>
@@ -1199,8 +1218,6 @@ Hãy xem những ứng dụng được kiến nghị!"</string>
     <string name="search_show_more_results">Hiển thị thêm</string>
     <string name="search_title_mms">Tin nhắn</string>
     <string name="seats">Số ghế</string>
-    <string name="second_mms_introduction">Vào Không gian thứ hai</string>
-    <string name="second_mms_switch">Chuyển</string>
     <string name="secs">giây</string>
     <string name="security_alert_desc"><font color="#7f000000">"Người gửi không có trong danh sách liên hệ của bạn\"
 \" "</font></string>
