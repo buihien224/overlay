@@ -635,5 +635,12 @@
     <string name="wednesday_shortest">Th 4</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="yesterday">Hôm qua</string>
-	<string name="com_mi_globalbrowser">Trình duyệt Mi</string>															
+	<string name="com_mi_globalbrowser">Trình duyệt Mi</string>			
+    <string name="handset_text_unsupported_handset_insert">Chạm để xem chi tiết</string>
+    <string name="handset_text_usb_handset_insert">Chạm để mở cài đặt bổ sung</string>
+    <string name="handset_title_unsupported_handset_insert">Bộ chuyển đổi tai nghe USB không được hỗ trợ</string>
+    <string name="handset_title_usb_handset_insert">Phát âm thanh qua cổng USB</string>
+    <string name="softap_notifif_summary">%d kết nối</string>
+    <string name="softap_notifif_title">Điểm phát sóng "%s" đang bật</string>
+    <string name="softap_stat_toast">Điểm phát sóng đang bật</string>
 </resources>

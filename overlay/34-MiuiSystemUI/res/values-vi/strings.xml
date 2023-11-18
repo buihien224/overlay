@@ -2130,8 +2130,8 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="status_bar">Thanh trạng thái</string>
     <string name="status_bar_airplane">Chế độ máy bay</string>
     <string name="status_bar_alarm">Báo thức</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
+    <string name="status_bar_clock_date_format">"E, dd/MM - e/N 'Â.L'"</string>
+    <string name="status_bar_clock_date_format_12">"E, dd/MM - e/N 'Â.L'"</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
@@ -3885,16 +3885,10 @@ Vẫn hiển thị chúng?"</string>
     <string name="quick_settings_bt_state_change_message_on">Bluetooth đã bật</string>
     <string name="quick_settings_cellular_state_change_message_off">Dữ liệu di động đã tắt</string>
     <string name="quick_settings_cellular_state_change_message_on">Dữ liệu di động đã bật</string>
-    <string name="quick_settings_contrast_label">Tương phản</string>
-    <string name="quick_settings_contrast_medium">Trung bình</string>
-    <string name="quick_settings_contrast_standard">Tiêu chuẩn</string>
     <string name="quick_settings_dnd_state_change_message_off">Không làm phiền đã tắt</string>
     <string name="quick_settings_dnd_state_change_message_on">Không làm phiền đã bật</string>
     <string name="quick_settings_flashlight_state_change_message_off">Đèn pin đã tắt</string>
     <string name="quick_settings_flashlight_state_change_message_on">Đèn pin đã bật</string>
-    <string name="quick_settings_font_scaling_label">Cỡ chữ</string>
-    <string name="quick_settings_googlehome_label">Google Home</string>
-    <string name="quick_settings_googlepay_label">Google Pay</string>
     <string name="quick_settings_hotspot_state_change_message_off">Chế độ phát Wi-Fi đã tắt</string>
     <string name="quick_settings_hotspot_state_change_message_on">Chế độ phát Wi-Fi đã bật</string>
     <string name="quick_settings_location_state_change_message_off">Truy cập vị trí đã tắt</string>
@@ -3915,11 +3909,12 @@ Vẫn hiển thị chúng?"</string>
     <string name="quick_settings_state_change_message_on">%1$s đã bật</string>
     <string name="quick_settings_sync_state_change_message_off">Đồng bộ hóa đã tắt</string>
     <string name="quick_settings_sync_state_change_message_on">Đồng bộ hóa đã bật</string>
-    <string name="quick_settings_tiles">mặc định</string>
     <string name="quick_settings_vibrate_state_change_message_off">Rung đã tắt</string>
     <string name="quick_settings_vibrate_state_change_message_on">Rung đã bật</string>
     <string name="quick_settings_wifi_state_change_message_off">WLAN đã tắt</string>
     <string name="quick_settings_wifi_state_change_message_on">WLAN đã bật</string>
     <string name="quick_settings_wlan_state_change_message_off">WLAN đã tắt</string>
     <string name="quick_settings_wlan_state_change_message_on">WLAN đã bật</string>
+    <string name="strong_toast_charging">Đang sạc</string>
+    <string name="strong_toast_quick_charging">Sạc nhanh</string>
 </resources>

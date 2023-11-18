@@ -206,6 +206,11 @@
         <item>Phần trăm (cạnh biểu tượng)</item>
         <item>Thanh trên cùng</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Đồ họa</item>
+        <item>Phần trăm (trong biểu tượng)</item>
+        <item>Phần trăm (bên cạnh biểu tượng)</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Chưa được chỉ định</item>
         <item>LTE</item>
