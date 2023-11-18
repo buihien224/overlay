@@ -10956,4 +10956,17 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="zone_menu_by_region">Chọn theo khu vực</string>
     <string name="zone_time_type_dst">Giờ mùa hè</string>
     <string name="zone_time_type_standard">Giờ chuẩn</string>
+    <string name="more_connection">Nhiều tùy chọn kết nối hơn</string>
+    <string name="notification_control_center_new">Thông báo &amp; thanh trạng thái</string>
+    <string name="notification_style_settings">Kiểu thông báo</string>
+    <string name="title_show_notification_icon">Hiển thị biểu tượng thông báo</string>
+    <string name="title_smart_device_control">Điều khiển thiết bị thông minh</string>
+    <string name="title_wordless_mode">Không hiển thị nhãn biểu tượng</string>
+    <string name="display_settings_new">Hiển thị &amp; độ sáng</string>
+    <string name="dark_mode_settings">Tùy chọn chế độ tối</string>
+    <string name="background_blur_enable">Hiệu ứng mờ nâng cao</string>
+    <string name="background_blur_enable_summary">Thêm hiệu ứng render như làm mờ trên hệ thống để mang lại trải nghiệm hình ảnh tốt hơn</string>
+    <string name="background_blur_message">Bật tính năng này có thể sử dụng nhiều năng lượng hơn và làm cho thiết bị nóng lên. Bật không?</string>
+    <string name="fingerprint_face_password_unlock_new">Dấu vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
+    <string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
 </resources>
