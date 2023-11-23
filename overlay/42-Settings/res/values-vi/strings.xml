@@ -168,19 +168,28 @@
     <string name="accessibility_feature_state_on">Đang bật</string>
     <string name="accessibility_global_gesture_preference_title">Dùng phím âm lượng làm phím tắt</string>
     <string name="accessibility_haptic">Khả năng truy cập</string>
-    <string name="accessibility_hearingaid_active_device_summary">%1$s hoạt động</string>
-    <string name="accessibility_hearingaid_adding_summary">Thêm thiết bị trợ thính</string>
+    <string name="accessibility_hearing_device_about_title">Về thiết bị nghe</string>
+    <string name="accessibility_hearing_device_connected_title">Thiết bị nghe</string>
+    <string name="accessibility_hearing_device_control">Điều khiển thiết bị nghe</string>
+    <string name="accessibility_hearing_device_footer_summary">Đảm bảo thiết bị nghe của bạn đã được bật và sẵn sàng kết nối</string>
+    <string name="accessibility_hearing_device_pairing_page_title">Kết nối thiết bị nghe</string>
+    <string name="accessibility_hearing_device_pairing_title">Kết nối thiết bị mới</string>
+    <string name="accessibility_hearing_device_saved_title">Thiết bị đã lưu</string>
+    <string name="accessibility_hearing_device_shortcut_title">Lối tắt thiết bị nghe</string>
+    <string name="accessibility_hearingaid_active_device_summary">%1$s đang hoạt động</string>
+    <string name="accessibility_hearingaid_adding_summary">Thêm thiết bị nghe</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Tiếp tục</string>
-    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, tai trái và tai phải</string>
-    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, chỉ tai trái</string>
-    <string name="accessibility_hearingaid_more_device_summary">%1$s + 1 thiết bị khác</string>
-    <string name="accessibility_hearingaid_not_connected_summary">Chưa kết nối thiết bị trợ thính nào</string>
-    <string name="accessibility_hearingaid_pair_instructions_message">Trên màn hình tiếp theo, hãy nhấn vào máy trợ thính. Bạn có thể phải ghép nối riêng tai trái và tai phải.
+    <string name="accessibility_hearingaid_intro">Bạn có thể sử dụng các thiết bị trợ thính, cấy ghép ôi và các thiết bị khuếch đại âm thanh khác với điện thoại của bạn</string>
+    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, trái và phải</string>
+    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, trái</string>
+    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 thiết bị khác</string>
+    <string name="accessibility_hearingaid_not_connected_summary">Không có thiết bị nghe nào được kết nối</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">"Trên màn hình tiếp theo, chạm vào tai nghe của bạn. Bạn có thể cần kết nối tai trái và tai phải một cách riêng biệt.
 
-Đảm bảo đã bật máy trợ thính và máy ở trạng thái sẵn sàng ghép nối.</string>
-    <string name="accessibility_hearingaid_pair_instructions_title">Ghép nối máy trợ thính</string>
-    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, chỉ tai phải</string>
-    <string name="accessibility_hearingaid_title">Thiết bị trợ thính</string>
+    Đảm bảo tai nghe của bạn đã được bật và sẵn sàng kết nối."</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Kết nối thiết bị nghe</string>
+    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, phải</string>
+    <string name="accessibility_hearingaid_title">Thiết bị nghe</string>
     <string name="accessibility_interactive_haptics_category_title">Các phản hồi xúc giác có tính tương tác</string>
     <string name="accessibility_introduction_title">Giới thiệu về %1$s</string>
     <string name="accessibility_lock_screen_progress">Đã dùng %1$d/%2$d ký tự</string>
@@ -206,6 +215,10 @@ Nút hỗ trợ tiếp cận sẽ hiển thị trên màn hình bên trên các 
 
 Để tránh điều này, bạn có thể thay đổi phím tắt phóng to từ 3 lần nhấn thành một tuỳ chọn khác.
 <annotation id="link">Thay đổi chế độ cài đặ</annotation>t</string>
+    <string name="accessibility_captioning_preference_intro">Tùy chỉnh kích thước và kiểu chữ chú thích để dễ đọc hơn</string>
+    <string name="accessibility_captioning_primary_switch_title">Hiển thị chú thích</string>
+    <string name="captioning_appearance_title">Kích thước và kiểu chú thích</string>
+    <string name="accessibility_captioning_preference_summary">Các tùy chọn chú thích này không được hỗ trợ bởi tất cả các ứng dụng phương tiện</string>
     <string name="accessibility_magnification_triple_tap_warning_negative_button">Huỷ</string>
     <string name="accessibility_magnification_triple_tap_warning_positive_button">Vẫn tiếp tục</string>
     <string name="accessibility_magnification_triple_tap_warning_title">Phím tắt này có thể làm chậm bàn phím</string>
@@ -5168,11 +5181,11 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="material_timepicker_select_time">Chọn thời gian</string>
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
     <string name="max_aspect_settings_all_app_display_loading">Vui lòng chờ…</string>
-    <string name="max_cpu10_info">Mười nhân Mạnh nhất </string>
-    <string name="max_cpu2_info">Hai nhân Mạnh nhất </string>
-    <string name="max_cpu4_info">Bốn nhân Mạnh nhất </string>
-    <string name="max_cpu6_info">Sáu nhân Mạnh nhất </string>
-    <string name="max_cpu8_info">Tám nhân Mạnh nhất </string>
+    <string name="max_cpu10_info">"Mười nhân Mạnh nhất: "</string>
+    <string name="max_cpu2_info">"Hai nhân Mạnh nhất: "</string>
+    <string name="max_cpu4_info">"Bốn nhân Mạnh nhất: "</string>
+    <string name="max_cpu6_info">"Sáu nhân Mạnh nhất: "</string>
+    <string name="max_cpu8_info">"Tám nhân Mạnh nhất: "</string>
     <string name="max_fingerprint_number_reached">Không thể thêm nhiều hơn 5 vân tay. Để thêm vân tay mới, hãy xóa vân tay hiện tại trước.</string>
     <string name="max_fingerprint_reached_toast">Bạn có thể thêm đến 5 vân tay</string>
     <string name="maximum_memory_use">Sử dụng bộ nhớ tối đa</string>
@@ -7112,9 +7125,11 @@ Bluetooth</string>
     <string name="resetting_second_space_passwd">Đang đặt lại mật khẩu Không gian thứ hai</string>
     <string name="resident_timezone_summary">Đồng hồ thứ hai</string>
     <string name="resolution_fhd">FHD+</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (tiết kiệm pin)</string>
     <string name="resolution_qhd">WQHD+</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (tăng cường chi tiết)</string>
     <string name="resolution_sub_title">MIUI có thể đóng ứng dụng chạy nền khi chuyển đổi độ phân giải</string>
-    <string name="resolver_settings_label">Sắp xếp</string>
+    <string name="resolver_settings_label">Sắp xếp</string>t
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="restore_default_apn_completed">Đã đặt lại xong các tùy chọn cài đặt APN mặc định về trạng thái ban đầu.</string>
     <string name="restore_device_id_content">Kiến nghị cá nhân sẽ được đặt lại</string>
@@ -7720,6 +7735,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="security_password_category_name">Khóa màn hình</string>
     <string name="security_passwords_title">Quyền riêng tư</string>
     <string name="security_patch">Bản cập nhật bảo mật Android</string>
+    <string name="security_patch_subtitle">"Bản cập nhật bảo mật Android: "</string>
     <string name="security_privacy_settings_title">Riêng tư</string>
     <string name="security_relative">Bảo mật</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Đã thêm khuôn mặt và các vân tay</string>
@@ -10965,6 +10981,7 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="background_blur_enable">Hiệu ứng mờ nâng cao</string>
     <string name="background_blur_enable_summary">Thêm hiệu ứng render như làm mờ trên hệ thống để mang lại trải nghiệm hình ảnh tốt hơn</string>
     <string name="background_blur_message">Bật tính năng này có thể sử dụng nhiều năng lượng hơn và làm cho thiết bị nóng lên. Bật không?</string>
+    <string name="background_blur_title">Bật hiệu ứng mờ nâng cao</string>
     <string name="fingerprint_face_password_unlock_new">Dấu vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
     <string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
     <string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
@@ -11025,4 +11042,37 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="app_cache_optimization">Tối ưu bộ nhớ cache ứng dụng</string>
     <string name="app_cache_optimization_summary">Sau khi bật tính năng này, khởi động lại thiết bị của bạn để nó có hiệu lực</string>
     <string name="select_gpo_version_title">Chọn Phiên bản GPO</string>
+    <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
+    <string name="view_face_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/Facial-recognition/%1$s/>Tuyên bố quyền riêng tư về \"Dữ liệu khuôn mặt &amp;#038; màn hình khóa\"&lt;/a> trước khi tiếp tục.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/setting-fingerprint/%1$s/>Tuyên bố quyền riêng tư về \"Dấu vân tay &amp;#038; màn hình khóa\"&lt;/a> trước khi tiếp tục.</Data></string>
+    <string name="location_time_zone_detection_auto_is_on">Vị trí có thể được sử dụng để đặt múi giờ</string>
+    <string name="privacy_input_mode">Nhập liệu an toàn</string>
+    <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím được ủy quyền bởi Xiaomi</string>
+    <string name="modifier_keys_default_summary">Mặc định</string>
+    <string name="modifier_keys_done">Hoàn tất</string>
+    <string name="modifier_keys_meta">Phím hoạt động</string>
+    <string name="modifier_keys_picker_summary">Chọn một phím mới cho %1$s:</string>
+    <string name="modifier_keys_picker_title">Chọn phím điều chỉnh</string>
+    <string name="modifier_keys_reset">Đặt lại</string>
+    <string name="modifier_keys_reset_message">Bạn có chắc chắn muốn đặt lại tất cả các phím điều chỉnh về mặc định không?</string>
+    <string name="modifier_keys_reset_title">Đặt lại tất cả</string>
+    <string name="modifier_keys_settings">Các phím điều chỉnh</string>
+    <string name="modifier_keys_settings_summary">Thay đổi hành vi của các phím</string>
+    <string name="modify_default_browser_message">Nếu bạn đặt một ứng dụng của bên thứ ba làm trình duyệt mặc định, có thể nó sẽ bắt đầu thu thập lịch sử duyệt web và dữ liệu khác của bạn. Vẫn đặt chứ?</string>
+    <string name="keyboard_options_category">Tùy chọn</string>
+    <string name="flash_notifications_about_title">Về thông báo bằng đèn flash</string>
+    <string name="flash_notifications_description">Về tính năng này</string>
+    <string name="flash_notifications_intro">Bật đèn flash của camera hoặc màn hình khi bạn nhận được thông báo hoặc khi chuông báo thức kêu</string>
+    <string name="flash_notifications_intro_without_camera_flash">Bật đèn màn hình khi bạn nhận được thông báo hoặc khi chuông báo thức kêu</string>
+    <string name="flash_notifications_keywords">flash, đèn, người khiếm thính, mất thính giác</string>
+    <string name="flash_notifications_note">"\"Beam for notifications\" hiển thị âm thanh thông báo và nhạc chuông bằng đèn flash của camera và màn hình. Nếu bạn nhạy cảm với ánh sáng, hãy sử dụng tính năng này cẩn thận."</string>
+    <string name="flash_notifications_preview">Xem trước</string>
+    <string name="flash_notifications_summary">Sử dụng đèn flash của camera hoặc hiển thị tia sáng màu trên màn hình khi có thông báo hoặc khi thiết bị đang reo</string>
+    <string name="flash_notifications_summary_off">Tắt</string>
+    <string name="flash_notifications_summary_on_camera">Bật / Đèn flash của camera</string>
+    <string name="flash_notifications_summary_on_camera_and_screen">Bật / Đèn flash của camera và màn hình</string>
+    <string name="flash_notifications_summary_on_screen">Bật / Đèn flash của màn hình</string>
+    <string name="flash_notifications_title">Tia sáng cho thông báo</string>
+
+
 </resources>

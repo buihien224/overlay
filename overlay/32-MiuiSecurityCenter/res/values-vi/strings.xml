@@ -3639,6 +3639,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="priority_storage_settings_summary">Nếu không phát hiện thẻ SD, dữ liệu người dùng sẽ được lưu tự động vào bộ nhớ trong điện thoại của bạn.</string>
     <string name="priority_storage_summary">Chọn vị trí để lưu dữ liệu của bạn</string>
     <string name="priority_storage_title">Cài đặt lưu trữ</string>
+    <string name="privacy">Riêng tư</string>
 	<string name="privacy_and_safety">Riêng tư &amp; bảo mật</string>
     <string name="privacy_app_behavior_summary">Tự khởi chạy, quyền, và nhiều thứ khác</string>
     <string name="privacy_app_behavior_title">Lịch sử hành vi ứng dụng</string>

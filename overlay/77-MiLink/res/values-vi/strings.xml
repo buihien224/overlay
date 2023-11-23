@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_settings_summary_connection_service">Cho phép thiết bị của bạn tương tác với nhau qua kết nối không dây</string>
+    <string name="circulate_cta_app_name">Liên kết Xiaomi</string>
+    <string name="connect_settings_application_ecological">Kết hợp ứng dụng</string>
+    <string name="connect_settings_connection_service">Liên kết Xiaomi</string>
+    <string name="connect_settings_corp_network">Hỗ trợ mạng</string>
+</resources>

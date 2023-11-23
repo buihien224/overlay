@@ -1194,6 +1194,9 @@ khả dụng"</string>
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">Ảnh được chụp vào %s</string>
     <string name="image_with_time_and_location">Ảnh được chụp vào %1$s. Vị trí: %2$s.</string>
+    <string name="immersion_menu_all_photos">Tất cả các mục</string>
+    <string name="immersion_menu_camera_photos">Album máy ảnh</string>
+    <string name="immersion_menu_photo_switch_notice">Chạm để chọn liệu có hiển thị tất cả các mục hay chỉ Album máy ảnh ở đây</string>
     <string name="impunity_declaration_settings">Thông báo kết nối internet</string>
     <string name="impunity_declaration_summary">Hiển thị thông báo kết nối internet lần tới khi bạn mở Thư viện</string>
     <string name="initializing_cloud">Đang khởi tạo…</string>

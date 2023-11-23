@@ -1936,7 +1936,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="quick_settings_sim_disabled">" (Đã tắt)"</string>
     <string name="quick_settings_state_saved">Đã lưu</string>
     <string name="quick_settings_state_wifi_select_nearby_ap">Chọn mạng Wi-Fi lân cận</string>
-    <string name="quick_settings_state_wlan_select_nearby_ap">Select WLAN networks nearby</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Chọn mạng Wi-Fi lân cận</string>
     <string name="quick_settings_sync_label">Đồng bộ</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Để thêm một mục, bấm và giữ, sau đó kéo vào phần trên của bảng điều khiển.</string>
     <string name="quick_settings_ui_mode_night_label">Giao diện tối</string>
@@ -1955,7 +1955,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="quick_settings_wifi_is_off">Wi-Fi tắt</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_secondary_label_transient">Đang bật…</string>
-    <string name="quick_settings_wlan_is_off">WLAN if off</string>
+    <string name="quick_settings_wlan_is_off">WLAN tắt</string>
     <string name="quick_settings_work_mode_label">Ứng dụng công việc</string>
     <string name="quick_step_accessibility_toggle_overview">Bật/tắt chế độ xem Tổng quan</string>
     <string name="rapid_charge_mode_tip">Sạc nhanh</string>
