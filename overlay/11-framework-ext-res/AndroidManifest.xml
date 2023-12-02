@@ -14,7 +14,7 @@
     <overlay
         android:priority="100"
         android:targetPackage="com.miui.rom"
-        android:isStatic="true" />
+        android:isStatic="true" android:requiredSystemPropertyName="bhlnk.hypervs.overlay" android:requiredSystemPropertyValue="true" />
     <application
         android:hasCode="false"
         android:extractNativeLibs="false" />
