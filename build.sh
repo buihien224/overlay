@@ -47,8 +47,5 @@ fi
 rm -rf $(find -type d -name build)
 
 
-#sed -i "s/versionName: miuivs-2.1.0.4/versionName: miuivs-2.5.ST/g" $(find -type f -name apktool.yml)
-#sed -i "s/versionCode: '28'/versionCode: '33'/g" $(find -type f -name apktool.yml)
-#sed -i "s/targetSdkVersion: '28'/targetSdkVersion: '33'/g" $(find -type f -name apktool.yml)
-#sed -i "s/minSdkVersion: '28'/minSdkVersion: '31'/g" $(find -type f -name apktool.yml)
-#sed -i "s/compileSdkVersionCodename="6.0-2438415"/compileSdkVersionCodename="6.0-2438415"/g" $(find -type f -name apktool.yml)
+#sed -i 's/versionName: [^ ]*/versionName: VS-1.0.ST/g' $(find -type f -name apktool.yml)
+#sed -i 's/apkFileName: miuivs\./apkFileName: HyperVS\./g' $(find -type f -name apktool.yml)

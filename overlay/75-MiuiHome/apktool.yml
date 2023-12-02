@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuitmp.com.miui.home.apk
+apkFileName: HyperVS.com.miui.home.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.8.1
 versionInfo:
   versionCode: '439147446'
-  versionName: TMP-RELEASE
+  versionName: VS-1.0.ST

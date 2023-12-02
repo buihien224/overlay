@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.MIMediaEditor.apk
+apkFileName: HyperVS.MIMediaEditor.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.6.1-dirty
 versionInfo:
   versionCode: '33'
-  versionName: miuivs-2.2.0.6
+  versionName: VS-1.0.ST

@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.Personalassistant.apk
+apkFileName: HyperVS.Personalassistant.apk
 compressionType: false
 doNotCompress:
 - AndroidManifest.xml
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.6.1-dirty
 versionInfo:
   versionCode: '33'
-  versionName: miuivs-2.5.ST
+  versionName: VS-1.0.ST

@@ -1,5 +1,5 @@
 !!brut.androlib.apk.ApkInfo
-apkFileName: miuivs.Floatingwindows.apk
+apkFileName: HyperVS.Floatingwindows.apk
 compressionType: false
 doNotCompress:
 - AndroidManifest.xml
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.8.1
 versionInfo:
   versionCode: '33'
-  versionName: miuivs-2.5.ST
+  versionName: VS-1.0.ST

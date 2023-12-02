@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: miuivs.BlockedNumberProvider.apk
+apkFileName: HyperVS.BlockedNumberProvider.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -21,4 +21,4 @@ usesFramework:
 version: 2.6.1-dirty
 versionInfo:
   versionCode: '33'
-  versionName: miuivs-2.5.ST
+  versionName: VS-1.0.ST

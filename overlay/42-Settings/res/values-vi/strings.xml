@@ -7129,7 +7129,7 @@ Bluetooth</string>
     <string name="resolution_qhd">WQHD+</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (tăng cường chi tiết)</string>
     <string name="resolution_sub_title">MIUI có thể đóng ứng dụng chạy nền khi chuyển đổi độ phân giải</string>
-    <string name="resolver_settings_label">Sắp xếp</string>t
+    <string name="resolver_settings_label">Sắp xếp</string>
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="restore_default_apn_completed">Đã đặt lại xong các tùy chọn cài đặt APN mặc định về trạng thái ban đầu.</string>
     <string name="restore_device_id_content">Kiến nghị cá nhân sẽ được đặt lại</string>
@@ -11058,7 +11058,6 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="modifier_keys_reset_title">Đặt lại tất cả</string>
     <string name="modifier_keys_settings">Các phím điều chỉnh</string>
     <string name="modifier_keys_settings_summary">Thay đổi hành vi của các phím</string>
-    <string name="modify_default_browser_message">Nếu bạn đặt một ứng dụng của bên thứ ba làm trình duyệt mặc định, có thể nó sẽ bắt đầu thu thập lịch sử duyệt web và dữ liệu khác của bạn. Vẫn đặt chứ?</string>
     <string name="keyboard_options_category">Tùy chọn</string>
     <string name="flash_notifications_about_title">Về thông báo bằng đèn flash</string>
     <string name="flash_notifications_description">Về tính năng này</string>
