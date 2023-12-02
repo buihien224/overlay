@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="miuivs.com.miui.mediaeditor" platformBuildVersionCode="33" platformBuildVersionName="13">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="hypervs.com.miui.mediaeditor" platformBuildVersionCode="33" platformBuildVersionName="13">
     
     
     <overlay android:isStatic="true" android:priority="1" android:targetPackage="com.miui.mediaeditor"/>

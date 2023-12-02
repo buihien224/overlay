@@ -5,7 +5,7 @@
     android:compileSdkVersion="33"
     android:compileSdkVersionCodename="13"
     coreApp="true"
-    package="miuivs.com.miui.rom"
+    package="hypervs.com.miui.rom"
     platformBuildVersionCode="33"
     platformBuildVersionName="13">
     <uses-sdk

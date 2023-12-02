@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="miuitmp.com.goodix.fingerprint.setting" platformBuildVersionCode="33" platformBuildVersionName="2.1.29.02">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="hypervs.com.goodix.fingerprint.setting" platformBuildVersionCode="33" platformBuildVersionName="2.1.29.02">
     <overlay android:isStatic="true" android:priority="1" android:targetPackage="com.goodix.fingerprint.setting"/>
     <application android:hasCode="false" android:extractNativeLibs="false" />
 </manifest>

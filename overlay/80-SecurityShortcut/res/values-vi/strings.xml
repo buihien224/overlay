@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="activity_title_antispam">Danh sách chặn</string>
+    <string name="activity_title_antivirus">Quét bảo mật</string>
+    <string name="activity_title_garbage_cleanup">Bộ dọn rác</string>
+    <string name="activity_title_license_manager">Quản lý quyền</string>
+    <string name="activity_title_networkassistants">Sử dụng dữ liệu</string>
+    <string name="activity_title_power_manager">Tối ưu pin</string>
+    <string name="app_name">Bảo mật</string>
+    <string name="auto_task_main_title">Các nhiệm vụ tự động</string>
+    <string name="btn_text_network_speed_detail">Kết nối</string>
+    <string name="btn_text_power_cleanup">Dọn sạch sâu</string>
+    <string name="btn_text_quick_cleanup">Dọn dẹp</string>
+    <string name="card_main_deepclean_wechat_title">Bộ nhớ cache WeChat</string>
+    <string name="game_booster">Tăng tốc Game</string>
+    <string name="menu_text_antivirus">Quét bảo mật</string>
+    <string name="menu_text_antivirus_kddi">Quét bảo mật</string>
+    <string name="menu_text_garbage_cleanup">Bộ dọn rác</string>
+    <string name="uninstall_warning_content">Bảo mật là một ứng dụng hệ thống. Bạn sẽ không thể thực hiện quét virus sau khi gỡ bỏ nó.</string>
+    <string name="uninstall_warning_title">Gỡ bỏ Bảo mật ngay bây giờ?</string>
+</resources>
