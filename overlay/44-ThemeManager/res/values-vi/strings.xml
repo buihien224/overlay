@@ -1484,4 +1484,5 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="large_icon_warning_not_install">Cài đặt %s</string>
     <string name="large_icon_warning_not_install_msg">Cài đặt %s để có thể sử dụng Siêu biểu tượng. Cài đặt ngay?</string>
     <string name="theme_detail_widget_title">Tiện ích</string>
+    <string name="historical_wallpaper">Đã sử dụng gần đây</string>
 </resources>
