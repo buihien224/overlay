@@ -116,6 +116,7 @@
     <string name="activity_title_antivirus">Quét bảo mật</string>
     <string name="activity_title_antivirus_kddi">Quét bảo mật</string>
     <string name="activity_title_apps_manager">Ứng dụng</string>
+    <string name="activity_title_apps_settings">Ứng dụng</string>
     <string name="activity_title_auto_start_manager">Tự khởi chạy</string>
     <string name="activity_title_auto_start_manager_global">Tự khởi chạy nền</string>
     <string name="activity_title_garbage_cleanup">Dọn dẹp</string>
@@ -521,7 +522,6 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_manager_start_by">Đã khởi chạy qua %s</string>
     <string name="app_manager_system_mobile_disable">Tắt dữ liệu</string>
 	<string name="app_manager_systemapp_setting">Cài đặt ứng dụng hệ thống</string>
-    <string name="app_manager_tab_app">Ứng dụng</string>
     <string name="app_manager_tab_manager">Quản lý</string>
     <string name="app_manager_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
     <string name="app_manager_thumbnail_blur_title">Xem trước nhòe ứng dụng</string>
@@ -6459,4 +6459,5 @@ Không bao giờ bỏ lỡ bất kỳ Lì xì nào nữa"</string>
      <string name="wakepath_delete_app_start_other_app">"Nếu tiếp tục, bạn sẽ phải cấp lại quyền cho %1$s để mở %2$s. Vẫn tiếp tục?"</string>
      <string name="wakepath_manager_title">Quản lý khởi động chuỗi</string>
      <string name="warn_function_no_work">&lt;u>Không thể nhắc nhở chính xác khi có lì xì？&lt;/u></string>
+     <string name="app_manager_tab_app">Ứng dụng</string>
 </resources>

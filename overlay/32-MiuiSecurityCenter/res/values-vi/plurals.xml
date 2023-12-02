@@ -1066,4 +1066,8 @@ Hãy nghỉ ngơi!"</item>
          <item quantity="other">%s ứng dụng</item>
          <item quantity="one">%s ứng dụng</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="one">Cập nhật %d ứng dụng</item>
+        <item quantity="other">Cập nhật %d ứng dụng</item>
+    </plurals>
 </resources>
