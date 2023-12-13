@@ -5,7 +5,7 @@ dir=$(pwd)
 recp() {
 	apkp=$(ls $dir/overlay | grep $1)
 	apk1=${apkp:3}
-	apk2=Hypervs.$apk1
+	apk2=hypervs.$apk1
 
 	echo $apkp
 	echo $apk1
@@ -14,7 +14,7 @@ recp() {
 	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
 	if [[ -f output/$apk2.temp  ]]; then
-		zipalign -p -v 4 output/$apk2.temp output/$apk2.apk
+		./bin/zipalign -p -v 4 output/$apk2.temp output/$apk2.apk
 		apksigner sign --ks $dir/bin/miuivs --ks-pass pass:linkcute output/$apk2.apk
 		rm -rf output/$apk2.temp output/$apk2.apk.idsig
 		echo "Success"
