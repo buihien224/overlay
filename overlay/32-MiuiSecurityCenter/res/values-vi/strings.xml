@@ -6460,4 +6460,9 @@ Không bao giờ bỏ lỡ bất kỳ Lì xì nào nữa"</string>
      <string name="wakepath_manager_title">Quản lý khởi động chuỗi</string>
      <string name="warn_function_no_work">&lt;u>Không thể nhắc nhở chính xác khi có lì xì？&lt;/u></string>
      <string name="app_manager_tab_app">Ứng dụng</string>
+     <string name="permission_precise_location">Vị trí chính xác</string>
+     <string name="permission_precise_location_summary">Khi tính năng này được tắt, ứng dụng chỉ có thể truy cập vị trí gần đúng của bạn</string>
+     <string name="permission_action_virtual_common_summary">Cấp quyền cho ứng dụng nhưng trả về các tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
+     <string name="permission_action_virtual_phone_summary">Cấp quyền cho ứng dụng nhưng không cho phép truy cập vào số điện thoại thực của SIM</string>
+     <string name="app_manager_share_apk">Chia sẻ</string>
 </resources>
