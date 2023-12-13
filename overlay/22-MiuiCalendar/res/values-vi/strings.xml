@@ -1493,4 +1493,5 @@ Hãy kiểm tra cài đặt mạng và thử lại."</string>
     <string name="date_calculate_tab">Tính ngày</string>
     <string name="date_calculate_today">%d ngày</string>
     <string name="date_calculate_when">Bắt đầu</string>
+    <string name="start_date_calculate">Tính</string>
 </resources>
