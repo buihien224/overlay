@@ -10547,6 +10547,7 @@ bạn cũng có thể sử dụng mạng của người dùng khác.</string>
     <string name="wifitrackerlib_admin_restricted_network">Không được tổ chức của bạn cho phép</string>
     <string name="wifitrackerlib_auto_connect_disable">Tính năng tự động kết nối đang tắt</string>
     <string name="wifitrackerlib_available_via_app">Được cung cấp qua %1$s</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Kiểm tra kết nối internet...</string>
     <string name="wifitrackerlib_connected_via_app">Đã kết nối qua %1$s</string>
     <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. <annotation id="url">Tìm hiểu thê</annotation>m</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Đang hoàn tất đăng ký…</string>

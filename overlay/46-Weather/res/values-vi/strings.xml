@@ -723,4 +723,6 @@ Mở"</string>
     <string name="yes_vote_ratio">Dành cho %1$s%%</string>
     <string name="yesterday">Hôm qua</string>
     <string name="your_location">Vị trí của bạn</string>
+    <string name="act_find_city_location_button_text">Lấy vị trí hiện tại</string>
+    <string name="act_find_city_location_title">Vị trí hiện tại</string>
 </resources>

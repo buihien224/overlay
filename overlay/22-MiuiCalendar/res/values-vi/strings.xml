@@ -1486,4 +1486,11 @@ Hãy kiểm tra cài đặt mạng và thử lại."</string>
     <string name="yesterday">Hôm qua</string>
     <string name="yiji_app_download_card_lebal">Tải xuống ứng dụng</string>
     <string name="month_medium_november">Tháng 11</string>
+    <string name="date_calculate">Tính ngày</string>
+    <string name="date_calculate_days">Nhập số ngày</string>
+    <string name="date_calculate_direction_content_description">Hướng hiện tại: %1s.</string>
+    <string name="date_calculate_result">Kết quả</string>
+    <string name="date_calculate_tab">Tính ngày</string>
+    <string name="date_calculate_today">%d ngày</string>
+    <string name="date_calculate_when">Bắt đầu</string>
 </resources>

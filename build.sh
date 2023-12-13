@@ -5,7 +5,7 @@ dir=$(pwd)
 recp() {
 	apkp=$(ls $dir/overlay | grep $1)
 	apk1=${apkp:3}
-	apk2=miuivs.$apk1
+	apk2=Hypervs.$apk1
 
 	echo $apkp
 	echo $apk1

@@ -2733,7 +2733,6 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 <string name="biometric_app_setting_name">Sử dụng sinh trắc học</string>
 <string name="biometric_dialog_default_subtitle">Sử dụng sinh trắc học của bạn để tiếp tục</string>
 <string name="biometric_error_generic">Lỗi xác thực</string>
-
 <string name="biometric_or_screen_lock_app_setting_name">Sử dụng sinh trắc học hoặc màn hình khóa</string>
 <string name="biometric_or_screen_lock_dialog_default_subtitle">Sử dụng sinh trắc học hoặc màn hình khóa để tiếp tục</string>
 <string name="bluetooth_a2dp_audio_route_id">đường đi âm thanh Bluetooth A2DP</string>
@@ -2752,7 +2751,6 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 <string name="concurrent_display_notification_power_save_title">Màn hình kép không khả dụng</string>
 <string name="concurrent_display_notification_thermal_content">Màn hình kép không khả dụng vì điện thoại của bạn đang trở nên quá nóng</string>
 <string name="concurrent_display_notification_thermal_title">Thiết bị quá nóng</string>
-<string name="config_bandwidthEstimateSource">bandwidth_estimator</string>
 <string name="crossSimFormat_spn_cross_sim_calling">%s Cuộc gọi Dự phòng</string>
 <string name="csd_dose_reached_warning">Tiếp tục nghe ở âm lượng cao?
 
@@ -2765,7 +2763,6 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 <string name="device_policy_manager_service">Dịch vụ Quản lý Chính sách Thiết bị</string>
 <string name="device_state_notification_settings_button">Đi đến Cài Đặt</string>
 <string name="device_state_notification_turn_off_button">Tắt</string>
-<string name="dismiss_action">Đóng</string>
 <string name="display_rotation_camera_compat_toast_after_rotation">Xoay để có cái nhìn tốt hơn</string>
 <string name="display_rotation_camera_compat_toast_in_multi_window">Mở %s toàn màn hình để có cái nhìn tốt hơn</string>
 <string name="dream_preview_title">Xem trước, %1$s</string>
@@ -2850,14 +2847,11 @@ Hãy thử chạm nhẹ khi thiết lập dấu vân tay.</string>
 <string name="mte_override_notification_title">MTE thử nghiệm được kích hoạt</string>
 <string name="music_recognition_manager_service">Dịch vụ Quản lý Nhận diện Âm nhạc</string>
 <string name="nas_upgrade_notification_content">Hành động và câu trả lời được đề xuất bây giờ được cung cấp bởi thông báo nâng cao. Android Adaptive Notifications không còn được hỗ trợ nữa.</string>
-<string name="nas_upgrade_notification_disable_action">Tắt</string>
-<string name="nas_upgrade_notification_enable_action">OK</string>
 <string name="nas_upgrade_notification_learn_more_action">Tìm hiểu thêm</string>
 <string name="nas_upgrade_notification_learn_more_content">Thông báo nâng cao thay thế cho Android Adaptive Notifications trong Android 12. Tính năng này hiển thị hành động và câu trả lời được đề xuất, và tổ chức thông báo của bạn.
 
 Thông báo nâng cao có thể truy cập nội dung thông báo, bao gồm thông tin cá nhân như tên liên hệ và tin nhắn. Tính năng này cũng có thể bỏ qua hoặc phản hồi thông báo, chẳng hạn như trả lời cuộc gọi điện thoại và kiểm soát Chế Độ Không Làm Phiền.</string>
 <string name="nas_upgrade_notification_title">Thông báo nâng cao</string>
-<string name="not_selected">không được chọn</string>
 <string name="notification_action_check_bg_apps">Kiểm tra ứng dụng hoạt động</string>
 <string name="notification_channel_abusive_bg_apps">Hoạt động nền</string>
 <string name="notification_channel_accessibility_magnification">Phóng to</string>
@@ -2967,7 +2961,6 @@ Thông báo nâng cao có thể truy cập nội dung thông báo, bao gồm th�
 <string name="permlab_updatePackagesWithoutUserAction">Cập nhật ứng dụng mà không cần sự tương tác của người dùng</string>
 <string name="permlab_use_exact_alarm">Lên lịch báo động hoặc nhắc nhở sự kiện</string>
 <string name="permlab_uwb_ranging">Xác định vị trí tương đối giữa các thiết bị Ultra-Wideband gần nhau</string>
-
 <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
 <string name="reduce_bright_colors_feature_name">Tăng tối đa</string>
 <string name="region_picker_section_suggested_bilingual">Khu vực được đề xuất</string>
@@ -2981,7 +2974,6 @@ Thông báo nâng cao có thể truy cập nội dung thông báo, bao gồm th�
 <string name="screen_lock_app_setting_name">Sử dụng khóa màn hình</string>
 <string name="screen_lock_dialog_default_subtitle">Nhập mã khóa màn hình để tiếp tục</string>
 <string name="select_multiple_keyboards_layout_notification_title">Cấu hình bàn phím vật lý</string>
-<string name="selected">đã chọn</string>
 <string name="sensor_privacy_notification_channel_label">Quyền riêng tư cảm biến</string>
 <string name="sensor_privacy_start_use_camera_notification_content_title">Mở khóa camera thiết bị</string>
 <string name="sensor_privacy_start_use_dialog_turn_on_button">Mở khóa</string>
