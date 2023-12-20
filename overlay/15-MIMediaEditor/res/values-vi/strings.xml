@@ -96,8 +96,8 @@
     <string name="agreement_required_tip">(Bắt buộc)</string>
     <string name="agreement_summary">Tài liệu pháp lý</string>
     <string name="am">SA</string>
-    <string name="app_name">Chỉnh sửa Thư viện</string>
-    <string name="app_photoshop_name">Chỉnh sửa Thư viện</string>
+    <string name="app_name">Chỉnh sửa Ảnh</string>
+    <string name="app_photoshop_name">Chỉnh sửa Ảnh</string>
     <string name="app_summary">Sửa ảnh và video</string>
     <string name="app_summary_2">Lưu trữ, quản lý và sửa ảnh và video trên thiết bị này</string>
     <string name="art_still_cancel_download">Hủy</string>
@@ -593,7 +593,7 @@
     <string name="grant_permission_shortcut">Cho phép ứng dụng này tạo Lối tắt Màn hình chính trước.</string>
     <string name="grant_permission_storage">Cho phép ứng dụng này truy cập lưu trữ trước.</string>
     <string name="grant_permission_storage_unlock">Mở khóa thiết bị và cho phép ứng dụng này truy cập lưu trữ trước.</string>
-    <string name="grant_permission_text">Chỉnh sửa thư viện cần quyền sau để có thể hoạt động bình thường: %s.</string>
+    <string name="grant_permission_text">Chỉnh sửa Ảnh cần quyền sau để có thể hoạt động bình thường: %s.</string>
     <string name="grant_permission_title">Cho phép truy cập</string>
     <string name="grant_permission_unlock_and_set">Mở khóa và đặt</string>
     <string name="grant_permission_unlock_and_set_2">Mở khóa</string>
@@ -1174,12 +1174,12 @@
     <string name="remover_menu_processing">Đang xử lý</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
-    <string name="saf_operation_guide_1">Chỉnh sửa Thư viện cần bạn cấp quyền để có thể bảo vệ và quản lý dữ liệu. </string>
+    <string name="saf_operation_guide_1">Chỉnh sửa Ảnh cần bạn cấp quyền để có thể bảo vệ và quản lý dữ liệu. </string>
     <string name="saf_operation_guide_2">Để cấp quyền, chạm "%1$s" và sau đó chọn "%2$s".</string>
     <string name="saf_operation_guide_param1">Tiếp theo</string>
     <string name="saf_operation_guide_param2">Truy cập thư mục này</string>
     <string name="saf_requester_cancel">Hủy</string>
-    <string name="saf_requester_title">Cho phép Chỉnh sửa Thư viện truy cập "%s"</string>
+    <string name="saf_requester_title">Cho phép Chỉnh sửa Ảnh truy cập "%s"</string>
     <string name="saf_secret_album">Album cá nhân</string>
     <string name="saf_secret_album_guide">Ứng dụng này cần quyền để hiển thị các mục từ album cá nhân của bạn.</string>
     <string name="samsung">Samsung</string>
@@ -1918,8 +1918,8 @@
     <string name="vlog_trans_zuoyi">Chuyển sang trái</string>
     <string name="vlog_unzip_file_fail">Không thể giải nén tập tin</string>
     <string name="vlog_update_cancel">Hủy</string>
-    <string name="vlog_update_message_cn">Bạn đang sử dụng phiên bản cũ của Chỉnh sửa Thư viện. Cập nhật lên phiên bản mới nhất.</string>
-    <string name="vlog_update_message_global">Bạn đang sử dụng phiên bản cũ của trình chỉnh sửa. Cập nhật Chỉnh sửa Thư viện lên phiên bản mới nhất.</string>
+    <string name="vlog_update_message_cn">Bạn đang sử dụng phiên bản cũ của Chỉnh sửa Ảnh. Cập nhật lên phiên bản mới nhất.</string>
+    <string name="vlog_update_message_global">Bạn đang sử dụng phiên bản cũ của trình chỉnh sửa. Cập nhật Chỉnh sửa Ảnh lên phiên bản mới nhất.</string>
     <string name="vlog_update_ok">Cập nhật</string>
     <string name="vlog_update_title">Cập nhật khả dụng</string>
     <string name="vlog_video_adjust_order">Sắp xếp lại video</string>
