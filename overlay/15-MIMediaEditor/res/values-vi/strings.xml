@@ -986,7 +986,7 @@
     <string name="photo_editor_crop_auto">Tự động</string>
     <string name="photo_editor_crop_auto_tips">Cắt tự động</string>
     <string name="photo_editor_crop_reset">Đặt lại</string>
-    <string name="photo_editor_crop_rotation_format">%d°</string>
+    <string name="photo_editor_crop_rotation_format">%s°</string>
     <string name="photo_editor_crop_size_free">Tùy chỉnh</string>
     <string name="photo_editor_crop_size_landscape_fullscreen">Toàn m.hình ↔</string>
     <string name="photo_editor_crop_size_origin">Gốc</string>
