@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8' ?>
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 giờ trước</item>
@@ -71,5 +71,9 @@
     </plurals>
     <plurals name="show_more">
         <item quantity="other">Hiển thị thêm %1$d</item>
+    </plurals>
+	<plurals name="number_items">
+        <item quantity="one">%s mục</item>
+        <item quantity="other">%s mục</item>
     </plurals>
 </resources>
