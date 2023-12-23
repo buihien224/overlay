@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>Dữ liệu dịch bệnh</item>
+        <item>Mã sức khỏe</item>
+        <item>Phát hiện axit nucleic</item>
+        <item>Khu vực rủi ro</item>
+    </string-array>
+    <string-array name="pa_day_time_space">
+        <item>Nửa đêm</item>
+        <item>Sáng sớm</item>
+        <item>Buổi sáng</item>
+        <item>Buổi trưa</item>
+        <item>Buổi chiều</item>
+        <item>Buổi tối</item>
+        <item>Buổi tối</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Chủ nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+        <item>Chủ nhật</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Thất đỏ và thác xanh</item>
+        <item>Xanh xanh và đỏ rơi</item>
+    </string-array>
+</resources>
+
+
+
