@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">Tắt</string>
-    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -31,6 +31,7 @@
     <string name="add_sound">Thêm cài đặt sẵn tùy chỉnh</string>
     <string name="afternoon">Buổi chiều</string>
     <string name="am">SA</string>
+    <string name="app_disable_description_title">Tắt ứng dụng này?</string>
     <string name="app_name">Tai nghe</string>
     <string name="apply_sound">Áp dụng</string>
     <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
@@ -64,8 +65,9 @@
     <string name="effect_3dsurround">Âm thanh nổi ba chiều</string>
     <string name="effect_3dsurround_summary">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>
     <string name="effect_3dsurround_summary_headphone">Tăng cường độ sâu tái tạo âm thanh cho tai nghe</string>
+    <string name="effect_selection">Hiệu ứng âm thanh</string>
     <string name="effect_virtual_surround">Âm thanh nổi ba chiều ảo</string>
-    <string name="effect_virtual_surround_summary">Làm phong phú chiều sâu âm thanh và phát lại video trong tai nghe (Tính năng này sẽ không hoạt động khi %.1f âm thanh được phát)</string>
+    <string name="effect_virtual_surround_summary">Làm phong phú chiều sâu âm thanh và phát lại video trong tai nghe (Tính năng này sẽ không hoạt động khi âm thanh %.1f được phát)</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Dừng</string>
     <string name="eq_auto">Tùy chỉnh</string>
@@ -201,14 +203,14 @@
     <string name="midnight">Ban đêm</string>
     <string name="misound_effect_setting">Mi Sound</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
     <string name="miuix_appcompat_cancel_description">Hủy</string>
     <string name="miuix_appcompat_confirm_description">Xác nhận</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
-    <string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+    <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
@@ -418,6 +420,9 @@
     <string name="now_here">Và bây giờ?</string>
     <string name="original_sound">Phát âm thanh gốc</string>
     <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+    <string name="permission_go_to_settings">Cài đặt</string>
+    <string name="permission_requesr_content">Cho phép ứng dụng này kết nối với thiết bị lân cận trong Cài đặt.</string>
+    <string name="permission_requesr_title">Yêu cầu quyền</string>
     <string name="personal_sound">Phát với cài đặt sẵn đã áp dụng</string>
     <string name="pm">CH</string>
     <string name="preference_copied">Đã sao chép \"%1$s\" vào khay nhớ tạm.</string>
@@ -458,18 +463,12 @@
     <string name="sound_id_function_description">Cá nhân đường cong EQ dựa trên sở thích của bạn</string>
     <string name="sound_id_function_name">Âm thanh cá nhân</string>
     <string name="sound_id_headset_status">Tai nghe hiện tại</string>
-    <string name="sound_id_hz_high">"Treble
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Bass
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Midrange
-%d Hz"</string>
+    <string name="sound_id_hz_high">Treble %d Hz</string>
+    <string name="sound_id_hz_low">Bass %d Hz</string>
+    <string name="sound_id_hz_media">Midrange %d Hz</string>
     <string name="sound_id_music_one_description">Nhẹ | %ds</string>
-    <string name="sound_id_music_one_title">Thành phố mưa</string>
     <string name="sound_id_music_three_description">Giai điệu | %ds</string>
-    <string name="sound_id_music_three_title">Dấu vết</string>
     <string name="sound_id_music_two_description">Nhịp điệu | %ds</string>
-    <string name="sound_id_music_two_title">Cơn sốt đêm</string>
     <string name="sound_id_no_effect_msg">Không sử dụng âm thanh cá nhân</string>
     <string name="sound_id_notice_headset_change_msg">Dường như bạn đang sử dụng cặp tai nghe khác. Kiểm tra đã dừng lại.</string>
     <string name="sound_id_notice_headset_change_msg2">Dường như bạn đang sử dụng cặp tai nghe khác. Hãy chắc chắn rằng âm thanh cá nhân này phù hợp với đôi tai nghe này.</string>
@@ -515,6 +514,7 @@
     <string name="sound_transmission_title">Micro không dây</string>
     <string name="spatial_audio">Âm thanh nổi ba chiều</string>
     <string name="spatial_audio_summary">Trải nghiệm sự đắm chìm và cảm giác không gian khi âm thanh được phát qua tai nghe</string>
+    <string name="spatial_audio_summary_spk">Trải nghiệm sự đắm chìm và cảm giác không gian khi âm thanh được phát</string>
     <string name="speaker_scenario_resume">Khôi phục hiệu ứng gốc</string>
     <string name="start_test_sound">Bắt đầu kiểm tra</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -581,8 +581,8 @@
     <string name="tuesday">Thứ ba</string>
     <string name="tuesday_short">Th 3</string>
     <string name="tuesday_shortest">Th 3</string>
-    <string name="v7_preference_off">Tắt</string>
-    <string name="v7_preference_on">Bật</string>
+    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">BẬT</string>
     <string name="wednesday">Thứ tư</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
