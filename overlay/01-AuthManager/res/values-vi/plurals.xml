@@ -4,13 +4,13 @@
         <item quantity="other">1 giờ trước</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 giờ trước</item>
+        <item quantity="other">%d giờ trước</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Trong 1 giờ</item>
+        <item quantity="other">Trong %d giờ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Trong nửa giờ</item>
@@ -19,22 +19,13 @@
         <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">sau %d phút</item>
+        <item quantity="other">Sau %d phút</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Vừa xong</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d phút trước</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Đã cho phép %1$s truy cập các mục trong bộ nhớ tạm tự động %2$d lần</item>
-    </plurals>
-    <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">Đã chặn %2$d lần truy cập bộ nhớ tạm ứng dụng %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s đã truy cập các mục trong bộ nhớ tạm %2$d lần</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
@@ -60,10 +51,24 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+	<plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Được phép %1$s tự động truy cập các mục trong bảng nhớ tạm %2$d lần</item>
+        <item quantity="one">Được phép %1$s tự động truy cập các mục trong bảng nhớ tạm %2$d lần</item>
+    </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Đã chặn %2$d cố gắng truy cập bảng nhớ tạm của %1$s</item>
+        <item quantity="one">Đã chặn %2$d nỗ lực truy cập vào bảng nhớ tạm của %1$s</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s đã truy cập các mục trong bảng nhớ tạm %2$d lần</item>
+        <item quantity="one">%1$s đã truy cập các mục trong bảng nhớ tạm %2$d lần</item>
+    </plurals>
     <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Bạn đã cho phép %2$s truy cập bộ nhớ tạm %1$d lần. Bạn có muốn luôn cho phép %3$s truy cập bộ nhớ tạm?</item>
+        <item quantity="other">"Bạn đã cho phép %2$s truy cập vào bảng nhớ tạm %1$d lần rồi. Bạn có muốn luôn cho phép %3$s truy cập vào bảng nhớ tạm không?"</item>
+        <item quantity="one">"Bạn đã cho phép %2$s truy cập vào bảng nhớ tạm %1$d lần rồi. Bạn có muốn luôn cho phép %3$s truy cập vào bảng nhớ tạm không?"</item>
     </plurals>
     <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Bạn đã hạn chế truy cập bộ nhớ tạm %2$s %1$d lần. Hạn chế truy cập bộ nhớ tạm đối với %3$s vĩnh viễn?</item>
+        <item quantity="other">"Bạn đã hạn chế quyền truy cập vào bảng nhớ tạm trong %2$s %1$d lần rồi. Hạn chế quyền truy cập vào bảng tạm của %3$s vĩnh viễn?"</item>
+        <item quantity="one">"Bạn đã hạn chế quyền truy cập vào bảng nhớ tạm trong %2$s %1$d lần rồi. Hạn chế quyền truy cập vào bảng nhớ tạm cho %3$s vĩnh viễn?"</item>
     </plurals>
 </resources>
