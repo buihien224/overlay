@@ -4,13 +4,13 @@
         <item quantity="other">1 giờ trước</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 giờ trước</item>
+        <item quantity="other">%d giờ trước</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Trong 1 giờ</item>
+        <item quantity="other">Trong %d giờ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Trong nửa giờ</item>
@@ -19,155 +19,260 @@
         <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">trong %d phút</item>
-        <item quantity="one">trong 1 phút</item>
+        <item quantity="other">Sau %d phút</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Vừa xong</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d phút trước</item>
-        <item quantity="one">1 phút trước</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
-        <item quantity="other">%1$d chủ đề AOD</item>
+        <item quantity="other">%1$d Chủ đề AOD</item>
+        <item quantity="one">%1$d Chủ đề AOD</item>
     </plurals>
     <plurals name="anonymous_resource_count_font">
         <item quantity="other">%1$d phông chữ</item>
+        <item quantity="one">%1$d phông chữ</item>
     </plurals>
     <plurals name="anonymous_resource_count_icon">
         <item quantity="other">%1$d biểu tượng</item>
     </plurals>
     <plurals name="anonymous_resource_count_theme">
         <item quantity="other">%1$d chủ đề</item>
+        <item quantity="one">%1$d chủ đề</item>
     </plurals>
     <plurals name="anonymous_resource_count_title">
-        <item quantity="other">Đã thêm %1$d mục</item>
+        <item quantity="other">Thêm %1$d mục</item>
+        <item quantity="one">Thêm %1$d mục</item>
     </plurals>
     <plurals name="anonymous_resource_link_success_message">
-        <item quantity="other">Đã thêm %1$d mục vào tài khoản của bạn. Xem các mục đã thêm trong đơn hàng của bạn.</item>
+        <item quantity="other">Đã thêm %1$d mục vào tài khoản của bạn. Xem các mục đã thêm trong đơn đặt hàng của bạn.</item>
+        <item quantity="one">Đã thêm %1$d mục vào tài khoản của bạn. Xem các mục đã thêm trong đơn đặt hàng của bạn.</item>
     </plurals>
     <plurals name="anonymous_resource_login_message">
-        <item quantity="other">Bạn chỉ có thể tải %1$d mục miễn phí nếu bạn chưa đăng nhập (ngoại trừ hình nền và nhạc chuông). Đăng nhập để tải không hạn chế.</item>
+        <item quantity="other">"Bạn chỉ có thể tải xuống %1$d mục miễn phí nếu bạn chưa đăng nhập (không bao gồm hình nền và nhạc chuông). Đăng nhập để tải xuống các mục mà không bị hạn chế."</item>
+        <item quantity="one">"Bạn chỉ có thể tải xuống %1$d mục miễn phí nếu bạn chưa đăng nhập (không bao gồm hình nền và nhạc chuông). Đăng nhập để tải xuống các mục mà không bị hạn chế."</item>
     </plurals>
     <plurals name="anonymous_resource_view">
-        <item quantity="other">%1$d mục chưa được thêm vào tài khoản của bạn</item>
+        <item quantity="other">"%1$d mục chưa được thêm vào tài khoản của bạn"</item>
+        <item quantity="one">"%1$d mục chưa được thêm vào tài khoản của bạn"</item>
     </plurals>
     <plurals name="aod_batch_has_update_text">
-        <item quantity="other">Cập nhật cho %1$d chủ đề khả dụng</item>
-        <item quantity="one">Một bản cập nhật cho %1$d chủ đề khả dụng</item>
+        <item quantity="other">Đã có bản cập nhật cho %1$d chủ đề</item>
+        <item quantity="one">Đã có bản cập nhật cho %1$d chủ đề</item>
     </plurals>
     <plurals name="aod_batch_updating_text">
         <item quantity="other">Đang cập nhật %1$d chủ đề</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Áp suất khí quyển: %s hectopascal</item>
+        <item quantity="one">Áp suất khí quyển: %s hectopascal</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d người hâm mộ</item>
+        <item quantity="one">%1$d người hâm mộ</item>
+    </plurals>
     <plurals name="de_author_theme_amount">
         <item quantity="other">%1$d mục</item>
+        <item quantity="one">%1$d mục</item>
     </plurals>
     <plurals name="de_icon_count">
         <item quantity="other">%1$d biểu tượng</item>
+        <item quantity="one">%1$d biểu tượng</item>
     </plurals>
     <plurals name="de_more_comment">
-        <item quantity="other">%1$d bình luận nữa</item>
+        <item quantity="other">%1$d nhận xét khác</item>
+        <item quantity="one">%1$d bình luận khác</item>
     </plurals>
     <plurals name="detail_reward_few_times">
-        <item quantity="other">%s phần thưởng</item>
+        <item quantity="other">Phần thưởng %s</item>
+        <item quantity="one">Phần thưởng %s</item>
     </plurals>
     <plurals name="detail_reward_times">
-        <item quantity="other">%s phần thưởng</item>
+        <item quantity="other">Phần thưởng %s</item>
+        <item quantity="one">Phần thưởng %s</item>
     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
     </plurals>
     <plurals name="detail_update_time_minute">
         <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Tua đi %d giây</item>
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
     </plurals>
     <plurals name="guide_used_number">
-        <item quantity="other">Đã áp dụng trên %1$d thiết bị</item>
+        <item quantity="other">Áp dụng trên %1$d thiết bị</item>
+        <item quantity="one">Áp dụng trên %1$d thiết bị</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Đốt cháy %1$s calo</item>
+        <item quantity="one">Đốt cháy %1$s calo</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Mục tiêu về lượng calo: %1$s Calo</item>
+        <item quantity="one">Mục tiêu về lượng calo: %1$s lượng calo</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Thời gian hoạt động: %1$s phút</item>
+        <item quantity="one">Thời gian hoạt động: %1$s phút</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Mục tiêu hoạt động: %1$s phút</item>
+        <item quantity="one">Mục tiêu hoạt động: %1$s phút</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s phút</item>
+        <item quantity="one">%1$s/%2$s phút</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Đứng lên trong vòng %1$s giờ</item>
+        <item quantity="one">Đứng lên trong vòng %1$s giờ</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Mục tiêu thường trực: %1$s giờ</item>
+        <item quantity="one">Mục tiêu thường trực: %1$s giờ</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s giờ</item>
+        <item quantity="one">%1$s/%2$s giờ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Số bước hiện tại: %1$s bước</item>
+        <item quantity="one">Số bước hiện tại: %1$s bước</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Mục tiêu bước: %1$s bước</item>
+        <item quantity="one">Mục tiêu bước: %1$s bước</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s bước</item>
+        <item quantity="one">%1$s/%2$s bước</item>
+    </plurals>
     <plurals name="icon_batch_has_update_text">
-        <item quantity="other">Cập nhật cho %1$d biểu tượng khả dụng</item>
+        <item quantity="other">Đã có bản cập nhật cho các biểu tượng %1$d</item>
+        <item quantity="one">Đã có bản cập nhật cho biểu tượng %1$d</item>
     </plurals>
     <plurals name="icon_batch_updating_text">
-        <item quantity="other">Đang cập nhật %1$d biểu tượng…</item>
+        <item quantity="other">Đang cập nhật biểu tượng %1$d…</item>
+        <item quantity="one">Đang cập nhật biểu tượng %1$d…</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Trong 1 giờ</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Trong nửa giờ</item>
+        <item quantity="other">Trong nửa giờ nữa</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Tức thì</item>
+        <item quantity="other">Ngay lập tức</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">trong %d phút</item>
-        <item quantity="one">trong 1 phút</item>
+    <plurals name="in_num_minute">
+        <item quantity="other">Trong %d phút</item>
+        <item quantity="one">Trong 1 phút</item>
+    </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Đã có bản cập nhật cho %1$d Siêu biểu tượng</item>
+        <item quantity="one">Đã có bản cập nhật cho %1$d Siêu biểu tượng</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Đang cập nhật %1$d Siêu biểu tượng</item>
+        <item quantity="one">Đang cập nhật %1$d Siêu biểu tượng</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Vừa xong</item>
+        <item quantity="other">Ngay bây giờ</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d mục đã chọn</item>
+        <item quantity="other">Đã chọn %d mục</item>
+        <item quantity="one">Đã chọn %d mục</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
     </plurals>
-    <plurals name="num_minutes_ago">
+    <plurals name="num_minute_ago">
         <item quantity="other">%d phút trước</item>
-        <item quantity="one">1 phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Thanh toán %1$s Mi Coin</item>
+        <item quantity="one">Thanh toán %1$s Mi Coin</item>
     </plurals>
     <plurals name="resource_comment_score_count">
-        <item quantity="other">%d bình luận</item>
+        <item quantity="other">%d nhận xét</item>
+        <item quantity="one">%d nhận xét</item>
     </plurals>
     <plurals name="resource_download_notification_title_many">
-        <item quantity="other">Tải xuống thành công %1$d mục</item>
+        <item quantity="other">Đã tải xuống thành công %1$d mục</item>
+        <item quantity="one">Đã tải xuống thành công %1$d mục</item>
     </plurals>
-    <plurals name="resource_rating">
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi xu/bộ</item>
+        <item quantity="one">%1$s Mi Coin/bộ</item>
+    </plurals>
+    <plurals name="resource_rated">
         <item quantity="other">%1$.1f điểm</item>
+        <item quantity="one">%1$.1f điểm</item>
     </plurals>
     <plurals name="ringtone_nums">
         <item quantity="other">%1$s nhạc chuông</item>
+        <item quantity="one">%1$s nhạc chuông</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">%1$d chủ đề có phiên bản mới.</item>
-        <item quantity="one">%1$d chủ đề có phiên bản mới.</item>
+        <item quantity="other">Có bản cập nhật cho %1$d chủ đề.</item>
+        <item quantity="one">Có bản cập nhật cho %1$d chủ đề.</item>
     </plurals>
     <plurals name="theme_designer_products_count">
-        <item quantity="other">%1$s chủ đề</item>
-        <item quantity="one">%1$s chủ đề</item>
+        <item quantity="other">%1$s hoạt động</item>
+        <item quantity="one">%1$s hoạt động</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">%1$d chủ đề có phiên bản mới</item>
-        <item quantity="one">%1$d chủ đề có phiên bản mới</item>
+        <item quantity="other">Có bản cập nhật cho %1$d chủ đề</item>
+        <item quantity="one">Có bản cập nhật cho %1$d chủ đề</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Tìm trong %1$d ứng dụng</item>
+        <item quantity="other">Tìm kiếm trong số %1$d ứng dụng</item>
+        <item quantity="one">Tìm kiếm trong %1$d ứng dụng</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">%1$d ứng dụng được tìm thấy</item>
+        <item quantity="other">Đã tìm thấy %1$d ứng dụng</item>
+        <item quantity="one">Đã tìm thấy %1$d ứng dụng</item>
     </plurals>
     <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">Bạn có thể thử \"%2$s\" miễn phí trong %1$d giờ</item>
+        <item quantity="other">"Bạn sẽ có thể dùng thử \"%2$s\" miễn phí sau %1$d giờ"</item>
+        <item quantity="one">"Bạn sẽ có thể dùng thử \"%2$s\" miễn phí sau %1$d giờ"</item>
     </plurals>
     <plurals name="try_3_day">
-        <item quantity="other">3 ngày thử miễn phí (%1$d mục còn lại cho hôm nay)</item>
+        <item quantity="other">Dùng thử miễn phí 3 ngày (còn lại %1$d mục cho ngày hôm nay)</item>
+        <item quantity="one">Dùng thử miễn phí 3 ngày (còn lại %1$d mục cho ngày hôm nay)</item>
     </plurals>
     <plurals name="wallpaper_quantity">
         <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d ảnh</item>
+        <item quantity="one">%1$s | %2$d ảnh</item>
     </plurals>
-    <plurals name="de_author_fans_amount">
-        <item quantity="other">%1$d fan</item>
+    <plurals name="weather_temper_desc">
+        <item quantity="other">Nhiệt độ: %1$s độ, %2$s</item>
+        <item quantity="one">Nhiệt độ: %1$s độ, %2$s</item>
     </plurals>
 </resources>
+
+
+

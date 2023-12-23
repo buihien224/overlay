@@ -356,7 +356,7 @@ Các hạn chế ở trên sẽ được kết hợp với các mục bạn thê
      <string name="settings_image_save_mode">Chất lượng hình ảnh được lưu</string>
      <string name="settings_image_save_mode_normal_and_super">Lưu hình ảnh thông thường và độ phân giải siêu cao</string>
      <string name="settings_one_finger_title">1 ngón tay</string>
-     <string name="settings_Operation_mode_title">Cử chỉ</string>
+     <string name="settings_operation_mode_title">Cử chỉ</string>
      <string name="settings_taplus_double_finger_summary">Nhấn và giữ một mục bằng hai ngón tay để sử dụng Taplus</string>
      <string name="settings_taplus_introduction">Taplus là một ứng dụng hệ thống nhận dạng hình ảnh, hoạt động với văn bản được sao chép và cho phép bạn nhận thông tin và dịch vụ theo ngữ cảnh.</string>
 	 <string name="settings_taplus_introduction_title">Taplus là dịch vụ hệ thống cho phép bạn phân tích hình ảnh và văn bản bằng cách nhấn và giữ các mục trên màn hình để nhận thông tin theo ngữ cảnh.</string>

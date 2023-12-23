@@ -591,8 +591,8 @@ Tăng cường bảo mật."</string>
     <string name="new_privacy_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
     <string name="new_recents_config_title">Khác</string>
     <string name="night">Buổi tối</string>
-    <string name="no_space_toast">Không đủ dung lượng</string>
-    <string name="no_space_toast_fold">Không đủ dung lượng trống ở đây</string>
+    <string name="no_space_toast">Không đủ không gian</string>
+    <string name="no_space_toast_fold">Không đủ không gian trống ở đây</string>
     <string name="no_space_toast_when_click_widget">Không đủ không gian trên trang này. Hãy thử kéo mục này sang trang khác.</string>
     <string name="noon">Buổi trưa</string>
     <string name="not_set">Chưa đặt</string>
@@ -735,7 +735,7 @@ Tăng cường bảo mật."</string>
     <string name="start_new_window">Cửa sổ mới</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
-    <string name="status_bar_recent_memory_info1">%1$s trống | %2$s khả dụng</string>
+    <string name="status_bar_recent_memory_info1">%1$s trống | %2$s có sẵn</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloading">Đang tải xuống</string>

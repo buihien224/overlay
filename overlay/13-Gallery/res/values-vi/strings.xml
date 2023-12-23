@@ -209,7 +209,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="all_video_album_display_name">Tất cả video</string>
     <string name="already_authorize_to_device">Đã ủy quyền</string>
     <string name="already_cancel_authorize_to_device">Đã hủy ủy quyền</string>
-    <string name="already_create_baby_album">Album Baby đã có sẵn trên Xiaomi Cloud.</string>
+    <string name="already_create_baby_album">Album Baby đã có sẵn trên Đám mây Xiaomi.</string>
     <string name="already_share">Đã chia sẻ</string>
     <string name="am">SA</string>
     <string name="and"> và </string>
@@ -223,7 +223,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="app_name">Thư viện</string>
     <string name="app_name_view_picture">Xem ảnh</string>
     <string name="app_name_view_video">Xem video</string>
-    <string name="app_summary">Quản lý và sửa ảnh và video trên thiết bị của bạn và trên Xiaomi Cloud</string>
+    <string name="app_summary">Quản lý và sửa ảnh và video trên thiết bị của bạn và trên Đám mây Xiaomi</string>
     <string name="app_summary_2">Lưu trữ, quản lý và sửa ảnh và video trên thiết bị này</string>
     <string name="apply">Áp dụng</string>
     <string name="art_still_download_failed_for_notwork">Không thể tải xuống. Kiểm tra cài đặt mạng và thử lại.</string>
@@ -252,7 +252,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="auto_update_face_summary">Tự động dò tìm và thêm ảnh đến album Baby</string>
     <string name="auto_update_off">Tắt</string>
     <string name="auto_update_on">Bật</string>
-    <string name="auto_upload_before_share_message">Đồng bộ album này với Xiaomi Cloud trước khi chia sẻ</string>
+    <string name="auto_upload_before_share_message">Đồng bộ album này với Đám mây Xiaomi trước khi chia sẻ</string>
     <string name="auto_upload_before_share_title">Gợi ý</string>
     <string name="auto_upload_disable_tip">Đồng bộ với đám mây đã tắt</string>
     <string name="auto_upload_disable_toast_long_press_menu">Đồng bộ với đám mây đã tắt</string>
@@ -282,14 +282,14 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="baby_suffix">baby</string>
     <string name="back">Quay lại</string>
     <string name="background_picture">Bối cảnh %1$d</string>
-    <string name="backup_automatically_summary">Đồng bộ ảnh và video từ tất cả thiết bị lên Xiaomi Cloud. Bạn có thể duyệt, sắp xếp, chỉnh sửa, chia sẻ ảnh và video dễ dàng trên tất cả thiết bị.</string>
+    <string name="backup_automatically_summary">Đồng bộ ảnh và video từ tất cả thiết bị lên Đám mây Xiaomi. Bạn có thể duyệt, sắp xếp, chỉnh sửa, chia sẻ ảnh và video dễ dàng trên tất cả thiết bị.</string>
     <string name="backup_automatically_title">Tự động đồng bộ</string>
     <string name="backup_battery_low_desc">Bạn có thể tiếp tục đồng bộ khi pin yếu</string>
     <string name="backup_battery_low_title">Sao lưu đã tạm dừng do pin yếu</string>
     <string name="backup_close">Đóng sao lưu</string>
     <string name="backup_cloud_space_low_btn_text">Nhận thêm</string>
-    <string name="backup_cloud_space_low_desc">Xiaomi Cloud %1$s | Trống %2$s</string>
-    <string name="backup_cloud_space_low_title">Không đủ dung lượng Xiaomi Cloud</string>
+    <string name="backup_cloud_space_low_desc">Đám mây Xiaomi %1$s | Trống %2$s</string>
+    <string name="backup_cloud_space_low_title">Không đủ dung lượng Đám mây Xiaomi</string>
     <string name="backup_cta_not_allow_btn_text">Cho phép</string>
     <string name="backup_cta_not_allow_desc">Đồng ý sao lưu tự động</string>
     <string name="backup_cta_not_allow_title">Không thể truy cập mạng</string>
@@ -307,7 +307,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="backup_need_sync_title">Đã dừng sao lưu</string>
     <string name="backup_no_network_btn_text">Cài đặt</string>
     <string name="backup_no_network_desc">Kết nối mạng để sao lưu</string>
-    <string name="backup_no_network_title">Không thể kết nối với Xiaomi Cloud</string>
+    <string name="backup_no_network_title">Không thể kết nối với Đám mây Xiaomi</string>
     <string name="backup_no_wifi_btn_text">Sử dụng dữ liệu</string>
     <string name="backup_no_wifi_desc">Bạn có thể tiếp tục đồng bộ khi đang sử dụng dữ liệu di động</string>
     <string name="backup_no_wifi_title">Đồng bộ sẽ tiếp tục sau khi bạn kết nối Wi-Fi</string>
@@ -325,15 +325,15 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="backup_sync_dialog_tips">Bật đồng bộ với đám mây để thay đổi cài đặt.</string>
     <string name="backup_sync_dialog_title">Đồng bộ tắt</string>
     <string name="backup_sync_error_btn_text">Hãy thử lại</string>
-    <string name="backup_sync_error_desc">Không thể kết nối với Xiaomi Cloud</string>
+    <string name="backup_sync_error_desc">Không thể kết nối với Đám mây Xiaomi</string>
     <string name="backup_sync_error_title">Không thể đồng bộ</string>
     <string name="backup_sync_off_btn_text">Bật</string>
-    <string name="backup_sync_off_desc">Bật đồng bộ với Xiaomi Cloud để sao lưu ảnh và video</string>
+    <string name="backup_sync_off_desc">Bật đồng bộ với Đám mây Xiaomi để sao lưu ảnh và video</string>
     <string name="backup_sync_off_title">Đồng bộ với đám mây đã tắt</string>
     <string name="backup_with_gprs_dialog_btn">Sao lưu</string>
     <string name="backup_with_gprs_dialog_message">Cần tiêu hao %s dữ liệu để sao lưu. Vẫn tiếp tục sao lưu ngay?</string>
     <string name="backup_with_gprs_dialog_title">Sao lưu bằng dữ liệu di động</string>
-    <string name="backuped_desc">Đã sao lưu ảnh và video lên Xiaomi Cloud</string>
+    <string name="backuped_desc">Đã sao lưu ảnh và video lên Đám mây Xiaomi</string>
     <string name="backuped_title">Sao lưu thành công</string>
     <string name="backuping_title_gprs">Sao lưu bằng dữ liệu di động…</string>
     <string name="backuping_title_normal">Đang sao lưu…</string>
@@ -447,7 +447,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="cleaner_similar_description">Xóa ảnh trùng lặp</string>
     <string name="cleaner_similar_title">Ảnh trùng lặp</string>
     <string name="cleaner_slim_action">Bắt đầu tối ưu</string>
-    <string name="cleaner_slim_description">Giữ ảnh đã tối ưu trên thiết bị của bạn. Ảnh gốc sẽ được lưu trữ trên Xiaomi Cloud.</string>
+    <string name="cleaner_slim_description">Giữ ảnh đã tối ưu trên thiết bị của bạn. Ảnh gốc sẽ được lưu trữ trên Đám mây Xiaomi.</string>
     <string name="cleaner_slim_start">Tối ưu</string>
     <string name="cleaner_slim_title">Tối ưu ảnh</string>
     <string name="cleaner_space_description">có thể giải phóng</string>
@@ -490,7 +490,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="cloud_full_space_tip_title_completely">Lưu trữ đám mây đã đầy</string>
     <string name="cloud_guide_auto_backup_title">Chọn album để đồng bộ</string>
     <string name="cloud_guide_login_title">Sao lưu ảnh và video tự động</string>
-    <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
+    <string name="cloud_guide_welcome_title">Đám mây Xiaomi</string>
     <string name="cloud_login_ok">Tôi biết</string>
     <string name="cloud_login_settings_title">Cài đặt đồng bộ</string>
     <string name="cloud_privacy_with_ai_album">Tính năng và riêng tư</string>
@@ -499,15 +499,15 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="cloud_settings">Đồng bộ</string>
     <string name="cloud_storage_extend">Mở rộng dung lượng lưu trữ đám mây</string>
     <string name="cloud_storage_ok_append_desc">Trống %s</string>
-    <string name="cloud_storage_ok_desc">Lưu trữ Xiaomi Cloud %s</string>
-    <string name="cloud_storage_ok_title">Đủ dung lượng trên Xiaomi Cloud</string>
+    <string name="cloud_storage_ok_desc">Lưu trữ Đám mây Xiaomi %s</string>
+    <string name="cloud_storage_ok_title">Đủ dung lượng trên Đám mây Xiaomi</string>
     <string name="cloud_storage_photo_title">Ảnh</string>
-    <string name="cloud_storage_subtitle">Đã sao lưu tất cả các mục lên Xiaomi Cloud</string>
-    <string name="cloud_storage_title">Lưu trữ Xiaomi Cloud</string>
+    <string name="cloud_storage_subtitle">Đã sao lưu tất cả các mục lên Đám mây Xiaomi</string>
+    <string name="cloud_storage_title">Lưu trữ Đám mây Xiaomi</string>
     <string name="cloud_storage_video_title">Video</string>
     <string name="cloud_storage_warn_desc">Đăng ký VIP đám mây để thêm dung lượng lưu trữ</string>
-    <string name="cloud_storage_warn_title">Không đủ dung lượng Xiaomi Cloud</string>
-    <string name="cloud_sync_card_description">Đồng bộ ảnh và video lên Xiaomi Cloud để truy cập chúng từ nhiều thiết bị</string>
+    <string name="cloud_storage_warn_title">Không đủ dung lượng Đám mây Xiaomi</string>
+    <string name="cloud_sync_card_description">Đồng bộ ảnh và video lên Đám mây Xiaomi để truy cập chúng từ nhiều thiết bị</string>
     <string name="cloud_sync_card_title">Bật đồng bộ với đám mây</string>
     <string name="cloud_watch_on_tv">Xem trên TV</string>
     <string name="cloudfolder_cannot_start_with">Tên album không thể bắt đầu với \"%s\"</string>
@@ -558,13 +558,13 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="confirm_hidden_recommend_group_message">Khi kiến nghị tắt, bạn vẫn có thể sử dụng tùy chọn \"Thêm khuôn mặt giống nhau\"</string>
     <string name="confirm_hidden_recommend_group_title">Không hiển thị kiến nghị</string>
     <string name="confirm_hide_selected_albums">Ẩn album đã chọn?</string>
-    <string name="confirm_merge_face_albums">&lt;Data> Hợp nhất album này với %s? &lt;/Data></string>
-    <string name="confirm_merge_many_face_albums">&lt;Data> Hợp nhất các album này với %s? &lt;/Data></string>
+    <string name="confirm_merge_face_albums"><Data> Hợp nhất album này với %s? &lt;</Data></string>
+    <string name="confirm_merge_many_face_albums"><Data> Hợp nhất các album này với %s? &lt;</Data></string>
     <string name="confirm_not_face">Không khớp</string>
-    <string name="confirm_recommandation_face_is">" &lt;Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. &lt;/Data> "</string>
-    <string name="confirm_recommandation_face_not">" &lt;Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data> "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" &lt;Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. &lt;/Data> "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" &lt;Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data> "</string>
+    <string name="confirm_recommandation_face_is">" <Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. &lt;</Data> "</string>
+    <string name="confirm_recommandation_face_not">" <Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;</Data> "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" <Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. &lt;</Data> "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" <Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;</Data> "</string>
     <string name="contact_tip">Liên hệ</string>
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_copy">Sao chép</string>
@@ -579,14 +579,15 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="create_baby_album_later_toast">Tạo album Baby bất cứ lúc nào trong Cài đặt</string>
     <string name="create_new_album">Tạo album</string>
     <string name="create_new_album_failed">Không thể tạo</string>
+	<string name="create_new_share_album">Tạo album chia sẻ</string>
     <string name="create_new_face">Người mới</string>
     <string name="create_quick_icon_on_desk">Tạo lối tắt</string>
     <string name="creating_baby_album">Đang tạo album…</string>
     <string name="creativity_summary">Hiển thị các tính năng chỉnh sửa và sáng tạo bổ sung</string>
     <string name="creativity_title">Sáng tạo</string>
     <string name="crop_label">Cắt ảnh</string>
-    <string name="cta_agreement_declare">&lt;Data>Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.&lt;/Data></string>
-    <string name="cta_network_declare">Để đồng bộ ảnh và video với Xiaomi Cloud, ứng dụng này cần kết nối internet.</string>
+    <string name="cta_agreement_declare"><Data>Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.&lt;</Data></string>
+    <string name="cta_network_declare">Để đồng bộ ảnh và video với Đám mây Xiaomi, ứng dụng này cần kết nối internet.</string>
     <string name="cta_screenthrow_declare">Để có thể chiếu màn hình của thiết bị này sang màn hình ngoài, ứng dụng này cần kết nối với internet.</string>
     <string name="custom_select_title_deselect_all">Bỏ chọn</string>
     <string name="custom_select_title_quickly_share">Chia sẻ</string>
@@ -611,12 +612,12 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="delete_account_message">Gallery cần xóa bộ nhớ cache vì bạn đã đăng xuất khỏi tài khoản Xiaomi của bạn.</string>
     <string name="delete_album_failed">Không thể xóa album</string>
     <string name="delete_album_msg_format">Xóa album "%2$s" %1$s %3$s?</string>
-    <string name="delete_album_msg_format_cloud">Xóa %1$s %2$s từ Xiaomi Cloud và tất cả các thiết bị đã đồng bộ?</string>
+    <string name="delete_album_msg_format_cloud">Xóa %1$s %2$s từ Đám mây Xiaomi và tất cả các thiết bị đã đồng bộ?</string>
     <string name="delete_album_msg_format_local">Xóa %1$s %2$s?</string>
     <string name="delete_album_success">Đã xóa album</string>
-    <string name="delete_from_all_devices_and_cloud">từ tất cả các thiết bị và Xiaomi Cloud</string>
+    <string name="delete_from_all_devices_and_cloud">từ tất cả các thiết bị và Đám mây Xiaomi</string>
     <string name="delete_from_cloud">Xóa khỏi đám mây luôn</string>
-    <string name="delete_from_this_album_and_cloud">từ album này và Xiaomi Cloud</string>
+    <string name="delete_from_this_album_and_cloud">từ album này và Đám mây Xiaomi</string>
     <string name="delete_in_album">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã kết nối và được lưu trong mục đã xóa gần đây trong %d ngày nếu bạn có gói lưu trữ đám mây miễn phí. Vẫn xóa chúng?</string>
     <string name="delete_in_home_page">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã kết nối và được lưu trong mục đã xóa gần đây trong %d ngày nếu bạn có gói lưu trữ đám mây miễn phí. Vẫn xóa chúng?</string>
     <string name="delete_in_process">Đang xóa...</string>
@@ -681,8 +682,8 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="download_type_title">Chất lượng tải xuống</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Bạn có thể chọn chất lượng ảnh tải xuống hoặc tắt tự động tải xuống trong Cài đặt.</string>
-    <string name="downloading_title">Đang tải ảnh xuống từ Xiaomi Cloud</string>
-    <string name="downloading_title_file">Đang tải xuống các mục từ Xiaomi Cloud…</string>
+    <string name="downloading_title">Đang tải ảnh xuống từ Đám mây Xiaomi</string>
+    <string name="downloading_title_file">Đang tải xuống các mục từ Đám mây Xiaomi…</string>
     <string name="drag_failed_because_baby_album_cant_sort">Không thể ẩn album Baby</string>
     <string name="drag_failed_because_not_custom_sort">Bạn chỉ có thể sắp xếp lại các mục khi thứ tự sắp xếp tùy chỉnh được chọn</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">Không thể xóa hoặc ẩn album Ảnh chụp màn hình</string>
@@ -698,7 +699,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="editor_export">Lưu</string>
     <string name="editor_talkback_redo">Khôi phục</string>
     <string name="editor_talkback_undo">Hoàn tác</string>
-    <string name="editphoto_datetime_needdownload_origin_subtitle">Tải xuống ảnh gốc từ Xiaomi Cloud để có thể thay đổi thời gian.</string>
+    <string name="editphoto_datetime_needdownload_origin_subtitle">Tải xuống ảnh gốc từ Đám mây Xiaomi để có thể thay đổi thời gian.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Tải xuống ảnh gốc</string>
     <string name="email_picker_title">Thêm email đã chia sẻ</string>
     <string name="empty" />
@@ -718,7 +719,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="empty_title_no_photos">Không có ảnh hoặc video</string>
     <string name="enable_auto_upload_tip">Bật đồng bộ với đám mây cho album này?</string>
     <string name="enable_auto_upload_title">Bật đồng bộ với đám mây</string>
-    <string name="enable_cloud_for_sharing">Bật album Xiaomi Cloud để xem ảnh được chia sẻ.</string>
+    <string name="enable_cloud_for_sharing">Bật album Đám mây Xiaomi để xem ảnh được chia sẻ.</string>
     <string name="enable_face_album_summary">Tự động sắp xếp các ảnh theo khuôn mặt từng người góp mặt trong đó</string>
     <string name="enable_face_album_title">Sắp xếp theo người</string>
     <string name="enable_midrop">Bật</string>
@@ -732,7 +733,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="error_build_thumbnail_tip">Không thể tải hình thu nhỏ xuống.</string>
     <string name="error_change_storage_action">Chuyển đổi lưu trữ</string>
     <string name="error_change_storage_msg">Vào Cài đặt > Lưu trữ, chuyển đổi lưu trữ, và thử lại.</string>
-    <string name="error_cloud_not_active">Không có ảnh trên Xiaomi Cloud</string>
+    <string name="error_cloud_not_active">Không có ảnh trên Đám mây Xiaomi</string>
     <string name="error_connect_timeout_action">Chọn mạng</string>
     <string name="error_connect_timeout_msg">Kết nối mạng khác và thử lại.</string>
     <string name="error_connect_timeout_tip">Kết nối quá lâu.</string>
@@ -1021,7 +1022,7 @@ khả dụng"</string>
     <string name="filter_sky_yunxu">Mây ti</string>
     <string name="filter_texture_shadow">Mờ tối</string>
     <string name="filter_travel_charlotte">Charlotte</string>
-    <string name="finish_create_baby_album_toast">Đã tạo một album \"%s\" trên Xiaomi Cloud</string>
+    <string name="finish_create_baby_album_toast">Đã tạo một album \"%s\" trên Đám mây Xiaomi</string>
     <string name="finish_fill_baby">Tạo</string>
     <string name="first_time_add_video_to_secret_tips">Cập nhật Thư viện để có thể thêm video vào album cá nhân</string>
     <string name="flash_off">Không đèn flash</string>
@@ -1184,6 +1185,9 @@ khả dụng"</string>
     <string name="ignore_alert_title">Không hiển thị album này? Chạm góc phải bên trên để xem ảnh mà bạn bỏ qua.</string>
     <string name="ignore_face">Bỏ qua người này</string>
     <string name="ignore_faces_title">Đã bỏ qua</string>
+	<string name="immersion_menu_all_photos">Tất cả các mục</string>
+    <string name="immersion_menu_camera_photos">Album máy ảnh</string>
+    <string name="immersion_menu_photo_switch_notice">Nhấn để chọn hiển thị tất cả các mục hay chỉ hiển thị Album máy ảnh tại đây</string>
     <string name="image_decode_failed">Không thể giải mã ảnh</string>
     <string name="image_download_item_title">Tải xuống tập tin gốc (%s)</string>
     <string name="image_invalid_path">Đường dẫn không hợp lệ</string>
@@ -1194,9 +1198,6 @@ khả dụng"</string>
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">Ảnh được chụp vào %s</string>
     <string name="image_with_time_and_location">Ảnh được chụp vào %1$s. Vị trí: %2$s.</string>
-    <string name="immersion_menu_all_photos">Tất cả các mục</string>
-    <string name="immersion_menu_camera_photos">Album máy ảnh</string>
-    <string name="immersion_menu_photo_switch_notice">Chạm để chọn liệu có hiển thị tất cả các mục hay chỉ Album máy ảnh ở đây</string>
     <string name="impunity_declaration_settings">Thông báo kết nối internet</string>
     <string name="impunity_declaration_summary">Hiển thị thông báo kết nối internet lần tới khi bạn mở Thư viện</string>
     <string name="initializing_cloud">Đang khởi tạo…</string>
@@ -1392,8 +1393,8 @@ khả dụng"</string>
     <string name="map_guide_message">Xem ảnh và video trên bản đồ</string>
     <string name="map_location">Chuyển đến vị trí hiện tại</string>
     <string name="map_positioning_failed_tip">Không thể nhận thông tin vị trí do tín hiệu yếu</string>
-    <string name="map_privacy_dialog_content">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> trước khi tiếp tục.&lt;/Data></string>
-    <string name="map_privacy_dialog_message">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Open SDK Bản đồ Baidu để cung cấp cho bạn dịch vụ này. Đọc &lt;a href=\"%1$s\">Chính sách Riêng tư của Bản đồ Baidu dành cho các Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> để tìm hiểu thêm.&lt;/Data></string>
+    <string name="map_privacy_dialog_content"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> trước khi tiếp tục.&lt;</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Open SDK Bản đồ Baidu để cung cấp cho bạn dịch vụ này. Đọc &lt;a href=\"%1$s\">Chính sách Riêng tư của Bản đồ Baidu dành cho các Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> để tìm hiểu thêm.&lt;</Data></string>
     <string name="map_privacy_dialog_title">Bản đồ Thư viện</string>
     <string name="map_privacy_policy">Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="map_privacy_policy_1">Chính sách Riêng tư</string>
@@ -1800,7 +1801,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="permission_location">Vị trí</string>
     <string name="permission_location_desc">Để hiển thị ảnh và video trên bản đồ</string>
     <string name="permission_optional_category">Quyền tùy chọn</string>
-    <string name="permission_phone_desc">Để gán thiết bị tương ứng cho các mục đã xóa gần đây trên Xiaomi Cloud</string>
+    <string name="permission_phone_desc">Để gán thiết bị tương ứng cho các mục đã xóa gần đây trên Đám mây Xiaomi</string>
     <string name="permission_phone_name">Điện thoại</string>
     <string name="permission_require_category">Quyền bắt buộc</string>
     <string name="permission_storage_desc">Để lưu trữ, hiển thị, chỉnh sửa, đồng bộ và tải xuống ảnh và video của bạn</string>
@@ -2006,17 +2007,17 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="preparing_data">Vui lòng chờ…</string>
     <string name="privacy">Chính sách Riêng tư</string>
     <string name="privacy_cloud_confirm">Bật đồng bộ</string>
-    <string name="privacy_cloud_confirm_content1">Chính sách Riêng tư Xiaomi Cloud</string>
+    <string name="privacy_cloud_confirm_content1">Chính sách Riêng tư Đám mây Xiaomi</string>
     <string name="privacy_cloud_confirm_content2">Thỏa thuận Người dùng</string>
-    <string name="privacy_cloud_confirm_detail">&lt;Data>Sau khi bạn bật đồng bộ, ảnh và video từ thiết bị này sẽ được tải lên Xiaomi Cloud và hợp nhất với các mục đã đồng bộ trước đó (nếu có). Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> Xiaomi Cloud trước khi tiếp tục.&lt;/Data></string>
+    <string name="privacy_cloud_confirm_detail"><Data>Sau khi bạn bật đồng bộ, ảnh và video từ thiết bị này sẽ được tải lên Đám mây Xiaomi và hợp nhất với các mục đã đồng bộ trước đó (nếu có). Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> Đám mây Xiaomi trước khi tiếp tục.&lt;</Data></string>
     <string name="privacy_cloud_confirm_detail_negative">Thoát</string>
     <string name="privacy_cloud_confirm_detail_positive">Đồng ý</string>
-    <string name="privacy_cloud_confirm_rejected">Chấp thuật rút lại Chính sách Riêng tư của Xiaomi Cloud đối với tài khoản này. Hãy thử sử dụng tài khoản khác.</string>
+    <string name="privacy_cloud_confirm_rejected">Chấp thuật rút lại Chính sách Riêng tư của Đám mây Xiaomi đối với tài khoản này. Hãy thử sử dụng tài khoản khác.</string>
     <string name="privacy_detail">Xem Chính sách Riêng tư</string>
     <string name="privacy_detail_map">Xem Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="privacy_entrance">Riêng tư</string>
     <string name="privacy_map">Bản đồ Thư viện</string>
-    <string name="privacy_map_detail">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> trước khi tiếp tục.&lt;/Data></string>
+    <string name="privacy_map_detail"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> trước khi tiếp tục.&lt;</Data></string>
     <string name="privacy_map_detail_content">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở</string>
     <string name="privacy_map_detail_content_new">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện</string>
     <string name="privacy_permission">Quyền</string>
@@ -2033,7 +2034,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="privacy_permission_disagree">Chưa cấp quyền</string>
     <string name="privacy_permission_location">Vị trí</string>
     <string name="privacy_permission_location_detail">Để hiển thị ảnh và video trên bản đồ</string>
-    <string name="privacy_permission_request_message">&lt;Data>Thư viện cần truy cập %3$s. Thông tin chúng tôi thu thập sẽ được sử dụng theo &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a>. Cho phép?&lt;/Data></string>
+    <string name="privacy_permission_request_message"><Data>Thư viện cần truy cập %3$s. Thông tin chúng tôi thu thập sẽ được sử dụng theo &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a>. Cho phép?&lt;</Data></string>
     <string name="privacy_permission_request_negative">Hạn chế</string>
     <string name="privacy_permission_request_positive">Cho phép</string>
     <string name="privacy_permission_request_title">Yêu cầu quyền</string>
@@ -2041,7 +2042,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="privacy_permission_shotcut_detail">Tạo lối tắt Màn hình chính</string>
     <string name="privacy_permission_storage">Lưu trữ</string>
     <string name="privacy_permission_storage_detail">Lưu trữ ảnh và video</string>
-    <string name="privacy_reject_map_detail_new">&lt;Data>Rút lại chấp thuận của bạn đối với &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> sẽ được xem là từ chối chấp nhận dịch vụ của Bản đồ Thư viện. Bạn vẫn có thể sử dụng bình thường tính năng khác của Thư viện. Rút lại chấp thuận ngay?&lt;/Data></string>
+    <string name="privacy_reject_map_detail_new"><Data>Rút lại chấp thuận của bạn đối với &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> sẽ được xem là từ chối chấp nhận dịch vụ của Bản đồ Thư viện. Bạn vẫn có thể sử dụng bình thường tính năng khác của Thư viện. Rút lại chấp thuận ngay?&lt;</Data></string>
     <string name="privacy_rejected">Rút lại chấp thuận</string>
     <string name="privacy_rejected_map">Rút lại chấp thuận Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="privacy_rejected_map_detail">Việc bạn rút lại sự đồng ý đối với Chính sách Riêng tư Bản đồ Thư viện sẽ được xem là từ chối chấp nhận các dịch vụ liên quan. Tính năng và dịch vụ cơ bản khác của Thư viện sẽ không bị ảnh hưởng. Vẫn rút lại?</string>
@@ -2195,7 +2196,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="scope_storage_dialog_cancel_btn">Hủy</string>
     <string name="scope_storage_dialog_confirm_btn">Tiếp theo</string>
     <string name="scope_storage_dialog_description">Quyền Thư viện đã được cập nhật. Cho phép Thư viện truy cập vào thư mục này để có thể xem nội dung.</string>
-    <string name="scope_storage_dialog_guide_content">&lt;Data>Chạm &lt;b>\"%1$s\"&lt;/b> và sau đó chọn &lt;b>\"%2$s\"&lt;/b>.&lt;/Data></string>
+    <string name="scope_storage_dialog_guide_content"><Data>Chạm &lt;b>\"%1$s\"&lt;/b> và sau đó chọn &lt;b>\"%2$s\"&lt;/b>.&lt;</Data></string>
     <string name="scope_storage_dialog_guide_title">Làm thế nào để cấp quyền</string>
     <string name="scope_storage_dialog_title">Yêu cầu quyền</string>
     <string name="scope_storage_operation_btn_1">Lưu</string>
@@ -2333,7 +2334,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="send_secret_file_failed">Không thể chia sẻ</string>
     <string name="send_secret_file_space_low">Không đủ dung lượng lưu trữ</string>
     <string name="send_too_many_files_error">Không thể gửi %d mục cùng một lúc</string>
-    <string name="service_is_provided_by_miui_cloud_service">Dịch vụ này được cung cấp bởi Xiaomi Cloud</string>
+    <string name="service_is_provided_by_miui_cloud_service">Dịch vụ này được cung cấp bởi Đám mây Xiaomi</string>
     <string name="set_as_baby_lock_wallpaper">Đặt làm hình nền Màn hình khóa</string>
     <string name="set_as_slide_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
     <string name="set_as_slide_wallpaper_title">Đặt làm hình nền trình chiếu</string>
@@ -2436,6 +2437,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="solar_new_year_title">Năm mới</string>
     <string name="solar_valentines_day_title">Ngày Lễ tình nhân</string>
     <string name="sort">Sắp xếp</string>
+	<string name="sort_and_showmode">Sắp xếp và kiểu xem</string>
     <string name="special_type_eye_repair">Sửa lỗi nhắm mắt bằng AI</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_night_beauty">Ảnh chân dung thiếu sáng AI</string>
@@ -2531,9 +2533,9 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="sync_backup_enable_confirm_message">Khi bật đồng bộ với đám mây, các mục từ thiết bị này sẽ được tải lên và hợp nhất với các mục được lưu trữ trên đám mây.</string>
     <string name="sync_backup_enable_confirm_title">Hợp nhất các mục đã đồng bộ</string>
     <string name="sync_battery_low">Pin yếu</string>
-    <string name="sync_cloud_space_full">Không đủ dung lượng trên Xiaomi Cloud</string>
+    <string name="sync_cloud_space_full">Không đủ dung lượng trên Đám mây Xiaomi</string>
     <string name="sync_diabled_toast">Đồng bộ tắt</string>
-    <string name="sync_metatata_wait_title">Đang chờ đồng bộ dữ liệu Xiaomi Cloud</string>
+    <string name="sync_metatata_wait_title">Đang chờ đồng bộ dữ liệu Đám mây Xiaomi</string>
     <string name="sync_not_allow_cta_title">Không thể truy cập mạng</string>
     <string name="sync_off_title">Bật đồng bộ với đám mây để sao lưu ảnh và video tự động</string>
     <string name="sync_pending_title">Sẽ được đồng bộ tự động</string>
@@ -2541,7 +2543,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="synced_photo_video_count">Đã đồng bộ %1$s và %2$s</string>
     <string name="synced_title">Đã sao lưu ảnh và video thành công</string>
     <string name="syncing_gprs_title">Sử dụng dữ liệu di động để sao lưu</string>
-    <string name="syncing_metadata_title">Đang đồng bộ dữ liệu Xiaomi Cloud</string>
+    <string name="syncing_metadata_title">Đang đồng bộ dữ liệu Đám mây Xiaomi</string>
     <string name="syncing_normal_title">Đang sao lưu ảnh và video</string>
     <string name="system_album">Album hệ thống</string>
     <string name="talkback_delete_search_history">Xóa lịch sử tìm kiếm</string>
@@ -2735,7 +2737,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="tip_capture_time">Chụp vào:</string>
     <string name="tip_file_info">Thông tin tệp:</string>
     <string name="tip_file_path">Đường dẫn cục bộ:</string>
-    <string name="tip_not_download">Không có trên thiết bị. Sẽ được tải xuống từ Xiaomi Cloud khi phát.</string>
+    <string name="tip_not_download">Không có trên thiết bị. Sẽ được tải xuống từ Đám mây Xiaomi khi phát.</string>
     <string name="tip_screenshot_package_info">Tên ứng dụng:</string>
     <string name="tips_for_photo_page_selection">Bạn có thể chạm vào các mục để xem chúng</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
@@ -2835,7 +2837,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
     <string name="user_agreement4">Chính sách Riêng tư</string>
     <string name="user_alias_self">Tôi</string>
-    <string name="user_notice_identify_summary_format">&lt;Data>Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a> của Xiaomi.&lt;/Data></string>
+    <string name="user_notice_identify_summary_format"><Data>Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a> của Xiaomi.&lt;</Data></string>
     <string name="user_notice_title">Điều khoản và Điều kiện</string>
     <string name="v7_preference_off">Tắt</string>
     <string name="v7_preference_on">Bật</string>
@@ -3203,7 +3205,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="wednesday">Thứ tư</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
-    <string name="welcome_to_micloud">Chào mừng sử dụng Xiaomi Cloud</string>
+    <string name="welcome_to_micloud">Chào mừng sử dụng Đám mây Xiaomi</string>
     <string name="where_is_barcode">Mã QR ở đâu?</string>
     <string name="who_is_this">Đây là ai?</string>
     <string name="widget_custom_store_detail_desc">Thêm tiện ích và chạm vào để chọn ảnh</string>

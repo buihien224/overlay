@@ -168,28 +168,19 @@
     <string name="accessibility_feature_state_on">Đang bật</string>
     <string name="accessibility_global_gesture_preference_title">Dùng phím âm lượng làm phím tắt</string>
     <string name="accessibility_haptic">Khả năng truy cập</string>
-    <string name="accessibility_hearing_device_about_title">Về thiết bị nghe</string>
-    <string name="accessibility_hearing_device_connected_title">Thiết bị nghe</string>
-    <string name="accessibility_hearing_device_control">Điều khiển thiết bị nghe</string>
-    <string name="accessibility_hearing_device_footer_summary">Đảm bảo thiết bị nghe của bạn đã được bật và sẵn sàng kết nối</string>
-    <string name="accessibility_hearing_device_pairing_page_title">Kết nối thiết bị nghe</string>
-    <string name="accessibility_hearing_device_pairing_title">Kết nối thiết bị mới</string>
-    <string name="accessibility_hearing_device_saved_title">Thiết bị đã lưu</string>
-    <string name="accessibility_hearing_device_shortcut_title">Lối tắt thiết bị nghe</string>
-    <string name="accessibility_hearingaid_active_device_summary">%1$s đang hoạt động</string>
-    <string name="accessibility_hearingaid_adding_summary">Thêm thiết bị nghe</string>
+    <string name="accessibility_hearingaid_active_device_summary">%1$s hoạt động</string>
+    <string name="accessibility_hearingaid_adding_summary">Thêm thiết bị trợ thính</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Tiếp tục</string>
-    <string name="accessibility_hearingaid_intro">Bạn có thể sử dụng các thiết bị trợ thính, cấy ghép ôi và các thiết bị khuếch đại âm thanh khác với điện thoại của bạn</string>
-    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, trái và phải</string>
-    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, trái</string>
-    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 thiết bị khác</string>
-    <string name="accessibility_hearingaid_not_connected_summary">Không có thiết bị nghe nào được kết nối</string>
-    <string name="accessibility_hearingaid_pair_instructions_message">"Trên màn hình tiếp theo, chạm vào tai nghe của bạn. Bạn có thể cần kết nối tai trái và tai phải một cách riêng biệt.
+    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, tai trái và tai phải</string>
+    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, chỉ tai trái</string>
+    <string name="accessibility_hearingaid_more_device_summary">%1$s + 1 thiết bị khác</string>
+    <string name="accessibility_hearingaid_not_connected_summary">Chưa kết nối thiết bị trợ thính nào</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">Trên màn hình tiếp theo, hãy nhấn vào máy trợ thính. Bạn có thể phải ghép nối riêng tai trái và tai phải.
 
-    Đảm bảo tai nghe của bạn đã được bật và sẵn sàng kết nối."</string>
-    <string name="accessibility_hearingaid_pair_instructions_title">Kết nối thiết bị nghe</string>
-    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, phải</string>
-    <string name="accessibility_hearingaid_title">Thiết bị nghe</string>
+Đảm bảo đã bật máy trợ thính và máy ở trạng thái sẵn sàng ghép nối.</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Ghép nối máy trợ thính</string>
+    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, chỉ tai phải</string>
+    <string name="accessibility_hearingaid_title">Thiết bị trợ thính</string>
     <string name="accessibility_interactive_haptics_category_title">Các phản hồi xúc giác có tính tương tác</string>
     <string name="accessibility_introduction_title">Giới thiệu về %1$s</string>
     <string name="accessibility_lock_screen_progress">Đã dùng %1$d/%2$d ký tự</string>
@@ -215,10 +206,6 @@ Nút hỗ trợ tiếp cận sẽ hiển thị trên màn hình bên trên các 
 
 Để tránh điều này, bạn có thể thay đổi phím tắt phóng to từ 3 lần nhấn thành một tuỳ chọn khác.
 <annotation id="link">Thay đổi chế độ cài đặ</annotation>t</string>
-    <string name="accessibility_captioning_preference_intro">Tùy chỉnh kích thước và kiểu chữ chú thích để dễ đọc hơn</string>
-    <string name="accessibility_captioning_primary_switch_title">Hiển thị chú thích</string>
-    <string name="captioning_appearance_title">Kích thước và kiểu chú thích</string>
-    <string name="accessibility_captioning_preference_summary">Các tùy chọn chú thích này không được hỗ trợ bởi tất cả các ứng dụng phương tiện</string>
     <string name="accessibility_magnification_triple_tap_warning_negative_button">Huỷ</string>
     <string name="accessibility_magnification_triple_tap_warning_positive_button">Vẫn tiếp tục</string>
     <string name="accessibility_magnification_triple_tap_warning_title">Phím tắt này có thể làm chậm bàn phím</string>
@@ -302,7 +289,7 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng.</st
     <string name="accessibility_settings_summary">Màn hình, tương tác, âm thanh</string>
     <string name="accessibility_settings_tabs_general">Chung</string>
     <string name="accessibility_settings_tabs_hearing">Thính giác</string>
-    <string name="accessibility_settings_tabs_physical">Thể chất</string>
+    <string name="accessibility_settings_tabs_physical">Tương tác</string>
     <string name="accessibility_settings_tabs_visual">Thị giác</string>
     <string name="accessibility_settings_title">Cài đặt hỗ trợ tiếp cận</string>
     <string name="accessibility_shortcut_description">Cho phép phím tắt của tính năng hỗ trợ tiếp cận bật từ màn hình khóa. Giữ cả 2 phím âm lượng trong vài giây.</string>
@@ -327,7 +314,7 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng.</st
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Nhấn 3 lần vào màn hình</string>
     <string name="accessibility_shortcut_edit_summary_software">Nút hỗ trợ tiếp cận</string>
     <string name="accessibility_shortcut_edit_summary_software_gesture">Cử chỉ hỗ trợ tiếp cận</string>
-    <string name="accessibility_shortcut_hardware_keyword">giữ các phím âm lượng</string>
+    <string name="accessibility_shortcut_hardware_keyword">Giữ các phím âm lượng</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Phím tắt từ màn hình khóa</string>
     <string name="accessibility_shortcut_service_title">Dịch vụ phím tắt</string>
     <string name="accessibility_shortcut_settings">Cài đặt phím tắt</string>
@@ -461,6 +448,9 @@ Tôi chỉ muốn hỏi về tiến độ thiết kế. Liệu những thiết k
     <string name="activity_not_found">Ứng dụng chưa được cài đặt trên điện thoại của bạn.</string>
     <string name="activity_picker_label">Chọn hoạt động</string>
     <string name="activity_title_power_manager">Tiết kiệm Pin;Tiết kiệm pin</string>
+	<string name="activity_title_root_acquired">Cho phép quyền truy cập root</string>
+    <string name="activity_title_root_manager">Quyền truy cập root</string>
+    <string name="activity_title_root_note">Giới thiệu về quyền truy cập root</string>
     <string name="ad_service">Dịch vụ quảng cáo</string>
     <string name="adapt_embedded">Cửa sổ song song khả dụng</string>
     <string name="adaptive_battery_main_switch_title">Sử dụng pin thích ứng</string>
@@ -593,7 +583,7 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="ai_settings_double_click_title">Bấm đúp</string>
     <string name="ai_settings_long_click_category">Bấm và giữ Phím AI</string>
     <string name="ai_settings_long_click_title">Bấm và giữ</string>
-    <string name="ai_settings_single_press_des">Bấm phím AI để trò chuyện với Google Assistant, sau đó thả để nhận câu trả lời.</string>
+    <string name="ai_settings_single_press_des">Bấm phím AI để trò chuyện với Trợ lý Google, sau đó thả để nhận câu trả lời.</string>
     <string name="airplane_mode">Chế độ trên máy bay</string>
     <string name="airplane_mode_summary">Bật để ngắt kết nối thiết bị khỏi mạng di động. Bạn sẽ không thể thực hiện cuộc gọi, gửi và nhận tin nhắn văn bản hoặc sử dụng dữ liệu di động khi tính năng này được bật.</string>
     <string name="alarm_ringtone_title">Âm thanh chuông báo mặc định</string>
@@ -660,7 +650,7 @@ Tiện ích: %2$s
     <string name="ambient_display_pickup_title">Nhấc để kiểm tra điện thoại</string>
     <string name="ambient_display_screen_summary_always_on">Luôn bật / Mức sử dụng pin tăng</string>
     <string name="ambient_display_screen_summary_notifications">Thông báo mới</string>
-    <string name="ambient_display_screen_title">Always-on display</string>
+    <string name="ambient_display_screen_title">Màn hình luôn bật</string>
     <string name="ambient_display_summary">Để xem giờ, thông báo và thông tin khác, hãy nhấn đúp vào màn hình.</string>
     <string name="ambient_display_tap_screen_summary">Để xem giờ, thông báo và thông tin khác, hãy nhấn vào màn hình.</string>
     <string name="ambient_display_tap_screen_title">Nhấn để kiểm tra điện thoại</string>
@@ -685,15 +675,15 @@ Tiện ích: %2$s
     <string name="animator_duration_scale_title">Tỷ lệ thời lượng ảnh động</string>
     <string name="another_migration_already_in_progress">Đang diễn ra một hoạt động di chuyển khác.</string>
     <string name="anti_spam">Danh sách chặn</string>
-    <string name="aod_and_lock_screen_settings_title">Always-on display &amp; Màn hình khóa</string>
+    <string name="aod_and_lock_screen_settings_title">Màn hình luôn bật &amp; màn hình khóa</string>
     <string name="aod_close_color_inversion">Tính năng này không tương thích với đảo màu. Tắt đảo màu trước.</string>
-    <string name="aod_name_wanxiang">Always-on display</string>
+    <string name="aod_name_wanxiang">Màn hình luôn bật</string>
     <string name="aod_notification_style">Hiệu ứng thông báo</string>
     <string name="aod_notification_style_animation">Ảnh động</string>
     <string name="aod_notification_style_none">Không</string>
     <string name="aod_notification_style_screen_on">Màn hình sáng lên</string>
-    <string name="aod_settings_category_name">Always-on display</string>
-    <string name="aod_settings_title">Always-on display</string>
+    <string name="aod_settings_category_name">Màn hình luôn bật</string>
+    <string name="aod_settings_title">Màn hình luôn bật</string>
     <string name="aod_show_mode_title">Hiển thị các mục</string>
     <string name="aod_style_description">Hiển thị đồng hồ, ngày, giờ, thông báo và các mục khác khi màn hình tắt</string>
     <string name="aod_style_title">Phong cách</string>
@@ -1060,7 +1050,7 @@ Lần chạy gần đây nhất vào %2$s</string>
 Sao lưu trên máy có thể bao gồm dữ liệu ứng dụng và thường chứa nhiều mục hơn. Các tập tin sao lưu được lưu trữ tại MIUI-backup-AllBackup và cần được sao chép vào máy tính sau khi quá trình sao lưu hoàn tất.
 
 Sao lưu đám mây:
-Sao lưu được lưu trữ trên Xiaomi Cloud và có thể truy cập không dây. Phương pháp này nhanh hơn và dễ dàng hơn so với sao lưu trên máy, nhưng bạn không thể sao lưu dữ liệu ứng dụng vào Xiaomi Cloud.
+Sao lưu được lưu trữ trên Đám mây Xiaomi và có thể truy cập không dây. Phương pháp này nhanh hơn và dễ dàng hơn so với sao lưu trên máy, nhưng bạn không thể sao lưu dữ liệu ứng dụng vào Đám mây Xiaomi.
 </string>
     <string name="backup_difference_title">Sao lưu trên máy khác với sao lưu đám mây như thế nào?</string>
     <string name="backup_disabled">Đã tắt sao lưu</string>
@@ -1319,9 +1309,9 @@ trong khoảng thời gian ^2</string>
     <string name="battery_used_for">Đã dùng ^1</string>
     <string name="bearer">Sóng mang</string>
     <string name="beauty_camera">Làm đẹp cho cuộc gọi video</string>
-    <string name="beauty_camera_summary">Sử dụng Làm đẹp cho cuộc gọi video WeChat</string>
+    <string name="beauty_camera_summary">Sử dụng Làm đẹp cho cuộc gọi video</string>
     <string name="beauty_camera_switch">Làm đẹp</string>
-    <string name="beauty_fc_assistant">Trợ lý camera trước</string>
+    <string name="beauty_fc_assistant">Trợ lý máy ảnh trước</string>
     <string name="billing_cycle">Hạn mức và cảnh báo dữ liệu</string>
     <string name="billing_cycle_fragment_summary">Hàng tháng vào ngày %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Còn chưa đến 1 ngày</string>
@@ -1470,6 +1460,8 @@ Bạn chưa từng kết nối với %2$s.</string>
     <string name="bluetooth_disable_hw_offload_dialog_message">Bạn cần khởi động lại thiết bị để thay đổi chế độ cài đặt này.</string>
     <string name="bluetooth_disable_hw_offload_dialog_title">Khởi động lại thiết bị?</string>
     <string name="bluetooth_disable_le_audio_hw_offload">Tắt chế độ giảm tải phần cứng Bluetooth LE AUDIO</string>
+	<string name="bluetooth_disable_leaudio">Tắt âm thanh Bluetooth LE</string>
+    <string name="bluetooth_disable_leaudio_summary">Tắt tính năng Bluetooth LE AUDIO nếu thiết bị hỗ trợ khả năng phần cứng LE AUDIO.</string>
     <string name="bluetooth_disable_profile_message">Điều này sẽ tắt:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Từ:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
     <string name="bluetooth_disable_profile_title">Tắt cấu hình?</string>
     <string name="bluetooth_disabled">Tắt</string>
@@ -1498,7 +1490,9 @@ Bạn chưa từng kết nối với %2$s.</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN chứa các ký tự hoặc biểu tượng</string>
     <string name="bluetooth_enable_gabeldorsche">Bật Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Bật ngăn xếp tính năng Bluetooth Gabeldorsche.</string>
-    <string name="bluetooth_enable_opp_high_speed">Chuyển Bluetooth tốc độ cao</string>
+	<string name="bluetooth_enable_leaudio_allow_list">Bật danh sách cho phép Bluetooth LE AUDIO</string>
+    <string name="bluetooth_enable_leaudio_allow_list_summary">Bật tính năng danh sách cho phép Bluetooth LE AUDIO.</string>
+    <string name="bluetooth_enable_opp_high_speed">Chuyển sang Bluetooth tốc độ cao</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_message">Bắt buộc khởi động lại Bluetooth để áp dụng các thay đổi. Kết nối được thiết lập có thể bị gián đoạn bởi hành động này. Khởi động lại Bluetooth?</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_negative">Hủy</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Khởi động lại</string>
@@ -1540,7 +1534,7 @@ Nguyên nhân có thể như sau:
 3. Thiết bị đã kết nối với thiết bị khác. Ngắt kết nối và thử lại.</string>
     <string name="bluetooth_inform_messgae_title">Không thể kết nối</string>
     <string name="bluetooth_is_disconnect_question">Ngắt kết nối %1$s?</string>
-    <string name="bluetooth_is_discoverable">Hiển thị với tất cả th.bị Bluetooth gần đó (%1$s)</string>
+    <string name="bluetooth_is_discoverable">Hiển thị với tất cả thiết bị Bluetooth gần đó (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Bật: Thiết bị này hiển thị với tất cả các thiết bị Bluetooth lân cận</string>
     <string name="bluetooth_is_visible_message">%1$s hiển thị với thiết bị lân cận khi cài đặt Bluetooth mở.</string>
     <string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE Audio</string>
@@ -1569,7 +1563,7 @@ Bạn chưa kết nối với %2$s trước đây.</string>
     <string name="bluetooth_multuple_devices_mac_address">Địa chỉ Bluetooth của thiết bị:
 %1$s</string>
     <string name="bluetooth_name_not_set">Không có loạt tên, đang sử dụng tên tài khoản</string>
-    <string name="bluetooth_no_devices_found">Ko tìm thấy th.bị Bluetooth lân cận nào.</string>
+    <string name="bluetooth_no_devices_found">Không tìm thấy thiết bị Bluetooth lân cận nào.</string>
     <string name="bluetooth_not_visible_to_other_devices">Không hiển thị với các thiết bị Bluetooth khác</string>
     <string name="bluetooth_notif_message">Nhấn để ghép nối với %1$s.</string>
     <string name="bluetooth_notif_ticker">Yêu cầu ghép nối Bluetooth</string>
@@ -1732,9 +1726,9 @@ Sau khi kết nối, %2$s sẽ nhận được tất cả các cuộc gọi đ�
     <string name="bluetooth_talkback_input_peripheral">Thiết bị đầu vào ngoại vi</string>
     <string name="bluetooth_talkback_phone">Điện thoại</string>
     <string name="bluetooth_tether_checkbox_text">Chia sẻ mạng qua Bluetooth</string>
-    <string name="bluetooth_tethering_available_subtext">Chia sẻ kết nối internet của điện thoại này qua Bluetooth</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Chia sẻ kết nối internet của điện thoại này với 1 thiết bị qua Bluetooth</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Chia sẻ kết nối internet của điện thoại này với %1$d thiết bị qua Bluetooth</string>
+    <string name="bluetooth_tethering_available_subtext">Chia sẻ kết nối Internet của điện thoại này qua Bluetooth</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Chia sẻ kết nối Internet của điện thoại này với 1 thiết bị qua Bluetooth</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Chia sẻ kết nối Internet của điện thoại này với %1$d thiết bị qua Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Chưa chia sẻ</string>
     <string name="bluetooth_tethering_off_subtext">Không chia sẻ kết nối Internet của điện thoại này qua Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Chia sẻ kết nối Internet của %1$d này qua Bluetooth</string>
@@ -1863,6 +1857,13 @@ Bạn có thể tắt tính năng này trong Cài đặt &gt; Bluetooth &gt; Thi
     <string name="bt_dialog_remember_choice">Không hiển thị lại</string>
     <string name="bt_dialog_settings">Cài đặt</string>
     <string name="bt_hci_snoop_log">Nhật ký gói dữ liệu HCl Bluetooth</string>
+	<string name="bt_hci_snoop_log_filter_map_title">Lọc nhật ký theo dõi HCI MAP Bluetooth</string>
+    <string name="bt_hci_snoop_log_filter_pbap_title">Lọc nhật ký theo dõi HCI PBAP Bluetooth</string>
+    <string name="bt_hci_snoop_log_filter_summary">Đặt chế độ lọc. (Tắt và bật Bluetooth để các thay đổi có hiệu lực)</string>
+    <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Đặt chế độ nhật ký rình mò HCI Bluetooth thành Đã bật Đã lọc để thay đổi tùy chọn này</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_footer">Tắt và bật Bluetooth để các thay đổi có hiệu lực</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_summary">Đặt bộ lọc</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_title">Lọc nhật ký theo dõi HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Truy cập tất cả nhật ký HCI Bluetooth trong một tập tin</string>
     <string name="bt_lc3plus_open_dialog_summary">LC3Plus sẽ cung cấp phát âm thanh chất lượng cao và giảm độ trễ khi chơi game và xem video đồng thời tăng mức tiêu thụ điện năng. Phát có thể bị giật vấp do giới hạn phần cứng Bluetooth và giao thoa môi trường.</string>
     <string name="bt_lc3plus_open_dialog_title">Chuyển sang LC3plus?</string>
@@ -2143,8 +2144,8 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="clear_adb_keys">Hủy ủy quyền gỡ lỗi USB</string>
     <string name="clear_all_data">Xóa tất cả dữ liệu</string>
     <string name="clear_cache_btn_text">Xóa bộ nhớ đệm</string>
-    <string name="clear_data_alert_info">Tất cả các bản sao lưu được lưu trữ trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Xiaomi Cloud trước khi đặt lại cài đặt gốc.</string>
-    <string name="clear_data_alert_info_pad">Tất cả các bản sao lưu được lưu trữ trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Xiaomi Cloud trước khi bạn tiếp tục.</string>
+    <string name="clear_data_alert_info">Tất cả các bản sao lưu được lưu trữ trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Đám mây Xiaomi trước khi đặt lại cài đặt gốc.</string>
+    <string name="clear_data_alert_info_pad">Tất cả các bản sao lưu được lưu trữ trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Đám mây Xiaomi trước khi bạn tiếp tục.</string>
     <string name="clear_data_dlg_text">Dữ liệu của ứng dụng này, bao gồm cả các tệp và chế độ cài đặt, sẽ bị xoá vĩnh viễn khỏi thiết bị này</string>
     <string name="clear_data_dlg_title">Xóa dữ liệu ứng dụng?</string>
     <string name="clear_failed_dlg_text">Không thể xóa bộ nhớ của ứng dụng.</string>
@@ -2163,19 +2164,19 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="close_fod_aod">Bạn sẽ không thể mở khóa thiết bị bằng vân tay khi màn hình tắt. "Chế độ luôn bật" sẽ không khả dụng. Mở khóa bằng vân tay chỉ làm việc khi màn hình bật.</string>
     <string name="close_hotspot_hint">Tắt điểm phát sóng di động trước khi chiếu</string>
     <string name="close_lid_display_settings_title">Sau khi gập</string>
-    <string name="close_miui_optimization_title">Tắt tối ưu MIUI</string>
+    <string name="close_miui_optimization_title">Tắt tối ưu hóa MIUI</string>
     <string name="close_optimization_message">Bố cục văn bản, tài khoản và phần khác của MIUI có thể bị ảnh hưởng sau khi bạn tắt tính năng này.</string>
     <string name="close_optimization_option">Tắt</string>
     <string name="close_privacy_thumbnail_blur_title">Xem trước không được làm mờ</string>
     <string name="close_slave_wifi_hint">Ngắt kết nối với mạng Wi-Fi phụ trước khi chiếu</string>
     <string name="closed_beta">Ổn định (Nội bộ)</string>
-    <string name="cloud_backup_section_title">Sao lưu Xiaomi Cloud</string>
+    <string name="cloud_backup_section_title">Sao lưu Đám mây Xiaomi</string>
     <string name="cloud_backup_settings_section_title">Cài đặt sao lưu</string>
     <string name="cloud_category_text">Đám mây</string>
     <string name="cloud_restore_section_summary">Khôi phục cài đặt hệ thống, bố trí Màn hình chính và ứng dụng</string>
     <string name="cloud_restore_section_summary_new">Sao lưu bố trí Màn hình chính, ứng dụng, cài đặt hệ thống và nhiều thứ khác</string>
-    <string name="cloud_restore_section_title">Khôi phục từ Xiaomi Cloud</string>
-    <string name="cloud_restore_section_title_new">Trên Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title">Khôi phục từ Đám mây Xiaomi</string>
+    <string name="cloud_restore_section_title_new">Trên Đám mây Xiaomi</string>
     <string name="cmcc_hardware_version">Phiên bản phần cứng</string>
     <string name="codec_low_latency_summary">Giảm thiểu độ trễ trong khi đồng bộ âm thanh và video trò chơi</string>
     <string name="codec_low_latency_title">Độ trễ thấp</string>
@@ -2199,7 +2200,7 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc trò chơi bật</string>
     <string name="color_game_led_game_mode_title">Sử dụng cho Tăng tốc trò chơi</string>
     <string name="color_game_led_incall_pulse_title">Sử dụng cho cuộc gọi đến</string>
-    <string name="color_game_led_notification_pulse_title">Nhấp nháy cho thông báo trên Always-on display</string>
+    <string name="color_game_led_notification_pulse_title">Nhấp nháy cho thông báo trên Màn hình luôn bật</string>
     <string name="color_game_led_remind_title">Hiệu ứng</string>
     <string name="color_game_led_special_scene_title">Hiệu ứng đặc biệt</string>
     <string name="color_game_led_start_time">Bắt đầu</string>
@@ -2259,7 +2260,7 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="common_issue">Câu hỏi thường gặp</string>
     <string name="common_settings">Cài đặt nhanh</string>
     <string name="complete_parameters">Tất cả thông số</string>
-    <string name="complete_parameters_new">Thông tin và và thông số chi tiết</string>
+    <string name="complete_parameters_new">Thông tin thiết bị và thông số chi tiết</string>
     <string name="complete_settings">Cài đặt chung</string>
     <string name="computer_backup_summary">Sao lưu và khôi phục các mục bằng máy tính</string>
     <string name="computer_backup_title">Máy tính</string>
@@ -2376,7 +2377,7 @@ Thông tin này giúp xác định xem những người liên hệ của bạn c
     <string name="contextual_card_feedback_send">Gửi phản hồi</string>
     <string name="contextual_card_removed_message">Đã xóa đề xuất</string>
     <string name="contextual_card_undo_dismissal_text">Hủy</string>
-    <string name="continue_reset_factory">Đặt lại cài đặt gốc</string>
+    <string name="continue_reset_factory">Khôi phục cài đặt gốc</string>
     <string name="contributors_title">Người đóng góp</string>
     <string name="control_center">Trung tâm điều khiển</string>
     <string name="control_center_force_use_panel_guide_text">Kéo thanh trạng thái ở bên trái xuống để xem thông báo. Kéo thanh trạng thái ở bên phải xuống sẽ mở Trung tâm điều khiển. Bạn có thể chuyển đổi giữa hai thanh bằng cách trượt sang trái và phải.</string>
@@ -2399,7 +2400,7 @@ Vuốt từ đầu màn hình xuống để mở ngăn kéo xuống rồi chạm
     <string name="convo_not_supported_summary">%1$s không hỗ trợ hầu hết các tính năng trò chuyện. Bạn không thể đặt một cuộc trò chuyện là ưu tiên. Các cuộc trò chuyện sẽ không xuất hiện dưới dạng bong bóng nổi.</string>
     <string name="cool_color">Lạnh</string>
     <string name="copy">Sao chép</string>
-    <string name="copyable_slice_toast">Đã sao chép %1$svào bảng nhớ tạm.</string>
+    <string name="copyable_slice_toast">Đã sao chép %1$s vào bảng nhớ tạm.</string>
     <string name="copyright">Bản quyền</string>
     <string name="copyright_title">Bản quyền</string>
     <string name="country_name">%s (hệ thống)</string>
@@ -2413,7 +2414,7 @@ Vuốt từ đầu màn hình xuống để mở ngăn kéo xuống rồi chạm
     <string name="credentials_erased">Bộ nhớ thông tin xác thực đã bị xóa.</string>
     <string name="credentials_install">Cài đặt chứng chỉ</string>
     <string name="credentials_install_summary">Cài đặt chứng chỉ từ bộ nhớ</string>
-    <string name="credentials_not_erased">Ko thể xóa b.nhớ t.tin x.thực.</string>
+    <string name="credentials_not_erased">Không thể xóa bộ nhớ thông tin xác thực.</string>
     <string name="credentials_password_too_short">Ít nhất 8 ký tự</string>
     <string name="credentials_reset">Xóa thông tin xác thực</string>
     <string name="credentials_reset_hint">Xóa tất cả nội dung?</string>
@@ -2453,12 +2454,12 @@ Nếu quá trình gián đoạn bạn sẽ mất một phần hoặc toàn bộ 
     <string name="custom_wifi_name_title">Sửa tên Wi-Fi</string>
     <string name="customize_button_title">Tuỳ chỉnh</string>
     <string name="customize_knock_gesture">Tùy chỉnh cử chỉ khớp ngón tay</string>
-    <string name="cutout_mode_always">Luôn hiển thị tai thỏ</string>
+    <string name="cutout_mode_always">Luôn hiển thị vết cắt</string>
     <string name="cutout_mode_default">Tự động</string>
-    <string name="cutout_mode_settings_title">Một số ứng dụng có thể được hiển thị không chính xác nếu bạn tùy chỉnh cách hiển thị tai thỏ.</string>
-    <string name="cutout_mode_title">Tai thỏ trong ứng dụng cá nhân</string>
-    <string name="cutout_type_desc">Bật để làm mượt đường cong tai thỏ</string>
-    <string name="cutout_type_title">Điều chỉnh hình dáng tai thỏ</string>
+    <string name="cutout_mode_settings_title">Một số ứng dụng có thể được hiển thị không chính xác nếu bạn tùy chỉnh cách hiển thị vết cắt.</string>
+    <string name="cutout_mode_title">Vết cắt trong ứng dụng cá nhân</string>
+    <string name="cutout_type_desc">Bật để làm mượt đường cong của vết cắt</string>
+    <string name="cutout_type_title">Điều chỉnh hình dáng vết cắt</string>
     <string name="daltonizer_mode_deuteranomaly">Mù màu xanh lá cây (đỏ- xanh)</string>
     <string name="daltonizer_mode_deuteranomaly_summary">Phân biệt màu lục kém, mù màu xanh lục</string>
     <string name="daltonizer_mode_deuteranomaly_title">Đỏ – xanh lục</string>
@@ -2494,8 +2495,8 @@ Nếu quá trình gián đoạn bạn sẽ mất một phần hoặc toàn bộ 
     <string name="dark_mode_display_enable_summary">Chuyển sang giao diện người dùng ánh sáng yếu hiển thị hầu hết các bề mặt tối</string>
     <string name="dark_mode_font_background_title">Điều chỉnh văn bản và nền tự động</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Tôi biết</string>
-    <string name="dark_mode_power_save_alert_dialog_message">Nếu bạn tắt tối ưu MIUI và bật Tiết kiệm pin, Chế độ nền tối sẽ tự động bật.
-Để tắt Chế độ nền tối, tắt Tiết kiệm pin hoặc bật tối ưu MIUI trong Cài đặt &gt; Tùy chọn nhà phát triển &gt; Bật Tối ưu MIUI.</string>
+    <string name="dark_mode_power_save_alert_dialog_message">Nếu bạn tắt tối ưu hóa MIUI và bật Tiết kiệm pin, Chế độ nền tối sẽ tự động bật.
+Để tắt Chế độ nền tối, tắt Tiết kiệm pin hoặc bật tối ưu hóa MIUI trong Cài đặt &gt; Tùy chọn nhà phát triển &gt; Bật Tối ưu MIUI.</string>
     <string name="dark_mode_power_save_alert_dialog_title">Chế độ nền tối</string>
     <string name="dark_mode_time_settings">Lên lịch trình bật Chế độ nền tối</string>
     <string name="dark_theme_main_switch_title">Sử dụng Giao diện tối</string>
@@ -2845,7 +2846,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng của thiết b
     <string name="device_status_activity_title">Trạng thái</string>
     <string name="device_status_summary">Số điện thoại, tín hiệu, v.v...</string>
     <string name="device_theme">Giao diện thiết bị</string>
-    <string name="device_total_memory">Tổng lưu trữ </string>
+    <string name="device_total_memory">"Tổng lưu trữ "</string>
     <string name="device_usage_list_summary">Mức sử dụng thiết bị kể từ lần sạc đầy</string>
     <string name="devices_title">Thiết bị</string>
     <string name="dial_application_title">Quay số</string>
@@ -3083,7 +3084,7 @@ Nếu sự cố này vẫn tiếp diễn, có thể bạn cần phải gỡ cài
     <string name="downloaded_sims_category_title">SIM ĐÃ TẢI XUỐNG</string>
     <string name="downloading_description">Đang tải xuống…</string>
     <string name="doze_always_on_summary">Làm tăng mức sử dụng pin</string>
-    <string name="doze_always_on_title">Always-on display</string>
+    <string name="doze_always_on_title">Màn hình luôn bật</string>
     <string name="doze_summary">Khi có thông báo mới, màn hình tối sẽ bật sáng</string>
     <string name="doze_title">Đánh thức màn hình để xem thông báo</string>
     <string name="dpp_before_share_summary">Chia sẻ mạng Wi-Fi "%1$s" cho người khác?</string>
@@ -3147,6 +3148,10 @@ Nếu sự cố này vẫn tiếp diễn, có thể bạn cần phải gỡ cài
     <string name="dump_log_summary">Tính năng này được thiết kế để tạo ra %s nhật ký trong phiên bản Beta của MIUI. Hãy thận trọng khi sử dụng.
 Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin.</string>
     <string name="dump_log_title">Giới thiệu tính năng này</string>
+	<string name="dsu_is_running">DSU đang chạy</string>
+    <string name="dsu_loader_description">Tải ảnh cập nhật hệ thống động</string>
+    <string name="dsu_loader_loading">Đang tải…</string>
+    <string name="dsu_loader_title">Trình tải DSU</string>
     <string name="early_morning">Buổi sáng</string>
     <string name="easymode_hint">Chạm để tắt Chế độ thu gọn</string>
     <string name="edge_mode_back">Quay lại</string>
@@ -3403,11 +3408,11 @@ Hãy khởi động lại thiết bị rồi thử lần nữa.</string>
     <string name="external_ram_dialog_btn_cancel">Để sau</string>
     <string name="external_ram_dialog_btn_ok">Khởi động lại</string>
     <string name="external_ram_dialog_icon_confirm">Tôi biết</string>
-    <string name="external_ram_dialog_icon_info">Hệ thống sẽ mở rộng RAM %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_info">Hệ thống sẽ mở rộng RAM thêm %1$s %2$s.</string>
     <string name="external_ram_dialog_icon_title">Mở rộng bộ nhớ bật</string>
     <string name="external_ram_dialog_message">Khởi động lại thiết bị để áp dụng các thay đổi.</string>
     <string name="external_ram_dialog_title">Khởi động lại thiết bị</string>
-    <string name="external_ram_intro">Tăng thêm RAM bằng cách chiếm dụng lưu trữ. Chỉ sử dụng tính năng này khi có đủ dung lượng lưu trữ trên thiết bị.</string>
+    <string name="external_ram_intro">Tăng thêm RAM bằng cách chiếm dụng bộ nhớ trong. Chỉ sử dụng tính năng này khi có đủ dung lượng lưu trữ trên thiết bị.</string>
     <string name="external_ram_remind_toast">Dung lượng lưu trữ sắp hết. Mở rộng bộ nhớ hiện đã tắt.</string>
     <string name="external_ram_summary">Thêm %1$s %2$s RAM từ bộ nhớ lưu trữ. Chỉ sử dụng tính năng này khi có đủ dung lượng lưu trữ trên thiết bị.</string>
     <string name="external_ram_title">Mở rộng bộ nhớ</string>
@@ -3415,7 +3420,7 @@ Hãy khởi động lại thiết bị rồi thử lần nữa.</string>
     <string name="external_source_switch_title">Cho phép từ nguồn này</string>
     <string name="external_source_trusted">Đã cho phép</string>
     <string name="external_source_untrusted">Chưa cho phép</string>
-    <string name="extreme_threats_summary">Nhận c.báo về mối đe dọa cực kỳ ng.trọng đến s.mạng và t.sản</string>
+    <string name="extreme_threats_summary">Nhận cảnh báo về mối đe dọa cực kỳ nghiêm trọng đến tính mạng và tài sản</string>
     <string name="extreme_threats_title">Mối đe dọa cực kỳ nghiêm trọng</string>
     <string name="eye_gaze_summary">Thiết bị sẽ không khóa khi phát hiện bạn đang nhìn vào màn hình</string>
     <string name="eye_gaze_title">Phát hiện ánh nhìn</string>
@@ -3511,8 +3516,8 @@ hướng mặt đến màn hình bên ngoài</string>
     <string name="feedback_btn_text">Gửi phản hồi</string>
     <string name="feedback_settings">Dịch vụ &amp; phản hồi</string>
     <string name="feedback_settings_new">Phản hồi</string>
-    <string name="felica_wallet">FeliCa Wallet</string>
-    <string name="felica_wallet_desc">FeliCa Wallet</string>
+    <string name="felica_wallet">Ví FeliCa</string>
+    <string name="felica_wallet_desc">Ví FeliCa</string>
     <string name="file_privacy_password_role_instruction">Tập tin riêng tư của bạn sẽ được lưu trữ ở đây.</string>
     <string name="filter">Bộ lọc</string>
     <string name="filter_all_apps">Tất cả ứng dụng</string>
@@ -3530,9 +3535,9 @@ hướng mặt đến màn hình bên ngoài</string>
     <string name="filter_notif_all_apps">Ứng dụng: Tất cả</string>
     <string name="filter_notif_blocked_apps">Đã tắt</string>
     <string name="filter_notif_blocked_channels">Danh mục: Bị tắt</string>
-    <string name="filter_notif_dnd_channels">Danh mục: Ghi đè Ko làm phiền</string>
+    <string name="filter_notif_dnd_channels">Danh mục: Ghi đè Không làm phiền</string>
     <string name="filter_notif_low_channels">Danh mục: Tầm quan trọng thấp</string>
-    <string name="filter_notif_urgent_channels">Danh mục: Tầm q.trọng khẩn cấp</string>
+    <string name="filter_notif_urgent_channels">Danh mục: Tầm quan trọng khẩn cấp</string>
     <string name="filter_overlay_apps">Các ứng dụng có quyền</string>
     <string name="filter_write_settings_apps">Có thể sửa đổi các chế độ cài đặt hệ thống</string>
     <string name="financed_privacy_IMEI">Truy cập số IMEI của bạn</string>
@@ -3730,6 +3735,8 @@ Nếu bạn chưa thanh toán, thiết bị của bạn sẽ bị khoá.
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="focus_summary">Sử dụng định dạng thông báo tùy chỉnh để làm nổi bật thông tin quan trọng</string>
+    <string name="focus_title">Tiêu điểm thông báo</string>
     <string name="fold_application_mode_name">Bố cục ứng dụng</string>
     <string name="fold_game_adaptation">Bố cục game</string>
     <string name="fold_rule_default">Kiến nghị</string>
@@ -3933,11 +3940,11 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="go_to_sleep">Tắt màn hình</string>
     <string name="google_account_title">Google</string>
     <string name="google_assistant_guide_cancel">Hủy</string>
-    <string name="google_assistant_guide_message">Bạn có thể nhấn và giữ Phím Nguồn trong %s giây để bắt đầu trò chuyện với Google Assistant. Đặt lối tắt này ngay?</string>
+    <string name="google_assistant_guide_message">Bạn có thể nhấn và giữ Phím Nguồn trong %s giây để bắt đầu trò chuyện với Trợ lý Google. Đặt lối tắt này ngay?</string>
     <string name="google_assistant_guide_ok">Đặt</string>
     <string name="google_assistant_guide_tip">*Nhấn và giữ Phím Nguồn trong %s giây để mở menu tắt máy.</string>
-    <string name="google_assistant_guide_title">Google Assistant</string>
-    <string name="google_assistant_label">Google Assistant</string>
+    <string name="google_assistant_guide_title">Trợ lý Google</string>
+    <string name="google_assistant_label">Trợ lý Google</string>
     <string name="google_backup_enable">Bật sao lưu</string>
     <string name="google_backup_section_title">Sao lưu Google</string>
     <string name="google_service_title">Dịch vụ Google</string>
@@ -4030,7 +4037,7 @@ Khu vực nơi bạn có thể xác nhận khóa màn hình sẽ chuyển sang b
     <string name="haptic_descripthion_for_middle_level">Mặc định</string>
     <string name="haptic_descripthion_for_min_level">Yếu</string>
     <string name="haptic_experience">Demo</string>
-    <string name="haptic_experience_details">Phản hồi xúc giác &amp; Khả năng truy cập</string>
+    <string name="haptic_experience_details">Phản hồi xúc giác &amp; khả năng truy cập</string>
     <string name="haptic_feedback_enable_title">Rung khi chạm</string>
     <string name="haptic_feedback_level">Mức rung</string>
     <string name="haptic_feedback_progress">Mức phản hồi xúc giác</string>
@@ -4160,7 +4167,7 @@ Tạo một bản sao lưu trên thiết bị này, sau đó vào MIUI-backup-Al
 Ổ USB
 Lưu cài đặt hệ thống, tài khoản, dữ liệu ứng dụng và các mục khác vào ổ USB.
 
-Xiaomi Cloud
+Đám mây Xiaomi
 Đồng bộ liên hệ, ảnh, video, danh sách ứng dụng, cài đặt hệ thống và bố trí Màn hình chính với đám mây.</string>
     <string name="how_backup_title">Làm thế nào tôi có thể sao lưu các mục?</string>
     <string name="how_encrypt_content">Bạn chỉ có thể mã hóa sao lưu trên máy. Đây là các phương pháp mã hóa bạn có thể sử dụng:
@@ -4180,8 +4187,8 @@ Sao chép bản sao lưu từ máy tính của bạn vào MIUI-backup-AllBackup 
 .Ổ USB
 Sao chép bản sao lưu từ ổ USB sang MIUI-backup-AllBackup và chọn tùy chọn khôi phục các mục từ ổ USB để tiếp tục.
 
-Xiaomi Cloud
-Mở Xiaomi Cloud và khôi phục các mục từ đó.</string>
+Đám mây Xiaomi
+Mở Đám mây Xiaomi và khôi phục các mục từ đó.</string>
     <string name="how_restore_backup_title">Làm thế nào để khôi phục các mục đã sao lưu?</string>
     <string name="http_invoke_app">Ứng dụng Web</string>
     <string name="http_invoke_app_summary">Mở ứng dụng nhanh hơn mà không cần cài đặt</string>
@@ -4222,7 +4229,7 @@ Mở Xiaomi Cloud và khôi phục các mục từ đó.</string>
     <string name="inactive_app_active_summary">Đã kích hoạt. Chạm để chuyển.</string>
     <string name="inactive_app_inactive_summary">Chưa kích hoạt. Chạm để chuyển.</string>
     <string name="inactive_apps_title">Ứng dụng chưa kích hoạt</string>
-    <string name="incall_show">Video hồ sơ cho các cuộc gọi đến</string>
+    <string name="incall_show">Hiển thị các cuộc gọi đến bằng video cá nhân</string>
     <string name="include_app_data_title">Bao gồm dữ liệu ứng dụng</string>
     <string name="incoming_call_breathing_light_color_title">Màu đèn cuộc gọi</string>
     <string name="incoming_call_breathing_light_freq_title">Tần suất nhấp nháy khi có cuộc gọi đến</string>
@@ -4576,9 +4583,9 @@ Mở Xiaomi Cloud và khôi phục các mục từ đó.</string>
     <string name="language_input_gesture_summary_on_non_assist"></string>
     <string name="language_input_gesture_summary_on_with_assist"></string>
     <string name="language_input_gesture_title">Ngôn ngữ, phương thức nhập và cử chỉ</string>
-    <string name="language_keyboard_settings_title">Ngôn ngữ và nhập liệu</string>
+    <string name="language_keyboard_settings_title">Ngôn ngữ &amp; nhập liệu</string>
     <string name="language_picker_title">Ngôn ngữ</string>
-    <string name="language_settings">Ngôn ngữ và nhập liệu</string>
+    <string name="language_settings">Ngôn ngữ &amp; nhập liệu</string>
     <string name="last_synced">Đồng bộ hóa lần cuối %1$s</string>
     <string name="last_time_used_label">Sử dụng lần cuối</string>
     <string name="lattice_smartcover_title">Vỏ bảo vệ đèn LED trước</string>
@@ -4593,7 +4600,7 @@ Mở Xiaomi Cloud và khôi phục các mục từ đó.</string>
     <string name="launch_control_center">Trung tâm điều khiển</string>
     <string name="launch_defaults_none">Chưa đặt mặc định</string>
     <string name="launch_defaults_some">Vài thiết lập mặc định</string>
-    <string name="launch_google_search">Khởi chạy Google Assistant</string>
+    <string name="launch_google_search">Khởi chạy Trợ lý Google</string>
     <string name="launch_instant_app">Mở</string>
     <string name="launch_mdp_app_text">Xem gói</string>
     <string name="launch_noapp_dialog_cancel">Hủy</string>
@@ -4610,7 +4617,7 @@ Mở Xiaomi Cloud và khôi phục các mục từ đó.</string>
     <string name="launch_wifi_text">Xem chi tiết</string>
     <string name="launcher_icon">Biểu tượng</string>
     <string name="launcher_icon_management">Quản lý lối tắt Màn hình chính</string>
-    <string name="launcher_title">Màn hình chính &amp; Gần đây</string>
+    <string name="launcher_title">Màn hình chính &amp; gần đây</string>
     <string name="launching_cit">Đang khởi chạy CIT…</string>
     <string name="launching_pho">Đang mở thông tin thiết bị…</string>
     <string name="launching_rep">Đang báo cáo…</string>
@@ -5052,7 +5059,7 @@ Kết nối ít nhất 4 điểm.</string>
     <string name="long_press_menu_key">Bấm giữ phím Menu</string>
     <string name="long_press_menu_key_when_lock">Bấm giữ phím Menu trên Màn hình khóa</string>
     <string name="long_press_power_key">Bấm giữ phím Nguồn</string>
-    <string name="long_press_power_key_half_of_second">Bấm và giữ phím Nguồn trong 0,5 giây để bật Google Assistant</string>
+    <string name="long_press_power_key_half_of_second">Bấm và giữ phím Nguồn trong 0,5 giây để bật Trợ lý Google</string>
     <string name="long_press_power_key_half_second">Bấm và giữ Phím nguồn %sgiây</string>
     <string name="long_press_power_key_tips"><Data>Bấm giữ phím Nguồn &lt;font color=#999999&gt;nhanh hơn và thuận tiện hơn&lt;/font</Data>&gt;</string>
     <string name="long_press_volume_down">Bấm giữ phím Giảm âm lượng</string>
@@ -5065,6 +5072,11 @@ Kết nối ít nhất 4 điểm.</string>
     <string name="low_dc_light_title">Chế độ chống nhấp nháy ánh sáng yếu</string>
     <string name="low_label">Thấp</string>
     <string name="low_storage_summary">Sắp hết bộ nhớ. Đã dùng %1$s – Còn trống %2$s</string>
+    <string name="lyra_account_ap_summary">Cho phép máy tính bảng và máy tính ở gần đăng nhập vào Tài khoản Xiaomi của bạn bật điểm phát sóng trên thiết bị này và kết nối với nó</string>
+    <string name="lyra_account_ap_title">Hỗ trợ mạng</string>
+    <string name="lyra_auto_connect_summary">Tự động bật điểm phát sóng và kết nối các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn với điểm phát sóng đã lưu nếu chúng chưa được kết nối với mạng</string>
+    <string name="lyra_auto_connect_title">Tự động bật điểm phát sóng</string>
+    <string name="macaddr_label">Địa chỉ MAC:</string>
     <string name="magic_list_empty_text_pad">Không tìm thấy ứng dụng hỗ trợ cửa sổ song song</string>
     <string name="magic_window_name_pad">Cửa sổ song song</string>
     <string name="mah">%d mAh</string>
@@ -5156,7 +5168,7 @@ Có người dùng khác trên thiết bị này.
     <string name="mashup_sound_arctic">Bắc cực</string>
     <string name="mashup_sound_australia">Úc</string>
     <string name="master_clear_all">Xóa tất cả dữ liệu từ bộ nhớ trong của thiết bị? Bạn không thể khôi phục lại hành động này.</string>
-    <string name="master_clear_apply_step_1"><b>"Đặt lại cài đặt gốc" sẽ xóa tất cả dữ liệu trên thiết b</b>ị, bao gồm cả hình ảnh, bài hát, ghi chú và dữ liệu cá nhân khác. Hãy chắc chắn rằng bạn đã sao lưu tất cả các mục quan trọng vào máy tính.</string>
+    <string name="master_clear_apply_step_1"><b>"Khôi phục cài đặt gốc" sẽ xóa tất cả dữ liệu trên thiết b</b>ị, bao gồm cả hình ảnh, bài hát, ghi chú và dữ liệu cá nhân khác. Hãy chắc chắn rằng bạn đã sao lưu tất cả các mục quan trọng vào máy tính.</string>
     <string name="master_clear_apply_step_2">Hãy chắc chắn rằng tất cả các mục quan trọng đã được sao lưu vào máy tính. Tất cả dữ liệu trên thiết bị này sẽ bị xóa khi đặt lại. <b>Bạn sẽ không thể khôi phục lại các mục mà bạn chưa sao lưu</b>.</string>
     <string name="master_clear_apply_title">Chú ý</string>
     <string name="master_clear_erase_application_progress">Đang xóa ứng dụng…</string>
@@ -5167,7 +5179,7 @@ Bạn không thể khôi phục lại hành động này.</string>
     <string name="master_clear_personal_data_sdcard">Xóa tất cả thông tin và nội dung cá nhân của bạn?
 Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="master_clear_title">Xóa tất cả dữ liệu (đặt lại cài đặt gốc)</string>
-    <string name="master_clear_title_new">Đặt lại cài đặt gốc</string>
+    <string name="master_clear_title_new">Khôi phục cài đặt gốc</string>
     <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
     <string name="material_hour_selection">Chọn giờ</string>
     <string name="material_hour_suffix">%1$s giờ</string>
@@ -5181,11 +5193,11 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="material_timepicker_select_time">Chọn thời gian</string>
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
     <string name="max_aspect_settings_all_app_display_loading">Vui lòng chờ…</string>
-    <string name="max_cpu10_info">"Mười nhân Mạnh nhất: "</string>
-    <string name="max_cpu2_info">"Hai nhân Mạnh nhất: "</string>
-    <string name="max_cpu4_info">"Bốn nhân Mạnh nhất: "</string>
-    <string name="max_cpu6_info">"Sáu nhân Mạnh nhất: "</string>
-    <string name="max_cpu8_info">"Tám nhân Mạnh nhất: "</string>
+    <string name="max_cpu10_info">"Mười nhân Mạnh nhất "</string>
+    <string name="max_cpu2_info">"Hai nhân Mạnh nhất "</string>
+    <string name="max_cpu4_info">"Bốn nhân Mạnh nhất "</string>
+    <string name="max_cpu6_info">"Sáu nhân Mạnh nhất "</string>
+    <string name="max_cpu8_info">"Tám nhân Mạnh nhất "</string>
     <string name="max_fingerprint_number_reached">Không thể thêm nhiều hơn 5 vân tay. Để thêm vân tay mới, hãy xóa vân tay hiện tại trước.</string>
     <string name="max_fingerprint_reached_toast">Bạn có thể thêm đến 5 vân tay</string>
     <string name="maximum_memory_use">Sử dụng bộ nhớ tối đa</string>
@@ -5261,7 +5273,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="memory_usage_apps">Bộ nhớ do ứng dụng sử dụng</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s bộ nhớ trung bình được sử dụng trong 3 giờ qua</string>
-    <string name="memorycard_calculating">Đang tính…</string>
+    <string name="memorycard_calculating">Đang tính toán dung lượng…</string>
     <string name="menu_cancel">Hủy</string>
     <string name="menu_check">Trải nghiệm</string>
     <string name="menu_delete">Xóa APN</string>
@@ -5304,7 +5316,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="mic_toggle_description">Đối với các ứng dụng và dịch vụ. Nếu chế độ cài đặt này tắt, dữ liệu thu được qua micrô vẫn có thể được chia sẻ khi bạn gọi đến số khẩn cấp.</string>
     <string name="mic_toggle_title">Truy cập micro</string>
     <string name="micloud_service_summary">Đồng bộ danh sách ứng dụng, sao lưu cài đặt hệ thống và bố trí Màn hình chính</string>
-    <string name="micloud_service_title">Xiaomi Cloud</string>
+    <string name="micloud_service_title">Đám mây Xiaomi</string>
     <string name="middle_function_key">Khu vực trung tâm</string>
     <string name="midnight">Ban đêm</string>
     <string name="miheadet_up_music">Bài trước</string>
@@ -5409,6 +5421,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="miheadset_key_config_noise_control">Kiểm soát tiếng ồn</string>
     <string name="miheadset_key_config_noise_control_summary">Bấm giữ để chuyển giữa hai chế độ kiểm soát tiếng ồn đã chọn</string>
     <string name="miheadset_key_config_noise_summary">Chặn âm thanh bên ngoài</string>
+    <string name="miheadset_key_config_none">Không có</string>
     <string name="miheadset_key_config_press_left">Bấm và giữ tai nghe bên trái</string>
     <string name="miheadset_key_config_press_right">Bấm và giữ tai nghe bên phải</string>
     <string name="miheadset_key_config_trans_summary">Cho phép âm thanh bên ngoài</string>
@@ -5472,7 +5485,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="miui_bubbles_notification_status_opened">Bật</string>
     <string name="miui_data_usage_menu_metered">Điểm phát sóng di động</string>
     <string name="miui_device_control_description">Hiển thị ứng dụng hỗ trợ điều khiển thiết bị để có thể điều khiển thiết bị nhà thông minh tương thích</string>
-    <string name="miui_experience_optimization">Bật tối ưu MIUI</string>
+    <string name="miui_experience_optimization">Bật tối ưu hóa MIUI</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Hủy</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Để có kết quả tốt nhất khi sử dụng Mở khóa bằng khuôn mặt, không cho phép thiết bị tự động điều chỉnh độ sáng màn hình</string>
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
@@ -5513,7 +5526,7 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_nfc_dialog_positive">Hủy</string>
     <string name="miui_nfc_dialog_title">Tắt NFC</string>
     <string name="miui_nfc_mi_pay_summary">Mi Pay, thẻ giao thông, thẻ khóa</string>
-    <string name="miui_optimization_disabled">Tắt tối ưu MIUI</string>
+    <string name="miui_optimization_disabled">Tắt tối ưu hóa MIUI</string>
     <string name="miui_sos_around_photo_summary">Đính kèm %d ảnh từ camera trước và sau vào tin nhắn gửi đến liên hệ khẩn cấp</string>
     <string name="miui_sos_around_photo_title">Đính kèm ảnh</string>
     <string name="miui_sos_around_voice_summary">Đính kèm %d-giây ghi âm vào tin nhắn gửi đến liên hệ khẩn cấp</string>
@@ -5561,6 +5574,9 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_sos_menu_add">Thêm</string>
     <string name="miui_sos_menu_edit">Sửa</string>
     <string name="miui_sos_msg_call_log_prefix">Đây là lịch sử cuộc gọi của tôi trong một giờ qua:</string>
+	<string name="miui_sos_pa_title">Vị trí khẩn cấp</string>
+    <string name="miui_sos_pa_turn_off">Tắt</string>
+    <string name="miui_sos_pa_turn_on">Bật</string>
     <string name="miui_sos_play_voice">Phát tin nhắn SOS</string>
     <string name="miui_sos_remind_add">Thêm</string>
     <string name="miui_sos_remind_close">Chế độ SOS khẩn cấp đang bật. Tắt cùng với tất cả các tính năng liên quan?</string>
@@ -5578,6 +5594,18 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_sos_statusbar_title">SOS khẩn cấp đã kích hoạt</string>
     <string name="miui_sos_unknow_contract">Liên hệ không xác định</string>
     <string name="miui_special_feature">Tính năng đặc biệt</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_msg">Bật "%s" để có thể sử dụng tính năng này một cách bình thường. Bạn có thể bật tính năng này trong Cài đặt.</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_posit">Cài đặt</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_title">Bật "%s"</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_msg">"%1$s" đang bật. Để tránh thiết bị của bạn ngay lập tức hiển thị Màn hình chính hoặc nội dung ứng dụng khi nhận ra khuôn mặt của bạn, chúng tôi cũng khuyên bạn nên bật "%2$s".</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_ Negative">Tắt</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_posit">Tiếp tục</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_title">Thông báo về quyền riêng tư</string>
+    <string name="miui_tof_screen_on_msg">Khi thiết bị phát hiện có người ở gần, màn hình sẽ bật, cố gắng nhận dạng khuôn mặt và mở khóa nếu thành công</string>
+    <string name="miui_tof_screen_on_open_dialog_msg">Bật "%s" để tránh thiết bị của bạn hiển thị ngay Màn hình chính hoặc nội dung ứng dụng khi nhận ra khuôn mặt của bạn.</string>
+    <string name="miui_tof_screen_on_open_dialog_title">Bật "%s"</string>
+    <string name="miui_tof_screen_on_success_toast">"Nhận dạng khuôn mặt khi ở gần thiết bị" được bật. Để đảm bảo quyền riêng tư của bạn, hãy bật cả "Ở trên màn hình khóa sau khi mở khóa".</string>
+    <string name="miui_tof_screen_on_title">Nhận diện khuôn mặt khi ở gần thiết bị</string>
     <string name="miui_touch_filtered_touchassistant_warning">Hộp chọn quyền bị che bởi Phím ảo. Hãy di chuyển Phím ảo hoặc tắt tính năng này.</string>
     <string name="miui_touch_filtered_warning">Nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó.</string>
     <string name="miui_type_style_summary">Cách nhập được áp dụng khi Công cụ đọc màn hình bật</string>
@@ -5726,7 +5754,7 @@ Khi chuyển sang %1$s, dịch vụ %2$s của bạn sẽ không bị hủy.</st
     <string name="move_app">Chuyển</string>
     <string name="move_app_failed_dlg_text">Không thể di chuyển ứng dụng. %1$s</string>
     <string name="move_app_to_internal">Chuyển sang điện thoại</string>
-    <string name="move_app_to_sdcard">Chuyển đến b.nhớ USB</string>
+    <string name="move_app_to_sdcard">Chuyển đến bộ nhớ USB</string>
     <string name="move_error_device_admin">Không thể cài đặt ứng dụng quản trị thiết bị trên phương tiện ngoài</string>
     <string name="mqs_privacy_automatically_upload">Tải lên tự động lần tới</string>
     <string name="mqs_privacy_dialog_cancel">Hủy</string>
@@ -5844,7 +5872,7 @@ Hãy chọn hệ điều hành hệ thống:</string>
     <string name="music_video_flow_across_device">Điều khiển và chuyển phát âm thanh giữa các thiết bị</string>
     <string name="musicfx_title">Hiệu ứng âm nhạc</string>
     <string name="mute">Chế độ im lặng</string>
-    <string name="mute_media_sound_summary">Game, nhạc, video và các ứng dụng khác</string>
+    <string name="mute_media_sound_summary">Trò chơi, nhạc, video và các ứng dụng khác</string>
     <string name="mute_media_sound_title">Tắt âm thanh phương tiện trong chế độ Im lặng</string>
     <string name="mute_music_stream">Tắt âm thanh phương tiện</string>
     <string name="mute_voiceassist_stream">Tắt tiếng trợ lý thoại</string>
@@ -6082,7 +6110,7 @@ Hãy chọn hệ điều hành hệ thống:</string>
     <string name="no_channels">Ứng dụng này chưa đăng bất kỳ thông báo nào</string>
     <string name="no_connected_devices">Không có thiết bị nào được kết nối</string>
     <string name="no_data_usage">Không sử dụng dữ liệu</string>
-    <string name="no_default_apps">Ko có ứng dụng mặc định.</string>
+    <string name="no_default_apps">Không có ứng dụng mặc định.</string>
     <string name="no_default_home">Chưa chọn</string>
     <string name="no_device_admins">Không có ứng dụng quản trị thiết bị nào</string>
     <string name="no_internet_access_remember">Không hỏi lại cho mạng này</string>
@@ -6120,14 +6148,14 @@ Hãy chọn hệ điều hành hệ thống:</string>
     <string name="not_default_data_content_description">Không được thiết lập sử dụng dữ liệu</string>
     <string name="not_enabled">Tắt</string>
     <string name="not_encrypted_summary">Điện thoại chưa được mã hoá</string>
-    <string name="not_installed">Chưa c.đặt cho người dùng này</string>
+    <string name="not_installed">Chưa cài đặt cho người dùng này</string>
     <string name="not_set">Chưa đặt</string>
     <string name="notch_and_status_bar_settings">Trung tâm điều khiển &amp; thanh trạng thái</string>
-    <string name="notch_force_black_desc">Bật vùng tối xung quanh tai thỏ</string>
-    <string name="notch_force_black_title">Ẩn tai thỏ</string>
-    <string name="notch_settings">Tai thỏ</string>
-    <string name="notch_style_mod_description">Tùy chọn hiển thị tai thỏ và thanh trạng thái</string>
-    <string name="notch_style_mod_title">Ẩn tai thỏ</string>
+    <string name="notch_force_black_desc">Bật vùng tối xung quanh vết cắt</string>
+    <string name="notch_force_black_title">Ẩn vết cắt</string>
+    <string name="notch_settings">Vết cắt</string>
+    <string name="notch_style_mod_description">Tùy chọn hiển thị vết cắt và thanh trạng thái</string>
+    <string name="notch_style_mod_title">Ẩn vết cắt</string>
     <string name="notch_style_show">Không ẩn</string>
     <string name="notch_style_status_bar_inside">Ẩn mà không di chuyển thanh trạng thái</string>
     <string name="notch_style_status_bar_outside">Ẩn và di chuyển thanh trạng thái</string>
@@ -6156,6 +6184,7 @@ Hãy chọn hệ điều hành hệ thống:</string>
     <string name="notification_access_detail_switch">Cho phép truy cập thông báo</string>
     <string name="notification_alert_title">Mặc định</string>
     <string name="notification_animation_style">Hiệu ứng đặc biệt</string>
+    <string name="notification_app_permissions">Quyền thông báo</string>
     <string name="notification_app_settings_button">Cài đặt thông báo</string>
     <string name="notification_app_switch_label">Tất cả thông báo của %1$s</string>
     <string name="notification_assistant_security_warning_summary">Thông báo nâng cao đã thay thế Thông báo thích ứng trên Android trong Android 12. Tính năng này hiển thị những thao tác và câu trả lời đề xuất, đồng thời sắp xếp các thông báo của bạn. 
@@ -6183,7 +6212,7 @@ Thông báo nâng cao có thể đọc mọi nội dung thông báo, bao gồm c
     <string name="notification_channels_other">Khác</string>
     <string name="notification_content_block_summary">Không bao giờ hiển thị thông báo trong ngăn thông báo hoặc trên thiết bị ngoại vi</string>
     <string name="notification_content_block_title">Hiện thông báo</string>
-    <string name="notification_control_center">Thông báo &amp; Trung tâm điều khiển</string>
+    <string name="notification_control_center">Thông báo &amp; trung tâm điều khiển</string>
     <string name="notification_conversation_add_to_home">Thêm vào nhà</string>
     <string name="notification_conversation_important">Ưu tiên</string>
     <string name="notification_conversation_summary_low">Không phát âm thanh hoặc rung và xuất hiện phía dưới trong phần cuộc trò chuyện</string>
@@ -6307,15 +6336,17 @@ Ngoài ra, việc này còn cho phép ứng dụng bật hoặc tắt chế đ�
     <string name="nrca_need_reset">Khởi động lại thiết bị để áp dụng các thay đổi</string>
     <string name="nrca_switch_title">Sử dụng kết hợp sóng mang 5G</string>
     <string name="number_of_device_admins_none">Không có ứng dụng nào đang hoạt động</string>
+	<string name="oaid_apps_title">Quản lý ID ảo</string>
+	<string name="oaid_apps_summary">Cho phép hoặc hạn chế quyền truy cập cho từng ứng dụng</string>
     <string name="oaid_string">ID ảo hiện tại:
 %1s</string>
     <string name="oem_lock_info_message">Vui lòng khởi động lại thiết bị để bật tính năng bảo vệ thiết bị.</string>
     <string name="oem_unlock_enable">Mở khóa OEM</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Đã mở khóa trình khởi động</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity">Kết nối với Internet trước tiên</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity">Trước tiên hãy kết nối với Internet</string>
     <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Kết nối với Internet hoặc liên hệ với nhà cung cấp dịch vụ</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Không khả dụng trên thiết bị do nhà cung cấp dịch vụ khóa</string>
-    <string name="oem_unlock_enable_summary">Cho phép bootloader mở khóa</string>
+    <string name="oem_unlock_enable_summary">Cho phép mở khóa bộ nạp khởi động</string>
     <string name="off">Tắt</string>
     <string name="ok_rules">Hoàn tất</string>
     <string name="okay">OK</string>
@@ -6436,7 +6467,7 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="page_layout_4">Nhạc</string>
     <string name="page_layout_5">Video</string>
     <string name="page_layout_6">Ứng dụng</string>
-    <string name="page_layout_7">Game</string>
+    <string name="page_layout_7">Trò chơi</string>
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Chủ đề</string>
     <string name="page_layout_confirm_message">Thiết bị của bạn cần phải khởi động lại để áp dụng những thay đổi này. Quá trình này mất khoảng 1 phút.</string>
@@ -6482,7 +6513,7 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="paper_mode_summary">Chuyển sang màu ấm và thêm nền họa tiết vân giấy để giảm mỏi mắt</string>
     <string name="paper_mode_title">Giấy</string>
     <string name="papger_effect_category">Chế độ</string>
-    <string name="params_interpretation">Chi tiết thông số</string>
+    <string name="params_interpretation">Chi tiết thông số kĩ thuật</string>
     <string name="partial_connectivity_text">Một số ứng dụng và dịch vụ có thể không hoạt động do khả năng kết nối giới hạn. Vẫn sử dụng?</string>
     <string name="passpoint_content">Thông tin xác thực %1$s</string>
     <string name="passpoint_label">Đã lưu thông qua</string>
@@ -6537,7 +6568,7 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="personal_data_section_title">Dữ liệu cá nhân</string>
     <string name="personal_profile_app_subtext">Cá nhân</string>
     <string name="personal_section_title">Cá nhân</string>
-    <string name="personalize_title">Hình nền &amp; cá nhân</string>
+    <string name="personalize_title">Hình nền &amp; cá nhân hóa</string>
     <string name="phone_backup_summary">Sao lưu và khôi phục các mục trên thiết bị này</string>
     <string name="phone_backup_title">Thiết bị di động</string>
     <string name="phone_call_noise_suppression">Loại bỏ tiếng ồn trong khi gọi</string>
@@ -6616,10 +6647,10 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="power_key_how_power_force_off_detail">Bấm và giữ phím Nguồn cho đến khi thiết bị của bạn khởi động lại</string>
     <string name="power_key_how_power_off">Cách vào trang tắt nguồn</string>
     <string name="power_key_how_power_off_detail">Bấm và giữ phím Nguồn trong 3 giây</string>
-    <string name="power_key_how_start">Làm thế nào để đánh thức Google Assistant</string>
+    <string name="power_key_how_start">Làm thế nào để đánh thức Trợ lý Google</string>
     <string name="power_key_how_start_detail">Bấm và giữ phím Nguồn trong 0,5 giây. Thả để trò chuyện.</string>
-    <string name="power_key_start_enjoy">Bắt đầu sử dụng Google Assistant</string>
-    <string name="power_key_start_guide">Đánh thức Google Assistant bằng phím Nguồn trên các thiết bị màn hình tràn cạnh</string>
+    <string name="power_key_start_enjoy">Bắt đầu sử dụng Trợ lý Google</string>
+    <string name="power_key_start_guide">Đánh thức Trợ lý Google bằng phím Nguồn trên các thiết bị màn hình tràn cạnh</string>
     <string name="power_label">Nguồn</string>
     <string name="power_menu_long_press_for_assist">Giữ để mở Trợ lý</string>
     <string name="power_menu_long_press_for_assist_sensitivity_high_label">Dài</string>
@@ -6804,7 +6835,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="priority_title">Ưu tiên</string>
     <string name="privacy_advanced_settings">Các chế độ cài đặt quyền riêng tư khác</string>
     <string name="privacy_advanced_settings_summary">Các chế độ cài đặt tự động điền, kiểm soát hoạt động và nhiều chế độ khác</string>
-    <string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Xiaomi Cloud (bao gồm đồng bộ và sao lưu).</string>
+    <string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Đám mây Xiaomi (bao gồm đồng bộ và sao lưu).</string>
     <string name="privacy_authorize_dialog_agree">Đồng ý</string>
     <string name="privacy_authorize_dialog_exit">Thoát</string>
     <string name="privacy_authorize_dialog_message">&lt;Data&gt;Để sử dụng các tính năng cơ bản của dịch vụ này, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý nghĩa là bạn đã đọc và đồng ý với &lt;a href="https://privacy.mi.com/all/%1$s_%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
@@ -6816,7 +6847,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="privacy_authorize_revoke_failed">Không thể hủy ủy quyền</string>
     <string name="privacy_authorize_revoke_success">Đã hủy ủy quyền thành công</string>
     <string name="privacy_authorize_revoke_time">Hủy (%1$d giây)</string>
-    <string name="privacy_authorize_revoke_title">Ủy quyền &amp; Hủy bỏ</string>
+    <string name="privacy_authorize_revoke_title">Ủy quyền &amp; hủy bỏ</string>
     <string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
     <string name="privacy_authorize_success">Đã cấp ủy quyền thành công</string>
     <string name="privacy_authorize_title">Đang cấp ủy quyền</string>
@@ -6835,7 +6866,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="privacy_file">Tập tin</string>
     <string name="privacy_gallery">Ảnh</string>
     <string name="privacy_header_text_less_than_half">Quá nhỏ. Kéo to hơn.</string>
-    <string name="privacy_lab_settings">Lab Bảo vệ cá nhân</string>
+    <string name="privacy_lab_settings">Phòng thí nghiệm Bảo vệ cá nhân</string>
     <string name="privacy_mms">Tin nhắn</string>
     <string name="privacy_mode_dialog_message">Tin nhắn, ghi chú, ảnh và cài đặt sẽ được ẩn trong chế độ Khách. Ngoài ra, bạn sẽ không thể chỉnh sửa Màn hình chính. Chuyển sang chế độ Khách?</string>
     <string name="privacy_mode_dialog_title">Chế độ Khách</string>
@@ -6845,7 +6876,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="privacy_password">Mật khẩu bảo vệ cá nhân</string>
     <string name="privacy_password_add_account">Thêm</string>
     <string name="privacy_password_add_account_info">Thêm Tài khoản Xiaomi để có thể đặt lại mật khẩu trong trường hợp bạn quên</string>
-    <string name="privacy_password_add_account_setting">Tài khoản &amp; Riêng tư</string>
+    <string name="privacy_password_add_account_setting">Tài khoản &amp; riêng tư</string>
     <string name="privacy_password_bind_account">Thêm Tài khoản Xiaomi</string>
     <string name="privacy_password_bind_account_immediate">Thêm</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Xác nhận mật khẩu Không gian thứ hai</string>
@@ -7112,7 +7143,7 @@ Bluetooth</string>
     <string name="reset_network_title">Đặt lại Wi-Fi, mạng di động và Bluetooth</string>
     <string name="reset_network_title_noSim">Đặt lại Wi-Fi và Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
-    <string name="reset_remove_data_hint">Tất cả các mục được liệt kê ở trên sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính hoặc Xiaomi Cloud trước khi bạn tiếp tục.</string>
+    <string name="reset_remove_data_hint">Tất cả các mục được liệt kê ở trên sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính hoặc Đám mây Xiaomi trước khi bạn tiếp tục.</string>
     <string name="reset_second_space_passwd">Đặt lại mật khẩu Không gian thứ hai</string>
     <string name="reset_second_space_passwd_cancel">Hủy</string>
     <string name="reset_second_space_passwd_confirm">Tiếp tục</string>
@@ -7125,10 +7156,10 @@ Bluetooth</string>
     <string name="resetting_second_space_passwd">Đang đặt lại mật khẩu Không gian thứ hai</string>
     <string name="resident_timezone_summary">Đồng hồ thứ hai</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (tiết kiệm pin)</string>
+	<string name="resolution_fhd_summary">Độ phân giải FHD+ sẽ tiết kiệm pin</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (tăng cường chi tiết)</string>
-    <string name="resolution_sub_title">MIUI có thể đóng ứng dụng chạy nền khi chuyển đổi độ phân giải</string>
+	<string name="resolution_qhd_summary">Độ phân giải QHD+ sẽ tăng thêm độ nét</string>
+    <string name="resolution_sub_title">MIUI có thể đóng các ứng dụng đang chạy nền khi chuyển đổi độ phân giải</string>
     <string name="resolver_settings_label">Sắp xếp</string>
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="restore_default_apn_completed">Đã đặt lại xong các tùy chọn cài đặt APN mặc định về trạng thái ban đầu.</string>
@@ -7388,7 +7419,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="screen_projection_example_gallery_summary">Chạm nút Chia sẻ dưới một mục trong ứng dụng Thư viện để hiển thị trên màn hình ngoài.</string>
     <string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
     <string name="screen_projection_example_game_summary">Tăng tốc trò chơi cho phép bạn chiếu trò chơi ra màn hình ngoài. Sử dụng lối tắt trong hộp công cụ Tăng tốc trò chơi để bật tính năng này.</string>
-    <string name="screen_projection_example_game_title">Game</string>
+    <string name="screen_projection_example_game_title">Trò chơi</string>
     <string name="screen_projection_help">Trợ giúp</string>
     <string name="screen_projection_sample_summary">Chiếu tài liệu, game, ảnh và video</string>
     <string name="screen_projection_sample_title">Demo</string>
@@ -7505,7 +7536,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="search_advanced_settings">Cài đặt nâng cao;Wifi;Cài đặt Wifi;Cài đặt WLAN</string>
     <string name="search_airplane_mode">Chế độ máy bay;chế độ máy bay;Máy bay;máy bay;Chuyến bay</string>
     <string name="search_alarm_sound_title">Âm báo thức;chuông báo thức;báo thức</string>
-    <string name="search_ambient_display_screen_title">Màn hình sáng;Always-on display;Always on display</string>
+    <string name="search_ambient_display_screen_title">Màn hình sáng;Màn hình luôn bật;Always on display</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Tên Điểm Truy cập</string>
     <string name="search_app_invisible">Ẩn ứng dụng;ứng dụng ẩn</string>
@@ -7528,7 +7559,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="search_children_mode_title">Chế độ trẻ em;Khóa sms;Kiểm soát phụ huynh;Phụ huynh trẻ em;Giới hạn SMS</string>
     <string name="search_choose_timezone">Chọn múi giờ;Múi giờ</string>
     <string name="search_cloud_backup_settings_section_title">Cài đặt sao lưu;Sao lưu</string>
-    <string name="search_cloud_restore_section_title">Khôi phục từ Mi Cloud;Mi Cloud;Sao lưu đám mây;Xiaomi Cloud;Khôi phục từ Xiaomi Cloud</string>
+    <string name="search_cloud_restore_section_title">Khôi phục từ Mi Cloud;Mi Cloud;Sao lưu đám mây;Đám mây Xiaomi;Khôi phục từ Đám mây Xiaomi</string>
     <string name="search_connection_and_sharing">Thêm;Không dây</string>
     <string name="search_copyright_title">Bản quyền</string>
     <string name="search_credentials_install">Cài đặt từ bộ nhớ;Cài đặt trực tiếp;Cài đặt APK</string>
@@ -7580,7 +7611,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="search_master_clear_title">Đặt lại dữ liệu gốc</string>
     <string name="search_menu">Tìm trong thông tin cài đặt</string>
     <string name="search_menu_title">Tìm kiếm</string>
-    <string name="search_micloud">Đồng bộ;Mi Cloud;Xiaomi Cloud;Đồng bộ đám mây;Đồng bộ với đám mây;Đồng bộ với Xiaomi Cloud</string>
+    <string name="search_micloud">Đồng bộ;Mi Cloud;Đám mây Xiaomi;Đồng bộ đám mây;Đồng bộ với đám mây;Đồng bộ với Đám mây Xiaomi</string>
     <string name="search_music_audio_effect_optimize">Cài đặt âm thanh;cài đặt âm thanh</string>
     <string name="search_music_equalizer">Bộ chỉnh âm</string>
     <string name="search_music_headset_calibrate">Hiệu chỉnh các nút trên tai nghe;Nút</string>
@@ -7735,7 +7766,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="security_password_category_name">Khóa màn hình</string>
     <string name="security_passwords_title">Quyền riêng tư</string>
     <string name="security_patch">Bản cập nhật bảo mật Android</string>
-    <string name="security_patch_subtitle">"Bản cập nhật bảo mật Android: "</string>
+	<string name="security_patch_subtitle">Bản cập nhật bảo mật Android: </string>
     <string name="security_privacy_settings_title">Riêng tư</string>
     <string name="security_relative">Bảo mật</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Đã thêm khuôn mặt và các vân tay</string>
@@ -7993,7 +8024,7 @@ Lưu ý: Bạn không thể sử dụng vân tay để mở khóa thiết bị n
     <string name="settings_manual_activity_title">Hướng dẫn sử dụng</string>
     <string name="settings_manual_activity_unavailable">Đã xảy ra sự cố khi tải hướng dẫn sử dụng.</string>
     <string name="settings_new_version_btn">Cập nhật</string>
-    <string name="settings_notify_need_backup">Sao lưu cài đặt lên Xiaomi Cloud để truy cập sau khi bạn đổi điện thoại.</string>
+    <string name="settings_notify_need_backup">Sao lưu cài đặt lên Đám mây Xiaomi để truy cập sau khi bạn đổi điện thoại.</string>
     <string name="settings_notify_new_version">Tìm thấy cập nhật mới. Chạm để xem chi tiết.</string>
     <string name="settings_notify_phone_recycled">Số điện thoại của bạn đã bị thu hồi. Chạm để thêm số điện thoại khác.</string>
     <string name="settings_panel_title">Bảng Cài đặt</string>
@@ -8271,7 +8302,7 @@ Chạm hai lần để mở Gần đây.</string>
     <string name="slider_choose_app">Chọn ứng dụng</string>
     <string name="slider_game_page_code">00008</string>
     <string name="slider_game_tool_summary">Trượt màn hình xuống để xem các phím tắt có sẵn khi chơi game</string>
-    <string name="slider_game_tool_tilte">Lối tắt Game</string>
+    <string name="slider_game_tool_tilte">Lối tắt Trò chơi</string>
     <string name="slider_global_summary_app">Trượt màn hình xuống để mở ứng dụng</string>
     <string name="slider_global_summary_drawer">Trượt màn hình xuống để xem các phím tắt có sẵn</string>
     <string name="slider_global_summary_selfie">Trượt xuống màn hình để chụp ảnh selfie</string>
@@ -8299,7 +8330,7 @@ Chạm hai lần để mở Gần đây.</string>
     <string name="slider_voice_summary">Phát âm thanh khi bạn trượt màn hình lên và xuống</string>
     <string name="slider_voice_title">Âm thanh</string>
     <string name="slight_pause">,</string>
-    <string name="slot_number">(Khe cắm%1$d)</string>
+    <string name="slot_number">(Khe cắm %1$d)</string>
     <string name="slot_status_title">Thông tin IMEI</string>
     <string name="smallwindow_smartcover_title">Vỏ bảo vệ có cửa sổ nhỏ</string>
     <string name="smart_battery_footer">Khi Trình quản lý pin phát hiện thấy các ứng dụng đang tiêu hao pin, bạn có thể hạn chế những ứng dụng này. Các ứng dụng bị hạn chế có thể không hoạt động bình thường và thông báo có thể bị chậm trễ.</string>
@@ -8830,6 +8861,11 @@ Hãy thử dùng một ^3 nhanh hơn hoặc dùng ^4 này làm bộ nhớ di đ�
     <string name="stylus_success">Hoàn tất</string>
     <string name="stylus_vice_key">Nút thứ hai</string>
     <string name="stylus_welcome">Chào mừng sử dụng Xiaomi Smart Pen</string>
+    <string name="sud_back_button_label">Quay lại</string>
+    <string name="sud_default_device_name">thiết bị</string>
+    <string name="sud_more_button_label">Thêm</string>
+    <string name="sud_next_button_label">Tiếp theo</string>
+    <string name="sud_skip_button_label">Bỏ qua</string>
     <string name="subscreen_title">Màn hình phụ</string>
     <string name="subscription_available">Có sẵn</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Các ứng dụng này làm việc tốt nhất trong chế độ toàn màn hình</string>
@@ -8853,15 +8889,19 @@ Hãy thử dùng một ^3 nhanh hơn hoặc dùng ^4 này làm bộ nhớ di đ�
     <string name="summary_divider_text">, </string>
     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s đến %2$s</string>
+    <string name="summary_quick_control_all_devices">Hiển thị điều khiển cho TV, loa và ô tô ở gần trong Trung tâm điều khiển</string>
     <string name="sunday">Chủ nhật</string>
     <string name="sunday_short">Cn</string>
     <string name="sunday_shortest">Cn</string>
-    <string name="sunlight_low_power_notification">Không thể bật Chế độ Sunlight. Pin quá yếu.</string>
-    <string name="sunlight_mode">Chế độ Sunlight</string>
+    <string name="supplicant_state_label">Trạng thái người cung cấp:</string>
+    <string name="support_summary">Bài viết trợ giúp, số điện thoại &amp; trò chuyện</string>
+    <string name="supported_app_title">Ứng dụng được hỗ trợ</string>
+    <string name="sure_sync_now">Đồng bộ hóa các mục ngay bây giờ?</string>
+    <string name="sunlight_low_power_notification">Không thể bật Chế độ Ánh sáng mặt trời. Pin quá yếu.</string>
+    <string name="sunlight_mode">Chế độ Ánh sáng mặt trời</string>
     <string name="sunlight_mode_summary">Điều chỉnh độ sáng theo ánh sáng môi trường mạnh để tránh màn hình quá tối</string>
+    <string name="sunlight_mode_boost_summary">Mở rộng phạm vi độ sáng và tự động điều chỉnh độ sáng trong điều kiện sáng. Tính năng này sẽ khiến thiết bị của bạn nóng lên và tiêu tốn nhiều điện năng hơn.</string>
     <string name="supl_not_set">&lt;Chưa được đặt&gt;</string>
-    <string name="support_summary">Bài viết trợ giúp, điện thoại và cuộc trò chuyện</string>
-    <string name="sure_sync_now">Đồng bộ các mục ngay?</string>
     <string name="surround_sound_all_desc">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>
     <string name="surround_sound_only_headset_desc">Tăng cường độ sâu tái tạo âm thanh cho tai nghe</string>
     <string name="surround_sound_only_speaker_desc">Tăng cường độ sâu tái tạo âm thanh cho loa</string>
@@ -8949,6 +8989,8 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="tablet_screen_settings_title">Tính năng dành cho máy tính bảng</string>
     <string name="tablet_screen_special_function_title">Tính năng dành cho máy tính bảng</string>
     <string name="take_call_on_title">Thực hiện cuộc gọi trên</string>
+    <string name="talkback_ocr_summary">Nhận dạng văn bản trên hình ảnh và đọc to</string>
+    <string name="talkback_ocr_title">Nhận dạng văn bản</string>
     <string name="talkback_summary">Trình đọc màn hình chủ yếu dành cho những người khiếm thị và thị lực kém</string>
     <string name="talkback_title">Talkback</string>
     <string name="talkback_watermark_enable">Dấu chìm TalkBack</string>
@@ -9116,7 +9158,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="time_zen_mode_turn_on">Bắt đầu</string>
     <string name="timed_titlei">Hẹn giờ %d</string>
     <string name="timezone_settings">Múi giờ</string>
-    <string name="tip_remove_data">Đặt lại cài đặt gốc sẽ xóa các mục này khỏi thiết bị</string>
+    <string name="tip_remove_data">Khôi phục cài đặt gốc sẽ xóa các mục này khỏi thiết bị</string>
     <string name="title_color_calibration">Thiết lập trước hiệu chỉnh màu sắc</string>
     <string name="title_font">Phông chữ</string>
     <string name="title_font2">Phông chữ &amp; bố trí</string>
@@ -9130,7 +9172,13 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="title_layout_current2_weight">Cỡ chữ &amp; độ đậm nhạt</string>
     <string name="title_miui_music_mute_by_user">Chế độ im lặng</string>
     <string name="title_of_auto_launch_manage">Tự khởi chạy</string>
+    <string name="title_quick_control_all_devices">Hiển thị điều khiển cho các thiết bị lân cận</string>
+    <string name="title_regional_pref_footer">Nếu một ứng dụng không hỗ trợ tùy chọn khu vực, ứng dụng đó sẽ sử dụng cài đặt ngôn ngữ mặc định của nó.</string>
+    <string name="title_show_notification_icon">Hiển thị biểu tượng thông báo</string>
+    <string name="title_smart_device_control">Điều khiển thiết bị thông minh</string>
     <string name="title_special_features_health_global">Nhịp tim</string>
+    <string name="title_unavailable_locale">%s không có sẵn</string>
+    <string name="title_wordless_mode">Không hiển thị nhãn biểu tượng</string>
     <string name="to_close">Tắt</string>
     <string name="to_switch_networks_disconnect_ethernet">Để chuyển mạng, hãy rút cáp Ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Đã cho phép %s sử dụng các chế độ cài đặt bị hạn chế</string>
@@ -9216,7 +9264,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="tts_lang_not_selected">Chưa chọn ngôn ngữ</string>
     <string name="tts_lang_use_system">Sử dụng ngôn ngữ hệ thống</string>
     <string name="tts_play">Phát</string>
-    <string name="tts_play_example_summary">Phát ví dụ ngắn về cấu thành giọng nói</string>
+    <string name="tts_play_example_summary">Phát ví dụ ngắn về mẫu giọng nói</string>
     <string name="tts_play_example_title">Nghe mẫu</string>
     <string name="tts_reset">Đặt lại</string>
     <string name="tts_reset_speech_pitch_summary">Đặt lại âm điệu đọc văn bản là mặc định.</string>
@@ -9474,7 +9522,7 @@ Tắt tính năng này không ảnh hưởng đến khả năng thiết bị c�
     <string name="usage_type_wake_lock">Không khóa màn hình</string>
     <string name="usage_type_wifi_running">Wi-Fi đang chạy</string>
     <string name="usagestats_app_category_miui_financial">Tài chính</string>
-    <string name="usagestats_app_category_miui_game">Game</string>
+    <string name="usagestats_app_category_miui_game">Trò chơi</string>
     <string name="usagestats_app_category_miui_life">Phong cách sống</string>
     <string name="usagestats_app_category_miui_productivity">Hiệu suất</string>
     <string name="usagestats_app_category_miui_reading">Đọc sách</string>
@@ -9708,7 +9756,7 @@ Chạm dấu cộng để thêm từ.</string>
     <string name="vibrate_category_title">Rung</string>
     <string name="vibrate_icon_title">Luôn hiện biểu tượng khi ở chế độ rung</string>
     <string name="vibrate_in_normal_title">Rung khi đổ chuông</string>
-    <string name="vibrate_in_silent_title">Chế độ Im lặng</string>
+    <string name="vibrate_in_silent_title">Rung trong chế độ im lặng</string>
     <string name="vibrate_input_devices">Chuyển hướng rung</string>
     <string name="vibrate_input_devices_summary">Chuyển hướng rung sang bộ điều khiển trò chơi khi được kết nối.</string>
     <string name="vibrate_title">Rung</string>
@@ -10547,7 +10595,6 @@ bạn cũng có thể sử dụng mạng của người dùng khác.</string>
     <string name="wifitrackerlib_admin_restricted_network">Không được tổ chức của bạn cho phép</string>
     <string name="wifitrackerlib_auto_connect_disable">Tính năng tự động kết nối đang tắt</string>
     <string name="wifitrackerlib_available_via_app">Được cung cấp qua %1$s</string>
-    <string name="wifitrackerlib_checking_for_internet_access">Kiểm tra kết nối internet...</string>
     <string name="wifitrackerlib_connected_via_app">Đã kết nối qua %1$s</string>
     <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. <annotation id="url">Tìm hiểu thê</annotation>m</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Đang hoàn tất đăng ký…</string>
@@ -10665,9 +10712,9 @@ bạn cũng có thể sử dụng mạng của người dùng khác.</string>
     <string name="xiaoai_shortcut_settings_title">Kích hoạt Mi AI bằng phím và cử chỉ</string>
     <string name="xiaomi_account">Tài khoản Xiaomi</string>
     <string name="xiaomi_cloud_find_device">Tìm thiết bị</string>
-    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-    <string name="xiaomi_cloud_service_description">Xiaomi Cloud đồng bộ liên hệ và ảnh, sao lưu ứng dụng và cài đặt, và giúp bạn tìm điện thoại của mình bằng Tìm thiết bị.</string>
-    <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud đồng bộ ảnh, sao lưu ứng dụng và cài đặt, và giúp bạn tìm điện thoại của mình bằng Tìm thiết bị.</string>
+    <string name="xiaomi_cloud_service">Đám mây Xiaomi</string>
+    <string name="xiaomi_cloud_service_description">Đám mây Xiaomi đồng bộ liên hệ và ảnh, sao lưu ứng dụng và cài đặt, và giúp bạn tìm điện thoại của mình bằng Tìm thiết bị.</string>
+    <string name="xiaomi_cloud_service_description_without_contacts">Đám mây Xiaomi đồng bộ ảnh, sao lưu ứng dụng và cài đặt, và giúp bạn tìm điện thoại của mình bằng Tìm thiết bị.</string>
     <string name="xiaomi_cloud_service_disabled">Tắt</string>
     <string name="xiaomi_cloud_service_unknown">Không xác định</string>
     <string name="xiaomi_custom_input_method">Tùy chỉnh dành cho Xiaomi</string>
@@ -10974,15 +11021,11 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="more_connection">Các kết nối khác</string>
     <string name="notification_control_center_new">Thông báo &amp; thanh trạng thái</string>
     <string name="notification_style_settings">Kiểu thông báo</string>
-    <string name="title_show_notification_icon">Hiển thị biểu tượng thông báo</string>
-    <string name="title_smart_device_control">Điều khiển thiết bị thông minh</string>
-    <string name="title_wordless_mode">Không hiển thị nhãn biểu tượng</string>
     <string name="display_settings_new">Hiển thị &amp; độ sáng</string>
     <string name="dark_mode_settings">Tùy chọn chế độ tối</string>
     <string name="background_blur_enable">Hiệu ứng mờ nâng cao</string>
     <string name="background_blur_enable_summary">Thêm hiệu ứng render như làm mờ trên hệ thống để mang lại trải nghiệm hình ảnh tốt hơn</string>
     <string name="background_blur_message">Bật tính năng này có thể sử dụng nhiều năng lượng hơn và làm cho thiết bị nóng lên. Bật không?</string>
-    <string name="background_blur_title">Bật hiệu ứng mờ nâng cao</string>
     <string name="fingerprint_face_password_unlock_new">Dấu vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
     <string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
     <string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
@@ -10999,9 +11042,6 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="multi_music_coexistence_summary">Không điều chỉnh âm lượng phương tiện trong khi thông báo đến hoặc khi âm thanh từ nguồn khác đang được phát</string>
     <string name="multi_music_coexistence_title">Nhiều nguồn âm thanh</string>
     <string name="system_sound_effect_settings">Âm thanh hệ thống</string>
-    <string name="dsu_loader_description">Tải ảnh Cập nhật Hệ thống Động</string>
-    <string name="dsu_loader_loading">Đang tải...</string>
-    <string name="dsu_loader_title">Bộ Tải DSU</string>
     <string name="pc_install_manager">Cài đặt qua USB</string>
     <string name="usb_install_app">Cài đặt qua USB</string>
     <string name="sensors_hal_log_summary">Sử dụng nhật ký cho Lớp Trừu tượng Phần cứng Cảm biến</string>
@@ -11011,17 +11051,17 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="cellular_network_title">Gỡ lỗi mạng di động</string>
     <string name="enable_crbt_pref_summary">Không hiển thị video hồ sơ cho cuộc gọi đến trong quá trình kiểm tra</string>
     <string name="enable_crbt_pref_title">Tắt video hồ sơ cho cuộc gọi đến</string>
-    <string name="wifi_fast_repair_summary">Thử sửa chữa các vấn đề mạng WLAN</string>
-    <string name="wifi_fast_repair_title">Khôi phục chức năng WLAN</string>
+    <string name="wifi_fast_repair_summary">Thử sửa chữa các vấn đề mạng Wi-Fi</string>
+    <string name="wifi_fast_repair_title">Khôi phục chức năng Wi-Fi</string>
     <string name="wifi_repair_action_btn">Khôi phục</string>
     <string name="wifi_repair_btn_confirm">Xác nhận</string>
     <string name="wifi_repair_btn_no">Không</string>
     <string name="wifi_repair_btn_yes">Thử sửa chữa</string>
     <string name="wifi_repair_confirm_desc">Bạn có gặp phải bất kỳ vấn đề nào sau đây không?
-    %1$d. Bạn không thể bật WLAN
-    %2$d. Mạng WLAN chậm
-    %3$d. Các tính năng WLAN khác không hoạt động.</string>
-    <string name="wifi_repair_fail_desc">Đã xảy ra lỗi khiến chức năng WLAN không thể được khôi phục. Vui lòng gửi phản hồi cho kỹ sư của chúng tôi.</string>
+    %1$d. Bạn không thể bật Wi-Fi
+    %2$d. Mạng Wi-Fi chậm
+    %3$d. Các tính năng Wi-Fi khác không hoạt động.</string>
+    <string name="wifi_repair_fail_desc">Đã xảy ra lỗi khiến chức năng Wi-Fi không thể được khôi phục. Vui lòng gửi phản hồi cho kỹ sư của chúng tôi.</string>
     <string name="wifi_repair_fail_title">Không thể khôi phục</string>
     <string name="wifi_repair_ongoing">Đang khôi phục... Đừng rời khỏi trang này.</string>
     <string name="wifi_repair_pass_desc">Vui lòng kiểm tra xem vấn đề của bạn đã được giải quyết chưa, nếu chưa, vui lòng gửi phản hồi cho kỹ sư của chúng tôi</string>
@@ -11043,7 +11083,7 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="app_cache_optimization">Tối ưu bộ nhớ cache ứng dụng</string>
     <string name="app_cache_optimization_summary">Sau khi bật tính năng này, khởi động lại thiết bị của bạn để nó có hiệu lực</string>
     <string name="select_gpo_version_title">Chọn Phiên bản GPO</string>
-    <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
+	<string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
     <string name="view_face_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/Facial-recognition/%1$s/>Tuyên bố quyền riêng tư về \"Dữ liệu khuôn mặt &amp;#038; màn hình khóa\"&lt;/a> trước khi tiếp tục.</Data></string>
     <string name="view_fingerprint_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/setting-fingerprint/%1$s/>Tuyên bố quyền riêng tư về \"Dấu vân tay &amp;#038; màn hình khóa\"&lt;/a> trước khi tiếp tục.</Data></string>
     <string name="location_time_zone_detection_auto_is_on">Vị trí có thể được sử dụng để đặt múi giờ</string>
@@ -11062,17 +11102,15 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="keyboard_options_category">Tùy chọn</string>
     <string name="flash_notifications_about_title">Về thông báo bằng đèn flash</string>
     <string name="flash_notifications_description">Về tính năng này</string>
-    <string name="flash_notifications_intro">Bật đèn flash của camera hoặc màn hình khi bạn nhận được thông báo hoặc khi chuông báo thức kêu</string>
+    <string name="flash_notifications_intro">Bật đèn flash của máy ảnh hoặc màn hình khi bạn nhận được thông báo hoặc khi chuông báo thức kêu</string>
     <string name="flash_notifications_intro_without_camera_flash">Bật đèn màn hình khi bạn nhận được thông báo hoặc khi chuông báo thức kêu</string>
     <string name="flash_notifications_keywords">flash, đèn, người khiếm thính, mất thính giác</string>
-    <string name="flash_notifications_note">"\"Beam for notifications\" hiển thị âm thanh thông báo và nhạc chuông bằng đèn flash của camera và màn hình. Nếu bạn nhạy cảm với ánh sáng, hãy sử dụng tính năng này cẩn thận."</string>
+    <string name="flash_notifications_note">"\"Nhấp nháy thông báo\" hiển thị âm thanh thông báo và nhạc chuông bằng đèn flash của máy ảnh và màn hình. Nếu bạn nhạy cảm với ánh sáng, hãy sử dụng tính năng này cẩn thận."</string>
     <string name="flash_notifications_preview">Xem trước</string>
-    <string name="flash_notifications_summary">Sử dụng đèn flash của camera hoặc hiển thị tia sáng màu trên màn hình khi có thông báo hoặc khi thiết bị đang reo</string>
+    <string name="flash_notifications_summary">Sử dụng đèn flash của máy ảnh hoặc hiển thị tia sáng màu trên màn hình khi có thông báo hoặc khi thiết bị đang reo</string>
     <string name="flash_notifications_summary_off">Tắt</string>
-    <string name="flash_notifications_summary_on_camera">Bật / Đèn flash của camera</string>
-    <string name="flash_notifications_summary_on_camera_and_screen">Bật / Đèn flash của camera và màn hình</string>
+    <string name="flash_notifications_summary_on_camera">Bật / Đèn flash của máy ảnh</string>
+    <string name="flash_notifications_summary_on_camera_and_screen">Bật / Đèn flash của máy ảnh và màn hình</string>
     <string name="flash_notifications_summary_on_screen">Bật / Đèn flash của màn hình</string>
-    <string name="flash_notifications_title">Tia sáng cho thông báo</string>
-
-
+    <string name="flash_notifications_title">Nhấp nháy thông báo</string>
 </resources>

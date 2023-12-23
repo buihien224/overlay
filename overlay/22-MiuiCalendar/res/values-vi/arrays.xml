@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="account_sync_frequency">
+        <item>Thủ công</item>
+        <item>Mỗi %d phút</item>
+        <item>Mỗi giờ</item>
+        <item>Mỗi %d giờ</item>
+        <item>Mỗi %d giờ</item>
+    </string-array>
     <string-array name="change_response_labels">
         <item>Chỉ sự kiện này</item>
         <item>Tất cả sự kiện trong hàng loạt sự kiện</item>
@@ -680,13 +687,6 @@
         <item>Thứ năm</item>
         <item>Thứ sáu</item>
         <item>Thứ bảy</item>
-    </string-array>
-    <string-array name="account_sync_frequency">
-        <item>Thủ công</item>
-        <item>Mỗi 15 phút</item>
-        <item>Mỗi giờ</item>
-        <item>Mỗi 4 giờ</item>
-        <item>Mỗi 12 giờ</item>
     </string-array>
     <string-array name="fortune_love">
         <item>Đang yêu</item>

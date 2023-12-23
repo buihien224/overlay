@@ -42,8 +42,8 @@
         <item quantity="other">Ngay lập tức</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">trong %d phút</item>
-        <item quantity="one">trong 1 phút</item>
+        <item quantity="other">Trong %d phút</item>
+        <item quantity="one">Trong 1 phút</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Bây giờ</item>
