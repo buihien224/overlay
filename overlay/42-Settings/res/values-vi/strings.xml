@@ -7592,7 +7592,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="search_history_clear_description">Xóa lịch sử tìm kiếm</string>
     <string name="search_history_description">Lịch sử tìm kiếm</string>
     <string name="search_home_key">Trang chính;Phím trang chính</string>
-    <string name="search_input_hint">Cài đặt tìm kiếm</string>
+    <string name="search_input_hint">Tìm kiếm cài đặt</string>
     <string name="search_input_txt_na">&lt;font color="#ff0000"&gt;%s&lt;/font&gt;</string>
     <string name="search_key_settings_title">Phím;Nút</string>
     <string name="search_lab_functions_title">Tính năng Beta;Chức năng Phòng thí nghiệm</string>
