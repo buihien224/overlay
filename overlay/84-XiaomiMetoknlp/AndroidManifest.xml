@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="miuivs.com.xiaomi.metoknlp" platformBuildVersionCode="14010" platformBuildVersionName="6.0.10">
+    <overlay android:isStatic="true" android:priority="1" android:targetPackage="com.xiaomi.metoknlp"/>
+    <application android:hasCode="false" android:extractNativeLibs="false" />
+</manifest>

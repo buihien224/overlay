@@ -1,0 +1,22 @@
+version: 2.9.1
+apkFileName: miuivs.com.xiaomi.metoknlp.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 26
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 14010
+  versionName: MIUIVS-TMP
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- AndroidManifest.xml
+- resources.arsc
