@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nhà cung cấp vị trí hợp nhất</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Truy cập trạm phát sóng cơ sở, mạng Wi-Fi và thông tin vị trí để cung cấp cho bạn dịch vụ định vị</string>
+</resources>

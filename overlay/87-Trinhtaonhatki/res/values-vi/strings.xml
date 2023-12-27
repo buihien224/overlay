@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="app_check_patch">%d. Tích hợp mã Skynet APP</string>
+    <string name="app_checker">Kiểm tra Camera APP</string>
+    <string name="app_checker_title_1">%d. Trạng thái hệ thống Skynet</string>
+    <string name="app_name">Trình tạo nhật ký</string>
+    <string name="battery_info">Thông tin sạc và pin</string>
+    <string name="cam_log_check_password_hint">Nhập mã token động</string>
+    <string name="cam_log_check_submit">Gửi</string>
+    <string name="catch_log_ddr_finish_toast">Khởi động lại để áp dụng thay đổi</string>
+    <string name="catch_log_disable_bt_log">Hoàn tất lưu nhật ký Bluetooth</string>
+    <string name="catch_log_enable_bt_log">Đang lưu nhật ký Bluetooth…</string>
+    <string name="catch_log_start_dump_audio_log">Đang lưu nhật ký âm thanh vào sdcard/diag_logs…</string>
+    <string name="catch_log_start_dump_gps_log">Đang lưu nhật ký GPS vào sdcard/diag_logs…</string>
+    <string name="catch_log_start_dump_moderm_log">Đang lưu nhật ký modem vào sdcard/diag_logs…</string>
+    <string name="catch_log_start_dump_sensor_log">Đang lưu nhật ký cảm biến vào sdcard/diag_logs…</string>
+    <string name="catch_log_start_dump_wifi_log">Đang lưu nhật ký Wi-Fi vào sdcard/diag_logs…</string>
+    <string name="catch_log_stop_dump_audio_log">Hoàn tất lưu nhật ký âm thanh vào sdcard/diag_logs</string>
+    <string name="catch_log_stop_dump_gps_log">Hoàn tất lưu nhật ký GPS vào sdcard/diag_logs</string>
+    <string name="catch_log_stop_dump_moderm_log">Hoàn tất lưu nhật ký modem vào sdcard/diag_logs</string>
+    <string name="catch_log_stop_dump_sensor_log">Hoàn tất lưu nhật ký cảm biến vào sdcard/diag_logs</string>
+    <string name="catch_log_stop_dump_wifi_log">Hoàn tất lưu nhật ký Wi-Fi vào sdcard/diag_logs</string>
+    <string name="catch_wifi_log">Đang tạo nhật ký Wi-Fi…</string>
+    <string name="catch_wifi_log_china">Đang tạo nhật ký WLAN…</string>
+    <string name="cit_bluetooth_logging_confirm_info">Nhật ký Bluetooth sẽ thu thập dữ liệu giao tiếp Bluetooth từ thiết bị của bạn. Các bản ghi sau sẽ được thu thập: tải xuống liên hệ, lịch sử cuộc gọi và tin nhắn bằng Bluetooth, chuyển tập tin, phát lại phương tiện và các mục nhạy cảm khác. Các nhật ký này sẽ chỉ được sử dụng tại nội bộ Xiaomi để định vị và giải quyết vấn đề và sẽ không được sử dụng cho bất kỳ mục đích nào khác.</string>
+    <string name="cit_bluetooth_logging_confirm_ng">Giới hạn</string>
+    <string name="cit_bluetooth_logging_confirm_notify">Bắt đầu thu thập các mục?</string>
+    <string name="cit_bluetooth_logging_confirm_ok">Cho phép</string>
+    <string name="cit_bluetooth_logging_confirm_title">Tuyên bố Riêng tư thu thập nhật ký Bluetooth</string>
+    <string name="cit_kernel_log_txt">Nhật ký kernel</string>
+    <string name="cit_logcat_txt">Nhật ký logcat</string>
+    <string name="cit_mtdoops_log_get_begin">Đang xuất nhật ký mtdoops…</string>
+    <string name="cit_mtdoops_log_get_confirm">Xuất nhật ký mtdoops?</string>
+    <string name="cit_mtdoops_log_get_fail">Không thể xuất nhật ký mtdoops qua /data/local/log</string>
+    <string name="cit_mtdoops_log_get_ok">Xuất nhật ký mtdoops qua /data/local/log thành công</string>
+    <string name="cit_mtdoops_log_get_txt">Xuất nhật ký mtdoops qua /data/local/log</string>
+    <string name="cit_offline_log_del_begin">Đang xóa nhật ký offline…</string>
+    <string name="cit_offline_log_del_confirm">Xóa tất cả nhật ký offline?</string>
+    <string name="cit_offline_log_del_fail">Không thể xóa nhật ký offline</string>
+    <string name="cit_offline_log_del_ok">Xóa nhật ký offline thành công</string>
+    <string name="cit_offline_log_del_txt">Xóa nhật ký offline trên máy</string>
+    <string name="cit_offline_log_filter_hint">"[Tùy chọn]
+Nếu bạn làm theo hướng dẫn, chỉ có nhật ký logcat với từ khóa sẽ được lưu. Nếu không có từ khóa, nhật ký sẽ không được lọc."</string>
+    <string name="cit_offline_log_filter_info">"Ví dụ: #tag: #tag:priority //Đánh dấu bắt đầu bằng \"#\".
+NfcService: D
+BatteryInfoReceiver: I
+SurfaceFlinger: W
+
+%1$d. Chọn lại nhật ký logcat để áp dụng các thay đổi.
+%2$d. Nếu có quá nhiều từ khóa, bạn cũng có thể thay đổi tập tin cấu hình trong /data/local/log/keyword_logcat.cfg."</string>
+    <string name="cit_offline_log_filter_txt">Cài đặt bộ lọc từ khóa Logcat</string>
+    <string name="cit_offline_log_out_begin">Đang lưu nhật ký offline…</string>
+    <string name="cit_offline_log_out_confirm">Lưu tất cả nhật ký offline vào thẻ SD?</string>
+    <string name="cit_offline_log_out_fail">Không thể lưu nhật ký offline</string>
+    <string name="cit_offline_log_out_ok">Lưu nhật ký offline thành công</string>
+    <string name="cit_offline_log_output_txt">Lưu nhật ký offline vào thẻ SD</string>
+    <string name="cit_offline_log_size_alert_empty">Kích thước nhật ký chưa được đặt. Bỏ qua.</string>
+    <string name="cit_offline_log_size_alert_oversize">Giá trị kích thước vượt quá giới hạn trên. Đặt lại về giá trị tối đa.</string>
+    <string name="cit_offline_log_size_alert_undersize">Giá trị kích thước không đạt đến giới hạn dưới. Đặt lại về giá trị tối thiểu.</string>
+    <string name="cit_offline_log_size_info">"%1$d. Phạm vi khả dụng từ %2$d đến %3$dMB.
+%4$d. Chọn lại các mục để áp dụng các thay đổi."</string>
+    <string name="cit_offline_log_size_txt">Giới hạn kích thước nhật ký</string>
+    <string name="cit_offline_log_title">Trạng thái nhật ký offline</string>
+    <string name="cit_tool_log_bugreport">Báo lỗi</string>
+    <string name="cit_tool_log_dmesg">DMESG</string>
+    <string name="cit_tool_log_file_not_exist">Tập tin %1$s không tồn tại</string>
+    <string name="cit_tool_log_generate_bugreport">Đang tạo báo cáo lỗi…</string>
+    <string name="cit_tool_log_kmsg">Nhật ký kernel mới nhất</string>
+    <string name="cit_tool_log_modem">Nhật ký modem</string>
+    <string name="cit_tool_log_toast">Đã lưu nhật ký vào %1$s</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Mất khoảng %1$d phút để tạo báo cáo lỗi</string>
+    <string name="hal_check_patch">%d. Tích hợp mã HAL Skynet</string>
+    <string name="hal_checker">Kiểm tra HAL camera</string>
+    <string name="mivi_check_patch">%d. Tích hợp mã MIVI Skynet</string>
+    <string name="mivi_checker">Kiểm tra MIVI camera</string>
+    <string name="no">Không</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="start_checker">Bắt đầu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="yes">Đồng ý</string>
+</resources>
