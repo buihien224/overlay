@@ -1974,4 +1974,10 @@
     <string name="zman_title">Chia sẻ an toàn</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+    <string name="photo_editor_perspective">Góc nhìn</string>
+    <string name="photo_editor_perspective_crop">Cắt</string>
+    <string name="photo_editor_perspective_distortion">Sai lệch</string>
+    <string name="photo_editor_perspective_free">Chỉnh sửa tự do</string>
+    <string name="photo_editor_perspective_horizontal">Ngang</string>
+    <string name="photo_editor_perspective_vertical">Dọc</string>
 </resources>
