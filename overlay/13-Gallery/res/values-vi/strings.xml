@@ -443,6 +443,7 @@ Kết nối bộ sạc và tắt màn hình để hiển thị kỷ niệm."</st
     <string name="cleaner_screen_shot_action">Xem</string>
     <string name="cleaner_screen_shot_description">Xóa ảnh chụp màn hình bạn không cần.</string>
     <string name="cleaner_screen_shot_title">Xóa ảnh chụp màn hình</string>
+	<string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s đã chiếm dụng</string>
     <string name="cleaner_similar_action">Xem chi tiết</string>
     <string name="cleaner_similar_description">Xóa ảnh trùng lặp</string>
     <string name="cleaner_similar_title">Ảnh trùng lặp</string>
