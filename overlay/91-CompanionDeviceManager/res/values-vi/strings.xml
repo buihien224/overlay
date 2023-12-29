@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
+    <string name="abc_action_bar_up_description">Di chuyển lên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="actionbar_button_up_description">Quay lại</string>
+    <string name="app_label">Trình quản lý thiết bị đồng hành</string>
+    <string name="chooser_title">Chọn %1$s được quản lý bởi &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Cho phép &lt;strong>%1$s&lt;/strong> truy cập vào &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Quay lại</string>
+    <string name="consent_no">Không cho phép</string>
+    <string name="consent_yes">Cho phép</string>
+    <string name="helper_summary_app_streaming">%1$s đang yêu cầu quyền thay mặt cho %2$s của bạn để truy cập ảnh, phương tiện và thông báo trên điện thoại của bạn</string>
+    <string name="helper_summary_computer">%1$s đang yêu cầu quyền thay mặt cho %2$s của bạn để truyền phát ứng dụng giữa các thiết bị của bạn</string>
+    <string name="helper_title_app_streaming">Dịch vụ trên nhiều thiết bị</string>
+    <string name="helper_title_computer">Dịch vụ của Google Play</string>
+    <string name="permission_apps">Ứng dụng</string>
+    <string name="permission_apps_summary">Truyền phát ứng dụng trên điện thoại của bạn</string>
+    <string name="permission_notification">Thông báo</string>
+    <string name="permission_notification_summary">Có thể đọc tất cả thông báo, bao gồm thông tin như danh bạ, tin nhắn và ảnh</string>
+    <string name="permission_storage">Hình ảnh và phương tiện</string>
+    <string name="permission_sync_confirmation_title">Chuyển quyền ứng dụng sang đồng hồ của bạn</string>
+    <string name="permission_sync_summary">"Để giúp thiết lập đồng hồ của bạn dễ dàng hơn, các ứng dụng được cài đặt trên đồng hồ trong quá trình thiết lập sẽ sử dụng các quyền tương tự như điện thoại của bạn.
+
+ Những quyền này có thể bao gồm quyền truy cập vào micrô và vị trí trên đồng hồ của bạn."</string>
+    <string name="profile_name_generic">Thiết bị</string>
+    <string name="profile_name_watch">Đồng hồ</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_watch">Cần có ứng dụng này để quản lý %1$s của bạn. %2$s sẽ được phép tương tác với thông báo của bạn và truy cập vào các quyền của Điện thoại, Tin nhắn, Danh bạ, Lịch, Nhật ký cuộc gọi và các quyền của Thiết bị lân cận.</string>
+    <string name="title_app_streaming">Cho phép &lt;strong>%1$s&lt;/strong> truy cập thông tin này từ điện thoại của bạn</string>
+    <string name="vendor_header_button_description">Nút Thông tin thêm</string>
+    <string name="vendor_icon_description">Biểu tượng ứng dụng</string>
+</resources>
