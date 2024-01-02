@@ -119,6 +119,7 @@
     <string name="activity_title_antivirus">Quét bảo mật</string>
     <string name="activity_title_antivirus_kddi">Quét bảo mật</string>
     <string name="activity_title_apps_manager">Ứng dụng</string>
+    <string name="activity_title_apps_settings">Ứng dụng</string>
     <string name="activity_title_auto_start_manager">Tự khởi chạy</string>
     <string name="activity_title_auto_start_manager_global">Tự khởi chạy nền</string>
     <string name="activity_title_garbage_cleanup">Dọn dẹp</string>
@@ -3737,6 +3738,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="priority_storage_settings_summary">Nếu không phát hiện thẻ SD, dữ liệu người dùng sẽ được lưu tự động vào bộ nhớ trong điện thoại của bạn.</string>
     <string name="priority_storage_summary">Chọn vị trí để lưu dữ liệu của bạn</string>
     <string name="priority_storage_title">Cài đặt lưu trữ</string>
+    <string name="privacy">Riêng tư</string>
 	<string name="privacy_and_safety">Riêng tư &amp; bảo mật</string>
     <string name="privacy_app_behavior_summary">Tự khởi chạy, quyền, và nhiều thứ khác</string>
     <string name="privacy_app_behavior_title">Lịch sử hành vi ứng dụng</string>
@@ -6543,7 +6545,7 @@ Không bao giờ bỏ lỡ bất kỳ lì xì nào nữa"</string>
      <string name="txv_dnd_type_demo">Chỉ chặn âm thanh</string>
      <string name="txv_dnd_type_title">Không làm phiền</string>
      <string name="txv_lucky_money_group_text">Chỉ nhắc nhóm lì xì</string>
-	 <string name="recent_app_behavior">Lịch sử quyền trong 7 ngày</string>
+	<string name="recent_app_behavior">Lịch sử quyền trong 7 ngày</string>
 	 <string name="xiaomi_privacy_protection_measures">Các biện pháp bảo vệ quyền riêng tư</string>
 	 <string name="pc_continuity_has_open_save_mode_notifi_sumary">Trình tiết kiệm pin sẽ tắt khi %1$s là %2$s hoặc được sạc đầy</string>
      <string name="pc_continuity_has_open_save_mode_notifi_title">Đã bật Trình tiết kiệm pin trên %s</string>
