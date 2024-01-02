@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Hành động văn bản</string>
+    <string name="floating_toolbar_close_overflow_description">Đóng</string>
+    <string name="floating_toolbar_open_overflow_description">Thêm tùy chọn</string>
+    <string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
+    <string name="edit_frequent_phrases">Sửa cụm từ thường dùng</string>
+    <string name="frequent_phrases">Cụm từ thường dùng</string>
+    <string name="query">Tìm kiếm</string>
+    <string name="select">Chọn</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+	<string name="google_call">Gọi</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Bản đồ</string>
+    <string name="google_open">Mở</string>
+    <string name="google_translate">Dịch</string>
+</resources>
