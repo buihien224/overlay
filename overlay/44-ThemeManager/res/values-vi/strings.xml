@@ -216,15 +216,15 @@
     <string name="de_icon_text_discuss">Thảo luận</string>
     <string name="de_icon_text_favorite">Yêu thích</string>
     <string name="de_icon_text_like">Thích</string>
-    <string name="de_icon_text_reward">Phần thưởng</string>
+    <string name="de_icon_text_reward">Ủng hộ</string>
     <string name="de_icon_text_share">Chia sẻ</string>
     <string name="de_mix">Xây dựng</string>
     <string name="de_mix_dialog_title">Xây dụng chủ đề của riêng bạn</string>
     <string name="de_mix_mode_aod">Màn hình luôn bật</string>
-    <string name="de_mix_mode_aod_desc">Thay đổi hình nền và kiểu đồng hồ của màn hình luôn bật</string>
+    <string name="de_mix_mode_aod_desc">Tùy chỉnh hình nền và định dạng đồng hồ</string>
     <string name="de_mix_mode_desktop">Màn hình chính</string>
-    <string name="de_mix_mode_desktop_desc">Thay đổi màn hình chính và kiểu đồng hồ</string>
-    <string name="de_mix_mode_global">Toàn cầu</string>
+    <string name="de_mix_mode_desktop_desc">Thay đổi hình nền và đồng hồ</string>
+    <string name="de_mix_mode_global">Yếu tố hệ thống</string>
     <string name="de_mix_mode_global_desc">Thay đổi kiểu thanh thông báo, điện thoại, tin nhắn, ...</string>
     <string name="de_mix_mode_icon">Biểu tượng</string>
     <string name="de_mix_mode_icon_desc">Thay đổi kiểu biểu tượng trên màn hình</string>
@@ -368,7 +368,7 @@
     <string name="exo_track_unknown">Không xác định</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="expose_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
-   <string name="extreme_mode_dialog_message">Tính năng này không có sẵn trong chế độ Siêu tốc. Tắt chế độ Siêu tốc để có thể sử dụng nó.</string>
+    <string name="extreme_mode_dialog_message">Tính năng này không có sẵn trong chế độ Siêu tốc. Tắt chế độ Siêu tốc để có thể sử dụng nó.</string>
     <string name="extreme_mode_dialog_ok">Tôi biết</string>
     <string name="extreme_mode_dialog_title">Cảnh báo</string>
     <string name="fail_to_add_account">Không thể thêm tài khoản</string>
@@ -564,7 +564,7 @@ Nếu bạn cần tắt nó, hãy đi tới [Cài đặt-Âm thanh và Hiển th
     <string name="lab">Các tính năng thú vị</string>
     <string name="large_icon_apply_fail_for_in_dock">Ứng dụng hiện tại nằm trong dock và không hỗ trợ áp dụng các siêu biểu tượng. </string>
     <string name="large_icon_apply_fail_for_in_folder">Ứng dụng hiện tại nằm trong thư mục và ứng dụng có siêu biểu tượng không được hỗ trợ. </string>
-    <string name="large_icon_apply_fail_for_in_oldmode">Hiện đang sử dụng chế độ tối giản, ứng dụng siêu biểu tượng không được hỗ trợ. </string>
+    <string name="large_icon_apply_fail_for_in_oldmode">Hiện đang sử dụng chế độ thu gọn, ứng dụng siêu biểu tượng không được hỗ trợ. </string>
     <string name="large_icon_apply_fail_for_not_in_launcher">Ứng dụng hiện tại không có trên màn hình nền và các biểu tượng ứng dụng lớn không được hỗ trợ. </string>
     <string name="large_icon_detail_title">Siêu biểu tượng %s</string>
     <string name="large_icon_detail_warning_dialog_btn_keep">Giữ cài đặt siêu biểu tượng</string>
@@ -806,9 +806,9 @@ mm"</string>
     <string name="need_to_open_permission">Cần quyền mở</string>
     <string name="need_to_open_storage_permission_desc">Chức năng này yêu cầu quyền "Đọc và ghi bộ nhớ di động" để giúp bạn thiết lập chủ đề được cá nhân hóa và lưu trữ nội dung được cá nhân hóa mà bạn tải xuống. </string>
     <string name="network_exception">Đã xảy ra lỗi mạng. Đợi một hoặc hai phút và thử lại.</string>
-    <string name="new_resource_price_unit">đồng gạo</string>
+    <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Đêm</string>
-    <string name="no_cta_agreeed">cta không được cửa hàng ứng dụng cấp phép</string>
+    <string name="no_cta_agreeed">Cửa hàng ứng dụng không có quyền CTA</string>
     <string name="no_data">"Mạng không khả dụng
 Bấm vào màn hình để tải lại"</string>
     <string name="no_install_permission">Không có quyền cài đặt</string>
@@ -829,7 +829,7 @@ Bấm vào màn hình để tải lại"</string>
     <string name="online_precust_creative">Sáng tạo</string>
     <string name="online_precust_hatsune">Hatsune</string>
     <string name="online_precust_lifestyle">Sống phong cách</string>
-    <string name="online_precust_museum">Bảo tàng Anh</string>
+    <string name="online_precust_museum">Bảo tàng</string>
     <string name="online_precust_plant">Cây cối</string>
     <string name="online_precust_scenery">Phong cảnh</string>
     <string name="online_search_hint">Tìm kiếm tài nguyên trực tuyến</string>
@@ -1000,7 +1000,7 @@ Trạng thái ủy quyền, cài đặt của bạn và nội dung được lưu
 Dữ liệu tài nguyên bạn đang sử dụng trên thiết bị này sẽ được khôi phục về hiệu ứng cổ điển. "</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Sau khi bạn rút lại sự đồng ý đối với hình nền và chính sách quyền riêng tư được cá nhân hóa, chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn và xóa thông tin cá nhân được ứng dụng thu thập theo quy định của pháp luật, ngoại trừ trường hợp khác pháp luật quy định rõ ràng về thời gian lưu giữ thông tin cá nhân.
 5. Việc rút lại sự đồng ý không có nghĩa là các hành động và trách nhiệm liên quan trước khi rút lại được miễn trừ hoặc giảm nhẹ. "</string>
-    <string name="provision_default_theme_title">Thêm ý tưởng</string>
+    <string name="provision_default_theme_title">Mặc định</string>
     <string name="provision_loading_tips">Đang tải tài nguyên chủ đề</string>
     <string name="provision_second_title">Tùy chỉnh một số bộ chủ đề cho bạn</string>
     <string name="provision_title">Phong cách cá nhân</string>
@@ -1477,7 +1477,7 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="theme_component_title_wallpaper">Màn hình chính</string>
     <string name="theme_component_video_wallpaper">Hình nền động</string>
     <string name="theme_current_using_has_update">Chủ đề hiện tại đã được cập nhật, nhấp vào Áp dụng</string>
-    <string name="theme_description_title_customized">Thêm ý tưởng</string>
+    <string name="theme_description_title_customized">Tùy chỉnh</string>
     <string name="theme_description_title_default">Mặc định</string>
     <string name="theme_designer_products">Sản phẩm thiết kế</string>
     <string name="theme_detail_tab_comment">Nhận xét</string>
@@ -1503,8 +1503,8 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="theme_not_include_module_desc">Chủ đề hiện tại không chứa %s</string>
     <string name="theme_on_the_phone_alert">Không thể phát trong khi gọi</string>
     <string name="theme_preview">Xem trước chủ đề</string>
-    <string name="theme_select_others">Chọn qua các chương trình khác</string>
-    <string name="theme_setting">Thêm ý tưởng</string>
+    <string name="theme_select_others">Duyệt qua</string>
+    <string name="theme_setting">Cài đặt</string>
     <string name="theme_setting_all">Tất cả chủ đề</string>
     <string name="theme_settings_title">Chủ đề được cá nhân hóa</string>
     <string name="theme_share_app_name">Chủ đề Xiaomi</string>
@@ -1535,29 +1535,29 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="title_my_audio_resource">Nhạc chuông của tôi</string>
     <string name="title_my_miwallpaper_desktop_effect">Hiệu ứng màn hình của tôi</string>
     <string name="title_my_miwallpaper_resource">Hình nền động của tôi</string>
-    <string name="title_my_miwallpaper_video_file_resource">Hình nền thú vị của tôi</string>
+    <string name="title_my_miwallpaper_video_file_resource">Hình nền video của tôi</string>
     <string name="title_my_wallpaper">Hình nền của tôi</string>
-    <string name="title_my_wallpaper_resource">Hình nền bình thường của tôi</string>
+    <string name="title_my_wallpaper_resource">Hình nền của tôi</string>
     <string name="title_system_audio_alarm_resource">Đồng hồ báo thức hệ thống</string>
     <string name="title_system_audio_notification_resource">Âm báo hệ thống</string>
     <string name="title_system_audio_resource">Nhạc chuông hệ thống</string>
     <string name="title_system_wallpaper_resource">Hình nền hệ thống</string>
-    <string name="to_activate_the_account">Tài khoản của bạn chưa được kích hoạt. Bạn có muốn kích hoạt nó không? </string>
-    <string name="toast_both_all_apply_failured">Tất cả ứng dụng đều thất bại</string>
-    <string name="toast_both_all_apply_success">Tất cả được áp dụng thành công</string>
+    <string name="to_activate_the_account">Tài khoản của bạn chưa được kích hoạt. Bạn có muốn kích hoạt không? </string>
+    <string name="toast_both_all_apply_failured">Áp dụng tất cả thất bại</string>
+    <string name="toast_both_all_apply_success">Áp dụng tất cả thành công</string>
     <string name="toast_home_apply_failured">Áp dụng màn hình chính bị lỗi</string>
     <string name="toast_home_apply_success">Áp dụng màn hình chính thành công</string>
     <string name="toast_lockscreen_apply_failured">Áp dụng khóa màn hình không thành công</string>
-    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Áp dụng màn hình khóa không thành công, ứng dụng màn hình chính đã thành công</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Áp dụng màn hình khóa không thành công, áp dụng màn hình chính thành công</string>
     <string name="toast_lockscreen_apply_success">Áp dụng khóa màn hình thành công</string>
-    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Áp dụng màn hình khóa thành công, ứng dụng màn hình chính không thành công</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Áp dụng màn hình khóa thành công, áp dụng màn hình chính không thành công</string>
     <string name="toast_transparent_wallpaper_filter_set_failured">Áp dụng không thành công</string>
     <string name="toast_transparent_wallpaper_filter_set_successively">Áp dụng thành công</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="trans_wallpaper_offline_notice">Thông báo ngoại tuyến về "Hình nền trong suốt"</string>
-    <string name="transparency_pref_summary">Tính minh bạch được tùy chỉnh, cá nhân hóa và thú vị</string>
-    <string name="transparency_pref_title">Điều chỉnh độ minh bạch</string>
+    <string name="transparency_pref_summary">Độ trong suốt được tùy chỉnh, cá nhân hóa và thú vị</string>
+    <string name="transparency_pref_title">Điều chỉnh độ trong suốt</string>
     <string name="transparent_wallpaper">Hình nền trong suốt</string>
     <string name="transparent_wallpaper_apply_success">"Thiết lập thành công, có thể thực hiện nhiều thao tác hơn tại
 [Chủ đề-Tính năng thú vị]"</string>
@@ -1604,7 +1604,7 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="update_fail">Không lấy được thông tin, vui lòng thử lại sau</string>
     <string name="update_flag">Đã cập nhật</string>
     <string name="update_immediately">Cập nhật ngay lập tức</string>
-    <string name="update_latest">là phiên bản mới nhất</string>
+    <string name="update_latest">Là phiên bản mới nhất</string>
     <string name="update_no_net">Mạng bất thường, vui lòng thử lại sau</string>
     <string name="update_title">Đã tìm thấy phiên bản mới</string>
     <string name="use_hint">Sử dụng gợi ý</string>
