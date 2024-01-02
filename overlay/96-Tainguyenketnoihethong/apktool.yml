@@ -1,0 +1,23 @@
+version: 2.9.1
+apkFileName: SystemConnectivityResources.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 30
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: TMP-VS
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+doNotCompress:
+- AndroidManifest.xml
+- resources.arsc
