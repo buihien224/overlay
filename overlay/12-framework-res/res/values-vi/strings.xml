@@ -2710,4 +2710,6 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
     <string name="permdesc_write_call_log">Cho phép %1$s chỉnh sửa lịch sử cuộc gọi?</string>
     <string name="permdesc_write_contacts">Cho phép %1$s chỉnh sửa danh bạ?</string>
     <string name="permdesc_write_storage">Cho phép %1$s lưu trữ các tệp và hình ảnh trên thiết bị này?</string>
+    <string name="device_state_notification_settings_button">Đi đến Cài đặt</string>
+    <string name="device_state_notification_turn_off_button">Tắt</string>
 </resources>
