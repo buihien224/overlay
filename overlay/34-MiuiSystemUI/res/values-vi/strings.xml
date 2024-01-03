@@ -3917,4 +3917,7 @@ Vẫn hiển thị chúng?"</string>
     <string name="quick_settings_wlan_state_change_message_on">WLAN đã bật</string>
     <string name="strong_toast_charging">Đang sạc</string>
     <string name="strong_toast_quick_charging">Sạc nhanh</string>
+    <string name="softap_notifif_summary">%d kết nối</string>
+    <string name="softap_notifif_title">Hotspot "%s" đã bật</string>
+    <string name="softap_stat_toast">Hotspot đã bật</string>
 </resources>
