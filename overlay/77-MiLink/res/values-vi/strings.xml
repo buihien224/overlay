@@ -432,7 +432,7 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="privacy_permission_sound_recording">Ghi âm</string>
     <string name="privacy_permission_sound_recording_desc">Để thực hiện cuộc gọi thoại hoặc ghi âm</string>
     <string name="privacy_permission_wlan">Bật và tắt Wi-Fi</string>
-    <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
+    <string name="privacy_permission_wlan_china">Bật và tắt mạng Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Để tìm thiết bị lân cận khả dụng</string>
     <string name="privacy_permission_wlan_desc_china">Để tìm thiết bị lân cận khả dụng</string>
     <string name="privacy_positive">Đồng ý</string>
