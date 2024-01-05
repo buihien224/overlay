@@ -468,6 +468,7 @@ Bạn có thể bắt đầu một phiên khác trên máy tính của mình."</
      <string name="pad_settings_pc_use_tile">Giới thiệu về tính năng này</string>
      <string name="pad_settings_phone_handoff_summary">Sử dụng handoff với các ứng dụng, bảng nhớ tạm, video và các mục khác trên thiết bị khác được liên kết với Tài khoản Xiaomi của bạn</string>
      <string name="pad_settings_phone_handoff_title">Bàn giao</string>
+	 <string name="pc_settings_current_device_tip">Tự động kết nối với máy tính có MIUI+ mở và đăng nhập vào cùng một Tài khoản Xiaomi</string>
      <string name="pc_account_connect_cta_again">Kết nối lại trên máy tính của bạn</string>
      <string name="pc_cooper_duplicate_title">Máy tính để bàn</string>
      <string name="pc_cooper_extend_title">Phần mở rộng máy tính để bàn</string>
@@ -662,5 +663,4 @@ Bạn có thể bắt đầu một phiên khác trên máy tính của mình."</
      <string name="worker_connecting_message">Đang kết nối…</string>
      <string name="worker_try_join_in_connected_state">Đã kết nối thành công</string>
      <string name="worker_try_join_pc_when_pad_adv_connected">Thiết bị này hiện được kết nối với một thiết bị khác. Hãy đợi một hoặc hai phút và thử lại.</string>
-	 
 </resources>

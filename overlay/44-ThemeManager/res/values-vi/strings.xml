@@ -553,7 +553,7 @@ Nếu bạn cần tắt nó, hãy đi tới [Cài đặt-Âm thanh và Hiển th
     <string name="install_failed">Cài đặt không thành công</string>
     <string name="install_gallery_content">Album ảnh chưa được cài đặt. Bạn có muốn tải xuống ngay bây giờ không? </string>
     <string name="install_gallery_title">Cài đặt album ảnh</string>
-    <string name="is_setting_wallpaper_message">Đang thiết lập...</string>
+    <string name="is_setting_wallpaper_message">Đang cài đặt...</string>
     <string name="item_resource_audio_optional_alarm_ring">Báo thức</string>
     <string name="item_resource_audio_optional_color_ring">Màu sắc</string>
     <string name="item_resource_audio_optional_notification_ring">Thông báo</string>
@@ -1285,7 +1285,7 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="search_view_description_clear">Tìm kiếm</string>
     <string name="selected_resource_file_invalid">Tệp bạn đã chọn không hợp lệ</string>
     <string name="send">Gửi</string>
-    <string name="server_message">DĐường dây nóng dịch vụ khách hàng: 400–100–5678</string>
+    <string name="server_message">Đường dây nóng dịch vụ chăm sóc khách hàng: 400–100–5678</string>
     <string name="set_as_colorring">Đặt làm nhạc chuông</string>
     <string name="set_calling">Đặt nhạc chuông</string>
     <string name="set_color_ring_back_tone">Đặt nhạc chuông</string>

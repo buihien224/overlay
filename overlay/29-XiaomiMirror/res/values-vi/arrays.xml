@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="settings_search_mirror">
+	<item>Kết nối thiết bị</item>
+	<item>Kết nối và chia sẻ/Kết nối thiết bị</item>
+	<item>MIUI+, MIUIPLUS, cộng tác trên nhiều màn hình, cộng tác trên nhiều màn hình, cộng tác trên nhiều màn hình, phản chiếu màn hình, chia sẻ bàn phím và chuột, mở rộng màn hình, luồng ứng dụng, luồng thông tin, kết nối, Xiaomi Miaoxiang, Trung tâm Miaoxiang, chế độ chia sẻ, chế độ phản chiếu, chế độ mở rộng, cộng tác, đa màn hình, cộng tác, mở rộng, phản chiếu, chia sẻ, bàn phím và chuột, lưu thông, kết nối, khả năng tương tác, đi kèm, máy tính bảng, máy tính, kết nối thiết bị, kết nối tai nghe, chuyển tiếp, tận hưởng tuyệt vời</item>
+	</string-array>
+	<string-array name="settings_tips_message">
+	<item>1. Điện thoại di động cần tắt các chức năng phát sóng, truyền lẫn nhau hoặc phản chiếu màn hình trước khi có thể kết nối với máy tính bình thường.
+2. Cả điện thoại di động và máy tính đều cần bật mạng WLAN để kết nối
+3. Điện thoại di động cần để gần máy tính và không hỗ trợ nhận dạng mã QR đường dài để kết nối</item>
+	<item>Sử dụng máy tính để bắt đầu yêu cầu kết nối Bluetooth với điện thoại di động đã kết nối trước đó. Lúc này, điện thoại di động cần ở gần máy tính và bật Bluetooth</item>
+	<item>Sau khi khóa màn hình, dữ liệu điện thoại di động không thể đồng bộ được với máy tính. Ở trạng thái cộng tác đa màn hình, mặc định chúng ta sẽ sử dụng chức năng mở khóa màn hình, nếu muốn thay đổi, vui lòng tắt công tắc này trong phần cài đặt</item>
+	<item>1. Điện thoại di động Xiaomi: hiện chỉ hỗ trợ 9 mẫu: Xiaomi 11, Xiaomi 10 Extreme Commemorative Edition, Xiaomi 10 Pro, Xiaomi 10, Xiaomi 9 Pro 5G, Xiaomi 9, Redmi K30s Extreme Commemorative Edition, Redmi K20 Pro và Mẫu Redmi K30 Pro. Nếu bạn được chuyển hướng đến trang web chính thức sau khi quét mã QR thì mẫu này chưa tương thích.
+2. Máy tính: Để đảm bảo trải nghiệm tốt hơn, nên sử dụng phiên bản nâng cao Xiaomi Notebook Pro 15, model Pro 15.6 2020, máy tính xách tay chơi game Redmi G, RedmiBook 16, RedmiBook 14 Ⅱ, RedmiBook Air 13 và truy cập https://plus.miui.com Tải xuống ứng dụng khách "MIUI+ Beta".</item>
+	</string-array>
+	<string-array name="settings_tips_title">
+	<item>Không thể kết nối sau khi quét mã QR?</item>
+	<item>Không tìm thấy điện thoại của bạn trên máy tính?</item>
+	<item>Không thể khóa màn hình?</item>
+	<item>Hỗ trợ thiết bị</item>
+    </string-array>
+</resources>

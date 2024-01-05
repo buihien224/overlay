@@ -5,16 +5,16 @@
         <item quantity="one">1 soat oldin</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 soat oldin</item>
-        <item quantity="one">1 soat oldin</item>
+        <item quantity="other">%d soat oldin</item>
+        <item quantity="one">%d soat oldin</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarim soat oldin</item>
         <item quantity="one">Yarim soat oldin</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 soat ichida</item>
-        <item quantity="one">1 soat ichida</item>
+        <item quantity="other">%d soatdan keyin</item>
+        <item quantity="one">%d soatdan keyin</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarim soat ichida</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Darhol</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d daqiqa ichida</item>
-        <item quantity="one">1 daqiqa ichida</item>
+        <item quantity="other">%d daqiqadan keyin</item>
+        <item quantity="one">%d daqiqadan keyin</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Hozirgina</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d daqiqa oldin</item>
-        <item quantity="one">1 daqiqa oldin</item>
+        <item quantity="one">%d daqiqa oldin</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarim soat oldin</item>

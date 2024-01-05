@@ -532,6 +532,7 @@
     <string name="controls_media_button_prev">پچھلا ٹریک</string>
     <string name="controls_media_close_session">‫%1$s کے لیے اس میڈیا کنٹرول کو چھپائیں؟</string>
     <string name="controls_media_dismiss_button">چھپائیں</string>
+    <string name="controls_media_empty_title">%1$s چل رہی ہے</string>
     <string name="controls_media_playing_item_description">%3$s سے %2$s کا %1$s چل رہا ہے</string>
     <string name="controls_media_resume">دوبارہ شروع کریں</string>
     <string name="controls_media_seekbar_description">%1$s از %2$s</string>

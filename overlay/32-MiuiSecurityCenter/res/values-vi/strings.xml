@@ -6566,4 +6566,6 @@ Không bao giờ bỏ lỡ bất kỳ lì xì nào nữa"</string>
      <string name="permission_action_virtual_common_summary">Cấp quyền cho ứng dụng nhưng trả về các tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
      <string name="permission_action_virtual_phone_summary">Cấp quyền cho ứng dụng nhưng không cho phép truy cập vào số điện thoại thực của SIM</string>
      <string name="app_manager_share_apk">Chia sẻ</string>
+	<string name="category_no_scoped">Ứng dụng khác</string>
+     <string name="category_scoped">Ứng dụng tương thích</string>
 </resources>

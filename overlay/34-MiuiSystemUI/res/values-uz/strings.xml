@@ -532,6 +532,7 @@ Qayta moslash uchun bosing"</string>
     <string name="controls_media_button_prev">Avvalgi trek</string>
     <string name="controls_media_close_session">%1$s uchun media boshqaruvi berkitilsinmi?</string>
     <string name="controls_media_dismiss_button">Berkitish</string>
+    <string name="controls_media_empty_title">%1$s ishlamoqda</string>
     <string name="controls_media_playing_item_description">%3$s ilovasida ijro etilmoqda: %1$s – %2$s</string>
     <string name="controls_media_resume">Davom etish</string>
     <string name="controls_media_seekbar_description">%1$s / %2$s</string>

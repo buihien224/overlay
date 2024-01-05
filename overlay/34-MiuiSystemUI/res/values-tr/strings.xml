@@ -586,6 +586,7 @@ Düzeltmek için dokunun"</string>
     <string name="controls_media_button_prev">Önceki parça</string>
     <string name="controls_media_close_session">%1$s için bu medya kontrolü gizlensin mi?</string>
     <string name="controls_media_dismiss_button">Gizle</string>
+    <string name="controls_media_empty_title">%1$s çalışıyor</string>
     <string name="controls_media_playing_item_description">%3$s uygulamasından %2$s, %1$s şarkısı çalıyor</string>
     <string name="controls_media_resume">Devam ettir</string>
     <string name="controls_media_seekbar_description">%1$s/%2$s</string>
@@ -629,6 +630,10 @@ Hangi cihazların bu şekilde kontrol edilebileceğini cihaz uygulamanız belirl
     <string name="daltonizer_mode_protanomaly">Protanomali (kırmızı-yeşil)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomali (mavi-sarı)</string>
     <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kılındı</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Anladım</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"MIUI optimizasyonunu kapatır ve Pil tasarrufunu açarsanız, Karanlık mod otomatik olarak açılacaktır.
+Karanlık modu kapatmak için Pil tasarrufunu kapatın veya Ayarlar > Geliştirici seçenekleri > MIUI optimizasyonunu aç menüsünden MIUI optimizasyonunu açın ."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Karanlık mod</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -812,7 +817,7 @@ Cihaz kilidini açmak için parmak izinizi kullanın veya PIN'i girin."</string>
     <string name="fingerprint_enter_second_psw_msg">Cihazınızı yeniden başlattıktan sonra parmak izi tanımasını kullanabilmek için ikinci alan şifrenizi girin</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Basit modda İkinci alana girilemez</string>
     <string name="fingerprint_enter_second_psw_title">İkinci alan şifresini girin</string>
-    <string name="fingerprint_not_identified_msg">Çok fazla başarısız deneme. Şifre girin veya parmak izinizi kullanmayı birkaç saniye sonra yeniden deneyin.</string>
+    <string name="fingerprint_not_identified_msg">Çok fazla başarısız deneme. Ekran kilidinizi girin veya parmak izini kullanmayı birkaç saniye sonra yeniden deneyin.</string>
     <string name="fingerprint_not_identified_msg_lock">Çok fazla sayıda başarız deneme. Şimdi şifrenizi girin.</string>
     <string name="fingerprint_not_identified_msg_password">"Çok fazla başarısız deneme.
 Kilit açmak için şifre girin."</string>
@@ -1351,16 +1356,16 @@ EEEE"</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
-    <string name="miui_lock_screen_date">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/MM
+    <string name="miui_lock_screen_date">dd MMM, EEE</string>
+    <string name="miui_lock_screen_date_12">dd MMM, EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/MM
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
 EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
     <string name="miui_notification_menu_aggregate_feedback">Geri bildirim</string>
     <string name="miui_notification_menu_allow">İzin ver</string>
     <string name="miui_notification_menu_feedback_success">Geri bildiriminiz için teşekkürler!</string>
@@ -1375,6 +1380,7 @@ EEE"</string>
     <string name="miui_notification_menu_unfold">Önemli olarak işaretle</string>
     <string name="miui_notification_slide_menu_msg_ongoing">"Kalıcı bildirimler ''%1$s'' için şimdi kısıtlansın mı?"</string>
     <string name="miui_notification_slide_menu_ongoing">Kalıcı bildirimleri kısıtla</string>
+    <string name="miui_restart_button_description">En iyi görüntü için yeniden başlatın</string>
     <string name="miui_screen_rotation_freeze_message">Manzara modunda kilitli ekran yönü</string>
     <string name="miui_snooze_always_float">Gizleme</string>
     <string name="miui_snooze_cancel">İptal</string>
@@ -1835,8 +1841,9 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="quick_settings_cellular_detail_data_usage">Veri kullanımı</string>
     <string name="quick_settings_cellular_detail_data_used">%s kullanıldı</string>
     <string name="quick_settings_cellular_detail_data_warning">%s uyarısı</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) kapatılacak. Wi-Fi kullanmadığınız sürece, veri bağlantısı gerektiren uygulamaları kullanamayacaksınız. Multimedya mesajları göndermek veya almak kısıtlanacaktır.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak, ödeme planınıza bağlı olarak ek ücretlere neden olabilir.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri kapatılırsa Wi-Fi ağına bağlanmadıkça interneti kullanamazsınız. Hâlâ MMS gönderebilirsiniz. Yine de mobil veri kapatılsın mı?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">Mobil veri kapatılırsa WLAN ağına bağlanmadıkça interneti kullanamazsınız. Hâlâ MMS gönderebilirsiniz. Yine de mobil veri kapatılsın mı?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri kullanmak ödeme planınıza bağlı olarak ek ücretlendirme oluşturabilir. Yine de mobil veri kullanılsın mı?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
@@ -1884,12 +1891,18 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="quick_settings_hotspot_label">Bağlantı noktası</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Veri Tasarrufu açık</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Açılıyor…</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">"Bağlantı hızını arttırmak içi ikincil SIM'in mobil verisini kullanın"</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">Akıllı çift SIM</string>
     <string name="quick_settings_internet_label">İnternet</string>
     <string name="quick_settings_inversion_label">Rengi ters çevirme</string>
     <string name="quick_settings_location_label">Konum</string>
     <string name="quick_settings_low_battery_toast_text">El feneri modu açılamıyor. Pil çok düşük.</string>
     <string name="quick_settings_media_device_label">Medya cihazı</string>
     <string name="quick_settings_mic_label">Mikrofon erişimi</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">No WLAN networks available</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
     <string name="quick_settings_more_settings">Daha fazla ayar</string>
     <string name="quick_settings_more_user_settings">Kullanıcı ayarları</string>
     <string name="quick_settings_mute_label">Sessiz</string>
@@ -1912,11 +1925,19 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="quick_settings_screen_record_label">Ekran kaydı</string>
     <string name="quick_settings_screen_record_start">Başlat</string>
     <string name="quick_settings_screen_record_stop">Durdur</string>
+    <string name="quick_settings_screen_rotation_inner_locked">İç ekran döndürme kapalı</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">İç ekran döndürme açık</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Manzara modunda dış ekran kilitlendi</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Portre modunda dış ekran kilitlendi</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Dış ekran döndürme açık</string>
     <string name="quick_settings_screenbutton_label">Tuşlar</string>
     <string name="quick_settings_screenlock_label">Kilit ekranı</string>
     <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
     <string name="quick_settings_secondary_label_until">Şu saate kadar: %s</string>
     <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Select WLAN networks nearby</string>
     <string name="quick_settings_sync_label">Senkronizasyon</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Öge eklemek için, ögeye basın ve basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>
     <string name="quick_settings_ui_mode_night_label">Koyu tema</string>
@@ -1932,17 +1953,19 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bantlı Wi-Fi hız artışı, iki farklı Wi-Fi bandı kullanmaya ihtiyaç duyar. Eğer farklı bir ana ağa bağlı iseniz, yardımcı bağlantı kaybolacaktır.</string>
     <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
+    <string name="quick_settings_wifi_is_off">Wi-Fi kapalı</string>
     <string name="quick_settings_wifi_label">Kablosuz</string>
     <string name="quick_settings_wifi_secondary_label_transient">Açılıyor…</string>
+    <string name="quick_settings_wlan_is_off">WLAN if off</string>
     <string name="quick_settings_work_mode_label">İş uygulamaları</string>
     <string name="quick_step_accessibility_toggle_overview">Genel bakışı aç/kapat</string>
     <string name="rapid_charge_mode_tip">Hızlı şarj</string>
     <string name="reboot_info_auto_boot_global">Yaklaşan alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Kapatma alarmı: %s</string>
     <string name="recent_conversations">Son görüşmeler</string>
-    <string name="recent_used_camera">Bu uygulama kamerayı kullandı</string>
-    <string name="recent_used_camera_and_microphone">Bu uygulama ses kaydetti ve kamerayı kullandı</string>
-    <string name="recent_used_microphone">Bu uygulama ses kaydetti</string>
+    <string name="recent_used_camera">Bu uygulama kameraya erişti</string>
+    <string name="recent_used_camera_and_microphone">Bu uygulama kamera ve mikrofona erişti</string>
+    <string name="recent_used_microphone">Bu uygulama mikrofona erişti</string>
     <string name="remaining_length_format">%1$s kaldı</string>
     <string name="remote_input_image_insertion_text">bir resim gönderildi</string>
     <string name="remove_from_settings">"Ayarlar'dan kaldır"</string>
@@ -2200,6 +2223,7 @@ E"</string>
     <string name="the_united_nations_day">Birleşmiş Milletler günü</string>
     <string name="the_valentines_day">Sevgililer Günü</string>
     <string name="the_water_lantern_festival">Su Feneri Festivali</string>
+    <string name="thermal_protection_warning">Cihazınız aşırı ısınmış. Bu özellik şimdi kullanılamıyor.</string>
     <string name="thermal_shutdown_dialog_help_text">Bakımla ilgili adımlara bakın</string>
     <string name="thermal_shutdown_dialog_message">"Telefonunuz çok ısındığından soğuması için kapatıldı ve şu anda normal bir şekilde çalışıyor.
 
@@ -2224,7 +2248,7 @@ Daha fazla bilgi için dokunun"</string>
     <string name="to_switch_networks_disconnect_ethernet">Ağ değiştirmek için ethernet bağlantısını kesin</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
-    <string name="torch_high_temperature_warning">Cihazınız fazla ısınmış durumda. El feneri şimdi kullanılamıyor.</string>
+    <string name="torch_high_temperature_warning">Cihazınız fazla ısınmış durumda. El feneri kullanılamıyor.</string>
     <string name="touch_filtered_warning">Bir uygulama bir izin isteğinin anlaşılmasını engellediğinden, Ayarlar, yanıtınızı doğrulayamıyor.</string>
     <string name="track_frame_time">Profil HWUI oluşturma</string>
     <string name="traffic_unit_byte">B</string>
@@ -2365,9 +2389,9 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="user_setup_dialog_title">Kullanıcı şimdi ayarlansın mı?</string>
     <string name="user_setup_profile_dialog_message">Profil şimdi yapılandırılsın mı?</string>
     <string name="user_switch_to_user">%s hesabına geç</string>
-    <string name="using_camera">Bu uygulama kamerayı kullanıyor</string>
-    <string name="using_camera_and_microphone">Bu uygulama ses kaydediyor ve kamerayı kullanıyor</string>
-    <string name="using_microphone">Bu uygulama ses kaydediyor</string>
+    <string name="using_camera">Bu uygulama kameraya erişiyor</string>
+    <string name="using_camera_and_microphone">Bu uygulama kamera ve mikrofona erişiyor</string>
+    <string name="using_microphone">Bu uygulama mikrofona erişiyor</string>
     <string name="v7_preference_off">KAPALI</string>
     <string name="v7_preference_on">AÇIK</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT üzerinden yüklenen uygulamaları zararlı davranışlara karşı denetle.</string>

@@ -60,6 +60,10 @@
     <string name="confirm">ٹھیک</string>
     <string name="confirm_pin_msg">PIN دوبارہ درج کریں</string>
     <string name="control_center_notification_switch_guide">کنٹرول سینٹر اور اطلاعاتی شیڈ کے درمیان سوئچ کرنے کے لیے سوائپ کریں</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">سمجھ گئے</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"اگر آپ MIUI آپٹیمائزیشن کو آف کرتے ہیں اور بیٹری سیور کو آن کرتے ہیں تو ڈارک موڈ خود بخود آن ہو جائے گا۔
+ڈارک موڈ کو آف کرنے کے لیے, بیٹری سیور کو آف کریں, یا ترتیبات > ڈیولپر اختیارات > MIUI آپٹیمائزیشن آن کریں میں MIUI آپٹیمائزیشن کو آن کریں۔"</string>
+    <string name="dark_mode_power_save_alert_dialog_title">ڈارک موڈ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -116,7 +120,7 @@
     <string name="fingerprint_enter_second_psw_msg">ڈیوائس کو ری بوٹ کرنے کے بعد دوسری جگہ کا پاسورڈ درج کریں تاکہ فنگر پرنٹ کی شناخت کے استعمال کے قابل ہو سکیں</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">لائٹ موڈ میں رہتے ہوئے دوسری جگہ میں داخل نہیں ہو سکتے</string>
     <string name="fingerprint_enter_second_psw_title">دوسری جگہ کا پاسورڈ درج کریں</string>
-    <string name="fingerprint_not_identified_msg">بہت زیادہ ناکام کوششیں۔ ابھی پاسورڈ داخل کریں یا کچھ سیکنڈ میں اپنا فنگرپرنٹ استعمال کرنے کی کوشش کریں۔</string>
+    <string name="fingerprint_not_identified_msg">بہت زیادہ ناکام کوششیں۔ ابھی اپنا اسکرین لاک داخل کریں یا کچھ سیکنڈ میں اپنا فنگرپرنٹ استعمال کرنے کی کوشش کریں۔</string>
     <string name="fingerprint_not_identified_msg_lock">بہت زیادہ ناکام کوششیں۔ اب پاسورڈ درج کریں۔</string>
     <string name="fingerprint_not_identified_msg_password">"بہت زیادہ ناکام کوششیں۔
 انلاک کرنے کے لیے اپنا پاسورڈ درج کریں۔"</string>
@@ -307,16 +311,16 @@ EEEE"</string>
     <string name="miui_clock_city_name_local">مقامی</string>
     <string name="miui_clock_city_name_second">دوسری گھڑی</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">بلیوٹوتھ ڈیوائس کے ذریعہ انلاک</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">MMM dd ،EEE</string>
+    <string name="miui_lock_screen_date_12">MMM dd ،EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"d/M
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"d/M
+EEE"</string>
     <string name="miui_notification_menu_aggregate_feedback">فیڈ بیک</string>
     <string name="miui_notification_menu_allow">اجازت دیں</string>
     <string name="miui_notification_menu_feedback_success">آپ کے فیڈبیک کے لیے شکریہ!</string>
@@ -331,6 +335,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_unfold">اہم کے طور پر نشان زد کریں</string>
     <string name="miui_notification_slide_menu_msg_ongoing">ابھی \"%1$s\" کے لیے مستقل اطلاعات محدود کریں؟</string>
     <string name="miui_notification_slide_menu_ongoing">مستقل اطلاعات محدود کریں</string>
+    <string name="miui_restart_button_description">بہترین ڈسپلے کے لیے دوبارہ شروع کریں</string>
     <string name="miui_screen_rotation_freeze_message">لاک اسکرین سمت بندی لینڈ اسکیپ موڈ میں ہے</string>
     <string name="miui_snooze_always_float">نہ چھپائیں</string>
     <string name="miui_snooze_cancel">منسوخ کریں</string>
@@ -467,8 +472,9 @@ mm"</string>
     <string name="quick_settings_bluetooth_detail_empty_text">کوئی جوڑا بنائے گئے ڈیوائس دستیاب نہیں ہیں</string>
     <string name="quick_settings_bluetooth_disconnected_tip">آج تمام بلوٹوتھ ڈیوائسز مربوط رہیں گے</string>
     <string name="quick_settings_bluetooth_label">بلوٹوتھ</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">موبائل ڈیٹا (WCDMA/LTE) آف ہو جائے گا۔ تا وقتیکہ آپ وائی-فائی استعمال کرتے ہوں, آپ ان ایپس کو مزید استعمال نہیں کر سکیں گے جس میں ڈیٹا کنکشن کی ضرورت ہوتی ہے۔ ملٹی میڈیا پیغامات بھیجنا اور موصول کرنا محدود ہو جائے گا۔</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">موبائل ڈیٹا آن ہو جائے گا۔ موبائل نیٹ ورک سے مربوط کرنے سے آپ کے ادائیگی پلان کی بنیاد پر اضافی فیس لگ سکتی ہے۔</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">اگر آپ موبائل ڈیٹا آف کرتے ہیں, تو آپ انٹرنیٹ استعمال نہیں کر سکیں گے تاوقتیکہ آپ وائی-فائی سے مربوط ہوں۔ آپ ابھی بھی ایم ایم ایس بھیج سکیں گے۔ پھر بھی موبائل ڈیٹا آف کریں؟</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">اگر آپ موبائل ڈیٹا آف کرتے ہیں, تو آپ انٹرنیٹ استعمال نہیں کر سکیں گے تاوقتیکہ آپ وائی-فائی سے مربوط ہوں۔ آپ ابھی بھی ایم ایم ایس بھیج سکیں گے۔ پھر بھی موبائل ڈیٹا آف کریں؟</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">آپ کے ادائیگی پلان کی بنیاد پر موبائل ڈیٹا استعمال کرنے سے اضافی فیس لگ سکتی ہے۔ پھر بھی موبائل ڈیٹا استعمال کرنے کی اجازت دیں؟</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">منسوخ کریں</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ٹھیک</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">آف کریں</string>
@@ -479,8 +485,14 @@ mm"</string>
     <string name="quick_settings_extreme_batterysaver_label">انتہائی بیٹری سیور</string>
     <string name="quick_settings_flashlight_label">فلیش لائٹ</string>
     <string name="quick_settings_hotspot_label">ہاٹ سپاٹ</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">کنکشن کی رفتار بڑھانے کے لیے ثانوی سم کا موبائل ڈیٹا استعمال کریں</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">اسمارٹ ڈیول سم</string>
     <string name="quick_settings_location_label">مقام</string>
     <string name="quick_settings_low_battery_toast_text">فلیش لائٹ استعمال نہیں کر سکتے۔ بیٹری بہت کم ہے۔</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">کوئی وائی-فائی نیٹ ورک دستیاب نہیں ہے</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">No WLAN networks available</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
     <string name="quick_settings_more_settings">مزید ترتیبات</string>
     <string name="quick_settings_mute_label">میوٹ</string>
     <string name="quick_settings_nightmode_label">ڈارک موڈ</string>
@@ -488,10 +500,18 @@ mm"</string>
     <string name="quick_settings_powermode_label">کارکردگی موڈ</string>
     <string name="quick_settings_quietmode_label">DND</string>
     <string name="quick_settings_rotationlock_label">لاک سمت بندی</string>
+    <string name="quick_settings_screen_rotation_inner_locked">اندرونی اسکرین کا گھمانا آف ہے</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">اندرونی اسکرین کا گھمانا آن ہے</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">لینڈ اسکیپ موڈ میں باہری اسکرین لاک ہے</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">پورٹریٹ موڈ میں باہری اسکرین لاک ہے</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">باہری اسکرین کا گھمانا آن ہے</string>
     <string name="quick_settings_screenbutton_label">بٹن</string>
     <string name="quick_settings_screenlock_label">لاک اسکرین</string>
     <string name="quick_settings_screenshot_label">اسکرین شاٹ</string>
     <string name="quick_settings_sim_disabled">" (غیر فعال)"</string>
+    <string name="quick_settings_state_saved">محفوظ کیا گیا</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">نزدیکی وائی-فائی نیٹ ورک منتخب کریں</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Select WLAN networks nearby</string>
     <string name="quick_settings_sync_label">مطابقت پذیر کریں</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">ایک آئٹم شامل کرنے کے لیے, دبائیں اور اسے پکڑ کر رکھیں, اور پھر اسے پینل کے اوپری حصے تک کھینچ کر لے جائیں۔</string>
     <string name="quick_settings_vibrate_label">ارتعاش</string>
@@ -505,12 +525,14 @@ mm"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">نیٹ ورکس کے درمیان سوئچ کر رہا ہے</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">ڈیول بینڈ وائی-فائی رفتار بوسٹ کو دو مختلف وائی-فائی بینڈ استعمال کرنے کی ضرورت ہے۔ اگر آپ مختلف اصل نیٹ ورک سے مربوط کرتے ہیں, تو معاون کنکشن ختم ہو جائے گا۔</string>
     <string name="quick_settings_wifi_detail_empty_text">کوئی وائی-فائی نیٹ ورک دستیاب نہیں ہے</string>
+    <string name="quick_settings_wifi_is_off">وائی-فائی آف ہے</string>
+    <string name="quick_settings_wlan_is_off">WLAN if off</string>
     <string name="rapid_charge_mode_tip">فوری چارج</string>
     <string name="reboot_info_auto_boot_global">آنے والے الارم: %s</string>
     <string name="reboot_info_shutdown_alarm_global">الارم بند کریں: %s</string>
-    <string name="recent_used_camera">اس ایپ نے کیمرہ استعمال کیا</string>
-    <string name="recent_used_camera_and_microphone">اس ایپ نے آڈیو ریکارڈ کیا اور کیمرہ استعمال کیا</string>
-    <string name="recent_used_microphone">اس ایپ نے آڈیو ریکارڈ کیا</string>
+    <string name="recent_used_camera">اس ایپ نے کیمرہ تک رسائی کی</string>
+    <string name="recent_used_camera_and_microphone">اس ایپ نے کیمرہ اور مائکروفون تک رسائی کی</string>
+    <string name="recent_used_microphone">اس ایپ نے مائکروفون تک رسائی کی</string>
     <string name="return_to_incall_screen">کال پر واپس جائیں</string>
     <string name="saturday">سنیچر</string>
     <string name="saturday_short">سنیچر</string>
@@ -580,6 +602,7 @@ E"</string>
     <string name="the_united_nations_day">اقوام متحدہ کا دن</string>
     <string name="the_valentines_day">ویلنٹائن ڈے</string>
     <string name="the_water_lantern_festival">پانی لالٹین تہوار</string>
+    <string name="thermal_protection_warning">آپ کا ڈیوائس زیادہ گرم ہو گیا ہے۔ ابھی اس خصوصیت کا استعمال نہیں کر سکتے۔</string>
     <string name="thursday">جمعرات</string>
     <string name="thursday_short">جمعرات</string>
     <string name="thursday_shortest">جمعرات</string>
@@ -603,9 +626,9 @@ E"</string>
     <string name="unlockscreen_low_battery">ابھی چارجر منسلک کریں</string>
     <string name="unlockscreen_recharge_completed">بیٹری چارج ہوگئی</string>
     <string name="unlockscreen_recharging_message">%d%% چارج کر رہا ہے</string>
-    <string name="using_camera">یہ ایپ کیمرہ استعمال کر رہا ہے</string>
-    <string name="using_camera_and_microphone">یہ ایپ آڈیو ریکارڈ کر رہا ہے اور کیمرہ استعمال کر رہا ہے</string>
-    <string name="using_microphone">یہ ایپ آڈیو ریکارڈ کر رہا ہے</string>
+    <string name="using_camera">یہ ایپ کیمرہ تک رسائی کر رہا ہے</string>
+    <string name="using_camera_and_microphone">یہ ایپ کیمرہ اور مائکروفون تک رسائی کر رہا ہے</string>
+    <string name="using_microphone">یہ ایپ مائکروفون تک رسائی کر رہا ہے</string>
     <string name="wallpaper_global_des_drop_down_notify_text">تفصیلات دیکھنے کے لیے ریلیز کریں</string>
     <string name="wednesday">بدھ</string>
     <string name="wednesday_short">بدھ</string>
