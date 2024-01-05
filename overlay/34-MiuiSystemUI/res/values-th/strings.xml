@@ -586,6 +586,7 @@
     <string name="controls_media_button_prev">แทร็กก่อนหน้า</string>
     <string name="controls_media_close_session">ซ่อนตัวควบคุมสื่อนี้สำหรับ %1$s ไหม</string>
     <string name="controls_media_dismiss_button">ซ่อน</string>
+    <string name="controls_media_empty_title">%1$s กำลังทำงาน</string>
     <string name="controls_media_playing_item_description">กำลังเปิดเพลง %1$s ของ %2$s จาก %3$s</string>
     <string name="controls_media_resume">เล่นต่อ</string>
     <string name="controls_media_seekbar_description">%1$s จาก %2$s</string>
@@ -629,6 +630,10 @@
     <string name="daltonizer_mode_protanomaly">ตาบอดจางสีแดง (สีแดง/เขียว)</string>
     <string name="daltonizer_mode_tritanomaly">ตาบอดจางสีน้ำเงิน (สีน้ำเงิน/เหลือง)</string>
     <string name="daltonizer_type_overridden">แทนที่โดย %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">รับทราบ</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"หากคุณปิดการเพิ่มประสิทธิภาพ MIUI และเปิดโหมดประหยัดแบตเตอรี่ โหมดมืดจะเปิดโดยอัตโนมัติ
+หากต้องการปิดโหมดมืด ให้ปิดโหมดประหยัดแบตเตอรี่ หรือเปิดการเพิ่มประสิทธิภาพ MIUI ใน การตั้งค่า > ตัวเลือกนักพัฒนา > เปิดใช้งานการเพิ่มประสิทธิภาพ MIUI"</string>
+    <string name="dark_mode_power_save_alert_dialog_title">โหมดมืด</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -812,7 +817,7 @@
     <string name="fingerprint_enter_second_psw_msg">ป้อนรหัสผ่านพื้นที่ทับซ้อน หลังจากรีบูตอุปกรณ์เพื่อใช้การอ่านลายนิ้วมือ</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">ไม่สามารถเข้าสู่พื้นที่ทับซ้อนในขณะที่อยู่ในโหมดง่าย</string>
     <string name="fingerprint_enter_second_psw_title">ป้อนรหัสผ่านพื้นที่ทับซ้อน</string>
-    <string name="fingerprint_not_identified_msg">ผิดเกินจำนวนที่กำหนด กรุณาป้อนรหัสผ่านหรือรออีกสักครู่จึงใช้วิธีสแกนนิ้ว</string>
+    <string name="fingerprint_not_identified_msg">ความพยายามที่ไม่สำเร็จมากเกินไป ป้อนการล็อกหน้าจอของคุณทันทีหรือลองใช้ลายนิ้วมือในไม่กี่วินาที</string>
     <string name="fingerprint_not_identified_msg_lock">สแกนนิ้วมือผิดพลาดมากเกินไป กรุณาป้อนรหัสผ่าน</string>
     <string name="fingerprint_not_identified_msg_password">"สแกนนิ้วมือผิดพลาดมากเกินไป
 ป้อนรหัสผ่านพื่อปลดล็อก"</string>
@@ -1351,16 +1356,16 @@ d MMMM"</string>
     <string name="miui_clock_city_name_local">ในเครื่อง</string>
     <string name="miui_clock_city_name_second">นาฬิกาสำรอง</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">ปลดล็อกโดยใช้อุปกรณ์บลูทูธ</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_notification_menu_aggregate_feedback">ข้อเสนอแนะ</string>
     <string name="miui_notification_menu_allow">อนุญาต</string>
     <string name="miui_notification_menu_feedback_success">ขอบคุณสำหรับข้อเสนอแนะ!</string>
@@ -1375,6 +1380,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_unfold">ทำเครื่องหมายว่าสำคัญ</string>
     <string name="miui_notification_slide_menu_msg_ongoing">จำกัดการแจ้งเตือนถาวรสำหรับ \"%1$s\" ตอนนี้หรือไม่?</string>
     <string name="miui_notification_slide_menu_ongoing">จำกัดการแจ้งเตือนถาวร</string>
+    <string name="miui_restart_button_description">รีสตาร์ทเพื่อการแสดงผลที่ดีที่สุด</string>
     <string name="miui_screen_rotation_freeze_message">ทิศทางการล็อกหน้าจอในโหมดแนวนอน</string>
     <string name="miui_snooze_always_float">ไม่ซ่อน</string>
     <string name="miui_snooze_cancel">ยกเลิก </string>
@@ -1835,8 +1841,9 @@ mm"</string>
     <string name="quick_settings_cellular_detail_data_usage">การใช้อินเทอร์เน็ต</string>
     <string name="quick_settings_cellular_detail_data_used">ใช้ไปแล้ว %s</string>
     <string name="quick_settings_cellular_detail_data_warning">คำเตือน %s</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">ข้อมูลมือถือ (WCDMA/LTE) จะถูกปิด ถ้าคุณใช้ Wi-Fi คุณจะไม่สามารถใช้แอปที่ต้องการเชื่อมต่อข้อมูลได้อีกต่อไป การส่งหรือรับข้อความมัลติมีเดียจะถูกจำกัด</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">ข้อมูลมือถือจะถูกเปิดใช้งาน การเชื่อมต่อกับเครือข่ายมือถืออาจมีค่าใช้จ่ายเพิ่มเติมขึ้นอยู่กับแผนการชำระเงินของคุณ</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">หากคุณปิดข้อมูลมือถือคุณจะไม่สามารถใช้อินเทอร์เน็ตได้เว้นแต่ว่าคุณจะเชื่อมต่อกับ Wi-Fi คุณจะยังสามารถส่ง MMS ได้ ปิดข้อมูลมือถือหรือไม่?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">หากคุณปิดข้อมูลมือถือคุณจะไม่สามารถใช้อินเทอร์เน็ตได้เว้นแต่ว่าคุณจะเชื่อมต่อกับ WLAN คุณจะยังสามารถส่ง MMS ได้ ปิดข้อมูลมือถือหรือไม่?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">การใช้ข้อมูลมือถืออาจสร้างค่าใช้จ่ายเพิ่มเติมขึ้นอยู่กับแผนการชำระเงินของคุณ อนุญาตให้ใช้ข้อมูลมือถือหรือไม่?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">ยกเลิก </string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ตกลง</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">ปิดใช้งาน</string>
@@ -1884,12 +1891,18 @@ mm"</string>
     <string name="quick_settings_hotspot_label">ฮอตสปอต</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">เปิดการประหยัดเน็ตอยู่</string>
     <string name="quick_settings_hotspot_secondary_label_transient">กำลังเปิด...</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">ใช้ข้อมูลมือถือของซิมรองเพื่อเพิ่มความเร็วในการเชื่อมต่อ</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">ซิมคู่สมาร์ท</string>
     <string name="quick_settings_internet_label">อินเทอร์เน็ต</string>
     <string name="quick_settings_inversion_label">การกลับสี</string>
     <string name="quick_settings_location_label">ตำแหน่งพิกัด</string>
     <string name="quick_settings_low_battery_toast_text">ใช้ไฟฉายไม่ได้ แบตเตอรี่เหลือน้อยเกินไป</string>
     <string name="quick_settings_media_device_label">อุปกรณ์สื่อ</string>
     <string name="quick_settings_mic_label">สิทธิ์เข้าถึงไมโครโฟน</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">ไม่มีสัญญาณ Wi-Fi ที่สามารถเชื่อมต่อได้</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">No WLAN networks available</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
     <string name="quick_settings_more_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="quick_settings_more_user_settings">การตั้งค่าของผู้ใช้</string>
     <string name="quick_settings_mute_label">เงียบ</string>
@@ -1912,11 +1925,19 @@ mm"</string>
     <string name="quick_settings_screen_record_label">บันทึกหน้าจอ</string>
     <string name="quick_settings_screen_record_start">เริ่ม</string>
     <string name="quick_settings_screen_record_stop">หยุด</string>
+    <string name="quick_settings_screen_rotation_inner_locked">ปิดการหมุนหน้าจอด้านใน</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">เปิดการหมุนหน้าจอด้านใน</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">หน้าจอล็อคด้านนอกในโหมดแนวนอน</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">หน้าจอล็อคด้านนอกในโหมดแนวตั้ง</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">เปิดการหมุนหน้าจอด้านนอก</string>
     <string name="quick_settings_screenbutton_label">ปุ่ม</string>
     <string name="quick_settings_screenlock_label">หน้าจอล็อก</string>
     <string name="quick_settings_screenshot_label">จับภาพหน้าจอ</string>
     <string name="quick_settings_secondary_label_until">จนถึง %s</string>
     <string name="quick_settings_sim_disabled">" (ปิดใช้งาน)"</string>
+    <string name="quick_settings_state_saved">บันทึกแล้ว</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">เลือกเครือข่าย Wi-Fi ใกล้เคียง</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Select WLAN networks nearby</string>
     <string name="quick_settings_sync_label">ซิงค์</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">เพื่อเพิ่มรายการ กดค้างและลากมันไปยังด้านบนของแผงหน้าจอ</string>
     <string name="quick_settings_ui_mode_night_label">ธีมมืด</string>
@@ -1932,17 +1953,19 @@ mm"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">การสลับระหว่างเครือข่าย</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">การเพิ่มความเร็ว Wi-Fi แบบย่านความถี่คู่ต้องใช้ย่านความถี่ Wi-Fi สองย่าน หากคุณเชื่อมต่อกับเครือข่ายหลักอื่น การเชื่อมต่อเสริมจะหายไป</string>
     <string name="quick_settings_wifi_detail_empty_text">ไม่มีสัญญาณ Wi-Fi ที่สามารถเชื่อมต่อได้</string>
+    <string name="quick_settings_wifi_is_off">Wi-Fi ปิดอยู่</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_secondary_label_transient">กำลังเปิด...</string>
+    <string name="quick_settings_wlan_is_off">WLAN if off</string>
     <string name="quick_settings_work_mode_label">แอปงาน</string>
     <string name="quick_step_accessibility_toggle_overview">สลับภาพรวม</string>
     <string name="rapid_charge_mode_tip">ชาร์จด่วน</string>
     <string name="reboot_info_auto_boot_global">การปลุกที่จะเกิดขึ้น: %s</string>
     <string name="reboot_info_shutdown_alarm_global">การปิดเสียงปลุก: %s</string>
     <string name="recent_conversations">การสนทนาล่าสุด</string>
-    <string name="recent_used_camera">แอปนี้ได้ทำการใช้กล้อง</string>
-    <string name="recent_used_camera_and_microphone">แอปนี้ได้ทำการทึกเสียงและใช้กล้อง</string>
-    <string name="recent_used_microphone">แอปนี้ได้ทำการบันทึกเสียง</string>
+    <string name="recent_used_camera">แอปนี้ได้เข้าถึงกล้อง</string>
+    <string name="recent_used_camera_and_microphone">แอปนี้ได้เข้าถึงกล้องและไมโครโฟน</string>
+    <string name="recent_used_microphone">แอปนี้ได้เข้าถึงไมโครโฟน</string>
     <string name="remaining_length_format">เหลือ %1$s</string>
     <string name="remote_input_image_insertion_text">ส่งรูปภาพ</string>
     <string name="remove_from_settings">นำออกจากการตั้งค่า</string>
@@ -2200,6 +2223,7 @@ d MMM"</string>
     <string name="the_united_nations_day">วันสหประชาชาติ</string>
     <string name="the_valentines_day">วันวาเลนไทน์</string>
     <string name="the_water_lantern_festival">เทศกาลโคมไฟน้ำ</string>
+    <string name="thermal_protection_warning">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้คุณลักษณะนี้ได้ขณะนี้</string>
     <string name="thermal_shutdown_dialog_help_text">ดูขั้นตอนในการดูแลรักษา</string>
     <string name="thermal_shutdown_dialog_message">"โทรศัพท์ร้อนเกินไปจึงปิดเครื่องเพื่อให้เย็นลง ขณะนี้โทรศัพท์ทำงานเป็นปกติ
 
@@ -2224,7 +2248,7 @@ d MMM"</string>
     <string name="to_switch_networks_disconnect_ethernet">ตัดการเชื่อมต่ออีเทอร์เน็ตเพื่อสลับเครือข่าย</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
-    <string name="torch_high_temperature_warning">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้ไฟฉายได้</string>
+    <string name="torch_high_temperature_warning">อุปกรณ์ของคุณร้อนเกินไป ไม่สามารถใช้ไฟฉายได้ขณะนี้</string>
     <string name="touch_filtered_warning">เนื่องจากแอปหนึ่งได้บดบังคำขอสิทธิ์ ระบบจึงไม่สามารถยืนยันคำตอบของคุณสำหรับการตั้งค่าได้</string>
     <string name="track_frame_time">การแสดงผล HWUI ตามโปรไฟล์</string>
     <string name="traffic_unit_byte">B</string>
@@ -2365,9 +2389,9 @@ d MMM"</string>
     <string name="user_setup_dialog_title">ตั้งค่าผู้ใช้เลยไหม</string>
     <string name="user_setup_profile_dialog_message">หากต้องการตั้งค่าโปรไฟล์ทันที</string>
     <string name="user_switch_to_user">เปลี่ยนเป็น %s</string>
-    <string name="using_camera">แอปนี้กำลังใช้กล้องอยู่</string>
-    <string name="using_camera_and_microphone">แอปนี้กำลังบันทึกเสียงและใช้กล้องอยู่</string>
-    <string name="using_microphone">แอปนี้กำลังบันทึกเสียงอยู่</string>
+    <string name="using_camera">แอปนี้กำลังเข้าถึงกล้อง</string>
+    <string name="using_camera_and_microphone">แอปนี้กำลังเข้าถึงกล้องและไมโครโฟน</string>
+    <string name="using_microphone">แอปนี้กำลังเข้าถึงไมโครโฟน</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
     <string name="verify_apps_over_usb_summary">ตรวจสอบแอปที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย</string>

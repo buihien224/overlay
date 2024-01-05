@@ -60,6 +60,10 @@
     <string name="confirm">OK</string>
     <string name="confirm_pin_msg">PIN kodni qaytadan kiriting</string>
     <string name="control_center_notification_switch_guide">Boshqarish markazi va bildirishnoma soyasi o‘rtasida o‘tish uchun suring</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Tushundim</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Agar siz MIUI optimallashtirishni o‘chirib, Quvvat tejovchini tejash funksiyasini yoqsangiz, Qoring‘i rejim avtomatik ravishda yoqiladi.
+Qorong‘i rejimi, Quvvat tejovchi funksiyasi yoki MIUI optimallashtirishni o‘chirish uchun Sozlamalar > Dasturchi tanlamalari > MIUI optimallashtirishni yoqishga o‘ting."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Qorong‘i rejim</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -116,7 +120,7 @@ Qurilmaning qulfini ochish uchun foydalaning yoki PIN kodingizni kiriting."</str
     <string name="fingerprint_enter_second_psw_msg">Barmoq izni ishlatish uchun qurilmani o‘chirib yoqib Ikkinchi joy parolini kiriting</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Yengil rejimi paytida ikkinchi joyga kirib bo‘lmaydi</string>
     <string name="fingerprint_enter_second_psw_title">Ikkinchi joy parolini kiriting</string>
-    <string name="fingerprint_not_identified_msg">Juda ko‘p muvaffaqiyatsiz urinishlar. Parolni kiriting yoki barmoq izini bir necha soniyadan keyin ishlatib ko‘ring.</string>
+    <string name="fingerprint_not_identified_msg">"Juda ko'p muvaffaqiyatsiz urinishlar. Endi ekran qulfini kiriting yoki bir necha soniyadan so'ng barmoq izini ishlatib ko'ring."</string>
     <string name="fingerprint_not_identified_msg_lock">Juda ko‘p muvaffaqiyatsiz urinishlar. Parolni kiriting.</string>
     <string name="fingerprint_not_identified_msg_password">"Juda ko‘p muvaffaqiyatsiz urinishlar.
 Qulfni ochish uchun parolni kiriting."</string>
@@ -307,16 +311,16 @@ EEEE"</string>
     <string name="miui_clock_city_name_local">Mahalliy</string>
     <string name="miui_clock_city_name_second">Ikkinchi soat</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth qurilma orqali qulfdan ochildi</string>
-    <string name="miui_lock_screen_date">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/MM
+    <string name="miui_lock_screen_date">dd MMM, EEE</string>
+    <string name="miui_lock_screen_date_12">dd MMM, EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/MM
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
 EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
     <string name="miui_notification_menu_aggregate_feedback">Hisobot</string>
     <string name="miui_notification_menu_allow">Ruxsat berish</string>
     <string name="miui_notification_menu_feedback_success">Fikringiz uchun rahmat!</string>
@@ -331,6 +335,7 @@ EEE"</string>
     <string name="miui_notification_menu_unfold">Muhim deb belgilash</string>
     <string name="miui_notification_slide_menu_msg_ongoing">\"%1$s\" uchun doimiy bildirishnomalar cheklansinmi?</string>
     <string name="miui_notification_slide_menu_ongoing">Doimiy bildirishnomalarni cheklash</string>
+    <string name="miui_restart_button_description">Eng yaxshi ko‘rsatish uchun qayta ishga tushiring</string>
     <string name="miui_screen_rotation_freeze_message">Albom orientatsiyasida qulflangan ekran orientatsiyasi</string>
     <string name="miui_snooze_always_float">Yashirilmasin</string>
     <string name="miui_snooze_cancel">Bekor qilish</string>
@@ -417,7 +422,7 @@ mm"</string>
     <string name="notification_control_center">Bildirishnomalar va Nazorat qilish markazi</string>
     <string name="notification_group_collapse_button_text">Qoplash</string>
     <string name="notification_hidden_text">Yangi xabar keldi</string>
-    <string name="open_camera_hint_text">Kamerani ochish uchun belgini harakatlantiring</string>
+    <string name="open_camera_hint_text">Kamerani ochish uchun belgini suring</string>
     <string name="open_lock_screen_magazine_hint_text">Qo‘shimcha tanlamalar uchun o‘ngga suring</string>
     <string name="open_remote_center_hint_text">Boshqaruvlarni ko‘rish uchun o‘ngga suring</string>
     <string name="open_xmyzl_hint_text">Xiaomi Magic Control‘ni ochish uchun o‘ngga suring</string>
@@ -467,8 +472,9 @@ mm"</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Ulangan qurilmalar mavjud emas</string>
     <string name="quick_settings_bluetooth_disconnected_tip">Barcha Bluetooth qurilmalari bugun uzilib qoladi</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil internet (WCDMA/LTE) o‘chiriladi. Wi-Fi‘ni ishlatguncha, Agar Wi-Fi‘dan foydalanmasangiz, internetga bog‘lanadigan ilovalardan foydalana olmaysiz. Multimedia xabarlarini jo‘natish va qabul qilish cheklanadi.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil internet yoqiladi. Mobil tarmoqqa ulanish sizning to‘lov rejangizga bog‘liq ravishda qo‘shimcha xarajatlarga olib kelishi mumkin.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Agar siz uyali ma'lumotni o'chirib qo‘ysangiz, Wi-Fi‘ga ulanmaguningizcha Internetdan foydalana olmaysiz. MMS xabarlarni yuborishingiz mumkin. Mobil internet baribir o'chirilsinmi?"</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">"Agar siz mobil ma'lumotlarni o'chirib qo'ysangiz, siz WLAN'ga ulanmasangiz, Internetdan foydalana olmaysiz. Siz hali ham MMS yuborishingiz mumkin. Mobil ma'lumotlar o'chirilsinmi?"</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Uyali ma’lumotlardan foydalanish sizning to‘lov rejangizga bog‘liq ravishda qo‘shimcha to‘lovlarni keltirib chiqarishi mumkin. Mobil internetdan foydalanishga ruxsat berilsinmi?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Bekor qilish</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">O‘chirish</string>
@@ -479,8 +485,14 @@ mm"</string>
     <string name="quick_settings_extreme_batterysaver_label">Ekstremal quvvat tejagich</string>
     <string name="quick_settings_flashlight_label">Chiroq</string>
     <string name="quick_settings_hotspot_label">Ulanish nuqtasi</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Ulanish tezligini oshirish uchun ikkinchi SIM-kartaning mobil ma‘lumotlaridan foydalaning</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">Aqilli ikkilangan SIM</string>
     <string name="quick_settings_location_label">Joylashuv</string>
     <string name="quick_settings_low_battery_toast_text">Chiroqdan foydalanib bo‘lmadi. Batareya quvvati juda past.</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Wi-Fi tarmoqlari mavjud emas</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">No WLAN networks available</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
     <string name="quick_settings_more_settings">Qo‘shimcha</string>
     <string name="quick_settings_mute_label">Ovozsiz</string>
     <string name="quick_settings_nightmode_label">Qorong‘i rejim</string>
@@ -488,10 +500,18 @@ mm"</string>
     <string name="quick_settings_powermode_label">Yuqori ishlash rejimi</string>
     <string name="quick_settings_quietmode_label">DND</string>
     <string name="quick_settings_rotationlock_label">Qulflash orientatsiyasi</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Ichki ekranni aylantirish o‘chiq</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Ichki ekranni aylantirish yoniq</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Tashqi ekran albom orientatsiyasida qulflangan</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Tashqi ekran portret rejimida qulflangan</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Tashqi ekranni aylantirish yoniq</string>
     <string name="quick_settings_screenbutton_label">Tugmalar</string>
     <string name="quick_settings_screenlock_label">Ekran qulfi</string>
     <string name="quick_settings_screenshot_label">Ekran tasviri</string>
     <string name="quick_settings_sim_disabled">" (o‘chirilgan)"</string>
+    <string name="quick_settings_state_saved">Saqlandi</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Yaqin atrofdagi Wi-Fi tarmoqlarini tanlang</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Select WLAN networks nearby</string>
     <string name="quick_settings_sync_label">Sinxronlash</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Element qo‘shish uchun, uni bosib turing va uni panelning yuqori qismiga ko‘chiring.</string>
     <string name="quick_settings_vibrate_label">Tebranish</string>
@@ -505,12 +525,14 @@ mm"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Tarmoqlar orasida o‘zgartirish</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Ikki tarmoqli Wi-Fi tezligini oshirish uchun ikki xil Wi-Fi tarmoqlaridan foydalanish kerak. Agar siz boshqa asosiy tarmoqqa ulansangiz, yordamchi ulanish yo‘qoladi.</string>
     <string name="quick_settings_wifi_detail_empty_text">Wi-Fi tarmoqlari mavjud emas</string>
+    <string name="quick_settings_wifi_is_off">Wi-Fi o‘chiq</string>
+    <string name="quick_settings_wlan_is_off">WLAN if off</string>
     <string name="rapid_charge_mode_tip">Tezkor zaryadlash</string>
     <string name="reboot_info_auto_boot_global">Uyg‘otkich: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Qurilmani o‘chirish uyg‘otkichi: %s</string>
-    <string name="recent_used_camera">Ushbu ilova kameradan foydalandi</string>
-    <string name="recent_used_camera_and_microphone">Ushbu ilova audio yozib oldi va kameradan foydalandi</string>
-    <string name="recent_used_microphone">Ushbu ilova audio yozib oldi</string>
+    <string name="recent_used_camera">Ushbu ilova kameraga kirdi</string>
+    <string name="recent_used_camera_and_microphone">Ushbu ilova kamera va mikrofondga kirdi</string>
+    <string name="recent_used_microphone">Ushbu ilova mikrofondga kirdi</string>
     <string name="return_to_incall_screen">Qo‘ng‘iroqqa qaytish</string>
     <string name="saturday">Shanba</string>
     <string name="saturday_short">Shanba</string>
@@ -521,8 +543,8 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">SIM karta yaroqsiz</string>
     <string name="sim_state_locked_puk_dialog_message">Siz kamida PUK kodini %d marta noto‘g‘ri kiritdingiz. SIM kartangiz hozir yaroqsiz. Ushbu SIM kartani boshqasiga almashtiring.</string>
     <string name="start_camera_error_try_again">Kamera ishga tushirilmadi. Qayta urinib ko‘ring.</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
+    <string name="status_bar_clock_date_format">d MMM, E</string>
+    <string name="status_bar_clock_date_format_12">d MMM, E</string>
     <string name="status_bar_clock_date_time_format">d MMM, E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">d MMM, E h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
@@ -580,6 +602,7 @@ E"</string>
     <string name="the_united_nations_day">Birlashgan Millatlar Tashkilot kuni</string>
     <string name="the_valentines_day">Sevishganlar Kuni</string>
     <string name="the_water_lantern_festival">Suv Chirog‘i Bayrami</string>
+    <string name="thermal_protection_warning">Qurilmangiz qizib ketgan. Ushbu xususiyat mavjud emas.</string>
     <string name="thursday">Payshanba</string>
     <string name="thursday_short">Pay</string>
     <string name="thursday_shortest">Pay</string>
@@ -589,7 +612,7 @@ E"</string>
     <string name="tip_close_flares">Ushbu jarayon davomida ilova xatti-harakatlari haqida bildirishnoma olmaysiz</string>
     <string name="today">Bugun</string>
     <string name="tomorrow">Ertaga</string>
-    <string name="torch_high_temperature_warning">Qurilmangiz qizib ketgan. Chiroqni yoqib bo‘lmaydi.</string>
+    <string name="torch_high_temperature_warning">"Qurilmangiz qizib ketadi. Hozirda chiroqdan foydalanib bo'lmaydi."</string>
     <string name="traffic_unit_byte">B</string>
     <string name="traffic_unit_gigabyte">GB</string>
     <string name="traffic_unit_kilobyte">KB</string>
@@ -603,9 +626,9 @@ E"</string>
     <string name="unlockscreen_low_battery">Zaryadlovchini ulang</string>
     <string name="unlockscreen_recharge_completed">Batareya zaryadlandi</string>
     <string name="unlockscreen_recharging_message">Zaryadlanmoqda (%d%%)</string>
-    <string name="using_camera">Ushbu ilova kameradan foydalanmoqda</string>
-    <string name="using_camera_and_microphone">Ushbu ilova audio yozib, kameradan foydalanmoqda</string>
-    <string name="using_microphone">Ushbu ilova audio yozib olmoqda</string>
+    <string name="using_camera">Ushbu ilova kameraga kirmoqda</string>
+    <string name="using_camera_and_microphone">Ushbu ilova kamera va mikrofondga kirmoqda</string>
+    <string name="using_microphone">Ushbu ilova mikrofondga kirmoqda</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Ma’lumotlarni ko‘rish uchun bo‘shating</string>
     <string name="wednesday">Chorshanba</string>
     <string name="wednesday_short">Chor</string>

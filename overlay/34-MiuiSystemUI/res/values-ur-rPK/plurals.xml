@@ -5,16 +5,16 @@
         <item quantity="one">1 گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 گھنٹہ قبل</item>
-        <item quantity="one">1 گھنٹہ قبل</item>
+        <item quantity="other">%d گھنٹہ پہلے</item>
+        <item quantity="one">%d گھنٹہ پہلے</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">آدھا گھنٹہ قبل</item>
         <item quantity="one">آدھا گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 گھنٹہ میں</item>
-        <item quantity="one">1 گھنٹہ میں</item>
+        <item quantity="other">%d گھنٹہ میں</item>
+        <item quantity="one">%d گھنٹہ میں</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">آدھا گھنٹہ میں</item>
@@ -26,15 +26,15 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d منٹ میں</item>
-        <item quantity="one">1 منٹ میں</item>
+        <item quantity="one">%d منٹ میں</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ابھی ابھی</item>
         <item quantity="one">ابھی ابھی</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d منٹ قبل</item>
-        <item quantity="one">1 منٹ قبل</item>
+        <item quantity="other">%d منٹ پہلے</item>
+        <item quantity="one">%d منٹ پہلے</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">آدھا گھنٹہ قبل</item>
