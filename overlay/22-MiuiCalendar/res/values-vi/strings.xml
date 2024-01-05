@@ -505,6 +505,16 @@
     <string name="great_cold_tradition">Lạnh giá</string>
     <string name="great_heat">Tăng cường</string>
     <string name="great_heat_tradition">Sức nóng lớn</string>
+	<string name="heavenly_stems_bing">Bính</string>
+    <string name="heavenly_stems_ding">Đinh</string>
+    <string name="heavenly_stems_geng">Canh</string>
+    <string name="heavenly_stems_gui">Quý</string>
+    <string name="heavenly_stems_ji">Kỷ</string>
+    <string name="heavenly_stems_jia">Giáp</string>
+    <string name="heavenly_stems_ren">Nhâm</string>
+    <string name="heavenly_stems_wu">Mậu</string>
+    <string name="heavenly_stems_xin">Tân</string>
+    <string name="heavenly_stems_yi">Ất</string>
     <string name="heavy_snow">tuyết dày</string>
     <string name="heavy_snow_tradition">tuyết dày</string>
     <string name="hint_attendees">Khách</string>
