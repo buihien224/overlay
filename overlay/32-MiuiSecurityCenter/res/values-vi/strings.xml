@@ -3644,11 +3644,13 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_wireless_update_dialog_message">Sạc thiết bị của bạn ít nhất %s để có thể cập nhật firmware sạc không dây.</string>
     <string name="power_wireless_update_dialog_title">Pin yếu</string>
     <string name="power_wireless_update_driver">Cập nhật firmware</string>
+    <string name="power_wireless_update_driver_note">"Bạn có thể tự động kiểm tra các bản cập nhật firmware và cài đặt các phiên bản mới sau khi chúng được phát hành. Đừng tắt thiết bị khi đang kiểm tra các bản cập nhật hoặc cài đặt chúng."</string>
+    <string name="power_wireless_update_in_progress">Đang cập nhật firmware…</string>
     <string name="power_wireless_update_notification_button">Xem</string>
     <string name="power_wireless_update_notification_subtitle">Cập nhật firmware để cải thiện tính ổn định của sạc không dây</string>
     <string name="power_wireless_update_notification_title">Cập nhật sạc không dây</string>
-    <string name="power_wireless_update_text">Cập nhật</string>
-    <string name="power_wireless_update_tv_text">Đang cập nhật firmware… Không tắt thiết bị.</string>
+    <string name="power_wireless_update_text">Đã cập nhật</string>
+    <string name="power_wireless_update_tv_text">Đang cập nhật firmware… Không được tắt thiết bị.</string>
     <string name="pp_app_warning_permission_tips">Nhận thông báo về hành vi ứng dụng</string>
     <string name="pp_app_warning_permission_tips_detail">Nhận thông báo khi ứng dụng truy cập vị trí, ghi âm hoặc sử dụng camera</string>
     <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
