@@ -5241,13 +5241,13 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="videobox_settings_line_location_desc">Hiển thị lối tắt ở cạnh của màn hình</string>
     <string name="videobox_settings_line_location_left">Trái</string>
     <string name="videobox_settings_line_location_right">Phải</string>
-    <string name="videobox_settings_line_location_title">Lối tắt hộp công cụ video</string>
+    <string name="videobox_settings_line_location_title">Lối tắt video toolbox</string>
     <string name="videobox_settings_manager_apps">Quản lý ứng dụng video</string>
     <string name="videobox_settings_switch_desc">Hiệu ứng và tính năng đặc biệt để phát video</string>
-    <string name="videobox_settings_switch_title">Hộp công cụ video</string>
+    <string name="videobox_settings_switch_title">Video toolbox</string>
     <string name="videobox_settings_timing">Cảnh báo xem phim quá lâu</string>
     <string name="videobox_settings_timing_desc">Nhận cảnh báo xem phim quá lâu để nhắc nhở bạn nghỉ ngơi</string>
-    <string name="videobox_settings_title">Hộp công cụ video</string>
+    <string name="videobox_settings_title">Video toolbox</string>
     <string name="view_traffic_detail">Xem chi tiết</string>
     <string name="view_traffic_details">Xem thống kê dữ liệu sử dụng</string>
     <string name="virus_app_delete_installed">Gỡ cài đặt</string>
@@ -6568,6 +6568,21 @@ Không bao giờ bỏ lỡ bất kỳ lì xì nào nữa"</string>
      <string name="permission_action_virtual_common_summary">Cấp quyền cho ứng dụng nhưng trả về các tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
      <string name="permission_action_virtual_phone_summary">Cấp quyền cho ứng dụng nhưng không cho phép truy cập vào số điện thoại thực của SIM</string>
      <string name="app_manager_share_apk">Chia sẻ</string>
-	<string name="category_no_scoped">Ứng dụng khác</string>
+	 <string name="category_no_scoped">Ứng dụng khác</string>
      <string name="category_scoped">Ứng dụng tương thích</string>
+    <string name="vb_movie_mode">Chế độ Rạp</string>
+    <string name="vb_movie_power_hint">Chế độ Rạp mang lại trải nghiệm xem phim sâu sắc.
+    Thiết bị của bạn có thể nóng lên và tiêu thụ năng lượng nhiều hơn.</string>
+    <string name="vb_movie_subtitle">Yêu cầu hiệu suất cao</string>
+    <string name="vb_default_mode">Tùy chỉnh</string>
+    <string name="vb_dolby_effect">Âm thanh Dolby Atmos</string>
+    <string name="vb_dult_effect">Hình ảnh 3D LUT</string>
+    <string name="vb_voice_adjust">Âm thanh Rạp</string>
+    <string name="vb_immerse_voice">Âm thanh Sâu</string>
+    <string name="game_performance_wild_mode">Tối thượng</string>
+    <string name="game_performance_wild_mode_tips">Bật để cải thiện hiệu suất thiết bị
+    (Thiết bị của bạn sẽ nóng lên và tiêu thụ năng lượng nhiều hơn)</string>
+    <string name="gb_wild_mode_game_performance_enhance">Tăng cường hiệu suất cho game</string>
+    <string name="game_balance_more_setting_title">Cài đặt bổ sung</string>
+    <string name="game_balance_vision_enhance_subtitle">Tăng độ tương phản và cải thiện chi tiết cho game</string>
 </resources>

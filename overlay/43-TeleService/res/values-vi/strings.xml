@@ -1266,6 +1266,7 @@ Bạn vẫn có thể thực hiện cuộc gọi khẩn cấp."</string>
     <string name="mobile_advanced_ip_address_title">Địa chỉ IP</string>
     <string name="mobile_advanced_nr_network_title">Loại mạng 5G</string>
     <string name="mobile_connection_management">Quản lý kết nối mạng di động</string>
+    <string name="mobile_data">Dữ liệu di động</string>
     <string name="mobile_data_activate_button">THÊM DỮ LIỆU</string>
     <string name="mobile_data_activate_cancel_button">HỦY</string>
     <string name="mobile_data_activate_diag_message">Bạn có thể phải thêm dữ liệu qua %s</string>
@@ -1591,6 +1592,8 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="other_available_phone_accounts">Tài khoản khả dụng khác</string>
     <string name="other_settings">Cài đặt cuộc gọi khác</string>
     <string name="other_settings_category">Khác</string>
+    <string name="other_settings_categorys">Các tính năng bổ sung</string>
+    <string name="other_settings_screen_title">Các cài đặt khác</string>
     <string name="overlay_display_devices_title">Mô phỏng màn hình phụ</string>
     <string name="overseas_roaming_setting">Chuyển vùng dữ liệu</string>
     <string name="pane_title_emergency_dialpad">Bàn phím số khẩn cấp</string>
@@ -2658,4 +2661,12 @@ Bạn vẫn muốn hủy kích hoạt eSIM?</string>
     <string name="support_forbidden_fakecell">Lưu ý: Hạn chế kết nối với các trạm thu phát sóng giả có thể làm giảm tín hiệu ở những khu vực có vùng phủ sóng kém.</string>
     <string name="activity_title_fakecell">Bảo vệ khỏi các trạm thu phát sóng giả</string>
     <string name="detect_fakecell">Nhận dạng SMS từ các trạm thu phát sóng giả</string>
+    <string name="dial_settings_screen_title">Cài đặt quay số</string>
+    <string name="dual_sim_smart_call_forward_dialog_message">Để tính năng này hoạt động đúng, chuyển tiếp cuộc gọi cần được bật trên cả hai SIM. Kiểm tra với nhà mạng của bạn để biết thông tin về các tùy chọn và chi phí chuyển tiếp cuộc gọi.</string>
+    <string name="dual_sim_smart_call_forward_failed">"Không thể thiết lập"</string>
+    <string name="dual_sim_smart_call_forward_failed_cause">Đã xảy ra lỗi mạng. Đợi một hai phút và thử lại.</string>
+    <string name="dual_sim_smart_call_forward_summary">"Chuyển tiếp cuộc gọi đến SIM khác khi không thể tiếp nhận"</string>
+    <string name="dual_sim_smart_call_forward_title">Chuyển tiếp đến SIM khác</string>
+    <string name="dual_sim_smart_call_forward_updating">Chờ một chút...</string>
+    <string name="feedback_title">Phản hồi</string>
 </resources>
