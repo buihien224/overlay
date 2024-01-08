@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="accept">Chấp nhận</string>
+<string name="apm_enabled_first_time_message">Thiết bị của bạn nhớ giữ Wi‑Fi bật trong chế độ máy bay. Tắt Wi‑Fi nếu bạn không muốn nó được bật.</string>
+<string name="apm_enabled_first_time_title">Wi‑Fi vẫn được bật</string>
+<string name="decline">Từ chối</string>
+<string name="notification_channel_apm_alerts">Thông báo APM</string>
+<string name="notification_channel_network_alerts">Thông báo mạng</string>
+<string name="notification_channel_network_available">Mạng có sẵn</string>
+<string name="notification_channel_network_status">Tình trạng mạng</string>
+<string name="wifiResourcesAppLabel">Tài nguyên WLAN Hệ thống</string>
+<string name="wifi_available_action_all_networks">Tất cả mạng</string>
+<string name="wifi_available_action_connect">Kết nối</string>
+<string name="wifi_available_content_failed_to_connect">Chạm để xem tất cả mạng</string>
+<string name="wifi_available_title">Kết nối đến mạng Wi‑Fi mở</string>
+<string name="wifi_available_title_connected">Đã kết nối với mạng Wi‑Fi</string>
+<string name="wifi_available_title_connecting">Đang kết nối đến mạng Wi‑Fi</string>
+<string name="wifi_available_title_failed_to_connect">Không thể kết nối đến mạng Wi‑Fi</string>
+<string name="wifi_ca_cert_dialog_abort_text">Không, không kết nối</string>
+<string name="wifi_ca_cert_dialog_continue_text">Có, kết nối</string>
+<string name="wifi_ca_cert_dialog_message_contact_text">Liên hệ:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_message_expiration_text">Hết hạn chứng chỉ:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_message_hint">Chỉ cho phép kết nối với mạng này nếu thông tin dưới đây đúng.
+
+</string>
+<string name="wifi_ca_cert_dialog_message_issuer_name_text">Tên Người cấp:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_message_organization_text">Tổ chức:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_message_server_name_text">Tên máy chủ:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_message_signature_name_text">Vân tay SHA-256:
+%1$s
+
+</string>
+<string name="wifi_ca_cert_dialog_preT_abort_text">Ngắt kết nối ngay</string>
+<string name="wifi_ca_cert_dialog_preT_continue_text">Giữ kết nối</string>
+<string name="wifi_ca_cert_dialog_preT_message_hint">Mạng %1$s thiếu chứng chỉ.</string>
+<string name="wifi_ca_cert_dialog_preT_message_link">Tìm hiểu cách thêm chứng chỉ</string>
+<string name="wifi_ca_cert_dialog_preT_title">Không thể xác minh mạng này</string>
+<string name="wifi_ca_cert_dialog_title">Mạng này có được tin cậy không?</string>
+<string name="wifi_ca_cert_failed_to_install_ca_cert">Cài đặt chứng chỉ thất bại.</string>
+<string name="wifi_ca_cert_notification_message">Xem lại chi tiết mạng cho %1$s trước khi kết nối. Chạm để tiếp tục.</string>
+<string name="wifi_ca_cert_notification_preT_abort_text">Không kết nối</string>
+<string name="wifi_ca_cert_notification_preT_continue_text">Kết nối bất chấp</string>
+<string name="wifi_ca_cert_notification_preT_message">Mạng %1$s thiếu chứng chỉ. Chạm để tìm hiểu cách thêm chứng chỉ.</string>
+<string name="wifi_ca_cert_notification_preT_title">Không thể xác minh mạng này</string>
+<string name="wifi_ca_cert_notification_title">Mạng cần được xác minh</string>
+<string name="wifi_cannot_connect_with_randomized_mac_message">Chạm để thay đổi cài đặt riêng tư và thử lại</string>
+<string name="wifi_cannot_connect_with_randomized_mac_title">Không thể kết nối đến %1$s</string>
+<string name="wifi_connect_alert_message">Ứng dụng %1$s muốn kết nối đến Mạng Wifi %2$s</string>
+<string name="wifi_connect_alert_title">Cho phép kết nối?</string>
+<string name="wifi_connect_default_application">Một ứng dụng</string>
+<string name="wifi_disable_mac_randomization_dialog_confirm_text">Thay đổi cài đặt</string>
+<string name="wifi_disable_mac_randomization_dialog_failure">Không thể thay đổi cài đặt riêng tư</string>
+<string name="wifi_disable_mac_randomization_dialog_message">Để kết nối, %1$s cần sử dụng địa chỉ MAC của thiết bị của bạn, một định danh duy nhất. Hiện nay, cài đặt riêng tư của bạn cho mạng này sử dụng một định danh được ngẫu nhiên hóa. 
+
+Thay đổi này có thể cho phép vị trí của thiết bị của bạn bị theo dõi bởi các thiết bị gần đây.</string>
+<string name="wifi_disable_mac_randomization_dialog_network_not_found">Mạng không được tìm thấy</string>
+<string name="wifi_disable_mac_randomization_dialog_success">Cài đặt đã được cập nhật. Hãy thử kết nối lại.</string>
+<string name="wifi_disable_mac_randomization_dialog_title">Thay đổi cài đặt riêng tư?</string>
+<string name="wifi_eap_error_message_unknown_error_code">%1$s : Lỗi xác thực EAP, mã lỗi không xác định</string>
+<string name="wifi_enable_request_dialog_message">Bạn có thể tắt Wi‑Fi trong Cài đặt nhanh</string>
+<string name="wifi_enable_request_dialog_negative_button">Không cho phép</string>
+<string name="wifi_enable_request_dialog_positive_button">Cho phép</string>
+<string name="wifi_enable_request_dialog_title">Cho phép %1$s bật Wi‑Fi?</string>
+<string name="wifi_enabled_apm_first_time_message">Nếu bạn tiếp tục bật Wi‑Fi, thiết bị của bạn sẽ nhớ để giữ nó bật khi bạn ở chế độ máy bay lần sau</string>
+<string name="wifi_enabled_apm_first_time_title">Wi‑Fi được bật trong chế độ máy bay</string>
+<string name="wifi_interface_priority_approve">Cho phép</string>
+<string name="wifi_interface_priority_interface_name_ap">Điểm phát Wi‑Fi</string>
+<string name="wifi_interface_priority_interface_name_ap_bridge">Điểm phát Wi‑Fi</string>
+<string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+<string name="wifi_interface_priority_interface_name_p2p">Wi‑Fi Direct</string>
+<string name="wifi_interface_priority_interface_name_sta">STA</string>
+<string name="wifi_interface_priority_message">Điều này có thể gây vấn đề cho %3$s.</string>
+<string name="wifi_interface_priority_message_plural">Điều này có thể gây vấn đề cho các ứng dụng này: %3$s.</string>
+<string name="wifi_interface_priority_reject">Không cho phép</string>
+<string name="wifi_interface_priority_title">%1$s muốn sử dụng tài nguyên mạng</string>
+<string name="wifi_localhotspot_configure_ssid_default">Chia sẻ VSTeam</string>
+<string name="wifi_network_disabled_by_admin_button">Đóng</string>
+<string name="wifi_network_disabled_by_admin_message">%1$s bị vô hiệu hóa bởi quản trị viên của bạn.</string>
+<string name="wifi_network_disabled_by_admin_title">Mạng không có sẵn</string>
+<string name="wifi_network_switch_dialog_negative_button">Không chuyển đổi</string>
+<string name="wifi_network_switch_dialog_positive_button">Chuyển đổi</string>
+<string name="wifi_network_switch_dialog_title_bad_internet">%1$s có chất lượng kém. Chuyển sang %2$s?</string>
+<string name="wifi_network_switch_dialog_title_no_internet">%1$s không có vẻ được kết nối với internet. Chuyển sang %2$s?</string>
+<string name="wifi_p2p_enter_pin_message">Nhập mã PIN yêu cầu:</string>
+<string name="wifi_p2p_frequency_conflict_message">Điện thoại sẽ tạm ngừng kết nối từ WLAN khi nó đang kết nối với %1$s</string>
+<string name="wifi_p2p_from_message">Từ:</string>
+<string name="wifi_p2p_invitation_sent_title">Lời mời đã gửi</string>
+<string name="wifi_p2p_invitation_to_connect_title">Lời mời kết nối</string>
+<string name="wifi_p2p_show_pin_message">Mã PIN:</string>
+<string name="wifi_p2p_to_message">Đến:</string>
+<string name="wifi_sim_required_message">Để kết nối với %1$s, hãy chèn thẻ SIM %2$s</string>
+<string name="wifi_sim_required_title">Wi‑Fi bị ngắt kết nối</string>
+<string name="wifi_softap_auto_shutdown_timeout_expired_summary">Không có thiết bị kết nối. Chạm để sửa đổi.</string>
+<string name="wifi_softap_auto_shutdown_timeout_expired_title">Điểm phát sóng đã tắt</string>
+<string name="wifi_suggestion_action_allow_app">Cho phép</string>
+<string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Kết nối</string>
+<string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Kết nối</string>
+<string name="wifi_suggestion_action_disallow_app">Không, cảm ơn</string>
+<string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Không kết nối</string>
+<string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Không kết nối</string>
+<string name="wifi_suggestion_content">%s mạng đã được đề xuất. Thiết bị có thể kết nối tự động.</string>
+<string name="wifi_suggestion_imsi_privacy_content">Các mạng này nhận một ID SIM có thể được sử dụng để theo dõi vị trí thiết bị</string>
+<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Nếu bạn kết nối, %s mạng Wi‑Fi có thể truy cập hoặc chia sẻ một ID duy nhất liên kết với SIM của bạn. Điều này có thể cho phép vị trí của thiết bị của bạn bị theo dõi.</string>
+<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Xác nhận kết nối?</string>
+<string name="wifi_suggestion_imsi_privacy_title">Kết nối tới %s Wi‑Fi?</string>
+<string name="wifi_suggestion_title">Cho phép mạng Wi‑Fi được đề xuất?</string>
+<string name="wifi_tether_configure_ssid_default">VSTeam</string>
+<string name="wifi_tofu_invalid_cert_chain_message">Dãy chứng chỉ máy chủ không hợp lệ.</string>
+<string name="wifi_tofu_invalid_cert_chain_ok_text">OK</string>
+<string name="wifi_tofu_invalid_cert_chain_title">Không thể kết nối với %1$s</string>
+<string name="wifi_wakeup_enabled_content">Bạn gần một mạng đã lưu: %1$s</string>
+<string name="wifi_wakeup_enabled_title">Wi‑Fi đã được bật tự động</string>
+<string name="wifi_wakeup_onboarding_action_disable">Không bật lại</string>
+<string name="wifi_wakeup_onboarding_subtext">Khi bạn gần một mạng đã lưu có chất lượng cao</string>
+<string name="wifi_wakeup_onboarding_title">Wi‑Fi sẽ tự động bật</string>
+<string name="wifi_watchdog_network_disabled">Không thể kết nối với WLAN</string>
+<string name="wifi_watchdog_network_disabled_detailed"> có kết nối internet kém.</string>
+</resources>
