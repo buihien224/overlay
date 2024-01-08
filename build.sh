@@ -20,7 +20,7 @@ recp() {
 		echo "Success"
 
 	else
-		echo $apk2 >> $dir/error.log
+		echo $1 : $apk2 >> $dir/error.log
 		echo "Fail"
 	fi
 

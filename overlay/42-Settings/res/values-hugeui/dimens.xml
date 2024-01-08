@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="choose_lock_pattern_tip_margin_top">70.0dip</dimen>
-    <dimen name="gxzw_new_fingerprint_video_margin">340.0dip</dimen>
-</resources>

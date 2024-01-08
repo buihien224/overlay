@@ -203,7 +203,6 @@ Hành động này sẽ không xóa dữ liệu được tạo bởi Dịch vụ
     <string name="miui15_cta_permission_storage_subtitle">Để truyền và truyền nội dung từ thiết bị này</string>
     <string name="miui15_cta_permission_transferring_data_subtitle">Để truyền dữ liệu giữa các thiết bị được kết nối</string>
     <string name="miui15_cta_permission_wlan_subtitle_china">Để truyền tệp và kết nối thiết bị qua mạng Wi-Fi</string>
-    <string name="">Bật và tắt mạng Wi-Fi</string>
     <string name="miui15_low_version_dialog_message">Cập nhật phần mềm trên máy tính của bạn hoặc tải xuống phiên bản mới nhất từ plus.miui.com.</string>
     <string name="miui15_lomiui15_cta_premission_wlan_title_chinaw_version_dialog_title">Cập nhật dịch vụ liên thông thiết bị</string>
     <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Không thể kết nối với máy tính. Đảm bảo bạn đã bật Wi-Fi và Bluetooth trên cả thiết bị di động và máy tính và máy tính của bạn đang chạy Trung tâm thông minh Mi."</string>
@@ -354,7 +353,6 @@ thực hiện hành động này trên điện thoại."</string>
     <string name="screen_connecting">Đang kết nối…</string>
     <string name="screen_failed_to_open">"Không thể kết nối"</string>
     <string name="screen_failed_to_open_due_to_hotspot">Tắt điểm phát sóng di động và thử lại</string>
-    <string name="screen_num_over_limit">"Không thể mở thêm cửa sổ"</string>
     <string name="screen_permission_notification_sub_title">Mở khóa thiết bị để cấp quyền</string>
     <string name="screen_permission_notification_title">"%s muốn sử dụng màn hình của thiết bị này"</string>
     <string name="screen_permission_pad_dialog_btn">Tôi hiểu rồi</string>
