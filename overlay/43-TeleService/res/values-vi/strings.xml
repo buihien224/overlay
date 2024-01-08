@@ -2669,4 +2669,5 @@ Bạn vẫn muốn hủy kích hoạt eSIM?</string>
     <string name="dual_sim_smart_call_forward_title">Chuyển tiếp đến SIM khác</string>
     <string name="dual_sim_smart_call_forward_updating">Chờ một chút...</string>
     <string name="feedback_title">Phản hồi</string>
+    <string name="mobile_settings_screen_title">Dữ liệu di động</string>
 </resources>
