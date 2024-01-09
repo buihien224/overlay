@@ -229,6 +229,8 @@
     <string name="close_multi_finger_slide_summary">Các cử chỉ này sẽ bị bỏ qua trong một số trường hợp (ví dụ: phát lại trò chơi và video)</string>
     <string name="close_multi_finger_slide_title">Không phản hồi cử chỉ ba và bốn ngón tay</string>
     <string name="cloud_app_restore_title">Đang chờ</string>
+	<string name="color_group">Nhóm biểu tượng theo màu</string>
+    <string name="color_group_anim">Ảnh động đa sắc màu</string>
     <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với Dịch vụ Google Play. Hãy thử lại.</string>
     <string name="common_home_search_delete">Xóa thanh tìm kiếm</string>
     <string name="common_home_search_delete_cancle">Hủy</string>
@@ -245,6 +247,7 @@
     <string name="content_description_for_shortcut_icon_checked">%1$s, đã kiểm tra</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, chưa kiểm tra</string>
     <string name="content_description_workspace_thumbnail_item">Màn hình xem trước, trang %1$s</string>
+	<string name="content_center">Trung tâm Nội dung</string>
     <string name="copy">Sao chép</string>
     <string name="current_wallpaper">Hiện tại</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Để thực hiện cuộc gọi đến các số liên hệ khẩn cấp ở Chế độ thu gọn</string>
@@ -322,10 +325,12 @@
     <string name="evening">Buổi chiều</string>
     <string name="exit_overview_because_task_stack_changed">Gần đây đã đóng do thay đổi xảy ra trong nền</string>
     <string name="expand_button_title">Nâng cao</string>
+	<string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
     <string name="failed_to_delete_temporary">Không thể xóa</string>
     <string name="failed_to_drop">Di chuyển thất bại</string>
     <string name="failed_to_drop_widget_invalid">Tiện ích này không hợp lệ</string>
     <string name="failed_to_load_image">Không thể tải ảnh</string>
+	<string name="find_app_by_color">Nhóm biểu tượng theo màu để tìm ứng dụng nhanh hơn</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -441,6 +446,18 @@
     <string name="home_screen">Màn hình chính</string>
     <string name="home_slide_up_action">Trượt lên trên Màn hình chính</string>
     <string name="home_switch_personal_assistant">Màn hình cá nhân</string>
+	 <string name="home_gesture_notification_and_control_center">Thanh thông báo và Trung tâm điều khiển</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string name="international_home_pull_down_content">Trượt xuống trên Màn hình chính để tìm kiếm trên thiết bị này và trên internet.</string>
+    <string name="international_home_pull_down_sub_content">Bạn có thể chuyển cử chỉ này để mở Trung tâm điều khiển thay vì ở Cài đặt > Màn hình chính > Trượt xuống trên Màn hình chính.</string>
+    <string name="international_home_pull_down_up_btn_get">Tôi biết</string>
+    <string name="international_home_pull_up_content">Trượt lên trên Màn hình chính để mở Trung tâm Nội dung.</string>
+    <string name="international_home_pull_up_sub_content">Để mở tìm kiếm, trượt xuống từ giữa Màn hình chính.</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string name="jeejen_description">"Yếu tố Giao diện Người dùng lớn hơn.
+Thực hiện cuộc gọi dễ dàng hơn
+Tăng cường bảo mật."</string>
+    <string name="keyguard_multi_window_tip">Trang này chỉ có thể được hiển thị ở chế độ toàn màn hình</string>
     <string name="icon_customize_summary">Chọn phong cách và điều chỉnh kích thước</string>
     <string name="icon_form">Biểu tượng</string>
     <string name="icon_reorganize_channel">Sắp xếp biểu tượng</string>
@@ -951,6 +968,7 @@
     <string name="uninstall_xspace_dialog_title_format">Gỡ cài đặt ứng dụng kép "%s"?</string>
     <string name="unknown_artist_name">Nghệ sĩ không xác định</string>
     <string name="unnamed_folder_name">Thư mục</string>
+	<string name="upgrade_remove_small_window_in_recents">Bạn có thể sử dụng thanh bên để mở ứng dụng trong cửa sổ nổi</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
     <string name="wallpaper">Hình nền</string>
