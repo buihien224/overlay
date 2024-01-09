@@ -1177,7 +1177,7 @@ Bạn vẫn có thể thực hiện cuộc gọi khẩn cấp."</string>
     <string name="local_enable">Đã bật tin trong nước</string>
     <string name="local_weather_disable">Đã tắt Thời tiết địa phương</string>
     <string name="local_weather_enable">Đã bật Thời tiết Địa phương</string>
-    <string name="location">Diện tích</string>
+    <string name="location">Vị trí</string>
     <string name="lodgings_disable">Tắt phòng cho thuê</string>
     <string name="lodgings_enable">Đã bật phòng cho thuê</string>
     <string name="main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
