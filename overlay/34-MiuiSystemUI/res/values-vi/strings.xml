@@ -780,7 +780,7 @@ Nếu tiếp tục, bạn có thể bị tính phí sử dụng dữ liệu."</s
     <string name="face_unlock_password_and_fingerprint">Nhập mật khẩu hoặc sử dụng vân tay để mở khóa</string>
     <string name="face_unlock_passwork">Sử dụng mật khẩu</string>
     <string name="face_unlock_passwork_and_fingerprint">Sử dụng mật khẩu hoặc vân tay</string>
-    <string name="face_unlock_pattern_and_fingerprint">Vẽ hình mở khóa hoặc sử dụng vân tay để mở khóa</string>
+    <string name="face_unlock_pattern_and_fingerprint">Vẽ mẫu hình hoặc sử dụng vân tay để mở khóa</string>
     <string name="face_unlock_pin_and_fingerprint">Nhập mã PIN hoặc sử dụng vân tay để mở khóa</string>
     <string name="face_unlock_reveal_eye">Hãy để đôi mắt được nhìn rõ</string>
     <string name="face_unlock_reveal_mouth">Hãy để môi được nhìn rõ</string>
