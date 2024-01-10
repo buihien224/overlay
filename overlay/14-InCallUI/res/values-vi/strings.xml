@@ -464,4 +464,6 @@
     <string name="wifi_call">Cuộc gọi VoWifi</string>
     <string name="yesterday">Hôm qua</string>
     <string name="msim_select_default_last">Đã dùng gần đây</string>
+    <string name="focus_notification_on_call">Đang gọi...</string>
+    <string name="focus_notification_on_ringing">Cuộc gọi đến</string>
 </resources>
