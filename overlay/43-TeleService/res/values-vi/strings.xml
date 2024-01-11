@@ -2670,4 +2670,10 @@ Bạn vẫn muốn hủy kích hoạt eSIM?</string>
     <string name="dual_sim_smart_call_forward_updating">Chờ một chút...</string>
     <string name="feedback_title">Phản hồi</string>
     <string name="mobile_settings_screen_title">Dữ liệu di động</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">"Không thể thực hiện và nhận cuộc gọi. Dịch vụ VoLTE đang tắt cho SIM của bạn (China Telecom) hiện tại."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">"Không thể thực hiện và nhận cuộc gọi. Dịch vụ VoLTE đang tắt cho SIM %d (China Telecom) hiện tại."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">"Không thể thực hiện và nhận cuộc gọi"</string>
+    <string name="prompt_to_suggest_no_ims_service_notification_title">"Không thể sử dụng dịch vụ VoLTE"</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator">"Không thể thực hiện cuộc gọi. Liên hệ với China Telecom để bật dịch vụ VoLTE."</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d không thể thực hiện cuộc gọi. Liên hệ với China Telecom để bật dịch vụ VoLTE."</string>
 </resources>
