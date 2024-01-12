@@ -2676,4 +2676,5 @@ Bạn vẫn muốn hủy kích hoạt eSIM?</string>
     <string name="prompt_to_suggest_no_ims_service_notification_title">"Không thể sử dụng dịch vụ VoLTE"</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">"Không thể thực hiện cuộc gọi. Liên hệ với China Telecom để bật dịch vụ VoLTE."</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d không thể thực hiện cuộc gọi. Liên hệ với China Telecom để bật dịch vụ VoLTE."</string>
+    <string name="no_ims_service_notification_content">Liên hệ với nhà cung cấp dịch vụ của bạn để giải quyết vấn đề này.</string>
 </resources>
