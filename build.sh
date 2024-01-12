@@ -3,8 +3,8 @@ dir=$(pwd)
 
 
 recp() {
-	apkp=$(ls $dir/overlay | grep $1)
-	apk1=${apkp:3}
+	apkp=$(ls $dir/overlay | grep $1 | head -1)
+	apk1=$(echo $apkp | cut -d'-' -f2)
 	apk2=hypervs.$apk1
 
 	echo $apkp
@@ -37,7 +37,7 @@ fi
 if [[ $pick == "all" ]]; then
 	for i in $(ls $dir/overlay); do
 		path=$(basename $i)
-		num=${path:0:2}
+		num=$(echo $path | cut -d'-' -f1)
 		recp $num
 	done
 else
