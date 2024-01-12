@@ -7,9 +7,7 @@ recp() {
 	apk1=$(echo $apkp | cut -d'-' -f2)
 	apk2=hypervs.$apk1
 
-	echo $apkp
-	echo $apk1
-	echo $apk2
+	echo -e "\e[91mBuild $apkp\e[0m"
 
 	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
