@@ -3,13 +3,11 @@ dir=$(pwd)
 
 
 recp() {
-	apkp=$(ls $dir/overlay | grep $1)
-	apk1=${apkp:3}
+	apkp=$(ls $dir/overlay | grep $1 | head -1)
+	apk1=$(echo $apkp | cut -d'-' -f2)
 	apk2=hypervs.$apk1
 
-	echo $apkp
-	echo $apk1
-	echo $apk2
+	echo -e "\e[91mBuild $apkp\e[0m"
 
 	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
@@ -37,7 +35,7 @@ fi
 if [[ $pick == "all" ]]; then
 	for i in $(ls $dir/overlay); do
 		path=$(basename $i)
-		num=${path:0:2}
+		num=$(echo $path | cut -d'-' -f1)
 		recp $num
 	done
 else
