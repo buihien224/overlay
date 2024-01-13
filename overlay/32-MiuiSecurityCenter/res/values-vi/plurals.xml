@@ -133,7 +133,7 @@
         <item quantity="other">Đang bảo vệ %d ứng dụng</item>
     </plurals>
     <plurals name="card_uninstall_title">
-        <item quantity="other">&lt;Data>Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
+        <item quantity="other"><Data>&lt;Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
@@ -834,7 +834,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">"%d phút "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
-        <item quantity="other">Tối ưu pin sử dụng trong %d bối cảnh</item>
+        <item quantity="other">Tối ưu hóa sử dụng pin trong %d bối cảnh</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Sửa %d vấn đề sử dụng pin</item>
@@ -1026,7 +1026,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%1$d mục an toàn</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="other">&lt;Data>Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
+        <item quantity="other"><Data>&lt;Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Đã xóa %d virus</item>
