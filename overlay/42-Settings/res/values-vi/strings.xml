@@ -11113,4 +11113,5 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="flash_notifications_summary_on_camera_and_screen">Bật / Đèn flash của máy ảnh và màn hình</string>
     <string name="flash_notifications_summary_on_screen">Bật / Đèn flash của màn hình</string>
     <string name="flash_notifications_title">Nhấp nháy thông báo</string>
+    <string name="title_show_notification_icon_count">Số lượng biểu tượng thông báo</string>
 </resources>
