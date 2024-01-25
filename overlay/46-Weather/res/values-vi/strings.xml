@@ -63,7 +63,7 @@
     <string name="activity_main_pub_time">Đã xuất bản lúc %1$s</string>
     <string name="activity_main_update_time">Đã cập nhật %1$s</string>
     <string name="activity_main_update_time_expire">Dữ liệu đã hết hạn</string>
-    <string name="activity_main_update_time_right_now">ngay bây giờ</string>
+    <string name="activity_main_update_time_right_now">Ngay bây giờ</string>
     <string name="activity_minute_rain_location_fail_msg">"Không thể lấy thông tin vị trí chính xác. Đã chuyển sang thành phố hiện tại."</string>
     <string name="add_city">Thêm</string>
     <string name="afternoon">Chiều</string>
@@ -81,8 +81,8 @@
     <string name="aqi_alert_channel_name">Cảnh báo AQI</string>
     <string name="aqi_data_source">Được cung cấp bởi Đám mây đầy màu sắc</string>
     <string name="aqi_desc">Chỉ số chất lượng không khí</string>
-    <string name="aqi_detail_24_hours">dự báo trong 24 giờ</string>
-    <string name="aqi_detail_5_days">dự báo 5 ngày</string>
+    <string name="aqi_detail_24_hours">Dự báo thời tiết trong 24 giờ</string>
+    <string name="aqi_detail_5_days">Dự báo thời tiết trong 5 ngày</string>
     <string name="aqi_detail_co_unit">Đơn vị: mg/m³</string>
     <string name="aqi_detail_title">Chỉ số chất lượng không khí</string>
     <string name="aqi_detail_unit">Đơn vị: µg/m³</string>
@@ -91,10 +91,10 @@
     <string name="aqi_publish_time">Đã cập nhật %1$s</string>
     <string name="aqi_quality_ambient_air_quality">Chất lượng không khí lân cận</string>
     <string name="aqi_quality_co_desc">Cacbon monoxit</string>
-    <string name="aqi_quality_detail_15_days">Dự báo 15 ngày</string>
-    <string name="aqi_quality_detail_24_hours">Dự báo trong 24 giờ</string>
-    <string name="aqi_quality_detail_48_hours">Dự báo trong 48 giờ</string>
-    <string name="aqi_quality_detail_5_days">Dự báo 5 ngày</string>
+    <string name="aqi_quality_detail_15_days">Dự báo thời tiết trong 15 ngày</string>
+    <string name="aqi_quality_detail_24_hours">Dự báo thời tiết trong 24 giờ</string>
+    <string name="aqi_quality_detail_48_hours">Dự báo thời tiết trong 48 giờ</string>
+    <string name="aqi_quality_detail_5_days">Dự báo thời tiết trong 5 ngày</string>
     <string name="aqi_quality_major_pollutants">Các chất gây ô nhiễm chính</string>
     <string name="aqi_quality_map_title">Bản đồ chất lượng không khí</string>
     <string name="aqi_quality_no2_desc">Nitơ đioxit</string>
@@ -188,6 +188,7 @@ Hãy đọc và đồng ý với phiên bản mới của %2$s trước khi bạ
     <string name="empty_view_refresh">Thử lại</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">TCN</string>
+    <string name="">"Bằng cách sử dụng sản phẩm này, bạn đồng ý rằng sản phẩm này sẽ kết nối mạng, thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố bạn tìm kiếm và các loại dữ liệu khác được chỉ định trong Chính sách quyền riêng tư. Hãy tham khảo Chính sách quyền riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách nhấn vào \"Đồng ý\", bạn đồng ý với %1$s và %2$s của Xiaomi."</string>
     <string name="evening">Buổi chiều</string>
     <string name="exo_controls_fastforward_description">Tua đi</string>
     <string name="exo_controls_fullscreen_description">Chế độ toàn màn hình</string>
