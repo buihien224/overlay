@@ -537,7 +537,7 @@ Mở"</string>
     <string name="request_cta_connect_net">Cho phép ứng dụng này kết nối với internet và cấp các quyền bắt buộc được liệt kê ở trên.</string>
     <string name="request_permission_background_location_dialog_content">Để đảm bảo ứng dụng này luôn sử dụng thông tin vị trí chính xác, hãy luôn cho phép ứng dụng truy cập vị trí của bạn.</string>
     <string name="request_permission_location_dialog_content">Để hiển thị thông tin thời tiết liên quan đến vị trí hiện tại của bạn</string>
-    <string name="request_permission_main_util">Hiển thị thông tin thời tiết</string>
+    <string name="request_permission_main_purpose">Hiển thị thông tin thời tiết</string>
     <string name="request_permission_storage_dialog_content">Để chia sẻ thông tin thời tiết ở định dạng hình ảnh</string>
     <string name="retry">Thử lại</string>
     <string name="revoke_fail">"Không thể kết nối mạng"</string>
@@ -752,7 +752,7 @@ Mở"</string>
     <string name="weather_more_air_quality">Thêm thông tin về chất lượng không khí</string>
     <string name="weather_permission_agree">Chấp nhận</string>
     <string name="weather_service_channel_name">Dịch vụ nền</string>
-    <string name="wednesday">Thứ Tư</string>
+    <string name="wednesday">Thứ tư</string>
     <string name="wednesday_short">Thứ tư</string>
     <string name="wednesday_shortest">Thứ tư</string>
     <string name="welcome_app_title">Chào mừng đến với Thời tiết!</string>
