@@ -51,4 +51,8 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+	    <plurals name="swiping_settings_intelligent_pick_card_fence_dialog_msg">
+        <item quantity="other">"Bạn chưa chỉ định vị trí cho thẻ %1$s. Những thẻ này sẽ không được chọn tự động khi bạn cần."</item>
+        <item quantity="one">"Bạn chưa chỉ định vị trí cho thẻ %1$s. Những thẻ này sẽ không được chọn tự động khi bạn cần."</item>
+    </plurals>
 </resources>

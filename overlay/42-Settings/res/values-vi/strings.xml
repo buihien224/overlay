@@ -3408,14 +3408,14 @@ Hãy khởi động lại thiết bị rồi thử lần nữa.</string>
     <string name="external_ram_dialog_btn_cancel">Để sau</string>
     <string name="external_ram_dialog_btn_ok">Khởi động lại</string>
     <string name="external_ram_dialog_icon_confirm">Tôi biết</string>
-    <string name="external_ram_dialog_icon_info">Hệ thống sẽ mở rộng RAM thêm %1$s %2$s.</string>
-    <string name="external_ram_dialog_icon_title">Mở rộng bộ nhớ bật</string>
+    <string name="external_ram_dialog_icon_info">Hệ thống sẽ mở rộng bộ nhớ RAM thêm %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Mở rộng bộ nhớ RAM đang bật</string>
     <string name="external_ram_dialog_message">Khởi động lại thiết bị để áp dụng các thay đổi.</string>
     <string name="external_ram_dialog_title">Khởi động lại thiết bị</string>
     <string name="external_ram_intro">Tăng thêm RAM bằng cách chiếm dụng bộ nhớ trong. Chỉ sử dụng tính năng này khi có đủ dung lượng lưu trữ trên thiết bị.</string>
     <string name="external_ram_remind_toast">Dung lượng lưu trữ sắp hết. Mở rộng bộ nhớ hiện đã tắt.</string>
     <string name="external_ram_summary">Thêm %1$s %2$s RAM từ bộ nhớ lưu trữ. Chỉ sử dụng tính năng này khi có đủ dung lượng lưu trữ trên thiết bị.</string>
-    <string name="external_ram_title">Mở rộng bộ nhớ</string>
+    <string name="external_ram_title">Mở rộng bộ nhớ RAM</string>
     <string name="external_ram_toast">Không thể sử dụng mở rộng bộ nhớ do dung lượng lưu trữ không đủ</string>
     <string name="external_source_switch_title">Cho phép từ nguồn này</string>
     <string name="external_source_trusted">Đã cho phép</string>
