@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="sub_id_idx">
-        <item>卡1</item>
-        <item>卡2</item>
-        <item>双卡</item>
-    </string-array>
-</resources>

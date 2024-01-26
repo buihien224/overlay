@@ -2516,7 +2516,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifitrackerlib_available_via_app">Có sẵn qua %1$s</string>
     <string name="wifitrackerlib_checking_for_internet_access">Đang kiểm tra truy cập internet...</string>
     <string name="wifitrackerlib_connected_via_app">Đã kết nối qua %1$s</string>
-    <string name="wifitrackerlib_no_attribution_annotation_packages">com.google.android.setupwizard, com.google.android.gms</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Hoàn thành đăng ký...</string>
     <string name="wifitrackerlib_osu_connect_failed">Không thể kết nối</string>
     <string name="wifitrackerlib_osu_opening_provider">Mở %1$s</string>
