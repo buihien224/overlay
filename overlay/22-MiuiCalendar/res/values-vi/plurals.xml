@@ -259,4 +259,16 @@
         <item quantity="one">%d ngày làm việc</item>
         <item quantity="other">%d ngày làm việc</item>
     </plurals>
+    <plurals name="n_attendees">
+        <item quantity="one">%d lời mời</item>
+        <item quantity="other">%d lời mời</item>
+    </plurals>
+    <plurals name="n_day_before">
+        <item quantity="one">%d ngày trước</item>
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="n_day_later">
+        <item quantity="one">Trong %d ngày</item>
+        <item quantity="other">Trong %d ngày</item>
+    </plurals>
 </resources>
