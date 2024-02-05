@@ -143,4 +143,20 @@
         <item>Iceland</item>
         <item>Kenya</item>
     </string-array>
+    <string-array name="gallery_frame_loong_year_tips">
+        <item>Chúc Mừng Năm mới</item>
+        <item>An Khang Thịnh Vượng</item>
+        <item>Phát Tài Phát Lộc</item>
+        <item>Vạn Sự Như Ý</item>
+        <item>Tấn Tài Tấn Lộc</item>
+        <item>Tân Niên Đại Cát</item>
+    </string-array>
+    <string-array name="gallery_frame_loong_year_tips_for_rv">
+        <item>Chúc Mừng Năm mới</item>
+        <item>An Khang Thịnh Vượng</item>
+        <item>Phát Tài Phát Lộc</item>
+        <item>Vạn Sự Như Ý</item>
+        <item>Tấn Tài Tấn Lộc</item>
+        <item>Tân Niên Đại Cát</item>
+    </string-array>
 </resources>
