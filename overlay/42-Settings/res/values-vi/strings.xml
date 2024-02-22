@@ -1498,7 +1498,10 @@ Bạn chưa từng kết nối với %2$s.</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Khởi động lại</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Khởi động lại Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Sử dụng giao thức Bluetooth P2P tốc độ cao để chuyển</string>
-    <string name="bluetooth_enable_page_scan_summary">bật/tắt quét trang để kiểm tra Bluetooth</string>
+	<string name="bluetooth_enable_page_scan">Bật quét trang Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">Tắt/bật quét trang để kiểm tra Bluetooth</string>
+	<string name="bluetooth_enable_pts_test">Bật kiểm tra Bluetooth PTS</string>
+    <string name="bluetooth_enable_pts_test_summary">Tắt/bật PTS để kiểm tra Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Nhập mã ghép nối, sau đó nhấn Quay lại hoặc Enter</string>
     <string name="bluetooth_enter_passkey_other_device">Bạn cũng có thể cần nhập mã xác nhận này trên thiết bị khác.</string>
     <string name="bluetooth_enter_pin_other_device">Bạn cũng có thể cần nhập mã PIN này trên thiết bị khác.</string>
@@ -2118,6 +2121,75 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="checkbox_text">Chuyển đổi</string>
     <string name="checking_find_device_status">Đang kiểm tra trạng thái Tìm thiết bị…</string>
     <string name="checking_for_updates">Đang kiểm tra cập nhật…</string>
+		<string name="chinese_day_1">1</string>
+    <string name="chinese_day_10">10</string>
+    <string name="chinese_day_11">11</string>
+    <string name="chinese_day_12">12</string>
+    <string name="chinese_day_13">13</string>
+    <string name="chinese_day_14">14</string>
+    <string name="chinese_day_15">15</string>
+    <string name="chinese_day_16">16</string>
+    <string name="chinese_day_17">17</string>
+    <string name="chinese_day_18">18</string>
+    <string name="chinese_day_19">19</string>
+    <string name="chinese_day_2">2</string>
+    <string name="chinese_day_20">20</string>
+    <string name="chinese_day_21">21</string>
+    <string name="chinese_day_22">22</string>
+    <string name="chinese_day_23">23</string>
+    <string name="chinese_day_24">24</string>
+    <string name="chinese_day_25">25</string>
+    <string name="chinese_day_26">26</string>
+    <string name="chinese_day_27">27</string>
+    <string name="chinese_day_28">28</string>
+    <string name="chinese_day_29">29</string>
+    <string name="chinese_day_3">3</string>
+    <string name="chinese_day_30">30</string>
+    <string name="chinese_day_4">4</string>
+    <string name="chinese_day_5">5</string>
+    <string name="chinese_day_6">6</string>
+    <string name="chinese_day_7">7</string>
+    <string name="chinese_day_8">8</string>
+    <string name="chinese_day_9">9</string>
+    <string name="chinese_day_elementary">Tết dương lịch</string>
+    <string name="chinese_digit_eight">8</string>
+    <string name="chinese_digit_five">5</string>
+    <string name="chinese_digit_four">4</string>
+    <string name="chinese_digit_nine">9</string>
+    <string name="chinese_digit_one">1</string>
+    <string name="chinese_digit_seven">7</string>
+    <string name="chinese_digit_six">6</string>
+    <string name="chinese_digit_ten">10</string>
+    <string name="chinese_digit_three">3</string>
+    <string name="chinese_digit_two">2</string>
+    <string name="chinese_digit_zero">0</string>
+    <string name="chinese_leap">Nhuận</string>
+    <string name="chinese_month">Tháng</string>
+    <string name="chinese_month_april">Thg 4</string>
+    <string name="chinese_month_august">Thg 8</string>
+    <string name="chinese_month_december">Thg Chạp</string>
+    <string name="chinese_month_february">Thg 2</string>
+    <string name="chinese_month_january">Thg Giêng</string>
+    <string name="chinese_month_july">Thg 7</string>
+    <string name="chinese_month_june">Thg 6</string>
+    <string name="chinese_month_march">Thg 3</string>
+    <string name="chinese_month_may">Thg 5</string>
+    <string name="chinese_month_november">Thg 11</string>
+    <string name="chinese_month_october">Thg 10</string>
+    <string name="chinese_month_september">Thg 9</string>
+    <string name="chinese_symbol_animals_chicken">Dậu</string>
+    <string name="chinese_symbol_animals_cow">Sửu</string>
+    <string name="chinese_symbol_animals_dog">Tuất</string>
+    <string name="chinese_symbol_animals_dragon">Thìn</string>
+    <string name="chinese_symbol_animals_horse">Ngọ</string>
+    <string name="chinese_symbol_animals_monkey">Thân</string>
+    <string name="chinese_symbol_animals_mouse">Tí</string>
+    <string name="chinese_symbol_animals_pig">Hợi</string>
+    <string name="chinese_symbol_animals_rabbit">Mão</string>
+    <string name="chinese_symbol_animals_sheep">Mùi</string>
+    <string name="chinese_symbol_animals_snake">Tị</string>
+    <string name="chinese_symbol_animals_tiger">Dần</string>
+    <string name="chip_text">Văn bản chip</string>
     <string name="choose_a_card_to_reset">Chọn thẻ SIM để đặt lại</string>
     <string name="choose_keyguard_clock_style">Định dạng đồng hồ Màn hình khóa</string>
     <string name="choose_keyguard_clock_summary">Cài đặt này không tương thích với các chủ đề của bên thứ ba</string>
@@ -2164,8 +2236,8 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="close_fod_aod">Bạn sẽ không thể mở khóa thiết bị bằng vân tay khi màn hình tắt. "Chế độ luôn bật" sẽ không khả dụng. Mở khóa bằng vân tay chỉ làm việc khi màn hình bật.</string>
     <string name="close_hotspot_hint">Tắt điểm phát sóng di động trước khi chiếu</string>
     <string name="close_lid_display_settings_title">Sau khi gập</string>
-    <string name="close_miui_optimization_title">Tắt tối ưu hóa MIUI</string>
-    <string name="close_optimization_message">Bố cục văn bản, tài khoản và phần khác của MIUI có thể bị ảnh hưởng sau khi bạn tắt tính năng này.</string>
+    <string name="close_miui_optimization_title">Tắt tối ưu hóa hệ thống</string>
+    <string name="close_optimization_message">Bố cục văn bản, tài khoản và phần khác của hệ thống có thể bị ảnh hưởng sau khi bạn tắt tính năng này.</string>
     <string name="close_optimization_option">Tắt</string>
     <string name="close_privacy_thumbnail_blur_title">Xem trước không được làm mờ</string>
     <string name="close_slave_wifi_hint">Ngắt kết nối với mạng Wi-Fi phụ trước khi chiếu</string>
@@ -2181,8 +2253,8 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="codec_low_latency_summary">Giảm thiểu độ trễ trong khi đồng bộ âm thanh và video trò chơi</string>
     <string name="codec_low_latency_title">Độ trễ thấp</string>
     <string name="codec_low_latency_video_summary">Cung cấp trải nghiệm âm thanh có độ trễ thấp cho trò chơi và video, giúp đồng bộ âm thanh và hình ảnh tự nhiên hơn.</string>
-    <string name="codec_low_latency_zmi_summary">Giảm độ trễ và cải thiện hiệu ứng âm thanh cho game tự động</string>
-    <string name="codec_low_latency_zmi_title">Độ trễ thấp khi chơi game</string>
+    <string name="codec_low_latency_zmi_summary">Giảm độ trễ và cải thiện hiệu ứng âm thanh cho trò chơi tự động</string>
+    <string name="codec_low_latency_zmi_title">Độ trễ thấp khi chơi trò chơi</string>
     <string name="color_black">Đen</string>
     <string name="color_blue">Lam</string>
     <string name="color_calibration_none">Thiết bị này</string>
@@ -2490,13 +2562,13 @@ Nếu quá trình gián đoạn bạn sẽ mất một phần hoặc toàn bộ 
     <string name="dark_mode_auto_time_title">Tùy chỉnh</string>
     <string name="dark_mode_contrast">Điều chỉnh tương phản tự động</string>
     <string name="dark_mode_contrast_hint">Tự động điều chỉnh màu sắc và giảm độ tương phản khi giảm độ sáng</string>
-    <string name="dark_mode_day_night_mode_summary">Thiết bị sẽ chuyển sang Chế độ nền tối khi mặt trời lặn và quay lại Chế độ Sáng khi mặt trời mọc. Bật dch vụ vị trí để có kết quả chính xác nhất.</string>
+    <string name="dark_mode_day_night_mode_summary">Thiết bị sẽ chuyển sang Chế độ nền tối khi mặt trời lặn và quay lại Chế độ Sáng khi mặt trời mọc. Bật dịch vụ vị trí để có kết quả chính xác nhất.</string>
     <string name="dark_mode_day_night_mode_title">Từ lúc hoàng hôn đến bình minh</string>
     <string name="dark_mode_display_enable_summary">Chuyển sang giao diện người dùng ánh sáng yếu hiển thị hầu hết các bề mặt tối</string>
     <string name="dark_mode_font_background_title">Điều chỉnh văn bản và nền tự động</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Tôi biết</string>
-    <string name="dark_mode_power_save_alert_dialog_message">Nếu bạn tắt tối ưu hóa MIUI và bật Tiết kiệm pin, Chế độ nền tối sẽ tự động bật.
-Để tắt Chế độ nền tối, tắt Tiết kiệm pin hoặc bật tối ưu hóa MIUI trong Cài đặt &gt; Tùy chọn nhà phát triển &gt; Bật Tối ưu MIUI.</string>
+    <string name="dark_mode_power_save_alert_dialog_message">Nếu bạn tắt tối ưu hóa hệ thống và bật Tiết kiệm pin, Chế độ nền tối sẽ tự động bật.
+Để tắt Chế độ nền tối, tắt Tiết kiệm pin hoặc bật tối ưu hóa hệ thống trong Cài đặt &gt; Tùy chọn nhà phát triển &gt; Bật Tối ưu hóa hệ thống.</string>
     <string name="dark_mode_power_save_alert_dialog_title">Chế độ nền tối</string>
     <string name="dark_mode_time_settings">Lên lịch trình bật Chế độ nền tối</string>
     <string name="dark_theme_main_switch_title">Sử dụng Giao diện tối</string>
@@ -6697,6 +6769,23 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="power_usage_summary_title">Pin &amp; hiệu suất</string>
     <string name="power_usage_summary_title_new">Pin</string>
     <string name="power_wifi">Wi-Fi</string>
+    <string name="pre_install_app_browser">Trình duyệt</string>
+    <string name="pre_install_app_camera">Máy ảnh</string>
+    <string name="pre_install_app_gallery">Thư viện</string>
+    <string name="pre_install_app_other">Xem thông tin chi tiết về ứng dụng được cài đặt sẵn trực tuyến</string>
+    <string name="pre_install_app_phone">Dịch vụ điện thoại</string>
+    <string name="pre_install_app_sms">Tin nhắn</string>
+    <string name="pre_install_app_weather">Thời tiết</string>
+    <string name="pre_install_application">Ứng dụng cài sẵn</string>
+    <string name="pre_install_category_appname">Tên ứng dụng</string>
+    <string name="pre_install_category_question">Câu hỏi thường gặp</string>
+    <string name="pre_install_network_unavailable">Hiện chưa kết nối Internet, vui lòng kết nối Internet trước</string>
+    <string name="pre_install_question_disable_summary">Đối với một số ứng dụng hệ thống, bạn có thể tắt một số tiện ích mở rộng của ứng dụng trong cài đặt của ứng dụng. Nếu cần khôi phục các chức năng mở rộng này, bạn có thể vào lại cài đặt và bật lại chúng. </string>
+    <string name="pre_install_question_disable_title">Làm cách nào để tắt chức năng này? </string>
+    <string name="pre_install_question_query_summary">Bạn có thể đi tới Cài đặt-Cài đặt ứng dụng-Quản lý ứng dụng, chọn ứng dụng bạn muốn xem và nhấp vào "Xem chi tiết quyền" trong thông tin ứng dụng để xem các quyền mà phần mềm yêu cầu. Bạn cũng có thể nhấn phím menu trên màn hình, sau đó nhấn và giữ ứng dụng để vào nhanh trang thông tin ứng dụng, sau đó nhấp trực tiếp để xem chi tiết về quyền. Bạn cũng có thể nhanh chóng xem tất cả thông tin cài đặt phần mềm và danh sách quyền cần thiết trên trang khởi động của người dùng. </string>
+    <string name="pre_install_question_query_title">Làm cách nào để truy vấn danh sách các quyền cần thiết để cài đặt và vận hành phần mềm? </string>
+    <string name="pre_install_question_uninstall_summary">Bạn có thể vào Cài đặt-Cài đặt ứng dụng-Quản lý ứng dụng, chọn ứng dụng hỗ trợ gỡ cài đặt và nhấp vào Gỡ cài đặt. Việc gỡ cài đặt các thành phần cài sẵn của hệ thống có thể khiến một số chức năng hệ thống không thể hoạt động hoặc chạy bất thường, vì vậy bạn nên vận hành một cách thận trọng. Đối với các ứng dụng của bên thứ ba có thể gỡ cài đặt, bạn cũng có thể nhấn và giữ biểu tượng trên màn hình nền, sau đó kéo biểu tượng đó vào thùng rác ở đầu màn hình để gỡ cài đặt ứng dụng. </string>
+    <string name="pre_install_question_uninstall_title">Làm cách nào để gỡ cài đặt ứng dụng? </string>
     <string name="pre_installed_application">Ứng dụng cài sẵn</string>
     <string name="pref_bg_network_title">Kết nối nền</string>
     <string name="pref_button_light">Đèn phím</string>
@@ -10665,7 +10754,7 @@ bạn cũng có thể sử dụng mạng của người dùng khác.</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Dựa trên thế hệ trước</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Không xác định</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Không đo lường</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WLAN không tự động kết nối tạm thời</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi không tự động kết nối tạm thời</string>
     <string name="window_animation_scale_title">Tỷ lệ ảnh động của cửa sổ</string>
     <string name="window_blurs">Cho phép làm mờ cửa sổ</string>
     <string name="winscope_trace_quick_settings_title">Dấu vết Winscope</string>
