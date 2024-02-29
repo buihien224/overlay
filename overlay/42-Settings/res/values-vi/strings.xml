@@ -2821,9 +2821,9 @@ Cài đặt này ảnh hưởng đến tất cả người dùng của thiết b
     <string name="device_mall_card_title">Khám phá các ưu đãi</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">Xem thêm</string>
-    <string name="device_miui_version">Phiên bản MIUI</string>
-    <string name="device_miui_version_for_POCO">Phiên bản MIUI (Dành cho POCO)</string>
-    <string name="device_miui_version_parameters">Phiên bản MIUI</string>
+    <string name="device_miui_version">Phiên bản OS</string>
+    <string name="device_miui_version_for_POCO">Phiên bản OS (Dành cho POCO)</string>
+    <string name="device_miui_version_parameters">Phiên bản OS</string>
     <string name="device_miui_version_update">Cập nhật</string>
     <string name="device_name">Tên thiết bị</string>
     <string name="device_name_input_error">Không thể lưu tên thiết bị</string>
@@ -3079,7 +3079,7 @@ Nếu sự cố này vẫn tiếp diễn, có thể bạn cần phải gỡ cài
     <string name="double_twist_for_camera_mode_summary"></string>
     <string name="double_twist_for_camera_mode_title">Lật máy ảnh để tự chụp ảnh chân dung</string>
     <string name="double_twist_for_camera_suggestion_title">Tự chụp ảnh mình nhanh hơn</string>
-    <string name="download_current_rom">Tải xuống phiên bản MIUI mới nhất</string>
+    <string name="download_current_rom">Tải xuống phiên bản OS mới nhất</string>
     <string name="downloaded_sim_category_title">SIM ĐÃ TẢI XUỐNG</string>
     <string name="downloaded_sims_category_title">SIM ĐÃ TẢI XUỐNG</string>
     <string name="downloading_description">Đang tải xuống…</string>
@@ -7522,7 +7522,7 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="se_wallet_hce">HCE Wallet</string>
     <string name="se_wallet_uicc">Ví tiền SIM %1$s</string>
     <string name="se_wallet_uicc_jp">Ví tiền SIM %1$s (Không thể chọn tự động)</string>
-    <string name="search_about_settings">Giới thiệu điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Bộ nhớ;Bộ nhớ;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
+    <string name="search_about_settings">Giới thiệu điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản OS;CPU;RAM;Bộ nhớ trong;Bộ nhớ;Bộ nhớ;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
     <string name="search_accelerometer_title">Tự động xoay màn hình;Xoay màn hình;Định hướng;Chân dung;Phong cảnh</string>
     <string name="search_access_control">Cài đặt riêng tư;Riêng tư Bảo mật;Khách;Chế độ khách</string>
     <string name="search_accessibility_captioning_title">Phụ đề</string>
