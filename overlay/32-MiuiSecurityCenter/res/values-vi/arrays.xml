@@ -120,6 +120,11 @@
         <item>update_source</item>
         <item>update_time</item>
     </string-array>
+	<string-array name="luckymoney_sound">
+         <item>Tắt tiếng</item>
+         <item>Tiền vàng</item>
+         <item>Lì xì tới đây</item>
+     </string-array>
     <string-array name="lock_mode">
         <item>Khi thiết bị khóa</item>
         <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
