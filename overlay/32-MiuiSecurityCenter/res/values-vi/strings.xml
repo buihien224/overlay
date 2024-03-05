@@ -3198,8 +3198,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_continuity_open_save_mode_notifi_title">Pin %s yếu</string>
     <string name="pc_current_power_mode">Chế độ hiện tại</string>
     <string name="pc_emergency_call">Khẩn cấp</string>
-    <string name="pc_endurance_calculation">Đang tính…</string>
-    <string name="pc_entered_extreme_mode">Chế độ ngủ đông bật</string>
+    <string name="pc_endurance_calculation">Đang tính toán…</string>
+    <string name="pc_entered_extreme_mode">Chế độ ngủ đông đang bật</string>
     <string name="pc_entered_extreme_mode_summary">Thiết bị của bạn đã cạn pin và vào Chế độ ngủ đông. Ứng dụng sẽ chạy trong nền và sẽ không thể gửi thông báo.</string>
     <string name="pc_extreme_exit_and_power_off">Thoát</string>
     <string name="pc_extreme_mode_bg_toast">Ở Chế độ ngủ đông, ứng dụng sẽ chạy trong nền và không gửi thông báo</string>
@@ -6832,4 +6832,5 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
 	<string name="terms_and_conditions_content"><Data>"Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Nó sẽ thông báo cho bạn về trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. &lt;br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp cảnh báo động đất chính xác. &lt;br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. &lt;br>Bạn phải đọc và đồng ý với &lt;a href=%s>Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này."</Data></string>
 	<string name="weChat_not_found">Phiên bản ứng dụng của bạn quá thấp hoặc chưa được cài đặt</string>
+    <string name="pc_power_mode_has_performance">Chế độ Hiệu suất đang bật</string>
 </resources>
