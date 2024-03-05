@@ -43,7 +43,7 @@
     <string name="abc_slices_permission_request">%1$s muốn hiển thị các lát cắt của %2$s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="about_ad_service_instructions">Giới thiệu dịch vụ quảng cáo và tính riêng tư</string>
-    <string name="about_ad_service_instructions_for_global">Giới thiệu về dịch vụ quảng cáo và quyền riêng tư trong ứng dụng hệ thống MIUI</string>
+    <string name="about_ad_service_instructions_for_global">Giới thiệu về dịch vụ quảng cáo và quyền riêng tư trong ứng dụng hệ thống</string>
     <string name="about_phone_device_name_warning">Tên thiết bị của bạn sẽ hiển thị với các ứng dụng trên điện thoại. Những người khác cũng có thể thấy tên thiết bị này khi bạn kết nối với thiết bị Bluetooth, mạng Wi-Fi hoặc thiết lập một điểm phát sóng Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Tìm hiểu thêm</string>
     <string name="about_settings">Giới thiệu điện thoại</string>
@@ -628,7 +628,7 @@ Tiện ích: %2$s
     <string name="allow_mock_modem">Cho phép modem mô phỏng</string>
     <string name="allow_mock_modem_summary">Cho phép thiết bị này chạy dịch vụ Modem mô phỏng để thử nghiệm đo lường. Đừng nên bật dịch vụ này trong quá trình sử dụng điện thoại thông thường</string>
     <string name="allow_oaid_used">Sử dụng ID ảo</string>
-    <string name="allow_oaid_used_desc">MIUI không thể cung cấp ID ảo (OAID) để cài đặt ứng dụng. Một số tính năng kiến nghị cá nhân có thể không hoạt động đúng vì điều đó.</string>
+    <string name="allow_oaid_used_desc">Hệ thống không thể cung cấp ID ảo (OAID) để cài đặt ứng dụng. Một số tính năng kiến nghị cá nhân có thể không hoạt động đúng vì điều đó.</string>
     <string name="allow_ongoing_title">Cho phép thông báo cố định</string>
     <string name="allow_overlay_description">Cho phép ứng dụng này hiển thị trên các ứng dụng khác mà bạn đang dùng. Ứng dụng này có thể xem vị trí mà bạn nhấn vào hoặc thay đổi nội dung hiển thị trên màn hình.</string>
     <string name="allow_sound_title">Cho phép phát âm thanh</string>
@@ -1456,7 +1456,7 @@ Bạn chưa từng kết nối với %2$s.</string>
     <string name="bluetooth_disable_absolute_volume">Tắt âm lượng tuyệt đối</string>
     <string name="bluetooth_disable_absolute_volume_summary">Tắt âm lượng tuyệt đối Bluetooth trong trường hợp gặp vấn đề âm lượng với thiết bị điều khiển từ xa ví dụ như âm lượng quá lớn không thể chấp nhận hoặc không thể điều khiển âm lượng.</string>
     <string name="bluetooth_disable_hw_offload_dialog_cancel">Huỷ</string>
-    <string name="bluetooth_disable_hw_offload_dialog_confirm">Bắt đầu lại</string>
+    <string name="bluetooth_disable_hw_offload_dialog_confirm">Khởi động lại</string>
     <string name="bluetooth_disable_hw_offload_dialog_message">Bạn cần khởi động lại thiết bị để thay đổi chế độ cài đặt này.</string>
     <string name="bluetooth_disable_hw_offload_dialog_title">Khởi động lại thiết bị?</string>
     <string name="bluetooth_disable_le_audio_hw_offload">Tắt chế độ giảm tải phần cứng Bluetooth LE AUDIO</string>
@@ -1852,7 +1852,7 @@ Bạn có thể tắt tính năng này trong Cài đặt &gt; Bluetooth &gt; Thi
     <string name="bt_audio_share_switch_title">Chia sẻ âm thanh</string>
     <string name="bt_audiorepair_dialog_open_success">Sửa thành công. Chờ cho đến khi thiết bị kết nối lại.</string>
     <string name="bt_audiorepair_dialog_openok">Sửa</string>
-    <string name="bt_audiorepair_open_dialog_summary">MIUI sẽ phát hiện và khắc phục sự cố gây ra hiện tượng âm thanh Bluetooth giật vấp. Bluetooth sẽ được khởi động lại trong quá trình này. Đừng rời khỏi trang này cho đến khi bạn nhìn thấy kết quả.</string>
+    <string name="bt_audiorepair_open_dialog_summary">Hệ thống sẽ phát hiện và khắc phục sự cố gây ra hiện tượng âm thanh Bluetooth giật vấp. Bluetooth sẽ được khởi động lại trong quá trình này. Đừng rời khỏi trang này cho đến khi bạn nhìn thấy kết quả.</string>
     <string name="bt_audiorepair_open_dialog_title">Sửa âm thanh giật vấp</string>
     <string name="bt_audiorepair_pre_title">Sửa âm thanh giật vấp</string>
     <string name="bt_audiorepair_summary">Sửa âm thanh giật vấp trên thiết bị Bluetoth được kết nối</string>
@@ -2002,10 +2002,10 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="camera_double_tap_power_gesture_desc">Mở nhanh máy ảnh mà không cần mở khóa màn hình của bạn</string>
     <string name="camera_double_tap_power_gesture_title">Nhấn nút nguồn hai lần để mở máy ảnh</string>
     <string name="camera_front">Trước %s</string>
-    <string name="camera_gesture_desc">Mở ứng dụng camera bằng cách vặn cổ tay hai lần</string>
+    <string name="camera_gesture_desc">Mở ứng dụng máy ảnh bằng cách vặn cổ tay hai lần</string>
     <string name="camera_gesture_title">Xoay cổ tay hai lần để mở máy ảnh</string>
     <string name="camera_key_action_app_title">Mở ứng dụng</string>
-    <string name="camera_key_action_category_title">Không thể sử dụng Camera</string>
+    <string name="camera_key_action_category_title">Không thể sử dụng Máy ảnh</string>
     <string name="camera_key_action_none_title">Không có hoạt động nào</string>
     <string name="camera_key_action_setting_title">Phím Mi</string>
     <string name="camera_key_action_shortcut_call">Gọi</string>
@@ -2332,7 +2332,7 @@ Nếu bạn cài đặt một chứng chỉ CA, thì chủ sở hữu của ch�
     <string name="common_issue">Câu hỏi thường gặp</string>
     <string name="common_settings">Cài đặt nhanh</string>
     <string name="complete_parameters">Tất cả thông số</string>
-    <string name="complete_parameters_new">Thông tin thiết bị và thông số chi tiết</string>
+    <string name="complete_parameters_new">Thông tin và thông số chi tiết</string>
     <string name="complete_settings">Cài đặt chung</string>
     <string name="computer_backup_summary">Sao lưu và khôi phục các mục bằng máy tính</string>
     <string name="computer_backup_title">Máy tính</string>
@@ -2872,7 +2872,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng của thiết b
     <string name="device_available_memory">Lưu trữ khả dụng </string>
     <string name="device_battery">Pin</string>
     <string name="device_build_id">Số phiên bản</string>
-    <string name="device_camera">Camera</string>
+    <string name="device_camera">Máy ảnh</string>
     <string name="device_complete_parameters">Tất cả thông số</string>
     <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Mười nhân</string>
@@ -2903,12 +2903,12 @@ Cài đặt này ảnh hưởng đến tất cả người dùng của thiết b
     <string name="device_name_input_overlength">Văn bản bạn nhập quá dài</string>
     <string name="device_name_usage_point">Các thiết bị lân cận khác có thể nhìn thấy tên này.</string>
     <string name="device_oaid">Quản lý ID ảo</string>
-    <string name="device_oaid_desc">Thay vì nhận dạng duy nhất, MIUI sẽ cung cấp ID ảo (OAID) để cài đặt ứng dụng. Điều này ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư.</string>
+    <string name="device_oaid_desc">Thay vì nhận dạng duy nhất, Hệ thống sẽ cung cấp ID ảo (OAID) để cài đặt ứng dụng. Điều này ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư.</string>
     <string name="device_oaid_title">ID ảo</string>
     <string name="device_of_someone">%2$s của %1$s</string>
     <string name="device_opcust_version">Phiên bản Nhà cung cấp</string>
     <string name="device_picker">Chọn thiết bị Bluetooth</string>
-    <string name="device_rear_camera">Camera sau</string>
+    <string name="device_rear_camera">Máy ảnh sau</string>
     <string name="device_screen_resolution">Độ phân giải màn hình</string>
     <string name="device_screen_size">Kích thước màn hình</string>
     <string name="device_screen_usage">Mức sử dụng màn hình kể từ lần sạc đầy</string>
@@ -3217,7 +3217,7 @@ Nếu sự cố này vẫn tiếp diễn, có thể bạn cần phải gỡ cài
     <string name="dual_wifi_switching_prompt">Chuyển đổi giữa các mạng</string>
     <string name="dual_wifi_switching_summary">Tăng tốc Wi-Fi băng tần kép cần sử dụng hai băng tần Wi-Fi khác nhau. Nếu bạn kết nối với mạng chính khác, kết nối phụ sẽ bị mất.</string>
     <string name="dump_log">Nhận nhật ký liên quan đến vấn đề</string>
-    <string name="dump_log_summary">Tính năng này được thiết kế để tạo ra %s nhật ký trong phiên bản Beta của MIUI. Hãy thận trọng khi sử dụng.
+    <string name="dump_log_summary">Tính năng này được thiết kế để tạo ra %s nhật ký trong phiên bản Beta. Hãy thận trọng khi sử dụng.
 Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin.</string>
     <string name="dump_log_title">Giới thiệu tính năng này</string>
 	<string name="dsu_is_running">DSU đang chạy</string>
@@ -3234,7 +3234,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin.</strin
     <string name="edge_mode_notification_summary">Chạm để tìm hiểu thêm.</string>
     <string name="edge_mode_notification_title">Sử dụng điều khiển tiếp xúc viền</string>
     <string name="edge_mode_photo">Chụp ảnh</string>
-    <string name="edge_mode_photo_summary">Trong ứng dụng Camera, chạm cạnh viền điện thoại để kích hoạt màn trập, và chạm lần nữa để chụp ảnh</string>
+    <string name="edge_mode_photo_summary">Trong ứng dụng Máy ảnh, chạm cạnh viền điện thoại để kích hoạt màn trập, và chạm lần nữa để chụp ảnh</string>
     <string name="edge_mode_screenshot">Chụp ảnh màn hình</string>
     <string name="edge_mode_screenshot_summary">Nhấp đúp hai viền cạnh để chụp ảnh màn hình</string>
     <string name="edge_mode_state_summary">Khu vực xung quanh các cạnh cong sẽ không phản hồi khi chạm</string>
@@ -3499,8 +3499,8 @@ Hãy khởi động lại thiết bị rồi thử lần nữa.</string>
     <string name="face_add_max">Bạn có thể thêm tới %d khuôn mặt</string>
     <string name="face_data_apply_for_category_title">Mở khóa bằng dữ liệu khuôn mặt</string>
     <string name="face_data_apply_for_keyguard_title">Màn hình khóa</string>
-    <string name="face_data_input_camera_fail">Không thể tải camera</string>
-    <string name="face_data_input_camera_ok">Đang tải camera…</string>
+    <string name="face_data_input_camera_fail">Không thể tải máy ảnh</string>
+    <string name="face_data_input_camera_ok">Đang tải máy ảnh…</string>
     <string name="face_data_input_cancel_msg">Không thể thêm dữ liệu khuôn mặt</string>
     <string name="face_data_input_ok">Hoàn tất</string>
     <string name="face_data_input_ok_title">Thêm thành công</string>
@@ -3553,7 +3553,7 @@ hướng mặt đến màn hình bên ngoài</string>
     <string name="face_unlock_rise">Hạ đầu xuống</string>
     <string name="face_unlock_rotated_left">Nghiêng đầu sang phải</string>
     <string name="face_unlock_rotated_right">Nghiêng đầu sang trái</string>
-    <string name="face_unlock_sc_status">Trượt xuống màn hình để mở camera</string>
+    <string name="face_unlock_sc_status">Trượt xuống màn hình để mở máy ảnh</string>
     <string name="face_unlock_set_unlock_password">Mở khóa bằng khuôn mặt + Mật khẩu</string>
     <string name="face_unlock_set_unlock_pattern">Mở khóa bằng khuôn mặt + Hình mở khóa</string>
     <string name="face_unlock_set_unlock_pin">Mở khóa bằng khuôn mặt + Mã PIN</string>
@@ -3882,7 +3882,7 @@ Dường như ở đó không có ngựa hay bất kỳ loài động vật nào
     <string name="forget_password_button_text"><u>Quên mật khẩ</u>u</string>
     <string name="forget_password_dialog_button_text">Quay lại</string>
     <string name="forget_password_dialog_content_four">2. Chọn [Wipe data], chờ cho đến khi thiết bị khởi động lại.</string>
-    <string name="forget_password_dialog_content_one">&lt;Data&gt;Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700&gt;xóa tất cả dữ liệu trên thiết bị&lt;/font&gt; (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_one"><Data>Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700&gt;xóa tất cả dữ liệu trên thiết bị&lt;/font&gt; (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.</Data></string>
     <string name="forget_password_dialog_content_three">1. Tắt thiết bị. Bấm nút [Nguồn] và [Âm lượng+] đồng thời, giữ cho đến khi bạn nhìn thấy biểu tượng *.</string>
     <string name="forget_password_dialog_content_two">Thực hiện theo các bước sau để xóa dữ liệu:</string>
     <string name="forget_password_dialog_title">Xóa dữ liệu</string>
@@ -4432,7 +4432,7 @@ Mở Đám mây Xiaomi và khôi phục các mục từ đó.</string>
     <string name="kddi_nfc_secure_toggle_summary">Chỉ bật NFC/Osaifu-keitai khi thiết bị mở khóa</string>
     <string name="keep_legacy_fingerprint">Giữ</string>
     <string name="keep_screen_on">Giữ màn hình luôn bật</string>
-    <string name="keep_screen_on_after_folding_off_summary">Giữ màn hình ngoài bật sau khi gấp khi thực hiện cuộc gọi hoặc camera đang được sử dụng</string>
+    <string name="keep_screen_on_after_folding_off_summary">Giữ màn hình ngoài bật sau khi gấp khi thực hiện cuộc gọi hoặc máy ảnh đang được sử dụng</string>
     <string name="keep_screen_on_after_folding_on_summary">Giữ màn hình ngoài bật sau khi gấp để tiếp tục nhiệm vụ hiện tại</string>
     <string name="keep_screen_on_after_folding_text">Giữ màn hình ngoài bật sau khi gấp để tiếp tục nhiệm vụ hiện tại</string>
     <string name="keep_screen_on_after_folding_title">Giữ màn hình ngoài bật sau khi gấp</string>
@@ -4668,7 +4668,7 @@ Mở Đám mây Xiaomi và khôi phục các mục từ đó.</string>
     <string name="launch_alipay_scanner">Quét Alipay</string>
     <string name="launch_by_default">Mở theo mặc định</string>
     <string name="launch_calculator">Máy tính</string>
-    <string name="launch_camera">Khởi chạy camera</string>
+    <string name="launch_camera">Khởi chạy máy ảnh</string>
     <string name="launch_control_center">Trung tâm điều khiển</string>
     <string name="launch_defaults_none">Chưa đặt mặc định</string>
     <string name="launch_defaults_some">Vài thiết lập mặc định</string>
@@ -4869,7 +4869,7 @@ Mở Đám mây Xiaomi và khôi phục các mục từ đó.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Nếu bạn nhập hình mở khóa làm việc lần này không chính xác, hồ sơ làm việc và dữ liệu được liên kết sẽ bị xóa khỏi thiết bị này.</string>
     <string name="lock_profile_wipe_warning_content_pin">Nếu bạn nhập mã PIN làm việc lần này không chính xác, hồ sơ làm việc và dữ liệu được liên kết sẽ bị xóa khỏi thiết bị này.</string>
     <string name="lock_screen_action">Các mục hiển thị trên Màn hình khóa sau khi kéo xuống</string>
-    <string name="lock_screen_after_fold_screen_summary">Thiết bị sẽ bị khóa sau khi bạn gập lại, trừ trường hợp bạn đang sử dụng camera trước hoặc loa ngoài.</string>
+    <string name="lock_screen_after_fold_screen_summary">Thiết bị sẽ bị khóa sau khi bạn gập lại, trừ trường hợp bạn đang sử dụng máy ảnh trước hoặc loa ngoài.</string>
     <string name="lock_screen_after_fold_screen_title">Gập để khóa</string>
     <string name="lock_screen_display_category_name">Màn hình khóa</string>
     <string name="lock_screen_intro_skip_dialog_text">Các tính năng bảo vệ thiết bị sẽ không được bật. Bạn sẽ không thể ngăn người khác sử dụng điện thoại này nếu điện thoại bị mất hoặc bị đánh cắp.</string>
@@ -5457,7 +5457,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="miheadset_fitness_check_checking">Đang kiểm tra…</string>
     <string name="miheadset_fitness_check_continue">Tiếp theo</string>
     <string name="miheadset_fitness_check_done">Hoàn tất</string>
-    <string name="miheadset_fitness_check_restart">Bắt đầu lại</string>
+    <string name="miheadset_fitness_check_restart">Khởi động lại</string>
     <string name="miheadset_fitness_check_result_dialog1">Đặt tai nghe vào cả hai tai trước khi bắt đầu kiểm tra.</string>
     <string name="miheadset_fitness_check_result_dialog2">Kết thúc cuộc gọi hiện tại trước khi bắt đầu kiểm tra.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Chú ý</string>
@@ -5557,7 +5557,7 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="miui_bubbles_notification_status_opened">Bật</string>
     <string name="miui_data_usage_menu_metered">Điểm phát sóng di động</string>
     <string name="miui_device_control_description">Hiển thị ứng dụng hỗ trợ điều khiển thiết bị để có thể điều khiển thiết bị nhà thông minh tương thích</string>
-    <string name="miui_experience_optimization">Bật tối ưu hóa MIUI</string>
+    <string name="miui_experience_optimization">Bật tối ưu hóa hệ thống</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Hủy</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Để có kết quả tốt nhất khi sử dụng Mở khóa bằng khuôn mặt, không cho phép thiết bị tự động điều chỉnh độ sáng màn hình</string>
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
@@ -5580,7 +5580,7 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_lab_feature_applied">Đã áp dụng</string>
     <string name="miui_lab_feature_off">Tắt</string>
     <string name="miui_lab_feature_on">Bật</string>
-    <string name="miui_lab_features">Tính năng MIUI LAB</string>
+    <string name="miui_lab_features">Tính năng Mi LAB</string>
     <string name="miui_lab_gallery_search_desc">Cải thiện tìm kiếm hình ảnh</string>
     <string name="miui_lab_gallery_search_title">Tìm ảnh trong Thư viện</string>
     <string name="miui_lab_gesture_desc">Sử dụng cử chỉ thay vì các phím để điều hướng</string>
@@ -5588,7 +5588,7 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_lab_install_drive_mode_error">Không thể cài đặt. Thử lại.</string>
     <string name="miui_lab_install_drive_mode_summary">Chế độ lái xe là ứng dụng hệ thống. Cài đặt không yêu cầu kết nối internet.</string>
     <string name="miui_lab_install_drive_mode_title">Cài đặt Chế độ lái xe</string>
-    <string name="miui_lab_settings">MIUI LAB</string>
+    <string name="miui_lab_settings">Mi LAB</string>
     <string name="miui_lab_slogan">Học hỏi - Khám phá - Không ngừng vươn lên</string>
     <string name="miui_master_clear_prompt_battery_low">Không thể đặt lại cài đặt gốc khi pin còn lại ít hơn %1$s. Sạc thiết bị của bạn trước khi tiếp tục.</string>
     <string name="miui_master_clear_summary">Xóa tất cả dữ liệu trên thiết bị này</string>
@@ -5598,8 +5598,8 @@ Tiếp tục truy cập cài đặt bổ sung.</string>
     <string name="miui_nfc_dialog_positive">Hủy</string>
     <string name="miui_nfc_dialog_title">Tắt NFC</string>
     <string name="miui_nfc_mi_pay_summary">Mi Pay, thẻ giao thông, thẻ khóa</string>
-    <string name="miui_optimization_disabled">Tắt tối ưu hóa MIUI</string>
-    <string name="miui_sos_around_photo_summary">Đính kèm %d ảnh từ camera trước và sau vào tin nhắn gửi đến liên hệ khẩn cấp</string>
+    <string name="miui_optimization_disabled">Tắt tối ưu hóa hệ thống</string>
+    <string name="miui_sos_around_photo_summary">Đính kèm %d ảnh từ máy ảnh trước và sau vào tin nhắn gửi đến liên hệ khẩn cấp</string>
     <string name="miui_sos_around_photo_title">Đính kèm ảnh</string>
     <string name="miui_sos_around_voice_summary">Đính kèm %d-giây ghi âm vào tin nhắn gửi đến liên hệ khẩn cấp</string>
     <string name="miui_sos_around_voice_title">Đính kèm %d-giây âm thanh</string>
@@ -5951,7 +5951,7 @@ Hãy chọn hệ điều hành hệ thống:</string>
     <string name="mvno_match_data">Giá trị MVNO</string>
     <string name="mvno_type">Kiểu MVNO</string>
     <string name="my_device">Thiết bị của tôi</string>
-    <string name="my_device_disclaimer">Ghi chú: Thông tin phần cứng, bao gồm CPU, dung lượng pin, độ phân giải, kích thước màn hình và camera được cung cấp bởi phòng thí nghiệm Xiaomi, nhà thiết kế, nhà cung cấp.</string>
+    <string name="my_device_disclaimer">Ghi chú: Thông tin phần cứng, bao gồm CPU, dung lượng pin, độ phân giải, kích thước màn hình và máy ảnh được cung cấp bởi phòng thí nghiệm Xiaomi, nhà thiết kế, nhà cung cấp.</string>
     <string name="my_device_info_account_preference_title">Tài khoản</string>
     <string name="my_device_info_basic_info_category_title">Thông tin cơ bản</string>
     <string name="my_device_info_device_details_category_title">Thông tin chi tiết về thiết bị</string>
@@ -6457,8 +6457,8 @@ Ngoài ra, việc này còn cho phép ứng dụng bật hoặc tắt chế đ�
     <string name="open_demo_mode_warning_message">Khi chế độ Demo bật, đồng hồ trên thanh trạng thái sẽ dừng, các biểu tượng pin và tín hiệu sẽ hiển thị đầy. Bạn có thể tắt Chế độ Demo hoặc khởi động lại thiết bị để thay đổi.</string>
     <string name="open_game_accelerate">Bật Tăng tốc trò chơi</string>
     <string name="open_haptic_feedback">Phản hồi xúc giác</string>
-    <string name="open_miui_optimization_title">Bật tối ưu hóa MIUI</string>
-    <string name="open_optimization_message">Bật tối ưu hóa MIUI để tận hưởng giao diện người dùng nhanh và mượt hơn.</string>
+    <string name="open_miui_optimization_title">Bật tối ưu hóa hệ thống</string>
+    <string name="open_optimization_message">Bật tối ưu hóa hệ thống để tận hưởng giao diện người dùng nhanh và mượt hơn.</string>
     <string name="open_optimization_option">Bật</string>
     <string name="open_privacy_thumbnail_blur_title">Xem trước đã được làm mờ</string>
     <string name="open_supported_links_footer">Ứng dụng muốn truy cập vào các đường liên kết sau:</string>
@@ -6518,13 +6518,13 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="page_layout_13">Công cụ</string>
     <string name="page_layout_18">Gần đây</string>
     <string name="page_layout_19">Liên hệ</string>
-    <string name="page_layout_2">Camera</string>
+    <string name="page_layout_2">Máy ảnh</string>
     <string name="page_layout_20">Danh bạ web</string>
     <string name="page_layout_21">182 liên hệ</string>
     <string name="page_layout_22">Hồ sơ của tôi</string>
     <string name="page_layout_23">Nhóm của tôi</string>
     <string name="page_layout_24">YÊU THÍCH</string>
-    <string name="page_layout_25">Nguyễn Duy An</string>
+    <string name="page_layout_25">Lý Văn Tú</string>
     <string name="page_layout_26">Nguyễn Tiến Minh</string>
     <string name="page_layout_27">Lê Huỳnh Đức</string>
     <string name="page_layout_28">Lê Quang Liêm</string>
@@ -6675,19 +6675,19 @@ OTG tự động tắt sau 10 phút không hoạt động.</string>
     <string name="pointer_location_summary">Hiển thị tọa độ chạm</string>
     <string name="pointer_settings_category">Chuột/bàn rê</string>
     <string name="pointer_speed">Tốc độ con trỏ</string>
-    <string name="popup_gesture_summary">Quay lại Màn hình chính, nâng điện thoại và nhìn vào màn hình để tự động mở camera trước</string>
-    <string name="popup_gesture_title">Nâng điện thoại lên để mở camera trước</string>
-    <string name="popup_led_summary">Hiển thị ảnh động khi camera trước trượt lên và thu lại</string>
+    <string name="popup_gesture_summary">Quay lại Màn hình chính, nâng điện thoại và nhìn vào màn hình để tự động mở máy ảnh trước</string>
+    <string name="popup_gesture_title">Nâng điện thoại lên để mở máy ảnh trước</string>
+    <string name="popup_led_summary">Hiển thị ảnh động khi máy ảnh trước trượt lên và thu lại</string>
     <string name="popup_led_title">Hiệu ứng hình ảnh</string>
     <string name="popup_led_try_later">Chờ một hoặc hai phút và thử lại</string>
-    <string name="popup_title">Hiệu ứng camera trước</string>
+    <string name="popup_title">Hiệu ứng máy ảnh trước</string>
     <string name="popup_title_cangmen">Cửa cabin</string>
     <string name="popup_title_chilun">Bánh răng</string>
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_mofa">Ma thuật</string>
     <string name="popup_title_muqin">Mộc cầm</string>
     <string name="popup_title_yingyan">Chim ưng</string>
-    <string name="popup_voice_summary">Phát âm thanh khi camera trước trượt lên và thu lại</string>
+    <string name="popup_voice_summary">Phát âm thanh khi máy ảnh trước trượt lên và thu lại</string>
     <string name="popup_voice_title">Hiệu ứng âm thanh</string>
     <string name="popup_window">Giới hạn thông báo nổi</string>
     <string name="post_dsds_reboot_notification_text">Nhấn để cập nhật tùy chọn cài đặt SIM</string>
@@ -6801,7 +6801,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="pref_title_network_details">Chi tiết mạng</string>
     <string name="pref_title_update_notification">Thông báo sử dụng dữ liệu</string>
     <string name="pref_volume_launch_camera_summary">Bấm phím giảm Âm lượng hai lần để khởi chạy Camera</string>
-    <string name="pref_volume_launch_camera_title">Khởi chạy Camera</string>
+    <string name="pref_volume_launch_camera_title">Khởi chạy Máy ảnh</string>
     <string name="pref_volume_wake_summary">Nhấn phím âm lượng để đánh thức thiết bị</string>
     <string name="pref_volume_wake_title">Đánh thức bằng phím âm lượng</string>
     <string name="preference_change_password_title">Thay đổi mật khẩu</string>
@@ -6906,7 +6906,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="print_print_job">Lệnh in</string>
     <string name="print_print_jobs">Lệnh in</string>
     <string name="print_printing_state_title_template">Đang in %1$s</string>
-    <string name="print_restart">Bắt đầu lại</string>
+    <string name="print_restart">Khởi động lại</string>
     <string name="print_search_box_hidden_utterance">Ẩn hộp tìm kiếm</string>
     <string name="print_search_box_shown_utterance">Hiển thị hộp tìm kiếm</string>
     <string name="print_searching_for_printers">Đang tìm kiếm máy in</string>
@@ -6927,7 +6927,7 @@ Nhấn đồng thời Nút nguồn và Nút tăng âm lượng.</string>
     <string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Đám mây Xiaomi (bao gồm đồng bộ và sao lưu).</string>
     <string name="privacy_authorize_dialog_agree">Đồng ý</string>
     <string name="privacy_authorize_dialog_exit">Thoát</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;Để sử dụng các tính năng cơ bản của dịch vụ này, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý nghĩa là bạn đã đọc và đồng ý với &lt;a href="https://privacy.mi.com/all/%1$s_%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message"><Data>Để sử dụng các tính năng cơ bản của dịch vụ này, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý nghĩa là bạn đã đọc và đồng ý với &lt;a href="https://privacy.mi.com/all/%1$s_%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi.</Data></string>
     <string name="privacy_authorize_network_error">Kết nối mạng và thử lại.</string>
     <string name="privacy_authorize_privacy_policy">Chính sách Riêng tư</string>
     <string name="privacy_authorize_revoke">Hủy</string>
@@ -7248,7 +7248,7 @@ Bluetooth</string>
 	<string name="resolution_fhd_summary">Độ phân giải FHD+ sẽ tiết kiệm pin</string>
     <string name="resolution_qhd">WQHD+</string>
 	<string name="resolution_qhd_summary">Độ phân giải QHD+ sẽ tăng thêm độ nét</string>
-    <string name="resolution_sub_title">MIUI có thể đóng các ứng dụng đang chạy nền khi chuyển đổi độ phân giải</string>
+    <string name="resolution_sub_title">Thiết bị có thể đóng các ứng dụng đang chạy nền khi chuyển đổi độ phân giải</string>
     <string name="resolver_settings_label">Sắp xếp</string>
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="restore_default_apn_completed">Đã đặt lại xong các tùy chọn cài đặt APN mặc định về trạng thái ban đầu.</string>
@@ -8162,7 +8162,7 @@ Lưu ý: Bạn không thể sử dụng vân tay để mở khóa thiết bị n
     <string name="shoulder_key_settings">Nút vai</string>
     <string name="shoulder_key_settings_title">Nút vai</string>
     <string name="shoulder_key_shortcut_double_click">Bấm đúp</string>
-    <string name="shoulder_key_shortcut_launch_camera">Camera</string>
+    <string name="shoulder_key_shortcut_launch_camera">Máy ảnh</string>
     <string name="shoulder_key_shortcut_launch_screen_recorder">Quay phim màn hình</string>
     <string name="shoulder_key_shortcut_launch_sound_recorder">Ghi âm</string>
     <string name="shoulder_key_shortcut_launch_video">Quay video</string>
@@ -8497,7 +8497,7 @@ Lưu ý rằng ứng dụng này cần kết nối internet và yêu cầu các 
 Để chia sẻ vị trí của bạn với các liên hệ khẩn cấp
 • Ghi âm
 Để gửi bản ghi âm thanh xung quanh đến các liên hệ khẩn cấp
-• Sử dụng camera
+• Sử dụng máy ảnh
 Để gửi ảnh đến các liên hệ khẩn cấp
 Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng. Bạn có thể chọn tắt hoặc không sử dụng SOS Khẩn cấp trong những trường hợp như vậy.
 Trước khi sử dụng dịch vụ, đọc và đồng ý với %s của chúng tôi.</string>
@@ -8869,9 +8869,9 @@ Hãy thử dùng một ^3 nhanh hơn hoặc dùng ^4 này làm bộ nhớ di đ�
     <string name="structure_face_data_manage_delete_msg">Xóa dữ liệu khuôn mặt 3D</string>
     <string name="structure_face_data_suggestion_text">Hãy chắc chắn rằng tất cả bộ phận khuôn mặt của bạn được nhìn thấy rõ. Không đội nón, đeo kính mát hoặc các phụ kiện khác có thể che mặt bạn khi ghi dữ liệu khuôn mặt 3D. Hãy chắc chắn rằng khuôn mặt của bạn được chiếu sáng đều.</string>
     <string name="structure_face_data_suggestion_warning_text">Lưu ý: Sử dụng dữ liệu khuôn mặt 3D ít an toàn hơn so với sử dụng mật khẩu. Người hoặc đối tượng trông giống bạn có thể mở khóa thiết bị của bạn.</string>
-    <string name="structure_face_delete_data_dialog_msg">Không thể khởi chạy Camera và nhận xem trước. Thử lại.</string>
+    <string name="structure_face_delete_data_dialog_msg">Không thể khởi chạy Máy ảnh và nhận xem trước. Thử lại.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Thử lại</string>
-    <string name="structure_face_delete_data_dialog_title">Không thể khởi chạy Camera</string>
+    <string name="structure_face_delete_data_dialog_title">Không thể khởi chạy Máy ảnh</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">Không thể sử dụng tính năng này do pin yếu</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Pin phải ít nhất 5% để bắt đầu ghi.</string>
     <string name="structure_face_hardware_abnormal_btn">Tôi biết</string>
@@ -9409,7 +9409,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="uninstall_device_admin">Gỡ cài đặt ứng dụng</string>
     <string name="uninstall_dlg_msg">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="uninstall_dlg_title">Gỡ cài đặt ngay?</string>
-    <string name="uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
+    <string name="uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng hệ thống hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
     <string name="uninstall_protected_dlg_title">Gỡ cài đặt ứng dụng hệ thống</string>
     <string name="uninstall_text">Gỡ cài đặt</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu ứng dụng.</string>
@@ -9521,10 +9521,10 @@ Thao tác xóa phương thức khóa cũng sẽ xóa mẫu vân tay lưu trên t
     <string name="unused_apps_switch_summary">Loại bỏ quyền, xoá tệp tạm thời và dừng thông báo</string>
     <string name="update_new_version">Tìm thấy cập nhật mới</string>
     <string name="update_progress_for_updates">Đang cập nhật (%s)</string>
-    <string name="upload_debug_log_detail">Giúp cải thiện trải nghiệm sử dụng thiết bị MIUI bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng đến Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, độ ổn định hệ thống MIUI và ứng dụng, v.v...
-Dữ liệu bạn gửi sẽ chứa thông tin chung về thiết bị và cách bạn sử dụng (ví dụ: mức pin, hoạt động hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện thiết bị MIUI.
+    <string name="upload_debug_log_detail">Giúp cải thiện trải nghiệm sử dụng thiết bị bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng đến Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, độ ổn định hệ thống và ứng dụng, v.v...
+Dữ liệu bạn gửi sẽ chứa thông tin chung về thiết bị và cách bạn sử dụng (ví dụ: mức pin, hoạt động hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện thiết bị.
 Tắt tính năng này không ảnh hưởng đến khả năng thiết bị của bạn gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật hệ thống và bảo mật.</string>
-    <string name="upload_debug_log_summary">Chia sẻ dữ liệu để cải thiện MIUI</string>
+    <string name="upload_debug_log_summary">Chia sẻ dữ liệu để cải thiện hệ thống</string>
     <string name="upload_debug_log_title">Sử dụng và chẩn đoán</string>
     <string name="usage">Sử dụng</string>
     <string name="usage_access">Truy cập dữ liệu sử dụng</string>
@@ -9720,9 +9720,9 @@ hoặc tai nghe có jack cắm 3,5mm.</string>
     <string name="use_otg_file_transfers_summary">Sạc chậm 500mA và chuyển tập tin</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Kiến nghị quảng cáo cá nhân</string>
-    <string name="use_personalized_ad_service_for_global">Quảng cáo MIUI cá nhân</string>
+    <string name="use_personalized_ad_service_for_global">Quảng cáo cá nhân</string>
     <string name="use_personalized_ad_service_summary">Khi kiến nghị quảng cáo cá nhân tắt, bạn sẽ vẫn thấy số lượng quảng cáo tương tự như khi tính năng này được bật. Tuy nhiên, quảng cáo sẽ không còn phù hợp vì sẽ không dựa trên sở thích cá nhân của bạn.</string>
-    <string name="use_personalized_ad_service_summary_for_global">Quảng cáo sẽ vẫn hiển thị trong ứng dụng hệ thống MIUI sau khi tắt tính năng này, nhưng quảng cáo sẽ không được cá nhân hóa theo sở thích của bạn.</string>
+    <string name="use_personalized_ad_service_summary_for_global">Quảng cáo sẽ vẫn hiển thị trong ứng dụng hệ thống sau khi tắt tính năng này, nhưng quảng cáo sẽ không được cá nhân hóa theo sở thích của bạn.</string>
     <string name="use_privacy_password_immediate">Sử dụng</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
     <string name="use_system_preference">Sử dụng ưu tiên hệ thống (Mặc định)</string>
@@ -9801,7 +9801,7 @@ Chạm dấu cộng để thêm từ.</string>
     <string name="user_experience_program_title">Tham gia Chương trình Trải nghiệm Người dùng</string>
     <string name="user_image_choose_photo">Thư viện</string>
     <string name="user_image_photo_selector">Chọn ảnh</string>
-    <string name="user_image_take_photo">Camera</string>
+    <string name="user_image_take_photo">Máy ảnh</string>
     <string name="user_info_settings_title">Thông tin người dùng</string>
     <string name="user_installed_services_category_title">Ứng dụng đã tải xuống</string>
     <string name="user_list_title">Người dùng và tiểu sử</string>
@@ -9936,7 +9936,7 @@ Trong khi gọi thoại, bạn không thể sử dụng Internet và một số 
     <string name="volume_key_launch_camera_1"></string>
     <string name="volume_key_launch_camera_2"></string>
     <string name="volume_label">Âm lượng</string>
-    <string name="volume_launch_camera_summary">Bấm đúp phím "Giảm âm lượng" để mở Camera khi màn hình khóa</string>
+    <string name="volume_launch_camera_summary">Bấm đúp phím "Giảm âm lượng" để mở Máy ảnh khi màn hình khóa</string>
     <string name="volume_media_description">Nhạc, video, game và phương tiện khác</string>
     <string name="volume_media_mute">Tắt nhạc và phương tiện khác</string>
     <string name="volume_notification_description">Thông báo</string>
@@ -9945,7 +9945,7 @@ Trong khi gọi thoại, bạn không thể sử dụng Internet và một số 
     <string name="volume_restore_alert">Đặt lại tất cả mức âm lượng về cài đặt mặc định?</string>
     <string name="volume_ring_description">Nhạc chuông &amp; thông báo</string>
     <string name="volume_ring_mute">Tắt nhạc chuông và ẩn thông báo</string>
-    <string name="volume_system_description">Camera, chụp ảnh màn hình, phím và thông báo hệ thống</string>
+    <string name="volume_system_description">Máy ảnh, chụp ảnh màn hình, phím và thông báo hệ thống</string>
     <string name="volume_voice_description">Âm lượng cuộc gọi thoại</string>
     <string name="vonr_switch_title">Sử dụng VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Địa chỉ máy chủ DNS phải có dạng số cho VPN luôn bật</string>
@@ -10487,7 +10487,7 @@ Việc đặt mạng này là mạng ẩn sẽ không thay đổi các chế đ�
     <string name="wifi_property">Thuộc tính Wi-Fi</string>
     <string name="wifi_protection_on">Bật</string>
     <string name="wifi_protection_settings_title">Bảo vệ khỏi các yêu cầu dò Wi-Fi</string>
-    <string name="wifi_protection_tip">MIUI sẽ bảo vệ dữ liệu cá nhân của bạn khỏi các yêu cầu dò Wi-Fi đến từ các địa chỉ MAC ngẫu nhiên và trình dò Wi-Fi khi thiết bị của bạn tìm kiếm mạng Wi-Fi.</string>
+    <string name="wifi_protection_tip">Thiết bị sẽ bảo vệ dữ liệu cá nhân của bạn khỏi các yêu cầu dò Wi-Fi đến từ các địa chỉ MAC ngẫu nhiên và trình dò Wi-Fi khi thiết bị của bạn tìm kiếm mạng Wi-Fi.</string>
     <string name="wifi_quick_toggle_summary">Bật Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Đã lưu</string>
@@ -10559,21 +10559,21 @@ Chạm <b>Quay lạ</b>i để kết nối với mạng Wi-Fi khác.</string>
 bạn cũng có thể sử dụng mạng của người dùng khác.</string>
     <string name="wifi_share_connect">Kết nối</string>
     <string name="wifi_share_connected_summary">Bạn đã kết nối với mạng Wi-Fi công cộng được chia sẻ bởi người dùng khác.</string>
-    <string name="wifi_share_connected_title">MIUI đã chia sẻ Wi-Fi</string>
+    <string name="wifi_share_connected_title">Thiết bị đã chia sẻ Wi-Fi</string>
     <string name="wifi_share_current_network">Mạng hiện tại</string>
     <string name="wifi_share_know">Tôi biết</string>
     <string name="wifi_share_list_empty">Không tìm thấy mạng chia sẻ.</string>
     <string name="wifi_share_login">Chia sẻ mạng Wi-Fi</string>
-    <string name="wifi_share_login_summary">Nếu đây là mạng công cộng, bạn có thể chia sẻ với người dùng MIUI khác.</string>
-    <string name="wifi_share_notification_summary">MIUI đã kết nối bạn với mạng Wi-Fi công cộng.</string>
+    <string name="wifi_share_login_summary">Nếu đây là mạng công cộng, bạn có thể chia sẻ với người dùng khác.</string>
+    <string name="wifi_share_notification_summary">Thiết bị đã kết nối bạn với mạng Wi-Fi công cộng.</string>
     <string name="wifi_share_other_network">Mạng khác</string>
     <string name="wifi_share_qrcode_finish">Hoàn tất</string>
     <string name="wifi_share_qrcode_summary">Quét mã QR ở trên để chia sẻ.</string>
     <string name="wifi_share_qrcode_title">Chia sẻ mạng Wi-Fi</string>
     <string name="wifi_share_show_network">Hiển thị mạng</string>
-    <string name="wifi_share_summary1">Người dùng MIUI có thể chia sẻ mạng Wi-Fi công cộng (quán cà phê, nhà hàng, khách sạn...) với nhau.</string>
-    <string name="wifi_share_summary2">Khi người dùng MIUI khác chia sẻ mạng, bạn có thể kết nối trực tiếp với mạng đó mà không cần nhập mật khẩu.</string>
-    <string name="wifi_share_summary3">Bạn cũng có thể chia sẻ mạng Wi-Fi công cộng với người dùng MIUI khác.</string>
+    <string name="wifi_share_summary1">Người dùng có thể chia sẻ mạng Wi-Fi công cộng (quán cà phê, nhà hàng, khách sạn...) với nhau.</string>
+    <string name="wifi_share_summary2">Khi người dùng khác chia sẻ mạng, bạn có thể kết nối trực tiếp với mạng đó mà không cần nhập mật khẩu.</string>
+    <string name="wifi_share_summary3">Bạn cũng có thể chia sẻ mạng Wi-Fi công cộng với người dùng khác.</string>
     <string name="wifi_share_turn_off">Tắt</string>
     <string name="wifi_share_turn_on">Bật</string>
     <string name="wifi_share_upload">Chia sẻ</string>
