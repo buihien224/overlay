@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transparent_navigation_bar">Turn off Gboard bottom gap</string>
+    <string name="transparent_navigation_bar_summary">Remove gap between Gboard and navigation bar</string>
+</resources>
