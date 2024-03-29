@@ -11172,8 +11172,8 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="nfc_verbose_vendor_log_title">Nhật ký debug nhà cung cấp NFC chi tiết</string>
     <string name="nfc_snoop_log_summary">Bắt chi tiết gói tin NFC, có thể chứa thông tin riêng tư.</string>
     <string name="nfc_snoop_log_title">Nhật ký NFC NCI không lọc</string>
-    <string name="transparent_navigation_bar">Thanh điều hướng trong suốt</string>
-    <string name="transparent_navigation_bar_summary">Làm màu nền thanh điều hướng trở nên trong suốt mặc định</string>
+    <string name="transparent_navigation_bar">Tắt khoảng trống dưới cùng của Gboard</string>
+    <string name="transparent_navigation_bar_summary">Loại bỏ khoảng trống giữa Gboard và thanh điều hướng</string>
     <string name="contrast_high">Cao</string>
     <string name="contrast_medium">Trung bình</string>
     <string name="contrast_standard">Tiêu chuẩn</string>
