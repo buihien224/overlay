@@ -1084,4 +1084,7 @@ Hãy nghỉ ngơi!"</item>
 	<plurals name="title_virus_scan_model">
         <item quantity="other">%d virus hoặc ứng dụng nguy hiểm</item>
     </plurals>
+	<plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Bản ghi hành vi ứng dụng sẽ được lưu trữ trên thiết bị này trong %d ngày. Tắt tính năng này sẽ xóa tất cả bản ghi hành vi ứng dụng và không được kiến nghị.</item>
+	</plurals>
 </resources>
