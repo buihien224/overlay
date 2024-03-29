@@ -217,8 +217,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Tải lên tên và chi tiết ứng dụng</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Để phát hiện và vô hiệu virus hiệu quả hơn, chúng tôi sẽ tải lên tên và thuộc tính gói của ứng dụng để quét bằng công cụ đám mây.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary"><Data>Tính năng này được cung cấp bởi công cụ diệt virus của bên thứ ba. Để tìm hiểu thêm, hãy đọc <a href=\"%1$s\">Thỏa thuận Giấy phép</a> được cung cấp bởi bên thứ ba.</Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">"<Data>Khi bạn thực hiện quét bảo mật, mẫu thiết bị và kết quả quét sẽ được tải lên máy chủ %1$s và được sử dụng theo <a href=\"%2$s\">Điều khoản và Điều kiện</a> tương ứng.<br/><br/>Đọc và đồng ý với các điều khoản và điều kiện của %3$s trước khi thực hiện quét bảo mật.<br/><br/>Nếu bạn không 'không đồng ý tải dữ liệu lên máy chủ %4$s, bạn vẫn có thể sử dụng các nhận dạng virus được lưu trữ cục bộ trên thiết bị của mình.</Data>"</string>
+	<string name="antivirus_privacy_dialog_summary"><Data>Tính năng này được cung cấp bởi công cụ diệt virus của bên thứ ba. Để tìm hiểu thêm, hãy đọc &lt;&lt;a href=\"%1$s\">Thỏa thuận Giấy phép&lt;/a> được cung cấp bởi bên thứ ba.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Khi bạn thực hiện quét bảo mật, mẫu thiết bị và kết quả quét sẽ được tải lên máy chủ %1$s và được sử dụng theo &lt;a href=\"%2$s\">Điều khoản và Điều kiện&lt;/a> tương ứng.&lt;br/>&lt;br/>Đọc và đồng ý với các điều khoản và điều kiện của %3$s trước khi thực hiện quét bảo mật.&lt;br/>&lt;br/>Nếu bạn không không đồng ý tải dữ liệu lên máy chủ %4$s, bạn vẫn có thể sử dụng các nhận dạng virus được lưu trữ cục bộ trên thiết bị của mình."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Chính sách Riêng tư</string>
     <string name="antivirus_privacy_dialog_title">Chính sách Riêng tư</string>
     <string name="antivirus_privacy_dialog_title_kddi">Điều khoản và Điều kiện</string>
@@ -831,8 +831,8 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="bl_no_block_call">Không có cuộc gọi nào bị chặn.</string>
     <string name="bl_no_block_sms">Không có tin nhắn đã chặn.</string>
     <string name="blacklist_prefix_add_hint">Chặn tất cả các số bắt đầu bằng tiền tố này</string>
-    <string name="block_message_number">Tin nhắn: <font color=#5fab1b>%d</font></string>
-    <string name="block_phone_number">Cuộc gọi: <font color=#5fab1b>%d</font></string>
+    <string name="block_message_number">Tin nhắn: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">Cuộc gọi: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="blur_clipboard1">Bảo vệ bộ nhớ tạm</string>
     <string name="blur_clipboard2">Bảo vệ bộ nhớ tạm</string>
     <string name="blur_clipboard3">Bảo vệ bộ nhớ tạm thông minh</string>
@@ -1374,12 +1374,12 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="exit">Thoát</string>
     <string name="exit_dialog_exit">Thoát</string>
     <string name="exit_dialog_garbage_clean_message">Rác trên thiết bị của bạn đã hơn %s. Dọn dẹp rác?</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>Dọn dẹp có thể giải phóng <font color=#0099ff>%s</font> dung lượng lưu trữ. Dọn dẹp ngay?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Dọn dẹp có thể giải phóng &lt;font color=#0099ff>%s&lt;/font> dung lượng lưu trữ. Dọn dẹp ngay?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Dọn dẹp</string>
     <string name="exit_dialog_garbage_clean_title">Giải phóng dung lượng lưu trữ</string>
     <string name="exit_dialog_homepage_optimise_message">Điểm hiệu suất thiết bị thấp hơn 80 điểm. Tối ưu ngay?</string>
     <string name="exit_dialog_release_memory_positive_button">Đóng</string>
-    <string name="exit_dialog_release_memory_title_new"><Data>Tăng tốc thiết bị của bạn <font color=#0099ff>%s</font></Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Tăng tốc thiết bị của bạn &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Hơn 80% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
     <string name="exit_dialog_release_storage_message_new">Hơn %s lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
     <string name="exit_dialog_release_storage_positive_button">Giải phóng dung lượng</string>
@@ -1925,7 +1925,7 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_network_status_bad">Lỗi kết nối.</string>
     <string name="gb_new_feature">Tính năng mới</string>
     <string name="gb_operat_frequently">Không quá nhanh!</string>
-    <string name="gb_performace_guide_disable_desc"><Data>Không thể chuyển sang chế độ Cân bằng trong Tăng tốc trò chơi khi bật chế độ Hiệu suất trên toàn hệ thống. Bạn có thể thay đổi cài đặt pin trong Bảo mật.<br><a href=\"#\">Mở Bảo mật</a></Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Không thể chuyển sang chế độ Cân bằng trong Tăng tốc trò chơi khi bật chế độ Hiệu suất trên toàn hệ thống. Bạn có thể thay đổi cài đặt pin trong Bảo mật.&lt;br>&lt;a href=\"#\">Mở Bảo mật&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">Đã chuyển sang chế độ Hiệu suất. Thiết bị của bạn có thể nóng lên và tiêu thụ nhiều điện năng hơn.</string>
     <string name="gb_performace_tips_button">Chuyển</string>
     <string name="gb_performace_tips_title">Chuyển sang chế độ Hiệu suất để có trải nghiệm tốt hơn</string>
@@ -1942,7 +1942,7 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_predownload_dialog_cancel">Không, cảm ơn</string>
     <string name="gb_predownload_dialog_checked">Không hiển thị lại</string>
     <string name="gb_predownload_dialog_confirm">Bật</string>
-    <string name="gb_predownload_dialog_message_china"><Data>Nội dung cập nhật trò chơi này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với Wi-Fi và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.<br><br>Đọc và đồng ý với <a href=\"%1$s\">Tuyên bố cập nhật trong nền</a> trước khi sử dụng tính năng này.</Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>Nội dung cập nhật trò chơi này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với Wi-Fi và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.&lt;br>&lt;br>Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố cập nhật trong nền&lt;/a> trước khi sử dụng tính năng này.</Data></string>
     <string name="gb_predownload_dialog_title">Cập nhật nền hiện khả dụng</string>
     <string name="gb_predownload_message_new">Cập nhật trò chơi tương thích tự động khi không sử dụng thiết bị</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB nội dung cập nhật đã sẵn sàng trên thiết bị này. Bạn sẽ có thể sử dụng ngay khi phiên bản mới được phát hành.</string>
@@ -2101,7 +2101,7 @@ quan trọng khi chơi trò chơi"</string>
     <string name="gd_sidebar_edit_quick_title">Lối tắt</string>
     <string name="gd_sidebar_long_press_tips">Nhấn và giữ chỉ báo để di chuyển khi giữ thiết bị theo chiều dọc</string>
     <string name="gd_splite_screen_tips">Chia màn hình không hỗ trợ cửa sổ nổi</string>
-    <string name="gdpr_msg"><Data>Để có thể phát hiện rủi ro bảo mật và bảo vệ dữ liệu của bạn, chúng tôi cần thu thập lượng thông tin cần thiết về thiết bị của bạn. Đọc và đồng ý với <a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Chính sách Riêng tư</a> của chúng tôi trước khi sử dụng dịch vụ. Trong trường hợp bạn không cho phép chúng tôi thu thập thông tin đó, bạn vẫn có thể sử dụng ứng dụng, nhưng một số tính năng sẽ không khả dụng cho bạn. </Data></string>
+    <string name="gdpr_msg"><Data>Để có thể phát hiện rủi ro bảo mật và bảo vệ dữ liệu của bạn, chúng tôi cần thu thập lượng thông tin cần thiết về thiết bị của bạn. Đọc và đồng ý với &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng dịch vụ. Trong trường hợp bạn không cho phép chúng tôi thu thập thông tin đó, bạn vẫn có thể sử dụng ứng dụng, nhưng một số tính năng sẽ không khả dụng cho bạn. </Data></string>
     <string name="get_detail_by_click">Chạm để xem chi tiết</string>
     <string name="get_phone_num_fail">Số điện thoại không xác định</string>
     <string name="get_sys_info">Đang nhận thông tin…</string>
@@ -2202,10 +2202,10 @@ quan trọng khi chơi trò chơi"</string>
     <string name="gtb_dialog_btn_open">Bật</string>
     <string name="gtb_dialog_hint_smart_5g">Bạn có thể bật và tắt tính năng này trong Tăng tốc trò chơi > Cài đặt.</string>
     <string name="gtb_dialog_privacy_speed_message">Bạn sắp sử dụng Tăng tốc trò chơi Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>Tôi đã đọc và đồng ý với <a href=\"%1$s\">Chính sách Riêng tư</a> Tăng tốc Trò chơi Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Tăng tốc Trò chơi Xunyou.</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Tăng tốc trò chơi Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">Bạn sắp sử dụng Công cụ thay đổi giọng nói trò chơi Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>Tôi đã đọc và đồng ý với <a href=\"%1$s\">Chính sách Riêng tư</a> Công cụ thay đổi giọng nói Trò chơi Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Công cụ thay đổi giọng nói Trò chơi Xunyou.</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Công cụ thay đổi giọng nói trò chơi Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Mỗi khi Tăng tốc trò chơi phát hiện mạng 5G, sẽ ưu tiên kết nối thiết bị với mạng khả dụng tốt nhất để giảm độ trễ. Bật tính năng này ngay?</string>
     <string name="gtb_dialog_title_smart_5g">Tối ưu mạng 5G</string>
@@ -2269,7 +2269,7 @@ quan trọng khi chơi trò chơi"</string>
     <string name="gtb_timer">Hẹn giờ</string>
     <string name="gtb_voice_changer">Công cụ thay đổi giọng nói</string>
     <string name="gtb_wlan_speed_tips">Đang sử dụng Mi WiFi…</string>
-    <string name="guide_get_operator_error">"<font color='#33b4ff'><U>Sai nhà mạng?</U></font>"</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Sai nhà mạng?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">Nhà cung cấp hiện tại:</string>
     <string name="guide_quck_open">Bật</string>
     <string name="guide_second_text">Sau khi bạn thiết lập nhà cung cấp dịch vụ, chúng tôi sẽ giám sát việc sử dụng dữ liệu di động của bạn hàng ngày bằng cách gửi SMS miễn phí cho nhà cung cấp dịch vụ. Khi chúng tôi phát hiện bạn đã vượt quá giới hạn dữ liệu, bạn sẽ bị ngắt kết nối mạng và được thông báo.</string>
@@ -2630,8 +2630,8 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="mi_roaming">Chuyển vùng Mi</string>
     <string name="mi_service_app_detail">Chi tiết sử dụng dữ liệu</string>
     <string name="mi_service_traffic_detail">Chi tiết khuôn khổ</string>
-    <string name="mi_sim_link">"%1$s<br/><br/><font color='#ccffffff'><U>Nhấn nạp tiền để mở Mi Sim.</U></font>"</string>
-    <string name="mi_sim_link_custom">"%1$s<br/><br/><font color='#ccffffff'><U>%2$s</U></font>"</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Nhấn nạp tiền để mở Mi Sim.&lt;/U>&lt;/font>"</string>
+    <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mic_noise_reduction_mode_standard">Tiêu chuẩn</string>
     <string name="mic_noise_reduction_mode_ultimate">Chọn</string>
     <string name="mic_noise_reduction_voiceprint_desc">Chỉ giữ lại âm thanh từ người dùng được chỉ định</string>
@@ -3904,8 +3904,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_dialog_camera_message">Để bảo sự riêng tư của bạn, hệ thống không cho phép các ứng dụng sử dụng máy ảnh trong nền.</string>
     <string name="privacy_dialog_camera_title">Hạn chế sử dụng máy ảnh nền</string>
     <string name="privacy_dialog_content_part1">Chào mừng sử dụng Bảo mật! Ứng dụng này kiểm tra rác và virus trên thiết bị, cũng như cho phép bạn quản lý ứng dụng, kiểm soát việc sử dụng dữ liệu di động, chặn cuộc gọi và tin nhắn, và nhiều tiện ích khác.</string>
-    <string name="privacy_dialog_content_part2"><Data>Bảo mật cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ và có thể cải thiện các tính năng. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong <a href=\"%1$s\">Chính sách Riêng tư</a> của chúng tôi. Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật trong Cài đặt bất kỳ lúc nào.</Data></string>
-    <string name="privacy_dialog_content_part3"><Data>Đọc và đồng ý với <a href=\"%2$s\">Thỏa thuận Người dùng</a> và <a href=\"%1$s\">Chính sách Riêng tư</a> của chúng tôi trước khi sử dụng Bảo mật. Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn.</Data></string>
+    <string name="privacy_dialog_content_part2"><Data>Bảo mật cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ và có thể cải thiện các tính năng. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật trong Cài đặt bất kỳ lúc nào.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Đọc và đồng ý với &lt;a href=\"%2$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn.</Data></string>
     <string name="privacy_dialog_danger_mission_message">Android cho phép nhiều quyền có tính rủi ro cao (Ví dụ: quyền gửi thông báo đẩy cho bạn). Để bảo vệ quyền riêng tư, hệ thống sẽ hỏi bạn có cho phép hành động đó hay không và cung cấp tùy chọn hạn chế.</string>
     <string name="privacy_dialog_danger_mission_title">Quyền rủi ro cao</string>
     <string name="privacy_dialog_feedback">Phản hồi</string>
@@ -4011,7 +4011,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_revoke_dialog_title_cn">Chú ý</string>
     <string name="privacy_revoke_failed_dialog_content">Xảy ra lỗi máy chủ. Chờ một hoặc hai phút và thử lại.</string>
     <string name="privacy_revoke_failed_dialog_title">Không thể rút lại chấp thuận</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>Bạn sẽ không thể tiếp tục sử dụng %1$s trừ khi bạn đồng ý với phiên bản mới của Chính sách Riêng tư. Đồng ý với %2$s <a href=\"%3$s\">Chính sách Riêng tư</a> đã cập nhật ngay?</Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>Bạn sẽ không thể tiếp tục sử dụng %1$s trừ khi bạn đồng ý với phiên bản mới của Chính sách Riêng tư. Đồng ý với %2$s &lt;a href=\"%3$s\">Chính sách Riêng tư&lt;/a> đã cập nhật ngay?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Không thể sử dụng ứng dụng</string>
     <string name="privacy_revoke_title">Rút lại chấp thuận</string>
     <string name="privacy_risk_app">Ứng dụng nguy hiểm</string>
@@ -4114,7 +4114,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Che xem trước cho ứng dụng được hiển thị trong Gần đây</string>
     <string name="privacy_type_open">Mở</string>
     <string name="privacy_update_dialog_content_1">Chính sách Riêng tư %s đã được cập nhật:</string>
-    <string name="privacy_update_dialog_content_2"><Data>Đọc và đồng ý với phiên bản mới của <a href=\"%1$s\">Chính sách Riêng tư</a> trước khi bạn tiếp tục.</Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Đọc và đồng ý với phiên bản mới của &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> trước khi bạn tiếp tục.</Data></string>
     <string name="privacy_update_dialog_title">Cập nhật Chính sách Riêng tư</string>
     <string name="privacy_using_camera">Đang sử dụng máy ảnh</string>
     <string name="privacy_using_location">Đang truy cập vị trí</string>
@@ -4273,7 +4273,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="sd_insert_summary">Gắn thẻ SD</string>
     <string name="sd_mount">Lắp thẻ SD</string>
     <string name="sd_mount_summary" />
-    <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="section_clear_acc_item_title">%s. Nếu vẫn không đủ dung lượng, hãy sử dụng Dọn dẹp.</string>
@@ -4668,7 +4668,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="status_bar_network_flow_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Còn lại: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Tháng này: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-    <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: <font color=%2$s>%3$s</font></string>
+    <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   Số dư tài khoản:%1$s "</string>
     <string name="status_bar_network_flow_purchase">"   Mua >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Thiết lập kế hoạch dữ liệu >"</string>
@@ -4875,7 +4875,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">Tôi biết</string>
     <string name="system_anti_fraud_dialog_content">Dường như bạn vừa nhận được một cuộc gọi hoặc tin nhắn lừa đảo. Việc tiếp tục thanh toán này có thể gây ra tổn thất tài chính.</string>
-    <string name="system_anti_fraud_dialog_hint"><font = color=#747474>Nếu nhân viên dịch vụ khách hàng, nhà chức trách hoặc những người bạn có thể biết yêu cầu bạn hoàn tất thanh toán này, </font><font = color=#F22424>xác minh danh tính của họ trước khi tiếp tục.</font></string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Nếu nhân viên dịch vụ khách hàng, nhà chức trách hoặc những người bạn có thể biết yêu cầu bạn hoàn tất thanh toán này, &lt;/font>&lt;font = color=#F22424>xác minh danh tính của họ trước khi tiếp tục.&lt;/font></string>
     <string name="system_anti_fraud_dialog_image_txt">Bảo vệ chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_message">Bảo vệ chống lừa đảo</string>
     <string name="system_anti_fraud_dialog_title">Cảnh báo chống lừa đảo</string>
@@ -4887,11 +4887,11 @@ Rút lại chấp thuận ngay?"</string>
     <string name="system_permission_declare_agree">Đồng ý</string>
     <string name="system_permission_declare_analytics_declare">Chúng tôi mời bạn tham gia Chương trình Trải nghiệm Người dùng. Ứng dụng này cần kết nối Internet và sử dụng các quyền hoặc tính năng sau để thu thập số liệu thống kê nhằm cải thiện dịch vụ chúng tôi cung cấp. Chúng tôi thu thập dữ liệu ở đây chỉ cho mục đích thống kê và không được dùng để nhận dạng cá nhân bạn.</string>
     <string name="system_permission_declare_disagree">Không đồng ý</string>
-    <string name="system_permission_declare_double_link"><Data>Đọc và đồng ý với <a href=\"%1$s\">Thỏa thuận Người dùng</a> và <a href=\"%2$s\">Chính sách Riêng tư</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Chào mừng bạn sử dụng %1s! Ứng dụng này cho phép bạn sử dụng tính năng: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>Đọc và đồng ý với <a href=\"%1$s\">Thỏa thuận Người dùng</a> và <a href=\"%2$s\">Chính sách Riêng tư</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Đọc và đồng ý với <a href=\"%1$s\">Chính sách Riêng tư</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Đọc và đồng ý với <a href=\"%1$s\">Thỏa thuận Người dùng</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="system_permission_declare_no_say_no">Nếu bạn chọn không cấp các quyền yêu cầu hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này sẽ không thể hoạt động bình thường.</string>
     <string name="system_permission_declare_no_say_no_analytics">Nếu bạn không muốn cấp các quyền này, bạn có thể hủy tham gia trong Cài đặt > Cài đặt bổ sung > Riêng tư > Chương trình Trải nghiệm Người dùng.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Nếu bạn chọn không cấp các quyền yêu cầu hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của mình, ứng dụng này sẽ không thể hoạt động bình thường.</string>
@@ -4899,13 +4899,13 @@ Rút lại chấp thuận ngay?"</string>
     <string name="system_permission_declare_privacy_declare">Ứng dụng này cần kết nối internet và yêu cầu cấp quyền dưới đây để có thể làm việc bình thường:</string>
     <string name="system_permission_declare_privacy_no_network">Ứng dụng này cần các quyền sau để có thể làm việc bình thường:</string>
     <string name="system_permission_declare_privacy_no_permission">Ứng dụng này cần kết nối internet và thu thập dữ liệu cá nhân cần thiết để có thể làm việc bình thường.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>Đọc và đồng ý với <a href=\"%1$s\">Chính sách Riêng tư</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="system_permission_declare_revoke_system">Bạn có thể thoát ứng dụng này.</string>
     <string name="system_permission_declare_revoke_uninstallable">Bạn có thể đăng xuất, gỡ cài đặt ứng dụng hoặc hủy ủy quyền trong Bảo mật > Quản lý ứng dụng > Quyền > Quyền.</string>
     <string name="system_permission_declare_title">Chú ý</string>
     <string name="system_permission_declare_use_network">Kết nối mạng</string>
     <string name="system_permission_declare_use_network_no_permission">Kết nối mạng</string>
-    <string name="system_permission_declare_user_agreement"><Data>Đọc và đồng ý với <a href=\"%1$s\">Thỏa thuận Người dùng</a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
     <string name="system_permission_perm_optional">" (tùy chọn)"</string>
     <string name="system_permission_perm_read_mms">Đọc MMS</string>
@@ -4949,7 +4949,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="tc_sms_report_notify_get_timeout_body">Không có phản hồi. Xác nhận với nhà cung cấp rằng bạn nhập mã yêu cầu tin nhắn SMS chính xác.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Không thể đối chiếu sử dụng dữ liệu</string>
     <string name="tc_sms_report_receive_content">Nội dung SMS báo cáo sử dụng dữ liệu (Xác nhận số liệu thống kê sử dụng dữ liệu)</string>
-    <string name="tc_sms_report_receive_content_null">Giúp chúng tôi cải thiện tính năng này!<br/>Bằng cách:<br/>1. Vào Kiểm tra lệnh tin nhắn SMS và Số người nhận.<br/>2. Chạm Nhận SMS mẫu.<br/>3. Chờ để nhận tin nhắn SMS từ nhà cung cấp.<br/>4. Chạm Tải lên.</string>
+    <string name="tc_sms_report_receive_content_null">Giúp chúng tôi cải thiện tính năng này!&lt;br/>Bằng cách:&lt;br/>1. Vào Kiểm tra lệnh tin nhắn SMS và Số người nhận.&lt;br/>2. Chạm Nhận SMS mẫu.&lt;br/>3. Chờ để nhận tin nhắn SMS từ nhà cung cấp.&lt;br/>4. Chạm Tải lên.</string>
     <string name="tc_sms_report_receive_num">Số người nhận</string>
     <string name="tc_sms_report_send_num">Số điện thoại nhà cung cấp #</string>
     <string name="tc_sms_report_summary">Giúp chúng tôi cải thiện tính năng này bằng cách gửi một báo cáo khi thông tin dữ liệu sử dụng của bạn là không chính xác hoặc bị lỗi.</string>
@@ -5178,7 +5178,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
     <string name="traffic_limit_input">Giới hạn dữ liệu (bắt buộc)</string>
     <string name="traffic_none">Không</string>
-    <string name="traffic_over_purchase_link">"Bạn đã đạt đến giới hạn sử dụng dữ liệu.<br/>Nếu bạn vượt quá giới hạn dữ liệu mà bạn đăng ký, nhà mạng sẽ tính phí bổ sung.<br/><br/><font color='#ccffffff'><U>Chạm để mua thêm lưu lượng.</U></font>"</string>
+    <string name="traffic_over_purchase_link">"Bạn đã đạt đến giới hạn sử dụng dữ liệu.&lt;br/>Nếu bạn vượt quá giới hạn dữ liệu mà bạn đăng ký, nhà mạng sẽ tính phí bổ sung.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Chạm để mua thêm lưu lượng.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">Chưa lắp thẻ SIM</string>
     <string name="traffic_purchase_body">Chạm để mua thêm lưu lượng.</string>
     <string name="traffic_remind">Cảnh báo sử dụng dữ liệu</string>
@@ -5650,7 +5650,6 @@ Hãy thử nâng độ phân giải!"</string>
      <string name="pp_privacy_lab_blur_location">Vị trí gần đúng</string>
      <string name="pp_privacy_lab_blur_location_summary">Cá nhân hóa thông tin vị trí của bạn cho phép các ứng dụng truy cập vào vị trí gần đúng của bạn</string>
      <string name="pp_privacy_lab_clipboard">Bảo vệ bảng nhớ tạm</string>
-     <string name="pp_privacy_lab_clipboard_summary">Cho phép OS quyết định xem ứng dụng có thể truy cập vào bảng nhớ tạm hay không và nhận thông báo khi có</string>
      <string name="pp_privacy_lab_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
      <string name="pp_privacy_lab_operator_introduction">Chú ý</string>
      <string name="pp_privacy_lab_operator_introduction_summary">Ứng dụng có thể lưu số điện thoại của bạn nếu số đó đã được lấy trước đó. Việc thay đổi quyền này sẽ không xóa các số điện thoại có được trước đó.</string>
@@ -5870,7 +5869,7 @@ Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạ
      <string name="ew_monitor_number_prex">KHÔNG. %s</string>
      <string name="ew_monitor_open">Tham gia</string>
      <string name="ew_monitor_privacy_revoke_title">Rút lại sự đồng ý với Chính sách quyền riêng tư của người theo dõi động đất</string>
-     <string name="ew_monitor_read_privacy"><Data>"Tôi đã đọc và đồng ý với <a href=\"%1$s\"&gt;Chính sách quyền riêng tư</a&gt;."</Data></string>
+     <string name="ew_monitor_read_privacy"><Data>"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách quyền riêng tư&lt;/a&gt;."</Data></string>
      <string name="ew_monitor_share">Chia sẻ</string>
      <string name="ew_monitor_slogan">Tham gia trận động đất của chúng tôi
 chương trình giám sát</string>
@@ -6029,7 +6028,7 @@ tình nguyện viên</string>
      <string name="warningcenter_policeassist_open_btn">Bật</string>
      <string name="warningcenter_policeassist_open_content">Tự động gửi thông tin vị trí của bạn cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122.</string>
      <string name="warningcenter_policeassist_open_title">Chia sẻ vị trí của bạn với cảnh sát trong các cuộc gọi khẩn cấp</string>
-     <string name="warningcenter_policeassist_privacy"><Data>"Tôi đã đọc và đồng ý với <a href="%1$s"&gt;Thỏa thuận người dùng</a&gt; và <a href="%2$s"&gt;Chính sách quyền riêng tư</a&gt;."</Data></string>
+     <string name="warningcenter_policeassist_privacy"><Data>"Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách quyền riêng tư&lt;/a&gt;."</Data></string>
      <string name="warningcenter_policeassist_title">Vị trí khẩn cấp</string>
      <string name="warningcenter_smarthome">Mi Home</string>
      <string name="warningcenter_title">Trung tâm cảnh báo</string>
@@ -6466,8 +6465,8 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="alarm_setting_title">Cài đặt đồng hồ báo thức lì xì</string>
      <string name="app_right">Được sản xuất chính thức bởi Tập đoàn Xiaomi</string>
      <string name="best_warning_dialog_button">Tôi biết</string>
-     <string name="best_warning_dialog_message">"Nhắc nhở ấm áp: Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn bấm nhanh quá hoặc lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mọi lúc, <font color= "#F30018">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động</font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Vì vậy, đôi khi, bạn có thể kiểm soát nhịp điệu bằng cách giơ tay và lấy lì xì có nhiều hương vị hơn. Lì xì nào cũng được nhưng đừng tham lam ~"</string>
-     <string name="best_warning_dialog_message1">"Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn nhanh quá và lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mỗi lần, <font color="#F22424 ">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động</font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Do đó , đôi khi, bạn có thể điều khiển nhịp điệu bằng cách giơ tay lên cao và chộp lấy lì xì có nhiều hương vị hơn. Lì xì tuy tốt nhưng không thể tham lam được~~"</string>
+     <string name="best_warning_dialog_message">"Nhắc nhở ấm áp: Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn bấm nhanh quá hoặc lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mọi lúc, &lt;font color= "#F30018">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Vì vậy, đôi khi, bạn có thể kiểm soát nhịp điệu bằng cách giơ tay và lấy lì xì có nhiều hương vị hơn. Lì xì nào cũng được nhưng đừng tham lam ~"</string>
+     <string name="best_warning_dialog_message1">"Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn nhanh quá và lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mỗi lần, &lt;font color="#F22424 ">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Do đó , đôi khi, bạn có thể điều khiển nhịp điệu bằng cách giơ tay lên cao và chộp lấy lì xì có nhiều hương vị hơn. Lì xì tuy tốt nhưng không thể tham lam được~~"</string>
      <string name="best_warning_dialog_title">Nhắc nhở ấm áp</string>
      <string name="business_have_hongbao">Một lì xì từ %1$s</string>
      <string name="business_lucky_warning">Lì xì dành cho doanh nghiệp</string>
@@ -6746,9 +6745,6 @@ Sự kiện lì xì lễ hội mùa xuân, đừng bỏ lỡ mọi lì xì nào"
     <string name="app_behavior_warning_audio_title">%1s đang ghi âm trong nền</string>
     <string name="app_behavior_warning_content">Kết thúc quá trình này nếu bạn không cho phép</string>
     <string name="app_behavior_warning_location_title">%1s đang truy cập vị trí của bạn</string>
-	<string name="app_manager_default_close_summary">Chưa đặt mặc định.</string>
-    <string name="app_manager_default_open_summary">Bạn đã chọn khởi chạy ứng dụng này mặc định để thực hiện một vài thao tác.</string>
-    <string name="app_manager_default_open_title">Xóa mặc định</string>
 	<string name="app_manager_disable_dlg_text">Nếu bạn tắt ứng dụng này, những ứng dụng khác có thể không hoạt động bình thường.</string>
 	<string name="app_manager_install_other_app">Cài đặt ứng dụng từ nguồn không xác định</string>
 	<string name="app_manager_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
@@ -6862,7 +6858,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="terminal_privacy_ability_voice_summary">Lệnh bằng giọng nói và phụ đề thông minh</string>
     <string name="terminal_privacy_instruction">Bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu trữ trên thiết bị này thay vì được tải lên đám mây</string>
     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
-	<string name="terms_and_conditions_content"><Data>"Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Nó sẽ thông báo cho bạn về trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu. <br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. <br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: <br>• Thông tin vị trí: <br>Để truy cập vị trí của bạn và cung cấp cảnh báo động đất chính xác. <br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. <br>Bạn phải đọc và đồng ý với <a href=%s>Chính sách quyền riêng tư</a> của chúng tôi trước khi sử dụng tính năng này."</Data></string>
+	<string name="terms_and_conditions_content"><Data>"Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Nó sẽ thông báo cho bạn về trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. &lt;br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp cảnh báo động đất chính xác. &lt;br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. &lt;br>Bạn phải đọc và đồng ý với &lt;a href=%s>Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này."</Data></string>
 	<string name="weChat_not_found">Phiên bản ứng dụng của bạn quá thấp hoặc chưa được cài đặt</string>
 	<string name="ad_text_adx">Quảng cáo</string>
     <string name="ad_text_btn_cancel">Hủy</string>
@@ -6876,5 +6872,4 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
 	<string name="add_auto_task_desktop_icon">Thêm phím tắt vào màn hình chính</string>
     <string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
     <string name="group_head_data_ai_clipboard_desc">Cho phép hệ thống quyết định xem ứng dụng có thể truy cập các mục trong bộ nhớ tạm hay không</string>
-    <string name="auto_task_allow_suggestion">Đề xuất nhiệm vụ thông minh</string>
 </resources>
