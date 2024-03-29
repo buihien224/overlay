@@ -133,7 +133,7 @@
         <item quantity="other">Đang bảo vệ %d ứng dụng</item>
     </plurals>
     <plurals name="card_uninstall_title">
-        <item quantity="other"><Data>&lt;Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
+        <item quantity="other"><Data><Bạn có thể gỡ cài đặt <font color=#F22424>%d</font> ứng dụng</Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
@@ -404,7 +404,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">Tính năng Tăng tốc mạng sau %d ngày sẽ hết hạn. Hãy gia hạn để hạn chế ảnh hưởng đến trải nghiệm sử dụng.</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &lt;font color='#ff0000'>%d:&lt;/font> ứng dụng"</item>
+        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho <font color='#ff0000'>%d:</font> ứng dụng"</item>
     </plurals>
     <plurals name="not_added_apps_count">
         <item quantity="other">%d ứng dụng chưa được thêm</item>
@@ -1011,7 +1011,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%d số</item>
     </plurals>
     <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> phân mảnh</item>
+        <item quantity="other"><big><big><big><big><big><big>%s</big></big></big></big></big></big> phân mảnh</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
@@ -1026,7 +1026,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%1$d mục an toàn</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="other"><Data>&lt;Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
+        <item quantity="other"><Data><Cập nhật <font color=#F22424>%d</font> ứng dụng</Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Đã xóa %d virus</item>
@@ -1065,9 +1065,5 @@ Hãy nghỉ ngơi!"</item>
 	<plurals name="wakepath_allow_start_app_count">
          <item quantity="other">%s ứng dụng</item>
          <item quantity="one">%s ứng dụng</item>
-    </plurals>
-    <plurals name="app_manager_updater_title">
-        <item quantity="one">Cập nhật %d ứng dụng</item>
-        <item quantity="other">Cập nhật %d ứng dụng</item>
     </plurals>
 </resources>
