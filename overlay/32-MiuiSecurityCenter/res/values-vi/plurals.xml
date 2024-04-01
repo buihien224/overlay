@@ -133,7 +133,7 @@
         <item quantity="other">Đang bảo vệ %d ứng dụng</item>
     </plurals>
     <plurals name="card_uninstall_title">
-        <item quantity="other"><Data>&lt;Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
+        <item quantity="other"><Data>Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng</Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
@@ -216,7 +216,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">Quay lại thời khắc quan trọng tự động và tạo video khoảnh khắc nổi bật. Bạn có thể chọn lưu lại vĩnh viễn sau mỗi lượt chơi. Video không được lưu sẽ bị xóa tự động sau %1$d ngày.</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
-        <item quantity="other">Đã lưu %d quay video AI đến Game Turbo</item>
+        <item quantity="other">Đã lưu %d quay video AI đến Tăng tốc trò chơi</item>
     </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d giây</item>
@@ -404,7 +404,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">Tính năng Tăng tốc mạng sau %d ngày sẽ hết hạn. Hãy gia hạn để hạn chế ảnh hưởng đến trải nghiệm sử dụng.</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &lt;font color='#ff0000'>%d:&lt;/font> ứng dụng"</item>
+        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho <font color='#ff0000'>%d:</font> ứng dụng"</item>
     </plurals>
     <plurals name="not_added_apps_count">
         <item quantity="other">%d ứng dụng chưa được thêm</item>
@@ -1011,7 +1011,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%d số</item>
     </plurals>
     <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> phân mảnh</item>
+        <item quantity="other"><big><big><big><big><big><big>%s</big></big></big></big></big></big> phân mảnh</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
@@ -1026,7 +1026,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%1$d mục an toàn</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="other"><Data>&lt;Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;</Data></item>
+        <item quantity="other"><Data>Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng</Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Đã xóa %d virus</item>
@@ -1066,8 +1066,25 @@ Hãy nghỉ ngơi!"</item>
          <item quantity="other">%s ứng dụng</item>
          <item quantity="one">%s ứng dụng</item>
     </plurals>
-    <plurals name="app_manager_updater_title">
-        <item quantity="one">Cập nhật %d ứng dụng</item>
+	<plurals name="app_manager_updater_title">
         <item quantity="other">Cập nhật %d ứng dụng</item>
     </plurals>
+	<plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Thành viên Tăng tốc trò chơi sẽ hết hạn sau %d ngày.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Thành viên Tăng tốc trò chơi sẽ hết hạn sau %d ngày. Gia hạn để tận hưởng trải nghiệm chơi game liền mạch.</item>
+    </plurals>
+	<plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Tôi biết (%d)</item>
+    </plurals>
+	<plurals name="storage_compact_warning">
+        <item quantity="other">Đang sửa %1$d quyền</item>
+    </plurals>
+	<plurals name="title_virus_scan_model">
+        <item quantity="other">%d virus hoặc ứng dụng nguy hiểm</item>
+    </plurals>
+	<plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Bản ghi hành vi ứng dụng sẽ được lưu trữ trên thiết bị này trong %d ngày. Tắt tính năng này sẽ xóa tất cả bản ghi hành vi ứng dụng và không được kiến nghị.</item>
+	</plurals>
 </resources>
