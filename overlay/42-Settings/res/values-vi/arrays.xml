@@ -13,10 +13,10 @@
         <item>Lớn</item>
     </string-array>
     <string-array name="ai_key_item_name">
-        <item>Trò chuyện với Google Assistant</item>
+        <item>Trò chuyện với Trợ lý Google</item>
         <item>Mở Google Tìm kiếm</item>
-        <item>Mở camera sau</item>
-        <item>Mở camera trước</item>
+        <item>Mở máy ảnh sau</item>
+        <item>Mở máy ảnh trước</item>
         <item>Mở ứng dụng trước</item>
         <item>Bật đèn Flash</item>
         <item>Bật chế độ Đọc sách</item>
@@ -471,31 +471,6 @@
         <item>Mã PIN</item>
         <item>Mật khẩu</item>
     </string-array>
-    <array name="click_bottom">
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom02</reference>
-        <reference>@drawable/clickbottom03</reference>
-        <reference>@drawable/clickbottom04</reference>
-        <reference>@drawable/clickbottom05</reference>
-        <reference>@drawable/clickbottom06</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom08</reference>
-        <reference>@drawable/clickbottom03</reference>
-        <reference>@drawable/clickbottom02</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>Màu tăng cường</item>
         <item>Màu tự nhiên giống như nhìn bằng mắt</item>
@@ -601,10 +576,6 @@
         <item>Chỉ kiểm tra nội dung DRM</item>
         <item>Luôn kiểm tra</item>
     </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
         <item>@string/input_method_selector_always_show_title</item>
@@ -662,43 +633,6 @@
         <item>Sau 5 phút</item>
         <item>Không bao giờ</item>
     </string-array>
-    <array name="long_press">
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom02</reference>
-        <reference>@drawable/clickbottom03</reference>
-        <reference>@drawable/clickbottom04</reference>
-        <reference>@drawable/clickbottom05</reference>
-        <reference>@drawable/clickbottom06</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom07</reference>
-        <reference>@drawable/clickbottom03</reference>
-        <reference>@drawable/clickbottom02</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-        <reference>@drawable/clickbottom01</reference>
-    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>Ngắn</item>
         <item>Trung bình</item>
@@ -827,7 +761,7 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>Cài đặt</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
+        <item>Cổ điển</item>
         <item>Android</item>
     </string-array>
     <string-array name="organized_locales">
@@ -906,97 +840,6 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>Loại bỏ tiếng ồn mic đơn</item>
         <item>Loại bỏ tiếng ồn mic đôi</item>
     </string-array>
-    <array name="power_click">
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick02</reference>
-        <reference>@drawable/powerclick03</reference>
-        <reference>@drawable/powerclick04</reference>
-        <reference>@drawable/powerclick05</reference>
-        <reference>@drawable/powerclick06</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-    </array>
-    <array name="power_double_click">
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick02</reference>
-        <reference>@drawable/powerclick03</reference>
-        <reference>@drawable/powerclick04</reference>
-        <reference>@drawable/powerclick05</reference>
-        <reference>@drawable/powerclick06</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick02</reference>
-        <reference>@drawable/powerclick03</reference>
-        <reference>@drawable/powerclick04</reference>
-        <reference>@drawable/powerclick05</reference>
-        <reference>@drawable/powerclick06</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-    </array>
-    <array name="power_long_press">
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick02</reference>
-        <reference>@drawable/powerclick03</reference>
-        <reference>@drawable/powerclick04</reference>
-        <reference>@drawable/powerclick05</reference>
-        <reference>@drawable/powerclick06</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick07</reference>
-        <reference>@drawable/powerclick03</reference>
-        <reference>@drawable/powerclick02</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-        <reference>@drawable/powerclick01</reference>
-    </array>
     <string-array name="power_mode_entries">
         <item>Hiệu suất</item>
         <item>Cân bằng</item>
@@ -1250,31 +1093,6 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>Chế độ tiết kiệm điện</item>
         <item>Trạng thái xử lý</item>
     </string-array>
-    <array name="three_drop">
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop01</reference>
-        <reference>@drawable/threedrop02</reference>
-        <reference>@drawable/threedrop03</reference>
-        <reference>@drawable/threedrop04</reference>
-        <reference>@drawable/threedrop05</reference>
-        <reference>@drawable/threedrop06</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-        <reference>@drawable/threedrop07</reference>
-    </array>
     <string-array name="time_format_entries">
         <item>12 giờ 1:00 CH</item>
         <item>24 giờ 13:00</item>
@@ -1384,10 +1202,6 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>Thời gian chờ</item>
         <item>Không thành công</item>
     </string-array>
-    <string-array name="wapi_psk_type">
-        <item>@string/wapi_psk_type_ascii</item>
-        <item>@string/wapi_psk_type_hex</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Bắt đầu dịch vụ…</item>
         <item>Dịch vụ đã bắt đầu</item>
@@ -1480,12 +1294,6 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>Không có</item>
         <item>Thủ công</item>
         <item>Tự động định cấu hình proxy</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Kém</item>
