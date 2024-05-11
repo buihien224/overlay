@@ -3575,7 +3575,7 @@ Nếu không thanh toán đúng hạn, tổ chức tín dụng có thể khoá t
     <string name="fingerprint_apply_to_privacy_password">Mật khẩu bảo vệ cá nhân</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Mật khẩu bảo vệ cá nhân bảo vệ tin nhắn, ảnh, tập tin, ghi chú và ứng dụng.</string>
     <string name="fingerprint_base_title">Vân tay %s</string>
-    <string name="fingerprint_delete_title">Xoá '%1$s'</string>
+    <string name="fingerprint_delete_title">Xoá \'%1$s\'</string>
     <string name="fingerprint_double_tap">Chạm đúp cảm biến vân tay</string>
     <string name="fingerprint_enroll_button_add">Thêm vân tay khác</string>
     <string name="fingerprint_enroll_button_next">Tiếp theo</string>
@@ -3707,7 +3707,7 @@ Nếu không thanh toán đúng hạn, tổ chức tín dụng có thể khoá t
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">h 'giờ'</string>
+    <string name="fmt_time_12hour">h \'giờ\'</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -3715,16 +3715,16 @@ Nếu không thanh toán đúng hạn, tổ chức tín dụng có thể khoá t
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">H 'giờ'</string>
+    <string name="fmt_time_24hour">H \'giờ\'</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">S'mili giây'</string>
-    <string name="fmt_time_minute">m'phút'</string>
-    <string name="fmt_time_minute_second">m'phút' s'giây'</string>
-    <string name="fmt_time_minute_second_millis">m'phút' s.S'giây'</string>
-    <string name="fmt_time_second">s'giây'</string>
-    <string name="fmt_time_second_millis">s.S'giây'</string>
+    <string name="fmt_time_millis">S\'mili giây\'</string>
+    <string name="fmt_time_minute">m\'phút\'</string>
+    <string name="fmt_time_minute_second">m\'phút\' s\'giây\'</string>
+    <string name="fmt_time_minute_second_millis">m\'phút\' s.S\'giây\'</string>
+    <string name="fmt_time_second">s\'giây\'</string>
+    <string name="fmt_time_second_millis">s.S\'giây\'</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -4832,8 +4832,8 @@ Mở Đám mây Xiaomi và khôi phục các mục từ đó.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Nếu bạn nhập hình mở khóa làm việc lần này không chính xác, hồ sơ làm việc và dữ liệu được liên kết sẽ bị xóa khỏi thiết bị này.</string>
     <string name="lock_profile_wipe_warning_content_pin">Nếu bạn nhập mã PIN làm việc lần này không chính xác, hồ sơ làm việc và dữ liệu được liên kết sẽ bị xóa khỏi thiết bị này.</string>
     <string name="lock_screen_action">Các mục hiển thị trên Màn hình khóa sau khi kéo xuống</string>
-    <string name="lock_screen_after_fold_screen_summary">The device will be locked after you fold it, except for the cases when you're using the front máy ảnh or speaker.</string>
-    <string name="lock_screen_after_fold_screen_title">Fold to lock</string>
+    <string name="lock_screen_after_fold_screen_summary">Thiết bị sẽ bị khóa sau khi bạn gập lại, trừ trường hợp bạn đang sử dụng máy ảnh trước hoặc loa.</string>
+    <string name="lock_screen_after_fold_screen_title">Gập để khóa</string>
     <string name="lock_screen_auto_pin_confirm_summary">Tự động mở khoá nếu bạn nếu nhập đúng mã PIN gồm từ 6 chữ số trở lên. Cách này sẽ kém bảo mật hơn một chút so với việc nhấn Enter để xác nhận.</string>
     <string name="lock_screen_auto_pin_confirm_title">Mở khoá bằng cách tự động xác nhận</string>
     <string name="lock_screen_display_category_name">Màn hình khóa</string>
@@ -7609,7 +7609,6 @@ Nếu bạn muốn chia sẻ thiết bị của mình với người khác một
     <string name="search_history_description">Lịch sử tìm kiếm</string>
     <string name="search_home_key">Trang chính;Phím trang chính</string>
     <string name="search_input_hint">Tìm kiếm cài đặt</string>
-    <string name="search_input_txt_na">&lt;font color='#ff0000'&gt;%s&lt;/font&gt;</string>
     <string name="search_key_settings_title">Phím;Nút</string>
     <string name="search_lab_functions_title">Tính năng Beta;Chức năng Phòng thí nghiệm</string>
     <string name="search_label">Cài đặt</string>
@@ -10107,7 +10106,7 @@ Hãy xem chính sách quyền riêng tư của nhà mạng để biết thông t
     <string name="wifi_calling_turn_on">Bật tính năng Gọi qua Wi‑Fi</string>
     <string name="wifi_cancel">Hủy</string>
     <string name="wifi_cant_connect">Không thể kết nối</string>
-    <string name="wifi_cant_connect_to_ap">Không thể kết nối với '%1$s'</string>
+    <string name="wifi_cant_connect_to_ap">Không thể kết nối với \'%1$s\'</string>
     <string name="wifi_cellular_data_fallback_summary">Sử dụng dữ liệu di động khi Wi‑Fi không truy cập được Internet. Bạn có thể mất thêm phí sử dụng dữ liệu.</string>
     <string name="wifi_cellular_data_fallback_title">Tự động chuyển sang dữ liệu di động</string>
     <string name="wifi_certificate">Chứng chỉ</string>
@@ -11060,7 +11059,7 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="chinese_symbol_animals_sheep">Mùi</string>
     <string name="chinese_symbol_animals_snake">Tị</string>
     <string name="chinese_symbol_animals_tiger">Dần</string>
-    <string name="chip_text">Văn bản chip</string>
+    <string name="chip_text">Văn bản</string>
 	<string name="pre_install_app_browser">Trình duyệt</string>
     <string name="pre_install_app_camera">Máy ảnh</string>
     <string name="pre_install_app_gallery">Thư viện</string>

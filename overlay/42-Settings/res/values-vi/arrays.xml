@@ -1284,7 +1284,7 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!</item>
         <item>GTC</item>
         <item>SIM</item>
         <item>AKA</item>
-        <item>AKA'</item>
+        <item>AKA</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Sử dụng MAC ngẫu nhiên</item>
