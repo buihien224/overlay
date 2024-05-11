@@ -2,7 +2,7 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>Tùy chỉnh</item>
-        <item>Tiết kiệm pin MIUI</item>
+        <item>Tiết kiệm pin</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Ứng dụng hoạt động thường xuyên</item>
