@@ -841,17 +841,8 @@
     <string name="fmt_date_year">yyyy年</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h'時'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
     <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H'時'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ミリ秒'"</string>
     <string name="fmt_time_minute">"m'分'"</string>
     <string name="fmt_time_minute_second">"m'分's'秒'"</string>
