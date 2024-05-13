@@ -664,7 +664,6 @@ Sau khi chúng bị xoá, bạn sẽ cần thiết lập lại tính năng Mở 
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'giờ'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
@@ -672,7 +671,6 @@ Sau khi chúng bị xoá, bạn sẽ cần thiết lập lại tính năng Mở 
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'giờ'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'mili giây'"</string>
@@ -1830,8 +1828,6 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="status_bar">Thanh trạng thái</string>
     <string name="status_bar_airplane">Chế độ trên máy bay</string>
     <string name="status_bar_alarm">Báo thức</string>
-    <string name="status_bar_clock_date_format">"E, dd/M - e/N 'Â.L'"</string>
-    <string name="status_bar_clock_date_format_12">"E, dd/M - e/N 'Â.L'"</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
