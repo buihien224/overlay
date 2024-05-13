@@ -961,7 +961,7 @@ Dữ liệu tài nguyên bạn đang sử dụng trên thiết bị này sẽ đ
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Hãy đảm bảo rằng bạn có quyền rút lại sự đồng ý của mình.
 2. Việc bạn rút lại sự đồng ý lần này chỉ rút lại sự đồng ý của bạn đối với chính sách quyền riêng tư của chủ đề và sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm Xiaomi khác.
 3. Việc rút lại sự đồng ý của bạn đối với chính sách quyền riêng tư của chủ đề là một thao tác không thể đảo ngược. Trước khi rút, bạn nên tự sao lưu dữ liệu và thông tin liên quan. Để tránh hoạt động sai, vui lòng xác nhận lại xem có nên rút hay không trước khi rút. Dữ liệu sau sẽ bị xóa hoặc ẩn danh sau khi rút lại sự đồng ý (trừ khi luật pháp và quy định có quy định khác hoặc cơ quan quản lý yêu cầu khác) và không thể khôi phục được, vì vậy vui lòng vận hành một cách thận trọng: "</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Đối với tất cả dữ liệu đặt hàng thiết bị Xiaomi (bao gồm cả đơn hàng trả phí), bạn sẽ không thể sử dụng tài nguyên đã mua; [Chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Đối với tất cả dữ liệu đặt hàng của bạn thiết bị Xiaomi (bao gồm cả đơn hàng trả phí), bạn sẽ không thể sử dụng tài nguyên đã mua; [Chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]
 Dữ liệu về lượt thích, bộ sưu tập, mẹo, xếp hạng, nhận xét và theo dõi của bạn trên tất cả các thiết bị Xiaomi; [chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]
 Các chủ đề, hình nền, hình nền động, phông chữ, biểu tượng, nhạc chuông và các tài nguyên khác mà bạn tải xuống trên thiết bị này;
 Hồ sơ tìm kiếm, trạng thái ủy quyền, cài đặt và nội dung được lưu trong bộ nhớ đệm khác của bạn trên thiết bị này;
@@ -979,7 +979,7 @@ Dữ liệu tài nguyên bạn đang sử dụng trên thiết bị này sẽ đ
     <string name="privacy_remind_user_mode_content"><Data>Việc sử dụng tính năng này yêu cầu bạn phải đồng ý với "Chính sách quyền riêng tư". Chúng tôi đã giải thích trong "Chính sách quyền riêng tư" cách chúng tôi thu thập, sử dụng, tiết lộ, xử lý và lưu trữ thông tin bạn cung cấp khi sử dụng chủ đề. Vui lòng đọc và đồng ý với&lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Chính sách quyền riêng tư&lt;/a>&lt;/font> . </Data></string>
     <string name="privacy_remind_user_mode_title">Nhắc nhở ấm áp</string>
     <string name="privacy_revoke_agree_content">Thỏa thuận rút lại</string>
-    <string name="privacy_revoke_agree_content_1">1. Đối với tất cả dữ liệu đặt hàng thiết bị Xiaomi (bao gồm cả đơn đặt hàng trả phí), bạn sẽ không thể sử dụng các tài nguyên đã mua nữa; [chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]</string>
+    <string name="privacy_revoke_agree_content_1">1. Đối với tất cả dữ liệu đặt hàng trên thiết bị Xiaomi (bao gồm cả đơn đặt hàng trả phí), bạn sẽ không thể sử dụng các tài nguyên đã mua nữa; [chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]</string>
     <string name="privacy_revoke_agree_content_2">2. Dữ liệu về lượt thích, bộ sưu tập, phần thưởng, xếp hạng, nhận xét và theo dõi của bạn trên tất cả các thiết bị Xiaomi; [chỉ dành cho người dùng đã đăng nhập bằng tài khoản Xiaomi]</string>
     <string name="privacy_revoke_agree_content_5">5. Dữ liệu tài nguyên bạn đang sử dụng trên thiết bị này sẽ được khôi phục về hiệu ứng cổ điển. </string>
     <string name="privacy_revoke_agree_data_warning">Dữ liệu sau sẽ bị xóa hoặc ẩn danh sau khi rút lại sự đồng ý (trừ khi luật pháp và quy định có quy định khác hoặc cơ quan quản lý yêu cầu khác) và không thể khôi phục được, vui lòng thận trọng khi vận hành:</string>
@@ -1652,30 +1652,30 @@ Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Thêm vào trình chiếu trên màn hình chính</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Thêm vào trình chiếu màn hình khóa</string>
     <string name="wallpaper_loop_desc_all_walpaper">Thay đổi hình nền dễ dàng~</string>
-    <string name="wallpaper_loop_desc_desk_walpaper">Tận hưởng niềm vui khi tự động thay đổi màn hình chính</string>
+    <string name="wallpaper_loop_desc_desk_walpaper">Tận hưởng niềm vui khi tự động thay đổi hình nền màn hình chính</string>
     <string name="wallpaper_loop_desc_lock_walpaper">Tận hưởng niềm vui khi tự động thay đổi hình nền màn hình khóa</string>
     <string name="wallpaper_loop_interval_15min">15 phút</string>
     <string name="wallpaper_loop_interval_1d">1 ngày</string>
     <string name="wallpaper_loop_interval_1h">1 giờ</string>
-    <string name="wallpaper_loop_interval_desc">Đặt khoảng thời gian thay thế hình ảnh</string>
+    <string name="wallpaper_loop_interval_desc">Đặt khoảng thời gian hình nền trình chiếu</string>
     <string name="wallpaper_loop_interval_title">Tần suất thay đổi hình nền trình chiếu</string>
     <string name="wallpaper_loop_manage">Trình chiếu</string>
     <string name="wallpaper_loop_more_options">Cài đặt nâng cao</string>
     <string name="wallpaper_loop_my_desk_wallpaper">Quản lý màn hình của tôi</string>
     <string name="wallpaper_loop_my_lock_wallpaper">Quản lý màn hình khóa của tôi</string>
     <string name="wallpaper_loop_order_desc">Chọn thứ tự thay đổi hình nền trong trình chiếu</string>
-    <string name="wallpaper_loop_order_loop">Thay thế đơn hàng</string>
+    <string name="wallpaper_loop_order_loop">Thay thế lặp lại</string>
     <string name="wallpaper_loop_order_shuffle">Thay thế ngẫu nhiên</string>
     <string name="wallpaper_loop_order_title">Thứ tự thay thế hình nền</string>
     <string name="wallpaper_loop_title">Trình chiếu hình nền</string>
-    <string name="wallpaper_loop_title_desk_wallpaper">Trình chiếu màn hình chính</string>
-    <string name="wallpaper_loop_title_lock_walpaper">Trình chiếu hình nền màn hình khóa</string>
-    <string name="wallpaper_magic_mode_preview_tip">Xem trước hiệu ứng màn hình khóa</string>
+    <string name="wallpaper_loop_title_desk_wallpaper">Trình chiếu hình nền trên màn hình chính</string>
+    <string name="wallpaper_loop_title_lock_walpaper">Trình chiếu hình nền trên màn hình khóa</string>
+    <string name="wallpaper_magic_mode_preview_tip">Xem trước hiệu ứng hình nền màn hình khóa</string>
     <string name="wallpaper_no_favorite">Bạn không có bản ghi yêu thích nào</string>
     <string name="wallpaper_no_record">Chưa có mục nào ở đây.</string>
     <string name="wallpaper_online">Hình nền trực tuyến</string>
     <string name="wallpaper_online_no_more">Không có hình nền nào được đề xuất nữa</string>
-    <string name="wallpaper_online_tip">Nhận thêm nội dung chất lượng trực tuyến</string>
+    <string name="wallpaper_online_tip">Nhận thêm nội dung trực tuyến</string>
     <string name="wallpaper_scroll_type_tips">Cuộn trên màn hình chính</string>
     <string name="wallpaper_set_as_both">Đặt cả hai</string>
     <string name="wallpaper_set_as_both_large">Đặt cả hai bên trong</string>
