@@ -2108,14 +2108,10 @@ Dacă aveți întrebări, luați legătura cu %2$s."</string>
     <string name="status_bar">Bară de stare</string>
     <string name="status_bar_airplane">Mod Avion</string>
     <string name="status_bar_alarm">Alarmă</string>
-    <string name="status_bar_clock_date_format">E, dd MMM</string>
-    <string name="status_bar_clock_date_format_12">E, dd MMM</string>
     <string name="status_bar_clock_date_time_format">E, dd MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, dd MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 dd MMM"</string>
     <string name="status_bar_date_format_12">"E

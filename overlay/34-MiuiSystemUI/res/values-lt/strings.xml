@@ -2108,14 +2108,10 @@ Jei kyla klausimų, susisiekite su „%2$s“."</string>
     <string name="status_bar">Būsenos juosta</string>
     <string name="status_bar_airplane">Lėktuvo režimas</string>
     <string name="status_bar_alarm">Signalas</string>
-    <string name="status_bar_clock_date_format">"E, MMM d 'd.'"</string>
-    <string name="status_bar_clock_date_format_12">"E, MMM d 'd.'"</string>
     <string name="status_bar_clock_date_time_format">"H:mm MMM d 'd.', E"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">"MMMM d 'd.', EEEE"</string>
     <string name="status_bar_clock_date_weekday_format_12">"MMMM dd 'd.', EEEE"</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d 'd.'"</string>
     <string name="status_bar_date_format_12">"E

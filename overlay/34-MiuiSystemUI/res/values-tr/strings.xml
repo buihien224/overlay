@@ -2131,14 +2131,10 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="status_bar">Durum çubuğu</string>
     <string name="status_bar_airplane">Uçak modu</string>
     <string name="status_bar_alarm">Alarm</string>
-    <string name="status_bar_clock_date_format">d MMM, E</string>
-    <string name="status_bar_clock_date_format_12">d MMM, E</string>
     <string name="status_bar_clock_date_time_format">d MMM, E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">d MMM, E h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"d MMM
 E"</string>
     <string name="status_bar_date_format_12">"d MMM

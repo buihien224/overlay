@@ -2108,14 +2108,10 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="status_bar">상태 표시줄</string>
     <string name="status_bar_airplane">비행기 모드</string>
     <string name="status_bar_alarm">알람</string>
-    <string name="status_bar_clock_date_format">M월d일 E</string>
-    <string name="status_bar_clock_date_format_12">M월d일 E</string>
     <string name="status_bar_clock_date_time_format">M월d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월d일 E a h:mm</string>
     <string name="status_bar_clock_date_weekday_format">M월d일 EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">M월d일 EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"M월d일
 EEEE"</string>
     <string name="status_bar_date_format_12">"M월d일

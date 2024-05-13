@@ -2108,14 +2108,10 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="status_bar">"Barra d'estat"</string>
     <string name="status_bar_airplane">"Mode d'avió"</string>
     <string name="status_bar_alarm">Alarma</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

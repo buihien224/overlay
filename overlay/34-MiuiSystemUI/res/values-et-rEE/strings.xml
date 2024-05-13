@@ -521,14 +521,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">Kehtetu SIM-kaart</string>
     <string name="sim_state_locked_puk_dialog_message">Olete sisestanud vale PUK-koodi vähemalt %d korda. Teie SIM-kaart on nüüd kehtetu. Asendage see SIM-kaart uuega.</string>
     <string name="start_camera_error_try_again">Kaamerat ei õnnestunud käivitada. Proovi uuesti.</string>
-    <string name="status_bar_clock_date_format">E d. MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d. MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d. MMM</string>
     <string name="status_bar_clock_date_time_format_12">h.mm a, E, d. MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, d. MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d. MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d. MMM"</string>
     <string name="status_bar_date_format_12">"E

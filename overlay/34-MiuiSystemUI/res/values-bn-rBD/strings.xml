@@ -521,14 +521,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">ভুল সিম কার্ড</string>
     <string name="sim_state_locked_puk_dialog_message">আপনি ভুল PUK কোড অনতত %d বার লিখেছেন।আপনার সিম কার্ড এখন আর কাজ করবে না।অন্য একটি সিম কার্ড লাগান।</string>
     <string name="start_camera_error_try_again">ক্য়ামেরা লঞ্চ করা যাচ্ছে না। আবার চেষ্টা করুন।</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

@@ -2108,14 +2108,10 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="status_bar">Állapotsor</string>
     <string name="status_bar_airplane">Repülős üzemmód</string>
     <string name="status_bar_alarm">Ébresztés</string>
-    <string name="status_bar_clock_date_format">MMM. d., E</string>
-    <string name="status_bar_clock_date_format_12">MMM. d., E</string>
     <string name="status_bar_clock_date_time_format">H:mm MMM. d., E.</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, MMM. d., E.</string>
     <string name="status_bar_clock_date_weekday_format">MMMM dd., EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">MMMM dd., EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"MMM. d.
 E"</string>
     <string name="status_bar_date_format_12">"MMM. d.

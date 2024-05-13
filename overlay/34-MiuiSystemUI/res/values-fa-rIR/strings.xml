@@ -521,14 +521,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">سیم‌کارت نامعتبر است</string>
     <string name="sim_state_locked_puk_dialog_message">شما حداقل %d بار کد PUK را اشتباه وارد کرده‌اید. سیم‌کارت شما اکنون نامعتبر است. این سیم‌کارت را با سیم‌کارتی دیگر جایگزین کنید.</string>
     <string name="start_camera_error_try_again">دوربین اجرا نشد. دوباره تلاش کنید.</string>
-    <string name="status_bar_clock_date_format">E، d MMM</string>
-    <string name="status_bar_clock_date_format_12">E، d MMM</string>
     <string name="status_bar_clock_date_time_format">E، d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE، dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE، dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

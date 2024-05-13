@@ -2102,14 +2102,10 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="status_bar">ステータスバー</string>
     <string name="status_bar_airplane">機内モード</string>
     <string name="status_bar_alarm">アラーム</string>
-    <string name="status_bar_clock_date_format">M月d日 (E)</string>
-    <string name="status_bar_clock_date_format_12">M月d日 (E)</string>
     <string name="status_bar_clock_date_time_format">M月d日 (E) H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M月d日 (E) a h:mm</string>
     <string name="status_bar_clock_date_weekday_format">M月d日 EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">M月d日 EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"M月d日
 EEEE"</string>
     <string name="status_bar_date_format_12">"M月d日

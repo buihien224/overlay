@@ -521,14 +521,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">SIM txartel baliogabea</string>
     <string name="sim_state_locked_puk_dialog_message">PUK kode okerra sartu duzu gutxienez %d aldiz. SIM txartela baliogabetuta dago. Ordezkatu SIM txartel hau beste batekin.</string>
     <string name="start_camera_error_try_again">Ezin izan da Kamera abiarazi. Saiatu berriro.</string>
-    <string name="status_bar_clock_date_format">MMM d, E</string>
-    <string name="status_bar_clock_date_format_12">MMM d, E</string>
     <string name="status_bar_clock_date_time_format">H:mm MMM d, E</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, MMM d, E</string>
     <string name="status_bar_clock_date_weekday_format">MMMM d, EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">MMMM d, EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E
