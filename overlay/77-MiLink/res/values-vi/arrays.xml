@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Kết hợp ứng dụng</item>
+        <item>Liên thông/Kết hợp ứng dụng</item>
+        <item>Tính năng xe hơi</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Liên thông</item>
+        <item>Liên thông/Liên thông</item>
+        <item>Liên thông thiết bị, Dịch vụ liên thông thiết bị, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, kết nối thông minh, Mi Smart Hub, Liên thông, Kép, Điện thoại Xiaomi, Laptop Xiaomi, Đa màn hình, Duet, chiếu, kết hợp ứng dụng, handoff, Handoff ứng dụng, Phản chiếu, Hệ sinh thái Xiaomi, kết nối thiết bị</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Riêng tư</item>
+        <item>Liên thông/Riêng tư</item>
+        <item>Riêng tư và liên thông, Riêng tư</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Liên thông Xiaomi</item>
+        <item>Liên thông/Liên thông Xiaomi</item>
+        <item>Dịch vụ Liên thông Xiaomi, Liên thông Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Handoff ứng dụng</item>
+        <item>Liên thông/Handoff ứng dụng</item>
+        <item>Chuyển ứng dụng, handoff, chuyển</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Cuộc gọi</item>
+        <item>Liên thông/Cuộc gọi</item>
+        <item>Cuộc gọi</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Trợ lý mạng</item>
+        <item>Liên thông/Trợ lý mạng</item>
+        <item>Hỗ trợ mạng, chia sẻ mạng, chia sẻ điểm phát sóng</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Màn hình chính+</item>
+        <item>Liên thông/Màn hình chính+</item>
+        <item>Màn hình chính+, Mi Smart Hub, chia sẻ màn hình</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Bộ nhớ tạm</item>
+        <item>Liên thông/Bộ nhớ tạm</item>
+        <item>Bộ nhớ tạm</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Thông báo đa thiết bị</item>
+        <item>Liên thông/Thông báo</item>
+        <item>Thông báo đa thiết bị</item>
+    </string-array>
+</resources>
