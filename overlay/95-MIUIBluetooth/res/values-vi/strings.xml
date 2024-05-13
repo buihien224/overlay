@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
-    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_bar_up_description">Di chuyển lên</string>
     <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Quay lại</string>
     <string name="afternoon">Buổi chiều</string>
     <string name="am">SA</string>
-    <string name="app_name">MIUI Bluetooth</string>
+    <string name="app_name">Mở rộng Bluetooth</string>
     <string name="audio_relay_default_device_name">Loa Mi AI</string>
     <string name="ble_device_address">MAC Thiết bị Bluetooth Thông minh</string>
     <string name="ble_device_profile">Hồ sơ thiết bị Bluetooth</string>
@@ -47,13 +47,17 @@
     <string name="bluetooth_preference_found_devices">Thiết bị khả dụng</string>
     <string name="bluetooth_preference_scan_title">Tìm kiếm thiết bị</string>
     <string name="bluetooth_search_for_devices">Tìm kiếm thiết bị</string>
+    <string name="bt_plugin_is_update_loading_dialog">Đang cập nhật…</string>
     <string name="bt_plugin_update_dialog_cancle">Lần tới</string>
     <string name="bt_plugin_update_dialog_title">Cập nhật Bluetooth</string>
     <string name="bt_plugin_update_dialog_update">Cập nhật</string>
+    <string name="bt_plugin_update_dialog_updating">Đang cập nhật Bluetooth lên phiên bản %1$s…</string>
     <string name="bt_plugin_update_done_dialog_exit">Áp dụng</string>
     <string name="bt_plugin_update_done_dialog_msg">Để áp dụng các thay đổi, Cài đặt sẽ bị đóng và Bluetooth sẽ bị ngắt kết nối.</string>
     <string name="bt_plugin_update_done_dialog_title">Áp dụng thay đổi</string>
     <string name="bt_plugin_update_done_toast">Cập nhật thành công</string>
+    <string name="bt_plugin_update_failed_toast">Xảy ra lỗi. Không thể tải.</string>
+    <string name="bt_plugin_update_loading_dialog">Vui lòng chờ…</string>
     <string name="bt_plugin_update_notification_updating">Cập nhật Bluetooth</string>
     <string name="clearable_edittext_clear_description">Xóa</string>
     <string name="close">Đóng</string>
@@ -84,6 +88,7 @@ kiểm tra phần Cài đặt để biết chi tiết."</string>
     <string name="fast_connect_device_battery">Pin</string>
     <string name="fast_connect_device_box">Hộp sạc</string>
     <string name="fast_connect_device_box_name">Hộp %1$s</string>
+    <string name="fast_connect_device_button_audio_share_fail">Tôi biết</string>
     <string name="fast_connect_device_connect_cancel">Hủy</string>
     <string name="fast_connect_device_connect_ok">Kết nối</string>
     <string name="fast_connect_device_connect_retry">Thử lại</string>
@@ -92,10 +97,18 @@ kiểm tra phần Cài đặt để biết chi tiết."</string>
     <string name="fast_connect_device_headset_l">Bên trái</string>
     <string name="fast_connect_device_headset_r">Bên phải</string>
     <string name="fast_connect_device_headset_reset">Bấm và giữ phím trên hộp sạc</string>
+    <string name="fast_connect_device_message_audio_share">Chia sẻ âm thanh của thiết bị này với cặp tai nghe này</string>
+    <string name="fast_connect_device_replace_current_device">Chuyển đổi thiết bị</string>
+    <string name="fast_connect_device_start_audio_share">Chia sẻ</string>
+    <string name="fast_connect_device_title_audio_share">Nghe cùng với %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Không thể kết nối với %1$s. Thử lại.</string>
+    <string name="fast_connect_device_title_audio_share_success">Đang nghe cùng với %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Không thể kết nối %1$s</string>
     <string name="fast_connect_device_title_connecting">Đang kết nối…</string>
     <string name="fast_connect_device_title_find_headset">Tìm %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Dường như thiết bị này không phải của bạn: %1$s</string>
+    <string name="fast_connect_miot_stabilizer_device_connect_done">Đã kết nối</string>
+    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Camera</string>
     <string name="fast_connect_new_feture_anti_lost">Cảnh báo đánh rơi tai nghe</string>
     <string name="fast_connect_new_feture_same_account">Kết nối thiết bị đã đồng bộ</string>
     <string name="fast_connect_new_feture_sound_normalizer">Âm thanh tốt hơn</string>
@@ -163,6 +176,12 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="friday_short">Th 6</string>
     <string name="friday_shortest">Th 6</string>
     <string name="goto_package">Mở %1$s</string>
+    <string name="headset_autoswitch_connect_button">Kết nối</string>
+    <string name="headset_autoswitch_connect_title">Kết nối tai nghe</string>
+    <string name="headset_autoswitch_connected">Đã kết nối</string>
+    <string name="headset_autoswitch_connecting">Đang kết nối…</string>
+    <string name="headset_autoswitch_disconnected">Đã kết nối với %1$s</string>
+    <string name="headset_autoswitch_fialed">Không thể kết nối</string>
     <string name="headset_battery_fw_failed">Sạc thiết bị của bạn trước</string>
     <string name="headset_battery_low">Pin yếu. Sạc tai nghe của bạn ngay.</string>
     <string name="headset_connect_device">Kết nối thiết bị</string>
@@ -192,6 +211,7 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="headset_loss_notify_summary">Dường như ít nhất một tai nghe không nằm trong hộp sạc. Hãy tìm xung quanh thử!</string>
     <string name="headset_loss_notify_summary1">Dường như tai nghe của bạn không nằm trong hộp sạc. Hãy đặt vào lại bên trong để sạc.</string>
     <string name="headset_loss_notify_title">Cảnh báo đánh rơi tai nghe</string>
+    <string name="headset_new_notification_connecting">Đang kết nối</string>
     <string name="headset_not_in_case">Đặt cả hai tai nghe vào hộp sạc và bắt đầu lại</string>
     <string name="headset_read_fw_state">Không thể nhận thông tin cập nhật</string>
     <string name="headset_update_failed">Không thể cập nhật</string>
@@ -199,8 +219,8 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="headset_updating">Đang cập nhật</string>
     <string name="information_go_to_fitness">Bạn có thể tìm thấy cài đặt liên quan trong Mi Fitness</string>
     <string name="install_package">Cài đặt %1$s để nhận thêm nhiều chức năng mới</string>
-    <string name="lea_disable_successfully">Bluetooth thông thường hiện được sử dụng để kết nối tai nghe và truyền âm thanh</string>
-    <string name="lea_enable_successfully">LE Audio hiện được sử dụng để kết nối tai nghe và truyền âm thanh</string>
+    <string name="lea_disable_successfully">Đã chuyển sang Bluetooth thông thường</string>
+    <string name="lea_enable_successfully">Đã chuyển sang Bluetooth LE Audio</string>
     <string name="mi_audio_relay_cancel">OK</string>
     <string name="mi_audio_relay_connect_failed">Thử lại</string>
     <string name="mi_audio_relay_localphone">Thiết bị này</string>
@@ -240,14 +260,15 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="mihome_ignore_title">Bỏ qua thiết bị này?</string>
     <string name="mihome_update_tips">Cập nhật Mi Home và giữ điện thoại của bạn gần thiết bị.</string>
     <string name="mihome_update_title">Cập nhật Mi Home</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+    <string name="miuix_access_state_desc">Đã chọn</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
     <string name="miuix_appcompat_cancel_description">Hủy</string>
     <string name="miuix_appcompat_confirm_description">Xác nhận</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
-    <string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+    <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
@@ -336,7 +357,7 @@ Giao thức kết nối nhanh hơn."</string>
     <string name="plugin_update_notification_summary">Bật và tắt Bluetooth để hoàn tất cập nhật trình cắm Bluetooth</string>
     <string name="plugin_update_notification_title">Khởi động lại Bluetooth</string>
     <string name="pm">CH</string>
-    <string name="preference_copied">Đã sao chép \"%1$s\" vào khay nhớ tạm.</string>
+    <string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
     <string name="progress_scanning">Đang tìm…</string>
     <string name="reset_function_msg">Thiết lập lại chức năng này có thể làm %1$s làm việc không bình thường.</string>
     <string name="saturday">Thứ bảy</string>

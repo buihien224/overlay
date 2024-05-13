@@ -32,10 +32,9 @@
     <string name="afternoon">Buổi chiều</string>
     <string name="am">SA</string>
     <string name="app_name">Chiếu</string>
-    <string name="app_pkg_name">com.milink.service</string>
-    <string name="app_ver_code">1</string>
-    <string name="app_ver_name">1.0</string>
     <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="cast_auth_count_down">Nhập mã từ \"%1$s\" để bắt đầu chiếu (%2$d giây)</string>
+    <string name="cast_auth_title">Nhập mã</string>
     <string name="cast_image_des">Hướng dẫn Chiếu</string>
     <string name="casting_tips">Đang chiếu…</string>
     <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
@@ -43,13 +42,14 @@
     <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
     <string name="clearable_edittext_clear_description">Xóa</string>
     <string name="close">Đóng</string>
+    <string name="close_auxiliary_wifi_hint">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu</string>
+    <string name="close_auxiliary_wifi_hint_china">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu</string>
+    <string name="close_dp_casting_hint">Ngắt kết nối cáp và thử lại</string>
     <string name="close_hotspot_hint">Tắt điểm phát sóng di động trước khi chiếu</string>
     <string name="close_hotspot_hint_DFS">Để chuyển các mục sang TV, tắt điểm phát sóng trước.</string>
-    <string name="close_slave_wifi_hint">Ngắt kết nối với các mạng Wi-Fi phụ trước khi chiếu</string>
-    <string name="close_slave_wifi_hint_china">Ngắt kết nối với các mạng WLAN phụ trước khi chiếu</string>
     <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
-    <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
-    <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_china">Hội nghị Xiaomi Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_global">Hội nghị Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">Không thể kết nối với thiết bị</string>
     <string name="console_guide_btn_got_it">Tôi biết</string>
     <string name="console_guide_subtitle_hang_up">Bạn có thể tiếp tục chiếu khi màn hình thiết bị tắt. Tính năng này làm giảm mức tiêu thụ điện năng.</string>
@@ -65,6 +65,7 @@
     <string name="device_desc_trust">Thiết bị tin cậy</string>
     <string name="dialog_can_not_find_device">Không tìm thấy thiết bị lân cận</string>
     <string name="dialog_cancle">Hủy</string>
+    <string name="dialog_close">Tắt</string>
     <string name="dialog_connect_fail">Không thể kết nối</string>
     <string name="dialog_connect_retry">Chạm để thử lại</string>
     <string name="dialog_connect_verify_perssion">Cho phép chiếu trên TV của bạn trước</string>
@@ -78,11 +79,11 @@
     <string name="dialog_miplay_permission_title">Yêu cầu quyền</string>
     <string name="dialog_nearbydevice_permission_message">Cho phép thiết bị này truy cập thiết bị lân cận để có thể sử dụng tính năng chiếu.</string>
     <string name="dialog_nearbydevice_permission_title">Yêu cầu quyền</string>
-    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message"><Data>"&lt;&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Kết nối cả hai thiết bị di động và TV đến cùng một mạng Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Trên một số mẫu TV, tính năng này chỉ khả dụng khi Phản chiếu màn hình được bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để tìm hiểu thêm.&lt;</Data></string>
-    <string name="dialog_no_device_message_china"><Data>"&lt;&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;</Data></string>
+    <string name="dialog_nfc_cast_wifi_off">Bật Wi-Fi để có thể truyền bằng NFC. Bật bây giờ?</string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Kết nối cả hai thiết bị di động và TV đến cùng một mạng Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Trên một số mẫu TV, tính năng này chỉ khả dụng khi Phản chiếu màn hình được bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để tìm hiểu thêm.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Kết nối cả hai thiết bị di động và TV đến cùng một mạng Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Trên một số mẫu TV, tính năng này chỉ khả dụng khi Phản chiếu màn hình được bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để tìm hiểu thêm.</Data></string>
     <string name="dialog_ok">OK</string>
-    <string name="dialog_only_suport_content">Stream ảnh, video hoặc nhạc</string>
+    <string name="dialog_only_suport_content">Phát trực tuyến ảnh, video hoặc nhạc</string>
     <string name="dialog_open_wifi_bt">Bật</string>
     <string name="dialog_please_make_sure_tv_ok_or_help">"Đảm bảo tính năng chiếu không dây được bật trên thiết bị mục tiêu.
 Xem trợ giúp nếu bạn gặp sự cố khi kết nối."</string>
@@ -94,6 +95,9 @@ Xem trợ giúp nếu bạn gặp sự cố khi kết nối."</string>
     <string name="dialog_scan_message_china">"%1$d. Kết nối cả thiết bị di động và TV với cùng một mạng Wi-Fi.
 
 %2$d. Xem “Trợ giúp” để tìm hiểu thêm."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu. Tắt tính năng này ngay?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu. Tắt tính năng này ngay?</string>
+    <string name="dialog_scanning_close_tethering">Tắt điểm phát sóng để có thể chiếu. Tắt tính năng này ngay?</string>
     <string name="dialog_scanning_device">Đang tìm thiết bị lân cận…</string>
     <string name="dialog_scanning_precondition">Bật Wi-Fi và Bluetooth trên điện thoại để sử dụng Hiển thị Không dây.</string>
     <string name="dialog_scanning_precondition_new_china">Bật WLAN, Bluetooth và dịch vụ vị trí để có thể sử dụng tính năng chiếu. Bật ngay?</string>
@@ -101,10 +105,13 @@ Xem trợ giúp nếu bạn gặp sự cố khi kết nối."</string>
     <string name="dialog_select_tv">Chọn thiết bị (%1$d)</string>
     <string name="dialog_show_help">Trợ giúp</string>
     <string name="disconnect">Dừng chiếu</string>
-    <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
+    <string name="dp_casting_start_hint">Đã kết nối qua cáp. Chiếu đã kết thúc.</string>
+    <string name="dual_wifi_warning_china">Tắt Wi-Fi kép và thử lại</string>
     <string name="dual_wifi_warning_global">Tắt Wi-Fi kép và thử lại</string>
     <string name="early_morning">Buổi sáng</string>
+    <string name="empty" />
     <string name="enable_screen_projection_summary">Chiếu nội dung màn hình ra màn hình ngoài</string>
+    <string name="enable_screen_projection_summary_new">Chiếu màn hình thiết bị di động sang TV lân cận và các màn hình bên ngoài khác ​</string>
     <string name="eras_ad">Sau Công Nguyên</string>
     <string name="eras_bc">Trước Công Nguyên</string>
     <string name="error_icon_content_description">Lỗi</string>
@@ -167,46 +174,74 @@ Xem trợ giúp nếu bạn gặp sự cố khi kết nối."</string>
     <string name="friday_short">Th 6</string>
     <string name="friday_shortest">Th 6</string>
     <string name="global_privacy">Điều khoản và Điều kiện</string>
-    <string name="global_privacy_detail"><Data>"&lt;Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng này.&lt;br>Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn.&lt;</Data></string>
+    <string name="global_privacy_detail"><Data>Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng này.&lt;br>Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn.</Data></string>
     <string name="global_privacy_explain">Chào mừng sử dụng Chiếu! Ứng dụng này cung cấp các dịch vụ sau:</string>
     <string name="global_privacy_feature">Sử dụng cửa sổ thu nhỏ, chiếu khi màn hình tắt và ẩn các mục riêng tư.</string>
     <string name="global_privacy_main">Chiếu các mục từ màn hình điện thoại lên một màn hình ngoài lớn hơn.</string>
     <string name="global_privacy_negative">Không đồng ý</string>
     <string name="global_privacy_positive">Đồng ý</string>
     <string name="global_privacy_screencast">Khi quay video hoặc chiếu, dịch vụ cung cấp tính năng này ghi lại bất kỳ thông tin nhạy cảm nào được hiển thị trên màn hình hoặc phát từ thiết bị của bạn, bao gồm thông tin nhạy cảm như âm thanh, mật khẩu, thông tin thanh toán, ảnh và tin nhắn.</string>
-    <string name="global_privacy_tip"><Data>"&lt;Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản và tối ưu quá trình chiếu. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=%1$s>Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư trong Cài đặt bất kỳ lúc nào.&lt;</Data></string>
+    <string name="global_privacy_tip"><Data>Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản và tối ưu quá trình chiếu. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=%1$s>Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư trong Cài đặt bất kỳ lúc nào.</Data></string>
     <string name="hang_up">Chiếu khi màn hình tắt</string>
     <string name="hang_up_alert_dialog_content">Tiếp tục chiếu khi màn hình thiết bị tắt. Tính năng này làm giảm mức tiêu thụ điện năng. Bấm phím Nguồn để bật lại màn hình.</string>
     <string name="hang_up_alert_dialog_neg">Hủy</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_title">Giới thiệu chiếu khi màn hình tắt…</string>
+    <string name="head_toast_connecting">Đang kết nối…</string>
+    <string name="head_toast_fail">Không thể kết nối</string>
+    <string name="head_toast_success">Kết nối thành công</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Khi thiết bị bạn đang chiếu đến là Xiaomi TV, hãy bật Miracast trên thiết bị đó.
+%2$d. Khi thiết bị bạn đang chiếu đến không phải là Xiaomi TV, hãy đảm bảo TV hỗ trợ Miracast và tính năng này được bật. Tính năng này có thể có tên khác trên một số mẫu TV, chẳng hạn như Hiển thị không dây, Phản chiếu màn hình hoặc Đa màn hình."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Một số thương hiệu TV có thể bật Miracast tự động.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Bật Miracast trên Xiaomi TV.</string>
     <string name="help_page_text_01">Trợ giúp</string>
     <string name="help_page_text_02">Chiếu là gì?</string>
     <string name="help_page_text_03">Chiếu là truyền các mục từ màn hình điện thoại sang màn hình ngoài lớn hơn. Điều này cho phép bạn chia sẻ ảnh và video với bạn bè và gia đình mà không cần sử dụng dữ liệu di động.</string>
     <string name="help_page_text_04">Làm thế nào để tôi chiếu các mục lên màn hình lớn hơn?</string>
     <string name="help_page_text_05">Bước %1$d: Kiểm tra thiết bị và môi trường mạng</string>
-    <string name="help_page_text_06">"%1$d. TV, hộp giải mã tín hiệu, máy chiếu Xiaomi:
-Kết nối cả thiết bị di động và màn hình ngoài của bạn với cùng một mạng WLAN để có hiệu quả tốt nhất. Nếu chúng được kết nối với các mạng khác nhau, có thể mất nhiều thời gian hơn để tìm màn hình bên ngoài và kết nối.
-Lưu ý: Các mẫu TV cũ hơn có thể không hỗ trợ truyền qua các mạng khác nhau.
-%2$d. Nếu bạn đang sử dụng TV, hộp giải mã tín hiệu hoặc máy chiếu của các nhãn hiệu khác, hãy kết nối cả thiết bị di động và màn hình ngoài của bạn với cùng một mạng WLAN.
-Nếu hai thiết bị không thể kết nối với cùng một mạng, hãy bật Miracast trên màn hình ngoài của bạn. Việc đặt tên cho chức năng Miracast có thể khác nhau."</string>
-    <string name="help_page_text_06_global">"%1$d. TV Xiaomi, hộp giải mã, máy chiếu:
+    <string name="help_page_text_05_new">Bước %1$d: Kiểm tra thiết bị và môi trường mạng</string>
+    <string name="help_page_text_06">"%1$d. TV, hộp giải mã, máy chiếu của Xiaomi:
 Kết nối cả thiết bị di động và màn hình ngoài của bạn với cùng một mạng Wi-Fi để có hiệu quả tốt nhất. Nếu chúng được kết nối với các mạng khác nhau, có thể mất nhiều thời gian hơn để tìm màn hình ngoài và kết nối.
 Lưu ý: Mẫu TV cũ hơn có thể không hỗ trợ truyền qua các mạng khác nhau.
 %2$d. Nếu bạn đang sử dụng TV, hộp giải mã hoặc máy chiếu của các thương hiệu khác, hãy kết nối cả điện thoại và màn hình ngoài với cùng một mạng Wi-Fi.
 Nếu hai thiết bị không thể kết nối với cùng một mạng, hãy bật Miracast trên màn hình ngoài của bạn. Việc đặt tên của tính năng Miracast có thể khác nhau."</string>
+    <string name="help_page_text_06_global">"%1$d. TV, hộp giải mã, máy chiếu của Xiaomi:
+Kết nối cả thiết bị di động và màn hình ngoài của bạn với cùng một mạng Wi-Fi để có hiệu quả tốt nhất. Nếu chúng được kết nối với các mạng khác nhau, có thể mất nhiều thời gian hơn để tìm màn hình ngoài và kết nối.
+Lưu ý: Mẫu TV cũ hơn có thể không hỗ trợ truyền qua các mạng khác nhau.
+%2$d. Nếu bạn đang sử dụng TV, hộp giải mã hoặc máy chiếu của các thương hiệu khác, hãy kết nối cả điện thoại và màn hình ngoài với cùng một mạng Wi-Fi.
+Nếu hai thiết bị không thể kết nối với cùng một mạng, hãy bật Miracast trên màn hình ngoài của bạn. Việc đặt tên của tính năng Miracast có thể khác nhau."</string>
+    <string name="help_page_text_06_new_1">TV, hộp giải mã và máy chiếu của Xiaomi:</string>
+    <string name="help_page_text_06_new_2">"%1$d. Đảm bảo thiết bị di động và màn hình ngoài của bạn được kết nối với cùng một mạng Wi-Fi.
+%2$d. Trên một số Xiaomi TV, bạn có thể thiết lập chiếu từ TV cũng như tùy chỉnh phương pháp xác minh và tìm kiếm thiết bị."</string>
+    <string name="help_page_text_06_new_3">*Bạn có thể đặt tùy chọn chiếu cho TV của mình trong cài đặt chiếu.</string>
+    <string name="help_page_text_06_new_4">TV, hộp giải mã và máy chiếu không phải của Xiaomi:</string>
+    <string name="help_page_text_06_new_5">"%1$d. Đảm bảo thiết bị di động và màn hình ngoài của bạn được kết nối với cùng một mạng Wi-Fi.
+%2$d. Trên một số thương hiệu TV, bạn cần bật Miracast để có thể chiếu."</string>
+    <string name="help_page_text_06_new_6">Tìm hiểu thêm</string>
     <string name="help_page_text_08">Bước %1$d: Bật chiếu</string>
-    <string name="help_page_text_09">"Nhấn vào nút chuyển đổi \"Truyền\" trên ngăn Thông báo trên điện thoại của bạn. Bật cả WLAN và Bluetooth để có kết nối ổn định hơn."</string>
+    <string name="help_page_text_08_new">Bước %1$d: Bật chiếu</string>
+    <string name="help_page_text_09">Chạm vào phím nhanh \"Chiếu\" trên Thanh thông báo của thiết bị. Bật cả Wi-Fi và Bluetooth để có kết nối ổn định hơn.</string>
     <string name="help_page_text_09_global">Chạm vào phím nhanh \"Chiếu\" trên Thanh thông báo của thiết bị. Bật cả Wi-Fi và Bluetooth để có kết nối ổn định hơn.</string>
+    <string name="help_page_text_09_new_1">Bật chiếu trong Trung tâm điều khiển của thiết bị, sau đó tìm kiếm màn hình bên ngoài.</string>
     <string name="help_page_text_10">Nếu bạn muốn chiếu ảnh, video, game hoặc trình chiếu, bạn có thể sử dụng các tính năng chiếu tích hợp trong ứng dụng tương ứng.</string>
     <string name="help_page_text_11">Bước %1$d: Chọn thiết bị</string>
+    <string name="help_page_text_11_new">Bước %1$d: Chọn thiết bị</string>
     <string name="help_page_text_12">Chọn một thiết bị ngoài từ danh sách các thiết bị khả dụng để bắt đầu chiếu.</string>
+    <string name="help_page_text_12_new_1">Chọn một thiết bị ngoài từ danh sách các thiết bị khả dụng để bắt đầu chiếu.</string>
     <string name="help_page_text_13">Không thể kết nối với thiết bị ngoài?</string>
-    <string name="help_page_text_14">"%1$d. Nếu bạn muốn sử dụng thiết bị Xiaomi nhưng không thể tìm thấy nó trong danh sách các thiết bị có sẵn, hãy thử cách sau:
-Kết nối cả thiết bị di động của bạn và màn hình ngoài (ví dụ: TV của bạn) với cùng một mạng hoặc kết nối màn hình ngoài với điểm phát sóng của thiết bị di động của bạn. Nếu không có bất kỳ mạng nào hoặc bạn không thể kết nối cả hai thiết bị với cùng một mạng, hãy kiểm tra xem các tính năng truyền trên màn hình ngoài của bạn có cập nhật hay không, bật Bluetooth trên cả thiết bị di động và màn hình ngoài của bạn rồi bật trên Miracast trên TV của bạn.
-%2$d. Nếu bạn truyền trên thiết bị Xiaomi lần đầu tiên, bạn cần hoàn tất xác minh.
-%3$d. Nếu bạn muốn sử dụng một thiết bị không phải của Xiaomi nhưng không thể tìm thấy thiết bị đó trong danh sách các thiết bị có sẵn, hãy thử cách sau:
-Kết nối cả thiết bị di động của bạn và màn hình ngoài (ví dụ: TV của bạn) với cùng một mạng hoặc kết nối màn hình ngoài với điểm phát sóng của thiết bị di động của bạn. Nếu cách này không hiệu quả, hãy cài đặt ứng dụng HappyCast trên TV của bạn và làm theo hướng dẫn."</string>
+    <string name="help_page_text_13_act_label_1">Câu hỏi thường gặp</string>
+    <string name="help_page_text_13_desc_1">"%1$d. Đảm bảo thiết bị di động và màn hình ngoài của bạn được kết nối với cùng một mạng Wi-Fi hoặc điểm phát sóng.
+%2$d. Đảm bảo môi trường mạng ổn định. Nếu không, hãy thử khởi động lại bộ định tuyến hoặc chuyển sang băng tần mạng %3$d GHz.
+%4$d. Khi chiếu sang Xiaomi TV, hãy bật tính năng chiếu không dây trên TV. Ở lại trang chiếu trong khi kết nối.
+%5$d. Một số mạng LAN công cộng lớn như của công ty và trường học không hỗ trợ khả năng khám phá các thiết bị trên cùng một mạng LAN."</string>
+    <string name="help_page_text_13_desc_2">Một số TV sử dụng kết nối không phải mạng LAN trong khi chiếu. Việc các thiết bị này bị ngắt kết nối khỏi mạng là điều bình thường. Chúng thường sẽ kết nối lại trong vòng %1$d-%2$d giây sau khi chiếu kết thúc.</string>
+    <string name="help_page_text_13_summary_1">Không thể kết nối với thiết bị ngoài</string>
+    <string name="help_page_text_13_summary_2">Mạng bị gián đoạn trong khi chiếu</string>
+    <string name="help_page_text_14">"%1$d. Nếu bạn muốn sử dụng thiết bị Xiaomi, nhưng không tìm thấy trong danh sách các thiết bị khả dụng, hãy thử:
+Kết nối cả thiết bị di động và màn hình ngoài (ví dụ: TV) cùng một mạng, hoặc kết nối màn hình ngoài với điểm phát sóng của thiết bị. Nếu không có mạng khả dụng hoặc bạn không thể kết nối cả hai thiết bị với cùng một mạng, kiểm tra xem các tính năng chiếu trên màn hình ngoài đã được cập nhật chưa, bật Bluetooth cả trên thiết bị di động và màn hình ngoài, và bật Miracast trên TV của bạn.
+%2$d. Nếu bạn lần đầu tiên chiếu trên thiết bị Xiaomi, bạn cần hoàn tất xác minh.
+%3$d. Nếu bạn muốn sử dụng một thiết bị không phải Xiaomi, nhưng không tìm thấy trong danh sách các thiết bị khả dụng, hãy thử:
+Kết nối cả thiết bị di động và màn hình ngoài (ví dụ: TV) cùng một mạng, hoặc kết nối màn hình ngoài với điểm phát sóng của thiết bị di động."</string>
     <string name="help_page_text_14_global">"%1$d. Nếu bạn muốn sử dụng thiết bị Xiaomi, nhưng không tìm thấy trong danh sách các thiết bị khả dụng, hãy thử:
 Kết nối cả thiết bị di động và màn hình ngoài (ví dụ: TV) cùng một mạng, hoặc kết nối màn hình ngoài với điểm phát sóng của thiết bị. Nếu không có mạng khả dụng hoặc bạn không thể kết nối cả hai thiết bị với cùng một mạng, kiểm tra xem các tính năng chiếu trên màn hình ngoài đã được cập nhật chưa, bật Bluetooth cả trên thiết bị di động và màn hình ngoài, và bật Miracast trên TV của bạn.
 %2$d. Nếu bạn lần đầu tiên chiếu trên thiết bị Xiaomi, bạn cần hoàn tất xác minh.
@@ -217,6 +252,7 @@ Kết nối cả thiết bị di động và màn hình ngoài (ví dụ: TV) c�
     <string name="help_page_text_17">"Bạn có thể chiếu các mục từ điện thoại Mi lên hầu hết các mẫu TV Mi có khả năng Bluetooth mà không cần bật Miracast theo cách thủ công.
 Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng của tôi > Chiếu > Miracast."</string>
     <string name="help_page_text_17_1">Hỗ trợ khách hàng Xiaomi: 400-100-5678</string>
+    <string name="help_page_text_17_content">Bạn có thể chiếu các mục từ điện thoại Xiaomi lên hầu hết các mẫu Xiaomi TV có khả năng Bluetooth mà không cần bật Miracast theo cách thủ công. Nếu bạn cần bật Miracast, hãy nhấn phím [MENU] và bắt đầu chiếu bằng cách sử dụng tùy chọn cho các điện thoại Android khác.</string>
     <string name="help_page_text_18">TV Samsung</string>
     <string name="help_page_text_19">Trước tiên, đảm bảo thiết bị của bạn hỗ trợ tính năng Miracast. Trên một số mẫu, bạn có thể nhấn phím [SOURCE] trên điều khiển từ xa và sau đó chọn \"Phản chiếu Màn hình\". Tính năng này được bật theo mặc định trên các mẫu khác nhau.</string>
     <string name="help_page_text_20">Hỗ trợ khách hàng Samsung: 400-810-5858</string>
@@ -236,7 +272,7 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="help_page_text_34">Trước tiên, đảm bảo thiết bị của bạn hỗ trợ tính năng Miracast. Trên một số mẫu, bạn có thể chọn Ứng dụng > Chiếu > Thiết bị Android > Miracast.</string>
     <string name="help_page_text_35">Hỗ trợ khách hàng Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
+	<string name="help_page_text_37">Trước tiên, hãy đảm bảo rằng chức năng Miracast được hỗ trợ trên thiết bị của bạn. Trên một số kiểu máy, bạn có thể nhấn nút [SOURCE] trên điều khiển từ xa rồi chọn \"Screen Mirroring\". Trên một số kiểu máy khác, bạn có thể bật tính năng này trong Mạng > WLAN Direct. Tính năng này được bật theo mặc định trên nhiều kiểu máy khác nhau.</string>
     <string name="help_page_text_38">Hỗ trợ khách hàng Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Trước tiên, đảm bảo thiết bị của bạn hỗ trợ tính năng Miracast. Trên một số mẫu, bạn có thể chọn Ứng dụng > Phản chiếu Màn hình.</string>
@@ -279,14 +315,14 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
     <string name="midnight">Ban đêm</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
     <string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
     <string name="miuix_appcompat_cancel_description">Hủy</string>
     <string name="miuix_appcompat_confirm_description">Xác nhận</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
-    <string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+    <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
@@ -398,21 +434,21 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="paipai_error_dialog_msg">Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="paipai_error_dialog_negative">Tôi biết</string>
     <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
-    <string name="path_setting_cast">Kết nối &amp; chia sẻ/Chiếu</string>
-    <string name="path_setting_cast_demo">Kết nối &amp; chia sẻ/Chiếu/Demo</string>
-    <string name="path_setting_cast_demo_document">Kết nối &amp; chia sẻ/Chiếu/Demo/Tài liệu</string>
-    <string name="path_setting_cast_demo_gallery">Kết nối &amp; chia sẻ/Chiếu/Demo/Ảnh &amp; video</string>
-    <string name="path_setting_cast_demo_game">Kết nối &amp; chia sẻ/Chiếu/Demo/Trò chơi</string>
-    <string name="path_setting_cast_feature">Kết nối &amp; chia sẻ/Chiếu/Demo/Tính năng đặc biệt</string>
-    <string name="path_setting_cast_help">Kết nối &amp; chia sẻ/Chiếu/Trợ giúp</string>
+    <string name="path_setting_cast">Tùy chọn kết nối khác/Chiếu</string>
+    <string name="path_setting_cast_demo">Tùy chọn kết nối khác/Chiếu/Demo</string>
+    <string name="path_setting_cast_demo_document">Tùy chọn kết nối khác/Chiếu/Demo/Tài liệu</string>
+    <string name="path_setting_cast_demo_gallery">Tùy chọn kết nối khác/Chiếu/Demo/Ảnh &amp; video</string>
+    <string name="path_setting_cast_demo_game">Tùy chọn kết nối khác/Chiếu/Demo/Game</string>
+    <string name="path_setting_cast_feature">Tùy chọn kết nối khác/Chiếu/Tính năng đặc biệt</string>
+    <string name="path_setting_cast_help">Tùy chọn kết nối khác/Chiếu/Trợ giúp</string>
     <string name="permission_allowed">Đã cấp quyền</string>
-    <string name="permission_uballowed">Chưa cấp quyền</string>
+    <string name="permission_uballowed">Không cấp quyền</string>
     <string name="pm">CH</string>
     <string name="pre_privacy_setting_title">Riêng tư</string>
-    <string name="preference_copied">Đã sao chép \"%1$s\" vào khay nhớ tạm.</string>
+    <string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
     <string name="privacy_agree">Đồng ý</string>
     <string name="privacy_detail">Cho phép ứng dụng này kết nối internet và cấp các quyền yêu cầu trước khi bạn tiếp tục.</string>
-    <string name="privacy_detail_extra"><Data>&lt;Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a>.&lt;</Data></string>
+    <string name="privacy_detail_extra"><Data>Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a>.</Data></string>
     <string name="privacy_explain">Chào mừng sử dụng Chiếu! Ứng dụng cho phép chiếu các mục từ màn hình điện thoại lên màn hình ngoài lớn hơn. Ứng dụng này cần kết nối internet và yêu cầu các quyền sau để có thể hoạt động bình thường</string>
     <string name="privacy_negative">Thoát</string>
     <string name="privacy_permission_ble">Bật và tắt Bluetooth</string>
@@ -422,7 +458,7 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="privacy_permission_necessary">Quyền bắt buộc</string>
     <string name="privacy_permission_necessary_desc">Các quyền này được yêu cầu để cung cấp các tính năng và dịch vụ cơ bản của ứng dụng.</string>
     <string name="privacy_permission_nfc">NFC</string>
-    <string name="privacy_permission_nfc_desc">Ghép nối thiết bị bằng NFC</string>
+    <string name="privacy_permission_nfc_desc">Để ghép nối thiết bị bằng NFC</string>
     <string name="privacy_permission_optional">Quyền tùy chọn</string>
     <string name="privacy_permission_optional_desc">Được sử dụng cho tính năng bổ sung khi bạn sử dụng</string>
     <string name="privacy_permission_read_write_mobile_phone_storage">Truy cập và lưu các mục vào lưu trữ</string>
@@ -432,7 +468,7 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="privacy_permission_sound_recording">Ghi âm</string>
     <string name="privacy_permission_sound_recording_desc">Để thực hiện cuộc gọi thoại hoặc ghi âm</string>
     <string name="privacy_permission_wlan">Bật và tắt Wi-Fi</string>
-    <string name="privacy_permission_wlan_china">Bật và tắt mạng Wi-Fi</string>
+    <string name="privacy_permission_wlan_china">Bật và tắt Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Để tìm thiết bị lân cận khả dụng</string>
     <string name="privacy_permission_wlan_desc_china">Để tìm thiết bị lân cận khả dụng</string>
     <string name="privacy_positive">Đồng ý</string>
@@ -454,11 +490,11 @@ Nếu bạn cần bật Miracast, nhấn phím [MENU] và chọn Ứng dụng c�
     <string name="privacy_setting_show_lelink_policy">Xem Chính sách Riêng tư HappyCast</string>
     <string name="privacy_setting_show_policy">Xem Chính sách Riêng tư</string>
     <string name="privacy_setting_show_user_agreement">Xem Thỏa thuận Người dùng</string>
-    <string name="privacy_text_1"><Data>"&lt;Chào mừng sử dụng Chiếu! Chiếu cho phép truyền các mục từ màn hình điện thoại lên màn hình ngoài lớn hơn.
+    <string name="privacy_text_1"><Data>"Chào mừng sử dụng Chiếu! Chiếu cho phép truyền các mục từ màn hình điện thoại lên màn hình ngoài lớn hơn.
 Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan. Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, hãy đọc và đồng ý với &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a> và &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a>.
-Để có thể hoạt động bình thường, ứng dụng cần kết nối internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:&lt;"</Data></string>
-    <string name="privacy_text_2"><Data>"&lt;Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng, đăng xuất hoặc giới hạn quyền trong Cài đặt trong những trường hợp như vậy.
-Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này.&lt;"</Data></string>
+Để có thể hoạt động bình thường, ứng dụng cần kết nối internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</Data></string>
+    <string name="privacy_text_2"><Data>"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng, đăng xuất hoặc giới hạn quyền trong Cài đặt trong những trường hợp như vậy.
+Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này."</Data></string>
     <string name="privacy_text_pemission">"　　•Truy cập và lưu ảnh trên thiết bị để chiếu các mục này lên màn hình ngoài
 　　•Ghi âm cuộc gọi và âm thanh để truyền âm thanh trên các thiết bị ngoài
 　　•Truy cập số điện thoại, IMEI và IMSI để nhận dạng thiết bị
@@ -475,26 +511,42 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy đ
     <string name="saturday">Thứ bảy</string>
     <string name="saturday_short">Th 7</string>
     <string name="saturday_shortest">Th 7</string>
-    <string name="scan_wifi_label_china">Connect to WLAN</string>
+    <string name="scan_wifi_label_china">Kết nối Wi-Fi</string>
     <string name="scan_wifi_label_global">Kết nối Wi-Fi</string>
     <string name="screen_projection">Chiếu</string>
     <string name="screen_projection_characteristics">Tính năng đặc biệt</string>
+    <string name="screen_projection_characteristics_cast_summary">Chiếu nội dung màn hình lên TV lân cận</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">Tắt màn hình thiết bị di động trong khi chiếu để tiết kiệm pin và tránh quá nhiệt</string>
     <string name="screen_projection_characteristics_off_screen_summary">Bạn có thể tiếp tục chiếu khi màn hình thiết bị tắt. Tính năng này làm giảm mức tiêu thụ điện năng.</string>
     <string name="screen_projection_characteristics_off_screen_title">Chiếu khi màn hình tắt</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Không hiển thị thông báo nổi, cuộc gọi đến và các mục riêng tư khác trên màn hình ngoài.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Ẩn nội dung riêng tư</string>
+    <string name="screen_projection_characteristics_private_summary_new">Bảo vệ sự riêng tư của bạn: trong khi chiếu, thiết bị của bạn sẽ không hiển thị thông báo nổi, cuộc gọi đến và các mục riêng tư khác</string>
     <string name="screen_projection_characteristics_small_window_summary">Thu nhỏ cửa sổ đang chiếu để có thể sử dụng các tính năng khác của điện thoại.</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">Chiếu màn hình và hiển thị nội dung trên cửa sổ nổi trong khi sử dụng các ứng dụng khác</string>
     <string name="screen_projection_characteristics_small_window_title">Thu nhỏ cửa sổ</string>
+    <string name="screen_projection_entrance_list">Xem thiết bị khả dụng</string>
+    <string name="screen_projection_entrance_list_new">Xem danh sách các thiết bị khả dụng để chiếu</string>
+    <string name="screen_projection_example_document_hint_miui15">*Mục sẽ được hiển thị trên TV lân cận</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*Để sử dụng tính năng này, vào Tập tin > Tài liệu và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_document_summary">Hiển thị bài thuyết trình trên màn hình ngoài khi sử dụng điện thoại để chuyển giữa các trang chiếu và xem ghi chú. Vào Quản lý Tập tin > Tài liệu để thử tính năng này.</string>
+    <string name="screen_projection_example_document_summary_miui15">Hiển thị trang trình bày trên TV khi sử dụng thiết bị này làm điều khiển từ xa</string>
     <string name="screen_projection_example_document_title">Tài liệu</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*Để có thể chiếu ảnh và video, chọn một mục trong Thư viện, chạm \"Chia sẻ\", sau đó chạm biểu tượng \"Chiếu\".</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*Để sử dụng tính năng này, hãy đi tới Thư viện, chọn ảnh, chạm Gửi ở thanh dưới cùng và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_gallery_summary">Chạm nút Chia sẻ dưới một mục trong ứng dụng Thư viện để hiển thị trên màn hình ngoài.</string>
+    <string name="screen_projection_example_gallery_summary_miui15">Xem ảnh và video trên màn hình TV</string>
     <string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
+    <string name="screen_projection_example_game_hint_miui15">"*Để có thể chiếu game, chạm \"Chiếu\" trong Game Turbo khi đang chơi.
+Đảm bảo bạn đã bật Game Turbo trước khi chiếu game."</string>
     <string name="screen_projection_example_game_summary">Game Turbo cho phép bạn chiếu trò chơi ra màn hình ngoài. Sử dụng lối tắt trong hộp công cụ Game Turbo để bật tính năng này.</string>
+    <string name="screen_projection_example_game_summary_miui15">Xem phiên chơi game của bạn trên TV</string>
     <string name="screen_projection_example_game_title">Trò chơi</string>
     <string name="screen_projection_help">Trợ giúp</string>
     <string name="screen_projection_sample_summary">Chiếu tài liệu, trò chơi, ảnh và video</string>
     <string name="screen_projection_sample_title">Demo</string>
     <string name="screen_projection_title">Chiếu</string>
+    <string name="screen_projection_title_miui15">Chiếu</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="send">Gửi</string>
     <string name="show_result_on_tv">Xem kết quả trên TV</string>
@@ -552,10 +604,11 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy đ
     <string name="thursday_short">Th 5</string>
     <string name="thursday_shortest">Th 5</string>
     <string name="tile_label">Chiếu</string>
+    <string name="tile_label_v2">Dịch vụ liên thông</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="time_picker_label_hour">Giờ</string>
     <string name="time_picker_label_minute">Phút</string>
-    <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_activity_permission">Quyền hoạt động</string>
     <string name="toast_guide_show_more">Tìm hiểu thêm</string>
     <string name="toast_guide_title">Khám phá tính năng mới của chúng tôi tại đây</string>
     <string name="toast_invisible_mode">Bạn đang ẩn danh. Hiện không thể chiếu.</string>
@@ -569,7 +622,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy đ
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="trust_device_desc">Thiết bị sẽ xuất hiện ở đây trước khi ở lân cận</string>
-    <string name="trust_device_dialog_desc"><Data>"&lt;%s sẽ xuất hiện trong các thiết bị khả dụng trước khi ở lân cận nếu bạn đánh dấu là thiết bị tin cậy.&lt;br>&lt;br>Bạn có thể &lt;a href=milink://com.milink.service/trust>quản lý thiết bị tin cậy&lt;/a> trong Cài đặt.&lt;</Data></string>
+    <string name="trust_device_dialog_desc"><Data>%s sẽ xuất hiện trong các thiết bị khả dụng trước khi ở lân cận nếu bạn đánh dấu là thiết bị tin cậy.&lt;br>&lt;br>Bạn có thể &lt;a href=milink://com.milink.service/trust>quản lý thiết bị tin cậy&lt;/a> trong Cài đặt.</Data></string>
     <string name="trust_device_dialog_pos">Tin tưởng</string>
     <string name="trust_device_dialog_title">Tin tưởng thiết bị này?</string>
     <string name="trust_device_manager">Quản lý thiết bị tin cậy</string>

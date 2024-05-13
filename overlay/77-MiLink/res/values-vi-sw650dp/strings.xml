@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_screen_projection_summary_new">Chiếu màn hình của thiết bị sang màn hình bên ngoài</string>
+    <string name="help_page_text_09_new_1">Kéo xuống để truy cập Trung tâm điều khiển, bật chiếu, sau đó tìm kiếm các thiết bị lân cận.</string>
+    <string name="help_page_text_17_content">Bạn có thể chiếu các mục từ máy tính bảng Xiaomi lên hầu hết các mẫu Xiaomi TV có khả năng Bluetooth mà không cần bật Miracast theo cách thủ công. Nếu bạn cần bật Miracast, hãy nhấn phím [MENU] và bắt đầu chiếu bằng cách sử dụng tùy chọn cho các điện thoại Android khác.</string>
+    <string name="screen_projection_example_document_summary_miui15">Chiếu bài thuyết trình sang TV trong khi chuyển đổi trang trình bày và kiểm tra chú thích từ thiết bị của bạn.</string>
+    <string name="screen_projection_example_game_summary_miui15">Chiếu game từ thiết bị của bạn sang TV.</string>
+</resources>
