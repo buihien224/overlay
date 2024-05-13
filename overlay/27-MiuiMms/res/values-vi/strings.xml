@@ -733,7 +733,7 @@ Tránh quấy rối thông tin "</string>
     <string name="pref_summary_allow_si_sl_push">Cho phép nhận và nhắc nhở tin nhắn đẩy WAP (SI/SL)</string>
     <string name="pref_summary_auto_delete">Xóa thông tin cũ khi đạt đến giới hạn trên</string>
     <string name="pref_summary_delete_limit">Giới hạn %1$s mỗi phiên</string>
-    <string name="pref_summary_delivery_reports">Bên kia trả lại báo cáo sau khi nhận được tin nhắn SMS</string>
+    <string name="pref_summary_delivery_reports">Hiện thông báo sau khi gửi được tin nhắn SMS</string>
     <string name="pref_summary_delivery_ringtone">Nhắc chuông sau khi bên kia nhận được tin nhắn</string>
     <string name="pref_summary_enable_ad_notification">Sau khi bật, tin nhắn SMS quảng cáo sẽ chỉ được tổng hợp và hiển thị trên thanh thông báo</string>
     <string name="pref_summary_enable_classify">Chia các danh mục tiếp thị và tài chính trong tin nhắn SMS thành các thanh trên cùng khác nhau để giảm gián đoạn và tối ưu hóa trải nghiệm người dùng</string>
@@ -749,7 +749,7 @@ Tránh quấy rối thông tin "</string>
     <string name="pref_title_authority_management">Quản lý phân quyền và hướng dẫn sử dụng</string>
     <string name="pref_title_auto_delete">Xóa thông tin cũ</string>
     <string name="pref_title_card_format">Phương thức chia sẻ danh thiếp</string>
-    <string name="pref_title_delivery_reports">Báo cáo giao hàng</string>
+    <string name="pref_title_delivery_reports">Thông báo đã gửi tin nhắn</string>
     <string name="pref_title_enable_ad_notification">Thông báo SMS khuyến mãi</string>
     <string name="pref_title_enable_classify">Bật chức năng phân loại SMS</string>
     <string name="pref_title_fwd_sender_info">Hiển thị nguồn thông tin khi chuyển tiếp</string>
