@@ -198,7 +198,7 @@
     <string name="alert_secret_album_message_new">Trượt xuống trong \"Album\" để xem mục cá nhân.</string>
     <string name="alert_secret_album_title">Làm thế nào để xem album cá nhân</string>
     <string name="alert_secret_album_title_new">Thêm thành công</string>
-    <string name="alert_selection_description">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn.</string>
+    <string name="alert_selection_description">Hệ thống sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn.</string>
     <string name="alert_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="all_faces">Ảnh với người này</string>
     <string name="all_items_synced">Tất cả các album đã được đồng bộ với đám mây</string>
@@ -1200,7 +1200,7 @@ khả dụng"</string>
     <string name="image_invalid_path">Đường dẫn không hợp lệ</string>
     <string name="image_not_found">Không tìm thấy ảnh</string>
     <string name="image_quota_fulfiled">Quá nhiều ảnh. Xóa một số ảnh và thử lại.</string>
-    <string name="image_selection_summary">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
+    <string name="image_selection_summary">Hệ thống sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
     <string name="image_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">Ảnh được chụp vào %s</string>
@@ -2279,7 +2279,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="search_feedback_task_request_award_failed">Không thể nhận phần thưởng. Thử lại sau.</string>
     <string name="search_feedback_task_requesting_award">Đang nhận phần thưởng​…</string>
     <string name="search_feedback_user_notice">Tôi đã đọc và đồng ý với %s.</string>
-    <string name="search_feedback_user_policy">Chính sách Riêng tư Thuật toán AI Thư viện MIUI</string>
+    <string name="search_feedback_user_policy">Chính sách Riêng tư Thuật toán AI Thư viện hệ thống</string>
     <string name="search_hint">Chạm để tìm kiếm</string>
     <string name="search_image_result_title">Kết quả tìm kiếm</string>
     <string name="search_login_now">Đăng nhập</string>
@@ -3062,7 +3062,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="video_quality_title_sub">Độ phân giải hiện tại: %1$s (≈%2$s)</string>
     <string name="video_with_time">Video được quay vào %s</string>
     <string name="video_with_time_and_location">Video được quay vào %1$s. Vị trí: %2$s.</string>
-    <string name="view_by_gallery_tip">Thư viện MIUI</string>
+    <string name="view_by_gallery_tip">Thư viện hệ thống</string>
     <string name="view_face_album">Xem album</string>
     <string name="view_more_face_desc">Xem thêm người</string>
     <string name="vivo">vivo</string>
@@ -3376,4 +3376,7 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="secret_album_password_update_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư có tác dụng với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
     <string name="secret_album_password_first_use_with_sms_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
     <string name="secret_album_set_pc_password_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động với tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
+	<string name="get_GP_app_btn_install">Cài đặt</string>
+    <string name="get_GP_app_msg">Để bật sao lưu, bạn cần cài đặt Google Photos. Quay lại trang này sau khi bạn cài đặt Google Photos để tiếp tục.</string>
+    <string name="get_GP_app_title">Cài đặt Google Photos</string>
 </resources>
