@@ -1616,5 +1616,26 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="xingxiu">Tinh Nhật Mã</string>
     <string name="year_indicator_month">Ngày đầu tiên của âm lịch</string>
     <string name="yiji_app_download_card_lebal">Tải xuống ứng dụng</string>
-
+    <string name="lunar_ba">8</string>
+    <string name="lunar_chu">Giao thừa</string>
+    <string name="lunar_chu_shi">Mùng 10 Tết</string>
+    <string name="lunar_er">2</string>
+    <string name="lunar_er_shi">20</string>
+    <string name="lunar_jiu">9</string>
+    <string name="lunar_leap">Nhuận</string>
+    <string name="lunar_ling">0</string>
+    <string name="lunar_liu">6</string>
+    <string name="lunar_nian">20</string>
+    <string name="lunar_qi">7</string>
+    <string name="lunar_san">3</string>
+    <string name="lunar_san_shi">30</string>
+    <string name="lunar_shi">10</string>
+    <string name="lunar_shi_er">12</string>
+    <string name="lunar_shi_yi">11</string>
+    <string name="lunar_si">4</string>
+    <string name="lunar_wu">5</string>
+    <string name="lunar_year">Năm</string>
+    <string name="lunar_yi">1</string>
+    <string name="lunar_yue">Rằm</string>
+    <string name="lunar_zheng">Tháng Giêng</string>
 </resources>
