@@ -1,137 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="one">%d ngày trước sự kiện</item>
-        <item quantity="other">%d ngày trước sự kiện</item>
-    </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="one">%1$d ngày sau</item>
-        <item quantity="other">%1$d ngày sau</item>
+        <item quantity="other">Trước sự kiện %d ngày</item>
     </plurals>
     <plurals name="Ndays_after_at">
-        <item quantity="one">Trong %1$d ngày lúc %2$s</item>
-        <item quantity="other">Trong %1$d ngày tại %2$s</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="one">%1$d ngày trước</item>
-        <item quantity="other">%1$d ngày trước</item>
+        <item quantity="other">Lúc %2$s sau %1$d ngày</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="one">%1$s ngày trước sự kiện tại %2$s</item>
-        <item quantity="other">%1$s ngày trước sự kiện tại %2$s</item>
+        <item quantity="other">%1$d ngày trước sự kiện lúc %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="one">%d giờ trước sự kiện</item>
-        <item quantity="other">%d giờ trước sự kiện</item>
+        <item quantity="other">Trước sự kiện %d giờ</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="one">%d phút trước sự kiện</item>
-        <item quantity="other">%d phút trước sự kiện</item>
+        <item quantity="other">Trước sự kiện %d phút</item>
     </plurals>
-    <plurals name="Nweek">
-        <item quantity="one">%d tuần trước sự kiện</item>
-        <item quantity="other">%d tuần trước sự kiện</item>
+    <plurals name="Nweeks">
+        <item quantity="other">Trước sự kiện %d tuần</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 giờ trước</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 giờ trước</item>
+        <item quantity="other">%d giờ trước</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Trong 1 giờ</item>
+        <item quantity="other">Trong %d giờ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Trong nửa giờ nữa</item>
+        <item quantity="other">Trong nửa giờ</item>
     </plurals>
-    <plurals name="abbrev_in_less_than_one_minutes">
-        <item quantity="other">Ngay lập tức</item>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="one">Trong 1 phút</item>
-        <item quantity="other">Trong %d phút</item>
+        <item quantity="other">Sau %d phút</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minutes_ago">
-        <item quantity="other">Ngay bây giờ</item>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="one">1 phút trước</item>
         <item quantity="other">%d phút trước</item>
     </plurals>
     <plurals name="after_num_minutes">
-        <item quantity="one">Trong %d phút</item>
-        <item quantity="other">Trong %d phút</item>
+        <item quantity="other">Sau %d phút</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="one">%1$s ngày</item>
         <item quantity="other">%1$s ngày</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="one">Kỷ niệm: %3$d năm kể từ %2$s sau %1$d ngày</item>
-        <item quantity="other">Kỷ niệm: %3$d năm kể từ %2$s sau %1$d ngày</item>
+        <item quantity="other">Kỷ niệm: %1$d ngày sau là %3$d năm %2$s</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="one">Kỷ niệm: %2$d năm kể từ %1$s</item>
-        <item quantity="other">Kỷ niệm: %2$d năm kể từ %1$s</item>
+        <item quantity="other">Kỷ niệm: %2$d năm %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="one">%1$s năm</item>
         <item quantity="other">%1$s năm</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="one">%1$d ngày kể từ</item>
-        <item quantity="other">%1$d ngày kể từ</item>
-    </plurals>
-    <plurals name="birthday_event_description_days_later">
-        <item quantity="one">%1$d ngày cho đến</item>
-        <item quantity="other">%1$d ngày cho đến</item>
-    </plurals>
-    <plurals name="birthday_notification_age_term">
-        <item quantity="one">%1$s-năm tuổi</item>
-        <item quantity="other">%1$s-năm tuổi</item>
-    </plurals>
-    <plurals name="birthday_notification_text_days_later">
-        <item quantity="one">%1$s ngày cho đến %4$s (%5$s)</item>
-        <item quantity="other">%1$s ngày cho đến %4$s (%5$s)</item>
-    </plurals>
-    <plurals name="countdown_day">
-        <item quantity="one">Còn %1$s ngày</item>
-        <item quantity="other">Còn %1$s ngày</item>
-    </plurals>
-    <plurals name="date_calcate_days_after">
-        <item quantity="one">%1$d ngày sau</item>
-        <item quantity="other">%1$d ngày sau</item>
-    </plurals>
-    <plurals name="date_calcate_days_ago">
-        <item quantity="one">%1$d ngày trước</item>
         <item quantity="other">%1$d ngày trước</item>
     </plurals>
-    <plurals name="date_calcate_direction_backward">
-        <item quantity="one">%1$d ngày sau</item>
+    <plurals name="birthday_event_description_days_later">
         <item quantity="other">%1$d ngày sau</item>
     </plurals>
-    <plurals name="date_calcate_direction_forward">
-        <item quantity="one">%1$d ngày trước</item>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s-tuổi</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">%1$s ngày đến %4$s (%5$s)</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">Còn lại %1$s ngày</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d ngày sau</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d ngày sau</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
         <item quantity="other">%1$d ngày trước</item>
     </plurals>
     <plurals name="delete_select_dup_events_title">
-        <item quantity="one">Bạn đang cố xóa một sự kiện lặp lại. Xóa sự kiện %d cùng với tất cả các lần lặp lại của nó ngay bây giờ?</item>
-        <item quantity="other">Bạn đang cố xóa các sự kiện lặp lại. Xóa sự kiện %d cùng với tất cả sự lặp lại của chúng ngay bây giờ?</item>
+        <item quantity="other">Bạn đang cố xóa các sự kiện lặp lại. Xóa %d sự kiện với tất cả các lần lặp lại ngay?</item>
     </plurals>
     <plurals name="delete_select_event_title">
-        <item quantity="one">Xóa sự kiện %d ngay bây giờ?</item>
-        <item quantity="other">Xóa %d sự kiện ngay bây giờ?</item>
+        <item quantity="other">Xóa %d sự kiện ngay?</item>
     </plurals>
-    <plurals name="edit_date_calcate_days_error_hint">
-        <item quantity="one">Bạn có thể nhập tối đa %1$d ngày</item>
-        <item quantity="other">Bạn có thể nhập tối đa %1$d ngày</item>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Bạn có thể nhập đến %1$d ngày</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="one">Có thể thiết lập tới %d lời nhắc</item>
-        <item quantity="other">Có thể thiết lập tối đa %d lời nhắc</item>
+        <item quantity="other">Có thể thiết lập đến %d nhắc nhở</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
@@ -140,135 +106,93 @@
         <item quantity="other">Trong 1 giờ</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">Trong nửa giờ nữa</item>
+        <item quantity="other">Trong nửa giờ</item>
     </plurals>
-    <plurals name="in_less_than_one_minutes">
-        <item quantity="other">Ngay lập tức</item>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="one">trong 1 phút</item>
         <item quantity="other">trong %d phút</item>
     </plurals>
-    <plurals name="less_than_one_minutes_ago">
-        <item quantity="other">Ngay bây giờ</item>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Vừa mới</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="one">Đã chọn %d mục</item>
         <item quantity="other">Đã chọn %d mục</item>
     </plurals>
     <plurals name="month_more_events">
-        <item quantity="one">+%d</item>
         <item quantity="other">+%d</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="one">%d thông báo mới</item>
-        <item quantity="other">%d thông báo mới</item>
-    </plurals>
-    <plurals name="n_attendees20">
-        <item quantity="one">%d lời mời</item>
+    <plurals name="n_attendees">
         <item quantity="other">%d lời mời</item>
     </plurals>
-    <plurals name="n_weeks">
-        <item quantity="one">%d</item>
-        <item quantity="other">%d</item>
+    <plurals name="n_day_before">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="n_day_later">
+        <item quantity="other">Sau %d ngày</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="one">1 phút trước</item>
         <item quantity="other">%d phút trước</item>
     </plurals>
-    <plurals name="other_all_day_events">
-        <item quantity="one">%d sự kiện khác</item>
-        <item quantity="other">%d sự kiện khác</item>
-    </plurals>
     <plurals name="other_num_events">
-        <item quantity="one">%d sự kiện khác</item>
         <item quantity="other">%d sự kiện khác</item>
     </plurals>
     <plurals name="other_num_todo_events">
-        <item quantity="one">Thêm %d nhiệm vụ</item>
-        <item quantity="other">Thêm %d nhiệm vụ</item>
+        <item quantity="other">%d nhiệm vụ khác</item>
     </plurals>
     <plurals name="reminder_custom_unit_day">
-        <item quantity="one"> ngày</item>
-        <item quantity="other"> ngày</item>
+        <item quantity="other">" ngày"</item>
     </plurals>
     <plurals name="reminder_custom_unit_hour">
-        <item quantity="one"> giờ</item>
-        <item quantity="other"> giờ</item>
+        <item quantity="other">" giờ"</item>
     </plurals>
-    <plurals name="reminder_custom_unit_minutes">
-        <item quantity="one"> phút</item>
-        <item quantity="other"> phút</item>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" phút"</item>
     </plurals>
     <plurals name="reminder_later_toast">
-        <item quantity="one">Lời nhắc tiếp theo sau %1$d phút</item>
-        <item quantity="other">Lời nhắc tiếp theo sau %1$d phút</item>
+        <item quantity="other">Nhắc nhở tiếp theo sau %1$d phút</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="one">Mỗi %1$s trên %2$s</item>
-        <item quantity="other">Mỗi %1$s trên %2$s</item>
+        <item quantity="other">mỗi %1$s vào %2$s</item>
     </plurals>
-    <plurals name="repeat_interval_ Frequency_day_multiple">
-        <item quantity="one">%1$d ngày</item>
+    <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d ngày</item>
     </plurals>
-    <plurals name="repeat_interval_ Frequency_month_multiple">
-        <item quantity="one">%1$d tháng</item>
+    <plurals name="repeat_interval_frequency_month_multiple">
         <item quantity="other">%1$d tháng</item>
     </plurals>
-    <plurals name="repeat_interval_ Frequency_week_multiple">
-        <item quantity="one">%1$d tuần</item>
+    <plurals name="repeat_interval_frequency_week_multiple">
         <item quantity="other">%1$d tuần</item>
     </plurals>
-    <plurals name="repeat_interval_ Frequency_year_multiple">
-        <item quantity="one">%1$d năm</item>
+    <plurals name="repeat_interval_frequency_year_multiple">
         <item quantity="other">%1$d năm</item>
     </plurals>
     <plurals name="today_has_num_event">
-        <item quantity="one">%d sự kiện được lên kế hoạch cho ngày hôm nay</item>
-        <item quantity="other">%d sự kiện được lên kế hoạch cho ngày hôm nay</item>
+        <item quantity="other">%d sự kiện được lên kế hoạch cho hôm nay</item>
     </plurals>
     <plurals name="travel_time_range_hours">
-        <item quantity="one">%d giờ</item>
         <item quantity="other">%d giờ</item>
     </plurals>
     <plurals name="travel_time_range_mins">
-        <item quantity="one">%d phút</item>
         <item quantity="other">%d phút</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">TUẦN %d</item>
     </plurals>
     <plurals name="widget_countdown_day">
-        <item quantity="one">%1$s ngày</item>
         <item quantity="other">%1$s ngày</item>
     </plurals>
-    <plurals name="widget_normal_agenda_ending_counts">
-        <item quantity="one">%d sự kiện đang diễn ra</item>
+    <plurals name="widget_normal_agenda_going_counts">
         <item quantity="other">%d sự kiện đang diễn ra</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
-        <item quantity="one">Sự kiện tiếp theo sau %d phút</item>
-        <item quantity="other">Sự kiện tiếp theo sau %d phút</item>
+        <item quantity="other">Sự kiện mới sau %d phút</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
-        <item quantity="one">%d sự kiện ngày mai</item>
         <item quantity="other">%d sự kiện ngày mai</item>
     </plurals>
     <plurals name="work_days">
-        <item quantity="one">%d ngày làm việc</item>
         <item quantity="other">%d ngày làm việc</item>
-    </plurals>
-    <plurals name="n_attendees">
-        <item quantity="one">%d lời mời</item>
-        <item quantity="other">%d lời mời</item>
-    </plurals>
-    <plurals name="n_day_before">
-        <item quantity="one">%d ngày trước</item>
-        <item quantity="other">%d ngày trước</item>
-    </plurals>
-    <plurals name="n_day_later">
-        <item quantity="one">Trong %d ngày</item>
-        <item quantity="other">Trong %d ngày</item>
     </plurals>
 </resources>
