@@ -841,17 +841,8 @@ Enter your PIN to unlock."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -2054,14 +2045,10 @@ If you have questions, contact %2$s."</string>
     <string name="status_bar">Status bar</string>
     <string name="status_bar_airplane">Aeroplane mode</string>
     <string name="status_bar_alarm">Alarm</string>
-    <string name="status_bar_clock_date_format">E, MMM d</string>
-    <string name="status_bar_clock_date_format_12">E, MMM d</string>
     <string name="status_bar_clock_date_time_format">H:mm E, MMM d</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, MMMM dd</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, MMMM dd</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E

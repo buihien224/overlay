@@ -151,17 +151,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'ਵਜੇ'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'ਵਜੇ'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ਮਿ.ਸ.'"</string>
     <string name="fmt_time_minute">"m'ਮਿੰਟ'"</string>
     <string name="fmt_time_minute_second">"m'ਮਿੰਟ' s'ਸ'"</string>
@@ -521,14 +512,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">ਅਵੈਧ ਸਿਮ ਕਾਰਡ</string>
     <string name="sim_state_locked_puk_dialog_message">ਤੁਸੀਂ ਘੱਟੋ-ਘੱਟ %d ਵਾਰ ਇੱਕ ਗ਼ਲਤ PUK ਕੋਡ ਦਾਖ਼ਲ ਕੀਤਾ ਹੈ। ਤੁਹਾਡਾ ਸਿਮ ਕਾਰਡ ਹੁਣ ਅਵੈਧ ਹੈ। ਇਸ ਸਿਮ ਕਾਰਡ ਨੂੰ ਦੂਸਰੇ ਨਾਲ ਬਦਲੋ।</string>
     <string name="start_camera_error_try_again">ਕੈਮਰਾ ਲਾਂਚ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM, h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

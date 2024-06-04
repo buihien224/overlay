@@ -847,17 +847,8 @@ Masukkan PIN untuk buka kunci."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"'pukul' h"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"'pukul' H"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'md'"</string>
     <string name="fmt_time_minute">"m'mnt'"</string>
     <string name="fmt_time_minute_second">"m'mnt' s'd'"</string>
@@ -2108,14 +2099,10 @@ Jika Anda memiliki pertanyaan, hubungi %2$s."</string>
     <string name="status_bar">Bilah status</string>
     <string name="status_bar_airplane">Mode pesawat</string>
     <string name="status_bar_alarm">Alarm</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

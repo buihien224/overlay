@@ -151,17 +151,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'മണി'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'മണി'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'മിസെ'"</string>
     <string name="fmt_time_minute">"m'മിനിറ്റ്'"</string>
     <string name="fmt_time_minute_second">"m'മിനിറ്റ്' s'സെ'"</string>
@@ -521,14 +512,10 @@ mm"</string>
     <string name="sim_state_locked_dialog_title">സിം കാർഡ് അസാധുവാണ്</string>
     <string name="sim_state_locked_puk_dialog_message">നിങ്ങൾ കുറഞ്ഞത് %d തവണയെങ്കിലും തെറ്റായ PUK കോഡ് നൽകി. നിങ്ങളുടെ സിം കാർഡ് ഇപ്പോൾ അസാധുവാണ്. ഈ സിം കാർഡ് മറ്റൊന്ന് ഉപയോഗിച്ച് മാറ്റി പകരംവയ്ക്കുക.</string>
     <string name="start_camera_error_try_again">ക്യാമറ സമാരംഭിക്കാനായില്ല. വീണ്ടും ശ്രമിക്കുക.</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

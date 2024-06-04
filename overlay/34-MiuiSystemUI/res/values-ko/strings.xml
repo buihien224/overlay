@@ -847,17 +847,8 @@ PIN을 입력하여 잠금을 해제하십시오."</string>
     <string name="fmt_date_year">yyyy년</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h '시'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
     <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H '시'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'밀리초'"</string>
     <string name="fmt_time_minute">"m'분'"</string>
     <string name="fmt_time_minute_second">"m'분' s'초'"</string>
@@ -2108,14 +2099,10 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="status_bar">상태 표시줄</string>
     <string name="status_bar_airplane">비행기 모드</string>
     <string name="status_bar_alarm">알람</string>
-    <string name="status_bar_clock_date_format">M월d일 E</string>
-    <string name="status_bar_clock_date_format_12">M월d일 E</string>
     <string name="status_bar_clock_date_time_format">M월d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월d일 E a h:mm</string>
     <string name="status_bar_clock_date_weekday_format">M월d일 EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">M월d일 EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"M월d일
 EEEE"</string>
     <string name="status_bar_date_format_12">"M월d일

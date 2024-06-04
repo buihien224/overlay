@@ -852,17 +852,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'น.'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"h 'น.'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
     <string name="fmt_time_minute">"m'นาที'"</string>
     <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
@@ -2131,14 +2122,10 @@ mm"</string>
     <string name="status_bar">แถบสถานะ</string>
     <string name="status_bar_airplane">โหมดบนเครื่องบิน</string>
     <string name="status_bar_alarm">การปลุก</string>
-    <string name="status_bar_clock_date_format">E d MMM</string>
-    <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">E d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
