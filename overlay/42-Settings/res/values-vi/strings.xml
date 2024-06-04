@@ -1288,7 +1288,7 @@ Sau đây là danh sách các ứng dụng:
     <string name="beauty_camera">Làm đẹp cho cuộc gọi video</string>
     <string name="beauty_camera_summary">Sử dụng Làm đẹp cho cuộc gọi video WeChat</string>
     <string name="beauty_camera_switch">Làm đẹp</string>
-    <string name="beauty_fc_assistant">Trợ lý máy ảnh trước</string>
+    <string name="beauty_fc_assistant">Trợ lý camera trước</string>
     <string name="billing_cycle">Hạn mức và cảnh báo dữ liệu</string>
     <string name="billing_cycle_days_left">{count,plural, =1{Còn # ngày}other{Còn # ngày}}</string>
     <string name="billing_cycle_less_than_one_day_left">Còn chưa đến 1 ngày</string>
@@ -5239,11 +5239,11 @@ Bạn sẽ không thể khôi phục lại hành động này.</string>
     <string name="material_timepicker_select_time">Chọn thời gian</string>
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
     <string name="max_aspect_settings_all_app_display_loading">Vui lòng chờ…</string>
-    <string name="max_cpu10_info">Mười nhân Mạnh nhất </string>
-    <string name="max_cpu2_info">Hai nhân Mạnh nhất </string>
-    <string name="max_cpu4_info">Bốn nhân Mạnh nhất </string>
-    <string name="max_cpu6_info">Sáu nhân Mạnh nhất </string>
-    <string name="max_cpu8_info">Tám nhân Mạnh nhất </string>
+    <string name="max_cpu10_info">"Mười nhân Mạnh nhất "</string>
+    <string name="max_cpu2_info">"Hai nhân Mạnh nhất "</string>
+    <string name="max_cpu4_info">"Bốn nhân Mạnh nhất "</string>
+    <string name="max_cpu6_info">"Sáu nhân Mạnh nhất "</string>
+    <string name="max_cpu8_info">"Tám nhân Mạnh nhất "</string>
     <string name="max_fingerprint_number_reached">Không thể thêm nhiều hơn 5 vân tay. Để thêm vân tay mới, hãy xóa vân tay hiện tại trước.</string>
     <string name="max_fingerprint_reached_toast">Bạn có thể thêm đến 5 vân tay</string>
     <string name="max_fps_right_value">Lên đến %s Hz</string>
