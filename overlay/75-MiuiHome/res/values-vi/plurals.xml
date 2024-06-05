@@ -76,4 +76,10 @@
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">Đã gỡ cài đặt %1$d ứng dụng</item>
     </plurals>
+	<plurals name="delete_wallpapers_message">
+        <item quantity="other">Xóa %1$d hình nền?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Đã chọn %1$d mục</item>
+    </plurals>
 </resources>
