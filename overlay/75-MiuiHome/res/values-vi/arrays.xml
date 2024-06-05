@@ -1,42 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="gadget_weather_image">
-        <item>Quang</item>
-        <item>Nhiều mây</item>
-        <item>Sương mù</item>
-        <item>Nhiều sương</item>
-        <item>Mưa bão dữ dội</item>
-        <item>Mưa bão</item>
-        <item>Mưa rất lớn</item>
-        <item>Dông</item>
-        <item>Mưa rào</item>
-        <item>Mưa lớn</item>
-        <item>Mưa</item>
-        <item>Mưa phùn</item>
-        <item>Mưa tuyết</item>
-        <item>Bão tuyết</item>
-        <item>Tuyết rơi theo đợt</item>
-        <item>Tuyết rơi dày</item>
-        <item>Tuyết rơi</item>
-        <item>Tuyết rơi nhẹ</item>
-        <item>Bão cát mạnh</item>
-        <item>Bão cát</item>
-        <item>Bão cát nhẹ</item>
-        <item>Bão cát</item>
-        <item>Mưa đá</item>
-        <item>Bụi</item>
-        <item>Khói mù</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Mặc định</item>
-        <item>Cổ điển</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Chủ đề mặc định</item>
-        <item>Căn giữa</item>
-        <item>Bên trái</item>
-        <item>Bên phải</item>
-    </string-array>
     <string-array name="animation_rate_entries">
         <item>Thư thái</item>
         <item>Tiêu chuẩn</item>
@@ -72,4 +35,64 @@
         <item>Xoay</item>
         <item>Hộp 3D</item>
     </string-array>
+	<string-array name="widget_component_add_source"> 
+		<item>Trình chọn trên màn hình chính</item> 
+		<item>Bên trong ứng dụng</item> 
+		<item>Lối tắt ứng dụng</item> 
+		<item>Trong ứng dụng chủ đề</item> 
+		<item>Thành phần cổ điển</item> 
+		<item>Trình chọn ở màn hình cá nhân</item> 
+		<item>Vị trí hiển thị thẻ đề xuất ở màn hình cá nhân</item> 
+		<item>Vị trí hiển thị hình nền thẻ đề xuất ở màn hình cá nhân</item> 
+		<item>Vị trí thủ công</item> 
+		<item>Vị trí lối tắt trên màn hình chính</item> 
+	</string-array> 
+	<string-array name="widget_component_add_way"> 
+		<item>Kéo thả từ trang chi tiết trình chọn</item> 
+		<item>Nút thêm ở trang chi tiết trình chọn</item> 
+		<item>Kéo thả từ trang chủ trình chọn</item> 
+		<item>Kéo thả từ trang chủ khác</item> 
+		<item>Nhấn thay đổi từ trang bộ lọc</item> 
+		<item>Nút thêm ở thẻ ngang trên trang chủ</item> 
+		<item>Nút ứng dụng ở trang chỉnh sửa</item> 
+		<item>Kéo thả từ trang bộ lọc</item> 
+		<item>Kéo thả từ thẻ ngang ở trang phân loại</item> 
+		<item>Kéo thả từ trang kết quả tìm kiếm</item> 
+	</string-array> 
+	<string-array name="widget_component_default_source"> 
+		<item>Không mặc định</item> 
+		<item>Màn hình chính</item> 
+		<item>Màn hình cá nhân</item> 
+	</string-array> 
+	<string-array name="widget_component_delete_way"> 
+		<item>Xóa lối tắt</item> 
+		<item>Xóa ở trên cùng</item> 
+		<item>Gỡ cài đặt ứng dụng</item> 
+		<item>Thay đổi lối tắt</item> 
+		<item>Đẩy xuống</item> 
+		<item>Xóa hoàn toàn</item> 
+		<item>Khác</item> 
+	</string-array> 
+	<string-array name="widget_component_source"> 
+		<item>Bố cục mặc định</item> 
+		<item>Thêm thủ công</item> 
+		<item>Thêm bởi hoạt động</item> 
+		<item>Thay thể thẻ</item> 
+	</string-array> 
+	<string-array name="widget_drag_type_name"> 
+		<item>Trong màn hình chính</item> 
+		<item>Trong màn hình cá nhân</item> 
+		<item>Từ màn hình chính sang màn hình cá nhân</item> 
+		<item>Từ màn hình cá nhân sang màn hình chính</item> 
+	</string-array> 
+	<string-array name="widget_host_module_name"> 
+		<item>Màn hình chính</item> 
+		<item>Vùng thành phần ở màn hình cá nhân</item> 
+		<item>Widget động theo thời gian thực ở màn hình cá nhân</item> 
+	</string-array> 
+	<string-array name="widget_package_install_status"> 
+		<item>Chưa cài đặt</item> 
+		<item>Đã cài đặt</item> 
+		<item>Có thể nâng cấp</item> 
+	</string-array>
 </resources>
