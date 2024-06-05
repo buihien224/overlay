@@ -48,6 +48,18 @@ tính năng này sẽ được thêm vào Không gian thứ hai tự động."</
     <string name="airspace_users_full">Không thể tạo thêm Không gian làm việc</string>
     <string name="alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
     <string name="am">SA</string>
+    <string name="aon_gesture_hint_trigger">Thực hiện một cử chỉ ngay</string>
+    <string name="aon_learn_double_press_tip">Thực hiện hành động bấm đúp với lòng bàn tay hướng vào camera để tạm dừng nhạc</string>
+    <string name="aon_learn_draw_circle_phone_tip">Vẽ một vòng tròn theo chiều kim đồng hồ với lòng bàn tay hướng vào camera để trả lời cuộc gọi</string>
+    <string name="aon_learn_draw_circle_tip">Vẽ một vòng tròn theo chiều kim đồng hồ với lòng bàn tay hướng vào camera để trả lời cuộc gọi được chuyển đến máy tính bảng</string>
+    <string name="aon_learn_gesture_position_down_tip">Giữ bàn tay với các ngón tay hướng xuống cách camera từ %1$d đến %2$d cm cho đến khi biểu tượng bàn tay xuất hiện</string>
+    <string name="aon_learn_gesture_position_left_tip">Giữ bàn tay với các ngón tay hướng sang trái cách camera từ %1$d đến %2$d cm cho đến khi biểu tượng bàn tay xuất hiện</string>
+    <string name="aon_learn_gesture_position_right_tip">Giữ bàn tay với các ngón tay hướng sang phải cách camera từ %1$d đến %2$d cm cho đến khi biểu tượng bàn tay xuất hiện</string>
+    <string name="aon_learn_gesture_position_up_tip">Giữ bàn tay với các ngón tay hướng lên cách camera từ %1$d đến %2$d cm cho đến khi biểu tượng bàn tay xuất hiện</string>
+    <string name="aon_learn_wave_down_tip">Vẫy tay xuống để cuộn</string>
+    <string name="aon_learn_wave_left_tip">Vẫy tay sang trái để phát bài hát trước</string>
+    <string name="aon_learn_wave_right_tip">Vẫy tay phải để phát bài hát tiếp theo</string>
+    <string name="aon_learn_wave_up_tip">Vẫy tay lên để cuộn</string>
     <string name="appData">Ứng dụng đã cài đặt</string>
     <string name="app_name">Trình cắm tính năng hệ thống</string>
     <string name="app_switch_key">Gần đây</string>
@@ -148,7 +160,7 @@ tính năng này sẽ được thêm vào Không gian thứ hai tự động."</
     <string name="create_work_space">Tạo Không gian làm việc</string>
     <string name="creating_app_icon">Đang tạo biểu tượng…</string>
     <string name="cta_declaration_agree_and_continue">Đồng ý</string>
-    <string name="cta_declaration_message_format" formatted="false">Bạn phải đọc và đồng ý với &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> của chúng tôi trước khi sử dụng chế độ Doanh nghiệp. Thiết bị của bạn cần kết nối với internet để kích hoạt chế độ này. Đồng ý?</string>
+    <string name="cta_declaration_message_format" formatted="false">Bạn phải đọc và đồng ý với &lt;font color=%s>&lt;a href=%s>Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi trước khi sử dụng chế độ Doanh nghiệp. Thiết bị của bạn cần kết nối với internet để kích hoạt chế độ này. Đồng ý?</string>
     <string name="cta_declaration_title">Điều khoản và Điều kiện</string>
     <string name="current_space">Không gian hiện tại</string>
     <string name="custom_gesture_title">Tùy chỉnh cử chỉ</string>
@@ -317,6 +329,20 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="gesture_disabled">Tắt</string>
     <string name="gesture_enable">Bật</string>
     <string name="gesture_function_dialog_message">%1$s được sử dụng làm \"%2$s\". Thay thế bằng \"%3$s\"?</string>
+    <string name="gesture_hint_call">Đang trả lời cuộc gọi…</string>
+    <string name="gesture_hint_endcall">Đang kết thúc cuộc gọi…</string>
+    <string name="gesture_hint_media_fast_forward">Chuyển tiếp nhanh…</string>
+    <string name="gesture_hint_media_next">Bài tiếp theo</string>
+    <string name="gesture_hint_media_play_pause">Phát/Tạm dừng</string>
+    <string name="gesture_hint_media_previous">Bài trước</string>
+    <string name="gesture_hint_media_rewind">Đang tua lại…</string>
+    <string name="gesture_hint_media_volume">Đang điều chỉnh âm lượng…</string>
+    <string name="gesture_hint_page_down">Trang tiếp theo</string>
+    <string name="gesture_hint_page_up">Trang trước</string>
+    <string name="gesture_hint_swipe_down">Trượt xuống</string>
+    <string name="gesture_hint_swipe_left">Trượt sang trái</string>
+    <string name="gesture_hint_swipe_right">Trượt sang phải</string>
+    <string name="gesture_hint_swipe_up">Trượt lên</string>
     <string name="gesture_settings_title">Lối tắt cử chỉ</string>
     <string name="global_stylus_summary">Viết trong bất kỳ trường văn bản và chuyển đổi chữ viết tay thành văn bản (chỉ hỗ trợ tiếng Anh và tiếng Trung)</string>
     <string name="global_stylus_title">Soạn thảo</string>
@@ -351,15 +377,26 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="greenguard_new_install_title">Cài đặt Bảo vệ Gia đình</string>
     <string name="greenguard_parent_des">Quản lý thiết bị của bạn bè và gia đình</string>
     <string name="greenguard_parent_des_title">Sử dụng Kite Guard để thêm thiết bị</string>
+    <string name="guide_book_page_flip">Lật trang</string>
+    <string name="guide_cell_phone_call_endcall">Trả lời hoặc kết thúc cuộc gọi</string>
+    <string name="guide_confirm">Tôi biết</string>
     <string name="guide_contact_sub_title_desc">"Liên hệ được thêm vào Không gian thứ hai sẽ là liên hệ cá nhân.
 Tin nhắn chỉ xuất hiện trong Không gian thứ hai."</string>
     <string name="guide_contact_suc_sub_title_desc">Chỉ tin nhắn và liên hệ cá nhân được hiển thị trong Không gian thứ hai</string>
     <string name="guide_contact_suc_title_desc">Đặt thành công</string>
     <string name="guide_contact_title_desc">Hiển thị mục riêng tư trong Không gian thứ hai?</string>
+    <string name="guide_media_play_pause">Phát và tạm dừng video và âm thanh</string>
+    <string name="guide_media_process">Điều chỉnh tiến trình phát</string>
+    <string name="guide_media_volume">Điều chỉnh âm lượng phương tiện</string>
+    <string name="guide_meida_next_previous">Chuyển đổi giữa các bài hát</string>
+    <string name="guide_page_up_down">Lật trang</string>
+    <string name="guide_phone_call_endcall">Trả lời hoặc kết thúc cuộc gọi</string>
     <string name="guide_pwd_detail_title">"Bảo vệ dữ liệu của bạn
 Vào Không gian thứ hai từ Màn hình khóa"</string>
     <string name="guide_setting_guide_title">Quản lý Không gian thứ hai</string>
     <string name="guide_start_text">Một thiết bị - Hai không gian.</string>
+    <string name="guide_swipe_right_left">Trượt theo chiều ngang</string>
+    <string name="guide_swipe_up_down">Trượt lên và xuống</string>
     <string name="has_created_second_space">"Bạn có thể mở Không gian thứ hai.
 Một thiết bị - Hai không gian."</string>
     <string name="hidden_app">Không gian thứ hai</string>
@@ -371,7 +408,7 @@ Một thiết bị - Hai không gian."</string>
     <string name="import_application_desc">"Nhập ứng dụng vào Không gian thứ hai.
 Bạn cũng có thể tải xuống từ chợ ứng dụng."</string>
     <string name="import_contacts">Nhập liên hệ</string>
-    <string name="import_contacts_desc">Thiết lập liên hệ đã nhập làm liên hệ cá nhân</string>
+    <string name="import_contacts_desc">Thiết lập liên hệ quan trọng sang chế độ riêng tư</string>
     <string name="import_contacts_suc">Đã nhập liên hệ riêng</string>
     <string name="import_file_suc">Tập tin đã được nhập vào thư mục</string>
     <string name="import_now">Nhập</string>
@@ -420,6 +457,10 @@ Bạn cũng có thể tải xuống từ chợ ứng dụng."</string>
     <string name="keyboard_back_light">Đèn nền bàn phím</string>
     <string name="keyboard_back_light_automatic_adjustment">Tự động điều chỉnh đèn nền</string>
     <string name="keyboard_back_light_brightness">Độ sáng đèn nền</string>
+    <string name="keyboard_connect_fail_text">Không thể kết nối bàn phím</string>
+    <string name="keyboard_connect_lose_text">Mất kết nối bàn phím</string>
+    <string name="keyboard_connect_low_electricity_text">Pin bàn phím yếu. Kết nối với nguồn điện.</string>
+    <string name="keyboard_connect_success_text">Kết nối bàn phím thành công</string>
     <string name="keyboard_cursor_style_title">Kiểu con trỏ</string>
     <string name="keyboard_cursor_title">Con trỏ</string>
     <string name="keyboard_function_summary_first_line">·Bấm và giữ để hiển thị lối tắt.</string>
@@ -689,6 +730,8 @@ Nếu bạn giữ phím trong %s giây, bạn sẽ mở menu tắt máy."</strin
     <string name="notification_from_second_user">Hiển thị thông báo từ Không gian thứ hai</string>
     <string name="notification_setting_second_space">Thiết lập Không gian thứ hai</string>
     <string name="notification_setting_second_space_desc">Thêm mật khẩu Không gian thứ hai và di chuyển dữ liệu</string>
+    <string name="notification_tof_gesture_content_text">Bật tính năng này để thực hiện các hành động khác nhau mà không cần chạm vào màn hình</string>
+    <string name="notification_tof_gesture_title">Nhận dạng cử chỉ không tiếp xúc</string>
     <string name="ok_button">OK</string>
     <string name="openPasswordGuard">Đặt mật khẩu Không gian thứ hai</string>
     <string name="openSuccess">Đã bật</string>
@@ -782,7 +825,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="second_space_desktop_tips_dialog_title">Cập nhật quan trọng</string>
     <string name="second_space_finger_printf_desc">Thêm vân tay cụ thể để vào Không gian thứ hai</string>
     <string name="second_space_finger_printf_title">Vân tay Không gian thứ hai</string>
-    <string name="second_space_setting_search_label">Bảo vệ riêng tư/Bảo vệ/Tính năng bảo vệ riêng tư</string>
+    <string name="second_space_setting_search_label">Riêng tư &amp; bảo mật/Riêng tư</string>
     <string name="secondspace_homepage">"Đặt khóa màn hình được chỉ định cho Không gian thứ hai.
 Tách riêng và đảm bảo an toàn dữ liệu của bạn."</string>
     <string name="seek_bar_info">Điều chỉnh kích thước</string>
@@ -885,6 +928,7 @@ Chạm hai lần để mở Gần đây."</string>
     <string name="stylus_btn_skip">Bỏ qua</string>
     <string name="stylus_connect">Chạm để kết nối</string>
     <string name="stylus_connect_fail">Không thể kết nối. Hãy đính kèm lại.</string>
+    <string name="stylus_connect_failV2">Không thể kết nối. Thử lại.</string>
     <string name="stylus_connect_fail_no_battery">Sạc bút cảm ứng của bạn ngay</string>
     <string name="stylus_connect_fail_no_reason">Không thể kết nối</string>
     <string name="stylus_connect_fail_not_match_tablet">Bút cảm ứng không tương thích với máy tính bảng</string>
@@ -904,9 +948,11 @@ Chạm hai lần để mở Gần đây."</string>
     <string name="stylus_not_connect_message_new">Gắn bút cảm ứng để ghép nối</string>
     <string name="stylus_ota_check_failed_battery">Không thể kiểm tra. Pin bút cảm ứng sắp hết.</string>
     <string name="stylus_ota_check_failed_info">Không thể kiểm tra phiên bản firmware. Hãy gắn bút cảm ứng lại.</string>
+    <string name="stylus_ota_check_failed_infoV2">Không thể tải phiên bản firmware. Kết nối lại bút cảm ứng.</string>
     <string name="stylus_ota_check_update">Kiểm tra cập nhật</string>
     <string name="stylus_ota_completed">Cập nhật thành công</string>
     <string name="stylus_ota_completed_tip">Cập nhật firmware thành công. Gắn bút cảm ứng để ghép nối.</string>
+    <string name="stylus_ota_completed_tipV2">Đã cập nhật bút cảm ứng. Kết nối lại trước khi sử dụng.</string>
     <string name="stylus_ota_current_firmware_version">Phiên bản firmware</string>
     <string name="stylus_ota_demands">Luôn bật Bluetooth trong suốt quá trình cập nhật. Đảm bảo pin không ít hơn %1$s.</string>
     <string name="stylus_ota_download_failed">Không thể tải xuống firmware</string>
@@ -1028,6 +1074,17 @@ Chạm hai lần để mở Gần đây."</string>
     <string name="title_switch_file">Xóa tập tin này?</string>
     <string name="title_switch_photo">Xóa ảnh này?</string>
     <string name="today">Hôm nay</string>
+    <string name="tof_learn_double_press">Tìm hiểu cử chỉ \"Hành động bấm đúp\"</string>
+    <string name="tof_learn_draw_circle">Tìm hiểu cử chỉ \"Vẽ một vòng tròn\"</string>
+    <string name="tof_learn_exit">Thoát</string>
+    <string name="tof_learn_gesture_error_try_again">Không thể nhận dạng cử chỉ. Điều chỉnh vị trí bàn tay của bạn và thử lại.</string>
+    <string name="tof_learn_gesture_operation_success">Hoàn tất!</string>
+    <string name="tof_learn_incall_date">Th 5</string>
+    <string name="tof_learn_incall_location">Guangzhou, Guangdong China Mobile</string>
+    <string name="tof_learn_wave_down">Tìm hiểu cử chỉ \"Vẫy xuống\"</string>
+    <string name="tof_learn_wave_left">Tìm hiểu cử chỉ \"Vẫy sang trái\"</string>
+    <string name="tof_learn_wave_right">Tìm hiểu cử chỉ \"Vẫy sang phải\"</string>
+    <string name="tof_learn_wave_up">Tìm hiểu cử chỉ \"Vẫy lên\"</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="touchpad_back">Quay lại</string>
     <string name="touchpad_back_summary">Trượt vào bằng hai ngón tay từ cạnh trái hoặc phải của bàn rê</string>
@@ -1107,7 +1164,7 @@ dành riêng cho mỗi ứng dụng"</string>
     <string name="xspace_head">Ứng dụng kép</string>
     <string name="xspace_header">Ứng dụng kép</string>
     <string name="xspace_instagram_title">Instagram</string>
-    <string name="xspace_install_complete">&lt;font>Tạo ứng dụng kép thành công. &lt;/font>&lt;font color=#0D84FF>Mở ngay&lt;/font>.</string>
+    <string name="xspace_install_complete">Tạo ứng dụng kép thành công. Mở từ Màn hình chính.</string>
     <string name="xspace_install_completed">Biểu tượng đã được thêm vào Màn hình chính</string>
     <string name="xspace_install_completed_global">Biểu tượng đã thêm đến ngăn ứng dụng</string>
     <string name="xspace_install_failed">Không thể tạo</string>

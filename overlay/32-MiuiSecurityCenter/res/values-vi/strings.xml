@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_Access_Gallery">Truy cập ảnh và video được quay bằng máy ảnh</string>
+    <string name="HIPS_Perm_Access_Gallery">Truy cập ảnh và video được quay bằng camera</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Cho phép ứng dụng này truy cập vào ảnh và video được quay bằng ứng dụng Camera hệ thống</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bật và tắt Bluetooth</string>
     <string name="HIPS_Perm_CallLog_Desc">Viết và xóa lịch sử cuộc gọi</string>
@@ -107,6 +107,13 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu Khóa ứng dụng</string>
     <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi game</string>
+    <string name="accessibility_keyboard_delete_button">Xóa</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Số</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Biểu tượng</string>
+    <string name="accessibility_keyboard_ok_button">Enter</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Chữ cái</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Khóa biểu tượng</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_60">Sửa</string>
     <string name="action_button_text_60_80">Sửa</string>
@@ -302,6 +309,13 @@
     <string name="app_install_intercept">Chặn cài đặt</string>
     <string name="app_install_tips_go_to">Mở</string>
     <string name="app_install_tips_install_success">Đã cài đặt %1$s thành công</string>
+    <string name="app_isolate_func_close_tip">Nếu bạn tắt tính năng này, một số dữ liệu ứng dụng có thể bị mất. Sao lưu dữ liệu quan trọng trước. Tắt ngay?</string>
+    <string name="app_isolate_func_closing">Đang tắt…</string>
+    <string name="app_isolate_func_opening">Đang bật…</string>
+    <string name="app_lock_face_error_to_try">Chạm vào biểu tượng khuôn mặt để sử dụng Mở khóa bằng khuôn mặt</string>
+    <string name="app_lock_pwd">Nhập mật khẩu để mở khóa</string>
+    <string name="app_lock_pwd_forget">Quên mật khẩu</string>
+    <string name="app_lock_pwd_or_finger">Mở khóa bằng mật khẩu hoặc vân tay</string>
     <string name="app_management_empty_desc">Ứng dụng này không hỗ trợ tính năng này</string>
     <string name="app_management_for_chain_start">Chặn mở ứng dụng khác</string>
     <string name="app_management_for_chain_start_desc">Ngăn ứng dụng này kết nối hoặc mở ứng dụng khác</string>
@@ -448,7 +462,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_permission_use_group_calendar">Lịch</string>
     <string name="app_permission_use_group_calendar_des">Đọc và thêm thông tin lịch</string>
     <string name="app_permission_use_group_camera">Camera</string>
-    <string name="app_permission_use_group_camera_des">Sử dụng máy ảnh</string>
+    <string name="app_permission_use_group_camera_des">Sử dụng camera</string>
     <string name="app_permission_use_group_contact">Liên hệ</string>
     <string name="app_permission_use_group_contact_des">Đọc và thêm thông tin liên hệ</string>
     <string name="app_permission_use_group_location">Thông tin vị trí</string>
@@ -663,7 +677,7 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="back_sound_fail">Không thể thiết lập. Cài đặt nhà mạng đã thay đổi. Thiết lập thẻ SIM hiện tại làm thẻ dữ liệu, kết nối mạng và thử lại.</string>
     <string name="back_sound_success">Đặt thành công</string>
     <string name="back_sound_support">Tắt Wi-Fi trước</string>
-    <string name="back_sound_support_china">Tắt WLAN trước</string>
+    <string name="back_sound_support_china">Tắt Wi-Fi trước</string>
     <string name="background_restrict_app_dialog_message">Giới hạn truy cập mạng nền của ứng dụng này sẽ làm cho ứng dụng không thể hoạt động bình thường như nhận tin nhắn và tải xuống nội dung v.v...Vẫn giới hạn?</string>
     <string name="background_traffic">Nền sau %s</string>
     <string name="backsound_set_hint">Đặt âm báo từ chối của bạn cho %s?</string>
@@ -724,8 +738,8 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="battery_status_overheat">Quá nhiệt</string>
     <string name="battery_status_unknown">Lỗi không xác định</string>
     <string name="battery_temperature_title">Nhiệt độ</string>
-    <string name="beauty_fc_assistant">Trợ lý máy ảnh trước</string>
-    <string name="beauty_fc_assistant_summary_common">Sử dụng các tính năng bổ sung với máy ảnh trước</string>
+    <string name="beauty_fc_assistant">Trợ lý camera trước</string>
+    <string name="beauty_fc_assistant_summary_common">Sử dụng các tính năng bổ sung với camera trước</string>
     <string name="beauty_fc_auto_brightness">Tự động điều chỉnh độ sáng tăng sáng</string>
     <string name="beauty_fc_fill_lamp">Tăng sáng</string>
     <string name="beauty_fc_fill_lamp_new">Tăng sáng trước</string>
@@ -736,10 +750,10 @@ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="beauty_fun_front_light">Tăng sáng trước</string>
     <string name="beauty_fun_light">Tăng sáng</string>
     <string name="beauty_fun_privacy">Camera cá nhân</string>
-    <string name="beauty_fun_privacy_dialog_message">Khi bạn sử dụng máy ảnh với tính năng nhận dạng khuôn mặt, khuôn mặt của bạn sẽ được phát hiện tự động và các khu vực được chụp khác sẽ bị che đi.</string>
+    <string name="beauty_fun_privacy_dialog_message">Khi bạn sử dụng camera với tính năng nhận dạng khuôn mặt, khuôn mặt của bạn sẽ được phát hiện tự động và các khu vực được chụp khác sẽ bị che đi.</string>
     <string name="beauty_fun_privacy_dialog_tips">Tính năng này có thể làm giảm tỷ lệ thành công của việc nhận dạng khuôn mặt</string>
     <string name="beauty_fun_privacy_ingnore">Không, cảm ơn</string>
-    <string name="beauty_fun_privacy_message">Phát hiện khuôn mặt và che các khu vực được chụp khác khi máy ảnh được sử dụng với tính năng nhận dạng khuôn mặt</string>
+    <string name="beauty_fun_privacy_message">Phát hiện khuôn mặt và che các khu vực được chụp khác khi camera được sử dụng với tính năng nhận dạng khuôn mặt</string>
     <string name="beauty_fun_privacy_open">Bật</string>
     <string name="beauty_fun_privacy_open_tips">Camera cá nhân đã bật</string>
     <string name="beauty_fun_privacy_tips">Camera cá nhân hiện sẽ được sử dụng mặc định với tính năng nhận dạng khuôn mặt tương thích</string>
@@ -836,7 +850,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="blur_clipboard1">Bảo vệ bộ nhớ tạm</string>
     <string name="blur_clipboard2">Bảo vệ bộ nhớ tạm</string>
     <string name="blur_clipboard3">Bảo vệ bộ nhớ tạm thông minh</string>
-    <string name="blur_connected_camera">Máy ảnh được kết nối</string>
+    <string name="blur_connected_camera">Camera được kết nối</string>
     <string name="blur_connected_screen">Màn hình được kết nối</string>
     <string name="blur_cross_device_permissions">Quyền kết nối thiết bị</string>
     <string name="blur_double_space">Không gian thứ hai</string>
@@ -990,11 +1004,11 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cellular_package_daily_input">Nhập</string>
     <string name="cetus_invisible_mode">Ẩn danh</string>
     <string name="cetus_invisible_mode_description_card">Đình chỉ quyền</string>
-    <string name="cetus_invisible_mode_description_switch">Bật để đình chỉ quyền truy cập micro, máy ảnh và liên quan đến vị trí tất cả ứng dụng</string>
-    <string name="cetus_invisible_mode_warn_all">Bạn đang ở chế độ ẩn danh. Quyền truy cập micro, máy ảnh và dịch vụ vị trí đã tắt.</string>
-    <string name="cetus_invisible_mode_warn_camera">Bạn đang ở chế độ ẩn danh. Quyền truy cập máy ảnh bị đình chỉ.</string>
+    <string name="cetus_invisible_mode_description_switch">Bật để đình chỉ quyền truy cập micro, camera và liên quan đến vị trí tất cả ứng dụng</string>
+    <string name="cetus_invisible_mode_warn_all">Bạn đang ở chế độ ẩn danh. Quyền truy cập micro, camera và dịch vụ vị trí đã tắt.</string>
+    <string name="cetus_invisible_mode_warn_camera">Bạn đang ở chế độ ẩn danh. Quyền truy cập camera bị đình chỉ.</string>
     <string name="cetus_invisible_mode_warn_location">Bạn đang ở chế độ ẩn danh. Quyền truy cập dịch vụ vị trí đã tắt.</string>
-    <string name="cetus_invisible_mode_warn_open">Nếu bạn bật tính năng này, sẽ không có ứng dụng nào có thể sử dụng quyền truy cập vào micro, máy ảnh hoặc dịch vụ vị trí. Vẫn bật?</string>
+    <string name="cetus_invisible_mode_warn_open">Nếu bạn bật tính năng này, sẽ không có ứng dụng nào có thể sử dụng quyền truy cập vào micro, camera hoặc dịch vụ vị trí. Vẫn bật?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Bạn đang ở chế độ ẩn danh. Quyền truy cập micro đã tắt.</string>
     <string name="chainstart_desc_for_exemption">Ứng dụng chưa được xem xét \"%1$s\" đang mở \"%2$s\". Hãy cẩn thận khi thực hiện thanh toán.</string>
     <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
@@ -1081,15 +1095,15 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="connect_internet_by_usbshare">Chia sẻ internet qua USB</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connected_device_application_flow_permission">Quyền handoff ứng dụng</string>
-    <string name="connected_device_camera_collaboration_permission">Quyền máy ảnh đã kết nối</string>
-    <string name="connected_device_camera_permission">Quyền máy ảnh</string>
+    <string name="connected_device_camera_collaboration_permission">Quyền camera đã kết nối</string>
+    <string name="connected_device_camera_permission">Quyền camera</string>
     <string name="connected_device_notification_permission">Quyền thông báo</string>
     <string name="connected_device_screen_permission">Quyền màn hình</string>
     <string name="connected_device_share_desktop_permission">Quyền Màn hình chính+</string>
     <string name="connected_devices_camera">Camera</string>
     <string name="connected_devices_camera_desc">Cho phép các thiết bị lân cận đã đăng nhập vào cùng một tài khoản chụp ảnh và quay video trên thiết bị này</string>
     <string name="connected_devices_camera_title">Cho phép thiết bị trên chụp ảnh và quay video trên thiết bị này?</string>
-    <string name="connected_devices_for_camera">Cho phép %1$s sử dụng máy ảnh của thiết bị này?</string>
+    <string name="connected_devices_for_camera">Cho phép %1$s sử dụng camera của thiết bị này?</string>
     <string name="connected_devices_for_camera_desc">Để chụp ảnh, quay video và thực hiện cuộc gọi video</string>
     <string name="connected_devices_for_empty_view">Không có thiết bị nào được kết nối</string>
     <string name="connected_devices_for_notification">Cho phép %1$s hiển thị thông báo của thiết bị này?</string>
@@ -1131,7 +1145,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="create_shortcut">Tạo lối tắt Game Turbo trên Màn hình chính</string>
     <string name="cs_color_sense">Nhiệt độ màu</string>
     <string name="cs_func_toast_headset">Ngắt kết nối tai nghe để có thể sử dụng tính năng này</string>
-    <string name="cs_func_toast_light">Chuyển sang máy ảnh trước để có thể sử dụng tính năng này</string>
+    <string name="cs_func_toast_light">Chuyển sang camera trước để có thể sử dụng tính năng này</string>
     <string name="cs_func_toast_pickup">Chuyển sang cuộc gọi video để có thể sử dụng tính năng này</string>
     <string name="cs_pickup_denoise_desc">Giảm tiếng ồn của âm thanh đến khi sử dụng loa hoặc tai nghe</string>
     <string name="cs_pickup_denoise_title">Giảm tiếng ồn</string>
@@ -1141,10 +1155,16 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cs_pickup_single_title">Một người tham gia</string>
     <string name="cs_pickup_surround_desc">Sử dụng AI để giảm tiếng ồn, cho âm thanh rõ ràng, sắc nét</string>
     <string name="cs_pickup_surround_title">Giảm tiếng ồn micro</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">Kết thúc cuộc gọi và làm theo hướng dẫn để bắt đầu.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">Để chỉ nhận âm thanh từ một người, hãy ghi lại mẫu giọng nói của họ trước.</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Ghi voiceprint trước khi chọn \"Một người tham gia\"</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Ngắt kết nối các thiết bị bên ngoài và thử lại</string>
+    <string name="cs_pickup_voice_print_desc">Chỉ lấy âm thanh từ một người</string>
     <string name="cs_screen_translation_title">Dịch màn hình</string>
     <string name="cs_title_pickup">Giảm tiếng ồn</string>
     <string name="cs_title_smart_subtitle">Phiên âm phụ đề</string>
     <string name="cs_title_ultraclear">Chế độ Ultra HD</string>
+    <string name="cs_voice_print">Ghi voiceprint</string>
     <string name="cta_agree_desc">Để có thể sử dụng các dịch vụ của chúng tôi, cho phép ứng dụng này kết nối internet và cấp các quyền được liệt kê ở trên.</string>
     <string name="cta_close_dialog_cancel">Hủy</string>
     <string name="cta_close_dialog_content">Nếu bạn giới hạn ứng dụng Bảo mật truy cập internet và thông tin vị trí của bạn, bạn không thể nhận được cảnh báo động đất, cập nhật nhận dạng virus và thông tin danh sách chặn. Thiết bị của bạn sẽ trở nên kém an toàn hơn. Vẫn giới hạn?</string>
@@ -1469,6 +1489,7 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="fingerprint_verify_failed">Không thể xác minh vân tay</string>
     <string name="fingerprint_verify_succeed">Vân tay đã được xác minh</string>
     <string name="fingerprint_verify_try_agin">Không thể quét vân tay, hãy thử lại</string>
+    <string name="fingerprint_verify_try_error">Quá nhiều lần thử không thành công. Khóa và mở khóa thiết bị của bạn trước khi thử lại.</string>
     <string name="firewall_activity_lable">Truy cập mạng</string>
     <string name="firewall_allow_all">Cho phép tất cả ứng dụng kết nối bằng phương pháp bên dưới</string>
     <string name="firewall_allow_data">Cho phép sử dụng dữ liệu di động</string>
@@ -1686,15 +1707,20 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="game_manual_record_setting_setting">Cài đặt</string>
     <string name="game_manual_record_setting_title">Khoảnh khắc đáng nhớ</string>
     <string name="game_more_improve">Giới hạn hoạt động nền và tốc độ tải xuống để tiết kiệm pin và băng thông cho trò chơi</string>
-    <string name="game_performance_wild_mode">Chế độ tối ưu</string>
+    <string name="game_performance_wild_mode">Wild Boost</string>
     <string name="game_performance_wild_mode_tips">"Bật để cải thiện hiệu suất của thiết bị
 (Thiết bị của bạn sẽ nóng lên và tiêu thụ nhiều điện năng hơn)"</string>
     <string name="game_setting">Cài đặt trò chơi</string>
     <string name="game_video_net_data">Dữ liệu di động</string>
     <string name="game_video_network_eror">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="game_wid_viewpoint_buttom">Nghỉ ngơi chốc lát.</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Không đồng ý</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Đồng ý</string>
+    <string name="gamebooster_confirm_dialog_tip">&lt;Data>&lt;br>&lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Tăng tốc Game Xunyou&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_title">Đồng ý với Chính sách Riêng tư của chúng tôi</string>
     <string name="gamebooster_dialog_recover">Gia hạn</string>
     <string name="gamebooster_dialog_start_booster">Bắt đầu</string>
+    <string name="gamebooster_dialog_start_booster_new">Tăng tốc</string>
     <string name="gamebooster_lowbattery_notification_summary">Sạc thiết bị trước khi tắt nguồn.</string>
     <string name="gamebooster_main_activity_back">Quay lại</string>
     <string name="gamebooster_network_dialog_cn_message">Bạn không thể sử dụng Game Turbo khi Bảo mật không được phép kết nối internet và truy cập vị trí của bạn. Cho phép ngay?</string>
@@ -1702,16 +1728,21 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gamebooster_network_dialog_title">Vài tính năng không khả dụng</string>
     <string name="gamebooster_push_expiring_soon_button">Gia hạn</string>
     <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
+    <string name="gamebox_ai_accelerate">Tăng tốc dữ liệu di động AI</string>
+    <string name="gamebox_ai_accelerate_description">Phân tích môi trường mạng để tăng tốc độ kết nối mạng di động và tiết kiệm dữ liệu di động</string>
     <string name="gamebox_ai_subtitle">Phụ đề AI</string>
     <string name="gamebox_app_not_find">Cài đặt ứng dụng trước.</string>
     <string name="gamebox_brightness">Độ sáng</string>
     <string name="gamebox_browser_not_find">Cài đặt Trình duyệt Mi trước</string>
     <string name="gamebox_bullet_chat">Bình luận trên màn hình</string>
+    <string name="gamebox_cellular_network">Tối ưu mạng di động</string>
+    <string name="gamebox_cellular_network_description">Tự động chọn đường dẫn mạng tốt nhất dựa trên độ trễ của trò chơi</string>
     <string name="gamebox_collimator">Ống ngắm</string>
     <string name="gamebox_display_1">Không</string>
     <string name="gamebox_display_2">Bão hòa</string>
     <string name="gamebox_display_3">Sáng</string>
     <string name="gamebox_display_4">Độ sáng &amp; bão hòa</string>
+    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">"Hình ảnh nâng cao: "</string>
     <string name="gamebox_dnd">Không làm phiền</string>
     <string name="gamebox_filter_alpha_tip">Xuyên âm</string>
@@ -1740,6 +1771,7 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gamebox_mem_clean">Xóa bộ nhớ</string>
     <string name="gamebox_mem_filter">Bộ lọc game</string>
     <string name="gamebox_milink">Chiếu</string>
+    <string name="gamebox_net_optimize_description">Giảm độ trễ và độ giật của Wi-Fi. Sử dụng bộ định tuyến Xiaomi hoặc Redmi để tận hưởng chế độ tăng tốc đặc biệt.</string>
     <string name="gamebox_positive_button_text">OK (%1$d giây)</string>
     <string name="gamebox_qq_not_find">Cài đặt QQ và thử lại.</string>
     <string name="gamebox_recent_task_expand_fail">Ứng dụng hoạt động với lối tắt chưa được cài đặt</string>
@@ -1786,12 +1818,20 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gb_advance_settings_reset_dialog_content">Khôi phục cài đặt mặc định ngay?</string>
     <string name="gb_advance_settings_reset_dialog_title">Cài đặt mặc định</string>
     <string name="gb_advance_settings_screen_display">Màn hình</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Tăng độ tương phản và tối ưu hình ảnh để hiển thị chi tiết hơn</string>
+    <string name="gb_advance_settings_screen_display_summary">Tăng cường độ tương phản và tối ưu hình ảnh để hiển thị chi tiết hơn</string>
     <string name="gb_advance_settings_screen_hdr">Tăng cường hình ảnh</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Gốc</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Vừa</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Ấn tượng</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Cực kỳ ấn tượng</string>
+    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
+    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Tăng độ tương phản và tăng cường chi tiết cho các trò chơi</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Tăng cường hình ảnh</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Hiển thị chuyển động với độ mượt mà và lưu động hơn</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Chất lượng hình ảnh siêu nét</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Tăng độ phân giải và tốc độ khung hình để có hình ảnh mượt mà hơn</string>
     <string name="gb_advance_settings_touch">Điều khiển cảm ứng</string>
     <string name="gb_advance_settings_vibration_4d">Rung 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Rung khi bắn trong game</string>
@@ -1805,6 +1845,9 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="gb_audition_play_instruction">Sử dụng tai nghe để có hiệu quả tốt nhất</string>
     <string name="gb_award_noti_message">Bật cập nhật nền Game for Peace trong Game Turbo để nhận phần thưởng</string>
     <string name="gb_award_noti_title">Phần thưởng Game for Peace tại đây!</string>
+    <string name="gb_bar_high">Cao</string>
+    <string name="gb_bar_low">Thấp</string>
+    <string name="gb_bar_mid">Trung bình</string>
     <string name="gb_barrage_app_manger">Quản lý ứng dụng</string>
     <string name="gb_barrage_chat_desc">Luôn tin rằng điều tốt đẹp sẽ đến</string>
     <string name="gb_barrage_chat_pre_desc">Xem trước</string>
@@ -1915,6 +1958,9 @@ Ghi lại các chuỗi và sử dụng bất cứ lúc nào!"</string>
     <string name="gb_have_signed">Đã check in hôm nay</string>
     <string name="gb_manual_record_dialog_del_video_message">Xóa vĩnh viễn video đã chọn?</string>
     <string name="gb_manual_video_record_title">Ghi âm</string>
+    <string name="gb_margin_restrain">Bỏ qua chạm vô tình trên các cạnh</string>
+    <string name="gb_margin_restrain_description">Thiết bị của bạn sẽ ít phản hồi hơn khi chạm vô tình vào khu vực gần các cạnh</string>
+    <string name="gb_margin_restrain_seekbar">Khu vực chạm vô tình</string>
     <string name="gb_msg_completely_shielded">Ẩn tin nhắn</string>
     <string name="gb_msg_completely_shielded_summary">Ẩn</string>
     <string name="gb_msg_not_shielded_summary">Hiển thị</string>
@@ -1942,7 +1988,7 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_predownload_dialog_cancel">Không, cảm ơn</string>
     <string name="gb_predownload_dialog_checked">Không hiển thị lại</string>
     <string name="gb_predownload_dialog_confirm">Bật</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>Nội dung cập nhật game này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với WLAN và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.&lt;br>&lt;br>Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố cập nhật trong nền&lt;/a> trước khi sử dụng tính năng này.&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china">&lt;Data>Nội dung cập nhật game này có thể được tải xuống thiết bị này tự động sau khi bạn kết nối với Wi-Fi và tắt màn hình. Do đó, bạn sẽ có thể sử dụng phiên bản mới ngay sau khi được phát hành.&lt;br>&lt;br>Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố cập nhật trong nền&lt;/a> trước khi sử dụng tính năng này.&lt;/Data></string>
     <string name="gb_predownload_dialog_title">Cập nhật nền hiện khả dụng</string>
     <string name="gb_predownload_message_new">Cập nhật game tương thích tự động khi không sử dụng thiết bị</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB nội dung cập nhật đã sẵn sàng trên thiết bị này. Bạn sẽ có thể sử dụng ngay khi phiên bản mới được phát hành.</string>
@@ -1995,6 +2041,7 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_signed_gift_loading_summary">Vui lòng chờ…</string>
     <string name="gb_signed_title">Đã check in tháng này</string>
     <string name="gb_smart_battery_surplus_new">Còn lại %1$s %2$s</string>
+    <string name="gb_smart_shake_description">Độ nhạy đối với cử động nhỏ</string>
     <string name="gb_sound_audition">Dùng thử</string>
     <string name="gb_storage_game_dialog_message">Bạn có thể tự động lưu trữ trò chơi trong Game Turbo. Chúng sẽ không xuất hiện trên Màn hình chính nếu bạn bật tính năng này. Bật ngay?</string>
     <string name="gb_storage_game_uninstall">Gỡ cài đặt game</string>
@@ -2021,7 +2068,7 @@ nhưng cũng làm tăng mức tiêu thụ điện năng và làm cho thiết b�
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Tự động điều chỉnh tốc độ khung hình để chuyển động mượt mà hơn</string>
     <string name="gb_vision_enhance_super_resolution">Siêu phân giải</string>
     <string name="gb_vision_enhance_super_resolution_desc">Tăng độ phân giải để xem chi tiết tốt hơn</string>
-    <string name="gb_voice_change_audition_tip">Demo</string>
+    <string name="gb_voice_change_audition_tip">Thử</string>
     <string name="gb_voice_change_settinged">Công cụ thay đổi giọng nói đang bật</string>
     <string name="gb_voice_changer_cartoon">Hoạt hình</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Gia hạn đăng ký để có thể sử dụng phản hồi theo thời gian thực.</string>
@@ -2139,7 +2186,7 @@ quan trọng khi chơi game"</string>
     <string name="group_file">Tập tin và tài liệu</string>
     <string name="group_file_less_t">Truy cập tập tin và phương tiện</string>
     <string name="group_head_data_ai_clipboard">Bảo vệ bộ nhớ tạm</string>
-    <string name="group_head_data_camera_desc">Tắt để giới hạn truy cập máy ảnh cho tất cả ứng dụng</string>
+    <string name="group_head_data_camera_desc">Tắt để giới hạn truy cập camera cho tất cả ứng dụng</string>
     <string name="group_head_data_clipboard_desc">Tắt để giới hạn truy cập bộ nhớ tạm cho tất cả ứng dụng</string>
     <string name="group_head_data_location_desc">Tắt để giới hạn truy cập vị trí cho tất cả ứng dụng</string>
     <string name="group_head_data_location_service">Dịch vụ vị trí</string>
@@ -2203,6 +2250,7 @@ quan trọng khi chơi game"</string>
     <string name="gtb_dialog_hint_smart_5g">Bạn có thể bật và tắt tính năng này trong Game Turbo > Cài đặt.</string>
     <string name="gtb_dialog_privacy_speed_message">Bạn sắp sử dụng Tăng tốc game Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Tăng tốc Game Xunyou.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Tăng tốc Game Xunyou.&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">Tăng tốc game Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">Bạn sắp sử dụng Công cụ thay đổi giọng nói game Xunyou. Dịch vụ này sẽ thu thập ID Tài khoản Xiaomi để ghi lại thời hạn thành viên của bạn.</string>
     <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> Công cụ thay đổi giọng nói Game Xunyou.&lt;/Data></string>
@@ -2227,7 +2275,7 @@ quan trọng khi chơi game"</string>
     <string name="gtb_guide_gtb_game_new">Mới</string>
     <string name="gtb_guide_gtb_line_new">Thử Chế độ Hiệu suất trên Game Turbo!</string>
     <string name="gtb_guide_gtb_line_new_global">Trượt để mở Game Turbo</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Thử Chế độ tối ưu trong Game Turbo để đưa trò chơi của bạn lên một tầm cao mới</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Thử Wild Boost trong Game Turbo để đưa trò chơi của bạn lên một tầm cao mới</string>
     <string name="gtb_guide_gtb_line_xspace">Nâng tầm trải nghiệm chơi game với Game Turbo hoàn toàn mới!</string>
     <string name="gtb_guide_small_window_app_desc">Sử dụng ứng dụng khác khi bạn đang chơi</string>
     <string name="gtb_guide_small_window_app_title">Cửa sổ nổi</string>
@@ -2360,9 +2408,9 @@ to join our egg hunt!"</string>
     <string name="intl_perm_privacy_control_storage">Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa các mục từ bộ nhớ trong khi bạn sử dụng</string>
     <string name="intl_perm_privacy_control_title">Kiểm soát tính riêng tư</string>
     <string name="invalid_charger">Không thể sạc qua USB. Sử dụng bộ sạc đi kèm với thiết bị.</string>
-    <string name="invisible_mode_close_summary_compact">Phiên bản hệ thống hiện tại chỉ hỗ trợ bật đồng thời quyền truy cập vào máy ảnh, vị trí và micro cho tất cả ứng dụng. Bật một trong các quyền này sẽ bật tất cả các quyền đó.</string>
+    <string name="invisible_mode_close_summary_compact">Phiên bản hệ thống hiện tại chỉ hỗ trợ bật đồng thời quyền truy cập vào camera, vị trí và micro cho tất cả ứng dụng. Bật một trong các quyền này sẽ bật tất cả các quyền đó.</string>
     <string name="invisible_mode_close_title_compact">Nhắc nhở quyền</string>
-    <string name="invisible_mode_open_summary_compact">Phiên bản hệ thống hiện tại chỉ hỗ trợ tắt đồng thời quyền truy cập vào máy ảnh, vị trí và micro cho tất cả ứng dụng. Tắt một trong các quyền này sẽ tắt tất cả các quyền đó.</string>
+    <string name="invisible_mode_open_summary_compact">Phiên bản hệ thống hiện tại chỉ hỗ trợ tắt đồng thời quyền truy cập vào camera, vị trí và micro cho tất cả ứng dụng. Tắt một trong các quyền này sẽ tắt tất cả các quyền đó.</string>
     <string name="invisible_mode_open_title_compact">Nhắc nhở quyền</string>
     <string name="ip_address_exception_summary">Không thể lấy địa chỉ IP. Nếu bạn gặp vấn đề này một lần nữa, hãy thử sử dụng một địa chỉ IP tĩnh.</string>
     <string name="item_app_permission">Quyền ứng dụng</string>
@@ -2379,6 +2427,8 @@ to join our egg hunt!"</string>
     <string name="item_view_role_description">Thẻ</string>
     <string name="item_virus_lib">Cập nhật định dạng virus tự động</string>
     <string name="item_zero">%d NDT</string>
+    <string name="keyboard_key_back">Quay lại</string>
+    <string name="keyboard_key_space">Phím cách</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
@@ -2403,6 +2453,7 @@ Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối d
     <string name="loading_text_format" formatted="false">Kiểm tra xem ảnh có chứa thông tin cá nhân hay không %d/%d</string>
     <string name="local_ip_exception_summary">Không thể lấy địa chỉ IP. Để báo cáo vấn đề này, truy cập ứng dụng Phản hồi và gửi báo cáo lỗi từ thiết bị của bạn.</string>
     <string name="lock_all_title">Khóa tất cả ứng dụng</string>
+    <string name="lock_app_input_invalid_car">Một số biểu tượng không được hỗ trợ</string>
     <string name="lock_mode_title">Cài đặt khóa</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s sử dụng khi khóa màn hình</string>
     <string name="lock_screen_traffic_guide_notification_title">Chạm để quản lý sử dụng dữ liệu.</string>
@@ -2565,7 +2616,7 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="menu_item_about_title">Giới thiệu</string>
     <string name="menu_item_app_details">Chi tiết</string>
     <string name="menu_item_app_permissions_control">Quản lý Quyền truy cập</string>
-    <string name="menu_item_control_app_permissions">Yêu cầu sự cho phép của bạn trước khi cho phép ứng dụng đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị</string>
+    <string name="menu_item_control_app_permissions">Yêu cầu sự cho phép của bạn trước khi cho phép ứng dụng đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị</string>
     <string name="menu_item_force_stop">Buộc đóng</string>
     <string name="menu_item_install_debug_package">Cài đặt gói gỡ lỗi</string>
     <string name="menu_item_notification_antispam_text_avail">Danh sách chặn</string>
@@ -2588,6 +2639,7 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="menu_show_work_profile_text">Hiển thị ứng dụng Không gian làm việc</string>
     <string name="menu_sms">Gửi tin nhắn</string>
     <string name="menu_summary_antispam">Chặn cuộc gọi và tin nhắn</string>
+    <string name="menu_summary_antispam_calls">Chặn cuộc gọi rác</string>
     <string name="menu_summary_antivirus">Quét virus trên thiết bị</string>
     <string name="menu_summary_app_manager">Quản lý cài đặt ứng dụng</string>
     <string name="menu_summary_garbage_cleanup">Không tìm thấy rác</string>
@@ -2650,6 +2702,7 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="miuix_appcompat_delete_description">Xóa</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+    <string name="miuix_appcompat_edit">Sửa</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
     <string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>
@@ -2785,8 +2838,10 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh thống kê s�
     <string name="net_boostering">Đang tăng tốc độ mạng…</string>
     <string name="net_boosting">Đang tăng tốc…</string>
     <string name="net_delay_title">Trễ</string>
+    <string name="net_free_booster_new_user_tip">Nhận tăng tốc trò chơi miễn phí và tham gia để giành được điện thoại Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Quà tặng người dùng mới</string>
     <string name="net_overdue">Tăng tốc mạng đã kết thúc</string>
-    <string name="network_assistant_privacy">Để theo dõi việc sử dụng dữ liệu ứng dụng, chúng tôi thu thập thông tin như tên gói, mạng WLAN và mức sử dụng dữ liệu di động, mức sử dụng dữ liệu cao điểm và thấp điểm cũng như thời điểm WLAN và dữ liệu di động được bật. Thông tin này được lưu trữ cục bộ trên thiết bị.</string>
+    <string name="network_assistant_privacy">Để theo dõi việc sử dụng dữ liệu ứng dụng, chúng tôi thu thập thông tin như tên gói, mạng Wi-Fi và mức sử dụng dữ liệu di động, mức sử dụng dữ liệu cao điểm và thấp điểm cũng như thời điểm Wi-Fi và dữ liệu di động được bật. Thông tin này được lưu trữ cục bộ trên thiết bị.</string>
     <string name="network_assistant_privacy_title">Gửi dữ liệu chẩn đoán và sử dụng mạng, ứng dụng</string>
     <string name="network_blocked_connected_open_wifi">Đã kết nối tới mạng công cộng</string>
     <string name="network_blocked_notification_summary">Kiểm tra mạng</string>
@@ -3124,11 +3179,43 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_battery_history_total_consumption_title">Tổng tiêu thụ điện năng</string>
     <string name="pc_battery_history_usetime_title">Hoạt động</string>
     <string name="pc_battery_low_health_reminder">Đã đến lúc thay pin của bạn</string>
+    <string name="pc_battery_replacement_service_title">Hãy thử dịch vụ thay pin của chúng tôi. %1$s phần cứng bản gốc với %2$s bảo hành.</string>
     <string name="pc_berserk_mode_dialog_title">Bật Chế độ tối ưu</string>
     <string name="pc_berserk_mode_noti_summary">Chế độ tối ưu có thể làm tăng mức tiêu thụ điện năng và dẫn đến các vấn đề quá nhiệt</string>
     <string name="pc_berserk_mode_performance_title">Chế độ tối ưu</string>
     <string name="pc_button_go_to_setting">Cài đặt</string>
+    <string name="pc_camera_printer_dialog_battery_full">Đã sạc đầy</string>
+    <string name="pc_camera_printer_dialog_battery_low">Pin yếu</string>
+    <string name="pc_camera_printer_dialog_negative_button">Tôi biết</string>
+    <string name="pc_camera_printer_dialog_positive_button">Mở Camera</string>
+    <string name="pc_camera_printer_dialog_should_charge">Kết nối bộ sạc</string>
+    <string name="pc_camera_printer_notify_button">Mở Camera</string>
+    <string name="pc_camera_printer_notify_subtitle">Đã kết nối</string>
+    <string name="pc_camera_printer_title">Máy in Ảnh</string>
     <string name="pc_category_charge_settings">Cài đặt sạc</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Điện áp thấp</string>
+    <string name="pc_charge_mode_low_power_fast_speed_tips">Thiết bị có thể nóng lên</string>
+    <string name="pc_charge_mode_standard">Tiêu chuẩn</string>
+    <string name="pc_charge_mode_topspeed">Tốc độ nhanh</string>
+    <string name="pc_charge_mode_topspeed_tips">Thiết bị có thể nóng lên</string>
+    <string name="pc_charge_protection_features_title">Tùy chọn sạc</string>
+    <string name="pc_charge_protection_wired_charge">Sạc có dây</string>
+    <string name="pc_charge_protection_wired_charge_mode">Chế độ sạc có dây</string>
+    <string name="pc_charge_protection_wireless_charge">Sạc không dây</string>
+    <string name="pc_charge_protection_wireless_charge_mode">Chế độ sạc không dây</string>
+    <string name="pc_charge_protection_wireless_reverse_charge">Sạc ngược không dây</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Tắt sạc ngược không dây khi pin của thiết bị này xuống dưới mức %1$s</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Giới hạn sạc</string>
+    <string name="pc_charge_wireless_charge_mode_silence_title">Thời gian chế độ im lặng</string>
+    <string name="pc_charge_wireless_charge_select_silence">Im lặng</string>
+    <string name="pc_charge_wireless_charge_select_silence_always">Luôn luôn</string>
+    <string name="pc_charge_wireless_charge_select_silence_night">Ban đêm</string>
+    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s đến %2$s ngày tiếp theo</string>
+    <string name="pc_charge_wireless_charge_select_silence_summary">Giảm tiếng ồn và sạc chậm hơn</string>
+    <string name="pc_charge_wireless_charge_select_standard">Tiêu chuẩn</string>
+    <string name="pc_charge_wireless_charge_select_topspeed">Tốc độ nhanh</string>
+    <string name="pc_charge_wireless_charge_select_topspeed_summary">Tăng tiếng ồn và nhiệt độ thiết bị</string>
+    <string name="pc_charge_wireless_only_mi_charger_work">Chỉ hoạt động với bộ sạc được cung cấp bởi Xiaomi</string>
     <string name="pc_charged_auto_close_summary">Tắt khi pin ​%1$s hoặc được sạc đầy</string>
     <string name="pc_charged_auto_close_title">Tắt khi sạc</string>
     <string name="pc_close_notifi_action">Tắt</string>
@@ -3141,6 +3228,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_endurance_calculation">Đang tính…</string>
     <string name="pc_entered_extreme_mode">Chế độ ngủ đông bật</string>
     <string name="pc_entered_extreme_mode_summary">Thiết bị của bạn đã cạn pin và vào Chế độ ngủ đông. Ứng dụng sẽ chạy trong nền và sẽ không thể gửi thông báo.</string>
+    <string name="pc_extreme_category">Pin cực yếu</string>
     <string name="pc_extreme_exit_and_power_off">Thoát</string>
     <string name="pc_extreme_mode_bg_toast">Ở Chế độ ngủ đông, ứng dụng sẽ chạy trong nền và không gửi thông báo</string>
     <string name="pc_extreme_mode_entering">Đang vào Chế độ ngủ đông…</string>
@@ -3149,6 +3237,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_extreme_mode_exiting">Đang thoát Chế độ ngủ đông…</string>
     <string name="pc_extreme_mode_find_charger">Sạc thiết bị càng sớm càng tốt.</string>
     <string name="pc_extreme_mode_runtime">Chế độ ngủ đông đã được bật %1$s %2$s.</string>
+    <string name="pc_extreme_mode_setting_summary">Kéo dài thời gian chờ khi pin cực yếu</string>
+    <string name="pc_extreme_mode_setting_title">Ngủ đông</string>
     <string name="pc_extreme_mode_title">Chế độ ngủ đông</string>
     <string name="pc_fast_charge_notifi_action_text_off">Dừng</string>
     <string name="pc_fast_charge_notifi_action_text_on">Tăng tốc</string>
@@ -3186,6 +3276,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_install_manager">Cài đặt qua USB</string>
     <string name="pc_intellect_charge_protect_summary">Điều chỉnh sạc dựa trên trường hợp sử dụng</string>
     <string name="pc_intellect_charge_protect_title">Sạc tối ưu</string>
+    <string name="pc_is_exiting_super_power">"Đang tắt
+Tiết kiệm pin tối ưu"</string>
     <string name="pc_keywords_fast_charge">Sạc nhanh</string>
     <string name="pc_keywords_low_power_consumption_save">Tiết kiệm pin</string>
     <string name="pc_keywords_low_power_mode">Chế độ tiết kiệm pin</string>
@@ -3203,6 +3295,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_low_batterty_got_it">Tôi biết</string>
     <string name="pc_low_battery_fast_charge">Tăng tốc độ sạc</string>
     <string name="pc_low_battery_fast_charge_summary">Kết nối bộ sạc đi kèm để tăng tốc độ sạc khi màn hình tắt và pin yếu. Tính năng này có thể khiến thiết bị của bạn nóng lên.</string>
+    <string name="pc_low_temp_charge_summary">Giữ bộ sạc được kết nối và đợi pin ấm lên sau khi màn hình tắt để sạc bình thường</string>
+    <string name="pc_low_temp_charge_title">Sạc nhiệt độ thấp</string>
     <string name="pc_main_activity_back">Quay lại</string>
     <string name="pc_main_battery_text_day">Đã thêm %1$s phút, còn lại khoảng %2$s ngày</string>
     <string name="pc_main_battery_text_day_hour">Đã thêm %1$s phút, còn lại khoảng %2$s ngày %3$s giờ</string>
@@ -3236,6 +3330,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_remind_close_cover_to_charge_summary">Gập thiết bị trước khi sạc để có trải nghiệm sạc nhanh hơn và ổn định hơn.</string>
     <string name="pc_remind_close_cover_to_charge_title">Gập để sạc</string>
     <string name="pc_reminder_always_protect_summary">Chuyển sang sạc giới hạn để giảm sự lão hóa của pin</string>
+    <string name="pc_satellite_auto_enter_super_power">Đã bật Tiết kiệm pin tối ưu để đảm bảo liên lạc vệ tinh</string>
     <string name="pc_save_charge">Sạc pin</string>
     <string name="pc_save_other_setting">Cài đặt khác</string>
     <string name="pc_save_power">Tiết kiệm pin</string>
@@ -3269,7 +3364,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pc_wireless_charging_special_stand_summary2">Lắp thiết bị của bạn lên đế đi kèm với bộ sạc không dây để có hiệu suất sạc tốt nhất</string>
     <string name="pc_wireless_charging_special_stand_title">Sử dụng đế sạc đã cung cấp</string>
     <string name="pc_wireless_handle_connected">Thiết bị đã kết nối</string>
-    <string name="pc_wireless_handle_title">Tay cầm máy ảnh chuyên nghiệp</string>
+    <string name="pc_wireless_handle_title">Tay cầm camera chuyên nghiệp</string>
     <string name="pc_work_in_save_mode">Tiết kiệm pin</string>
     <string name="pc_work_in_super_save_mode">Tiết kiệm pin tối ưu</string>
     <string name="pc_xiaoai_create_auto_task">Nhiệm vụ mới từ Mi AI</string>
@@ -3278,8 +3373,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="percentage">%d%%</string>
-    <string name="perfermance_optimization_summary">Tránh quá nhiệt và các vấn đề liên quan đến phần cứng</string>
-    <string name="perfermance_optimization_title">Tối ưu hiệu suất</string>
+    <string name="perfermance_optimization_summary">Để tránh quá nhiệt và các vấn đề liên quan đến phần cứng, không nên mở tính năng này quá lâu hoặc quá nhiều</string>
+    <string name="perfermance_optimization_title">Chế độ tối ưu cho hiệu suất</string>
     <string name="performance_frame_insert_super_display_tips">Tốc độ khung hình thông minh và siêu phân giải không thể có hiệu lực cùng một lúc. Bật cái này sẽ tắt cái kia.</string>
     <string name="perm_intercept_content">Cấp cho ứng dụng này quyền dưới đây: %1s?</string>
     <string name="perm_intercept_notification_title">Cho phép %1s sử dụng thông báo sẽ cho phép ứng dụng này thực hiện các hành động sau:</string>
@@ -3321,13 +3416,13 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_action_virtual">Gửi lại tin nhắn trống</string>
     <string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả về tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
     <string name="permission_action_virtual_phone_summary">Cấp cho ứng dụng các quyền liên quan nhưng không cho phép truy cập vào số điện thoại thực của thẻ SIM</string>
-    <string name="permission_close_permission_control_dialog_msg">Khi quản lý Quyền truy cập tắt, ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị.</string>
+    <string name="permission_close_permission_control_dialog_msg">Khi quản lý Quyền truy cập tắt, ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị.</string>
     <string name="permission_close_permission_control_dialog_title">Tắt?</string>
     <string name="permission_exception_title">Hạn chế kết nối ứng dụng</string>
     <string name="permission_group_audio">Quyền này cho phép ứng dụng truy cập nhạc và các tập tin âm thanh khác được lưu trữ trên thiết bị này.</string>
     <string name="permission_group_calendar">Quyền này cho phép ứng dụng truy cập, thêm, xóa và sửa lịch sự kiện.</string>
     <string name="permission_group_call_log">Quyền này cho phép ứng dụng truy cập hoặc sửa lịch sử cuộc gọi.</string>
-    <string name="permission_group_camera">Quyền này cho phép ứng dụng sử dụng máy ảnh để chụp ảnh hoặc quay video.</string>
+    <string name="permission_group_camera">Quyền này cho phép ứng dụng sử dụng camera để chụp ảnh hoặc quay video.</string>
     <string name="permission_group_contact">Quyền này cho phép các ứng dụng truy cập hoặc chỉnh sửa liên hệ cũng như xem liên hệ ứng dụng được tạo trên thiết bị này.</string>
     <string name="permission_group_file">Quyền này cho phép ứng dụng truy cập tất cả các tập tin được lưu trữ trên thiết bị này.</string>
     <string name="permission_group_file_less_t">Quyền này cho phép ứng dụng truy cập ảnh, video, âm thanh và các tập tin khác được lưu trữ trên thiết bị này.</string>
@@ -3347,7 +3442,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_instruction_bluetooth_admin">Quyền này cho phép ứng dụng bật và tắt Bluetooth mà không cần bạn xác nhận.</string>
     <string name="permission_instruction_body_sensors">Ứng dụng có quyền này có thể truy cập dữ liệu cảm biến về các dấu hiệu quan trọng của bạn (ví dụ: nhịp tim)</string>
     <string name="permission_instruction_call_phone">Quyền này cho phép ứng dụng thực hiện các cuộc gọi không mong muốn, điều này có thể phát sinh phí bổ sung. Lưu ý rằng quyền này không cho phép ứng dụng gọi đến các số điện thoại khẩn cấp. Ứng dụng độc hại có thể sử dụng quyền này để thực hiện cuộc gọi trả phí mà không có sự đồng ý của bạn.</string>
-    <string name="permission_instruction_camera">Quyền này cho phép ứng dụng sử dụng máy ảnh để chụp ảnh hoặc quay video.</string>
+    <string name="permission_instruction_camera">Quyền này cho phép ứng dụng sử dụng camera để chụp ảnh hoặc quay video.</string>
     <string name="permission_instruction_change_wifi_state">Quyền này cho phép ứng dụng bật và tắt Wi-Fi mà không cần bạn xác nhận.</string>
     <string name="permission_instruction_device_admin">Quyền này cho phép ứng dụng điều khiển thiết bị của bạn, có thể bao gồm xóa dữ liệu, mở khóa thiết bị và thay đổi mật khẩu. Đây là quyền có rủi ro cao.</string>
     <string name="permission_instruction_dont_disturb">Quyền này cho phép ứng dụng bật và tắt chế độ Không làm phiền.</string>
@@ -3406,7 +3501,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_instruction_write_contacts">Quyền này cho phép ứng dụng thêm, xóa và sửa liên hệ.</string>
     <string name="permission_instruction_write_settings">Quyền này cho phép ứng dụng sửa đổi cài đặt hệ thống. Ứng dụng độc hại có thể sử dụng tính năng cấp quyền này để thay đổi cài đặt hệ thống và ảnh hưởng đến việc sử dụng bình thường thiết bị.</string>
     <string name="permission_legacy_storage">Truy cập ảnh, video, âm thanh và tập tin</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị. Bạn có thể mở tính năng này ở cài đặt Quyền.</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị. Bạn có thể mở tính năng này ở cài đặt Quyền.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Quản lý Quyền truy cập</string>
     <string name="permission_precise_location">Vị trí chính xác</string>
     <string name="permission_precise_location_sumary">Khi tính năng này bị tắt, ứng dụng sẽ chỉ có thể truy cập vào vị trí gần đúng của bạn</string>
@@ -3667,6 +3762,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_optimize_loading">Đang tải</string>
     <string name="power_optimize_open_hide_mode">Bật Tiết kiệm Pin</string>
     <string name="power_optimize_power_save_extend_time">Thêm %s</string>
+    <string name="power_optimize_power_save_extend_time_new" formatted="false">Kéo dài khoảng %1s %2s</string>
     <string name="power_optimize_power_save_summary">Bật Tiết kiệm pin để áp dụng đa tối ưu hệ thống hạn chế hoạt động nền</string>
     <string name="power_optimize_prohibit_app_autostart">Không cho phép ứng dụng tự khởi chạy</string>
     <string name="power_optimize_reduce_fps">Giảm tốc độ làm mới màn hình %d Hz</string>
@@ -3683,7 +3779,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_save_mode">Tiết kiệm pin</string>
     <string name="power_save_mode_auto_exit_summary_new">Tắt khi pin %s hoặc đã sạc đầy</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
-    <string name="power_save_mode_close_aod_display_summary">Tắt Always-on display khi Tiết kiệm Pin bật</string>
+    <string name="power_save_mode_close_aod_display_summary">Tắt Always-on display khi Tiết kiệm pin bật</string>
     <string name="power_save_mode_close_aod_display_title">Tắt Always-on display</string>
     <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm Pin bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
@@ -3764,7 +3860,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_wireless_update_tv_text">Đang cập nhật firmware… Không tắt thiết bị.</string>
     <string name="pp_app_permission_settings">Quyền ứng dụng</string>
     <string name="pp_app_warning_permission_tips">Nhắc nhở quyền nhạy cảm</string>
-    <string name="pp_app_warning_permission_tips_detail">Hiển thị nhắc nhở khi ứng dụng yêu cầu quyền truy cập vị trí, máy ảnh hoặc micro</string>
+    <string name="pp_app_warning_permission_tips_detail">Hiển thị nhắc nhở khi ứng dụng yêu cầu quyền truy cập vị trí, camera hoặc micro</string>
     <string name="pp_clipboard">Bộ nhớ tạm</string>
     <string name="pp_none_read_clipboard_item">Không thông báo</string>
     <string name="pp_privacy_lab_clipboard_summary">Cho phép thiết bị của bạn quyết định xem ứng dụng có thể truy cập vào bộ nhớ tạm hay không và nhận thông báo khi có truy cập</string>
@@ -3892,8 +3988,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_danger_permission_title">Thông báo quyền</string>
     <string name="privacy_danger_permission_warning">Quyền rủi ro cao</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
-    <string name="privacy_description_camera">%1s đang sử dụng máy ảnh trong nền. Bạn có thể chuyển đổi phím nhanh bên dưới để giới hạn hoạt động này.</string>
-    <string name="privacy_description_camera_mic">%1s đang sử dụng máy ảnh và micro trong nền. Bạn có thể chuyển đổi phím nhanh bên dưới để giới hạn hoạt động này.</string>
+    <string name="privacy_description_camera">%1s đang sử dụng camera trong nền. Bạn có thể chuyển đổi phím nhanh bên dưới để giới hạn hoạt động này.</string>
+    <string name="privacy_description_camera_mic">%1s đang sử dụng camera và micro trong nền. Bạn có thể chuyển đổi phím nhanh bên dưới để giới hạn hoạt động này.</string>
     <string name="privacy_description_mic">%1s đang sử dụng micro trong nền. Bạn có thể chuyển đổi phím nhanh bên dưới để giới hạn hoạt động này.</string>
     <string name="privacy_dialog_call_item_1">Truy cập thông tin thiết bị</string>
     <string name="privacy_dialog_call_item_2">Thực hiện cuộc gọi</string>
@@ -3901,8 +3997,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_dialog_call_message">Theo mặc định, hệ thống không cho phép các ứng dụng của bên thứ ba thực hiện các thao tác sau:</string>
     <string name="privacy_dialog_call_result">Bạn vẫn có thể sử dụng ứng dụng và dịch vụ bên thứ ba bình thường. Tuy nhiên, nếu bạn tiếp tục gặp phải bất kỳ vấn đề gì, hãy gửi phản hồi cho chúng tôi.</string>
     <string name="privacy_dialog_call_title">Bảo vệ cuộc gọi</string>
-    <string name="privacy_dialog_camera_message">Để bảo sự riêng tư của bạn, hệ thống không cho phép các ứng dụng sử dụng máy ảnh trong nền.</string>
-    <string name="privacy_dialog_camera_title">Hạn chế sử dụng máy ảnh nền</string>
+    <string name="privacy_dialog_camera_message">Để bảo sự riêng tư của bạn, hệ thống không cho phép các ứng dụng sử dụng camera trong nền.</string>
+    <string name="privacy_dialog_camera_title">Hạn chế sử dụng camera nền</string>
     <string name="privacy_dialog_content_part1">Chào mừng sử dụng Bảo mật! Ứng dụng này kiểm tra rác và virus trên thiết bị, cũng như cho phép bạn quản lý ứng dụng, kiểm soát việc sử dụng dữ liệu di động, chặn cuộc gọi và tin nhắn, và nhiều tiện ích khác.</string>
     <string name="privacy_dialog_content_part2">&lt;Data>Bảo mật cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ và có thể cải thiện các tính năng. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Bảo mật trong Cài đặt bất kỳ lúc nào.&lt;/Data></string>
     <string name="privacy_dialog_content_part3">&lt;Data>Đọc và đồng ý với &lt;a href=\"%2$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn.&lt;/Data></string>
@@ -3926,23 +4022,23 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_flares_capsule_current">%1s | Hiện tại</string>
     <string name="privacy_flares_capsule_recent">%1s | Gần đây</string>
     <string name="privacy_flares_current">Hành động hiện tại</string>
-    <string name="privacy_flares_current_detail_cam">Ứng dụng này đang sử dụng máy ảnh</string>
-    <string name="privacy_flares_current_detail_cam_loc">Ứng dụng này đang sử dụng máy ảnh và truy cập vị trí của bạn</string>
-    <string name="privacy_flares_current_detail_cam_mic">Ứng dụng này đang sử dụng máy ảnh và micro</string>
+    <string name="privacy_flares_current_detail_cam">Ứng dụng này đang sử dụng camera</string>
+    <string name="privacy_flares_current_detail_cam_loc">Ứng dụng này đang sử dụng camera và truy cập vị trí của bạn</string>
+    <string name="privacy_flares_current_detail_cam_mic">Ứng dụng này đang sử dụng camera và micro</string>
     <string name="privacy_flares_current_detail_loc">Ứng dụng này đang truy cập vị trí của bạn</string>
     <string name="privacy_flares_current_detail_mic">Ứng dụng này đang sử dụng micro</string>
     <string name="privacy_flares_current_detail_mic_loc">Ứng dụng này đang sử dụng micro và truy cập vị trí của bạn</string>
     <string name="privacy_flares_current_detail_more">Ứng dụng này đang sử dụng quyền nhạy cảm</string>
     <string name="privacy_flares_current_multiple">%s và khác</string>
     <string name="privacy_flares_recent">Hành động gần đây</string>
-    <string name="privacy_flares_recent_detail_cam">Ứng dụng này đã sử dụng máy ảnh</string>
-    <string name="privacy_flares_recent_detail_cam_loc">Ứng dụng này đã sử dụng máy ảnh và truy cập vị trí của bạn</string>
-    <string name="privacy_flares_recent_detail_cam_mic">Ứng dụng này đã sử dụng máy ảnh và micro</string>
+    <string name="privacy_flares_recent_detail_cam">Ứng dụng này đã sử dụng camera</string>
+    <string name="privacy_flares_recent_detail_cam_loc">Ứng dụng này đã sử dụng camera và truy cập vị trí của bạn</string>
+    <string name="privacy_flares_recent_detail_cam_mic">Ứng dụng này đã sử dụng camera và micro</string>
     <string name="privacy_flares_recent_detail_loc">Ứng dụng này đã truy cập vị trí của bạn</string>
     <string name="privacy_flares_recent_detail_mic">Ứng dụng này đã sử dụng micro</string>
     <string name="privacy_flares_recent_detail_mic_loc">Ứng dụng này đã sử dụng micro và truy cập vị trí của bạn</string>
     <string name="privacy_flares_recent_detail_more">Ứng dụng này đã sử dụng quyền nhạy cảm</string>
-    <string name="privacy_global_guide_permission_guide_text">Bạn sẽ nhận được cảnh báo trên thanh trạng thái khi ứng dụng ghi âm hoặc sử dụng máy ảnh. Để tìm hiểu ứng dụng nào thực hiện, chạm vào cảnh báo.</string>
+    <string name="privacy_global_guide_permission_guide_text">Bạn sẽ nhận được cảnh báo trên thanh trạng thái khi ứng dụng ghi âm hoặc sử dụng camera. Để tìm hiểu ứng dụng nào thực hiện, chạm vào cảnh báo.</string>
     <string name="privacy_guide_permission_guide_text">Bạn có thể nhận cảnh báo trên thanh trạng thái khi ứng dụng truy cập vị trí của bạn, ghi âm hoặc chụp ảnh.</string>
     <string name="privacy_hide_other_permissions">Ẩn quyền khác</string>
     <string name="privacy_informed_title">Thống kê</string>
@@ -3960,14 +4056,14 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="privacy_mode_dialog_title">Chế độ Khách</string>
     <string name="privacy_more_info_title">Tìm hiểu thêm về các tính năng bảo vệ cá nhân</string>
     <string name="privacy_notification_subtitle">Chạm để quản lý quyền</string>
-    <string name="privacy_notification_title_camera">%1s đang sử dụng máy ảnh trong nền</string>
-    <string name="privacy_notification_title_camera_mic">%1s đang sử dụng máy ảnh và micro trong nền</string>
+    <string name="privacy_notification_title_camera">%1s đang sử dụng camera trong nền</string>
+    <string name="privacy_notification_title_camera_mic">%1s đang sử dụng camera và micro trong nền</string>
     <string name="privacy_notification_title_mic">%1s đang sử dụng micro trong nền</string>
     <string name="privacy_other_permission_manage_summary">Quản lý các quyền liên quan đến quyền riêng tư khác</string>
     <string name="privacy_other_permission_manage_title">Quyền khác</string>
     <string name="privacy_permission_call">Truy cập hoặc sửa lịch sử cuộc gọi</string>
     <string name="privacy_permission_call_title">Bảo vệ cuộc gọi</string>
-    <string name="privacy_permission_camera_title">Hạn chế sử dụng máy ảnh nền</string>
+    <string name="privacy_permission_camera_title">Hạn chế sử dụng camera nền</string>
     <string name="privacy_permission_contacts">Truy cập hoặc sửa liên hệ</string>
     <string name="privacy_permission_desc">Chi tiết quyền</string>
     <string name="privacy_permission_location">Truy cập vị trí</string>
@@ -4108,7 +4204,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_thumbnail_blur_category_photography">Ảnh &amp; video</string>
     <string name="privacy_thumbnail_blur_category_tip">Kiến nghị</string>
     <string name="privacy_thumbnail_blur_search_empty">Không tìm thấy kết quả</string>
-    <string name="privacy_thumbnail_blur_title">Làm mờ xem trước</string>
+    <string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
     <string name="privacy_thumbnail_blur_top_tip">Chọn ứng dụng sẽ làm mờ xem trước trong Gần đây</string>
     <string name="privacy_thumbnail_shield_title">Che xem trước</string>
     <string name="privacy_thumbnail_shield_top_tip">Che xem trước cho ứng dụng được hiển thị trong Gần đây</string>
@@ -4116,7 +4212,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_update_dialog_content_1">Chính sách Riêng tư %s đã được cập nhật:</string>
     <string name="privacy_update_dialog_content_2">&lt;Data>Đọc và đồng ý với phiên bản mới của &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
     <string name="privacy_update_dialog_title">Cập nhật Chính sách Riêng tư</string>
-    <string name="privacy_using_camera">Đang sử dụng máy ảnh</string>
+    <string name="privacy_using_camera">Đang sử dụng camera</string>
     <string name="privacy_using_location">Đang truy cập vị trí</string>
     <string name="privacy_using_record">Đang ghi âm</string>
     <string name="privacyapp_number_masked_text">Nội dung thông báo đã ẩn</string>
@@ -4401,6 +4497,7 @@ Rút lại chấp thuận ngay?"</string>
     <string name="sp_abnormal_scan_title">Giải quyết vấn đề</string>
     <string name="sp_antispam_scan_summary">Bảo vệ bạn khỏi nguy cơ lừa đảo</string>
     <string name="sp_antispam_scan_title">Danh sách chặn</string>
+    <string name="sp_app_install_protect_title">Bảo vệ cài đặt ứng dụng</string>
     <string name="sp_background_risk_dialog_summary">, kiểm tra và sửa chữa vấn đề thanh toán.</string>
     <string name="sp_background_risk_dialog_summary_new">Môi trường thanh toán hiện tại có thể gây ra rủi ro bảo mật. Hãy dành một chút thời gian để tìm hiểu thêm.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Bạn đang kết nối với mạng Wi-Fi công cộng và điều này có thể không an toàn. Hãy chắc chắn rằng thanh toán của bạn được bảo vệ trước khi hoàn tất.</string>
@@ -4501,8 +4598,8 @@ Rút lại chấp thuận ngay?"</string>
     <string name="special_perm_intercept_autostart_msg">Cho phép ứng dụng khởi động ở chế độ nền bất kỳ lúc nào mà không bị giới hạn</string>
     <string name="special_perm_intercept_autostart_title">Tự khởi chạy không giới hạn</string>
     <string name="special_perm_intercept_barrier_free">Khả năng truy cập</string>
-    <string name="special_perm_intercept_camera_msg">Giới hạn mọi hoạt động của máy ảnh</string>
-    <string name="special_perm_intercept_camera_title">Giới hạn sử dụng máy ảnh</string>
+    <string name="special_perm_intercept_camera_msg">Giới hạn mọi hoạt động của camera</string>
+    <string name="special_perm_intercept_camera_title">Giới hạn sử dụng camera</string>
     <string name="special_perm_intercept_chat_msg">Bao gồm thông báo từ WeChat và QQ</string>
     <string name="special_perm_intercept_chat_title">Đọc thông báo từ tin nhắn tức thời</string>
     <string name="special_perm_intercept_check_tip">Tôi nhận thức được rủi ro có thể xảy ra và tự nguyện gánh chịu mọi hậu quả có thể xảy ra.</string>
@@ -4765,6 +4862,9 @@ Rút lại chấp thuận ngay?"</string>
     <string name="storage_menu_mount">Lắp</string>
     <string name="storage_mount_failure">Không thể lắp %1$s</string>
     <string name="storage_mount_success">Đã lắp %1$s thành công</string>
+    <string name="storage_permission_button">Cài đặt</string>
+    <string name="storage_permission_message">Cho phép tính năng này truy cập vào bộ nhớ để nó có thể tính chính xác mức sử dụng bộ nhớ. Bạn có thể cấp quyền này trong Cài đặt.</string>
+    <string name="storage_permission_title">Yêu cầu quyền</string>
     <string name="storage_space_release_hint">Cần thêm dung lượng lưu trữ?</string>
     <string name="storage_system_log">Nhật ký hệ thống</string>
     <string name="storage_system_log_tip">Nhật ký hệ thống sẽ được xóa tự động khi cần thiết</string>
@@ -4962,12 +5062,12 @@ Rút lại chấp thuận ngay?"</string>
     <string name="tc_sms_report_upload_when_net">Cảm ơn bạn đã phản hồi!</string>
     <string name="tc_web_correct_error">Hiệu chỉnh thất bại</string>
     <string name="ten_percent_total_pkg">%s (10%% dữ liệu hàng tháng)</string>
-    <string name="terminal_flars_current_camera">Sử dụng máy ảnh thiết bị này</string>
+    <string name="terminal_flars_current_camera">Sử dụng camera thiết bị này</string>
     <string name="terminal_flars_current_screen">Truy cập màn hình của thiết bị này</string>
-    <string name="terminal_flars_current_screen_camera">Sử dụng màn hình và máy ảnh thiết bị này</string>
-    <string name="terminal_flars_recent_camera">Đã sử dụng máy ảnh của thiết bị này gần đây</string>
+    <string name="terminal_flars_current_screen_camera">Sử dụng màn hình và camera thiết bị này</string>
+    <string name="terminal_flars_recent_camera">Đã sử dụng camera của thiết bị này gần đây</string>
     <string name="terminal_flars_recent_screen">Đã truy cập vào màn hình của thiết bị này gần đây</string>
-    <string name="terminal_flars_recent_screen_camera">Đã sử dụng màn hình và máy ảnh của thiết bị này gần đây</string>
+    <string name="terminal_flars_recent_screen_camera">Đã sử dụng màn hình và camera của thiết bị này gần đây</string>
     <string name="tether_custom_dialog_title">Giới hạn dữ liệu di động</string>
     <string name="tether_limit_dialog_title">Giới hạn dữ liệu di động</string>
     <string name="tether_limit_value_custom">Tùy chỉnh</string>
@@ -5368,6 +5468,9 @@ Hãy thử nâng độ phân giải!"</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Đã tắt tăng cường ảnh động</string>
     <string name="vb_voice_adjust">Âm thanh rạp chiếu phim</string>
     <string name="video_repeat">Phát lại</string>
+    <string name="videobox_double_core_visual">Hình ảnh hai nhân</string>
+    <string name="videobox_double_core_visual_description1">Cải thiện độ phân giải video, tăng tốc độ khung hình và tối ưu HDR thông qua vi mạch chuyên dụng</string>
+    <string name="videobox_double_core_visual_description2">Tăng cường độ sắc nét và mượt mà của video. Bật tính năng này sẽ làm tăng nhẹ tiêu thụ điện năng.</string>
     <string name="videobox_hangup_tips_content">Màn hình của bạn sẽ bị khóa, nhưng ứng dụng vẫn sẽ chạy trong nền khi tính năng này được bật. Bấm phím Nguồn để bật lại màn hình. Bật tính năng này bây giờ?</string>
     <string name="videobox_hangup_tips_title">Chú ý</string>
     <string name="videobox_settings_line_location">Vị trí lối tắt</string>
@@ -5663,8 +5766,8 @@ Hãy thử nâng độ phân giải!"</string>
      <string name="pp_private_file_dir_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
      <string name="pp_private_photo_album">Ảnh và video riêng tư</string>
      <string name="pp_private_photo_album_detail">Mã hóa và bảo vệ các mục bằng khóa màn hình</string>
-     <string name="pp_prohibit_use_camera_in_background">Hạn chế sử dụng máy ảnh ở chế độ nền</string>
-     <string name="pp_prohibit_use_camera_in_background_detail">Theo mặc định, các ứng dụng sẽ không thể sử dụng máy ảnh ở chế độ nền</string>
+     <string name="pp_prohibit_use_camera_in_background">Hạn chế sử dụng camera ở chế độ nền</string>
+     <string name="pp_prohibit_use_camera_in_background_detail">Theo mặc định, các ứng dụng sẽ không thể sử dụng camera ở chế độ nền</string>
      <string name="pp_record_msg">Ghi âm</string>
      <string name="pp_safe_box">Không gian riêng tư</string>
      <string name="pp_safe_box_detail">Các mục riêng tư chỉ được mã hóa và lưu trữ trên thiết bị này. Những người khác sẽ không thể truy cập chúng khi họ đang sử dụng thiết bị này và bản thân thiết bị sẽ không được phép truy cập các mục được mã hóa và sử dụng chúng theo bất kỳ cách nào.</string>
@@ -5741,7 +5844,7 @@ thẻ y tế</string>
      <string name="ew_alert_help_earthquake_title">Sóng địa chấn đã đến</string>
      <string name="ew_alert_help_place_navigation">Điều hướng</string>
      <string name="ew_alert_help_safe_title">Tránh nguy hiểm</string>
-     <string name="ew_alert_help_tips">Hãy bình tĩnh và cảnh giác. Tránh xa các vật treo, không đi thang máy. Tìm một không gian an toàn, thả người xuống, che chắn và giữ chặt.</string>
+     <string name="ew_alert_help_tips">Hãy bình tĩnh và cảnh giác. Tránh xa các vật treo, không đi thang máy. Tìm một không gian an toàn, ngồi xuống, che chắn và giữ chặt.</string>
      <string name="ew_alert_no_contact">Đặt liên hệ khẩn cấp trong Bảo mật &gt; Cảnh báo động đất trước tiên</string>
      <string name="ew_alert_no_emergency">Thêm dữ liệu y tế của bạn vào Bảo mật &gt; Cảnh báo động đất</string>
      <string name="ew_alert_text_from">Dữ liệu được cung cấp bởi %s</string>
@@ -5795,7 +5898,7 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
      <string name="ew_global_signature_template">"Thông tin được cung cấp bởi %s
 Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
      <string name="ew_guide_law_agree">Đồng ý</string>
-     <string name="ew_guide_law_done">Hiểu rồi</string>
+     <string name="ew_guide_law_done">Đã hiểu</string>
      <string name="ew_guide_law_exit">Không đồng ý</string>
      <string name="ew_guide_law_text">Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi cơ quan cảnh báo sớm bên thứ ba. Xiaomi không giám sát các cơ quan bên thứ ba và không có bất kỳ quyền kiểm soát nào đối với họ. Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn. Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạn tham khảo. Bạn hoàn toàn chịu trách nhiệm về những rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này.</string>
      <string name="ew_guide_law_title">Tuyên bố từ chối trách nhiệm</string>
@@ -5871,8 +5974,7 @@ Bạn phải hiểu rằng tính năng này được cung cấp chỉ để bạ
      <string name="ew_monitor_privacy_revoke_title">Rút lại sự đồng ý với Chính sách quyền riêng tư của người theo dõi động đất</string>
      <string name="ew_monitor_read_privacy"><Data>"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách quyền riêng tư&lt;/a&gt;."</Data></string>
      <string name="ew_monitor_share">Chia sẻ</string>
-     <string name="ew_monitor_slogan">Tham gia trận động đất của chúng tôi
-chương trình giám sát</string>
+     <string name="ew_monitor_slogan">Tham gia giám sát trận động đất của chúng tôi</string>
      <string name="ew_monitor_summary1">Sử dụng thiết bị của bạn để theo dõi địa chấn.</string>
      <string name="ew_monitor_summary2">Báo cáo thông tin liên quan đến cảnh báo động đất.</string>
      <string name="ew_monitor_summary3">Giúp nhiều người nhận được cảnh báo động đất nhanh hơn.</string>
@@ -6055,7 +6157,7 @@ tình nguyện viên</string>
      <string name="task_summary_close_mute">Tắt chế độ Im lặng</string>
      <string name="task_summary_close_network">Tắt dữ liệu di động</string>
      <string name="task_summary_close_nfc">Tắt NFC</string>
-     <string name="task_summary_close_rotate_lock">Mở khóa hướng</string>
+     <string name="task_summary_close_rotate_lock">Mở khóa hướng màn hình</string>
      <string name="task_summary_close_save_battery">Tắt trình tiết kiệm pin</string>
      <string name="task_summary_close_screen_display">Tắt chế độ hiển thị Luôn bật</string>
      <string name="task_summary_close_system_touch">Tắt phản hồi xúc giác</string>
@@ -6082,7 +6184,7 @@ tình nguyện viên</string>
      <string name="task_summary_open_system_touch">Bật phản hồi xúc giác</string>
      <string name="task_summary_open_wlan">Bật mạng Wi-Fi</string>
      <string name="task_summary_open_zen_mode">Bật chế độ không làm phiền</string>
-     <string name="title_result_absorbed">Chế độ lấy nét</string>
+     <string name="title_result_absorbed">Chế độ bắt buộc</string>
      <string name="title_result_adjust_volume">Âm lượng</string>
      <string name="title_result_airplan">Chế độ trên máy bay</string>
      <string name="title_result_bluetooth">Bluetooth</string>
@@ -6179,7 +6281,7 @@ tình nguyện viên</string>
      <string name="activity_no_task">Chưa có tác vụ nào ở đây</string>
      <string name="activity_task_center">Trung tâm tác vụ</string>
      <string name="activity_new_condition_name">Thêm điều kiện</string>
-     <string name="title_condition_absorbed">Chế độ lấy nét</string>
+     <string name="title_condition_absorbed">Chế độ bắt buộc</string>
      <string name="title_condition_alarm">Báo thức</string>
      <string name="title_condition_battery">Pin</string>
      <string name="title_condition_bluetooth">Bluetooth</string>
@@ -6205,14 +6307,14 @@ tình nguyện viên</string>
      <string name="summary_result_screen_brightness_format">Đặt độ sáng màn hình thành %s</string>
      <string name="summary_open_flashlight">Bật đèn pin</string>
      <string name="zhifubao_not_found">Phiên bản ứng dụng của bạn quá thấp hoặc chưa được cài đặt</string>
-	 <string name="person_have_hongbao">%1$s sẽ gửi cho bạn một bao lì xì! </string>
+	 <string name="person_have_hongbao">%1$s đã gửi cho bạn một bao lì xì! </string>
 	 <string name="lucky_activity">Hoạt động lì xì</string>
      <string name="lucky_alarm">Đồng hồ báo thức lì xì</string>
      <string name="lucky_alarm_app">Đếm ngược hoạt động lì xì</string>
      <string name="lucky_alarm_app_after">Hoạt động lì xì đã kết thúc</string>
      <string name="lucky_alarm_app_tail">Đếm ngược</string>
      <string name="lucky_alarm_back">Quay lại trợ lý lì xì</string>
-     <string name="lucky_alarm_item_month">Tháng 11</string>
+     <string name="lucky_alarm_item_month">Tháng</string>
      <string name="lucky_alarm_open_summary">Sau khi bật, một cửa sổ bật lên sẽ nhắc bạn 1 phút trước khi hoạt động lì xì bắt đầu và bạn có thể xem tất cả thời gian hoạt động của lì xì thông qua cửa sổ nổi. </string>
      <string name="lucky_alarm_open_title">Đồng hồ báo thức lì xì</string>
      <string name="lucky_alarm_sound_title">Âm thanh nhắc nhở hoạt động</string>
@@ -6221,7 +6323,7 @@ WeChat/QQ/MiLiao lấy hiện vật bao lì xì
 Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không làm phiền khi đăng nhập máy tính không được hỗ trợ"</string>
      <string name="lucky_max_chat_title">Từ QQ</string>
      <string name="lucky_money_close">Đóng</string>
-     <string name="lucky_money_group_summary">Không cần lấy lì xì do cá nhân gửi, chỉ nên nhắc nhóm lì xì để tránh nhắc quá nhiều. </string>
+     <string name="lucky_money_group_summary">Không cần lấy lì xì do cá nhân gửi, ưu tiên các lấy lì xì từ các nhóm để tránh nhắc nhở quá nhiều. </string>
      <string name="lucky_my_luckymoney">Hồ sơ lì xì của tôi</string>
      <string name="lucky_sound_mode_lucky">Lì xì ở đây</string>
      <string name="lucky_sound_warn">Âm thanh nhắc nhở lì xì</string>
@@ -6289,7 +6391,7 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="permission_usage_allow_autostart_once">%1$s | Ứng dụng này đã tự động khởi động</string>
      <string name="permission_usage_allow_body_sensor_once">%1$s | Ứng dụng này đã truy cập vào cảm biến cơ thể</string>
      <string name="permission_usage_allow_call_phone_once">%1$s | Ứng dụng này đã thực hiện cuộc gọi</string>
-     <string name="permission_usage_allow_camera_once">%1$s | Ứng dụng này đã truy cập vào máy ảnh</string>
+     <string name="permission_usage_allow_camera_once">%1$s | Ứng dụng này đã truy cập vào camera</string>
      <string name="permission_usage_allow_clipboard_once">%1$s | Ứng dụng này đã truy cập vào bảng nhớ tạm</string>
      <string name="permission_usage_allow_delete_pic_once">%1$s | Ứng dụng này đã xóa ảnh khỏi Thư viện</string>
      <string name="permission_usage_allow_device_sensor_once">%1$s | Ứng dụng này đã truy cập vào cảm biến định hướng và chuyển động của thiết bị</string>
@@ -6320,7 +6422,7 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="permission_usage_deny_autostart_once">%1$s | Ứng dụng này đã bị từ chối tự động khởi động</string>
      <string name="permission_usage_deny_body_sensor_once">%1$s | Ứng dụng này đã bị từ chối truy cập vào cảm biến cơ thể</string>
      <string name="permission_usage_deny_call_phone_once">%1$s | Ứng dụng này đã bị từ chối thực hiện cuộc gọi</string>
-     <string name="permission_usage_deny_camera_once">%1$s | Ứng dụng này đã bị từ chối truy cập vào máy ảnh</string>
+     <string name="permission_usage_deny_camera_once">%1$s | Ứng dụng này đã bị từ chối truy cập vào camera</string>
      <string name="permission_usage_deny_clipboard_once">%1$s | Ứng dụng này đã bị từ chối truy cập vào bảng nhớ tạm</string>
      <string name="permission_usage_deny_delete_pic_once">%1$s | Ứng dụng này đã bị từ chối xóa ảnh khỏi Thư viện</string>
      <string name="permission_usage_deny_device_sensor_once">%1$s | Ứng dụng này đã bị từ chối truy cập vào chuyển động và hướng của thiết bị</string>
@@ -6348,8 +6450,8 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="permission_usage_deny_wakepath_once">%1$s | Bị từ chối</string>
      <string name="permission_usage_now">Bây giờ</string>
      <string name="permission_usage_now_access">Đang truy cập</string>
-     <string name="permission_usage_terminal_camera_once">"%1$s | Ứng dụng này đã sử dụng máy ảnh của thiết bị này"</string>
-     <string name="permission_usage_terminal_camera_use">"Ứng dụng này đang sử dụng máy ảnh của thiết bị này"</string>
+     <string name="permission_usage_terminal_camera_once">"%1$s | Ứng dụng này đã sử dụng camera của thiết bị này"</string>
+     <string name="permission_usage_terminal_camera_use">"Ứng dụng này đang sử dụng camera của thiết bị này"</string>
      <string name="permission_usage_terminal_screen_once">"%1$s Ứng dụng này đã sử dụng màn hình của thiết bị này"</string>
      <string name="permission_usage_terminal_screen_use">"Ứng dụng này đang sử dụng màn hình của thiết bị này"</string>
      <string name="permission_usage_virtual_calendar_once">%1$s | Ứng dụng này trả về một sự kiện lịch trống</string>
@@ -6460,36 +6562,36 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="sim_lock_verify_time_out">Đã hết thời gian xác minh. Hãy thử lại.</string>
      <string name="storage_compact_warning">Điều chỉnh nhiều quyền</string>
 	 <string name="alarm_headsup_bottom">Lấy lì xì trên điện thoại Xiaomi nhanh chóng</string>
-     <string name="alarm_lock_screen_summary">Một làn sóng lì xì đang đến...</string>
+     <string name="alarm_lock_screen_summary">Một cơn mưa lì xì đang đến...</string>
      <string name="alarm_lockscreen_btn">Bắt đầu lấy lì xì</string>
      <string name="alarm_setting_title">Cài đặt đồng hồ báo thức lì xì</string>
      <string name="app_right">Được sản xuất chính thức bởi Tập đoàn Xiaomi</string>
      <string name="best_warning_dialog_button">Tôi biết</string>
-     <string name="best_warning_dialog_message">"Nhắc nhở ấm áp: Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn bấm nhanh quá hoặc lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mọi lúc, &lt;font color= "#F30018">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Vì vậy, đôi khi, bạn có thể kiểm soát nhịp điệu bằng cách giơ tay và lấy lì xì có nhiều hương vị hơn. Lì xì nào cũng được nhưng đừng tham lam ~"</string>
-     <string name="best_warning_dialog_message1">"Sử dụng Trợ lý lì xì Xiaomi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn nhanh quá và lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì mỗi lần, &lt;font color="#F22424 ">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng plug-in lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Do đó , đôi khi, bạn có thể điều khiển nhịp điệu bằng cách giơ tay lên cao và chộp lấy lì xì có nhiều hương vị hơn. Lì xì tuy tốt nhưng không thể tham lam được~~"</string>
+     <string name="best_warning_dialog_message">"Lời khuyên: Sử dụng Trợ lý lì xì Mi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu tay bạn bấm nhanh quá hoặc lắc quá nhanh, bạn sẽ là người đầu tiên giật được lì xì, &lt;font color= "#F30018">Có khả năng nhất định WeChat sẽ nhầm tưởng rằng bạn đã sử dụng trình cắm lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Vì vậy, bạn có thể kiểm soát nhịp điệu để lấy lì xì có giá trị. Lì xì nào cũng được nhưng đừng tham lam quá~"</string>
+     <string name="best_warning_dialog_message1">"Sử dụng Trợ lý lì xì Mi sẽ tăng tốc độ lấy lì xì của bạn. Nhưng nếu bạn lấy thật nhanh thì bạn sẽ là người đầu tiên giật được lì xì, &lt;font color="#F22424 ">Có khả năng nhất định là WeChat sẽ nhầm tưởng rằng bạn đã sử dụng trình cắm lấy lì xì tự động&lt;/font>, điều này sẽ ảnh hưởng đến việc bạn sử dụng chức năng lì xì sau này. Do đó, bạn có thể lấy lì xì bằng cách kiểm soát nhịp điệu để lấy lì xì có giá trị. Lì xì mặc dù có tốt đi chăng nữa nhưng không được tham lam nhé~~"</string>
      <string name="best_warning_dialog_title">Nhắc nhở ấm áp</string>
      <string name="business_have_hongbao">Một lì xì từ %1$s</string>
      <string name="business_lucky_warning">Lì xì dành cho doanh nghiệp</string>
      <string name="card_click_type_close_ad">Nút đóng quảng cáo ở góc trên bên phải</string>
      <string name="card_click_type_open_or_download">Mở/Tải xuống ở góc dưới bên phải</string>
-     <string name="card_click_type_other">Các khu vực khác</string>
+     <string name="card_click_type_other">Thẻ khác</string>
      <string name="close_lucky_money_dialog_ok">Xác nhận đóng</string>
-     <string name="close_lucky_money_dialog_summary">Bạn có chắc chắn đóng trợ lý lì xì không? Sau khi tắt, bạn sẽ không thể nhận được lời nhắc đặc biệt về lì xì do Trợ lý lì xì gửi cho bạn, điều này có thể khiến bạn bỏ lỡ lì xì. Nếu muốn đóng cửa sổ nổi, bạn có thể thực hiện ở nhiều cài đặt hơn. </string>
+     <string name="close_lucky_money_dialog_summary">Bạn có chắc chắn đóng Trợ lý lì xì không? Sau khi tắt, bạn sẽ không thể nhận được lời nhắc đặc biệt về lì xì do Trợ lý lì xì gửi cho bạn, điều này có thể khiến bạn bỏ lỡ lì xì. Nếu muốn đóng cửa sổ nổi, bạn có thể tìm thấy nó ở cài đặt. </string>
      <string name="close_lucky_money_dialog_title">Đóng trợ lý lì xì</string>
      <string name="cmd_lucky_float">Lắc điện thoại</string>
      <string name="dialog_remove_luckymoney_cancle">Sử dụng một phiên bản</string>
      <string name="dialog_remove_luckymoney_ok">Vào mở</string>
      <string name="enter">Nhập</string>
      <string name="fast_open">Chế độ lấy nhanh</string>
-     <string name="fast_open_dialog_message">Sau khi bật chế độ lấy lì xì nhanh, khi bạn nhận được lì xì, hệ thống sẽ tự động mở trang lấy lì xì, giúp việc lấy lì xì nhanh chóng và thuận tiện hơn. </string>
+     <string name="fast_open_dialog_message">Sau khi bật chế độ lấy nhanh, khi bạn nhận được lì xì, hệ thống sẽ tự động mở trang lấy lì xì, giúp việc lấy lì xì nhanh chóng và thuận tiện hơn. </string>
      <string name="fast_open_dialog_message_summary">Lưu ý: Nên tắt chế độ lấy nhanh các ứng dụng điều hướng, video, trò chơi để tránh ảnh hưởng đến hoạt động bình thường của ứng dụng. Việc nhận lì xì sẽ không được thực hiện khi điện thoại bị khóa. </string>
      <string name="fast_open_dialog_ok">Mở</string>
-     <string name="fast_open_list_not_open_title">Cấm lấy nhanh trong %s ứng dụng</string>
-     <string name="fast_open_list_open_title">Cho phép truy xuất nhanh trong %s ứng dụng</string>
+     <string name="fast_open_list_not_open_title">Danh sách đen lấy nhanh gồm %s ứng dụng</string>
+     <string name="fast_open_list_open_title">Danh sách trắng lấy nhanh gồm %s ứng dụng</string>
      <string name="fast_open_noti_summary">%s đã gửi cho bạn một lì xì</string>
-     <string name="fast_open_summary">Sau khi bật chế độ lấy lì xì nhanh, việc nhận tin nhắn lì xì mới sẽ làm gián đoạn ứng dụng hiện tại và chuyển sang cửa sổ lấy lì xì. </string>
+     <string name="fast_open_summary">Sau khi chế độ lấy nhanh được bật, việc nhận tin nhắn mới sẽ làm gián đoạn ứng dụng hiện tại để chuyển sang cửa sổ lấy lì xì.</string>
      <string name="float_window">Cửa sổ nổi trên màn hình</string>
-     <string name="float_window_summary">Hỗ trợ chuyển nhanh đến trang chức năng lì xì</string>
+     <string name="float_window_summary">Hỗ trợ chuyển nhanh đến trang lì xì</string>
      <string name="float_window_tips">Điện thoại Xiaomi rất nhanh! </string>
      <string name="game_manual_record_setting_king">Vương giả vinh diệu</string>
      <string name="game_manual_record_setting_peace">PUBG</string>
@@ -6497,7 +6599,7 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="give_lucky_money">Gửi lì xì</string>
      <string name="hongbao_cancel">Hủy</string>
      <string name="hongbao_message_slogon">Điện thoại Xiaomi rất nhanh! </string>
-     <string name="hongbao_name">Trợ lý lì xì Xiaomi</string>
+     <string name="hongbao_name">Trợ lý lì xì Mi</string>
      <string name="item_lucky_alarm_has_been_closed">Đã kết thúc</string>
      <string name="lock_screen_business_hongbao_message">Từ %1$s</string>
      <string name="lock_screen_hongbao_message">Từ "%1$s"</string>
@@ -6529,24 +6631,24 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="malicious_win_small">Cửa sổ quá nhỏ</string>
      <string name="mi_pay_lucky">Ví tiền Xiaomi</string>
      <string name="miliao_lucky_warning">Lì xì Miliao</string>
-     <string name="no_lucky_money">Lì xì vẫn chưa nhận được</string>
-     <string name="more_setting_summary">Hỗ trợ các loại lời nhắc lì xì, cửa sổ nổi trên màn hình, không làm phiền thời gian và các chức năng khác</string>
+     <string name="no_lucky_money">Chưa nhận được lì xì nào</string>
+     <string name="more_setting_summary">Hỗ trợ lời nhắc lì xì, cửa sổ nổi trên màn hình, không làm phiền thời gian và các chức năng khác</string>
      <string name="not_available">Không có</string>
-     <string name="number_of_lucky_money">Bạn đã được nhắc về tổng số lì xì</string>
+     <string name="number_of_lucky_money">Bạn đã được thông báo về tổng số lì xì</string>
      <string name="open_alarm_right_now">Mở ngay</string>
      <string name="open_dnd_mode">Chế độ không làm phiền</string>
      <string name="open_dnd_mode_summary">Bật chế độ không làm phiền thì trong thời gian nghỉ, lời nhắc lì xì và đồng hồ báo thức lì xì sẽ không làm phiền bạn</string>
      <string name="popular_action_anti_spam_summary">SMS và cuộc gọi điện thoại</string>
      <string name="popular_action_anti_spam_title">Ngăn chặn quấy rối</string>
-     <string name="open_fast_open_mode">Bật chế độ lấy lì xì nhanh</string>
-     <string name="open_fast_open_mode_summary">Bật chế độ lấy lì xì nhanh. Khi nhận lì xì, hệ thống sẽ tự động mở trang lấy lì xì. </string>
+     <string name="open_fast_open_mode">Bật chế độ lấy nhanh</string>
+     <string name="open_fast_open_mode_summary">Bật chế độ lấy nhanh. Khi nhận lì xì, hệ thống sẽ tự động mở trang lấy lì xì. </string>
      <string name="phone_type_fold">Điện thoại gập</string>
      <string name="phone_type_normal">Điện thoại di động thông thường</string>
-     <string name="open_lucky">Mở Trợ lý lì xì Xiaomi</string>
+     <string name="open_lucky">Mở Trợ lý lì xì Mi</string>
      <string name="popular_action_app_lock_summary">Quyền riêng tư an toàn hơn</string>
      <string name="popular_action_app_lock_title">Mã hóa ứng dụng</string>
      <string name="open_right_now">Lấy lì xì ngay lập tức</string>
-     <string name="open_right_now_short">Mua ngay</string>
+     <string name="open_right_now_short">Lấy ngay</string>
      <string name="popular_action_app_manager_summary">Nâng cấp và gỡ cài đặt</string>
      <string name="popular_action_app_manager_title">Quản lý ứng dụng</string>
      <string name="popular_action_auto_launch_manager_summary">Tự động khởi chạy ứng dụng</string>
@@ -6578,14 +6680,14 @@ Phần mềm nhắc nhở các nhóm bị chặn và bật chức năng không l
      <string name="storage_entry_other">Khác</string>
      <string name="storage_entry_setting">Cài đặt</string>
      <string name="storage_my_device">Thiết bị của tôi</string>
-     <string name="text_alarm_after">"Hoạt động phong bao lì xì năm nay đã kết thúc
+     <string name="text_alarm_after">"Hoạt động lì xì năm nay đã kết thúc
 Hẹn gặp lại bạn vào năm sau"</string>
-     <string name="text_alarm_before">"Sự kiện phong bao lì xì năm nay sắp bắt đầu
+     <string name="text_alarm_before">"Sự kiện lì xì năm nay sắp bắt đầu
 Thần Tài đã xuất hiện, vì vậy hãy chú ý theo dõi"</string>
      <string name="text_alarm_close">"Bật đồng hồ báo thức lì xì
-Nhắc nhở kịp thời về những cơn mưa phong bao đỏ khác nhau
-Không bao giờ bỏ lỡ bất kỳ lì xì nào nữa"</string>
-     <string name="text_all_control_summary">Sau khi bật lên, khi phát hiện lì xì, màn hình sẽ tự động sáng lên để nhắc</string>
+Nhắc nhở kịp thời về những cơn mưa lì xì và
+Không bao giờ bỏ lỡ bất kỳ lì xì nào"</string>
+     <string name="text_all_control_summary">Sau khi bật tính năng này, khi phát hiện lì xì thì màn hình sẽ tự động sáng lên</string>
      <string name="text_error">Phiên bản phần mềm liên quan quá thấp hoặc chưa được cài đặt</string>
      <string name="text_lucky_alarm_before">Hoạt động lì xì sắp bắt đầu</string>
      <string name="title_more_setting">Thêm cài đặt</string>
@@ -6615,7 +6717,7 @@ Không bao giờ bỏ lỡ bất kỳ lì xì nào nữa"</string>
      <string name="warn_function_no_work"><u>Không thể nhắc nhở chính xác khi có lì xì？</u></string>
 	<string name="app_summary">"Công cụ lấy lì xì WeChat/QQ/MiLiao
 Hỗ trợ lì xì cá nhân và lì xì nhóm
-Sự kiện lì xì lễ hội mùa xuân, đừng bỏ lỡ mọi lì xì nào"</string>
+Sự kiện lì xì Tết nguyên đán, đừng bỏ lỡ bất cứ lì xì nào"</string>
 	<string name="app_source_global_search">Tìm kiếm toàn cầu</string>
     <string name="app_source_home">Máy tính để bàn</string>
     <string name="app_source_notification">Thông báo</string>
@@ -6664,7 +6766,7 @@ Sự kiện lì xì lễ hội mùa xuân, đừng bỏ lỡ mọi lì xì nào"
 	<string name="app_behavior_desc_virtual_once">Đã gửi lại tin nhắn trống lúc %1$s</string>
     <string name="app_behavior_get_install">%1s đã truy cập danh sách ứng dụng của bạn</string>
     <string name="app_behavior_get_install_single">Ứng dụng này đã truy cập danh sách ứng dụng của bạn</string>
-    <string name="app_behavior_global_settings_perm_tips">Nhận cảnh báo trên thanh trạng thái khi ứng dụng ghi âm hoặc sử dụng máy ảnh</string>
+    <string name="app_behavior_global_settings_perm_tips">Nhận cảnh báo trên thanh trạng thái khi ứng dụng ghi âm hoặc sử dụng camera</string>
 	<string name="app_behavior_key_protect">Bảo vệ thông tin cá nhân</string>
     <string name="app_behavior_location">%1s đã truy cập vị trí của bạn</string>
     <string name="app_behavior_location_bg">%1s đã truy cập vị trí của bạn trong nền</string>
@@ -6753,16 +6855,16 @@ Sự kiện lì xì lễ hội mùa xuân, đừng bỏ lỡ mọi lì xì nào"
     <string name="app_name_phone">Bảo mật</string>
 	<string name="app_perm_manager_service">Quyền</string>
 	<string name="app_statusbar_audio_now">Ghi âm</string>
-    <string name="app_statusbar_camera_now">Máy ảnh</string>
+    <string name="app_statusbar_camera_now">Camera</string>
     <string name="app_statusbar_location_now">Vị trí</string>
 	<string name="auto_task_edit_default_task_name">Chỉnh sửa tên tác vụ</string>
     <string name="auto_task_exit_finish">Nhiệm vụ được hoàn thành tự động</string>
-	<string name="camera">Máy ảnh</string>
+	<string name="camera">Camera</string>
 	<string name="cta_HIPS_Perm_Location_Desc">Để sử dụng thông tin vị trí của bạn trong Trung tâm Cảnh báo, SOS khẩn cấp, Tiết kiệm pin ứng dụng và quét bảo mật thanh toán, cũng như bật vị trí gần đúng</string>
 	<string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Để quản lý ủy quyền khi thực hiện xác minh danh tính trên nhiều thiết bị, gỡ lỗi USB và khôi phục mật khẩu Bảo vệ quyền riêng tư và Khóa ứng dụng</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Để nhận dạng trạng thái cuộc gọi trong điều kiện nhiệt độ cao hoặc pin yếu</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Để phát hiện sóng địa chấn nhằm theo dõi động đất</string>
-    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Để ghi âm khi sử dụng Tăng tốc trò chơi</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Để ghi âm khi sử dụng Game Turbo</string>
 	<string name="data_usage_protected_dialog_message">"Đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
 
 Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
@@ -6786,9 +6888,9 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="dialog_msg_install_manager_content_pad">Cài đặt lại Bảo mật?</string>
 	<string name="dialog_preference_click_cancel">Hủy</string>
     <string name="dialog_preference_click_reset">Đặt lại ứng dụng</string>
-    <string name="dialog_remobe_luckymoney_cancle">Sử dụng một phiên bản</string>
-    <string name="dialog_remobe_luckymoney_ok">Vào mở</string>
-    <string name="dialog_remove_luckymoney">Phiên bản hệ thống hiện tại hỗ trợ trợ lý lì xì cấp độ hệ thống. Bạn có muốn gỡ cài đặt phiên bản một vấn đề và vào trình quản lý điện thoại để kích hoạt trợ lý lì xì Xiaomi nhanh hơn và ổn định hơn không? </string>
+    <string name="dialog_remobe_luckymoney_cancle">Sử dụng phiên bản Lấy thủ công</string>
+    <string name="dialog_remobe_luckymoney_ok">OK</string>
+    <string name="dialog_remove_luckymoney">Phiên bản hệ thống hiện tại đã hỗ trợ Trợ lý lì xì, bạn có muốn gỡ cài đặt phiên bản Lấy thủ công và đi tới Bảo mật để bật Trợ lý lì xì Mi nhanh và ổn định hơn không? </string>
 	<string name="disable_sensitive_permissions">Các quyền nhạy cảm bị hạn chế</string>
 	<string name="disable_sensitive_permissions_detail">"Bàn phím của bạn sẽ không thể sử dụng các quyền liên quan đến quyền riêng tư (ví dụ: truy cập danh bạ hoặc thông tin vị trí)."</string>
 	<string name="dnd_mode_type">Chế độ không làm phiền</string>
@@ -6810,7 +6912,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
 	<string name="pc_today_charge_time_title">Số lần sạc của ngày hôm nay</string>
 	<string name="permisison_usage_menu_all">Tất cả</string>
     <string name="permisison_usage_menu_terminal">Liên thông</string>
-    <string name="permisison_usage_now_camera">Ứng dụng này hiện đang truy cập vào máy ảnh</string>
+    <string name="permisison_usage_now_camera">Ứng dụng này hiện đang truy cập vào camera</string>
     <string name="permisison_usage_now_location">Ứng dụng này hiện đang truy cập vị trí của bạn</string>
     <string name="permisison_usage_now_mic">Ứng dụng này hiện đang truy cập micrô</string>
 	<string name="permission_instruction_wallpaper">Cấp quyền này để cho phép ứng dụng thay đổi dịch vụ hình nền động mặc định và tiếp tục chạy nền.</string>
@@ -6824,12 +6926,12 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="select_app_title_music">Phát nhạc</string>
 	<string name="summary_condition_charge_to_target">Khi pin được sạc đến mức đã đặt</string>
     <string name="summary_condition_charge_to_target_percent">Khi pin được sạc đến %d%%</string>
-    <string name="summary_condition_close_absorbed_mode">Sau khi tắt Chế độ lấy nét</string>
+    <string name="summary_condition_close_absorbed_mode">Sau khi tắt Chế độ bắt buộc</string>
     <string name="summary_condition_in_charge">Khi sạc</string>
     <string name="summary_condition_insert_headset">Kết nối tai nghe có dây</string>
     <string name="summary_condition_missing_call">Cuộc gọi nhỡ</string>
     <string name="summary_condition_no_in_charge">Khi không sạc</string>
-    <string name="summary_condition_open_absorbed_mode">Sau khi bật Chế độ lấy nét</string>
+    <string name="summary_condition_open_absorbed_mode">Sau khi bật Chế độ bắt buộc</string>
     <string name="summary_condition_reduce_to_target">Khi pin ở mức đã đặt</string>
     <string name="summary_condition_reduce_to_target_percent">Khi pin ở mức %d%%</string>
     <string name="summary_condition_scan_rubbish">Dọn dẹp</string>
@@ -6839,12 +6941,12 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="summary_condition_wireless_charge">Khi sạc không dây</string>
     <string name="summary_confirm_open_flashligt">Bật đèn pin?</string>
 	<string name="safety">Bảo mật</string>
-	<string name="terminal_behavior_camera">"%1s đã truy cập vào máy ảnh của thiết bị này"</string>
+	<string name="terminal_behavior_camera">"%1s đã truy cập vào camera của thiết bị này"</string>
     <string name="terminal_behavior_screen">"%1s đã truy cập màn hình của thiết bị này"</string>
     <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
     <string name="terminal_privacy_ability">Tính năng và cơ chế</string>
     <string name="terminal_privacy_ability_img">Xử lý hình ảnh</string>
-    <string name="terminal_privacy_ability_img_summary">Chỉnh sửa và nhận dạng thông minh cho ảnh và video trong Máy ảnh, Thư viện và Taplus</string>
+    <string name="terminal_privacy_ability_img_summary">Chỉnh sửa và nhận dạng thông minh cho ảnh và video trong Camera, Thư viện và Taplus</string>
     <string name="terminal_privacy_ability_model">Nhận biết cách thiết bị của bạn tương tác với môi trường</string>
     <string name="terminal_privacy_ability_model_summary">Bộ đếm bước, cử chỉ thông minh, chế độ bỏ túi và độ sáng tự động</string>
     <string name="terminal_privacy_ability_others">Các cơ chế khác</string>
@@ -6872,4 +6974,61 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
 	<string name="add_auto_task_desktop_icon">Thêm phím tắt vào màn hình chính</string>
     <string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
     <string name="group_head_data_ai_clipboard_desc">Cho phép hệ thống quyết định xem ứng dụng có thể truy cập các mục trong bộ nhớ tạm hay không</string>
+	<string name="create_table_aaid">TẠO BẢNG AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
+	<string name="create_table_keyword">TẠO từ khóa BẢNG( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, gõ INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+	<string name="create_table_mode">Chế độ TẠO BẢNG( _id INTEGER PRIMARY KEY AUTOINCREMENT, tên TEXT DEFAULT NULL, trạng thái TEXT DEFAULT NULL );</string>
+	<string name="create_table_oaid">TẠO BẢNG OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
+	<string name="create_table_phonelist">TẠO BẢNG phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, số TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, ghi chú TEXT DEFAULT NULL, trạng thái INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, gõ INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, vị trí INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+	<string name="create_table_report_sms">TẠO BẢNG báo cáoSms( id TEXT NOT NULL );</string>
+	<string name="create_table_report_sms_pending">TẠO BẢNG báo cáoSmsPending( id TEXT NOT NULL, địa chỉ TEXT, nội dung TEXT, ngày TEXT );</string>
+	<string name="create_table_sim">TẠO BẢNG sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
+	<string name="create_table_thirddesktop">TẠO BẢNG THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, gõ INTEGER NOT NULL );</string>
+	<string name="create_table_vaid">TẠO BẢNG VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
+	<string name="create_talbe_fwlog">TẠO BẢNG fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, số TEXT DEFAULT NULL, ngày INTEGER NOT NULL DEFAULT 0, gõ INTEGER NOT NULL DEFAULT 0, lý do INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, đọc INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, chế độ INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
+    <string name="solar_term_autumn_begins">Lập thu</string>
+    <string name="solar_term_autumn_equinox">Thu phân</string>
+    <string name="solar_term_clear_and_bright">Thanh minh</string>
+    <string name="solar_term_cold_dews">Hàn lộ</string>
+    <string name="solar_term_grain_buds">Tiểu mãn</string>
+    <string name="solar_term_grain_in_ear">Mang chủng</string>
+    <string name="solar_term_grain_rain">Cốc vũ</string>
+    <string name="solar_term_great_cold">Đại hàn</string>
+    <string name="solar_term_great_heat">Đại thử</string>
+    <string name="solar_term_heavy_snow">Đại tuyết</string>
+    <string name="solar_term_hoar_frost_falls">Sương giáng</string>
+    <string name="solar_term_insects_awaken">Kinh trập</string>
+    <string name="solar_term_light_snow">Tiểu tuyết</string>
+    <string name="solar_term_slight_cold">Tiểu hàn</string>
+    <string name="solar_term_slight_heat">Tiểu thử</string>
+    <string name="solar_term_spring_begins">Lập xuân</string>
+    <string name="solar_term_stopping_the_heat">Xử thử</string>
+    <string name="solar_term_summer_begins">Lập hạ</string>
+    <string name="solar_term_summer_solstice">Hạ chí</string>
+    <string name="solar_term_the_rains">Vũ thủy</string>
+    <string name="solar_term_vernal_equinox">Xuân phân</string>
+    <string name="solar_term_white_dews">Bạch lộ</string>
+    <string name="solar_term_winter_begins">Lập đông</string>
+    <string name="solar_term_winter_solstice">Đông chí</string>
+    <string name="earthly_branches_chen">Thìn</string>
+    <string name="earthly_branches_chou">Sửu</string>
+    <string name="earthly_branches_hai">Hợi</string>
+    <string name="earthly_branches_mao">Mão</string>
+    <string name="earthly_branches_shen">Thân</string>
+    <string name="earthly_branches_si">Tỵ</string>
+    <string name="earthly_branches_wei">Mùi</string>
+    <string name="earthly_branches_wu">Ngọ</string>
+    <string name="earthly_branches_xu">Tuất</string>
+    <string name="earthly_branches_yin">Dần</string>
+    <string name="earthly_branches_you">Dậu</string>
+    <string name="earthly_branches_zi">Tý</string>
+	<string name="heavenly_stems_bing">Bính</string>
+    <string name="heavenly_stems_ding">Đinh</string>
+    <string name="heavenly_stems_geng">Canh</string>
+    <string name="heavenly_stems_gui">Quý</string>
+    <string name="heavenly_stems_ji">Kỷ</string>
+    <string name="heavenly_stems_jia">Giáp</string>
+    <string name="heavenly_stems_ren">Nhâm</string>
+    <string name="heavenly_stems_wu">Mậu</string>
+    <string name="heavenly_stems_xin">Tân</string>
+    <string name="heavenly_stems_yi">Ất</string>
 </resources>

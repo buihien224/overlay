@@ -1,5 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Thư thái</item>
+        <item>Tiêu chuẩn</item>
+        <item>Nhanh</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Hình nền</item>
+        <item>Tiện ích</item>
+        <item>Cài đặt</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Mặc định</item>
+        <item>Xanh lam</item>
+        <item>Xanh lá cây</item>
+        <item>Tím</item>
+        <item>Nâu</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Tắt</item>
+        <item>Bất cứ nơi đâu</item>
+        <item>Trên tiện ích</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Tắt</item>
+        <item>Bất cứ nơi đâu</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Trượt</item>
+        <item>Mờ dần</item>
+        <item>Lăn</item>
+        <item>Trang</item>
+        <item>Xếp tầng</item>
+        <item>Xoay</item>
+        <item>Hộp 3D</item>
+    </string-array>
+	<string-array name="widget_component_add_source"> 
+		<item>Trình chọn trên màn hình chính</item> 
+		<item>Bên trong ứng dụng</item> 
+		<item>Lối tắt ứng dụng</item> 
+		<item>Trong ứng dụng chủ đề</item> 
+		<item>Thành phần cổ điển</item> 
+		<item>Trình chọn ở màn hình cá nhân</item> 
+		<item>Vị trí hiển thị thẻ đề xuất ở màn hình cá nhân</item> 
+		<item>Vị trí hiển thị hình nền thẻ đề xuất ở màn hình cá nhân</item> 
+		<item>Vị trí thủ công</item> 
+		<item>Vị trí lối tắt trên màn hình chính</item> 
+	</string-array> 
+	<string-array name="widget_component_add_way"> 
+		<item>Kéo thả từ trang chi tiết trình chọn</item> 
+		<item>Nút thêm ở trang chi tiết trình chọn</item> 
+		<item>Kéo thả từ trang chủ trình chọn</item> 
+		<item>Kéo thả từ trang chủ khác</item> 
+		<item>Nhấn thay đổi từ trang bộ lọc</item> 
+		<item>Nút thêm ở thẻ ngang trên trang chủ</item> 
+		<item>Nút ứng dụng ở trang chỉnh sửa</item> 
+		<item>Kéo thả từ trang bộ lọc</item> 
+		<item>Kéo thả từ thẻ ngang ở trang phân loại</item> 
+		<item>Kéo thả từ trang kết quả tìm kiếm</item> 
+	</string-array> 
+	<string-array name="widget_component_default_source"> 
+		<item>Không mặc định</item> 
+		<item>Màn hình chính</item> 
+		<item>Màn hình cá nhân</item> 
+	</string-array> 
+	<string-array name="widget_component_delete_way"> 
+		<item>Xóa lối tắt</item> 
+		<item>Xóa ở trên cùng</item> 
+		<item>Gỡ cài đặt ứng dụng</item> 
+		<item>Thay đổi lối tắt</item> 
+		<item>Đẩy xuống</item> 
+		<item>Xóa hoàn toàn</item> 
+		<item>Khác</item> 
+	</string-array> 
+	<string-array name="widget_component_source"> 
+		<item>Bố cục mặc định</item> 
+		<item>Thêm thủ công</item> 
+		<item>Thêm bởi hoạt động</item> 
+		<item>Thay thể thẻ</item> 
+	</string-array> 
+	<string-array name="widget_drag_type_name"> 
+		<item>Trong màn hình chính</item> 
+		<item>Trong màn hình cá nhân</item> 
+		<item>Từ màn hình chính sang màn hình cá nhân</item> 
+		<item>Từ màn hình cá nhân sang màn hình chính</item> 
+	</string-array> 
+	<string-array name="widget_host_module_name"> 
+		<item>Màn hình chính</item> 
+		<item>Vùng thành phần ở màn hình cá nhân</item> 
+		<item>Widget động theo thời gian thực ở màn hình cá nhân</item> 
+	</string-array> 
+	<string-array name="widget_package_install_status"> 
+		<item>Chưa cài đặt</item> 
+		<item>Đã cài đặt</item> 
+		<item>Có thể nâng cấp</item> 
+	</string-array>
     <string-array name="gadget_weather_image">
         <item>Quang</item>
         <item>Nhiều mây</item>
@@ -36,40 +131,5 @@
         <item>Căn giữa</item>
         <item>Bên trái</item>
         <item>Bên phải</item>
-    </string-array>
-    <string-array name="animation_rate_entries">
-        <item>Thư thái</item>
-        <item>Tiêu chuẩn</item>
-        <item>Nhanh</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Hình nền</item>
-        <item>Tiện ích</item>
-        <item>Cài đặt</item>
-    </string-array>
-    <string-array name="monochrome_color_entries">
-        <item>Mặc định</item>
-        <item>Xanh lam</item>
-        <item>Xanh lá cây</item>
-        <item>Tím</item>
-        <item>Nâu</item>
-    </string-array>
-    <string-array name="no_word_model_entries">
-        <item>Tắt</item>
-        <item>Bất cứ nơi đâu</item>
-        <item>Trên tiện ích</item>
-    </string-array>
-    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
-        <item>Tắt</item>
-        <item>Bất cứ nơi đâu</item>
-    </string-array>
-    <string-array name="transformation_entries">
-        <item>Trượt</item>
-        <item>Mờ dần</item>
-        <item>Lăn</item>
-        <item>Trang</item>
-        <item>Xếp tầng</item>
-        <item>Xoay</item>
-        <item>Hộp 3D</item>
     </string-array>
 </resources>
