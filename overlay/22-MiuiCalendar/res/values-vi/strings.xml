@@ -1636,7 +1636,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="lunar_san_shi">30</string>
 	<string name="lunar_chu">Mùng </string>
 	<string name="lunar_nian">2</string>
-	<string name="lunar_yue"> - </string>
+	<string name="lunar_yue">/</string>
 	<string name="lunar_year">Năm</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="the_rains">Vũ thủy</string>
