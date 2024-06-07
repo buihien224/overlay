@@ -69,4 +69,10 @@
     <plurals name="power_main_battery_last_minute_screen_on">
         <item quantity="other">Thời gian sử dụng còn lại %s phút</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s giờ</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s phút</item>
+    </plurals>
 </resources>
