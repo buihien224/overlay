@@ -1379,6 +1379,9 @@ quan trọng khi chơi game"</string>
     <string name="group_settings">Cài đặt</string>
     <string name="group_sms">Tin nhắn</string>
     <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
+	<string name="group_call">Điện thoại</string>
+	<string name="group_read_clipboard">Truy cập bộ nhớ tạm</string>
+	<string name="group_write_clipboard">Thêm mục vào bộ nhớ tạm</string>
     <string name="gs_advanced_setting_summary">Cài đặt cho trò chơi cá nhân</string>
     <string name="gs_advanced_setting_title">Cài đặt bổ sung</string>
     <string name="gs_anto_clean_memory_whitelist">Bộ nhớ ngoại lệ</string>
@@ -1838,7 +1841,6 @@ to join our egg hunt!"</string>
     <string name="privacy_look_all_permission_status">Tất cả quyền</string>
     <string name="privacy_look_all_permission_times">Tất cả ứng dụng</string>
     <string name="privacy_look_privacy">Chính sách Riêng tư</string>
-    <string name="privacy_manage_title" />
     <string name="privacy_mask_summary">Thay vì nhận dạng thực, hệ thống sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Điều này ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư.</string>
     <string name="privacy_mask_title">ID ảo đang bật</string>
     <string name="privacy_mode_dialog_title">Chế độ Khách</string>
@@ -2445,4 +2447,24 @@ Rút lại chấp thuận ngay?"</string>
     <string name="chinese_symbol_animals_sheep">Mùi</string>
     <string name="chinese_symbol_animals_snake">Tị</string>
     <string name="chinese_symbol_animals_tiger">Dần</string>
+    <string name="background_location_access_reminder_notification_content">Ứng dụng này luôn có thể truy cập vị trí của bạn. Chạm để thay đổi.</string>
+    <string name="background_location_access_reminder_notification_title">%s đã sử dụng vị trí của bạn</string>
+    <string name="clipboard_data">"Nội dung: "</string>
+    <string name="clipboard_data_request">%1$s đang cố gắng truy cập các mục trong bộ nhớ tạm</string>
+    <string name="clipboard_deny_notification_content">Lần thử này đã bị chặn. Chạm để quản lý quyền truy cập.</string>
+    <string name="clipboard_deny_notification_operation">Quản lý</string>
+    <string name="clipboard_deny_notification_title">%1$s đang cố gắng truy cập các mục trong bộ nhớ tạm</string>
+    <string name="clipboard_read_allow_once">%1$s đã truy cập các mục trong bộ nhớ tạm</string>
+	<string name="clipboard_ai_allow_tip">Đã cho phép %1$s đọc %2$s trong bảng nhớ tạm một cách thông minh</string>
+    <string name="grant_dialog_button_allow_all">Cho phép tất cả các mục</string>
+    <string name="grant_dialog_button_allow_background">Cho phép mọi lúc</string>
+    <string name="grant_dialog_button_allow_more_selected_photos">Chọn thêm mục</string>
+    <string name="grant_dialog_button_allow_selected_photos">Chọn mục</string>
+    <string name="grant_dialog_button_always_allow_all">Luôn cho phép tất cả các mục</string>
+    <string name="grant_dialog_storage_category_title">Ứng dụng này yêu cầu quyền truy cập Thư viện và tin nhắn trong ứng dụng mạng xã hội</string>
+    <string name="no">Không</string>
+    <string name="perm_manager_suggest_operation">Quản lý quyền</string>
+    <string name="perm_manager_suggest_title">Điều chỉnh quyền?</string>
+    <string name="privacy_manage_title">Quản lý quyền</string>
+    <string name="yes">Có</string>
 </resources>
