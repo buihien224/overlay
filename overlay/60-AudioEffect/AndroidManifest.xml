@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="hypervs.com.android.musicfx" platformBuildVersionCode="33" platformBuildVersionName="13">
-    <overlay android:isStatic="true" android:requiredSystemPropertyName="bhlnk.hypervs.overlay" android:requiredSystemPropertyValue="true" android:priority="1" android:targetPackage="com.android.musicfx"/>
-    <application android:hasCode="false" android:extractNativeLibs="false" />
-</manifest>

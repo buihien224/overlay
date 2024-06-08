@@ -27,12 +27,6 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
-    <plurals name="extreme_mode_runtime_hour">
-        <item quantity="other">%s giờ</item>
-    </plurals>
-    <plurals name="extreme_mode_runtime_minute">
-        <item quantity="other">%s phút</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
@@ -54,25 +48,19 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Đã chọn %d mục</item>
     </plurals>
-    <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Tăng tốc mạng của bạn sẽ kết thúc sau %d ngày. Bạn có thể bắt đầu trải nghiệm độ trễ của mạng. Gia hạn ngay?</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s giờ</item>
+	<plurals name="guide_title"> 
+		<item quantity="other">"Tính năng này cho phép bạn điều khiển thiết bị của mình bằng giọng nói. Chúng tôi sẽ hướng dẫn bạn thực hiện các thao tác cơ bản khi sử dụng điều khiển bằng giọng nói lần đầu. Hướng dẫn sẽ tự động mở ra sau %1$d giây."</item> 
+		<item quantity="one">"Tính năng này cho phép bạn điều khiển thiết bị của mình bằng giọng nói. Chúng tôi sẽ hướng dẫn bạn thực hiện các thao tác cơ bản khi sử dụng điều khiển bằng giọng nói lần đầu. Hướng dẫn sẽ tự động mở ra sau %1$d giây."</item> 
+	</plurals>
+    <plurals name="select_nums">
+        <item quantity="other">%1$s âm thanh</item>
+        <item quantity="one">%1$s âm thanh</item>
     </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s phút</item>
-    </plurals>
-    <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantity="other">Thời gian sử dụng còn lại %s phút</item>
-    </plurals>
-    <plurals name="satellite_endurance_hour">
-        <item quantity="other">%s giờ</item>
-    </plurals>
-    <plurals name="satellite_endurance_minute">
-        <item quantity="other">%s phút</item>
+    <plurals name="title_select_nums">
+        <item quantity="other">Chọn %1$s mục</item>
+        <item quantity="one">Chọn %1$s mục</item>
     </plurals>
 </resources>

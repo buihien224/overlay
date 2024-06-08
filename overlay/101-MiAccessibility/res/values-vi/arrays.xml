@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="auxiliay_instruction_settings_summary"> 
+<item>Hiển thị số</item> 
+<item>Hiển thị số liên tục</item> 
+<item>Ẩn</item> 
+</string-array> 
+<string-array name="auxiliay_instruction_settings_title"> 
+<item>Hiển thị số (một lần)</item> 
+<item>Hiển thị số liên tục</item> 
+<item>Ẩn</item> 
+</string-array> 
+<string-array name="basic_navigation_settings_summary"> 
+<item>Nhiệm vụ gần đây, mở nhiệm vụ gần đây</item> 
+<item>Quay về màn hình chính, trở về màn hình chính</item> 
+<item>Quay lại</item>
+ <item>Mở trung tâm điều khiển, kéo xuống trung tâm điều khiển</item> 
+<item>Mở trung tâm thông báo, kéo xuống trung tâm thông báo</item>
+ <item>Mở &lt;tên ứng dụng></item> 
+<item>Chọn &lt;nhãn></item>
+ <item>Tôi có thể nói gì, tôi có thể làm gì</item>
+ <item>Xem toàn bộ lệnh</item> 
+<item>Tạm dừng kiểm soát bằng giọng nói, để ngủ chế độ kiểm soát bằng giọng nói</item>
+ <item>Đánh thức kiểm soát bằng giọng nói, bật kiểm soát bằng giọng nói, bắt đầu kiểm soát bằng giọng nói</item>
+ <item>Thoát khỏi kiểm soát bằng giọng nói, ngừng kiểm soát bằng giọng nói</item>
+ <item>Cuộn đến cuối trang</item>
+ <item>Cuộn đến đầu trang</item>
+ <item>Chụp màn hình</item>
+ </string-array> 
+ <string-array name="basic_navigation_settings_title"> 
+ <item>Nhiệm vụ gần đây</item> 
+ <item>Trở về màn hình chính</item> 
+ <item>Quay lại</item> 
+ <item>Mở trung tâm điều khiển</item> 
+ <item>Mở trung tâm thông báo</item> 
+ <item>Mở &lt;ứng dụng> (chỉ có hiệu lực trên màn hình chính)</item> 
+ <item>Chọn &lt;nhãn></item> 
+ <item>Xem các lệnh có sẵn</item>
+ <item>Xem toàn bộ lệnh</item> 
+ <item>Để ngủ chế độ kiểm soát bằng giọng nói</item> 
+ <item>Đánh thức kiểm soát bằng giọng nói</item> 
+ <item>Thoát khỏi kiểm soát bằng giọng nói</item> 
+ <item>Cuộn đến cuối trang</item> 
+ <item>Cuộn đến đầu trang</item> 
+ <item>Chụp màn hình</item> 
+ </string-array> 
+ <string-array name="equipment_operation_settings_summary"> 
+ <item>Tăng âm lượng, nhấn phím tăng âm lượng</item>
+ <item>Giảm âm lượng, nhấn phím giảm âm lượng</item> 
+ <item>Nhấn giữ phím nguồn</item>
+ <item>Khóa màn hình</item> 
+ </string-array> 
+ <string-array name="equipment_operation_settings_title"> 
+ <item>Nhấn phím tăng âm lượng</item>
+ <item>Nhấn phím giảm âm lượng</item>
+ <item>Nhấn giữ phím nguồn</item>
+ <item>Khóa màn hình</item> 
+ </string-array> 
+ <string-array name="eras"> 
+ <item>@string/eras_bc</item> 
+ <item>@string/eras_ad</item>
+ </string-array> 
+ <string-array name="gesture_simulation_settings_summary"> 
+ <item>Vuốt lên, động tác vuốt lên</item> 
+ <item>Vuốt xuống, động tác vuốt xuống</item> 
+ <item>Vuốt sang trái, động tác vuốt sang trái</item>
+ <item>Vuốt sang phải, động tác vuốt sang phải</item>
+ <item>Phóng to, động tác phóng to, vuốt ra bằng hai ngón</item>
+ <item>Thu nhỏ, động tác thu nhỏ, vuốt vào bằng hai ngón</item>
+ <item>Nhấn, nhấn một lần</item> 
+ <item>Nhấn đúp, nhấn hai lần</item>
+ <item>Nhấn giữ</item> 
+ </string-array> 
+ <string-array name="gesture_simulation_settings_title"> 
+ <item>Vuốt lên</item>
+ <item>Vuốt xuống</item> 
+ <item>Vuốt sang trái</item>
+ <item>Vuốt sang phải</item> 
+ <item>Vuốt ra bằng hai ngón</item> 
+ <item>Vuốt vào bằng hai ngón</item>
+ <item>Nhấn</item> 
+ <item>Nhấn đúp</item> 
+ <item>Nhấn giữ</item> 
+ </string-array> 
+ <string-array name="quit_time"> 
+ <item>Sau 1 phút không hoạt động</item> 
+ <item>Sau 3 phút không hoạt động</item>
+ <item>Sau 5 phút không hoạt động</item> 
+ <item>Không bao giờ</item> 
+ </string-array> 
+ <string-array name="text_control_settings_summary"> 
+ <item>&lt;Văn bản đầu vào bằng giọng nói></item>
+ <item>Xuống dòng</item> 
+ <item>Xóa</item>
+ <item>Xóa &lt;số chữ> chữ</item> 
+ <item>Xóa &lt;số dòng> dòng</item>
+ <item>Di chuyển con trỏ về phía trước</item>
+ <item>Di chuyển con trỏ về phía trước &lt;số lượng> ký tự</item>
+ <item>Di chuyển con trỏ về phía sau</item> 
+ <item>Di chuyển con trỏ về phía sau &lt;số lượng> ký tự</item>
+ <item>Di chuyển con trỏ đến cuối</item> 
+ <item>Di chuyển con trỏ đến đầu</item>
+ <item>Chọn</item> 
+ </string-array> 
+ <string-array name="text_control_settings_title">
+ <item>&lt;Văn bản nhập bằng giọng nói></item>
+ <item>Ngắt dòng</item>
+ <item>Xóa</item>
+ <item>Xóa&lt;đếm từ></item>
+ <item>Xóa &lt;số hàng>hàng</item>
+ <item>Di chuyển con trỏ về phía trước</item>
+ <item>Di chuyển con trỏ về phía trước&lt;số></item>
+ <item>Di chuyển con trỏ về phía sau</item>
+ <item>Di chuyển con trỏ về phía sau &lt;amount></item>
+ <item>Di chuyển con trỏ đến cuối</item>
+ <item>Di chuyển con trỏ để bắt đầu</item>
+ <item>Chọn</item>
+ </string-array>
+</resources>
