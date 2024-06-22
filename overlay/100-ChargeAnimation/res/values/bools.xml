@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="cta_location_tip_required">true</bool>
-    <bool name="support_round_corner">true</bool>
-</resources>
