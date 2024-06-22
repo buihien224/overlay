@@ -1980,4 +1980,30 @@
     <string name="photo_editor_perspective_free">Chỉnh sửa tự do</string>
     <string name="photo_editor_perspective_horizontal">Ngang</string>
     <string name="photo_editor_perspective_vertical">Dọc</string>
+    <string name="photo_editor_picture_quality">Chất lượng</string>
+    <string name="photo_editor_quality">Chất lượng</string>
+    <string name="photo_editor_watermark">Đóng dấu</string>
+    <string name="photo_editor_aicr_generation_failed">Không thể tạo. Vui lòng thử lại.</string>
+    <string name="photo_editor_aicr_high_temperature">Thiết bị quá nóng. Đợi nguội và thử lại.</string>
+    <string name="photo_editor_aicr_inpaint_invalid_image">Không thể sử dụng tính năng xóa cho ảnh này. Thử ảnh khác.</string>
+    <string name="photo_editor_aicr_low_battery">Không thể tạo. Pin quá yếu.</string>
+    <string name="photo_editor_aicr_network_unavailable">Kiểm tra cài đặt mạng và thử lại</string>
+    <string name="photo_editor_aicr_outpaint_invalid_image">Không thể mở rộng. Thử ảnh khác.</string>
+    <string name="photo_editor_aicrmanager_delete">Xóa plug-in</string>
+    <string name="photo_editor_aicrmanager_delete_desc">Xóa plug-in (%s) ngay bây giờ?</string>
+    <string name="photo_editor_aicrmanager_done">Xong</string>
+    <string name="photo_editor_aicrmanager_download_tip">Bạn có thể xem tiến trình tải xuống trong phần Thông báo. Đóng ứng dụng sẽ không ảnh hưởng đến việc tải xuống.</string>
+    <string name="photo_editor_aicrmanager_download_title">Đang tải xuống plug-in</string>
+    <string name="photo_editor_aicrmanager_install">Cài đặt</string>
+    <string name="photo_editor_aicrmanager_model_name">Trình chỉnh sửa AI</string>
+    <string name="photo_editor_aicrmanager_title">Quản lý plug-in</string>
+    <string name="photo_editor_aicrmanager_uninstall">Gỡ bỏ</string>
+    <string name="photo_editor_estimate_size">Kích thước ước tính: %1$s - %2$d × %3$d px</string>
+    <string name="photo_editor_leica_frame">Đóng dấu Leica</string>
+    <string name="photo_editor_high">Cao</string>
+    <string name="photo_editor_highest">Tốt nhất</string>
+    <string name="photo_editor_low">Thấp</string>
+    <string name="photo_editor_middle">Trung bình</string>
+    <string name="photo_editor_size_ratio">Kích thước</string>
+
 </resources>
