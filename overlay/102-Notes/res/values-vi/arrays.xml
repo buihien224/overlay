@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<resources>
+    <string-array name="font_size_names">
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>Khổng lồ</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Theo ngày tạo</item>
+        <item>Theo ngày chỉnh sửa</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Điện thoại</item>
+        <item>E-mail</item>
+        <item>Công ty</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Ngày sinh</item>
+        <item>Website</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Máy ảnh</item>
+        <item>Thư viện</item>
+    </string-array>
+</resources>

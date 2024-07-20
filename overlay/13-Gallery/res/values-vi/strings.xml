@@ -3379,4 +3379,6 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
 	<string name="get_GP_app_btn_install">Cài đặt</string>
     <string name="get_GP_app_msg">Để bật sao lưu, bạn cần cài đặt Google Photos. Quay lại trang này sau khi bạn cài đặt Google Photos để tiếp tục.</string>
     <string name="get_GP_app_title">Cài đặt Google Photos</string>
+    <string name="ai_entrance_description">Tạo hình ảnh AI dựa trên ảnh của mọi người và tạo ra chân dung của họ</string>
+    <string name="ai_entrance_title">Chân dung AI</string>
 </resources>
