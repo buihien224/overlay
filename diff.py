@@ -22,7 +22,7 @@ def find_missing_translations(base_file, translation_file, output_file):
     base_strings, base_plurals = parse_xml(base_file)
     translation_strings, translation_plurals = parse_xml(translation_file)
 
-    excluded_prefixes = ('miuix_', 'mtrl_', 'path_', 'solar_', 'androidx_', 'abc_', 'library_android', 'material_', 'fab_', 'chinese_', 'fmt_', 'btn_', 'm3_')
+    excluded_prefixes = ('miuix_', 'mtrl_', 'path_', 'solar_', 'androidx_', 'abc_', 'library_android', 'material_', 'fab_', 'chinese_', 'fmt_', 'btn_', 'm3_', 'abc_'.'create_table')
     
     missing_strings = {
         key: value for key, value in base_strings.items()
