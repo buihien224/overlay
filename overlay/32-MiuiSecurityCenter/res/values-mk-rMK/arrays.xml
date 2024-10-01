@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Еднаш</item>
+        <item>Секој ден</item>
+        <item>Работни денови</item>
+        <item>Денови</item>
+        <item>Прилагоди</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Еднаш</item>
+        <item>Секој ден</item>
+        <item>Денови</item>
+        <item>Прилагоди</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Сите записи</item>
+        <item>Автоматски старт</item>
+        <item>Верижно почнување</item>
+        <item>Користење дозволи</item>
+        <item>Сензитивни дејства</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Шема</item>
+        <item>PIN</item>
+        <item>Лозинка</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Големина</item>
+        <item>Име</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Месечен план</item>
+        <item>Неограничено</item>
+        <item>Дневен план</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Прилагодено</item>
+        <item>Xiaomi Fan картичка</item>
+        <item>Xiao Tiansheng картичка</item>
+        <item>Tencent King картичка</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Прилагодено</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan картичка</item>
+        <item>Tianshen картичка</item>
+        <item>Tencent картичка</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Вчера (мобилни податоци) "</item>
+        <item>"Денес (мобилни податоци) "</item>
+        <item>"Претходниот месец(мобилни податоци) "</item>
+        <item>"Овој месец (мобилни податоци) "</item>
+        <item>"Вчера (Wi-Fi) "</item>
+        <item>"Денес (Wi-Fi) "</item>
+        <item>"Претходен месец (Wi-Fi) "</item>
+        <item>"Овој месец (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Денес "</item>
+        <item>"Претходниот месец "</item>
+        <item>"Овој месец "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Оваа недела "</item>
+        <item>"Денес "</item>
+        <item>"Овој месец "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Денес: "</item>
+        <item>"Претходниот месец: "</item>
+        <item>"Овој месец: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Оваа недела: "</item>
+        <item>"Денес: "</item>
+        <item>"Овој месец: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Ќе биде возможен пристап и уредување на датотеки на вашиот уред со користење на компјутер.</item>
+        <item>Инсталирањето апл на вашиот уред без ваша претходна јасна дозвола нема да биде дозволено.</item>
+        <item>Нема да можете далечински да ги следите и снимате содржините на вашиот екран.</item>
+        <item>Нема да биде возможен пристап до деталните информации за вашиот уред.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Најниско</item>
+        <item>Ниско</item>
+        <item>Стандардно</item>
+        <item>Високо</item>
+        <item>Највисоко</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Кога уредот е заклучен</item>
+        <item>Кога уредот е заклучен или по излезот од апликацијата</item>
+        <item>Кога уредот е заклучен или 1 минута по излезот од апликацијата</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Користење на мобилни податоци "</item>
+        <item>"Употреба на Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Важно: Повеќето системски апликации можеби нема да функционираат правилно.</item>
+        <item>Распоредите на текст, сметките и содржината нема да бидат правилно прикажани.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Прикажи предупредување</item>
+        <item>Предупреди и исклучи мобилни податоци</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Стандардно</item>
+        <item>Давај предност на перформанси</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Користи го режимот на стандардна контрола на температура</item>
+        <item>Давање предност на перформанси</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Прочитајте ги вашите известувања, вклучувајќи ја содржината од вашите текст пораки и други ставки кои може да содржат лични информации.</item>
+        <item>Ограничете дозволи за известувања за некои апликации</item>
+        <item>Симулирајте допирања на известувањата и отворете ги апликациите</item>
+        <item>Вклучете и исклучете го режимот DND</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Собирање на податоците за вашите интереси и однесувања со учење кои апликации ги користите и колку често</item>
+        <item>Пристап до вашите поставки на оператор и јазик, како и други детали</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Непотврдените апликации од трети страни може да предизвикаат повеќе проблеми и ја нарушат стабилноста на системот.</item>
+        <item>Некои апликации од трети страни можно е да содржат злонамерен софтвер кој ги доведува во опасност вашите лични податоци.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Внатрешна меморија</item>
+        <item>Надворешна меморија</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Секогаш</item>
+        <item>Само за исклучоци</item>
+        <item>Никогаш</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Користење податоци</item>
+        <item>Состојба на сметката</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Подреди по име на апликација</item>
+        <item>Подреди по неодамна користени</item>
+        <item>Подреди по користен скл. простор</item>
+        <item>Пореди по време на инсталација</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Име на апликација</item>
+        <item>Неодамна користено</item>
+        <item>Искористен скл. простор</item>
+        <item>Време на инсталирање</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Исклучи и извести</item>
+        <item>Само известување</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Извор на инсталирање</item>
+        <item>Време на инсталирање</item>
+        <item>Извор на последното ажурирање</item>
+        <item>Време на последното ажурирање</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Податоци за месечен план</item>
+        <item>Податоци за дневен план</item>
+        <item>Податоци за неограничен план</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Користење на мобилни податоци "</item>
+        <item>"Употреба на Wi-Fi "</item>
+    </string-array>
+</resources>

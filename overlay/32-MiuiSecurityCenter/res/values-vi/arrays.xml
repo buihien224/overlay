@@ -106,8 +106,8 @@
         <item>Cao nhất</item>
     </string-array>
     <string-array name="gb_voice_change_gender">
-        <item>@string/gb_voice_changer_gender_man</item>
-        <item>@string/gb_voice_changer_gender_female</item>
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
     </string-array>
     <string-array name="input_package_names">
         <item>com.baidu.input_mi</item>
@@ -134,9 +134,9 @@
         <item>Bố cục văn bản, tài khoản, và nội dung có thể không hiển thị chính xác.</item>
     </string-array>
     <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
@@ -144,9 +144,9 @@
         <item>2</item>
     </string-array>
     <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -158,18 +158,18 @@
         <item>Cảnh báo và tắt dữ liệu di động</item>
     </string-array>
     <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_battery_history_spinner_choice_new">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_fast_charge_entry">
         <item>10%</item>
@@ -251,9 +251,4 @@
         <item>"Sử dụng dữ liệu di động "</item>
         <item>"Sử dụng Wi-Fi "</item>
     </string-array>
-	<string-array name="luckymoney_sound">
-         <item>Tắt tiếng</item>
-         <item>Tiền vàng</item>
-         <item>Lì xì tới đây</item>
-     </string-array>
 </resources>

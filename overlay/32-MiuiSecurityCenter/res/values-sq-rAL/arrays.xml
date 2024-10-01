@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Njëherë</item>
+        <item>Çdo ditë</item>
+        <item>Ditët ligjore të punës</item>
+        <item>Ditët e javës</item>
+        <item>Personalizim</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Njëherë</item>
+        <item>Çdo ditë</item>
+        <item>Ditët e javës</item>
+        <item>Personalizim</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Të gjitha regjistrimet</item>
+        <item>Vetëfillim</item>
+        <item>Fillimi i zinxhirit</item>
+        <item>Përdorimi i lejeve</item>
+        <item>Veprime të ndjeshme</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Modeli</item>
+        <item>PIN</item>
+        <item>Fjalëkalimi</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Madhësia</item>
+        <item>Emri</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plani mujor</item>
+        <item>Pa limit</item>
+        <item>Plani ditor</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>I personalizuar</item>
+        <item>Karta Xiaomi Fan</item>
+        <item>Xiao Tiansheng card</item>
+        <item>Tencent King card</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>I personalizuar</item>
+        <item>Mi Mobile</item>
+        <item>Karta Xiaomi Fan</item>
+        <item>Karta Tianshen</item>
+        <item>Kartë Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Dje (internet celular) "</item>
+        <item>"Sot (internet celular) "</item>
+        <item>"Muajin e kaluar (internet celular) "</item>
+        <item>"Këtë muaj (internet celular) "</item>
+        <item>"Dje (Wi-Fi) "</item>
+        <item>"Sot (Wi-Fi) "</item>
+        <item>"Muajin e kaluar (Wi-Fi) "</item>
+        <item>"Këtë muaj (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dje "</item>
+        <item>"Sot "</item>
+        <item>"Muajin e kaluar "</item>
+        <item>"Këtë muaj "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Këtë javë "</item>
+        <item>"Sot "</item>
+        <item>"Këtë muaj "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dje: "</item>
+        <item>"Sot: "</item>
+        <item>"Muajin e kaluar: "</item>
+        <item>"Këtë muaj: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Këtë javë "</item>
+        <item>"Sot: "</item>
+        <item>"Këtë muaj: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Do të jetë e mundur për të hyrë dhe modifikuar skedarët në pajisjen tuaj duke përdorur një kompjuter.</item>
+        <item>Instalimi i aplikacioneve në pajisjen tuaj pa lejen tuaj të qartë do të lejohet.</item>
+        <item>Do të jeni në gjendje të monitoroni dhe regjistroni përmbajtjen e ekranit tuaj nga distanca.</item>
+        <item>Do të jetë e mundur për të hyrë në informacionin e detajuar në lidhje me pajisjen tuaj.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Më i ulëti</item>
+        <item>I ulët</item>
+        <item>I rregullt</item>
+        <item>E lartë</item>
+        <item>Më i larti</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Kur pajisja është e kyçur</item>
+        <item>Kur pajisja është e kyçur ose pas daljes nga aplikacioni</item>
+        <item>Kur pajisja është e kyçur ose për 1 minutë pas daljes nga aplikacioni</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Përdorimi i internetit celular "</item>
+        <item>"Përdorimi i Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>E rëndësishme: Aplikacione të shumta të sistemit mund të ndalojnë së punuari si duhet.</item>
+        <item>Paraqitjet e teksteve, llogaritë dhe përmbajtja mund të mos shfaqen siç duhet.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Shfaq paralajmërim</item>
+        <item>Paralajmëro dhe fik internetin mobil</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Paracaktuar</item>
+        <item>Parëso rendimentin</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Duke përdorur Modalitet të paracaktuar për kontrollin e temperaturës</item>
+        <item>Duke parësuar rendimentin</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Lexoni të gjitha njoftimet tuaja, përfshirë përmbajtjen e mesazheve tuaja tekstuale dhe sendeve të tjera që mund të përmbajnë informacione personale</item>
+        <item>Kufizoni lejet e njoftimit për disa aplikacione</item>
+        <item>Simuloni njoftimet e përgjimit dhe aplikacionet e hapura</item>
+        <item>Aktivizoni dhe çaktivizoni modalitetin DND</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Mblidhni të dhënat për interesat dhe sjelljen tuaj duke mësuar se çfarë aplikacionesh përdorni dhe sa shpesh i përdorni ato</item>
+        <item>Qasuni në cilësimet e lidhura me kompaninë tuaj dhe në gjuhët, si dhe në detaje të tjera</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Aplikacionet e palëve të treta që nuk janë verifikuar mund të shkaktojnë probleme të shumta dhe të ulin stabilitetin e sistemit.</item>
+        <item>Disa aplikacione të palëve të treta mund të përmbajnë malware që vë në rrezik të dhënat tuaja personale.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Hapësira e brendshme ruajtëse</item>
+        <item>Hapësira e jashtme ruajtëse</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Gjithmonë</item>
+        <item>Vetëm për përjashtime</item>
+        <item>Kurrë</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Përdorimi i të dhënave</item>
+        <item>Balancimi i telefonit</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Renditja sipas emrit të aplikacionit</item>
+        <item>Renditja sipas përdorimit më të fundit</item>
+        <item>Renditja sipas hapësirës ruajtese të përdorur</item>
+        <item>Rendit sipas kohës së instalimit</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Emri i aplikacionit</item>
+        <item>E përdorur kohët e fundit</item>
+        <item>Hapësira ruajtëse e përdorur</item>
+        <item>Koha e instalimit</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Fik dhe njofto</item>
+        <item>Vetëm njofto</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Burimi i instalimit</item>
+        <item>Koha e instalimit</item>
+        <item>Burimi i përditësimit të fundit</item>
+        <item>Koha e përditësimit të fundit</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plani mujor i të dhënave</item>
+        <item>Plani ditor i të dhënave</item>
+        <item>Plani i palimituar i të dhënave</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Përdorimi i internetit celular "</item>
+        <item>"Përdorimi i Wi-Fi "</item>
+    </string-array>
+</resources>

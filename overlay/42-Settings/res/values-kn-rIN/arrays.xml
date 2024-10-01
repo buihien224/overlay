@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_key_item_name">
+        <item>Google ಸಹಾಯಕರೊಂದಿಗೆ ಮಾತನಾಡಿ</item>
+        <item>Google ಹುಡುಕಾಟ ತೆರೆಯಿರಿ</item>
+        <item>ಹಿಂದಿನ ಕ್ಯಾಮರಾ ತೆರೆಯಿರಿ</item>
+        <item>ಮುಂದಿನ ಕ್ಯಾಮರಾ ತೆರೆಯಿರಿ</item>
+        <item>ಹಿಂದಿನ ಆ್ಯಪ್‌ ತೆರೆಯಿರಿ</item>
+        <item>ಫ್ಲ್ಯಾಶ್ ಲೈಟ್ ಆನ್ ಮಾಡಿ</item>
+        <item>ರೀಡಿಂಗ್‌ ಮೋಡ್‌ ಆನ್‌ ಮಾಡಿ</item>
+        <item>ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ವಾರದ ರಾತ್ರಿಗಳು</item>
+        <item>ವಾರಾಂತ್ಯ</item>
+        <item>ಕಸ್ಟಮ್‌</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ವಾರದ ರಾತ್ರಿಗಳು</item>
+        <item>ವಾರಾಂತ್ಯ</item>
+        <item>ಕಸ್ಟಮ್‌</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>ಡೀಫಾಲ್ಟ್‌</item>
+        <item>ಪೋರ್ಟಬಲ್‌ ಹಾಟ್‌ಸ್ಪಾಟ್‌</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>ಗ್ರಾಫಿಕಲ್‌</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ನಲ್ಲಿ)</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ ನಂತರ)</item>
+        <item>ಮೇಲ್ಭಾಗದ ಪಟ್ಟಿ</item>
+    </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>ಗ್ರಾಫಿಕಲ್‌</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ನಲ್ಲಿ)</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ ನಂತರ)</item>
+        <item>ಪ್ರಗತಿ ಬಾರ್‌</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>ಉನ್ನತ ಗುಣಮಟ್ಟದ ಮೋಡ್ (ಡೀಫಾಲ್ಟ್)</item>
+        <item>ಕಡಿಮೆ ಲೆಟೆನ್ಸಿ ಮೋಡ್</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>ಉನ್ನತ ಗುಣಮಟ್ಟದ ಮೋಡ್ (ಡೀಫಾಲ್ಟ್)</item>
+        <item>ಕಡಿಮೆ ಲೆಟೆನ್ಸಿ ಮೋಡ್</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ಆಡಿಯೊ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ (990kbps/909kbps)</item>
+        <item>ಸಮತೋಲಿತ ಆಡಿಯೊ ಮತ್ತು ಸಂಪರ್ಕ ಗುಣಮಟ್ಟ (660kbps/606kbps)</item>
+        <item>ಸಂಪರ್ಕ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ (330kbps/303kbps)</item>
+        <item>ಅತ್ಯುತ್ತಮ ಎಫೆಕ್ಟ್‌ (ಅಡಾಪ್ಟಿವ್ ಬಿಟ್ ರೇಟ್)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>ಕಿರು ಲೇಟೆನ್ಸಿ</item>
+        <item>ಮಧ್ಯಮ ಲೇಟೆನ್ಸಿ</item>
+        <item>ದೀರ್ಘ ಲೇಟೆನ್ಸಿ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>ಕಿರು ಲೇಟೆನ್ಸಿ (50~100ms)</item>
+        <item>ಮಧ್ಯಮ ಲೇಟೆನ್ಸಿ (150~200ms)</item>
+        <item>ದೀರ್ಘ ಲೇಟೆನ್ಸಿ (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>ಕಡಿಮೆ ಲೇಟೆನ್ಸಿಗಾಗಿ ಆಪ್ಟಿಮೈಸ್‌ ಮಾಡಲಾಗಿದೆ</item>
+        <item>ಸಂಪರ್ಕ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item>ಸಮತೋಲಿತ ಆಡಿಯೊ ಮತ್ತು ಸಂಪರ್ಕ ಗುಣಮಟ್ಟ</item>
+        <item>ಆಡಿಯೊ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item>ಉತ್ತಮ ಪ್ರಯತ್ನ (ಆಟೋ ಬಿಟ್ ರೇಟ್)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>ಕಡಿಮೆ ಲೇಟೆನ್ಸಿಗಾಗಿ ಆಪ್ಟಿಮೈಸ್‌ ಮಾಡಲಾಗಿದೆ (256kbps)</item>
+        <item>ಸಂಪರ್ಕ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ (400kbps)</item>
+        <item>ಸಮತೋಲಿತ ಆಡಿಯೊ ಮತ್ತು ಸಂಪರ್ಕ ಗುಣಮಟ್ಟ (500/560kbps)</item>
+        <item>ಆಡಿಯೊ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲಾಗಿದೆ (900kbps)</item>
+        <item>ಉತ್ತಮ ಪ್ರಯತ್ನ (ಆಟೋ ಬಿಟ್ ರೇಟ್)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>ಸಿಸ್ಟಮ್ ಪ್ರಾಶಸ್ತ್ಯ ಬಳಸಿ (ಡೀಫಾಲ್ಟ್)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ಆಡಿಯೋ</item>
+        <item>Qualcomm® aptX™ HD ಆಡಿಯೋ</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ ಅಡಾಪ್ಟಿವ್‌ ಆಡಿಯೋ</item>
+        <item>Qualcomm® aptX™ TWS+ ಆಡಿಯೊ</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ಐಚ್ಛಿಕ ಕೊಡೆಕ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</item>
+        <item>ಐಚ್ಛಿಕ ಕೊಡೆಕ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>ಸಿಸ್ಟಮ್ ಪ್ರಾಶಸ್ತ್ಯ ಬಳಸಿ (ಡೀಫಾಲ್ಟ್)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ಆಡಿಯೊ</item>
+        <item>Qualcomm® aptX™ HD ಆಡಿಯೊ</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ ಅಡಾಪ್ಟಿವ್‌ ಆಡಿಯೋ</item>
+        <item>Qualcomm® aptX™ TWS+ ಆಡಿಯೊ</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ಐಚ್ಛಿಕ ಕೊಡೆಕ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</item>
+        <item>ಐಚ್ಛಿಕ ಕೊಡೆಕ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | ಸಕ್ರಿಯ"</item>
+        <item>" | ಸಕ್ರಿಯ (ಮೀಡಿಯಾ)"</item>
+        <item>" | ಸಕ್ರಿಯ (ಫೋನ್‌)"</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 ಸೆಕೆಂಡು</item>
+        <item>2 ಸೆಕೆಂಡುಗಳು</item>
+        <item>5 ಸೆಕೆಂಡುಗಳು</item>
+        <item>10 ಸೆಕೆಂಡುಗಳು</item>
+        <item>20 ಸೆಕೆಂಡುಗಳು</item>
+        <item>ಯಾವಾಗಲೂ</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>ಅತ್ಯಂತ ಚಿಕ್ಕ ಅಕ್ಷರ ಗಾತ್ರ</item>
+        <item>ಚಿಕ್ಕ ಅಕ್ಷರ ಗಾತ್ರ</item>
+        <item>ಡೀಫಾಲ್ಟ್‌ ಅಕ್ಷರ ಗಾತ್ರ</item>
+        <item>ದೊಡ್ಡ ಅಕ್ಷರ ಗಾತ್ರ</item>
+        <item>ಅತ್ಯಂತ ದೊಡ್ಡ ಅಕ್ಷರ ಗಾತ್ರ</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>ಮುಖ ಅನ್‌ಲಾಕ್‌</item>
+        <item>ಪ್ಯಾಟರ್ನ್</item>
+        <item>ಪಿನ್‌</item>
+        <item>ಪಾಸ್‌ವರ್ಡ್</item>
+    </string-array>
+    <array name="click_bottom">
+        <item>clickbottom03</item>
+        <item>clickbottom04</item>
+        <item>clickbottom05</item>
+        <item>clickbottom06</item>
+        <item>clickbottom07</item>
+        <item>clickbottom08</item>
+        <item>clickbottom03</item>
+    </array>
+    <string-array name="common_password_business_names">
+        <item>ಲಾಕ್‌ ಸ್ಕ್ರೀನ್‌</item>
+        <item>ಗೌಪ್ಯತೆ ಪಾಸ್‌ವರ್ಡ್</item>
+        <item>ಚೈಲ್ಡ್ ಮೋಡ್</item>
+        <item>ಫೈಲ್ ಮ್ಯಾನೇಜರ್</item>
+        <item>ಆ್ಯಪ್‌ ಲಾಕ್‌</item>
+        <item>ಎರಡನೇ ಜಾಗ</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>ಹೊಂದಾಣಿಕೆ</item>
+        <item>ಅತಿ ವೇಗ</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>ಡಾರ್ಕ್</item>
+        <item>ಲೈಟ್‌</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"ಇಂದು (ಮೊಬೈಲ್ ಡೇಟಾ) "</item>
+        <item>"ಈ ತಿಂಗಳು (ಮೊಬೈಲ್‌ ಡೇಟಾ) "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು (ಮೊಬೈಲ್‌ ಡೇಟಾ) "</item>
+        <item>"ಇಂದು (ವೈ-ಫೈ) "</item>
+        <item>"ಈ ತಿಂಗಳು (ವೈ-ಫೈ) "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು(ವೈ-ಫೈ) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"ಇಂದು "</item>
+        <item>"ಈ ತಿಂಗಳು "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"ಇಂದು: "</item>
+        <item>"ಈ ತಿಂಗಳು "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು: "</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ವಯಿಸಲು ನಿಮ್ಮ ಡಿವೈಸ್‌ ರೀಬೂಟ್‌ ಮಾಡಬೇಕೇ?</item>
+        <item>ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ವಯಿಸಲು ನಿಮ್ಮ ಡಿವೈಸ್‌ ರೀಬೂಟ್‌ ಮಾಡಬೇಕೇ?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>ಸಿಸ್ಟಂ ಅನಿಮೇಷನ್ ಮರೆಮಾಡಿ</item>
+        <item>ಸಿಸ್ಟಂ ಅನಿಮೇಷನ್‌ ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>ಡಿವೈಸ್‌ ಕಾರ್ಯಕ್ಷಮತೆ ಹೆಚ್ಚಿಸುತ್ತದೆ</item>
+        <item>ಡಿವೈಸ್‌‌ನ ಕಾರ್ಯಕ್ಷಮತೆ ನಿಧಾನಗೊಳಿಸಬಹುದು</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 ಇಂಚುಗಳು</item>
+        <item>4.0 ಇಂಚುಗಳು</item>
+        <item>3.5 ಇಂಚುಗಳು</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>ಆಫ್</item>
+        <item>ಲೈಟ್‌</item>
+        <item>ಮಧ್ಯಮ</item>
+        <item>ಪ್ರಬಲ</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
+    <string-array name="input_method_selector_titles">
+        <item>input_method_selector_show_automatically_title</item>
+        <item>input_method_selector_always_show_title</item>
+        <item>input_method_selector_always_hide_title</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>ಸ್ಕ್ರೀನ್‌ ಎಚ್ಚರಿಸಬೇಡ</item>
+        <item>ಸ್ಕ್ರೀನ್ ಎಚ್ಚರಿಸು</item>
+        <item>ಅನಿಮೇಶನ್ ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>ನೀಲಿ</item>
+        <item>ಕೆಂಪು</item>
+        <item>ಹಳದಿ</item>
+        <item>ಹಸಿರು</item>
+        <item>ಹಸಿರು ನೀಲಿ</item>
+        <item>ಬಿಳಿ</item>
+        <item>ನೇರಳೆ</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 ಸೆಕೆಂಡುಗಳು</item>
+        <item>3 ಸೆಕೆಂಡುಗಳು</item>
+        <item>4 ಸೆಕೆಂಡುಗಳು</item>
+        <item>5 ಸೆಕೆಂಡುಗಳು</item>
+        <item>6 ಸೆಕೆಂಡುಗಳು</item>
+        <item>7 ಸೆಕೆಂಡುಗಳು</item>
+        <item>8 ಸೆಕೆಂಡುಗಳು</item>
+        <item>9 ಸೆಕೆಂಡುಗಳು</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>ಈ ಕ್ಷಣದಲ್ಲಿಯೇ</item>
+        <item>30 ಸೆಕೆಂಡುಗಳ ನಂತರ</item>
+        <item>1 ನಿಮಿಷದ ನಂತರ</item>
+        <item>2 ನಿಮಿಷಗಳ ನಂತರ</item>
+        <item>5 ನಿಮಿಷದ ನಂತರ</item>
+        <item>ಇಲ್ಲವೇ ಇಲ್ಲ</item>
+    </string-array>
+    <array name="long_press">
+        <item>clickbottom03</item>
+        <item>clickbottom04</item>
+        <item>clickbottom05</item>
+        <item>clickbottom06</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom03</item>
+    </array>
+    <string-array name="long_press_volume_down_action">
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+        <item>ತ್ವರಿತ ಸ್ನ್ಯಾಪ್ ಮೋಡ್ (ಫೋಟೋ)</item>
+        <item>ತ್ವರಿತ ಸ್ನ್ಯಾಪ್ ಮೋಡ್ (ವೀಡಿಯೊ)</item>
+        <item>ಸಾರ್ವಜನಿಕ ಸಾರಿಗೆ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>ಅನಿಯಮಿತ</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>ಪ್ರಬಲ</item>
+        <item>ಮಧ್ಯಮ</item>
+        <item>ದುರ್ಬಲ</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>ನೀಲಿ</item>
+        <item>ಕೆಂಪು</item>
+        <item>ಹಸಿರು</item>
+        <item>ಗುಲಾಬಿ</item>
+        <item>ನೇರಳೆ</item>
+        <item>ಕೆನ್ನೇರಳೆ</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP ಮತ್ತು ಹಳೆಯದು</item>
+        <item>Windows Vista ಮತ್ತು ಹೊಸತು</item>
+        <item>OSX</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>msd_pc_system_install_finish_summary_xp</item>
+        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>ಕಂಪ್ಯೂಟರ್‌ಗೆ ಕನೆಕ್ಟ್‌ ಆದಾಗ USB ಸಮೂಹ ಸಂಗ್ರಹಣೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. ಆನ್‌ಸ್ಕ್ರೀನ್‌ ಸೂಚನೆ ಅನುಸರಿಸಿ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>ಪರಿಕರ ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡಿ: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>ಡೈರೆಕ್ಟರಿ ರಚಿಸಿ: mkdir /media/mtp</item>
+        <item>ಪ್ರಸ್ತುತ ಫ್ಯೂಸ್ ಬಳಕೆದಾರ ಗುಂಪಿನಲ್ಲಿ ಬಳಕೆದಾರ ಗುಂಪಿನ ಅನುಮತಿಗಳನ್ನು ದೃಢೀಕರಿಸಿ</item>
+        <item>ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</item>
+        <item>ಮೌಂಟ್‌ ಆದ ಡಿವೈಸ್‌ ಪ್ರವೇಶಿಸಿ: ಫೈಲ್ ಮ್ಯಾನೇಜರ್ ಮೂಲಕ mtpfs /media /mtp; ಸ್ಥಳೀಯ ಫೋಲ್ಡರ್‌ನಂತೆಯೇ.</item>
+        <item>"ಡಿವೈಸ್‌ ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್‌: fusermount -u /media/mtp
+ಗಮನಿಸಿ: ಇದು ಕೇವಲ Ubuntu 8.04 ಗಾಗಿ!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>msd_install_retry_reinstall_mac</item>
+        <item>msd_install_retry_connect</item>
+        <item>msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>msd_install_retry_connect</item>
+        <item>Mi PC ಸ್ಯೂಟ್‌ ಮರುಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡು</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>ಟ್ರಾಫಿಕ್‌ ಕಾರಣ ನೆಟ್‌ವರ್ಕ್ ತುಂಬಾ ನಿಧಾನವಾಗಿದೆ</item>
+        <item>ಸಿಗ್ನಲ್ ದುರ್ಬಲವಾಗಿರುವ ಕಾರಣ ನೆಟ್‌ವರ್ಕ್ ನಿಧಾನವಾಗಿದೆ</item>
+        <item>ಸ್ಥಳಾಂತರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>ಪಾವತಿ, ಆ್ಯಕ್ಸೆಸ್‌ ಮತ್ತು ಸ್ಮಾರ್ಟ್‌ ಹೋಮ್‌ ಕಾರ್ಡ್‌ಗಳು</item>
+        <item>ಬ್ಲೂಟೂತ್‌ ಜೋಡಿ ಮಾಡುವಿಕೆ, ವೈರ್‌ಲೆಸ್‌ ಕನೆಕ್ಷನ್‌ ಮತ್ತು ಸ್ಮಾರ್ಟ್ ಹೋಮ್‌ ಕಾರ್ಡ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>ಎಲ್ಲಾ ಕಾರ್ಡ್‌ಗಳು</item>
+        <item>ಸಿಸ್ಟಂ ಗುರುತಿಸುವ ಕಾರ್ಡ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>ಗ್ರಾಫಿಕಲ್‌</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ನಲ್ಲಿ)</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ ನಂತರ)</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>ಗ್ರಾಫಿಕಲ್‌</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ನಲ್ಲಿ)</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ ನಂತರ)</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>ಹುಡುಕಾಟ</item>
+        <item>ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="paper_color_values">
+        <item>ಪೂರ್ಣ ಬಣ್ಣಗಳು</item>
+        <item>ಲೈಟ್ ಬಣ್ಣಗಳು</item>
+        <item>ಕಪ್ಪು - ಬಿಳಿ</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>ಅವಕಾಶ ಮಾಡಿಕೊಡು</item>
+        <item>ಕೇಳಿ</item>
+        <item>ನಿರಾಕರಿಸು</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>ಸಿಂಗಲ್‌ ಮೈಕ್‌ ಶಬ್ದ ಸಪ್ರೆಶನ್‌‌</item>
+        <item>ಡ್ಯುಯಲ್‌ ಮೈಕ್‌ ಶಬ್ದ ಸಪ್ರೆಶನ್‌</item>
+    </string-array>
+    <array name="power_click">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick03</item>
+        <item>powerclick02</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <string-array name="power_mode_entries">
+        <item>ಕಾರ್ಯಕ್ಷಮತೆ</item>
+        <item>ಸಮತೋಲಿತ</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>ಲಾಂಚರ್</item>
+        <item>ಡಯಲ್</item>
+        <item>ಸಂದೇಶ</item>
+        <item>ಬ್ರೌಸರ್‌</item>
+        <item>ಕ್ಯಾಮರಾ</item>
+        <item>ಗ್ಯಾಲರಿ</item>
+        <item>ಸಂಗೀತ</item>
+        <item>ಇಮೇಲ್</item>
+        <item>ಪ್ಲೇ ವಿಡಿಯೋ</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ</item>
+        <item>ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆ</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>ಸಂದೇಶಗಳು</item>
+        <item>ಫೋಟೋಗಳು</item>
+        <item>ಫೈಲುಗಳು</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>ಎಡಗೈ ಶೈಲಿ</item>
+        <item>ಬಲಗೈ ಶೈಲಿ</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>ಬೆಚ್ಚಗೆ</item>
+        <item>ಪ್ರಮಾಣಿತ</item>
+        <item>ತಂಪು</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 ಸೆಕೆಂಡುಗಳು</item>
+        <item>1 ಸೆಕೆಂಡು</item>
+        <item>1.5 ಸೆಕೆಂಡುಗಳು</item>
+        <item>2 ಸೆಕೆಂಡುಗಳು</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>ಎಡಭಾಗದಲ್ಲಿ ಮೆನು ಬಟನ್‌, ‘ಹಿಂದೆ’ ಬಟನ್‌ ಬಲಗಡೆಗೆ</item>
+        <item>"ಎಡಭಾಗದಲ್ಲಿ ಹಿಂದೆ ಬಟನ್‌, 'ಮೆನು’ ಬಟನ್‌ ಬಲಗಡೆಗೆ"</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>ಇತ್ತೀಚಿನ ಆ್ಯಪ್‌‌ಗಳ ಟ್ರೇ ತೋರಿಸಿ</item>
+        <item>ಮೆನು ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>ಡಿಸ್‌ಪ್ಲೇ ಆದ ಕಂಟೆಂಟ್‌ಗೆ ಅನುಗುಣವಾಗಿ ಬಣ್ಣಗಳನ್ನು ಹೊಂದಿಸಿ</item>
+        <item>ಬಣ್ಣಗಳನ್ನು ಯಾವಾಗಲೂ ಹೆಚ್ಚಿಸು</item>
+        <item>ಕಾಂಟ್ರಾಸ್ಟ್ ಸ್ಥಿರವಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>ವಿವಿಡ್‌ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)</item>
+        <item>ಸ್ಯಾಚುರೇಟ್‌</item>
+        <item>ಪ್ರಮಾಣಿತ</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>screen_resolution_ultrahigh_format</item>
+        <item>screen_resolution_high_format</item>
+        <item>screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="screen_resolution_text">
+        <item>2K</item>
+        <item>1080p</item>
+        <item>720p</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>ಬ್ರಿಲಿಯಂಟ್‌</item>
+        <item>ಪ್ರಮಾಣಿತ</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 ಸೆಕೆಂಡುಗಳು</item>
+        <item>30 ಸೆಕೆಂಡುಗಳು</item>
+        <item>1 ನಿಮಿಷ</item>
+        <item>2 ನಿಮಿಷಗಳು</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>ಎಂದಿಗೂ ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>standard</item>
+        <item>total</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>ಯಾವಾಗಲೂ</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>1 ಗಂಟೆ</item>
+        <item>2 ಗಂಟೆಗಳು</item>
+        <item>8 ಗಂಟೆಗಳು</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>Xiaomi Smart Hub</item>
+        <item>ಸ್ಮಾರ್ಟ್ ಹೋಮ್‌</item>
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>ಸ್ಮಾರ್ಟ್ ಹೋಮ್‌</item>
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>ಅನುಮತಿಸು</item>
+        <item>ನಿರಾಕರಿಸು</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>ಕ್ರಿಸ್ಪ್‌</item>
+        <item>ಬೇಸ್‌</item>
+        <item>ಪಾಪ್</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>ಕ್ರಿಸ್ಪ್‌</item>
+        <item>ಗಾಢ</item>
+    </string-array>
+    <array name="three_drop">
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop02</item>
+        <item>threedrop03</item>
+        <item>threedrop04</item>
+        <item>threedrop05</item>
+        <item>threedrop06</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+    </array>
+    <string-array name="time_format_entries">
+        <item>12-ಗಂಟೆ 1:00 PM</item>
+        <item>24-ಗಂಟೆ 13:00</item>
+        <item>ಸ್ವಯಂ (ಸಿಸ್ಟಂ ಭಾಷೆಯ ಆಧಾರದ ಮೇಲೆ)</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>ಆಫ್</item>
+        <item>ನಿಯಮಿತ</item>
+        <item>ತೀವ್ರ</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಕೆ "</item>
+        <item>"ವೈ-ಫೈ ಬಳಕೆ "</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>ಡಿಸ್‌ಪ್ಲೇ ಆದ ಕಂಟೆಂಟ್‌ಗೆ ಅನುಗುಣವಾಗಿ ಬಣ್ಣಗಳನ್ನು ಹೊಂದಿಸಿ</item>
+        <item>ಬಣ್ಣಗಳನ್ನು ಯಾವಾಗಲೂ ಹೆಚ್ಚಿಸು</item>
+        <item>ಬಣ್ಣ ಕ್ಯಾಲಿಬ್ರೇಶನ್‌ ಜೊತೆಗೆ ಸ್ಕ್ರೀನ್‌ ಕಂಟೆಂಟ್‌ನ ಪ್ರಮಾಣಿತ ಬಣ್ಣವನ್ನು ಮರುಸ್ಥಾಪಿಸು</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>ವಿವಿಡ್‌ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)</item>
+        <item>ಸ್ಯಾಚುರೇಟೆಡ್</item>
+        <item>ಮೂಲ ಬಣ್ಣ</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>ತುಂಬಾ ನಿಧಾನ</item>
+        <item>ನಿಧಾನ</item>
+        <item>ಸಹಜ</item>
+        <item>ವೇಗ</item>
+        <item>ಅತ್ಯಂತ ವೇಗ</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>ಪ್ರಮಾಣಿತ</item>
+        <item>ಸ್ಪರ್ಶಿಸಿ</item>
+        <item>ನೇರ ಸ್ಪರ್ಶ</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>ಸಂಪರ್ಕದ ಕುರಿತು ಕೇಳಿ</item>
+        <item>ಚಾರ್ಜ್ ಮಾತ್ರ</item>
+        <item>ಎಸ್‌ಡಿ ಕಾರ್ಡ್ ಮೌಂಟ್ ಮಾಡು</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>ಯಾರಿಂದಲಾದರೂ</item>
+        <item>ಸಂಪರ್ಕಗಳಿಂದ ಮಾತ್ರ</item>
+        <item>ನಕ್ಷತ್ರ ಹಾಕಿದ ಸಂಪರ್ಕಗಳಿಂದ ಮಾತ್ರ</item>
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>wapi_psk_type_ascii</item>
+        <item>wapi_psk_type_hex</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>ಸೆಷನ್ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ…</item>
+        <item>ಸೆಷನ್ ಪ್ರಾರಂಭವಾಗಿದೆ</item>
+        <item>ಸೇವೆಯನ್ನು ಆಫ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸೆಷನ್ ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item>ಸಮಯ ಮೀರಿದೆ. ಮರುಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಡಿವೈಸ್‌ ಕನೆಕ್ಟ್‌ ಆಗಿದೆ</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>ಆಫ್‌</item>
+        <item>ಕಡಿಮೆ</item>
+        <item>ಮಧ್ಯಭಾಗ</item>
+        <item>ಹೆಚ್ಚು</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>ಗ್ರಾಫಿಕಲ್‌</item>
+        <item>ಶೇಕಡಾ (ಐಕಾನ್‌ನಲ್ಲಿ)</item>
+        <item>ಶೇಕಡಾ (ಅಧಿಸೂಚನೆ ಶೇಡ್‌ನಲ್ಲಿ ಐಕಾನ್‌ ನಂತರ)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>wifi_ap_choose_2G</item>
+        <item>wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>wifi_ap_ssid_off</item>
+        <item>wifi_ap_ssid_on</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>wifi_security_none</item>
+        <item>wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಂಪರ್ಕಿಸಿ</item>
+        <item>ಕೈಯಾರೆ ಸಂಪರ್ಕಿಸಿ</item>
+        <item>ಯಾವಾಗಲೂ ಕೇಳಿ</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>ಆಕ್ಸಿಲರಿ</item>
+        <item>ಪೂರ್ಣಗೊಂಡಿದೆ</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>ವೈ-ಫೈ ಸಿಗ್ನಲ್‌ ದುರ್ಬಲವಾಗಿದ್ದಾಗ ಬೂಸ್ಟ್‌ ವೇಗವು ಮೊಬೈಲ್‌ ಡೇಟಾ ಬಳಸುತ್ತದೆ</item>
+        <item>ಕನೆಕ್ಷನ್‌ ಅನ್ನು ಬೂಸ್ಟ್‌ ಮಾಡಲು ವೈ-ಫೈ ಹಾಗೂ ಮೊಬೈಲ್‌ ಡೇಟಾವನ್ನು ಒಂದುಗೂಡಿಸಿ</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>ರ್ಯಾಂಡಮೈಸ್‌ ಆದ MAC ಬಳಸಿ</item>
+        <item>ಡಿವೈಸ್‌ MAC ಬಳಸಿ</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>wifi_security_none</item>
+        <item>wifi_security_wep</item>
+        <item>wifi_security_psk_generic</item>
+        <item>wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಂಪರ್ಕಿಸಿ</item>
+        <item>ಹಸ್ತಚಾಲಿತವಾಗಿ ಸಂಪರ್ಕಿಸಿ</item>
+    </string-array>
+</resources>

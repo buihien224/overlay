@@ -5,16 +5,16 @@
         <item quantity="one">1 საათის წინ</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 საათის წინ</item>
-        <item quantity="one">1 საათის წინ</item>
+        <item quantity="other">%d საათის წინ</item>
+        <item quantity="one">%d საათის წინ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ნახევარი საათის წინ</item>
         <item quantity="one">ნახევარი საათის წინ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 საათში</item>
-        <item quantity="one">1 საათში</item>
+        <item quantity="other">%d საათში</item>
+        <item quantity="one">%d საათში</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ნახევარ საათში</item>
@@ -25,8 +25,8 @@
         <item quantity="one">დაუყოვნებლივ</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d წუთში</item>
-        <item quantity="one">1 წუთში</item>
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">%d წუთში</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ამ წუთას</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d წუთის წინ</item>
-        <item quantity="one">1 წუთის წინ</item>
+        <item quantity="one">%d წუთის წინ</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">ყოველთვის ჩართულ მდგომარეობაში მყოფი %d აპლიკაციისთვის</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">შეზღუდული კავშირი %s აპებისთვის</item>
         <item quantity="one">შეზღუდული კავშირი %s აპისთვის</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">დაელოდეთ %d წმ და კიდევ სცადეთ</item>
+        <item quantity="one">დაელოდეთ %d წმ და კიდევ სცადეთ</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d ადამიანი დაუკავშირდა</item>
@@ -132,6 +136,10 @@
         <item quantity="other">დაელოდეთ %d წამი და კიდევ სცადეთ.</item>
         <item quantity="one">დაელოდეთ %d წამი და კიდევ სცადეთ.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">არაუმეტეს %d პროცესისა</item>
+        <item quantity="one">არაუმეტეს %d პროცესისა</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d დაემატა</item>
         <item quantity="one">%d დაემატა</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d ერთეული მონიშნულია</item>
         <item quantity="one">%d ერთეული მონიშნულია</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">ცვლილებები განხორციელდება %d წამში</item>
+        <item quantity="one">ცვლილებები განხორციელდება %d წამში</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d წუთის წინ</item>
         <item quantity="one">1 წუთის წინ</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT შეყვანას თქვენ %1$d ნაბიჯი გაშორებთ.</item>
         <item quantity="one">CIT შეყვანას თქვენ %1$d ნაბიჯი გაშორებთ.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">თქვენ ახლა %1$d ერთი ნაბიჯთ გაშორებთ დეველოპერობას.</item>
+        <item quantity="one">თქვენ ახლა %1$d ერთი ნაბიჯთ გაშორებთ დეველოპერობას.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">ტელეფონის ინფორმაციის შეყვანას თქვენ %1$d ნაბიჯი გაშორებთ.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d აპლიკაციას შეუძლია შეტყობინების ჩვენება</item>
         <item quantity="one">%d აპლიკაციას შეუძლია შეტყობინების ჩვენება</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d წუთის შემდეგ</item>
+        <item quantity="one">%d წუთის შემდეგ</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d ბიტი/ნიმუში</item>
+        <item quantity="one">%d ბიტი/ნიმუში</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">%d საათი</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d წუთი</item>
+        <item quantity="one">%d წუთი</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d წამი</item>
+        <item quantity="one">%d წამი</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">მიიღეთ გაფრთხილება, როდესაც რომელიმე თქვენი ყურსასმენი %d წუთზე მეტხანს არის დაშორებული თქვენი ყურიდან ან დამუხტვის კორპუსთან</item>
@@ -234,7 +270,7 @@
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">სამუშაო დღეები: %d წუთი</item>
-        <item quantity="one">კვირის დღეები: %d წუთი</item>
+        <item quantity="one">სამუშაო დღეები: %d წუთი</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" სთ"</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">გაზიარებული%dქსელი</item>
         <item quantity="one">გაზიარებული%dქსელი</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d მოწყობილობა დაკავშირებულია</item>
-        <item quantity="one">დაკავშირებულია %1$d მოწყობილობა</item>
     </plurals>
 </resources>

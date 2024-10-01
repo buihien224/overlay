@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ఒకసారి</item>
+        <item>ప్రతి రోజు</item>
+        <item>చట్టపరమైన పని దినాలు</item>
+        <item>వారపు రోజులు</item>
+        <item>అనుకూలీకృత</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ఒకసారి</item>
+        <item>ప్రతి రోజు</item>
+        <item>వారపు రోజులు</item>
+        <item>అనుకూలీకృత</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>అన్ని రికార్డ్‌లు</item>
+        <item>స్వయంప్రారంభం</item>
+        <item>గొలుసుకట్టు ప్రారంభం</item>
+        <item>అనుమతులు ఉపయోగిస్తుంది</item>
+        <item>సున్నితమైన చర్యలు</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>క్రమం</item>
+        <item>పిన్‌</item>
+        <item>పాస్‌వర్డ్</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>పరిమాణం</item>
+        <item>పేరు</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>నెలవారీ ప్లాన్</item>
+        <item>అపరిమితం</item>
+        <item>రోజువారీ ప్లాన్</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>అనుకూలీకృత</item>
+        <item>Xiaomi ఫ్యాన్ కార్డ్</item>
+        <item>Xiao Tiansheng కార్డ్</item>
+        <item>Tencent King కార్డ్</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>అనుకూలీకృత</item>
+        <item>Mi మొబైల్</item>
+        <item>Xiaomi ఫ్యాన్ కార్డ్</item>
+        <item>Tianshen కార్డ్</item>
+        <item>Tencent కార్డ్</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"నిన్న (మొబైల్ డేటా) "</item>
+        <item>"ఈ రోజు (మొబైల్ డేటా) "</item>
+        <item>"గత నెల (మొబైల్ డేటా) "</item>
+        <item>"ఈ నెల (మొబైల్ డేటా) "</item>
+        <item>"నిన్న (Wi-Fi) "</item>
+        <item>"ఈ రోజు (Wi-Fi) "</item>
+        <item>"గత నెల (Wi-Fi) "</item>
+        <item>"ఈ నెల (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"నిన్న "</item>
+        <item>"ఈ రోజు "</item>
+        <item>"గత నెల "</item>
+        <item>"ఈ నెల "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"ఈ వారం "</item>
+        <item>"ఈ రోజు "</item>
+        <item>"ఈ నెల "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"నిన్న: "</item>
+        <item>"ఈ రోజు: "</item>
+        <item>"గత నెల: "</item>
+        <item>"ఈ నెల: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"ఈ వారం: "</item>
+        <item>"ఈ రోజు: "</item>
+        <item>"ఈ నెల: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>మీ పరికరంలోని ఫైళ్లకి ప్రవేశం పొందడం మరియు వాటిని సవరించడం కంప్యూటర్ నుండి సాధ్యపడుతుంది.</item>
+        <item>మీ నుండి స్పష్టమైన అనుమతి లేకుండా మీ పరికరంలో యాప్‌లను ఇన్‌స్టాల్ చేయడం అనుమతించబడుతుంది.</item>
+        <item>మీరు మీ స్క్రీన్ కంటెంట్‌ని రిమోట్‌గా పర్యవేక్షించగలరు మరియు రికార్డ్ చేయగలరు.</item>
+        <item>మీ పరికరానికి సంబంధించిన సవివరమైన సమాచారానికి ప్రవేశం పొందడం సాధ్యపడుతుంది.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>అతి తక్కువ</item>
+        <item>తక్కువ</item>
+        <item>సాధారణ</item>
+        <item>ఎక్కువ</item>
+        <item>బాగా ఎక్కువ</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>పరికరం లాక్ అయినప్పుడు</item>
+        <item>పరికరం లాక్ అయినప్పుడు లేదా అప్లికేషన్ నుండి నిష్క్రమించిన తరువాత</item>
+        <item>పరికరం లాక్ అయిన తరువాత లేదా అప్లికేషన్ నుండి నిష్క్రమించిన 1 నిమిషం తరువాత</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"మొబైల్ వినియోగం "</item>
+        <item>"Wi-Fi వినియోగం "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>ముఖ్య గమనిక: పలు సిస్టమ్ యాప్‌లు సరిగ్గా పని చేయకపోవచ్చు.</item>
+        <item>టెక్స్ట్ లేఅవుట్‌లు, ఖాతాలు మరియు కంటెంట్ సరిగ్గా ప్రదర్శించబడకపోవచ్చు.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>హెచ్చరికను చూపు</item>
+        <item>హెచ్చరించి, మొబైల్ డేటాని ఆఫ్ చేయి</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>డిఫాల్ట్</item>
+        <item>పనితీరుని ప్రాధాన్యపరుచు</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>డిఫాల్ట్ ఉష్ణోగ్రత నియంత్రణ మోడ్‌ని ఉపయోగిస్తోంది</item>
+        <item>పనితీరుని ప్రాధాన్యపరుస్తుంది</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>మీ టెక్స్ట్ సందేశాల్లోని కంటెంట్ మరియు వ్యక్తిగత సమాచారం ఉండే అవకాశం ఉన్న ఇతర అంశాలతో పాటు, మీ అన్ని నోటిఫికేషన్‌లను చదువుతుంది</item>
+        <item>కొన్ని యాప్‌లకు నోటిఫికేషన్ అనుమతులను నిరోధించండి</item>
+        <item>నోటిఫికేషన్‌లు ట్యాప్ చేయడం మరియు యాప్‌లు తెరవడాన్ని అనుకరిస్తుంది</item>
+        <item>DND మోడ్ ఆన్ మరియు ఆఫ్ చేస్తుంది</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>మీరు ఏ యాప్‌లను ఉపయోగిస్తున్నారో మరియు ఎంత తరచుగా వాటిని ఉపయోగిస్తున్నారో తెలుసుకోవడం ద్వారా మీ ఆసక్తుల మరియు ప్రవర్తన గురించి డేటాని సేకరిస్తుంది</item>
+        <item>మీ క్యారియర్ సంబంధిత మరియు భాష సెట్టింగ్‌లు, అలాగే ఇతర వివరాలకు ప్రవేశం పొందుతుంది</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>ధృవీకరించబడని మూడవ పక్ష యాప్స్ పలు రకాల సమస్యలకు కారణం కావచ్చు మరియు సిస్టమ్ స్థిరత్వాన్ని తగ్గించవచ్చు.</item>
+        <item>కొన్ని మూడవ పక్ష యాప్‌లు మీ వ్యక్తిగత డేటాని ప్రమాదంలో పెట్టే మాల్వేర్‌ని కలిగి ఉండవచ్చు.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>అంతర్గత నిల్వ</item>
+        <item>బాహ్య నిల్వ</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ఎల్లప్పుడూ</item>
+        <item>మినహాయింపులకు మాత్రమే</item>
+        <item>ఎప్పుడూ వద్దు</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>డేటా వినియోగం</item>
+        <item>ఫోన్ బ్యాలెన్స్</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>అప్లికేషన్ పేరు వారీగా క్రమబద్ధీకరిస్తోంది</item>
+        <item>అత్యంత ఇటీవలి ఉపయోగించినవి వారీగా క్రమబద్ధీకరిస్తోంది</item>
+        <item>ఉపయోగించి నిల్వ వారీగా క్రమబద్ధీకరిస్తోంది</item>
+        <item>ఇన్‌స్టాలేషన్ సమయం వారీగా క్రమబద్ధీకరిస్తోంది</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>అప్లికేషన్ పేరు</item>
+        <item>ఇటీవల ఉపయోగించినవి</item>
+        <item>ఉపయోగించిన నిల్వ</item>
+        <item>ఇన్‌స్టాలేషన్ సమయం</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>ఆఫ్ చేసి, తెలియజేయి</item>
+        <item>కేవలం తెలియజేయి</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ఇన్‌స్టాలేషన్ సోర్స్</item>
+        <item>ఇన్‌స్టాలేషన్ సమయం</item>
+        <item>చివరి నవీకరణ మూలాధారం</item>
+        <item>చివరి నవీకరణ సమయం</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>నెలవారీ డేటా ప్లాన్</item>
+        <item>రోజువారీ డేటా ప్లాన్</item>
+        <item>అపరిమిత డేటా ప్లాన్</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"మొబైల్ డేటా వినియోగం "</item>
+        <item>"Wi-Fi వినియోగం "</item>
+    </string-array>
+</resources>

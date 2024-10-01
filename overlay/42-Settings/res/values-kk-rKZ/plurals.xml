@@ -5,16 +5,16 @@
         <item quantity="one">1 сағат бұрын</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 сағат бұрын</item>
-        <item quantity="one">1 сағат бұрын</item>
+        <item quantity="other">%d сағат бұрын</item>
+        <item quantity="one">%d сағат бұрын</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Жарты сағат бұрын</item>
         <item quantity="one">Жарты сағат бұрын</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 сағатта</item>
-        <item quantity="one">1 сағатта</item>
+        <item quantity="other">%d сағатта</item>
+        <item quantity="one">%d сағатта</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Жарты сағатта</item>
@@ -26,15 +26,15 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d минутта</item>
-        <item quantity="one">1 минутта</item>
+        <item quantity="one">%d минутта</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Енді ғана</item>
         <item quantity="one">Енді ғана</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d мин. бұрын</item>
-        <item quantity="one">1 мин. бұрын</item>
+        <item quantity="other">%d минут бұрын</item>
+        <item quantity="one">%d минут бұрын</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d қолданба үшін ешқашан өшірмеу</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s қолданба үшін қосылуды жүктеу</item>
         <item quantity="one">%s қолданба үшін қосылуды жүктеу</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d секунд күтіп, қайталап көріңіз</item>
+        <item quantity="one">%d секунд күтіп, қайталап көріңіз</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d адам қосылған</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d секунд күтіп, әрекетті қайталаңыз.</item>
         <item quantity="one">%d секунд күтіп, әрекетті қайталаңыз.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Ең көбі %d үдеріс</item>
+        <item quantity="one">Ең көбі %d үдеріс</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d қосылды</item>
         <item quantity="one">%d қосылды</item>
@@ -144,6 +152,10 @@
         <item quantity="other">Таңдалды: %d</item>
         <item quantity="one">%d объект таңдалды</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Өзгерістер %d секундтан кейін күшіне енеді</item>
+        <item quantity="one">Өзгерістер %d секундтан кейін күшіне енеді</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут бұрын</item>
         <item quantity="one">1 минут бұрын</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT-ке кіру үшін %1$d қадам қалды.</item>
         <item quantity="one">CIT-ке кіру үшін %1$d қадам қалды.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сіз қазір әзірлеуші болудан %1$d қадам қалдыңыз.</item>
+        <item quantity="one">Сіз қазір әзірлеуші болудан %1$d қадам қалдыңыз.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Құрылғы мәліметтерін ашудан %1$d қадам ұзақсыз.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d қолданба ескертпелерді көрсете алады</item>
         <item quantity="one">%d қолданба ескертпелерді көрсете алады</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d минуттан кейін</item>
+        <item quantity="one">%d минуттан кейін</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d бит/саны</item>
+        <item quantity="one">%d бит/саны</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">%d сағат</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Құлаққаптарыңыздың біреуі сіздің құлағыңыздан немесе зарядтау ұяшығынан %d минуттан артық алыс болған кезде ескерту алыңыз</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d желімен бөлістіңіз</item>
         <item quantity="one">%d желімен бөлістіңіз</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d құрылғы қосулы</item>
-        <item quantity="one">%1$d құрылғы қосулы</item>
     </plurals>
 </resources>

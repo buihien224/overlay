@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>এবাৰ</item>
+        <item>প্ৰতিদিন</item>
+        <item>আইনগত কৰ্মদিন</item>
+        <item>কৰ্মদিনসমূহ</item>
+        <item>কাষ্টম</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>এবাৰ</item>
+        <item>প্ৰতিদিন</item>
+        <item>কৰ্মদিনসমূহ</item>
+        <item>কাষ্টম</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>সকলো ৰেকৰ্ড</item>
+        <item>স্বয়ং-আৰম্ভ</item>
+        <item>শৃংখল আৰম্ভ</item>
+        <item>অনুমতিসমূহৰ ব্যৱহাৰ</item>
+        <item>স্পৰ্শকাতৰ কাৰ্য</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>আৰ্হি</item>
+        <item>পিন</item>
+        <item>পাছৱৰ্ড</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>আকাৰ</item>
+        <item>নাম</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>মাহিলী প্লেন</item>
+        <item>অসীমিত</item>
+        <item>দৈনিক প্লেন</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>কাষ্টম</item>
+        <item>Xiaomi ফেন কাৰ্ড</item>
+        <item>Xiao Tiansheng কাৰ্ড</item>
+        <item>Tencent King কাৰ্ড</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>কাষ্টম</item>
+        <item>"Mi ম'বাইল"</item>
+        <item>Xiaomi ফেন কাৰ্ড</item>
+        <item>Tianshen কাৰ্ড</item>
+        <item>Tencent কাৰ্ড</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"যোৱাকালি (ম'বাইল ডাটা) "</item>
+        <item>"আজি (ম'বাইল ডাটা) "</item>
+        <item>"যোৱা মাহ (ম'বাইল ডাটা) "</item>
+        <item>"এই মাহ (ম'বাইল ডাটা) "</item>
+        <item>"যোৱাকালি (ৱাই-ফাই) "</item>
+        <item>"আজি (ৱাই-ফাই) "</item>
+        <item>"যোৱা মাহ (ৱাই-ফাই) "</item>
+        <item>"এই মাহ (ৱাই-ফাই) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"যোৱাকালি "</item>
+        <item>"আজি "</item>
+        <item>"যোৱা মাহ "</item>
+        <item>"এই মাহ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"এই সপ্তাহ "</item>
+        <item>"আজি "</item>
+        <item>"এই মাহ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"যোৱাকালি: "</item>
+        <item>"আজি: "</item>
+        <item>"যোৱা মাহ: "</item>
+        <item>"এই মাহ: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"এই সপ্তাহ: "</item>
+        <item>"আজি: "</item>
+        <item>"এই মাহ: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>এটা কম্পিউটাৰ ব্যৱহাৰ কৰি আপোনাৰ ডিভাইচত ফাইললৈ প্ৰৱেশ আৰু সম্পাদনা কৰাটো সম্ভৱ।</item>
+        <item>"আপোনাৰ স্পষ্ট অনুমতি অবিহনে আপোনাৰ ডিভাইচত এপসমূহ ইনষ্টল কৰাৰ অনুমতি দিয়া হ'ব।"</item>
+        <item>"আপুনি আপোনাৰ স্ক্ৰীণৰ সমল ৰিম'টভাৱে নিৰীক্ষণ আৰু ৰেকৰ্ড কৰিবলৈ সক্ষম হ'ব।"</item>
+        <item>আপোনাৰ ডিভাইচৰ বিষয়ে বিশদ বিৱৰণ লাভ কৰাটো সম্ভৱ হৈ উঠিব।</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>নিম্নতম</item>
+        <item>নিম্ন</item>
+        <item>নিয়মীয়া</item>
+        <item>উচ্চ</item>
+        <item>উচ্চতম</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>যেতিয়া ডিভাইচ লক হয়</item>
+        <item>যেতিয়া ডিভাইচটো লক হয় বা এপৰ পৰা প্ৰস্থান কৰাৰ পিছত</item>
+        <item>যেতিয়া ডিভাইচ লক হয় বা এপৰ পৰা প্ৰস্থান কৰাৰ 1 মিনিটত</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"ম'বাইল ব্যৱহাৰ "</item>
+        <item>"ৱাই-ফাই ব্যৱহাৰ "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>গুৰুত্বপূৰ্ণ: একাধিক ছিষ্টেম এপসমূহে সঠিকভাৱে কাম কৰাটো বন্ধ কৰিব পাৰে।</item>
+        <item>"পাঠ লেআউট, একাউণ্ট, আৰু সমল সঠিকভাৱে প্ৰদৰ্শিত নহ'বও পাৰে।"</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>সাৱধানবাণী দেখুৱাওক</item>
+        <item>"সকিয়নি দিয়ক আৰু ম'বাইল ডাটা অফ কৰক"</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>"ডিফ'ল্ট"</item>
+        <item>কাৰ্যদক্ষতা অগ্ৰাধিকাৰ দিয়ক</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>"ডিফ'ল্ট উষ্ণতা নিয়ন্ত্ৰণ ম'ডৰ ব্যৱহাৰ"</item>
+        <item>কাৰ্যদক্ষতাক অগ্ৰাধিকাৰ দি আছে</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>আপোনাৰ পাঠ বাৰ্তাসমূহৰ সমলসমূহ আৰু ব্যক্তিগত তথ্য বহন কৰিব পৰা অন্য আইটেমসমূহক সামৰি আপোনাৰ সকলো অধিসূচনা পঢ়ে</item>
+        <item>কিছুমান এপসমূহৰ বাবে অধিসূচনা অনুমতিসমূহ প্ৰতিবন্ধিত কৰে</item>
+        <item>টেপিং অধিসূচনা চিমুলেট কৰক আৰু এপসমূহ খোলে</item>
+        <item>"ডিএনডি ম'ড অন আৰু অফ কৰে"</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>কোনবিলাক এপ আপুনি কিমান সঘনাই ব্যৱহাৰ কৰে সেইবিষয়ে জানি লৈ আপোনাৰ ৰাপ আৰু আচৰণৰ বিষয়ে ডাটা সংগ্ৰহ কৰে</item>
+        <item>আপোনাৰ কেৰিয়াৰ-সম্পৰ্কীয় আৰু ভাষা ছেটিংছৰ লগতে অন্য বিৱৰণলৈ প্ৰৱেশ কৰে</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>সত্যাপিত নোহোৱা তৃতীয় পক্ষৰ এপসমূহে একাধিক সমস্যাৰ সৃষ্টি আৰু ছিষ্টেম স্থিৰতা হ্ৰাস কৰিব পাৰে।</item>
+        <item>কিছুমান তৃতীয় পক্ষৰ এপত মেলৱেৰ থাকিব পাৰে যি আপোনাৰ ব্যক্তিগত ডাটাৰ প্ৰতি বিপদ সৃষ্টি কৰিব পাৰে।</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>আভ্যন্তৰীণ সংগ্ৰহণ</item>
+        <item>বাহ্যিক সংগ্ৰহণ</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>সদায়</item>
+        <item>কেৱল ব্যতিক্ৰমৰ বাবে</item>
+        <item>কেতিয়াও নহয়</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ডাটা ব্যৱহাৰ</item>
+        <item>ফোনৰ বেলেঞ্চ</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>এপ নাম অনুসাৰে ক্ৰমবদ্ধ</item>
+        <item>সবাতোকৈ শেহতীয়াকৈ ব্যৱহৃতৰ দ্বাৰা ক্ৰমবদ্ধ</item>
+        <item>ব্যৱহৃত সংগ্ৰহণৰ দ্বাৰা ক্ৰমবদ্ধ</item>
+        <item>ইনষ্টলেশ্বন সময় অনুসৰি ক্ৰমবদ্ধ</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>এপ নাম</item>
+        <item>শেহতীয়াকৈ ব্যৱহৃত</item>
+        <item>সংগ্ৰহণ ব্যৱহৃত</item>
+        <item>ইনষ্টলেশ্বন সময়</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>অফ আৰু অধিসূচিত কৰক</item>
+        <item>কেৱল অধিসূচিত কৰক</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ইনষ্টলেশ্বন উৎস</item>
+        <item>ইনষ্টলেশ্বন সময়</item>
+        <item>শেহতীয়া আপডেট উৎস</item>
+        <item>শেহতীয়া আপডেট সময়</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>মাহিলী ডাটা প্লেন</item>
+        <item>দৈনিক ডাটা প্লেন</item>
+        <item>অসীমিত ডাটা প্লেন</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"ম'বাইল ডাটা ব্যৱহাৰ "</item>
+        <item>"ৱাই-ফাই ব্যৱহাৰ "</item>
+    </string-array>
+</resources>

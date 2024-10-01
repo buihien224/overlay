@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_bottom_menu_height">80.0dip</dimen>
+    <dimen name="miuix_appcompat_bottom_menu_height_in_large_font">94.0dip</dimen>
+    <dimen name="miuix_appcompat_button_content_safe_padding_vertical">8.0sp</dimen>
+    <dimen name="miuix_appcompat_button_inline_content_safe_padding_vertical">8.0sp</dimen>
+    <dimen name="miuix_appcompat_search_edit_text_padding_vertical">2.0dip</dimen>
+    <dimen name="miuix_label_text_size_small">4.5dip</dimen>
+    <item type="dimen" name="pc_charge_times_margin_bottom">dp_16</item>
+    <item type="dimen" name="pc_enter_exit_power_margin">dp_24</item>
+    <dimen name="pc_enter_super_power_drawble_padding">-14.0dip</dimen>
+    <item type="dimen" name="pc_enter_super_power_margin">dp_30</item>
+    <item type="dimen" name="pc_temp_value_margin_bottom">dp_16</item>
+</resources>

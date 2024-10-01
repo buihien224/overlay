@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d jam lagi</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minit lagi</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min yang lalu</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d permainan ditambah</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d apl ditambah</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Dibenarkan %3$d kali di antara %1$s dan %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Digunakan untuk %1$d minit</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Digunakan untuk %1$d minit sehingga %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Rekod tingkah laku apl akan disimpan pada peranti ini selama %d hari. Mematikan ciri ini akan memadamkan semua rekod tingkah laku apl dan tidak disyorkan.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Benarkan %d kebenaran</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Minta %d kebenaran</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d kali</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Nyahpasang %d apl?</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Kemas kini %d apl</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Digunakan %d hari yang lalu</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Digunakan %d bulan yang lalu</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Digunakan %d tahun yang lalu</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Anda boleh menggunakan Kunci apl pada %1$s apl</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Anda boleh lindungi sekurang-kurangnya %s apl</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apl akan dilindungi dengan Kunci apl</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d apl termasuk %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d kali</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d apl boleh disambungkan ke rangkaian di latar belakang</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d apl tidak dapat disambungkan ke rangkaian di latar belakang</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">Melindungi %d apl</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Anda boleh menyahpasang &lt;font color=#F22424>%d&lt;/font> apl&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Anda telah menggunakan %s had data harian.
+
+Jika anda aktifkan data mudah alih lagi, pembawa anda mungkin akan mengenakan cas untuk data lebihan."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Anda telah menggunakan %s had data harian.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Dalam %1$d minit</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Skor prestasi peranti anda berada di bawah %d mata. Optimumkan sekarang?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s jam</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Cari di antara %d apl</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d risiko yang berkaitan dengan privasi</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d masalah memerlukan pengoptimuman</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d apl ditemui</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d ciri-ciri</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d panggilan dari %2$s dan lainnya</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d panggilan dari %2$s dan lainnya</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d mesej</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Keahlian Game Turbo anda akan tamat tempoh dalam %d hari. Perbaharui sekarang untuk menikmati permainan yang tiada gangguan.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d orang sedang bermain</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d orang sedang bermain</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Nyahpasang %2$d permainan (termasuk %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Rakam detik penting secara automatik dan jana video dengan sorotan sesi. Anda boleh memilih untuk menyimpannya secara kekal selepas setiap sesi permainan. Video yang tidak disimpan akan dipadamkan secara automatik selepas %1$d hari.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Menyimpan %d rakaman AI ke Game Turbo</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Daftar masuk %d hari tanpa henti</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Ok faham (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Nota:
+·Visual dipertingkatkan tidak akan tersedia apabila Penjimat Bateri dihidupkan atau peranti anda terlalu panas.
+·Kadar bingkai pintar menunjukkan hasil terbaik apabila permainan anda ditetapkan untuk memaparkan sekurang-kurangnya %d bingkai sesaat."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Nota:
+· Visual yang ditingkatkan tidak akan tersedia apabila Penjimat Bateri dihidupkan atau peranti anda terlalu panas.
+· Kadar bingkai dipertingkat menunjukkan hasil terbaik apabila permainan anda ditetapkan untuk memaparkan sekurang-kurangnya %d bingkai sesaat."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Cuba Pengubah suara sekarang
+untuk mendapatkan percubaan percuma selama %d hari!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Tidak dapat menerima percubaan %d hari percuma</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Berjaya menerima percubaan percuma %d hari</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Dapatkan %d hari percubaan percuma</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Langganan anda telah tamat tempoh.
+Anda boleh mendapatkan percubaan percuma %d hari sekarang!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Dapatkan %d hari percubaan percuma</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Tambahkan sehingga %d apl. Tekan dan tahan untuk menyusun semula.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Ciri ini mengurangkan kecerahan skrin selepas %d minit tidak aktif secara automatik untuk menjimatkan kuasa. Aktifkan juga ciri ini?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Rendahkan kecerahan skrin secara automatik untuk menjimatkan kuasa selepas %d minit tidak aktif</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d karakter lainnya</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d kebenaran</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikasi tidak dibenarkan untuk automula</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d apl tidak dibenarkan bermula di latar belakang</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikasi boleh automula</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d apl boleh bermula di latar belakang</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplikasi tidak mempunyai akses akar</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplikasi mempunyai akses akar</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risiko,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojan</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikasi</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d apl tidak boleh guna data perantauan</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apl boleh guna data perantauan</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apl ditemui</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d risiko dikesan</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Pantau penggunaan data %d apl</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Tidak memantau penggunaan data %d apl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dalam masa %d minit</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d permainan ditambah</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Anda boleh melindungi %d item</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s jam</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minit</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Sambungkan sekurang-kurangnya %dtitik</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Sambungkan sekurang-kurangnya %s titik</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Tunggu %d saat dan cuba lagi. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d pengecualian</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d pengguna lain menandanya sebagai</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d mesej dan panggilan telah disekat</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Tidak mengimbas peranti untuk %d hari</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d apl mengandungi virus atau perisian perosak</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d kemas kini tersedia</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kandungan dipilih</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Masukkan sekurang-kurangnya %d karakter</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Sesi peningkatan kelajuan rangkaian anda akan tamat dalam %d hari. Anda mungkin mula mengalami kelewatan rangkaian. Perbaharui sesi sekarang?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Akses rangkaian dihadkan untuk &lt;font color='#ff0000'>%d&lt;/font> apl"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d apl belum ditambah</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d hari tanpa imbasan keselamatan</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Salirkan %2$d%% bateri semasa %1$d minit terakhir</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apl, termasuk %1$s, sedang kehabisan bateri</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Padam %d pakej pemasangan</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Padam %d baki APK</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d item dengan penggunaan kuasa tinggi</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimumkan %d item untuk menjimatkan bateri</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d hari sejak pemeriksaan terakhir</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d apl dikunci</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d notifikasi disembunyi</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d apl tidak dikunci</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notifikasi dapat dilihat</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Masukkan sekurang-kurangnya %d digit</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d apl yang dikunci</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d apl termasuk %1$s mungkin merupakan apl berbahaya</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apl sedang kehabisan bateri</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" jam"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-hari</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Peranti anda kehabisan bateri. Memasuki mod Hibernasi dalam %1$d saat.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s hari</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s jam</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minit</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s hari sehingga dicas sepenuhnya</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s jam sehingga dicas sepenuhnya</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minit sehingga dicas sepenuhnya</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Berbaki %s hari</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Berbaki %s jam</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minit berbaki</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d jam berbaki</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minit berbaki</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minit sejak caj terakhir</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d saat sejak caj terakhir</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Dimuat turun oleh %1$d individu</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Dimuat turun oleh %1$d individu</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Peranti anda akan dimatikan dalam %d saat</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s jam</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">kali</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d kali</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d item dengan penggunaan kuasa tinggi</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d hari "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" jam"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d jam "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d minit "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimumkan penggunaan bateri dalam %d senario</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Baiki %d isu penggunaan bateri</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Anda boleh mengoptimumkan penggunaan kuasa untuk %d item</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d item boleh dioptimumkan"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimumkan %d item untuk menjimatkan bateri</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Anda boleh mengoptimumkan %d item untuk menjimatkan bateri</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Tambah %d minit</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">item</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Batal (%ds)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s hari berbaki</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Berbaki %s jam</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minit berbaki</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minit baki masa skrin</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Hidupkan untuk menambah %s minit masa skrin</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Ok faham (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Ok faham (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Peranti anda akan dimatikan dalam %d saat. Sambungkan pengecas.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d apl selalu auto-mula</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d apl menghabiskan bateri</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ikon apl disembunyikan</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ikon apl tidak disembunyikan</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s apl mempunyai akses tetap</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Dibenarkan untuk %s apl</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s kali</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d kebenaran berisiko tinggi diberikan</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d apl berisiko dijumpai</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d risiko mendedahkan info lokasi dikesan</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d risiko dikesan</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d kemungkinan risiko dijumpai</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d gambar mungkin mengandungi maklumat yang bersifat peribadi atau sensitif</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d ciri yang melindungi privasi anda dimatikan</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d kebenaran sensitif diberikan</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Nyahpasang %d apl</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d item memerlukan perlindungan tambahan</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d isu-isu bateri</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Mencari %d isu-isu bateri</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Menjumpai %d isu bateri, perbaiki segera</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">%d item dioptimumkan dengan penggunaan kuasa tinggi</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Penetapan semula kilang (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">%d apl tidak rasmi ditemui</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d apl berniat jahat dikesan</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Cari %d apl</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d apl yang dikunci menunggu utk dibersihkan</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">%d virus dihapuskan</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s apl pembayaran dilindungi</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s apl tidak dilindungi</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apl dilindungi</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d kata kunci</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d nombor</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Mengedit %1$d kebenaran</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmen</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Kemaskini sedia untuk aplikasi %d.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Belum disegerakkan statistik penggunaan data pembawa dalam %d hari</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d item selamat</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Kemas kini&lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d virus dihapuskan</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virus atau apl berisiko</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d permainan belum ditambah</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Sambungkan sekurang-kurangnya %s titik</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Masukkan %s digit</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d apl</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Anda telah menonton video selama %d jam.
+Berehat sebentar."</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d penonton</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Padam %d apl dipilih?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s apl</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Apl berbahaya:%d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojan: %d</item>
+    </plurals>
+</resources>

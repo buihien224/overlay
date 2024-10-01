@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ժամ առաջ</item>
+        <item quantity="one">%d ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">In %d ժամ</item>
+        <item quantity="one">In %d ժամ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">in %d րոպեից</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d խաղերն ավելացված են</item>
+        <item quantity="one">%d խաղն ավելացված է</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Ավելացվեց %d հավելված</item>
+        <item quantity="one">Ավելացվեց %d հավելված</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d հավելվածները</item>
+        <item quantity="one">%d հավելվածները</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d հավելվածները</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Թույլատրված է %3$d անգամներ %1$s և %2$s</item>
+        <item quantity="one">Թույլատրված է %3$d անգամ %1$s և %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Օգտագործվում է %1$d րոպեների համար</item>
+        <item quantity="one">Օգտագործվում է %1$d րոպեի համար</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Օգտագործվում է %1$d րոպեներից մինչև %2$s</item>
+        <item quantity="one">Օգտագործվում է %1$d րոպեից մինչև %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Հավելվածի վարքագծի գրառումները կպահվեն այս սարքում %d օր: Այս գործառույթն անջատելը կջնջի հավելվածների վարքագծի բոլոր գրառումները և խորհուրդ չի տրվում:</item>
+        <item quantity="one">Հավելվածի վարքագծի գրառումները կպահվեն այս սարքում %d օր: Այս գործառույթն անջատելը կջնջի հավելվածների վարքագծի բոլոր գրառումները և խորհուրդ չի տրվում:</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d թույլտվությունները տրված են</item>
+        <item quantity="one">%d թույլտվությունը տրված է</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Խնդրել %d թույլտվություններ</item>
+        <item quantity="one">Խնդրել %d թույլտվություն</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d անգամ</item>
+        <item quantity="one">%d անգամ</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Ապատեղադրել %d հավելվածները</item>
+        <item quantity="one">Ապատեղադրել %d հավելվածը</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Թարմացրեք %d հավելված</item>
+        <item quantity="one">Թարմացրեք %d հավելված</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Օգտագործվել է %d օր առաջ</item>
+        <item quantity="one">Օգտագործվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Օգտագործվել է %d ամիս առաջ</item>
+        <item quantity="one">Օգտագործվել է %d ամիս առաջ</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Օգտագործվել է %d տարի առաջ</item>
+        <item quantity="one">Օգտագործվել է %d տարի առաջ</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Հավելվածի կողպումը կարող եք օգտագործել %1$s հավելվածներով</item>
+        <item quantity="one">Հավելվածի կողպումը կարող եք օգտագործել %1$s հավելվածով</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Դուք կարող եք պաշտպանել առնվազն %s հավելված</item>
+        <item quantity="one">Դուք կարող եք պաշտպանել առնվազն %s հավելված</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s հավելվածները պաշտպանված կլինեն հավելվածի կողպեքով</item>
+        <item quantity="one">%s հավելվածը պաշտպանված կլինեն հավելվածի կողպեքով</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d հավելված ՝ ներառյալ %1$s</item>
+        <item quantity="one">%2$d հավելված ՝ ներառյալ %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d անգամ</item>
+        <item quantity="one">%d անգամ</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d հավելվածները կարող են միանալ ֆոնային ցանցին</item>
+        <item quantity="one">%d հավելվածը կարող է միանալ ֆոնային ցանցին</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d հավելվածները չեն կարող միանալ ֆոնային ցանցին</item>
+        <item quantity="one">%d հավելվածը չի կարող միանալ ֆոնային ցանցին</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">Պաշտպանում է %d հավելվածները</item>
+        <item quantity="one">Պաշտպանում է %d հավելվածը</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Կարող եք հեռացնել &lt;font color=#F22424>%d&lt;/font> հավելվածներ&lt;/Data></item>
+        <item quantity="one">&lt;Data>Կարող եք հեռացնել &lt;font color=#F22424>%d&lt;/font> հավելված&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Դուք արդեն օգտագործել եք %s օրական տրաֆիկի սահմանաչափերը:
+
+Եթե դուք կրկին միացնեք շարժական կապի համացանցը, ձեր օպերատորը կարող է ձեզանից լրացուցիչ տրաֆիկի համար գումար գանձել:"</item>
+        <item quantity="one">"Դուք արդեն օգտագործել եք %s օրական տրաֆիկի սահմանաչափը:
+
+Եթե դուք կրկին միացնեք շարժական կապի համացանցը, ձեր օպերատորը կարող է ձեզանից լրացուցիչ տրաֆիկի համար գումար գանձել:"</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Դուք արդեն օգտագործել եք %s օրական տրաֆիկի սահմանաչափերը:</item>
+        <item quantity="one">Դուք արդեն օգտագործել եք %s օրական տրաֆիկի սահմանաչափը:</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d րոպեից</item>
+        <item quantity="one">%1$d րոպեից</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Ձեր սարքի աշխատանքի ցուցանիշը ցածր է %d կետերից: Օպտիմալացնե՞լ հիմա:</item>
+        <item quantity="one">Ձեր սարքի աշխատանքի ցուցանիշը ցածր է %d կետից: Օպտիմալացնե՞լ հիմա:</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Որոնել %d հավելվածների միջև</item>
+        <item quantity="one">Որոնել %d հավելվածի միջև</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d գաղտնիության հետ կապված ռիսկեր</item>
+        <item quantity="one">%d գաղտնիության հետ կապված ռիսկ</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d հարցը պահանջում է օպտիմիզացիա</item>
+        <item quantity="one">%1$d հարցը պահանջում է օպտիմիզացիա</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d հավելվածներ են գտնվել</item>
+        <item quantity="one">%d հավելված է գտնվել</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d հնարավորություններ</item>
+        <item quantity="one">%d հնարավորություն</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d զանգեր %2$s-ից և ուրիշներից</item>
+        <item quantity="one">%1$d զանգ %2$s-ից</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d զանգեր %2$s-ից և ուրիշներից</item>
+        <item quantity="one">%1$d զանգ %2$s-ից</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d հաղորդագրություններ</item>
+        <item quantity="one">%d հաղորդագրություն</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Ձեր Խաղի Արագացման անդամակցության ժամկետը կլրանա %d օրից: Թարմացրեք հիմա՝ անխափան խաղը վայելելու համար:</item>
+        <item quantity="one">Ձեր Խաղի Արագացման անդամակցության ժամկետը կլրանա %d օրից: Թարմացրեք հիմա՝ անխափան խաղը վայելելու համար:</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d մարդ է խաղում</item>
+        <item quantity="one">%1$d մարդ է խաղում</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d մարդ է խաղում</item>
+        <item quantity="one">%1$d մարդ է խաղում</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Ապատեղադրել %2$d խաղեր (ներառյալ %1$s)</item>
+        <item quantity="one">Ապատեղադրել %2$d խաղ (ներառյալ %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Ձայնագրեք առանցքային պահերը ավտոմատ կերպով և ստեղծեք տեսանյութեր նիստի կարևորագույն պահերով: Դուք կարող եք ընտրել դրանք մշտապես պահպանել յուրաքանչյուր խաղային նստաշրջանից հետո: Չպահված տեսանյութերն ավտոմատ կերպով կջնջվեն %1$d օրից հետո:</item>
+        <item quantity="one">Ձայնագրեք առանցքային պահերը ավտոմատ կերպով և ստեղծեք տեսանյութեր նիստի կարևորագույն պահերով: Դուք կարող եք ընտրել դրանք մշտապես պահպանել յուրաքանչյուր խաղային նստաշրջանից հետո: Չպահված տեսանյութերն ավտոմատ կերպով կջնջվեն %1$d օրից հետո:</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Պահպանվել է %d AI ձայնագրություններ Game Turbo-ին</item>
+        <item quantity="one">Պահպանվել է %d AI ձայնագրում Game Turbo-ին</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d վրկ</item>
+        <item quantity="one">%d վրկ</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">%d օրում սյունակում գրանցվել են</item>
+        <item quantity="one">%d օրում սյունակում գրանցվել են</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Հասկանալի է (%ds)</item>
+        <item quantity="one">Հասկանալի է (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Նշում.
+·Բարձրացված վիզուալները հասանելի չեն լինի, երբ մարտկոցի տնտեսումը միացված է կամ ձեր սարքը գերտաքացած է:
+·Խելացի կադրերի արագությունը ցույց է տալիս լավագույն արդյունքները, երբ ձեր խաղը դրված է վայրկյանում առնվազն %d կադրեր ցուցադրելու համար:"</item>
+        <item quantity="one">"Նշում.
+·Բարձրացված վիզուալները հասանելի չեն լինի, երբ մարտկոցի տնտեսումը միացված է կամ ձեր սարքը գերտաքացած է:
+·Խելացի կադրերի արագությունը ցույց է տալիս լավագույն արդյունքները, երբ ձեր խաղը դրված է վայրկյանում առնվազն %d կադր ցուցադրելու համար:"</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Նշում.
+· Ընդլայնված վիզուալները հասանելի չեն լինի, երբ մարտկոցի տնտեսումը միացված է կամ ձեր սարքը գերտաքացած է:
+· Կադրերի բարելավված արագությունը ցույց է տալիս լավագույն արդյունքները, երբ ձեր խաղը դրված է առնվազն %d կադր վայրկյանում:"</item>
+        <item quantity="one">"Նշում.
+· Ընդլայնված վիզուալները հասանելի չեն լինի, երբ մարտկոցի տնտեսումը միացված է կամ ձեր սարքը գերտաքացած է:
+· Կադրերի բարելավված արագությունը ցույց է տալիս լավագույն արդյունքները, երբ ձեր խաղը դրված է առնվազն %d կադր վայրկյանում:"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Փորձեք Ձայնափոխիչը հիմա 
+ %d-օրյա անվճար փորձաշրջան ստանալու համար:"</item>
+        <item quantity="one">"Փորձեք Ձայնափոխիչը հիմա 
+ %d-օրյա անվճար փորձաշրջան ստանալու համար:"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Չհաջողվեց ստանալ %d օր անվճար փորձաշրջան</item>
+        <item quantity="one">Չհաջողվեց ստանալ %d օր անվճար փորձաշրջան</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Հաջողությամբ ստացվեց %d օր անվճար փորձաշրջան</item>
+        <item quantity="one">Հաջողությամբ ստացվեց %d օր անվճար փորձաշրջան</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Ստացեք %d օր անվճար փորձաշրջան</item>
+        <item quantity="one">Ստացեք %d օր անվճար փորձաշրջան</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Ձեր բաժանորդագրության ժամկետը սպառվում է:
+ Այժմ կարող եք %d օր անվճար փորձաշրջան ստանալ:"</item>
+        <item quantity="one">"Ձեր բաժանորդագրության ժամկետը սպառվում է:
+ Այժմ կարող եք %d օր անվճար փորձաշրջան ստանալ:"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Ստացեք %d օր անվճար փորձաշրջան</item>
+        <item quantity="one">Ստացեք %d օր անվճար փորձաշրջան</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Ավելացրեք մինչև %d հավելվածներ: Սեղմեք և պահեք՝ վերադասավորելու համար:</item>
+        <item quantity="one">Ավելացրեք մինչև %d հավելված: Սեղմեք և պահեք՝ վերադասավորելու համար:</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Այս հատկությունն իջեցնում է էկրանի պայծառությունը %d անգործությունից րոպեներ ավտոմատ կերպով՝ էներգիա խնայելու համար: Միացնե՞լ այս հատկությունը:</item>
+        <item quantity="one">Այս հատկությունն իջեցնում է էկրանի պայծառությունը %d անգործությունից րոպե ավտոմատ կերպով՝ էներգիա խնայելու համար: Միացնե՞լ այս հատկությունը:</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Էկրանի ցածր պայծառությունն ավտոմատ կերպով խնայելու համար %d անգործությունից րոպեներ անց</item>
+        <item quantity="one">Էկրանի ցածր պայծառությունն ավտոմատ կերպով խնայելու համար %d անգործությունից րոպե</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d նիշեր</item>
+        <item quantity="one">    +%1$d նիշեր</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d թույլտվություններ</item>
+        <item quantity="one">%d թույլտվություն</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d հավելվածներին չի թույլատրվում ավտոմատ մեկնարկել</item>
+        <item quantity="one">%d հավելվածին չի թույլատրվում ավտոմատ մեկնարկել</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d հավելվածին չի թույլատրվում գործարկել հետին պլանում</item>
+        <item quantity="one">%d հավելվածին չի թույլատրվում գործարկել հետին պլանում</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d հավելվածները կարող են ավտոմատ մեկնարկել</item>
+        <item quantity="one">%d հավելվածը կարող է ավտոմատ մեկնարկել</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d հավելվածը կարող է գործարկվել հետին պլանում</item>
+        <item quantity="one">%d հավելվածը կարող է գործարկվել հետին պլանում</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d հավելվածները չունեն root մուտք</item>
+        <item quantity="one">%d հավելվածը չունի root մուտք</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d հավելվածներն ունեն root մուտք</item>
+        <item quantity="one">%d հավելվածն ունի root մուտք</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d վտանգներ,</item>
+        <item quantity="one">%d վտանգ,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d տրոյաններ</item>
+        <item quantity="one">%d տրոյան</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d հավելվածներ</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d հավելվածները չեն կարող օգտագործել տրաֆիկը ռոումինգում</item>
+        <item quantity="one">%d հավելվածը չի կարող օգտագործել տրաֆիկը ռոումինգում</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d հավելվածները կարող են օգտագործել տրաֆիկը ռոումինգում</item>
+        <item quantity="one">%d հավելվածը կարող է օգտագործել տրաֆիկը ռոումինգում</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d հավելվածներ չեն գտնվել</item>
+        <item quantity="one">%d հավելված չի գտնվել</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">Հայտնաբերվել է %d ռիսկեր</item>
+        <item quantity="one">Հայտնաբերվել է %d ռիսկ</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d հավելվածների համար տրաֆիկի օգտագործման հետևում</item>
+        <item quantity="one">%d հավելվածի համար տրաֆիկի օգտագործման հետևում</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d հավելվածների համար տրաֆիկի օգտագործմանը չի հետևում</item>
+        <item quantity="one">%d հավելվածի համար տրաֆիկի օգտագործմանը չի հետևում</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d խաղերն ավելացված են</item>
+        <item quantity="one">%d խաղն ավելացված է</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Կարող եք պաշտպանել %d տարրեր</item>
+        <item quantity="one">Կարող եք պաշտպանել %d տարր</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ժամեր</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Միացրե՛ք նվազագույնը %d կետեր</item>
+        <item quantity="one">Միացրե՛ք նվազագույնը %d կետ</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Միացրեք առնվազն %s կետ</item>
+        <item quantity="one">Միացրեք առնվազն %s կետ</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Սպասե՛ք %d վայրկյան և կրկին փորձե՛ք: "</item>
+        <item quantity="one">"Սպասե՛ք %d վայրկյան և կրկին փորձե՛ք: "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d բացառություններ</item>
+        <item quantity="one">%d բացառություն</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d այլ օգտատերեր նշեցին այն որպես</item>
+        <item quantity="one">%d այլ օգտատեր նշեց այն որպես</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d հաղորդագրություններ կամ զանգգեր արգելափակվել են</item>
+        <item quantity="one">%d հաղորդագրություն կամ զանգ արգելափակվել է</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Մի սկանավորեք սարքը %d օրվա ընթացքում</item>
+        <item quantity="one">Մի սկանավորեք սարքը %d օրվա ընթացքում</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d ծրագրերը պարունակում են վիրուսներ կամ չարամիտ ծրագրեր</item>
+        <item quantity="one">%d ծրագիրը պարունակում է վիրուսներ կամ չարամիտ ծրագրեր</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d թարմացումները հասանելի են</item>
+        <item quantity="one">%d թարմացումը հասանելի է</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Մուտքագրե՛ք առնվազն %d նիշեր:</item>
+        <item quantity="one">Մուտքագրե՛ք առնվազն %d նիշ:</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Ձեր ցանցի արագության բարձրացման աշխատաշրջանը կավարտվի %d օրից: Դուք կարող եք սկսել ցանցի հետաձգումներ: Թարմացնե՞լ նիստը հիմա:</item>
+        <item quantity="one">Ձեր ցանցի արագության բարձրացման աշխատաշրջանը կավարտվի %d օրից: Դուք կարող եք սկսել ցանցի հետաձգումներ: Թարմացնե՞լ նիստը հիմա:</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Ցանցի մուտքը սահմանափակված է &lt;font color='#ff0000'>%d&lt;/font> հավելվածների համար"</item>
+        <item quantity="one">"Ցանցի մուտքը սահմանափակված է &lt;font color='#ff0000'>%d&lt;/font> հավելվածի համար"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d հավելված ավելացված չեն</item>
+        <item quantity="one">%d հավելված ավելացված չէ</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d օր առանց անվտանգության զննումների</item>
+        <item quantity="one">%d օր առանց անվտանգության զննումների</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Մարտկոցի %2$d%%-ը ծախսվեց վերջին %1$d րոպեների ընթացքում</item>
+        <item quantity="one">Մարտկոցի %2$d%%-ը ծախսվեց վերջին %1$d րոպեի ընթացքում</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d հավելված, այդ թվում %1$s, լիցքավորող մարտկոցներ են</item>
+        <item quantity="one">%2$d հավելված, այդ թվում %1$s, լիցքավորող մարտկոց է</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Ջնջեք %d տեղադրման փաթեթները</item>
+        <item quantity="one">Ջնջել %d տեղադրման փաթեթը</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Ջնջել %d մնացորդային APK-ները</item>
+        <item quantity="one">Ջնջել %d մնացորդային APK-ն</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d տարր մեծ էներգիայի սպառմամբ</item>
+        <item quantity="one">%d տարր մեծ էներգիայի սպառմամբ</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Օպտիմալացնել %d տարրերը՝ մարտկոցը խնայելու համար</item>
+        <item quantity="one">Օպտիմալացնել %d տարրը՝ մարտկոցը խնայելու համար</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d օր վերջին ստուգումից հետո</item>
+        <item quantity="one">%d օր վերջին ստուգումից հետո</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d հավելվածներն արգելափակված են</item>
+        <item quantity="one">%d հավելվածն արգելափակված է</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d հավելվածներ</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d ծանուցումները թաքցված են</item>
+        <item quantity="one">%d ծանուցումը թաքցված է</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d հավելվածներն արգելափակված չեն</item>
+        <item quantity="one">%d հավելվածն արգելափակված չէ</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d ծանուցումները տեսանելի են</item>
+        <item quantity="one">%d ծանուցումը տեսանելի է</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Մուտքագրե՛ք առնվազն %d թվեր:</item>
+        <item quantity="one">Մուտքագրե՛ք առնվազն %d թիվ:</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d հավելվածներըը արգելափակվեցին</item>
+        <item quantity="one">%d հավելվածը արգելափակվեց</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d հավելվածներ</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d հավելված ներառյալ %1$s կարող է վնասակար լինել</item>
+        <item quantity="one">%2$d հավելված ներառյալ %1$s կարող է վնասակար լինել</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d հավելվածները լիցքավորող մարտկոցներ են</item>
+        <item quantity="one">%d հավելվածը լիցքավորող մարտկոց է</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ժամ"</item>
+        <item quantity="one">" ժամ"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" րոպե"</item>
+        <item quantity="one">" րոպե"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-օր</item>
+        <item quantity="one">%d-օր</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d տարր</item>
+        <item quantity="one">%d տարր</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Ձեր սարքի մարտկոցը սպառվել է: Մտնում ենք ձմեռման ռեժիմ %1$d վայրկյանից:</item>
+        <item quantity="one">Ձեր սարքի մարտկոցը սպառվել է: Մտնում ենք ձմեռման ռեժիմ %1$d վայրկյանից:</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s օր</item>
+        <item quantity="one">%s օր</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ժամեր</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s րոպեներ</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s օր մինչ ամբողջական լիցքավորումը</item>
+        <item quantity="one">%s օր մինչ ամբողջական լիցքավորումը</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ժամ է մանցել մինչ ամբողջական լիցքավորումը</item>
+        <item quantity="one">%s ժամ է մանցել մինչ ամբողջական լիցքավորումը</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s րոպե մինչ ամբողջական լիցքավորումը</item>
+        <item quantity="one">%s րոպե մինչ ամբողջական լիցքավորումը</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s օր է մնացել</item>
+        <item quantity="one">%s օր է մնացել</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s ժամ է մնում</item>
+        <item quantity="one">%s ժամ է մնում</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s րոպե է մնացել</item>
+        <item quantity="one">%s րոպե է մնացել</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ժամ է մնում</item>
+        <item quantity="one">%d ժամ է մնում</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d րոպե է մնացել</item>
+        <item quantity="one">%d րոպե է մնացել</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d րոպե վերջին լիցքավորումից ի վեր</item>
+        <item quantity="one">%d րոպե վերջին լիցքավորումից ի վեր</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d վարկյան վերջին լիցքավորումից ի վեր</item>
+        <item quantity="one">%d վարկյան վերջին լիցքավորումից ի վեր</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Ներբեռնված է %1$d մարդկանց կողմից</item>
+        <item quantity="one">Ներբեռնված է %1$d մարդկանց կողմից</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Ներբեռնված է %1$d մարդկանց կողմից</item>
+        <item quantity="one">Ներբեռնված է %1$d մարդկանց կողմից</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Ձեր սարքը կանջատվի %d վարկյանից</item>
+        <item quantity="one">Ձեր սարքը կանջատվի %d վարկյանից</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">անգամ</item>
+        <item quantity="one">անգամ</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d անգամ</item>
+        <item quantity="one">%d անգամ</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d տարր մեծ էներգիայի սպառմամբ</item>
+        <item quantity="one">%d տարր մեծ էներգիայի սպառմամբ</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d օր "</item>
+        <item quantity="one">"%d օր "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ժամ"</item>
+        <item quantity="one">" ժամ"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" րոպե"</item>
+        <item quantity="one">" րոպե"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ժամ "</item>
+        <item quantity="one">"%d ժամ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d րոպե "</item>
+        <item quantity="one">"%d րոպե "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Օպտիմալացնել մարտկոցի օգտագործումը %d սցենարներով</item>
+        <item quantity="one">Օպտիմալացնել մարտկոցի օգտագործումը %d սցենարով</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Լուծել %d մարտկոցի օգտագործման խնդիրները</item>
+        <item quantity="one">Լուծել %d մարտկոցի օգտագործման խնդիրը</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Դուք կարող եք օպտիմալացնել էներգիայի սպառումը %d տարրի համար</item>
+        <item quantity="one">Դուք կարող եք օպտիմալացնել էներգիայի սպառումը %d տարրի համար</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d տարրերը կարող է օպտիմալացվել"</item>
+        <item quantity="one">" %d տարրը կարող է օպտիմալացվել"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Օպտիմալացնել %d տարրերը՝ մարտկոցը խնայելու համար</item>
+        <item quantity="one">Օպտիմալացնել %d տարրը՝ մարտկոցը խնայելու համար</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Կարող եք օպտիմալացնել %d տարրը մարտկոցները խնայելու համար</item>
+        <item quantity="one">Կարող եք օպտիմալացնել %d տարրը մարտկոցը խնայելու համար</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d մԱ·ժ</item>
+        <item quantity="one">%d մԱ·ժ</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Ավելացնել %d րոպե</item>
+        <item quantity="one">Ավելացնել %d րոպե</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">օբյեկտ</item>
+        <item quantity="one">օբյեկտ</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Չեղարկել (%dվ)</item>
+        <item quantity="one">Չեղարկել (%dվ)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s օր է մնացել</item>
+        <item quantity="one">%s օր է մնացել</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s ժամ է մնում</item>
+        <item quantity="one">%s ժամ է մնում</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s րոպե է մնացել</item>
+        <item quantity="one">%s րոպե է մնացել</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Մնացել է էկրանի %s րոպե</item>
+        <item quantity="one">Մնացել է էկրանի %s րոպե</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Միացրեք՝ էկրանի ժամանակը %s րոպե ավելացնելու համար</item>
+        <item quantity="one">Միացրեք՝ էկրանի ժամանակը %s րոպե ավելացնելու համար</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Հասկանալի է (%d)</item>
+        <item quantity="one">Հասկանալի է (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Հասկանալի է (%ds)</item>
+        <item quantity="one">Հասկանալի է (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Ձեր սարքը կփակվի %d վարկյանից: Միացրեք լիցքավորիչը:</item>
+        <item quantity="one">Ձեր սարքը կփակվի %d վարկյանից: Միացրեք լիցքավորիչը:</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d հավելվածների ինքնաբերաբար գործարկում</item>
+        <item quantity="one">%d հավելվածի ինքնաբերաբար գործարկում</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d հավելվածները սպառում է մարտկոցը</item>
+        <item quantity="one">%d հավելվածը սպառում է մարտկոցը</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ծրագրի պատկերները թաքնված են</item>
+        <item quantity="one">%d ծրագրի պատկերը թաքնված է</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ծրագրի պատկերները թաքնված չեն</item>
+        <item quantity="one">%d ծրագրի պատկերը թաքնված չէ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s ծրագրերը ունեն մշտական հասանելիություն</item>
+        <item quantity="one">%s ծրագիրը ունի մշտական հասանելիություն</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Թույլատրված է %s հավելվածների համար</item>
+        <item quantity="one">Թույլատրված է %s հավելվածի համար</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s անգամ</item>
+        <item quantity="one">%s անգամ</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d հավելվածներ</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d տրվել է բարձր ռիսկի թույլտվությունններ</item>
+        <item quantity="one">%d տրվել է բարձր ռիսկի թույլտվություն</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d գտնվեց ռիսկային հավելվածներ</item>
+        <item quantity="one">%d գտնվեց ռիսկային հավելված</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d տեղադրության մասին տեղեկատվության բացահայտման ռիսկ</item>
+        <item quantity="one">%d տեղադրության մասին տեղեկատվության բացահայտման ռիսկ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d հայտնաբերված ռիսկեր</item>
+        <item quantity="one">%d հայտնաբերված ռիսկ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d հայտնաբերվել է հավանական ռիսկեր</item>
+        <item quantity="one">%d հայտնաբերվել է հավանական ռիսկ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d լուսանկարները կարող է պարունակել տեղեկատվություն, որը մասնավոր է կամ զգայուն</item>
+        <item quantity="one">%d լուսանկարը կարող է պարունակել տեղեկատվություն, որը մասնավոր է կամ զգայուն</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d հատկությունները, որը պաշտպանում է ձեր գաղտնիությունը, անջատված է</item>
+        <item quantity="one">%d հատկությունը, որը պաշտպանում է ձեր գաղտնիությունը, անջատված է</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d տրված է զգայուն թույլտվություններ</item>
+        <item quantity="one">%d տրված է զգայուն թույլտվություն</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Ապատեղադրել %d հավելվածները</item>
+        <item quantity="one">Ապատեղադրել %d հավելվածը</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d տարրերը լրացուցիչ պաշտպանության կարիք ունի</item>
+        <item quantity="one">%d տարրը լրացուցիչ պաշտպանության կարիք ունի</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d մարտկոցի խնդիրներ</item>
+        <item quantity="one">%d մարտկոցի խնդիր</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Գտնվել են մարտկոցի %d խնդիրներ</item>
+        <item quantity="one">Գտնվել է մարտկոցի %d խնդիր</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Գտնվել են մարտկոցի %d խնդիրներ, լուծե՛ք դրանք</item>
+        <item quantity="one">Գտնվել է մարտկոցի %d խնդիր, լուծե՛ք այն</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Օպտիմիզացված %d տարր՝ մեծ էներգիայի սպառմամբ</item>
+        <item quantity="one">Օպտիմիզացված %d տարր՝ մեծ էներգիայի սպառմամբ</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Գործարաանյին վերականգնում (%ds)</item>
+        <item quantity="one">Գործարաանյին վերականգնում (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Գտնվել են %d ոչ պաշտոնական հավելվածներ</item>
+        <item quantity="one">Գտնվել է %d ոչ պաշտոնական հավելված</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Հայտնաբերվել է %d վնասակար ծրագիր</item>
+        <item quantity="one">Հայտնաբերվել է %d վնասակար ծրագիր</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Որոնել %d հավելվածները</item>
+        <item quantity="one">Որոնել %d հավելվածը</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d արգելափակված հավելվածները մաքրելու սպասման մեջ են</item>
+        <item quantity="one">%d արգելափակված հավելվածը մաքրելու սպասման մեջ է</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">%d վիրուսները ջնջված են</item>
+        <item quantity="one">%d վիրուսը ջնջված է</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s վճարման հավելվածները պաշտպանված են</item>
+        <item quantity="one">%s վճարման հավելվածը պաշտպանված է</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s հավելվածները պաշտպանված չեն</item>
+        <item quantity="one">%s հավելվածը պաշտպանված չէ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s հավելվածները պաշտպանված են</item>
+        <item quantity="one">%s հավելվածը պաշտպանված է</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d տարրեր</item>
+        <item quantity="one">%d տարր</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d բանալի բառեր</item>
+        <item quantity="one">%d բանալի բառ</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d համարներ</item>
+        <item quantity="one">%d համար</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d թույլտվության խմբագրում</item>
+        <item quantity="one">%1$d թույլտվության խմբագրում</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> հատվածներ</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> հատված</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ԳԲ</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ԳԲ</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d հավելվածների համար թարմացումները հասանելի են:</item>
+        <item quantity="one">%d հավելվածի համար թարմացումը հասանելի է:</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Չի սինխրոնիզացվել օպերատորի տրաֆիկի օգտագործման մասին վիճակագրությունը %d օր</item>
+        <item quantity="one">Չի սինխրոնիզացվել օպերատորի տրաֆիկի օգտագործման մասին վիճակագրությունը %d օր</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dվ)</item>
+        <item quantity="one">(%dվ)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d տարրերն անտվանգ են</item>
+        <item quantity="one">%1$d տարրն անտվանգ է</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Թարմացնել &lt;font color=#F22424>%d&lt;/font> հավելված&lt;/Data></item>
+        <item quantity="one">&lt;Data>Թարմացնել &lt;font color=#F22424>%d&lt;/font> հավելվածներ&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d վիրուսները մաքրված են</item>
+        <item quantity="one">%d վիրուսը մաքրված է</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d վիրուս կամ վտանգավոր հավելված</item>
+        <item quantity="one">%d վիրուս կամ վտանգավոր հավելված</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d հավելվածները</item>
+        <item quantity="one">%d հավելվածը</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d խաղերն ավելացված չեն</item>
+        <item quantity="one">%d խաղն ավելացված չէ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Միացրեք առնվազն %s կետ</item>
+        <item quantity="one">Միացրեք առնվազն %s կետ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Մուտքագրել %s թվանշան</item>
+        <item quantity="one">Մուտքագրել %s թվանշան</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d հավելվածներ</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Դուք արդեն դիտում եք տեսանյութեր %d ժամվա:
+ Ընդմիջեք:"</item>
+        <item quantity="one">"Դուք արդեն դիտում եք տեսանյութեր %d ժամվա:
+ Ընդմիջեք:"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d դիտումներ</item>
+        <item quantity="one">%1$d դիտում</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Ջնջե՞լ %d ընտրված ծրագրերը:</item>
+        <item quantity="one">Ջնջե՞լ %d ընտրված ծրագիրը:</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s հավելվածները</item>
+        <item quantity="one">%s հավելվածները</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Վտանգավոր հավելվածներ՝ %d</item>
+        <item quantity="one">Վտանգավոր հավելված՝ %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Տրոյաններ՝ %d</item>
+        <item quantity="one">Տրոյան՝ %d</item>
+    </plurals>
+</resources>

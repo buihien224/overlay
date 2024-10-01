@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Бір рет</item>
+        <item>Әр күн сайын</item>
+        <item>Жұмыс күндер сайын</item>
+        <item>Жұмыс күндері</item>
+        <item>Күндерді таңдау</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Бір рет</item>
+        <item>Әр күн сайын</item>
+        <item>Жұмыс күндері</item>
+        <item>Күндерді таңдау</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Барлық жазбалар</item>
+        <item>Автобастау</item>
+        <item>Өзара іске қосу</item>
+        <item>Қолданылатын рұқсаттар</item>
+        <item>Құпия әрекеттер</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Графикалық кілт</item>
+        <item>PIN</item>
+        <item>Құпиясөз</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Өлшем</item>
+        <item>Атауы</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>ГБ</item>
+        <item>МБ</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Айлық жоспар</item>
+        <item>Шексіз</item>
+        <item>Күндік жоспар</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Айрықша</item>
+        <item>Xiaomi Fan картасы</item>
+        <item>Xiao Tiansheng картасы</item>
+        <item>Tencent King картасы</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Айрықша</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan картасы</item>
+        <item>Tianshen картасы</item>
+        <item>Tencent картасы</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Кеше (ұялы деректер) "</item>
+        <item>"Бүгін (ұялы деректер) "</item>
+        <item>"Өткен ай (ұялы деректер) "</item>
+        <item>"Осы ай (ұялы деректер) "</item>
+        <item>"Кеше (Wi-Fi) "</item>
+        <item>"Бүгін (Wi-Fi) "</item>
+        <item>"Өткен ай (Wi-Fi) "</item>
+        <item>"Осы ай (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Кеше "</item>
+        <item>"Бүгін "</item>
+        <item>"Өткен ай "</item>
+        <item>"Осы ай "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Осы апта "</item>
+        <item>"Бүгін "</item>
+        <item>"Осы ай "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Кеше: "</item>
+        <item>"Бүгін: "</item>
+        <item>"Өткен ай: "</item>
+        <item>"Осы ай: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Осы апта: "</item>
+        <item>"Бүгін: "</item>
+        <item>"Осы ай: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Компьютерді пайдаланып, құрылғыңыздағы файлдарға қол жеткізу және өңдеу мүмкін болады.</item>
+        <item>Қолданбаны сіздің рұқсатыңызсыз құрылғыңызға орнату мүмкін болады.</item>
+        <item>Экрандағы мазмұнды қашықтан бақылай аласыз және жаза аласыз.</item>
+        <item>Құрылғыңыз туралы толық ақпаратқа қол жеткізу мүмкін болады.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Ең төмен</item>
+        <item>Төмен</item>
+        <item>Қалыпты</item>
+        <item>Жоғары</item>
+        <item>Ең жоғары сапа</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Құлыптаулы тұрғанда</item>
+        <item>Құлыптаулы тұрғанда немесе бағдарламадан шыққаннан кейін</item>
+        <item>Құлыптаулы тұрғанда немесе бағдарламадан шыққаннан кейінгі 1 минут ішінде</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Ұялы трафик "</item>
+        <item>"Wi-Fi трафигі "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Маңызды: Бірнеше жүйелік бағдарлама дұрыс істемей қалуы мүмкін.</item>
+        <item>Мәтін орналасуы, аккаунттар және мазмұн дұрыс көрсетілмеуі мүмкін.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Тариф туралы хабарлау</item>
+        <item>Ескерту және мобильді ғаламторды өшіру</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Әдепкі</item>
+        <item>Өнімділік басымдығы</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Температураны басқарудың әдепкі режимін пайдалану</item>
+        <item>Өнімділік басымдығы</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Барлық ескертпелеріңізді, соның ішінде сіздің мәтіндік хабарларыңыздың мазмұнын және басқа да жеке ақпаратты қамтуы мүмкін элементтерді оқыңыз</item>
+        <item>Кейбір қолданбалар үшін ескертпе рұқсаттарын шектеу</item>
+        <item>Ескертпелерді басуды және қолданбаларды ашуды модельдеңіз</item>
+        <item>\"Мазаламау\" режимін қосыңыз және өшіріңіз</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Қызығушылықтарыңыз бен мінез-құлқыңыз туралы білу үшін қандай қолданбаларды пайдаланатындығыңызды және оларды қаншалықты жиі пайдаланатындығыңызды біліңіз.</item>
+        <item>Оператор және тіл баптауларына, сондай-ақ басқа да мәліметтерге қол жеткізіңіз</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Расталмаған үшінші тарап қолданбалары көптеген мәселелерді тудыруы мүмкін және жүйе тұрақтылығын төмендетуі мүмкін.</item>
+        <item>Кейбір үшінші тарап қолданбаларында сіздің жеке деректеріңізге қауіп төндіретін зиянды бағдарламалар болуы мүмкін.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Ішкі жады</item>
+        <item>Сыртқы жады</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Әрқашан</item>
+        <item>Біріңғай жағдайда ғана</item>
+        <item>Ешқашан</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Трафик</item>
+        <item>Теңгерім</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Қолданба атауы бойынша сұрыптау</item>
+        <item>Ең соңғы пайдаланылғаны бойынша сұрыптау</item>
+        <item>Пайдаланылған жады бойынша сұрыптау</item>
+        <item>Орнату уақыты бойынша сұрыптау</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Қолданба атауы</item>
+        <item>Жақында пайдаланылған</item>
+        <item>Пайдаланылған сақтау орны</item>
+        <item>Орнату уақыты</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Өшіру және ескерту</item>
+        <item>Тек қана ескерту</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Орнату дереккөзі</item>
+        <item>Орнату уақыты</item>
+        <item>Соңғы жаңарту көзі</item>
+        <item>Соңғы жаңарту уақыты</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Айлық тарифтік жоспар</item>
+        <item>Күнделікті тарифтік жоспар</item>
+        <item>Шексіз тариф</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Ұялы трафик "</item>
+        <item>"Wi-Fi трафигі "</item>
+    </string-array>
+</resources>

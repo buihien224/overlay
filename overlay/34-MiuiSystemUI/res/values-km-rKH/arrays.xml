@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>នេះគឺជាមាតិកាដែលបានណែនាំ</item>
-        <item>នេះគឺជាការផ្សាយពាណិជ្ជកម្ម។</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" |  សកម្ម"</item>
+        <item>" |  សកម្ម (មេឌៀ)"</item>
+        <item>" |  សកម្ម (ទូរស័ព្ទ)"</item>
     </string-array>
 </resources>

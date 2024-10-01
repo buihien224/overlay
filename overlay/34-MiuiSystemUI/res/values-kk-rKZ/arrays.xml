@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>Бұл ұсынылған мазмұн.</item>
-        <item>Бұл жарнама.</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Белсенді"</item>
+        <item>" | Белсенді (медиа)"</item>
+        <item>" | Белсенді (қоңырау)"</item>
     </string-array>
 </resources>

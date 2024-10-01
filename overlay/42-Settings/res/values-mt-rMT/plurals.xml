@@ -7,10 +7,10 @@
         <item quantity="many">(-il) siegħa ilu</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">(-il) siegħa ilu</item>
-        <item quantity="one">Siegħa ilu</item>
-        <item quantity="few">Sigħat ilu</item>
-        <item quantity="many">(-il) siegħa ilu</item>
+        <item quantity="other">Siegħa %d ilu</item>
+        <item quantity="one">Siegħa %d ilu</item>
+        <item quantity="few">Siegħa %d ilu</item>
+        <item quantity="many">Siegħa %d ilu</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nofs siegħa ilu</item>
@@ -19,10 +19,10 @@
         <item quantity="many">Nofs siegħa ilu</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Siegħa oħra</item>
-        <item quantity="one">Siegħa oħra</item>
-        <item quantity="few">Siegħa oħra</item>
-        <item quantity="many">Siegħa oħra</item>
+        <item quantity="other">Fi żmien siegħa %d</item>
+        <item quantity="one">Fi żmien siegħa %d</item>
+        <item quantity="few">Fi żmien siegħa %d</item>
+        <item quantity="many">Fi żmien siegħa %d</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Nofs siegħa oħra</item>
@@ -37,10 +37,10 @@
         <item quantity="many">Minnufih</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d(-il) min oħra</item>
-        <item quantity="one">min oħra</item>
-        <item quantity="few">%d min oħra</item>
-        <item quantity="many">%d(-il) min oħra</item>
+        <item quantity="other">Fi żmien %d minuta</item>
+        <item quantity="one">Fi żmien minuta %d</item>
+        <item quantity="few">Fi żmien %d minuti</item>
+        <item quantity="many">Fi żmien %d-il minuta</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Issa</item>
@@ -49,70 +49,10 @@
         <item quantity="many">Issa</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d(-il) min ilu</item>
-        <item quantity="one">Min ilu</item>
-        <item quantity="few">%d min ilu</item>
-        <item quantity="many">%d(-il) min ilu</item>
-    </plurals>
-    <plurals name="accessibility_usage_summary">
-        <item quantity="other">%1$d(-il) app għandhom aċċess sħiħ għat-tagħmir tiegħek</item>
-        <item quantity="one">App 1 għandha aċċess sħiħ għat-tagħmir tiegħek</item>
-        <item quantity="few">%1$d apps għandhom aċċess sħiħ għat-tagħmir tiegħek</item>
-        <item quantity="many">%1$d(-il) app għandhom aċċess sħiħ għat-tagħmir tiegħek</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_delay_unit_second">
-        <item quantity="other">%1$s(-il) sekonda</item>
-        <item quantity="one">Sekonda %1$s</item>
-        <item quantity="few">%1$s sekondi</item>
-        <item quantity="many">%1$s(-il) sekonda</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Dewmien twil (%1$s(-il) sekonda)</item>
-        <item quantity="one">Dewmien twil (sekonda %1$s)</item>
-        <item quantity="few">Dewmien twil (%1$s sekondi)</item>
-        <item quantity="many">Dewmien twil (%1$s(-il) sekonda)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
-        <item quantity="other">Medja (%1$s(-il) sekonda)</item>
-        <item quantity="one">Medja (sekonda %1$s)</item>
-        <item quantity="few">Medja (%1$s sekondi)</item>
-        <item quantity="many">Medja (%1$s(-il) sekonda)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Dewmien qasir (%1$s(-il) sekonda)</item>
-        <item quantity="one">Dewmien qasir (sekonda %1$s)</item>
-        <item quantity="few">Dewmien qasir (%1$s sekondi)</item>
-        <item quantity="many">Dewmien qasir (%1$s(-il) sekonda)</item>
-    </plurals>
-    <plurals name="app_launch_supported_links_title">
-        <item quantity="other">%d link kompatibbli</item>
-        <item quantity="one">Link kompatibbli %d</item>
-        <item quantity="few">%d links kompatibbli</item>
-        <item quantity="many">%d-il link kompatibbli</item>
-    </plurals>
-    <plurals name="app_launch_verified_links_message">
-        <item quantity="other">"Dal-links ivverifikati u se jinfetħu awtomatikament f'dil-app."</item>
-        <item quantity="one">"Dil-link ivverifikata u se tinfetaħ awtomatikament f'dil-app."</item>
-        <item quantity="few">"Dal-links ivverifikati u se jinfetħu awtomatikament f'dil-app."</item>
-        <item quantity="many">"Dal-links ivverifikati u se jinfetħu awtomatikament f'dil-app."</item>
-    </plurals>
-    <plurals name="app_launch_verified_links_title">
-        <item quantity="other">%d link ivverifikat</item>
-        <item quantity="one">Link ivverifikat %d</item>
-        <item quantity="few">%d links ivverifikati</item>
-        <item quantity="many">%d-il link ivverifikat</item>
-    </plurals>
-    <plurals name="app_link_open_always_summary">
-        <item quantity="other">L-app qalet li qed timmaniġġja %d(-il) ħolqa</item>
-        <item quantity="one">L-app qalet li qed timmaniġġja ħolqa %d</item>
-        <item quantity="few">L-app qalet li qed timmaniġġja %d ħoloq</item>
-        <item quantity="many">L-app qalet li qed timmaniġġja %d(-il) ħolqa</item>
-    </plurals>
-    <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Mitfija għal %d (-il) app</item>
-        <item quantity="one">Mitfija għal app waħda %d</item>
-        <item quantity="few">Mitfija għal %d apps</item>
-        <item quantity="many">Mitfija għal %d (-il) app</item>
+        <item quantity="other">%d minuta ilu</item>
+        <item quantity="one">Minuta %d ilu</item>
+        <item quantity="few">%d minuti ilu</item>
+        <item quantity="many">%d-il minuta ilu</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Qatt tiddiżattiva għal %d app</item>
@@ -132,48 +72,6 @@
         <item quantity="few">%d apps huma permessi jawto-jibdew</item>
         <item quantity="many">%d-il app huma permessi jawto-jibdew</item>
     </plurals>
-    <plurals name="autofill_passwords_count">
-        <item quantity="other">%1$d password</item>
-        <item quantity="one">Password %1$d</item>
-        <item quantity="few">%1$d passwords</item>
-        <item quantity="many">%1$d-il password</item>
-    </plurals>
-    <plurals name="battery_manager_app_restricted">
-        <item quantity="other">%1$d(-il) app limitati</item>
-        <item quantity="one">App %1$d limitata</item>
-        <item quantity="few">%1$d apps limitati</item>
-        <item quantity="many">%1$d(-il) app limitati</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">Trid tillimita %1$d(-il) app?</item>
-        <item quantity="one">Trid tillimita app?</item>
-        <item quantity="few">Trid tillimita %1$d apps?</item>
-        <item quantity="many">Trid tillimita %1$d(-il) app?</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">Dawn l-apps ma jistgħux jaħdmu fl-isfond</item>
-        <item quantity="one">Din l-app ma tistax taħdem fl-isfond</item>
-        <item quantity="few">Dawn l-apps ma jistgħux jaħdmu fl-isfond</item>
-        <item quantity="many">Dawn l-apps ma jistgħux jaħdmu fl-isfond</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_handled_title">
-        <item quantity="other">%2$d riċentement limitati</item>
-        <item quantity="one">%1$s riċentement limitata</item>
-        <item quantity="few">%2$d riċentement limitati</item>
-        <item quantity="many">%2$d riċentement limitati</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d(-il) app qed jużaw ħafna batterija fl-isfond</item>
-        <item quantity="one">%1$s qed tuża ħafna batterija fl-isfond</item>
-        <item quantity="few">%2$d apps qed jużaw ħafna batterija fl-isfond</item>
-        <item quantity="many">%2$d(-il) app qed jużaw ħafna batterija fl-isfond</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_title">
-        <item quantity="other">Illimita %1$d(-il) app</item>
-        <item quantity="one">Illimita app %1$d</item>
-        <item quantity="few">Illimita %1$d apps</item>
-        <item quantity="many">Illimita %1$d(-il) app</item>
-    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d(-il) app jistgħu jaqbdu man-netwerk</item>
         <item quantity="one">"App (%d) tista' taqbad man-netwerk"</item>
@@ -186,12 +84,6 @@
         <item quantity="few">%d apps ma jistgħux jaqbdu man-netwerk</item>
         <item quantity="many">%d(-il) app ma jistgħux jaqbdu man-netwerk</item>
     </plurals>
-    <plurals name="billing_cycle_days_left">
-        <item quantity="other">Fadallek %d(-il) jum</item>
-        <item quantity="one">Fadallek jum %d</item>
-        <item quantity="few">Fadallek %d ijiem</item>
-        <item quantity="many">Fadallek %d(-il) jum</item>
-    </plurals>
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d(-il) tagħmir disponibbli</item>
         <item quantity="one">Tagħmir %d disponibbli</item>
@@ -199,88 +91,28 @@
         <item quantity="many">%d(-il) tagħmir disponibbli</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
-        <item quantity="other">Kull %d sekondi</item>
+        <item quantity="other">Kull %d sekonda</item>
         <item quantity="one">Kull %d sekonda</item>
         <item quantity="few">Kull (-il) %d sekonda</item>
         <item quantity="many">Kull %d sekonda</item>
     </plurals>
     <plurals name="connected_devices_number">
-        <item quantity="other">%d tagħmir</item>
+        <item quantity="other">%d-il tagħmir</item>
         <item quantity="one">Tagħmir %d</item>
         <item quantity="few">%d tagħmir</item>
         <item quantity="many">%d-il tagħmir</item>
-    </plurals>
-    <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d (-il) app jistgħu jużaw kemm iridu dejta meta l-Ekonomizzatur tad-Dejta jkun mixgħul</item>
-        <item quantity="one">"App waħda tista' tuża kemm trid dejta meta l-Ekonomizzatur tad-Dejta jkun mixgħul"</item>
-        <item quantity="few">%1$d apps jistgħu jużaw kemm iridu dejta meta l-Ekonomizzatur tad-Dejta jkun mixgħul</item>
-        <item quantity="many">%1$d (-il) app jistgħu jużaw kemm iridu dejta meta l-Ekonomizzatur tad-Dejta jkun mixgħul</item>
-    </plurals>
-    <plurals name="default_camera_app_title">
-        <item quantity="other">Apps tal-kamera</item>
-        <item quantity="one">App tal-kamera</item>
-        <item quantity="few">Apps tal-kamera</item>
-        <item quantity="many">Apps tal-kamera</item>
-    </plurals>
-    <plurals name="default_email_app_title">
-        <item quantity="other">Apps tal-emejl</item>
-        <item quantity="one">App tal-emejl</item>
-        <item quantity="few">Apps tal-emejl</item>
-        <item quantity="many">Apps tal-emejl</item>
-    </plurals>
-    <plurals name="default_phone_app_title">
-        <item quantity="other">Apps tat-telefown</item>
-        <item quantity="one">App tat-telefown</item>
-        <item quantity="few">Apps tat-telefown</item>
-        <item quantity="many">Apps tat-telefown</item>
-    </plurals>
-    <plurals name="deleted_channels">
-        <item quantity="other">%d (-il) kategorija mħassra</item>
-        <item quantity="one">Kategorija waħda %d mħassra</item>
-        <item quantity="few">%d kategoriji mħassra</item>
-        <item quantity="many">%d (-il) kategorija mħassra</item>
-    </plurals>
-    <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Trid tneħħi l-lingwi magħżula?</item>
-        <item quantity="one">Trid tneħħi l-lingwa magħżula?</item>
-        <item quantity="few">Trid tneħħi l-lingwi magħżula?</item>
-        <item quantity="many">Trid tneħħi l-lingwi magħżula?</item>
-    </plurals>
-    <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">"%d (-il) app jaħdmu ma' dal-ħoloq"</item>
-        <item quantity="one">"App waħda taħdem ma' dal-ħoloq"</item>
-        <item quantity="few">"%d apps jaħdmu ma' dal-ħoloq"</item>
-        <item quantity="many">"%d (-il) app jaħdmu ma' dal-ħoloq"</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_ca_certs">
-        <item quantity="other">Minimu %d (-il) ċertifikat CA</item>
-        <item quantity="one">Minimu ċertifikat CA wieħed %d</item>
-        <item quantity="few">Minimu %d ċertifikati CA</item>
-        <item quantity="many">Minimu %d (-il) ċertifikat CA</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_failed_password_wipe">
-        <item quantity="other">%d (-il) darba</item>
-        <item quantity="one">Darba %d</item>
-        <item quantity="few">%d darbiet</item>
-        <item quantity="many">%d (-il) darba</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d (-il) app</item>
-        <item quantity="one">App %d</item>
-        <item quantity="few">%d (-il) app</item>
-        <item quantity="many">%d (-il) app</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">Minimu %d (-il) app</item>
-        <item quantity="one">Minimu %d app</item>
-        <item quantity="few">Minimu %d apps</item>
-        <item quantity="many">Minimu %d (-il) app</item>
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Konnesjoni limitata għal %s(-il) app</item>
         <item quantity="one">Konnesjoni limitata għal app waħda (%s)</item>
         <item quantity="few">Konnesjoni limitata għal %s apps</item>
         <item quantity="many">Konnesjoni limitata għal %s(-il) app</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">"Stenna %d sekonda u erġa' pprova"</item>
+        <item quantity="one">"Stenna sekonda u erġa' pprova"</item>
+        <item quantity="few">"Stenna %d sekondi u erġa' pprova"</item>
+        <item quantity="many">"Stenna %d-il sekonda u erġa' pprova"</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persuna mqabbda</item>
@@ -293,12 +125,6 @@
         <item quantity="one">Nofs siegħa ilu</item>
         <item quantity="few">Nofs siegħa ilu</item>
         <item quantity="many">Nofs siegħa ilu</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%s (-il) siegħa</item>
-        <item quantity="one">siegħa</item>
-        <item quantity="few">%s sigħat</item>
-        <item quantity="many">%s (-il) siegħa</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Siegħa oħra</item>
@@ -324,83 +150,23 @@
         <item quantity="few">%d minuti oħra</item>
         <item quantity="many">%d(-il) minuta oħra</item>
     </plurals>
-    <plurals name="interact_across_profiles_number_of_connected_apps">
-        <item quantity="other">%d(-il) app marbuta</item>
-        <item quantity="one">App %d marbuta</item>
-        <item quantity="few">%d apps marbuta</item>
-        <item quantity="many">%d(-il) app marbuta</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Issa</item>
         <item quantity="one">Issa</item>
         <item quantity="few">Issa</item>
         <item quantity="many">Issa</item>
     </plurals>
-    <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d(-il) app minn %2$d għandhom aċċess għall-post fejn tinsab</item>
-        <item quantity="one">App %1$d minn %2$d għandha aċċess għall-post fejn tinsab</item>
-        <item quantity="few">%1$d apps minn %2$d għandhom aċċess għall-post fejn tinsab</item>
-        <item quantity="many">%1$d(-il) app minn %2$d għandhom aċċess għall-post fejn tinsab</item>
-    </plurals>
-    <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Mixgħul - %1$d(-il) app għandhom aċċess għall-post fejn tinsab</item>
-        <item quantity="one">Mixgħul - App %1$d għandha aċċess għall-post fejn tinsab</item>
-        <item quantity="few">Mixgħul - %1$d apps għandhom aċċess għall-post fejn tinsab</item>
-        <item quantity="many">Mixgħul - %1$d(-il) app għandhom aċċess għall-post fejn tinsab</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) ittra</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas ittra waħda</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d ittri</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) ittra</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) ittra żgħira</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas ittra żgħira waħda</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d ittri żgħar</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) ittra żgħira</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) karattru li mhux ittra</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas karattru wieħed li mhux ittra</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d karattri li mhux ittra</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) karattru li mhux ittra</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonnumerical">
-        <item quantity="other">Għandha jkollha mill-inqas %d(-il) karattru li mhux numru</item>
-        <item quantity="one">Għandha jkollha mill-inqas karattru wieħed li mhux numru</item>
-        <item quantity="few">Għandha jkollha mill-inqas %d karattri li mhux numri</item>
-        <item quantity="many">Għandha jkollha mill-inqas %d(-il) karattru li mhux numru</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) numru</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas numru wieħed</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d numri</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) numru</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) simbolu speċjali</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas simbolu speċjali wieħed</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d simboli speċjali</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) simbolu speċjali</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Jeħtieġ li jkollha mill-inqas %d (-il) ittra kbira</item>
-        <item quantity="one">Jeħtieġ li jkollha mill-inqas ittra kbira waħda</item>
-        <item quantity="few">Jeħtieġ li jkollha mill-inqas %d ittri kbar</item>
-        <item quantity="many">Jeħtieġ li jkollha mill-inqas %d (-il) ittra kbira</item>
-    </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">Għandha tkun iqsar minn %d(-il) karattru</item>
-        <item quantity="one">Għandha tkun iqsar minn karattru %d</item>
-        <item quantity="few">Għandha tkun iqsar minn %d karattri</item>
-        <item quantity="many">Għandha tkun iqsar minn %d(-il) karattru</item>
+        <item quantity="other">"Tista' ddaħħal sa %d karattru"</item>
+        <item quantity="one">"Tista' ddaħħal sa karattru %d"</item>
+        <item quantity="few">"Tista' ddaħħal sa %d karattri"</item>
+        <item quantity="many">"Tista' ddaħħal sa %d-il karattru"</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Għandha jkollha mill-inqas %d(-il) karattru</item>
-        <item quantity="one">Għandha jkollha mill-inqas karattru %d</item>
-        <item quantity="few">Għandha jkollha mill-inqas %d karattri</item>
-        <item quantity="many">Għandha jkollha mill-inqas %d(-il) karattru</item>
+        <item quantity="other">Daħħal mill-inqas %d karattru</item>
+        <item quantity="one">Daħħal mill-inqas karattru %d</item>
+        <item quantity="few">Daħħal mill-inqas %d karattri</item>
+        <item quantity="many">Daħħal mill-inqas %d-il karattru</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Il-PIN għandu jkun magħmul minn %d numru</item>
@@ -409,16 +175,16 @@
         <item quantity="many">Il-PIN għandu jkun magħmul minn %d-il numru</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">Għandu jkun iqsar minn %d(-il) numru</item>
-        <item quantity="one">Għandu jkun iqsar minn numru %d</item>
-        <item quantity="few">Għandu jkun iqsar minn %d numri</item>
-        <item quantity="many">Għandu jkun iqsar minn %d(-il) numru</item>
+        <item quantity="other">"Tista' ddaħħal sa %d numru"</item>
+        <item quantity="one">"Tista' ddaħħal sa numru %d"</item>
+        <item quantity="few">"Tista' ddaħħal sa %d numri"</item>
+        <item quantity="many">"Tista' ddaħħal sa %d-il numru"</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Il-PIN għandu jkollu mill-inqas %d(-il) numru</item>
-        <item quantity="one">Il-PIN għandu jkollu mill-inqas numru %d</item>
-        <item quantity="few">Il-PIN għandu jkollu mill-inqas %d numri</item>
-        <item quantity="many">Il-PIN għandu jkollu mill-inqas %d(-il) numru</item>
+        <item quantity="other">Daħħal mill-inqas %d numru</item>
+        <item quantity="one">Daħħal mill-inqas numru %d</item>
+        <item quantity="few">Daħħal mill-inqas %d numri</item>
+        <item quantity="many">Daħħal mill-inqas %d-il numru</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">"Qabbad mill-inqas %d tikka. Erġa' pprova."</item>
@@ -438,29 +204,17 @@
         <item quantity="few">"Stenna %d sekondi u erġa' pprova."</item>
         <item quantity="many">"Stenna %d-il sekonda u erġa' pprova."</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d(-il) app jistgħu jaqraw in-notifikazzjonijiet</item>
-        <item quantity="one">"App waħda (%d) tista' taqra n-notifikazzjonijiet"</item>
-        <item quantity="few">%d apps jistgħu jaqraw in-notifikazzjonijiet</item>
-        <item quantity="many">%d(-il) app jistgħu jaqraw in-notifikazzjonijiet</item>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
     </plurals>
-    <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d (-il) aġent tal-fiduċja mixgħula</item>
-        <item quantity="one">Aġent tal-fiduċja wieħed mixgħul</item>
-        <item quantity="few">%d aġenti tal-fiduċja mixgħula</item>
-        <item quantity="many">%d (-il) aġent tal-fiduċja mixgħula</item>
-    </plurals>
-    <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d (-il) app użaw il-memorja fl-aħħar %2$s</item>
-        <item quantity="one">App waħda użat il-memorja fl-aħħar %2$s</item>
-        <item quantity="few">%1$d apps użaw il-memorja fl-aħħar %2$s</item>
-        <item quantity="many">%1$d (-il) app użaw il-memorja fl-aħħar %2$s</item>
-    </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%s (-il) minuta</item>
-        <item quantity="one">minuta</item>
-        <item quantity="few">%s minuti</item>
-        <item quantity="many">%s (-il) minuta</item>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Mhux iktar minn %d proċess</item>
+        <item quantity="one">Mhux iktar minn proċess %d</item>
+        <item quantity="few">Mhux iktar minn %d proċessi</item>
+        <item quantity="many">Mhux iktar minn %d-il proċess</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d miżjuda</item>
@@ -480,53 +234,11 @@
         <item quantity="few">%d oġġett magħżulin</item>
         <item quantity="many">%d-il oġġett magħżula</item>
     </plurals>
-    <plurals name="mobile_network_summary_count">
-        <item quantity="other">%1$d SIM</item>
-        <item quantity="one">SIM %1$d</item>
-        <item quantity="few">%1$d SIMs</item>
-        <item quantity="many">%1$d-il SIM</item>
-    </plurals>
-    <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d (-il) limitazzjoni</item>
-        <item quantity="one">Limitazzjoni</item>
-        <item quantity="few">%1$d limitazzjonijiet</item>
-        <item quantity="many">%1$d (-il) limitazzjoni</item>
-    </plurals>
-    <plurals name="notification_group_summary">
-        <item quantity="other">%d(-il) kategorija</item>
-        <item quantity="one">Kategorija %d</item>
-        <item quantity="few">%d kategoriji</item>
-        <item quantity="many">%d(-il) kategorija</item>
-    </plurals>
-    <plurals name="notification_history_count">
-        <item quantity="other">%d(-il) notifikazzjoni</item>
-        <item quantity="one">Notifikazzjoni %d</item>
-        <item quantity="few">%d notifikazzjonijiet</item>
-        <item quantity="many">%d(-il) notifikazzjoni</item>
-    </plurals>
-    <plurals name="notification_summary">
-        <item quantity="other">Mitfija għal %d (-il) app</item>
-        <item quantity="one">Mitfija għal app waħda</item>
-        <item quantity="few">Mitfija għal %d apps</item>
-        <item quantity="many">Mitfija għal %d (-il) app</item>
-    </plurals>
-    <plurals name="notifications_categories_off">
-        <item quantity="other">%d(-il) kategorija mitfija</item>
-        <item quantity="one">Kategorija %d mitfija</item>
-        <item quantity="few">%d kategoriji mitfija</item>
-        <item quantity="many">%d(-il) kategorija mitfija</item>
-    </plurals>
-    <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d(-il) notifikazzjoni kuljum</item>
-        <item quantity="one">~notifikazzjoni %d kuljum</item>
-        <item quantity="few">~%d notifikazzjonijiet kuljum</item>
-        <item quantity="many">~%d(-il) notifikazzjoni kuljum</item>
-    </plurals>
-    <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d(-il) notifikazzjoni fil-ġimgħa</item>
-        <item quantity="one">~notifikazzjoni %d fil-gimgħa</item>
-        <item quantity="few">~%d notifikazzjonijiet fil-ġimgħa</item>
-        <item quantity="many">~%d(-il) notifikazzjoni fil-ġimgħa</item>
+    <plurals name="nrca_info">
+        <item quantity="other">Il-bidliet se jidħlu fis-seħħ %d sekonda oħra</item>
+        <item quantity="one">Il-bidliet se jidħlu fis-seħħ sekonda %d oħra</item>
+        <item quantity="few">Il-bidliet se jidħlu fis-seħħ %d sekondi oħra</item>
+        <item quantity="many">Il-bidliet se jidħlu fis-seħħ %d-il sekonda oħra</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d(-il) minuta ilu</item>
@@ -534,107 +246,11 @@
         <item quantity="few">%d minuti ilu</item>
         <item quantity="many">%d(-il) minuta ilu</item>
     </plurals>
-    <plurals name="number_of_device_admins">
-        <item quantity="other">%d (-il) app mixgħula</item>
-        <item quantity="one">App waħda %d mixgħula</item>
-        <item quantity="few">%d apps mixgħula</item>
-        <item quantity="many">%d (-il) app mixgħula</item>
-    </plurals>
-    <plurals name="number_of_urls">
-        <item quantity="other">%d URL</item>
-        <item quantity="one">URL %d</item>
-        <item quantity="few">%d URLs</item>
-        <item quantity="many">%d-il URL</item>
-    </plurals>
-    <plurals name="permission_bar_chart_label">
-        <item quantity="other">%s app</item>
-        <item quantity="one">App 1</item>
-        <item quantity="few">%s apps</item>
-        <item quantity="many">%s-il app</item>
-    </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">%d(-il) permess mogħtija</item>
-        <item quantity="one">Permess %d mogħti</item>
-        <item quantity="few">%d permessi mogħtija</item>
-        <item quantity="many">%d (-il) permess mogħtija</item>
-    </plurals>
-    <plurals name="power_high_usage_summary">
-        <item quantity="other">"%2$d qed iġibu ruħhom b'mod stramb"</item>
-        <item quantity="one">"%1$s qed iġġib ruħha b'mod stramb"</item>
-        <item quantity="few">"%2$d qed iġibu ruħhom b'mod stramb"</item>
-        <item quantity="many">"%2$d qed iġibu ruħhom b'mod stramb"</item>
-    </plurals>
-    <plurals name="power_high_usage_title">
-        <item quantity="other">Apps iniżżlu il-batterija</item>
-        <item quantity="one">%1$s qed tniżżel il-batterija</item>
-        <item quantity="few">Apps iniżżlu il-batterija</item>
-        <item quantity="many">Apps iniżżlu il-batterija</item>
-    </plurals>
-    <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d(-il) xogħol tal-istampar</item>
-        <item quantity="one">Xogħol wieħed tal-istampar</item>
-        <item quantity="few">%1$d xogħolijiet tal-istampar</item>
-        <item quantity="many">%1$d(-il) xogħol tal-istampar</item>
-    </plurals>
-    <plurals name="print_settings_summary">
-        <item quantity="other">%1$d (-il) servizz tal-istampar mixgħula</item>
-        <item quantity="one">Servizz wieħed tal-istampar mixgħul</item>
-        <item quantity="few">%1$d servizzi tal-istampar mixgħula</item>
-        <item quantity="many">%1$d (-il) servizz tal-istampar mixgħula</item>
-    </plurals>
-    <plurals name="priority_conversation_count">
-        <item quantity="other">"%d- taħdita ta' prijorità"</item>
-        <item quantity="one">"Taħdita ta' prijorità %d"</item>
-        <item quantity="few">"%d taħditiet ta' prijorità"</item>
-        <item quantity="many">"%d-il taħdita ta' prijorità"</item>
-    </plurals>
-    <plurals name="restricted_app_summary">
-        <item quantity="other">Qed jiġi limitat l-użu tal-batterija għal %1$d(-il) app</item>
-        <item quantity="one">Qed jiġi limitat l-użu tal-batterija għal app %1$d</item>
-        <item quantity="few">Qed jiġi limitat l-użu tal-batterija għal %1$d apps</item>
-        <item quantity="many">Qed jiġi limitat l-użu tal-batterija għal %1$d(-il) app</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d (-il) permess iktar</item>
-        <item quantity="one">Permess %d iktar</item>
-        <item quantity="few">%d permessi iktar</item>
-        <item quantity="many">%d (-il) permess iktar</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d(-il) permess minn %2$d mogħtija</item>
-        <item quantity="one">Permess %1$d minn %2$d mogħti</item>
-        <item quantity="few">%1$d permessi minn %2$d mogħtija</item>
-        <item quantity="many">%1$d (-il) permess minn %2$d mogħtija</item>
-    </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">Għażilt %d(-il) ħaġa</item>
         <item quantity="one">Għażilt ħaġa %d</item>
         <item quantity="few">Għażilt %d ħwejjeġ</item>
         <item quantity="many">Għażilt %d(-il) ħaġa</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%s (-il) sekonda</item>
-        <item quantity="one">sekonda</item>
-        <item quantity="few">%s sekondi</item>
-        <item quantity="many">%s (-il) sekonda</item>
-    </plurals>
-    <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">Inħolqu %1$d (-il) marka tas-swaba</item>
-        <item quantity="one">Żdieded il-marka tas-swaba</item>
-        <item quantity="few">Inħolqu %1$d marki tas-swaba</item>
-        <item quantity="many">Inħolqu %1$d (-il) marka tas-swaba</item>
-    </plurals>
-    <plurals name="see_all_apps_title">
-        <item quantity="other">Ara l-apps kollha (%1$d)</item>
-        <item quantity="one">Ara l-apps kollha</item>
-        <item quantity="few">Ara l-apps kollha (%1$d)</item>
-        <item quantity="many">Ara l-apps kollha (%1$d)</item>
-    </plurals>
-    <plurals name="settings_suggestion_header_summary_hidden_items">
-        <item quantity="other">Uri %d(-il) ħaġa moħbija</item>
-        <item quantity="one">Uri l-ħaġa (%d) moħbija</item>
-        <item quantity="few">Uri %d affarijiet moħbija</item>
-        <item quantity="many">Uri %d(-il) ħaġa moħbija</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Int qiegħed %1$d pass 'il bogħod milli tidħol fis-CIT."</item>
@@ -643,74 +259,22 @@
         <item quantity="many">"Int qiegħed %1$d-il pass 'il bogħod milli tidħol fis-CIT."</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">"Int %1$d (-il) pass 'il bogħod milli tkun żviluppatur."</item>
-        <item quantity="one">"Int pass %1$d 'il bogħod milli tkun żviluppatur."</item>
-        <item quantity="few">"Int %1$d passi 'l bogħod milli tkun żviluppatur."</item>
-        <item quantity="many">"Int %1$d (-il) pass 'il bogħod milli tkun żviluppatur."</item>
-    </plurals>
-    <plurals name="show_number_hearingaid_count">
-        <item quantity="other">%1$d(-il) apparat tas-smiegħ merfugħa</item>
-        <item quantity="one">Apparat tas-smiegħ %1$d merfugħ</item>
-        <item quantity="few">%1$d apparati tas-smiegħ merfugħha</item>
-        <item quantity="many">%1$d(-il) apparat tas-smiegħ merfugħa</item>
+        <item quantity="other">"Tinsab %1$d pass 'il bogħod milli ssir żviluppatur."</item>
+        <item quantity="one">"Tinsab pass %1$d 'il bogħod milli ssir żviluppatur."</item>
+        <item quantity="few">"Tinsab %1$d passi 'l bogħod milli ssir żviluppatur."</item>
+        <item quantity="many">"Tinsab %1$d-il pass 'il bogħod milli ssir żviluppatur."</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"Tinsab %1$d(-il) pass 'il bogħod milli tiftaħ l-informazzjoni dwar it-tagħmir."</item>
+        <item quantity="other">"You're %1$d steps away from opening device info."</item>
         <item quantity="one">"Tinsab pass %1$d 'il bogħod milli tiftaħ l-informazzjoni dwar it-tagħmir."</item>
-        <item quantity="few">"Tinsab %1$d passi 'l bogħod milli tiftaħ l-informazzjoni dwar it-tagħmir."</item>
-        <item quantity="many">"Tinsab %1$d(-il) pass 'il bogħod milli tiftaħ l-informazzjoni dwar it-tagħmir."</item>
+        <item quantity="few">"You're %1$d steps away from opening device info."</item>
+        <item quantity="many">"You're %1$d steps away from opening device info."</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">"Int qiegħed %1$d pass 'il bogħod milli tirraporta bug."</item>
         <item quantity="one">"Int qiegħed pass %1$d 'il bogħod milli tirraporta bug."</item>
         <item quantity="few">"Int qiegħed %1$d passi 'l bogħod milli tirraporta bug."</item>
         <item quantity="many">"Int qiegħed %1$d-il pass 'il bogħod milli tirraporta bug."</item>
-    </plurals>
-    <plurals name="special_access_summary">
-        <item quantity="other">%d (-il) app jistgħu jużaw dejta kemm iridu</item>
-        <item quantity="one">"App waħda tista' tuża dejta kemm trid"</item>
-        <item quantity="few">%d apps jistgħu jużaw dejta kemm iridu</item>
-        <item quantity="many">%d (-il) app jistgħu jużaw dejta kemm iridu</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_dialog_title">
-        <item quantity="other">Afda jew neħħi ċertifikati</item>
-        <item quantity="one">Afda jew neħħi ċertifikat</item>
-        <item quantity="few">Afda jew neħħi ċertifikati</item>
-        <item quantity="many">Afda jew neħħi ċertifikati</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s installat awtoritajiet taċ-ċertifikati fuq il-profil tax-xogħol tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa tax-xogħol.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="one">"%s installat awtorità taċ-ċertifikati fuq il-profil tax-xogħol tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa tax-xogħol.
-
-Għal iktar informazzjoni dwar dan iċ-ċertifikat, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="few">"%s installat awtoritajiet taċ-ċertifikati fuq il-profil tax-xogħol tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa tax-xogħol.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="many">"%s installat awtoritajiet taċ-ċertifikati fuq il-profil tax-xogħol tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa tax-xogħol.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s installat awtoritajiet taċ-ċertifikati fuq it-tagħmir tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa fuq dat-tagħmir.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="one">"%s installat awtorità taċ-ċertifikati fuq it-tagħmir tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa fuq dat-tagħmir.
-
-Għal iktar informazzjoni dwar dan iċ-ċertifikat, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="few">"%s installat awtoritajiet taċ-ċertifikati fuq it-tagħmir tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa fuq dat-tagħmir.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-        <item quantity="many">"%s installat awtoritajiet taċ-ċertifikati fuq it-tagħmir tiegħek, u dil-ħaġa jaf tħallihom jgħassulek l-attività tan-netwerk, inklużi l-emejls, apps u s-siti mħarsa fuq dat-tagħmir.
-
-Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur tiegħek."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_settings_button">
-        <item quantity="other">Iċċekja ċ-ċertifikati</item>
-        <item quantity="one">Iċċekja ċ-ċertifikat</item>
-        <item quantity="few">Iċċekja ċ-ċertifikati</item>
-        <item quantity="many">Iċċekja ċ-ċertifikati</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d app ma jistgħux juru n-notifikazzjonijiet</item>
@@ -724,35 +288,41 @@ Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur
         <item quantity="few">%d apps jistgħu juru n-notifikazzjonijiet</item>
         <item quantity="many">%d-il app jistgħu juru n-notifikazzjonijiet</item>
     </plurals>
-    <plurals name="suggestions_collapsed_summary">
-        <item quantity="other">+%1$d(-il) suġġeriment</item>
-        <item quantity="one">+suġġeriment wieħed</item>
-        <item quantity="few">+%1$d suġġerimenti</item>
-        <item quantity="many">+%1$d(-il) suġġeriment</item>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Wara %d minuta</item>
+        <item quantity="one">Wara minuta %d</item>
+        <item quantity="few">Wara %d minuti</item>
+        <item quantity="many">Wara %d-il minuta</item>
     </plurals>
-    <plurals name="suggestions_collapsed_title">
-        <item quantity="other">%1$d(-il) suġġeriment</item>
-        <item quantity="one">suġġeriment</item>
-        <item quantity="few">%1$d suġġerimenti</item>
-        <item quantity="many">%1$d(-il) suġġeriment</item>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">"Kampjun ta' %d bit"</item>
+        <item quantity="one">"Kampjun ta' bit %d"</item>
+        <item quantity="few">"Kampjun ta' %d bits"</item>
+        <item quantity="many">"Kampjun ta' %d-il bit"</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d siegħa</item>
+        <item quantity="one">Siegħa %d</item>
+        <item quantity="few">%d sigħat</item>
+        <item quantity="many">%d-il siegħa</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">Minuta %d</item>
+        <item quantity="few">%d minuti</item>
+        <item quantity="many">%d-il minuta</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">Sekonda %d</item>
+        <item quantity="few">%d sekondi</item>
+        <item quantity="many">%d-il sekonda</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">"Irċievi twissija meta waħda mill-kuffji tiegħek tkun 'il bogħod minn widintek jew miċ-ċarġer tagħha għal iktar minn %d(-il) minuta"</item>
         <item quantity="one">"Irċievi twissija meta waħda mill-kuffji tiegħek tkun 'il bogħod minn widintek jew miċ-ċarġer tagħha għal iktar minn minuta %d"</item>
         <item quantity="few">"Irċievi twissija meta waħda mill-kuffji tiegħek tkun 'il bogħod minn widintek jew miċ-ċarġer tagħha għal iktar minn %d minuti"</item>
         <item quantity="many">"Irċievi twissija meta waħda mill-kuffji tiegħek tkun 'il bogħod minn widintek jew miċ-ċarġer tagħha għal iktar minn %d(-il) minuta"</item>
-    </plurals>
-    <plurals name="unused_apps_summary">
-        <item quantity="other">%d app mhux użata</item>
-        <item quantity="one">App %d mhux użata</item>
-        <item quantity="few">%d apps mhux użati</item>
-        <item quantity="many">%d-il app mhux użata</item>
-    </plurals>
-    <plurals name="uri_permissions_text">
-        <item quantity="other">%d(-il) ħaġa</item>
-        <item quantity="one">Ħaġa 1</item>
-        <item quantity="few">%d affarijiet</item>
-        <item quantity="many">%d(-il) ħaġa</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Miftuħ %d drabi</item>
@@ -797,7 +367,7 @@ Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur
         <item quantity="many">" -il sgħ"</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d min</item>
+        <item quantity="other">%d-il min</item>
         <item quantity="one">min %d</item>
         <item quantity="few">%d min</item>
         <item quantity="many">%d-il min</item>
@@ -862,82 +432,10 @@ Għal iktar informazzjoni dwar dawn iċ-ċertifikati, ikkuntatja l-amministratur
         <item quantity="few">%d riskji misjuba</item>
         <item quantity="many">%d-il riskju misjub</item>
     </plurals>
-    <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d(-il) netwerk</item>
-        <item quantity="one">Netwerk</item>
-        <item quantity="few">%d netwerks</item>
-        <item quantity="many">%d(-il) netwerk</item>
-    </plurals>
-    <plurals name="wifi_saved_all_access_points_summary">
-        <item quantity="other">%d(-il) netwerk u abbonament</item>
-        <item quantity="one">Netwerk u abbonament wieħed</item>
-        <item quantity="few">%d netwerks u abbonamenti</item>
-        <item quantity="many">%d(-il) netwerk u abbonament</item>
-    </plurals>
-    <plurals name="wifi_saved_passpoint_access_points_summary">
-        <item quantity="other">%d(-il) abbonament</item>
-        <item quantity="one">Abbonament 1</item>
-        <item quantity="few">%d abbonamenti</item>
-        <item quantity="many">%d(-il) abbonament</item>
-    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Qsamt %d netwerk mal-oħrajn</item>
         <item quantity="one">Qsamt netwerk %d mal-oħrajn</item>
         <item quantity="few">Qsamt %d netwerks mal-oħrajn</item>
         <item quantity="many">Qsamt %d-il netwerk mal-oħrajn</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d(-il) tagħmir imqabbda</item>
-        <item quantity="one">Tagħmir imqabbad (%1$d)</item>
-        <item quantity="few">%1$d tagħmir imqabbda</item>
-        <item quantity="many">%1$d(-il) tagħmir imqabbda</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">Il-PIN tas-SIM mhux tajjeb - fadallek %d provi oħra.</item>
-        <item quantity="one">Il-PIN tas-SIM mhux tajjeb - fadallek %d provi oħra qabel jeħtieġlek tikkuntattja l-operatur tiegħek biex tiftaħ.</item>
-        <item quantity="few">Il-PIN tas-SIM mhux tajjeb - fadallek %d provi oħra.</item>
-        <item quantity="many">Il-PIN tas-SIM mhux tajjeb - fadallek %d provi oħra.</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">"Ibdel biss għal alarms għal %1$d (-il) siegħa (sa' %2$s"</item>
-        <item quantity="one">"Ibdel biss għal alarms għal siegħ sa' %2$s"</item>
-        <item quantity="few">"Ibdel biss għal alarms għal %1$d sigħat (sa' %2$s"</item>
-        <item quantity="many">"Ibdel biss għal alarms għal %1$d (-il) siegħa (sa' %2$s"</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">"Ibdel biss għal alarms għal %1$d (-il) minuta (sa' %2$s)"</item>
-        <item quantity="one">"Ibdel biss għal alarms għal minuta sa' %2$s"</item>
-        <item quantity="few">"Ibdel biss għal alarms għal %1$d minuti (sa' %2$s)"</item>
-        <item quantity="many">"Ibdel biss għal alarms għal %1$d (-il) minuta (sa' %2$s)"</item>
-    </plurals>
-    <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d(-il) regola awtomatika mixgħula</item>
-        <item quantity="one">Regola awtomatika waħda mixgħula</item>
-        <item quantity="few">%d regoli awtomatiċi mixgħula</item>
-        <item quantity="many">%d(-il) regola awtomatika mixgħula</item>
-    </plurals>
-    <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d(-il) regola jistgħu jixgħeluha awtomatikament</item>
-        <item quantity="one">"Regola waħda tista' tixgħelha awtomatikament"</item>
-        <item quantity="few">%d regoli jistgħu jixgħeluha awtomatikament</item>
-        <item quantity="many">%d(-il) regola jistgħu jixgħeluha awtomatikament</item>
-    </plurals>
-    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">%d oħra</item>
-        <item quantity="one">1 ieħor</item>
-        <item quantity="few">%d oħra</item>
-        <item quantity="many">%d oħra</item>
-    </plurals>
-    <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">%s jistgħu jtellfuk</item>
-        <item quantity="one">"%s tista' ttellfek"</item>
-        <item quantity="few">%s jistgħu jtellfuk</item>
-        <item quantity="many">%s jistgħu jtellfuk</item>
-    </plurals>
-    <plurals name="zen_mode_other_sounds_summary">
-        <item quantity="other">%s jistgħu jtellfuk</item>
-        <item quantity="one">"%s tista' ttellfek"</item>
-        <item quantity="few">%s jistgħu jtellfuk</item>
-        <item quantity="many">%s jistgħu jtellfuk</item>
     </plurals>
 </resources>

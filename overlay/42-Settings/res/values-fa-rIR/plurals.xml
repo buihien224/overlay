@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">بلافاصله</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">هرگز برای %d برنامه غیرفعال نشود</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">محدود کردن اتصال برای %s برنامه</item>
         <item quantity="one">محدود کردن اتصال برای %s برنامه</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d ثانیه صبر کنید و دوباره امتحان کنید</item>
+        <item quantity="one">%d ثانیه صبر کنید و دوباره امتحان کنید</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d نفر وصل شدند</item>
@@ -132,6 +136,10 @@
         <item quantity="other">به مدت %d ثانیه صبر کرده و دوباره تلاش کنید.</item>
         <item quantity="one">به مدت %d ثانیه صبر کرده و دوباره تلاش کنید.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">حداکثر %d فرآیند</item>
+        <item quantity="one">حداکثر %d فرآیند</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d مورد افزوده شد</item>
         <item quantity="one">%d مورد افزوده شد</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">تغییرات تا %d ثانیه دیگر به‌کار برده خواهند شد</item>
+        <item quantity="one">تغییرات تا %d ثانیه دیگر به‌کار برده خواهند شد</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">شما %1$d گام با ورود به CIT فاصله دارید.</item>
         <item quantity="one">شما %1$d گام با ورود به CIT فاصله دارید.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">شما %1$d گام دیگر تا توسعه دهنده شدن فاصله دارید.</item>
+        <item quantity="one">شما %1$d گام دیگر تا توسعه دهنده شدن فاصله دارید.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">شما %1$d گام تا باز شدن اطلاعات دستگاه فاصله دارید.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d برنامه می‌توانند اعلان‌ها را نمایش دهند</item>
         <item quantity="one">%d برنامه می‌تواند اعلان‌ها را نمایش دهد</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">پس از %d دقیقه</item>
+        <item quantity="one">پس از %d دقیقه</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d بیت/نمونه</item>
+        <item quantity="one">%d بیت/نمونه</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">دریافت هشدار در صورتی که یکی از هدفون‌ها از گوش شما یا جعبه شارژ آن بیش از %d دقیقه دور باشد</item>
@@ -234,7 +270,7 @@
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">روزهای هفته: %d دقیقه</item>
-        <item quantity="one">روزهای کاری: %d دقیقه</item>
+        <item quantity="one">روزهای هفته: %d دقیقه</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ساعت"</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d شبکه هم‌رسانی شد</item>
         <item quantity="one">%d شبکه هم‌رسانی شد</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d دستگاه وصل است</item>
-        <item quantity="one">%1$d دستگاه وصل است</item>
     </plurals>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">1 ঘণ্টা পূৰ্বে</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ঘণ্টা পূৰ্বে</item>
-        <item quantity="one">1 ঘণ্টা পূৰ্বে</item>
+        <item quantity="other">%d ঘণ্টাৰ পূৰ্বে</item>
+        <item quantity="one">%d ঘণ্টাৰ পূৰ্বে</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">আধা ঘণ্টা পূৰ্বে</item>
         <item quantity="one">আধা ঘণ্টা পূৰ্বে</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 ঘন্টাত</item>
-        <item quantity="one">1 ঘন্টাত</item>
+        <item quantity="other">%d ঘণ্টাত</item>
+        <item quantity="one">%d ঘণ্টাত</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">আধা ঘণ্টাত</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d মিনিটত</item>
-        <item quantity="one">1 মিনিটত</item>
+        <item quantity="one">%d মিনিটত</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">এইমাত্ৰ</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d মিনিট পূৰ্বে</item>
-        <item quantity="one">1 মিনিট পূৰ্বে</item>
+        <item quantity="one">%d মিনিট পূৰ্বে</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d টা এপৰ বাবে কেতিয়াও অক্ষম নকৰিব</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s টা এপৰ সংযোগ প্ৰতিবন্ধিত কৰা হৈছে</item>
         <item quantity="one">%s টা এপৰ সংযোগ প্ৰতিবন্ধিত কৰা হৈছে</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d ছেকেণ্ড অপেক্ষা আৰু পুনৰ চেষ্টা কৰক</item>
+        <item quantity="one">%d ছেকেণ্ড অপেক্ষা আৰু পুনৰ চেষ্টা কৰক</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d জন ব্যক্তি সংযোজিত</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d ছেকেণ্ড অপেক্ষা আৰু পুনৰ চেষ্টা কৰক।</item>
         <item quantity="one">%d ছেকেণ্ড অপেক্ষা আৰু পুনৰ চেষ্টা কৰক।</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">অতি বেছি %d টা প্ৰক্ৰিয়া</item>
+        <item quantity="one">অতি বেছি %d টা প্ৰক্ৰিয়া</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">"%d যোগ কৰা হ'ল"</item>
         <item quantity="one">"%d যোগ কৰা হ'ল"</item>
@@ -144,6 +152,10 @@
         <item quantity="other">"%d টা আইটেম চয়ন কৰা হ'ল"</item>
         <item quantity="one">"%d টা আইটেম চয়ন কৰা হ'ল"</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">"পৰিৱৰ্তনসমূহ %d ছেকেণ্ডত প্ৰয়োগ কৰা হ'ব"</item>
+        <item quantity="one">"পৰিৱৰ্তনসমূহ %d ছেকেণ্ডত প্ৰয়োগ কৰা হ'ব"</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d মিনিট পূৰ্বে</item>
         <item quantity="one">1 মিনিট পূৰ্বে</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">আপুনি CITত প্ৰৱেশ কৰাৰ পৰা %1$d টা পদক্ষেপ আঁতৰত আছে।</item>
         <item quantity="one">আপুনি CITত প্ৰৱেশ কৰাৰ পৰা %1$d টা পদক্ষেপ আঁতৰত আছে।</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"আপুনি এতিয়া এজন ডেভেল'পাৰ হোৱাৰ পৰা %1$d টা পদক্ষেপ দূৰত।"</item>
+        <item quantity="one">"আপুনি এতিয়া এজন ডেভেল'পাৰ হোৱাৰ পৰা %1$d টা পদক্ষেপ দূৰত।"</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">আপুনি ডিভাইচ তথ্য খোলাৰ পৰা %1$d টা পদক্ষেপ আঁতৰত আছে।</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d টা এপে অধিসূচনা দেখুৱাব পাৰে</item>
         <item quantity="one">%d টা এপে অধিসূচনা দেখুৱাব পাৰে</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d মিনিটৰ পিছত</item>
+        <item quantity="one">%d মিনিটৰ পিছত</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/নমুনা</item>
+        <item quantity="one">%d bit/নমুনা</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ঘণ্টা</item>
+        <item quantity="one">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">%d মিনিট</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d ছেকেণ্ড</item>
+        <item quantity="one">%d ছেকেণ্ড</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">ইয়েৰফোনৰ যিকোনো এটা আপোনাৰ কাণ বা চাৰ্জিং কেছৰ পৰা %d মিনিটতকৈ অধিক সময়ৰ বাবে দূৰত থাকিলে এটা এলাৰ্ট প্ৰাপ্ত কৰক</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d টা নেটৱৰ্ক ভাগ-বতৰা কৰিলে</item>
         <item quantity="one">%d টা নেটৱৰ্ক ভাগ-বতৰা কৰিলে</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d টা ডিভাইচ সংযোজিত</item>
-        <item quantity="one">%1$d টা ডিভাইচ সংযোজিত</item>
     </plurals>
 </resources>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Bir marta</item>
+        <item>Har kun</item>
+        <item>Rasmiy ish kunlari</item>
+        <item>Hafta kunlari</item>
+        <item>Maxsus</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Bir marta</item>
+        <item>Har kun (ish kunlari o‘chiq)</item>
+        <item>Hafta kunlari</item>
+        <item>Maxsus (ish kunlari o‘chiq)</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Barcha yozuvlar</item>
+        <item>Avtomatik boshlash</item>
+        <item>Ketma-ket boshlash</item>
+        <item>Ruxsatlardan foydalanish</item>
+        <item>Maxfiy harakatlar</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Chizma</item>
+        <item>PIN</item>
+        <item>Parol</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Kattalik</item>
+        <item>Ism</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Oylik reja</item>
+        <item>Cheklanmagan</item>
+        <item>Kunlik reja</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Maxsus</item>
+        <item>Xiaomi Muxlis kartasi</item>
+        <item>Xiao Tiansheng kartasi</item>
+        <item>Tencent King kartasi</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Maxsus</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Muxlis kartasi</item>
+        <item>Tianshen kartasi</item>
+        <item>Tencent kartasi</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Kecha (mobil internet) "</item>
+        <item>"Bugun (mobil internet) "</item>
+        <item>"O‘tgan oy (mobil internet) "</item>
+        <item>"Shu oy (mobil internet) "</item>
+        <item>"Kecha (Wi-Fi) "</item>
+        <item>"Bugun (Wi-Fi) "</item>
+        <item>"O‘tgan oy (Wi-Fi) "</item>
+        <item>"Shu oy (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Kecha "</item>
+        <item>"Bugun "</item>
+        <item>"O‘tgan oy "</item>
+        <item>"Shu oy "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Shu hafta "</item>
+        <item>"Bugun "</item>
+        <item>"Shu oy "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Kecha: "</item>
+        <item>"Bugun: "</item>
+        <item>"O‘tgan oy: "</item>
+        <item>"Shu oy: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Shu hafta: "</item>
+        <item>"Bugun: "</item>
+        <item>"Shu oy: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Kompyuter yordamida qurilmangizdagi fayllarga kirish va o‘zgartirish mumkin bo‘ladi.</item>
+        <item>Ilovalarni qurilmangizga sizning ruxsatingizsiz o‘rnatishga ruxsat beriladi.</item>
+        <item>Siz masofadan turib ekrandagi tarkibingizni kuzatib, yozib olishingiz mumkin.</item>
+        <item>Qurilmangiz haqida batafsil ma’lumotga kirish mumkin bo‘ladi.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Eng past</item>
+        <item>Past</item>
+        <item>Oddiy</item>
+        <item>Baland</item>
+        <item>Eng yuqori</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Qurilma qulfda bo‘lganda</item>
+        <item>Qurilma qulflanganda yoki ilovadan chiqqanda</item>
+        <item>Qurilma qulflanganda yoki ilova yopilgandan keyin 1 daqiqadan keyin</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Trafik 3G/4G "</item>
+        <item>"Wi-Fi ishlatilishi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Muhim: Bir nechta tizim ilovalari ishlamay qolishi mumkin.</item>
+        <item>Matn joylashuvi, hisob qaydnomalari va tarkib to‘g‘ri ko‘rsatilmasligi mumkin.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Trafik haqida ogohlantirish</item>
+        <item>Ogohlantirib mobil internetni o‘chirish</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Standart</item>
+        <item>Ishlashning ustuvorligi</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Standart harorat rejimidan foydalanish</item>
+        <item>Ishlashning ustuvorligi</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Barcha bildirishnomalaringizni, jumladan, matnli xabarlaringiz tarkibini va shaxsiy ma’lumotlarga ega boshqa narsalarni o‘qing</item>
+        <item>Ba’zi bir ilovalar uchun bildirishnomalarni cheklash</item>
+        <item>Bosish bildirishnomalari va ochiq ilovalarni taqlid qiling</item>
+        <item>DND rejimini yoqish va o‘chirish</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>O‘zingizning qiziqishlaringiz va xatti-harakatngiz to‘g‘risida ma’lumotlarni qanday ilovalardan foydalanayotganingizni va ulardan qanchalik tez-tez foydalanishni bilib oling</item>
+        <item>Operatoringiz va til sozlamalariga hamda boshqa tafsilotlarga kirish</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Tasdiqlanmagan uchinchi tomon ilovalari bir nechta muammolarga olib kelishi va tizim barqarorligini pasaytirishi mumkin.</item>
+        <item>Ba’zi bir uchinchi tomon ilovalarida sizning shaxsiy ma’lumotlaringizni xavf ostiga qo‘yadigan zararli dastur bo‘lishi mumkin.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Ichki xotira</item>
+        <item>Tashqi xotira</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Har doim</item>
+        <item>Faqat istisnolar uchun</item>
+        <item>Hech qachon</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Mobil trafik</item>
+        <item>Balans</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>"Ilova nomi bo'yicha saralash"</item>
+        <item>Eng oxirgi foydalanilgani boʻyicha saralash</item>
+        <item>"Foydalanilgan xotira bo'yicha saralash"</item>
+        <item>"O'rnatish vaqti bo'yicha saralash"</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Ilova nomi</item>
+        <item>Yaqinda ishlatildi</item>
+        <item>Ishlatilgan saqlash</item>
+        <item>O‘rnatilgan vaqti</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>O‘chirish va bildirish</item>
+        <item>Bildirish</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>O‘rnatish manbasi</item>
+        <item>O‘rnatilgan vaqti</item>
+        <item>Oxirgi yangilanish manbasi</item>
+        <item>Oxirgi yangilanish vaqti</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Oylik tarif</item>
+        <item>Kunlik tarif</item>
+        <item>Cheksiz tarif</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Trafik 3G/4G "</item>
+        <item>"Wi-Fi ishlatilishi "</item>
+    </string-array>
+</resources>

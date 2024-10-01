@@ -32,25 +32,13 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>आन्तरिक उपकरण भण्डारण</item>
-        <item>हटाउन मिल्ने SD कार्ड</item>
-        <item>प्रणालीलाई निर्णय गर्न दिनुहोस्</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>स्थान</item>
-        <item>व्यक्तिगत</item>
-        <item>सन्देश पठाइदै</item>
-        <item>मिडिया</item>
-        <item>उपकरण</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>स्थान</item>
         <item>स्थान</item>
         <item>स्थान</item>
         <item>भाइब्रेट गर्नुहोस्</item>
-        <item>सम्पर्कहरू पढ्नुहोस्</item>
-        <item>सम्पर्कहरू परिमार्जन गर्नुहोस्</item>
+        <item>कन्ट्याक्टहरू पढ्नुहोस्</item>
+        <item>कन्ट्याक्टहरू परिमार्जन गर्नुहोस्</item>
         <item>कल लग पढ्नुहोस्</item>
         <item>कल लग परिमार्जन गर्नुहोस्</item>
         <item>पात्रो पढ्नुहोस्</item>
@@ -106,7 +94,7 @@
         <item>स्थानको नक्कल गर्नुहोस्</item>
         <item>भण्डारण पढ्नुहोस्</item>
         <item>भण्डारण लेख्नहोस्</item>
-        <item>स्क्रिन सक्रिय गर्नुहोस्</item>
+        <item>स्क्रिन अन गर्नुहोस्</item>
         <item>खाताहरू प्राप्त गर्नुहोस्</item>
         <item>पृष्ठभूमिमा सञ्चालन गर्नुहोस्</item>
         <item>पहुँचको मात्रा</item>
@@ -116,8 +104,8 @@
         <item>राम्रो स्थान</item>
         <item>GPS</item>
         <item>कम्पन</item>
-        <item>सम्पर्कहरू पढ्नुहोस्</item>
-        <item>सम्पर्कहरू परिमार्जन गर्नुहोस्</item>
+        <item>कन्ट्याक्टहरू पढ्नुहोस्</item>
+        <item>कन्ट्याक्टहरू परिमार्जन गर्नुहोस्</item>
         <item>कल लग पढ्नुहोस्</item>
         <item>कल लग परिमार्जन गर्नुहोस्</item>
         <item>पात्रो पढ्नुहोस्</item>
@@ -150,7 +138,7 @@
         <item>घन्टी मात्रा</item>
         <item>मिडियाको भोल्युम</item>
         <item>अलार्मको भोल्युम</item>
-        <item>सूचना मात्रा</item>
+        <item>सूचनाको भोल्युम</item>
         <item>ब्लुटुथ मात्रा</item>
         <item>जागा रहनुहोस्</item>
         <item>स्थानको निरीक्षण गर्नुहोस्</item>
@@ -168,12 +156,12 @@
         <item>SIP प्रयोग गर्नुहोस्</item>
         <item>बहिर्गमन कललाई प्रशोधन गर्नुहोस्</item>
         <item>फिंगरप्रिन्ट</item>
-        <item>शारीरिक सेन्सरहरू</item>
+        <item>बडी सेन्सरहरू</item>
         <item>मोबाइल प्रसारणहरू पढ्नुहोस्</item>
         <item>स्थान नक्कल गर्नुहोस्</item>
         <item>भण्डारण पढ्नुहोस्</item>
         <item>भण्डारण लेख्नुहोस्</item>
-        <item>स्क्रिन सक्रिय गर्नुहोस्</item>
+        <item>स्क्रिन अन गर्नुहोस्</item>
         <item>खाताहरू प्राप्त गर्नुहोस्</item>
         <item>पृष्ठभूमिमा सञ्चालन गर्नुहोस्</item>
         <item>पहुँचको मात्रा</item>
@@ -221,24 +209,24 @@
         <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>१६ बिट/नमूना</item>
         <item>२४ बिट/नमूना</item>
         <item>३२ बिट/नमूना</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>१६ बिट/नमूना</item>
         <item>२४ बिट/नमूना</item>
         <item>३२ बिट/नमूना</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>मोनो</item>
         <item>स्टेरियो</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>मोनो</item>
         <item>स्टेरियो</item>
     </string-array>
@@ -255,34 +243,42 @@
         <item>उत्कृष्ट प्रयास (अनुकूलनीय बिट दर)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>४४.१ kHz</item>
         <item>४८.० kHz</item>
         <item>८८.२ kHz</item>
         <item>९६.० kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>४४.१ kHz</item>
         <item>४८.० kHz</item>
         <item>८८.२ kHz</item>
         <item>९६.० kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ अडियो</item>
         <item>Qualcomm® aptX™ HD अडियो</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive अडियो</item>
+        <item>Qualcomm® aptX™ TWS+ अडियो</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>सिस्टमको छनौट प्रयोग गरियोस् (डिफल्ट)</item>
+        <item>सिस्टमको छनौट प्रयोग गर्नुहोस् (डिफल्ट)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ अडियो</item>
         <item>Qualcomm® aptX™ HD अडियो</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive अडियो</item>
+        <item>Qualcomm® aptX™ TWS+ अडियो</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -290,17 +286,27 @@
         <item>, सक्रिय (मिडिया)</item>
         <item>, सक्रिय (फोन)</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>एपको डिफल्ट सेटिङ प्रयोग गर्नुहोस्</item>
+        <item>हियरिङ डिभाइसमा प्ले गर्नुहोस्</item>
+        <item>फोनको स्पिकरमा प्ले गर्नुहोस्</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
+        <item>avrcp16</item>
         <item>avrcp १३</item>
         <item>avrcp14</item>
-        <item>avrcp १६</item>
+        <item>avrcp १५</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP १.५ (डिफल्ट)</item>
+        <item>AVRCP १.६ (डिफल्ट)</item>
         <item>AVRCP १.३</item>
         <item>AVRCP १.४</item>
-        <item>AVRCP १.६</item>
+        <item>AVRCP १.५</item>
+    </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>अफ गरिएको छ</item>
+        <item>युनिकास्ट</item>
+        <item>युनिकास्ट तथा ब्रोडकास्ट</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -320,16 +326,28 @@
         <item>४</item>
         <item>५</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>२ मिनेट</item>
-        <item>५ मिनेट</item>
-        <item>१ घन्टा</item>
-        <item>कहिल्यै समय सकिँदैन</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>असक्षम पारिएको छ</item>
-        <item>फिल्टर सक्षम पारियो</item>
-        <item>सक्षम पारिएको छ</item>
+        <item>अफ गरिएको छ</item>
+        <item>फिल्टर अफ पारियो</item>
+        <item>अन गरिएको छ</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>ACL हेडर मात्र छाड्नुहोस्</item>
+        <item>A2DP मिडिया प्याकेटहरू फिल्टर गर्नुहोस्</item>
+        <item>RFCOMM च्यानल फिल्टर गर्नुहोस्</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>अफ गर्नुहोस्</item>
+        <item>वर्णको स्ट्रिङ हाल्नुहोस्</item>
+        <item>हेडर मात्र छाड्नुहोस्</item>
+        <item>पूरै हटाउनुहोस्</item>
+    </string-array>
+    <string-array name="bt_stack_log_level_entries">
+        <item>भर्बोज</item>
+        <item>डिबग</item>
+        <item>जानकारी</item>
+        <item>चेतावनी</item>
+        <item>त्रुटि</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>डिफल्ट</item>
@@ -339,17 +357,10 @@
         <item>उठेको</item>
         <item>दबेको</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>धेरै सानो आकारको पाठ</item>
-        <item>सानो आकारको पाठ</item>
-        <item>टेक्स्टको डिफल्ट आकार</item>
-        <item>ठुलो आकारको पाठ</item>
-        <item>धेरै ठुलो आकारको पाठ</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>ज्यादै साना</item>
         <item>सानो</item>
-        <item>डिफल्ट</item>
+        <item>मध्यम</item>
         <item>ठुलो</item>
         <item>ज्यादै ठुलो</item>
     </string-array>
@@ -360,12 +371,12 @@
         <item>१००%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>अनुप्रयोगले सेट गरेको</item>
+        <item>एपले सेट गरेको</item>
         <item>कालोमा सेतो</item>
         <item>सेतोमा कालो</item>
         <item>कालोमा पहेँलो</item>
         <item>नीलोमा पहेँलो</item>
-        <item>आफू अनुकूल</item>
+        <item>" कस्टम"</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>डिफल्ट</item>
@@ -397,38 +408,20 @@
         <item>डिफल्ट</item>
     </string-array>
     <string-array name="color_picker">
-        <item>टिल</item>
+        <item>सायन</item>
         <item>निलो</item>
-        <item>इन्डिगो</item>
+        <item>हरियो</item>
         <item>बैजनी</item>
         <item>गुलाबी</item>
-        <item>रातो</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>अँध्यारो</item>
-        <item>प्रकाश</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>अन्तिम ३० दिन</item>
-        <item>प्रयोग चक्र सेट...</item>
+        <item>सुन्तले रङ</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>बन्द</item>
         <item>overdraw क्षेत्रहरू देखाउनुहोस्</item>
         <item>Deuteranomaly का लागि क्षेत्रहरू देखाउनुहोस्</item>
     </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>कहिल्यै पनि होइन</item>
-        <item>१५ सेकेन्ड</item>
-        <item>३० सेकेन्ड</item>
-        <item>१ मिनेट</item>
-        <item>२ मिनेट</item>
-        <item>५ मिनेट</item>
-        <item>१० मिनेट</item>
-        <item>३० मिनेट</item>
-    </string-array>
     <string-array name="eap_ocsp_type">
-        <item>पुष्टि नगरियोस्</item>
+        <item>पुष्टि नगर्नुहोस्</item>
         <item>सर्टिफिकेटको स्थिति मागियोस्</item>
         <item>सर्टिफिकेटका स्थिति अनिवार्य पारियोस्</item>
     </string-array>
@@ -438,15 +431,15 @@
         <item>सिस्ट्रेस (ग्राफिक्स)</item>
         <item>glGetError मा स्ट्याक कल गर्नुहोस्</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>सानो</item>
-        <item>डिफल्ट</item>
-        <item>ठुलो</item>
-        <item>सबैभन्दा ठुलो</item>
+    <string-array name="grammatical_gender_values">
+        <item>०</item>
+        <item>१</item>
+        <item>२</item>
+        <item>३</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP परीक्षण कहिल्यै प्रयोग नगर्नुहोस्</item>
-        <item>DRM सामग्रीको लागि मात्र HDCP जाँचको प्रयोग गरियोस्</item>
+        <item>DRM सामग्रीको लागि मात्र HDCP जाँचको प्रयोग गर्नुहोस्</item>
         <item>सधैँ HDCP जाँच प्रयोग गर्नुहोस्</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -480,6 +473,15 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>सधैँ</item>
+        <item>भुक्तानी गर्न प्रयोग गरिने अर्को एप खुला भएको अवस्थामा बाहेक</item>
+    </string-array>
+    <string-array name="nfc_payment_favor_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>कुनै पनि होइन</item>
@@ -493,7 +495,7 @@
         <item>४ हजार (सुरक्षित)</item>
         <item>४ हजार (upscaled)</item>
         <item>४ हजार (upscaled, सुरक्षित)</item>
-        <item>७२० पिक्सेल, १०८० पिक्सेल (दोहरो स्क्रिन)</item>
+        <item>७२० पिक्सेल, १०८० पिक्सेल (Dual Screen)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA रुचाइयो</item>
@@ -530,28 +532,6 @@
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>सामान्य</item>
-        <item>मध्यम</item>
-        <item>कम</item>
-        <item>चिन्ताजनक</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>लगातार</item>
-        <item>उच्च गतिविधि</item>
-        <item>महत्वपूर्ण (फ‍ोरग्राउन्ड)</item>
-        <item>महत्वपूर्ण (पृष्ठभूमि)</item>
-        <item>जगेडा</item>
-        <item>भारी वजन</item>
-        <item>सेवा (चालु)</item>
-        <item>सेवा (पुनःसुरु हुँदै)</item>
-        <item>प्रापक</item>
-        <item>गृह</item>
-        <item>पछिल्लो गतिविधि</item>
-        <item>क्यास (गतिविधि)</item>
-        <item>क्यास (गतिविधि ग्राहक)</item>
-        <item>क्यास (खाली)</item>
     </string-array>
     <string-array name="ram_states">
         <item>सामान्य</item>
@@ -617,14 +597,16 @@
         <item>१</item>
         <item>0</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>अमेरिका</item>
-        <item>युरोप</item>
-        <item>अफ्रिका</item>
-        <item>एसिया</item>
-        <item>अस्ट्रेलिया</item>
-        <item>प्रशान्त</item>
-        <item>सबै</item>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>कहिल्यै पनि होइन</item>
+        <item>१ मिनेटपछि</item>
+        <item>५ मिनेटपछि</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>चार्ज गरिँदै छ</item>
+        <item>डोज</item>
+        <item>ब्याट्री सेभर मोड</item>
+        <item>प्रोसेस स्थिति</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>अफ छ</item>
@@ -641,20 +623,15 @@
         <item>10x एनिमेसन स्केल</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>निकै बिस्तारै</item>
-        <item>ढिलो</item>
-        <item>सामान्य</item>
-        <item>छिटो</item>
-        <item>थप छिटो</item>
-        <item>ज्यादै छिटो</item>
-        <item>तीव्र</item>
-        <item>धेरै तीव्र</item>
-        <item>सबभन्दा छिटो</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>उपयोग समय</item>
-        <item>पछिल्लो समय प्रयोग गरिएको</item>
-        <item>एपको नाम</item>
+        <item>६०%</item>
+        <item>८०%</item>
+        <item>१००%</item>
+        <item>१५०%</item>
+        <item>२००%</item>
+        <item>२५०%</item>
+        <item>३००%</item>
+        <item>३५०%</item>
+        <item>४००%</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>चार्ज हुँदै छ</item>
@@ -671,21 +648,10 @@
     <string-array name="vpn_states">
         <item>विच्छेदन</item>
         <item>सुरुवात भैरहेको छ...</item>
-        <item>जडान हुँदै...</item>
+        <item>कनेक्ट गरिँदै छ...</item>
         <item>जडान गरिएको</item>
         <item>समय सकियो</item>
         <item>असफल</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN पूर्व साझेदारी कुञ्जीकासँग</item>
-        <item>प्रमाणपत्रहरूसँग L2TP/IPSec VPN</item>
-        <item>IPSec VPN पूर्व साझेदारी कुञ्जी र Xauth प्राधिकरणसँग</item>
-        <item>प्रमाणपत्रहरू र Xauth प्रमाणीकरणको साथ IPSec VPN</item>
-        <item>प्रमाणपत्रहरू र हाईब्रिड प्रमाणीकरणसँग IPSec VPN</item>
-        <item>प्रमाणपत्रहरू र पासवर्ड प्रमाणीकरणसहितको IKEv2/IPSec VPN</item>
-        <item>पहिले नै आदान प्रदान गरिएका साँचाहरूसहितको L2TP/IPSec VPN</item>
-        <item>प्रमाणपत्रहरूसहितको IKEv2/IPSec VPN</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -696,11 +662,9 @@
         <item>Wi-Fi</item>
         <item>मोबाइल</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_dhcp_entries">
+        <item>नेटवर्कलाई डिभाइसको नाम पठाउनुहोस्</item>
+        <item>नेटवर्कलाई डिभाइसको नाम नपठाउनुहोस्</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>छैन</item>
@@ -711,7 +675,7 @@
         <item>स्थिर</item>
     </string-array>
     <string-array name="wifi_metered_entries">
-        <item>स्वतः पत्ता लगाइयोस्</item>
+        <item>स्वतः पत्ता लगाउनुहोस्</item>
         <item>सशुल्क Wi-Fi का रूपमा लिइयोस्</item>
         <item>नि:शुल्क Wi-Fi का रूपमा लिइयोस्</item>
     </string-array>
@@ -721,11 +685,6 @@
         <item>असफल</item>
         <item>उपलब्ध</item>
         <item>दायरा-बाहिर</item>
-    </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Push बटन</item>
-        <item>PIN जोडी उपकरणबाट</item>
-        <item>यस उपकरणबाट PIN</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
@@ -739,8 +698,8 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>क्रमरहित MAC प्रयोग गरियोस् (डिफल्ट)</item>
-        <item>डिभाइसको MAC प्रयोग गरियोस्</item>
+        <item>र्‍यान्डमाइज गरिएको MAC प्रयोग गर्नुहोस्</item>
+        <item>डिभाइसको MAC प्रयोग गर्नुहोस्</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>छैन</item>
@@ -757,7 +716,7 @@
     <string-array name="wifi_status">
         <item></item>
         <item>स्क्यान गरिँदै...</item>
-        <item>जडान हुँदै...</item>
+        <item>कनेक्ट गरिँदै छ...</item>
         <item>प्रमाणित गर्दै ...</item>
         <item>IP एड्रेस पत्ता लगाउँदै ...</item>
         <item>कनेक्ट छ</item>
@@ -771,10 +730,10 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>स्क्यान गर्दै...</item>
-        <item>%1$sसँग जडान हुँदै...</item>
+        <item>%1$sसँग कनेक्ट गरिँदै छ...</item>
         <item>%1$sको साथ प्रमाणित गर्दै…</item>
         <item>%1$sबाट IP एड्रेस प्राप्त गर्दै…</item>
-        <item>%1$s मा कनेक्ट गरिएको छ</item>
+        <item>%1$s मा कनेक्ट भएको छ छ</item>
         <item>निलम्बित</item>
         <item>%1$sबाट विच्छेदन गर्दै...</item>
         <item>विच्छेदन भएको</item>

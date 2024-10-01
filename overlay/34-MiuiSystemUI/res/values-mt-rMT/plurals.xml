@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">(-il) siegħa ilu</item>
-        <item quantity="one">Siegħa ilu</item>
-        <item quantity="few">Sigħat ilu</item>
-        <item quantity="many">(-il) siegħa ilu</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">(-il) siegħa ilu</item>
-        <item quantity="one">Siegħa ilu</item>
-        <item quantity="few">Sigħat ilu</item>
-        <item quantity="many">(-il) siegħa ilu</item>
+        <item quantity="other">Siegħa %d ilu</item>
+        <item quantity="one">Siegħa %d ilu</item>
+        <item quantity="few">Siegħa %d ilu</item>
+        <item quantity="many">Siegħa %d ilu</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nofs siegħa ilu</item>
@@ -19,10 +13,10 @@
         <item quantity="many">Nofs siegħa ilu</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Siegħa oħra</item>
-        <item quantity="one">Siegħa oħra</item>
-        <item quantity="few">Siegħa oħra</item>
-        <item quantity="many">Siegħa oħra</item>
+        <item quantity="other">Fi żmien siegħa %d</item>
+        <item quantity="one">Fi żmien siegħa %d</item>
+        <item quantity="few">Fi żmien siegħa %d</item>
+        <item quantity="many">Fi żmien siegħa %d</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Nofs siegħa oħra</item>
@@ -37,10 +31,10 @@
         <item quantity="many">Minnufih</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d(-il) min oħra</item>
-        <item quantity="one">min oħra</item>
-        <item quantity="few">%d min oħra</item>
-        <item quantity="many">%d(-il) min oħra</item>
+        <item quantity="other">Fi żmien %d minuta</item>
+        <item quantity="one">Fi żmien minuta %d</item>
+        <item quantity="few">Fi żmien %d minuti</item>
+        <item quantity="many">Fi żmien %d-il minuta</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Issa</item>
@@ -49,184 +43,94 @@
         <item quantity="many">Issa</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d(-il) min ilu</item>
-        <item quantity="one">Min ilu</item>
-        <item quantity="few">%d min ilu</item>
-        <item quantity="many">%d(-il) min ilu</item>
+        <item quantity="other">%d minuta ilu</item>
+        <item quantity="one">Minuta %d ilu</item>
+        <item quantity="few">%d minuti ilu</item>
+        <item quantity="many">%d-il minuta ilu</item>
     </plurals>
-    <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s(-il) għażla miżjuda.</item>
-        <item quantity="one">Għażla %s miżjuda.</item>
-        <item quantity="few">%s għażliet miżjuda.</item>
-        <item quantity="many">%s(-il) għażla miżjuda.</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Pressjoni tal-arja: %s ħektopaskal</item>
+        <item quantity="one">Pressjoni tal-arja: ħektopaskal wieħed</item>
+        <item quantity="few">Pressjoni tal-arja: %s ħektopaskalijiet</item>
+        <item quantity="many">Pressjoni tal-arja: %s-il ħektopaskal</item>
     </plurals>
-    <plurals name="fgs_manager_footer_label">
-        <item quantity="other">%s apps attiva</item>
-        <item quantity="one">App %s attiva</item>
-        <item quantity="few">%s apps attivi</item>
-        <item quantity="many">%s-il app attiva</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Ħraqt %1$s Kalorija</item>
+        <item quantity="one">Ħraqt Kalorija Waħda</item>
+        <item quantity="few">Ħraqt %1$s Kaloriji</item>
+        <item quantity="many">Ħraqt %1$s-il Kalorija</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Nofs siegħa ilu</item>
-        <item quantity="one">Nofs siegħa ilu</item>
-        <item quantity="few">Nofs siegħa ilu</item>
-        <item quantity="many">Nofs siegħa ilu</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">"Ħruq ta' kaloriji mixtieq: %1$s Kalorija"</item>
+        <item quantity="one">"Ħruq ta' kaloriji mixtieq: Kalorija waħda"</item>
+        <item quantity="few">"Ħruq ta' kaloriji mixtieq: %1$s Kaloriji"</item>
+        <item quantity="many">"Ħruq ta' kaloriji mixtieq: %1$s-il Kalorija"</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Siegħa oħra</item>
-        <item quantity="one">Siegħa oħra</item>
-        <item quantity="few">Siegħa oħra</item>
-        <item quantity="many">Siegħa oħra</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s kilokalorija minn %2$s</item>
+        <item quantity="one">Kilokalorija %1$s minn %2$s</item>
+        <item quantity="few">%1$s kilokaloriji minn %2$s</item>
+        <item quantity="many">%1$s-il kilokalorija minn %2$s</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Nofs siegħa oħra</item>
-        <item quantity="one">Nofs siegħa oħra</item>
-        <item quantity="few">Nofs siegħa oħra</item>
-        <item quantity="many">Nofs siegħa oħra</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">"Ħin ta' ċaqliq: %1$s minuta"</item>
+        <item quantity="one">"Ħin ta' ċaqliq: minuta"</item>
+        <item quantity="few">"Ħin ta' ċaqliq: %1$s minuti"</item>
+        <item quantity="many">"Ħin ta' ċaqliq: %1$s-il minuta"</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Minnufih</item>
-        <item quantity="one">Minnufih</item>
-        <item quantity="few">Minnufih</item>
-        <item quantity="many">Minnufih</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">"Ħin ta' ċaqliq mixtieq: %1$s minuta"</item>
+        <item quantity="one">"Ħin ta' ċaqliq mixtieq: minuta"</item>
+        <item quantity="few">"Ħin ta' ċaqliq mixtieq: %1$s minuti"</item>
+        <item quantity="many">"Ħin ta' ċaqliq mixtieq: %1$s-il minuta"</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d(-il) minuta oħra</item>
-        <item quantity="one">minuta oħra</item>
-        <item quantity="few">%d minuti oħra</item>
-        <item quantity="many">%d(-il) minuta oħra</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s minuta minn %2$s</item>
+        <item quantity="one">Minuta %1$s minn %2$s</item>
+        <item quantity="few">%1$s minuti minn %2$s</item>
+        <item quantity="many">%1$s-il minuta minn %2$s</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">"Il-kodiċi PIN ħażin; tista' tipprova %d darba oħra"</item>
-        <item quantity="one">"Il-kodiċi PIN ħażin; tista' tipprova darba %d oħra"</item>
-        <item quantity="few">"Il-kodiċi PIN ħażin; tista' tipprova %d darbiet oħra"</item>
-        <item quantity="many">"Il-kodiċi PIN ħażin; tista' tipprova %d-il darba oħra"</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Kont bilwieqfa għal %1$s siegħa</item>
+        <item quantity="one">Kont bilwieqfa għal siegħa</item>
+        <item quantity="few">Kont bilwieqfa għal %1$s sigħat</item>
+        <item quantity="many">Kont bilwieqfa għal %1$s-il siegħa</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">"Il-kodiċi PUK ħażin; tista' tipprova %d darba oħra"</item>
-        <item quantity="one">"Il-kodiċi PUK ħażin; tista' tipprova darba %d oħra"</item>
-        <item quantity="few">"Il-kodiċi PUK ħażin; tista' tipprova %d darbiet oħra"</item>
-        <item quantity="many">"Il-kodiċi PUK ħażin; tista' tipprova %d-il darba oħra"</item>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Ħin bilwieqfa mixtieq: %1$s siegħa</item>
+        <item quantity="one">Ħin bilwieqfa mixtieq: siegħa</item>
+        <item quantity="few">Ħin bilwieqfa mixtieq: %1$s sigħat</item>
+        <item quantity="many">Ħin bilwieqfa mixtieq: %1$s-il siegħa</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Daħħal il-password tiegħek mill-inqas darba kull %d siegħa biex ma tinsihiex</item>
-        <item quantity="one">Daħħal il-password tiegħek mill-inqas darba kull siegħa %d biex ma tinsihiex</item>
-        <item quantity="few">Daħħal il-password tiegħek mill-inqas darba kull %d sigħat biex ma tinsihiex</item>
-        <item quantity="many">Daħħal il-password tiegħek mill-inqas darba kull %d-il siegħa biex ma tinsihiex</item>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s siegħa minn %2$s</item>
+        <item quantity="one">Siegħa %1$s minn %2$s</item>
+        <item quantity="few">%1$s sigħat minn %2$s</item>
+        <item quantity="many">%1$s-il siegħa minn %2$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Għadd tal-passi: %1$s pass</item>
+        <item quantity="one">Għadd tal-passi: pass wieħed</item>
+        <item quantity="few">Għadd tal-passi: %1$s passi</item>
+        <item quantity="many">Għadd tal-passi: %1$s-il pass</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Passi mixtieqa: %1$s pass</item>
+        <item quantity="one">Passi mixtieqa: pass wieħed</item>
+        <item quantity="few">Passi mixtieqa: %1$s passi</item>
+        <item quantity="many">Passi mixtieqa: %1$s-il pass</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s pass minn %2$s</item>
+        <item quantity="one">Pass %1$s minn %2$s</item>
+        <item quantity="few">%1$s passi minn %2$s</item>
+        <item quantity="many">%1$s-il pass minn %2$s</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Daħħal il-password tiegħek mill-inqas darba kull %d siegħa biex ma tinsihiex</item>
         <item quantity="one">Daħħal il-password tiegħek mill-inqas darba kull siegħa %d biex ma tinsihiex</item>
         <item quantity="few">Daħħal il-password tiegħek mill-inqas darba kull %d sigħat biex ma tinsihiex</item>
         <item quantity="many">Daħħal il-password tiegħek mill-inqas darba kull %d-il siegħa biex ma tinsihiex</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">Fadal madwar %d siegħa</item>
-        <item quantity="one">Fadal madwar siegħa %d</item>
-        <item quantity="few">Fadal madwar %d sigħat</item>
-        <item quantity="many">Fadal madwar %d-il siegħa</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Fadal madwar %d minuta</item>
-        <item quantity="one">Fadal madwar minuta %d</item>
-        <item quantity="few">Fadal madwar %d minuti</item>
-        <item quantity="many">Fadal madwar %d-il minuta</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Fadal madwar %1$d s u %2$d m</item>
-        <item quantity="one">Fadal madwar %1$d s u %2$d m</item>
-        <item quantity="few">Fadal madwar %1$d s u %2$d m</item>
-        <item quantity="many">Fadal madwar %1$d s u %2$d m</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d siegħat</item>
-        <item quantity="one">Siegħa %d</item>
-        <item quantity="few">%d siegħat</item>
-        <item quantity="many">%d-il siegħa</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">Minuta %d</item>
-        <item quantity="few">%d minuti</item>
-        <item quantity="many">%d-il minuta</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d s %2$d m</item>
-        <item quantity="one">%1$d s %2$d m</item>
-        <item quantity="few">%1$d s %2$d m</item>
-        <item quantity="many">%1$d s %2$d m</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">Fadal madwar %d siegħa</item>
-        <item quantity="one">Fadal madwar siegħa %d</item>
-        <item quantity="few">Fadal madwar %d sigħat</item>
-        <item quantity="many">Fadal madwar %d-il siegħa</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">Fadal madwar %d minuta</item>
-        <item quantity="one">Fadal madwar minuta %d</item>
-        <item quantity="few">Fadal madwar %d minuti</item>
-        <item quantity="many">Fadal madwar %d-il minuta</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">Fadallek %1$d s %2$d m</item>
-        <item quantity="one">Fadallek %1$d s %2$d m</item>
-        <item quantity="few">Fadallek %1$d s %2$d m</item>
-        <item quantity="many">Fadallek %1$d s %2$d m</item>
-    </plurals>
-    <plurals name="kg_password_default_pin_message">
-        <item quantity="other">"Daħħal il-PIN tas-SIM tiegħek. Tista' terġa' tipprova ddaħħal il-PIN %d darba oħra."</item>
-        <item quantity="one">"Daħħal il-PIN tas-SIM tiegħek. Tista' terġa' tipprova ddaħħal il-PIN darba %d oħra qabel ikollok tikkuntatja lill-operatur tiegħek biex tiftaħ it-tagħmir."</item>
-        <item quantity="few">"Daħħal il-PIN tas-SIM tiegħek. Tista' terġa' tipprova ddaħħal il-PIN %d darbiet oħra."</item>
-        <item quantity="many">"Daħħal il-PIN tas-SIM tiegħek. Tista' terġa' tipprova ddaħħal il-PIN %d-il darba oħra."</item>
-    </plurals>
-    <plurals name="kg_password_default_puk_message">
-        <item quantity="other">"Is-SIM tiegħek issa diżattivata. Daħħal il-kodiċi PUK biex tkompli. Fadallek %d ċans ieħor qabel is-SIM ma tkunx tista' tintuża iktar. Ikkuntatja lill-operatur tiegħek għad-dettalji."</item>
-        <item quantity="one">"Is-SIM tiegħek issa diżattivata. Daħħal il-kodiċi PUK biex tkompli. Fadallek ċans %d ieħor qabel is-SIM ma tkunx tista' tintuża iktar. Ikkuntatja lill-operatur tiegħek għad-dettalji."</item>
-        <item quantity="few">"Is-SIM tiegħek issa diżattivata. Daħħal il-kodiċi PUK biex tkompli. Fadallek %d ċansijiet oħra qabel is-SIM ma tkunx tista' tintuża iktar. Ikkuntatja lill-operatur tiegħek għad-dettalji."</item>
-        <item quantity="many">"Is-SIM tiegħek issa diżattivata. Daħħal il-kodiċi PUK biex tkompli. Fadallek %d-il ċans ieħor qabel is-SIM ma tkunx tista' tintuża iktar. Ikkuntatja lill-operatur tiegħek għad-dettalji."</item>
-    </plurals>
-    <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Il-kodiċi PIN tas-SIM li daħħalt mhux tajjeb. Fadallek %d- prova oħra.</item>
-        <item quantity="one">Il-kodiċi PIN tas-SIM li daħħalt mhux tajjeb. Fadallek prova %d qabel ikollok tikkuntattja lill-operatur tiegħek biex tiftaħ it-tagħmir.</item>
-        <item quantity="few">Il-kodiċi PIN tas-SIM li daħħalt mhux tajjeb. Fadallek %d provi oħra.</item>
-        <item quantity="many">Il-kodiċi PIN tas-SIM li daħħalt mhux tajjeb. Fadallek %d-il prova oħra.</item>
-    </plurals>
-    <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">"Il-kodiċi PUK tas-SIM li daħħalt mhux tajjeb. Fadallek %d prova oħra qabel is-SIM ma tkunx tista' terġa' tintuża."</item>
-        <item quantity="one">"Il-kodiċi PUK tas-SIM li daħħalt mhux tajjeb. Fadallek prova %d qabel is-SIM ma tkunx tista' terġa' tintuża."</item>
-        <item quantity="few">"Il-kodiċi PUK tas-SIM li daħħalt mhux tajjeb. Fadallek %d provi oħra qabel is-SIM ma tkunx tista' terġa' tintuża."</item>
-        <item quantity="many">"Il-kodiċi PUK tas-SIM li daħħalt mhux tajjeb. Fadallek %d-il prova oħra qabel is-SIM ma tkunx tista' terġa' tintuża."</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Issa</item>
-        <item quantity="one">Issa</item>
-        <item quantity="few">Issa</item>
-        <item quantity="many">Issa</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d oġġett magħżul</item>
-        <item quantity="one">Oġġett %d magħżul</item>
-        <item quantity="few">%d oġġett magħżulin</item>
-        <item quantity="many">%d-il oġġett magħżula</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d notifikazzjoni ġdida</item>
-        <item quantity="one">Notifikazzjoni %d ġdida</item>
-        <item quantity="few">%d notifikazzjonijiet ġodda</item>
-        <item quantity="many">%d-il notifikazzjoni ġdida</item>
-    </plurals>
-    <plurals name="notification_group_overflow_description">
-        <item quantity="other">%s(-il) notifikazzjoni oħra ġewwa.</item>
-        <item quantity="one">Notifikazzjoni %s oħra ġewwa.</item>
-        <item quantity="few">%s notifikazzjonijiet oħra ġewwa.</item>
-        <item quantity="many">%s(-il) notifikazzjoni oħra ġewwa.</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d(-il) minuta ilu</item>
-        <item quantity="one">Minuta ilu</item>
-        <item quantity="few">%d minuti ilu</item>
-        <item quantity="many">%d(-il) minuta ilu</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">"Erġa' pprova %d minuta oħra"</item>
@@ -240,28 +144,10 @@
         <item quantity="few">"Erġa' pprova %d sekondi oħra"</item>
         <item quantity="many">"Erġa' pprova %d-il sekonda oħra"</item>
     </plurals>
-    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">%d(-il) tagħmir</item>
-        <item quantity="one">Tagħmir %d</item>
-        <item quantity="few">%d tagħmir</item>
-        <item quantity="many">%d(-il) tagħmir</item>
-    </plurals>
-    <plurals name="snoozeHourOptions">
-        <item quantity="other">%d(-il) siegħa</item>
-        <item quantity="one">Siegħa %d</item>
-        <item quantity="few">%d sigħat</item>
-        <item quantity="many">%d(-il) siegħa</item>
-    </plurals>
-    <plurals name="snoozeMinuteOptions">
-        <item quantity="other">%d(-il) minuta</item>
-        <item quantity="one">Minuta %d</item>
-        <item quantity="few">%d minuti</item>
-        <item quantity="many">%d(-il) minuta</item>
-    </plurals>
-    <plurals name="user_limit_reached_message">
-        <item quantity="other">"Tista' żżid sa %d(-il) utent."</item>
-        <item quantity="one">Ma tistax toħloq iktar minn utent wieħed.</item>
-        <item quantity="few">"Tista' żżid sa %d utenti."</item>
-        <item quantity="many">"Tista' żżid sa %d(-il) utent."</item>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s grad, %2$s</item>
+        <item quantity="one">Temperatura: grad wieħed, %2$s</item>
+        <item quantity="few">Temperatura: %1$s gradi, %2$s</item>
+        <item quantity="many">Temperatura: %1$s-il grad, %2$s</item>
     </plurals>
 </resources>

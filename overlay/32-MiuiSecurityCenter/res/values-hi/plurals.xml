@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 घंटा पहले</item>
+        <item quantity="one">1 घंटा पहले</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">%d घंटा पहले</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">आधे घंंटे पहले</item>
+        <item quantity="one">आधे घंंटे पहले</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d घंटे में</item>
+        <item quantity="one">%d घंटे में</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">आधे घंंटे में</item>
+        <item quantity="one">आधे घंंटे में</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तुरंत</item>
+        <item quantity="one">तुरंत</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनट में</item>
+        <item quantity="one">%d मिनट में</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">अभी-अभी</item>
+        <item quantity="one">अभी-अभी</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">%d मिनट पहले</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d गेम्स जोड़े गए</item>
+        <item quantity="one">%d गेम जोड़ा गया</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d ऐप्स जोड़ा गया</item>
+        <item quantity="one">%d ऐप्प जोड़ा गया</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">%1$s और %2$s के बीच %3$d बार अनुमति है</item>
+        <item quantity="one">%1$s और %2$s के बीच %3$d बार अनुमति है</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">%1$d मिनट इस्तेमाल किया गया</item>
+        <item quantity="one">%1$d मिनट इस्तेमाल किया गया</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">%2$s तक %1$d मिनट इस्तेमाल किया गया</item>
+        <item quantity="one">%2$s तक %1$d मिनट इस्तेमाल किया गया</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">ऐप्प के व्यवहार के रिकॉर्ड को इस डिवाइस में %d दिनों तक स्टोर करके रखा जाएगा. इस फ़ीचर को बंद करने से ऐप्प के व्यवहार से जुड़े सभी डेटा हटा दिए जाएंगे और इसकी अनुशंसा नहीं की जाती है.</item>
+        <item quantity="one">ऐप्प के व्यवहार के रिकॉर्ड को इस डिवाइस में %d दिन तक स्टोर करके रखा जाएगा. इस फ़ीचर को बंद करने से ऐप्प के व्यवहार से जुड़े सभी डेटा हटा दिए जाएंगे और यह अनुशंसित नहीं है.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d अनुमति दिए गए</item>
+        <item quantity="one">%d अनुमति दी गई</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d अनुमतियों के लिए पूछें</item>
+        <item quantity="one">%d अनुमति के लिए पूछें</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d बार</item>
+        <item quantity="one">%d बार</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">%d ऐप्स अनइंस्टॉल करें</item>
+        <item quantity="one">%d ऐप्प अनइंस्टॉल करें</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">%d ऐप्स अपडेट करें</item>
+        <item quantity="one">%d ऐप्प अपडेट करें</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">%d दिन पहले उपयोग किया गया था</item>
+        <item quantity="one">%d दिन पहले उपयोग किया गया था</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">%d महीने पहले उपयोग किया गया था</item>
+        <item quantity="one">%d महीना पहले उपयोग किया गया था</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">%d वर्ष पहले उपयोग किया गया था</item>
+        <item quantity="one">%d वर्ष पहले उपयोग किया गया था</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">आप %1$s ऐप्स के लिए, ऐप्प लॉक का इस्तेमाल कर सकते हैं</item>
+        <item quantity="one">आप %1$s ऐप्प के लिए, ऐप्प लॉक का इस्तेमाल कर सकते हैं</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">आप कम से कम %s ऐप्स की रक्षा कर सकते हैं</item>
+        <item quantity="one">आप कम से कम %s ऐप्प की रक्षा कर सकते हैं</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s ऐप्स को ऐप्प लॉक से सुरक्षित किया जाएगा</item>
+        <item quantity="one">%s ऐप्प को ऐप्प लॉक से सुरक्षित किया जाएगा</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d ऐप्स जिसमें %1$s शामिल है</item>
+        <item quantity="one">%2$d ऐप्प जिसमें %1$s शामिल है</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d बार</item>
+        <item quantity="one">%d बार</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d ऐप्स बैकग्राउंड में नेटवर्क से कनेक्ट कर सकते हैं</item>
+        <item quantity="one">%d ऐप्प बैकग्राउंड में नेटवर्क से कनेक्ट कर सकता है</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d ऐप्स बैकग्राउंड में नेटवर्क से कनेक्ट नहीं कर सकते हैं</item>
+        <item quantity="one">%d ऐप्प बैकग्राउंड में नेटवर्क से कनेक्ट नहीं कर सकता है</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">%d ऐप्स की रक्षा करें</item>
+        <item quantity="one">%d ऐप्प की रक्षा करें</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>आप &lt;font color=#F22424>%d&lt;/font> ऐप्स अनइंस्टॉल कर सकते हैं&lt;/Data></item>
+        <item quantity="one">&lt;Data>आप &lt;font color=#F22424>%d&lt;/font> ऐप्प अनइंस्टॉल कर सकते हैं&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"आप पहले ही %s दैनिक डेटा सीमा का उपयोग कर चुके हैं.
+
+यदि आप मोबाइल डेटा फिर से चालू करते हैं, तो आपका मोबाइल ऑपरेटर आपसे अतिरिक्त डेटा के लिए शुल्क ले सकता है."</item>
+        <item quantity="one">"आप पहले ही %s दैनिक डेटा सीमा का उपयोग कर चुके हैं.
+
+यदि आप मोबाइल डेटा फिर से चालू करते हैं, तो आपका मोबाइल ऑपरेटर आपसे अतिरिक्त डेटा के लिए शुल्क ले सकता है."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">आप पहले ही %s दैनिक डेटा सीमा का उपयोग कर चुके हैं.</item>
+        <item quantity="one">आप पहले ही %s दैनिक डेटा सीमा का उपयोग कर चुके हैं.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d मिनट में</item>
+        <item quantity="one">%1$d मिनट में</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">आपके डिवाइस का परफ़ॉर्मेंस स्कोर %d अंक से कम है. अभी ऑप्टिमाइज़ करें?</item>
+        <item quantity="one">आपके डिवाइस का परफ़ॉर्मेंस स्कोर %d अंक से कम है. अभी ऑप्टिमाइज़ करें?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+        <item quantity="one">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">वीडियो को %d सेकंड पीछे ले जाएं</item>
+        <item quantity="one">वीडियो को %d सेकंड पीछे ले जाएं</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s घंटे</item>
+        <item quantity="one">%s घंटा</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s मिनट</item>
+        <item quantity="one">%s मिनट</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d ऐप्स के बीच खोजें</item>
+        <item quantity="one">%d ऐप्स के बीच खोजें</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d गोपनीयता से जुड़े जोखिम</item>
+        <item quantity="one">%d गोपनीयता से जुड़े जोखिम</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d समस्याओं के लिए ऑप्टिमाइज़ेशन की आवश्यकता है</item>
+        <item quantity="one">%1$d समस्या के लिए ऑप्टिमाइज़ेशन की आवश्यकता है</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d ऐप्स मिले</item>
+        <item quantity="one">%d ऐप्प मिला</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d फ़ीचर</item>
+        <item quantity="one">%d फ़ीचर</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%2$s और अन्य से %1$d कॉल</item>
+        <item quantity="one">%2$s से %1$d कॉल</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%2$s और अन्य के %1$d कॉल</item>
+        <item quantity="one">%2$s के %1$d कॉल</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d संदेश</item>
+        <item quantity="one">%d संदेश</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">आपकी गेम टर्बो सदस्यता %d दिनों में समाप्त हो जाएगी.</item>
+        <item quantity="one">आपकी गेम टर्बो सदस्यता %d दिन में समाप्त हो जाएगी.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">आपकी गेम टर्बो सदस्यता %d दिनों में समाप्त हो जाएगी. अभी रिन्यू करें और शानदार गेमिंग का लुत्फ़ उठाएं.</item>
+        <item quantity="one">आपकी गेम टर्बो सदस्यता %d दिन में समाप्त हो जाएगी. अभी रिन्यू करें और शानदार गेमिंग का लुत्फ़ उठाएं.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d व्यक्ति खेल रहे हैं</item>
+        <item quantity="one">%1$d व्यक्ति खेल रहा है</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d व्यक्ति खेल रहे हैं</item>
+        <item quantity="one">%1$d व्यक्ति खेल रहा है</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">%2$d गेम्स अनइंस्टॉल करें (%1$s शामिल है)</item>
+        <item quantity="one">%2$d गेम अनइंस्टॉल करें (%1$s शामिल है)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">खूबसूरत यादों को अपने-आप रिकॉर्ड करके सेशन हाइलाइट्स के ज़रिए वीडियो बनाएं. आप हर गेमिंग सेशन के बाद, उन्हें हमेशा के लिए सेव करने का विकल्प चुन सकते हैं. सेव नहीं किए गए वीडियो %1$d दिन के बाद अपने आप हटा दिए जाएंगे.</item>
+        <item quantity="one">खूबसूरत यादों को अपने-आप रिकॉर्ड करके सेशन हाइलाइट्स के ज़रिए वीडियो बनाएं. आप हर गेमिंग सेशन के बाद, उन्हें हमेशा के लिए सेव करने का विकल्प चुन सकते हैं. सेव नहीं किए गए वीडियो %1$d दिन के बाद अपने आप हटा दिए जाएंगे.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">गेम टर्बो में %d AI रिकॉर्डिंग सेव किए गए</item>
+        <item quantity="one">गेम टर्बो में %d AI रिकॉर्डिंग सेव किया गया</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d सेकंड</item>
+        <item quantity="one">%d सेकंड</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">%d दिन लगातार चेक-इन किया</item>
+        <item quantity="one">%d समय पर चेक इन किया</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटा</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">ठीक है (%d से.)</item>
+        <item quantity="one">ठीक है (%d से.)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"नोट:
+·बैटरी बचतकर्ता के चालू होने या आपके डिवाइस के ज़्यादा गरम होने पर बेहतरीन विज़ुअल उपलब्ध नहीं होंगे.
+·स्मार्ट फ़्रेम दर तब सबसे अच्छे नतीजे दिखाता है, जब आपके गेम को कम से कम %d फ़्रेम प्रति सेकंड दिखाने के लिए सेट किया गया हो."</item>
+        <item quantity="one">"नोट:
+·बैटरी बचतकर्ता के चालू होने या आपके डिवाइस के ज़्यादा गरम होने पर बेहतरीन विज़ुअल उपलब्ध नहीं होंगे.
+·स्मार्ट फ़्रेम दर तब सबसे अच्छे नतीजे दिखाता है, जब आपके गेम को कम से कम %d फ़्रेम प्रति सेकंड दिखाने के लिए सेट किया गया हो."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"नोट:
+· बैटरी बचतकर्ता के चालू होने या आपके डिवाइस के ज़्यादा गरम होने पर बेहतरीन विज़ुअल उपलब्ध नहीं होंगे.
+· एन्हांस किया गया फ़्रेम दर तब सबसे अच्छे नतीजे दिखाता है, जब आपके गेम को कम से कम %d फ़्रेम प्रति सेकंड दिखाने के लिए सेट किया गया हो."</item>
+        <item quantity="one">"नोट:
+· बैटरी बचतकर्ता के चालू होने या आपके डिवाइस के ज़्यादा गरम होने पर बेहतरीन विज़ुअल उपलब्ध नहीं होंगे.
+· एन्हांस किया गया फ़्रेम दर तब सबसे अच्छे नतीजे दिखाता है, जब आपके गेम को कम से कम %d फ़्रेम प्रति सेकंड दिखाने के लिए सेट किया गया हो."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">%d-दिनों का मुफ़्त ट्रायल पाने के लिए, अभी वॉयस चेंजर आज़माएं!</item>
+        <item quantity="one">%d-दिनों का मुफ़्त ट्रायल पाने के लिए, अभी वॉयस चेंजर आज़माएं!</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">%d-दिनों का मुफ़्त ट्रायल नहीं मिल पाया</item>
+        <item quantity="one">%d-दिन का मुफ़्त ट्रायल नहीं मिल पाया</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">%d-दिनों का मुफ़्त ट्रायल मिल गया है</item>
+        <item quantity="one">%d-दिन का मुफ़्त ट्रायल मिल गया है</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">%d-दिनों का मुफ़्त ट्रायल पाएं</item>
+        <item quantity="one">%d-दिन का मुफ़्त ट्रायल पाएं</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"आपके सब्सक्रिप्शन की समयसीमा समाप्त हो गई हैं.
+अब आपको %d-दिन का मुफ़्त ट्रायल मिल सकता है!"</item>
+        <item quantity="one">"आपके सब्सक्रिप्शन की समयसीमा समाप्त हो गई हैं.
+अब आपको %d-दिन का मुफ़्त ट्रायल मिल सकता है!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">%d-दिनों का मुफ़्त ट्रायल पाएं</item>
+        <item quantity="one">%d-दिन का मुफ़्त ट्रायल पाएं</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">ज़्यादा से ज़्यादा %d ऐप्स जोड़े. फिर से व्यवस्थित करने के लिए दबाकर रखें.</item>
+        <item quantity="one">ज़्यादा से ज़्यादा %d ऐप्प जोड़े. फिर से व्यवस्थित करने के लिए दबाकर रखें.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">यह फ़ीचर पॉवर बचाने के लिए, स्क्रीन के %d मिनट तक निष्क्रिय रहने पर स्क्रीन की चमक को कम कर देता है. इस फ़ीचर को चालू रखें?</item>
+        <item quantity="one">यह फ़ीचर पॉवर बचाने के लिए, स्क्रीन के %d मिनट तक निष्क्रिय रहने पर स्क्रीन की चमक को कम कर देता है. इस फ़ीचर को चालू रखें?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">स्क्रीन की चमक को अपने-आप कम करता है, ताकि %d मिनट निष्क्रिय रहने पर पॉवर बचाया जा सके</item>
+        <item quantity="one">स्क्रीन की चमक को अपने-आप कम करता है, ताकि %d मिनट निष्क्रिय रहने पर पॉवर बचाया जा सके</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">आधे घंंटे पहले</item>
+        <item quantity="one">आधे घंंटे पहले</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    और +%1$d वर्ण</item>
+        <item quantity="one">    और +%1$d वर्ण</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d अनुमतियां</item>
+        <item quantity="one">%d अनुमति</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ऐप्स के लिए ऑटोस्टार्ट अनुमत नहीं है</item>
+        <item quantity="one">%d ऐप्प के लिए ऑटोस्टार्ट अनुमत नहीं है</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d ऐप्स को बैकग्राउंड में शुरू होने की अनुमति नहीं है</item>
+        <item quantity="one">%d ऐप्प को बैकग्राउंड में शुरू होने की अनुमति नहीं है</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ऐप्स ऑटोस्टार्ट किए जा सकते हैं</item>
+        <item quantity="one">%d ऐप्प ऑटोस्टार्ट किया जा सकता है</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d ऐप्स बैकग्राउंड में शुरू हो सकते हैं</item>
+        <item quantity="one">%d ऐप्प बैकग्राउंड में शुरू हो सकता है</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ऐप्पके पास रूट एक्सेस मौजूद नहीं है</item>
+        <item quantity="one">%d ऐप्प के पास रूट पहुंच नहीं है</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ऐप्स के पास रूट एक्सेस मौजूद है</item>
+        <item quantity="one">%d ऐप्प के पास रूट पहुंच है</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d जोखिम,</item>
+        <item quantity="one">%d जोखिम,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d ट्रोजन</item>
+        <item quantity="one">%d ट्रोजन</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ऐप</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d ऐप्स डेटा रोमिंग का उपयोग नहीं कर सकते हैं</item>
+        <item quantity="one">%d ऐप्प डेटा रोमिंग का उपयोग नहीं कर सकता है</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d ऐप्स डेटा रोमिंग का उपयोग कर सकते हैं</item>
+        <item quantity="one">%d ऐप्प डेटा रोमिंग का उपयोग कर सकता है</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d ऐप्स मिले</item>
+        <item quantity="one">%d ऐप्प मिला</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d जोख़िम मिले</item>
+        <item quantity="one">%d जोखिम मिला</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d ऐप्स के डेटा उपयोग को ट्रैक किया जा रहा है</item>
+        <item quantity="one">%d ऐप्प के डेटा उपयोग को ट्रैक किया जा रहा है</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d ऐप्स के डेटा उपयोग को ट्रैक नहीं किया जा रहा है</item>
+        <item quantity="one">%d ऐप्प के डेटा उपयोग को ट्रैक नहीं किया जा रहा है</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 घंंटे में</item>
+        <item quantity="one">1 घंंटे में</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">आधे घंंटे में</item>
+        <item quantity="one">आधे घंंटे में</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तुरंत</item>
+        <item quantity="one">तुरंत</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d मिनट में</item>
+        <item quantity="one">1मिनट में</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d गेम्स जोड़े गए</item>
+        <item quantity="one">%d गेम जोड़ा गया</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">आप %d आइटमों की रक्षा कर सकते हैं</item>
+        <item quantity="one">आप %d आइटम की रक्षा कर सकते हैं</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s घंंटे</item>
+        <item quantity="one">%s घंटा</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s मिनट</item>
+        <item quantity="one">%s मिनट</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">अभी-अभी</item>
+        <item quantity="one">अभी-अभी</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">कम से कम %d बिंदुओं को जोड़ें</item>
+        <item quantity="one">कम से कम %d बिंदु जोड़ें</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">कम से कम %s बिंदुओं को जोड़ें</item>
+        <item quantity="one">कम से कम %s बिंदु जोड़ें</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"%d सेकंड प्रतीक्षा करें और फिर प्रयास करें. "</item>
+        <item quantity="one">"%d सेकंड प्रतीक्षा करें और फिर प्रयास करें. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d अपवाद</item>
+        <item quantity="one">%d अपवाद</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d अन्य उपयोगकर्ताओं ने इसे इस रूप में मार्क किया है:</item>
+        <item quantity="one">%d अन्य उपयोगकर्ता ने इसे इस रूप में मार्क किया है:</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d संदेश या कॉल ब्लॉक थे</item>
+        <item quantity="one">%d संदेश या कॉल ब्लॉक थे</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">%d दिनों से डिवाइस स्कैन नहीं किया गया है</item>
+        <item quantity="one">%d दिन से डिवाइस स्कैन नहीं किया गया है</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d ऐप्स में वायरस या मैलवेयर हैं</item>
+        <item quantity="one">%d ऐप्प में वायरस या मैलवेयर हैं</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d अपडेट उपलब्ध हैं</item>
+        <item quantity="one">%d अपडेट उपलब्ध है</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d आइटम चयनित</item>
+        <item quantity="one">%d आइटम चयनित</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">कम से कम %d वर्ण दर्ज करें</item>
+        <item quantity="one">कम से कम %d वर्ण दर्ज करें</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नई सूचनाएं</item>
+        <item quantity="one">%d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">आपका नेटवर्क गति वर्धक सेशन %d दिनों में समाप्त हो जाएगा. हो सकता है कि आपको नेटवर्क में देरी का अनुभव हो रहा हो. सेशन अभी रिन्यू करें?</item>
+        <item quantity="one">आपका नेटवर्क गति वर्धक सेशन %d दिन में समाप्त हो जाएगा. हो सकता है कि आपको नेटवर्क में देरी का अनुभव हो रहा हो. सेशन अभी रिन्यू करें?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"नेटवर्क पहुंच &lt;font color='#ff0000'>%d&lt;/font> ऐप्स के लिए प्रतिबंधित है"</item>
+        <item quantity="one">"नेटवर्क पहुंच &lt;font color='#ff0000'>%d&lt;/font> ऐप्प के लिए प्रतिबंधित है"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d ऐप्स जोड़े नहीं गए</item>
+        <item quantity="one">%d ऐप्प नहीं जोड़ा गया</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">सुरक्षा स्कैन किए हुए %d दिन हो गए हैं</item>
+        <item quantity="one">सुरक्षा स्कैन किए हुए %d दिन हो गया है</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">पिछले %1$d मिनट में %2$d%% बैटरी खर्च हुई है</item>
+        <item quantity="one">पिछले %1$d मिनट में %2$d%% बैटरी खर्च हुई है</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%1$s सहित %2$d ऐप्प ज़्यादा बैटरी खर्च कर रहे हैं</item>
+        <item quantity="one">%1$s सहित %2$d ऐप्प ज़्यादा बैटरी खर्च कर रहा है</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">%d इंस्टॉलेशन पैकेज हटाएं</item>
+        <item quantity="one">%d इंस्टॉलेशन पैकेज हटाएं</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">%d अवशेष APK मिटाएं</item>
+        <item quantity="one">%d अवशेष APK मिटाएं</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">पॉवर की ज़्यादा खपत करने वाले %d आइटम</item>
+        <item quantity="one">पॉवर की ज़्यादा खपत करने वाला %d आइटम</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">बैटरी बचाने के लिए %d आइटम ऑप्टिमाइज़ करें</item>
+        <item quantity="one">बैटरी बचाने के लिए %d आइटम ऑप्टिमाइज़ करें</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">आखिरी बार %d दिनों पहले चेक-अप किया गया था</item>
+        <item quantity="one">आखिरी बार %d दिन पहले चेक-अप किया गया था</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">1 मिनट पहले</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d ऐप्स लॉक किए गए</item>
+        <item quantity="one">%d ऐप्प लॉक किया गया</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d सूचनाएं छिपी हुई थी</item>
+        <item quantity="one">%d सूचना छिपी हुई थी</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d ऐप्स लॉक नहीं किए गए</item>
+        <item quantity="one">%d ऐप्प लॉक नहीं किया गया</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d सूचनाएं दिखाई दे रही हैं</item>
+        <item quantity="one">%d सूचना दिखाई दे रही है</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">कम से कम %d अंक दर्ज करें</item>
+        <item quantity="one">कम से कम %d अंक दर्ज करें.</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">लॉक किए गए %d ऐप्प</item>
+        <item quantity="one">लॉक किया गया %d ऐप्प</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%1$s सहित %2$d ऐप्स दुर्भावनापूर्ण हो सकते हैं</item>
+        <item quantity="one">%1$s सहित %2$d ऐप्प दुर्भावनापूर्ण हो सकता है</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d ऐप्प ज़्यादा बैटरी खर्च कर रहे हैं</item>
+        <item quantity="one">%d ऐप्प ज़्यादा बैटरी खर्च कर रहा है</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" घंटे"</item>
+        <item quantity="one">" घंटा"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" मिनट"</item>
+        <item quantity="one">" मि."</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-दिन</item>
+        <item quantity="one">%d-दिन</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d आइटम</item>
+        <item quantity="one">%d आइटम</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">आपके डिवाइस की बैटरी खत्म हो गई है. %1$d सेकंड में हाइबरनेशन मोड में प्रवेश करने वाले हैं.</item>
+        <item quantity="one">आपके डिवाइस की बैटरी खत्म हो गई है. %1$d सेकंड में हाइबरनेशन मोड में प्रवेश करने वाले हैं.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s दिन</item>
+        <item quantity="one">%s दिन</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s घंंटे</item>
+        <item quantity="one">%s घंटा</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s मिनट</item>
+        <item quantity="one">%s मिनट</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s दिनों में पूरा चार्च हो जाएगा</item>
+        <item quantity="one">%s दिन में पूरा चार्च हो जाएगा</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s घंटे में पूरा चार्च हो जाएगा</item>
+        <item quantity="one">%s घंटा में पूरा चार्च हो जाएगा</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s मिनट में पूरा चार्च हो जाएगा</item>
+        <item quantity="one">%s मिनट में पूरा चार्च हो जाएगा</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s दिन बचे हैं</item>
+        <item quantity="one">%s दिन बचा है</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s घंटे बचे हैं</item>
+        <item quantity="one">%s घंटा बचा है</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s मिनट बचे हैं</item>
+        <item quantity="one">%s मिनट बचा है</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d घंटे बचे हैं</item>
+        <item quantity="one">%d घंटा बचा है</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d मिनट बचे हैं</item>
+        <item quantity="one">%d मिनट बचा है</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d मिनट पहले चार्ज किया गया था</item>
+        <item quantity="one">%d मिनट पहले चार्ज किया गया था</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d सेकंड पहले चार्ज किया गया था</item>
+        <item quantity="one">%d सेकंड पहले चार्ज किया गया था</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d लोगो द्वारा डाउनलोड किया गया</item>
+        <item quantity="one">%1$d लोगो द्वारा डाउनलोड किया गया</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d लोगो द्वारा डाउनलोड किया गया</item>
+        <item quantity="one">%1$d लोगो द्वारा डाउनलोड किया गया</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">आपका डिवाइस %d सेकंड बाद बंद हो जाएगा</item>
+        <item quantity="one">आपका डिवाइस %d सेकंड बाद बंद हो जाएगा</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s घंटे</item>
+        <item quantity="one">%s घंटा</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s मिनट</item>
+        <item quantity="one">%s मिनट</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">बार</item>
+        <item quantity="one">बार</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d बार</item>
+        <item quantity="one">%d बार</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">पॉवर की ज़्यादा खपत करने वाले %d आइटम</item>
+        <item quantity="one">पॉवर की ज़्यादा खपत करने वाला %d आइटम</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d दिन "</item>
+        <item quantity="one">"%d दिन "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" घंटे"</item>
+        <item quantity="one">" घंटा"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" मिनट"</item>
+        <item quantity="one">" मिनट"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d घंटे "</item>
+        <item quantity="one">"%d घंटा "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d मिनट "</item>
+        <item quantity="one">"%d मिनट "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">%d सिनेरियो में बैटरी उपयोग ऑप्टिमाइज़ करें</item>
+        <item quantity="one">%d सिनेरियो में बैटरी उपयोग ऑप्टिमाइज़ करें</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">बैटरी उपयोग से जुड़ी %d समस्याएं ठीक करें</item>
+        <item quantity="one">बैटरी उपयोग से जुड़ी %d समस्या ठीक करें</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">आप %d आइटमों के लिए पॉवर की खपत ऑप्टिमाइज़ कर सकते हैं</item>
+        <item quantity="one">आप %d आइटम के लिए पॉवर की खपत ऑप्टिमाइज़ कर सकते हैं</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d आइटम ऑप्टिमाइज़ किए जा सकते हैं"</item>
+        <item quantity="one">" %d आइटम ऑप्टिमाइज़ किया जा सकता है"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">बैटरी बचाने के लिए %d आइटम ऑप्टिमाइज़ करें</item>
+        <item quantity="one">बैटरी बचाने के लिए %d आइटम ऑप्टिमाइज़ करें</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">बैटरी बचाने के लिए, आप %d आइटम ऑप्टिमाइज़ कर सकते हैं</item>
+        <item quantity="one">बैटरी बचाने के लिए, आप %d आइटम ऑप्टिमाइज़ कर सकते हैं</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d मिनट जोड़ें</item>
+        <item quantity="one">%d मिनट जोड़ें</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">आइटम</item>
+        <item quantity="one">आइटम</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">रद्द करें (%dसे.)</item>
+        <item quantity="one">रद्द करें (%dसे.)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s दिन बचे हैं</item>
+        <item quantity="one">%s दिन बचा है</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s घंटे बचे हैं</item>
+        <item quantity="one">%s घंटा बचा है</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s मिनट बचे हैं</item>
+        <item quantity="one">%s मिनट बचा है</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s मिनट स्क्रीन समय शेष है</item>
+        <item quantity="one">%s मिनट स्क्रीन समय शेष है</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">%s मिनट स्क्रीन समय जोड़ने के लिए चालू करें</item>
+        <item quantity="one">%s मिनट स्क्रीन समय जोड़ने के लिए चालू करें</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">ठीक है (%d)</item>
+        <item quantity="one">ठीक है (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">समझ गया (%dसे)</item>
+        <item quantity="one">समझ गया (%dसे)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">आपका डिवाइस %d सेकंड में बंद हो जाएगा. चार्जर कनेक्ट करें.</item>
+        <item quantity="one">आपका डिवाइस %d सेकंड में बंद हो जाएगा. चार्जर कनेक्ट करें.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d ऐप्स बार-बार ऑटोस्टार्ट होते हैं</item>
+        <item quantity="one">%d ऐप्प बार-बार ऑटोस्टार्ट होता है</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d ऐप्स बैटरी खर्च करते हैं</item>
+        <item quantity="one">%d ऐप्प बैटरी खर्च करता है</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ऐप्प आइकन छिपे हुए हैं</item>
+        <item quantity="one">%d ऐप्प आइकन छिपा हुआ है</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ऐप्प आइकन छिपे हुए नहीं हैं</item>
+        <item quantity="one">%d ऐप्प आइकन छिपा हुआ नहीं है</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s ऐप्स के पास स्थायी एक्सेस है</item>
+        <item quantity="one">%s ऐप्प के पास स्थायी एक्सेस है</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">%s ऐप्स को अनुमति दी गई है</item>
+        <item quantity="one">%s ऐप्प को अनुमति दी गई है</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s बार</item>
+        <item quantity="one">%s बार</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d अधिक-जोखिम अनुमतियां दी गईं</item>
+        <item quantity="one">%d अधिक-जोखिम अनुमति दी गई</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d जोखिम भरे ऐप्प मिले</item>
+        <item quantity="one">%d जोखिम भरा ऐप्प मिला</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d स्थान की जानकारी देने से जुड़े जोखिम</item>
+        <item quantity="one">%d स्थान की जानकारी देने से जुड़ा जोखिम</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d जोखिम मिले</item>
+        <item quantity="one">%d जोखिम मिला</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d संभावित जोखिम मिले</item>
+        <item quantity="one">%d संभावित जोखिम मिला</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d फ़ोटो में ऐसी जानकारी हो सकती है जो निजी या संवेदनशील हो</item>
+        <item quantity="one">%d फ़ोटो में ऐसी जानकारी हो सकती है जो निजी या संवेदनशील हो</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">आपकी गोपनीयता की रक्षा करने वाले %d फ़ीचरों को बंद कर दिया गया है</item>
+        <item quantity="one">आपकी गोपनीयता की रक्षा करने वाले %d फ़ीचर को बंद कर दिया गया है</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d संवेदनशील अनुमतियां दी गईं</item>
+        <item quantity="one">%d संवेदनशील अनुमति दी गई</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">%d ऐप्स अनइंस्टॉल करें</item>
+        <item quantity="one">%d ऐप्प अनइंस्टॉल करें</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d आइटमों को अतिरिक्त सुरक्षा की आवश्यकता है</item>
+        <item quantity="one">%d आइटम को अतिरिक्त सुरक्षा की आवश्यकता है</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d बैटरी समस्याएं</item>
+        <item quantity="one">%d बैटरी समस्या</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d बैटरी समस्याएं मिले</item>
+        <item quantity="one">%d बैटरी समस्या मिली</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d बैटरी समस्याएं मिली हैंं, इसे ठीक करें</item>
+        <item quantity="one">%d बैटरी समस्या मिली है, इसे ठीक करें</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">पॉवर की ज़्यादा खपत करने वाले %d आइटमों को ऑप्टिमाइज़ किया गया</item>
+        <item quantity="one">पॉवर की ज़्यादा खपत करने वाले %d आइटम को ऑप्टिमाइज़ किया गया</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">फैक्टरी रीसेट (%ds)</item>
+        <item quantity="one">फैक्टरी रीसेट (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">%d अनाधिकारिक ऐप्स मिले</item>
+        <item quantity="one">%d अनाधिकारिक ऐप्प मिला</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d दुर्भावनापूर्ण ऐप्स मिले</item>
+        <item quantity="one">%d दुर्भावनापूर्ण ऐप्प मिला</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d ऐप्स खोजें</item>
+        <item quantity="one">%d ऐप्प खोजें</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">लॉक किए गए %d ऐप्स को मिटाया जाना बाकी है</item>
+        <item quantity="one">लॉक किए गए %d ऐप्प को मिटाया जाना बाकी है</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">%d वायरस हटाए गए</item>
+        <item quantity="one">%d वायरस हटाया गया</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s भुगतान ऐप्स संरक्षित हैं</item>
+        <item quantity="one">%s भुगतान ऐप्प संरक्षित है</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s ऐप्स संरक्षित नहीं है</item>
+        <item quantity="one">%s ऐप्प संरक्षित नहीं है</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s ऐप्स संरक्षित हैंं</item>
+        <item quantity="one">%s ऐप्प संरक्षित है</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d आइटम</item>
+        <item quantity="one">%d आइटम</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d कीवर्ड</item>
+        <item quantity="one">%d कीवर्ड</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d नंबर</item>
+        <item quantity="one">%d नंबर</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d अनुमतियां संपादित करें</item>
+        <item quantity="one">%1$d अनुमति संपादित करें</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> खंड</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> खंड</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ऐप्प के लिए अपडेट उपलब्ध.</item>
+        <item quantity="one">%d ऐप्प के लिए अपडेट उपलब्ध.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">मोबाइल ऑपरेटर का डेटा उपयोग आकंडा %d दिनों से सिंक नहीं किया गया है</item>
+        <item quantity="one">मोबाइल ऑपरेटर का डेटा उपयोग आकंडा %d दिन से सिंक नहीं किया गया है</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d आइटम सुरक्षित</item>
+        <item quantity="one">%1$d आइटम सुरक्षित</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> ऐप्स अपडेट करें&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> ऐप्प अपडेट करें&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d वायरस मिटाए गए</item>
+        <item quantity="one">%d वायरस मिटाया गया</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d वायरस या जोखिम भरे ऐप्स</item>
+        <item quantity="one">%d वायरस या जोखिम भरा ऐप्प</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d ऐप्प</item>
+        <item quantity="one">%d ऐप</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d गेम्स नहीं जोड़े गए हैंं</item>
+        <item quantity="one">%d गेम नहीं जोड़ा गया है</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">कम से कम %s बिंदुओं को जोड़ें</item>
+        <item quantity="one">कम से कम %s बिंदु जोड़ें</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">%s अंक दर्ज करें</item>
+        <item quantity="one">%s अंक दर्ज करें</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d ऐप्स</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"आप %d घंटे से वीडियो देख रहे हैं.
+ब्रेक तो बनता है!"</item>
+        <item quantity="one">"आप %d घंटे से वीडियो देख रहे हैं.
+ब्रेक तो बनता है!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d बार देखा गया</item>
+        <item quantity="one">%1$d बार देखा गया</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">चुने गए %d ऐप्स मिटाएं</item>
+        <item quantity="one">चुना गया %d ऐप्प मिटाएं</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s ऐप्स</item>
+        <item quantity="one">%s ऐप्प</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">असुरक्षित ऐप्स: %d</item>
+        <item quantity="one">असुरक्षित ऐप्प: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">ट्रोजन: %d</item>
+        <item quantity="one">ट्रोजन: %d</item>
+    </plurals>
+</resources>

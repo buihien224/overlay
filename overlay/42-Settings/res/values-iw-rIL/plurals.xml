@@ -7,10 +7,10 @@
         <item quantity="many">לפני שעה אחת</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">לפני שעה אחת</item>
-        <item quantity="one">לפני שעה אחת</item>
-        <item quantity="two">לפני שעה אחת</item>
-        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני שעה %d</item>
+        <item quantity="two">לפני %d שעות</item>
+        <item quantity="many">לפני %d שעות</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -19,10 +19,10 @@
         <item quantity="many">לפני חצי שעה</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">בעוד שעה אחת</item>
-        <item quantity="one">בעוד שעה אחת</item>
-        <item quantity="two">בעוד שעה אחת</item>
-        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד (%d) שעות</item>
+        <item quantity="one">בעוד שעה (%d)</item>
+        <item quantity="two">בעוד (%d) שעות</item>
+        <item quantity="many">בעוד (%d) שעות</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">בעוד חצי שעה</item>
@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">בעוד %d דקות</item>
-        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="one">בעוד דקה %d</item>
         <item quantity="two">בעוד %d דקות</item>
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
@@ -50,7 +50,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>
-        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="one">לפני דקה %d</item>
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
@@ -107,6 +107,12 @@
         <item quantity="one">החיבור הוגבל עבור יישום %s</item>
         <item quantity="two">החיבור הוגבל עבור %s יישומים</item>
         <item quantity="many">החיבור הוגבל עבור %s יישומים</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">נא להמתין %d שניות ולנסות שוב</item>
+        <item quantity="one">נא להמתין שנייה %d ולנסות שוב</item>
+        <item quantity="two">נא להמתין %d שניות ולנסות שוב</item>
+        <item quantity="many">נא להמתין %d שניות ולנסות שוב</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d אנשים מחוברים</item>
@@ -198,6 +204,12 @@
         <item quantity="two">יש להמתין במשך %d שניות ולנסות שוב.</item>
         <item quantity="many">יש להמתין במשך %d שניות ולנסות שוב.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">%d תהליכים לכל היותר</item>
+        <item quantity="one">תהליך אחד (%d) לכל היותר</item>
+        <item quantity="two">%d תהליכים לכל היותר</item>
+        <item quantity="many">%d תהליכים לכל היותר</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d נוספו</item>
         <item quantity="one">%d נוסף</item>
@@ -215,6 +227,12 @@
         <item quantity="one">פריט %d נבחר</item>
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">השינויים יכולו בעוד %d שניות</item>
+        <item quantity="one">השינויים יכולו בעוד שנייה %d</item>
+        <item quantity="two">השינויים יכולו בעוד %d שניות</item>
+        <item quantity="many">השינויים יכולו בעוד %d שניות</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>
@@ -234,11 +252,17 @@
         <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">את/ה במרחק של %1$d צעדים מלהיות מפתח/ת.</item>
+        <item quantity="one">את/ה במרחק של צעד אחד (%1$d) מלהיות מפתח/ת.</item>
+        <item quantity="two">את/ה במרחק של %1$d צעדים מלהיות מפתח/ת.</item>
+        <item quantity="many">את/ה במרחק של %1$d צעדים מלהיות מפתח/ת.</item>
+    </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="other">"You're %1$d steps away from opening device info."</item>
         <item quantity="one">אתה נמצא במרחק של צעד אחד (%1$d) מפתיחת פרטי מכשיר.</item>
-        <item quantity="two">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
-        <item quantity="many">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="two">"You're %1$d steps away from opening device info."</item>
+        <item quantity="many">"You're %1$d steps away from opening device info."</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
@@ -257,6 +281,36 @@
         <item quantity="one">יישום %d יכול להציג התראות</item>
         <item quantity="two">%d יישומים יכולים להציג התראות</item>
         <item quantity="many">%d יישומים יכולים להציג התראות</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">לאחר %d דקות</item>
+        <item quantity="one">לאחר דקה אחת (%d)</item>
+        <item quantity="two">לאחר %d דקות</item>
+        <item quantity="many">לאחר %d דקות</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d ביטים לדגימה</item>
+        <item quantity="one">%d ביט לדגימה</item>
+        <item quantity="two">%d ביטים לדגימה</item>
+        <item quantity="many">%d ביטים לדגימה</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת (%d)</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת (%d)</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת (%d)</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מ-%d דקות</item>
@@ -377,11 +431,5 @@
         <item quantity="one">רשת %d שותפה</item>
         <item quantity="two">%d רשתות שותפו</item>
         <item quantity="many">%d רשתות שותפו</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">מחוברים %1$d מכשירים</item>
-        <item quantity="one">מחובר מכשיר %1$d</item>
-        <item quantity="two">מחוברים %1$d מכשירים</item>
-        <item quantity="many">מחוברים %1$d מכשירים</item>
     </plurals>
 </resources>

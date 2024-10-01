@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="other">%d-ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d-ਘੰਟਾ ਪਹਿਲੇ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
         <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
-        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="other">%d ਘੰਟਿਆਂ ਵਿੱਚ</item>
+        <item quantity="one">%d ਘੰਟੇ ਵਿੱਚ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
@@ -26,7 +22,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
-        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+        <item quantity="one">%d ਮਿੰਟ ਵਿੱਚ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ਹੁਣੇ ਹੀ</item>
@@ -34,95 +30,63 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
-        <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">ਵਾਤਾਵਰਨਕ ਦਬਾਅ: %s ਹੈਕਟੋਪਾਸਕਲ</item>
+        <item quantity="one">ਵਾਤਾਵਰਨਕ ਦਬਾਅ: %s ਹੈਕਟੋਪਾਸਕਲ</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
-        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">ਖਰਚ ਹੋਈਆਂ %1$s ਕੈਲੋਰੀਆਂ</item>
+        <item quantity="one">ਖਰਚ ਹੋਈ %1$s ਕੈਲੋਰੀ</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
-        <item quantity="one">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">ਕੈਲੋਰੀ ਟੀਚਾ: %1$s ਕੈਲੋਰੀਆਂ</item>
+        <item quantity="one">ਕੈਲੋਰੀ ਟੀਚਾ: %1$s ਕੈਲੋਰੀ</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">ਤੁਰੰਤ</item>
-        <item quantity="one">ਤੁਰੰਤ</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s ਕਿੱਲੋ-ਕੈਲੋਰੀਆਂ</item>
+        <item quantity="one">%1$s/%2$s ਕਿੱਲੋ-ਕੈਲੋਰੀ</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
-        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">ਸਰਗਰਮੀ ਸਮਾਂ: %1$s ਮਿੰਟ</item>
+        <item quantity="one">ਸਰਗਰਮੀ ਸਮਾਂ: %1$s ਮਿੰਟ</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">ਗ਼ਲਤ ਪਿੰਨ ਕੋਡ, %d ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ</item>
-        <item quantity="one">ਗ਼ਲਤ ਪਿੰਨ ਕੋਡ, %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">ਸਰਗਰਮੀ ਟੀਚਾ: %1$s ਮਿੰਟ</item>
+        <item quantity="one">ਸਰਗਰਮੀ ਟੀਚਾ: %1$s ਮਿੰਟ</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">ਗਲਤ PUK ਕੋਡ, %d ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ</item>
-        <item quantity="one">ਗਲਤ PUK ਕੋਡ, %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s ਮਿੰਟ</item>
+        <item quantity="one">%1$s/%2$s ਮਿੰਟ</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">ਹਮੇਸ਼ਾਂ ਯਾਦ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ ਹਰੇਕ %d ਘੰਟਿਆਂ ਵਿੱਚ ਦਾਖ਼ਲ ਕਰੋ</item>
-        <item quantity="one">ਹਮੇਸ਼ਾਂ ਯਾਦ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ ਹਰੇਕ %d ਘੰਟੇ ਵਿੱਚ ਦਾਖ਼ਲ ਕਰੋ</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਉੱਠੋ</item>
+        <item quantity="one">%1$s ਘੰਟੇ ਦੇ ਅੰਦਰ ਉੱਠੋ</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">ਖੜ੍ਹੇ ਹੋਣ ਦਾ ਟੀਚਾ: %1$s ਘੰਟੇ</item>
+        <item quantity="one">ਖੜ੍ਹੇ ਹੋਣ ਦਾ ਟੀਚਾ: %1$s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ਘੰਟੇ</item>
+        <item quantity="one">%1$s/%2$s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ਵਰਤਮਾਨ ਕਦਮਾਂ ਦੀ ਗਿਣਤੀ: %1$s ਕਦਮ</item>
+        <item quantity="one">ਵਰਤਮਾਨ ਕਦਮਾਂ ਦੀ ਗਿਣਤੀ: %1$s ਕਦਮ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">ਕਦਮ ਟੀਚਾ: %1$s ਕਦਮ</item>
+        <item quantity="one">ਕਦਮ ਟੀਚਾ: %1$s ਕਦਮ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s ਕਦਮ</item>
+        <item quantity="one">%1$s/%2$s ਕਦਮ</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">ਹਮੇਸ਼ਾਂ ਯਾਦ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ ਹਰੇਕ %d ਘੰਟਿਆਂ ਵਿੱਚ ਦਾਖ਼ਲ ਕਰੋ</item>
         <item quantity="one">ਹਮੇਸ਼ਾਂ ਯਾਦ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ ਹਰੇਕ %d ਘੰਟੇ ਵਿੱਚ ਦਾਖ਼ਲ ਕਰੋ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">ਲਗਭਗ %d ਘੰਟੇ ਬਾਕੀ</item>
-        <item quantity="one">ਲਗਭਗ %d ਘੰਟਾ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">ਲਗਭਗ %d ਮਿੰਟ ਬਾਕੀ</item>
-        <item quantity="one">ਲਗਭਗ %d ਮਿੰਟ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">ਲਗਭਗ %1$d ਘੰ %2$d ਮਿੰ ਬਾਕੀ</item>
-        <item quantity="one">ਲਗਭਗ %1$d ਘੰ %2$d ਮਿੰ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d ਘੰਟੇ</item>
-        <item quantity="one">%d ਘੰਟਾ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d ਮਿੰਟ</item>
-        <item quantity="one">%d ਮਿੰਟ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d ਘੰ %2$d ਮਿੰ</item>
-        <item quantity="one">%1$d ਘੰ %2$d ਮਿੰ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d ਘੰਟੇ ਬਾਕੀ</item>
-        <item quantity="one">%d ਘੰਟਾ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d ਮਿੰਟ ਬਾਕੀ</item>
-        <item quantity="one">%d ਮਿੰਟ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d h %2$d ਮਿੰਟ ਬਾਕੀ</item>
-        <item quantity="one">%1$d h %2$d ਮਿੰਟ ਬਾਕੀ</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">ਬਸ ਹੁਣੇ ਹੀ</item>
-        <item quantity="one">ਬਸ ਹੁਣੇ ਹੀ</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d ਆਈਟਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
-        <item quantity="one">%d ਆਈਟਮ ਚੁਣੀ ਗਈ</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d ਨਵੀਂਆਂ ਸੂਚਨਾਵਾਂ</item>
-        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">%d ਸਕਿੰਟਾਂ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
         <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">ਤਾਪਮਾਨ: %1$s ਡਿਗਰੀ, %2$s</item>
+        <item quantity="one">ਤਾਪਮਾਨ: %1$s ਡਿਗਰੀ, %2$s</item>
     </plurals>
 </resources>

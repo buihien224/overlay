@@ -4,13 +4,13 @@
         <item quantity="other">1 ម៉ោងមុន</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ម៉ោងមុន</item>
+        <item quantity="other">%d ម៉ោងមុន</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">កន្លះ​ម៉ោងមុន</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ក្នុង​រយៈពេល 1 ម៉ោង</item>
+        <item quantity="other">ក្នុងរយៈពេល %d ម៉ោង</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ក្នុង​រយៈពេល​កន្លះ​ម៉ោង</item>
@@ -28,10 +28,10 @@
         <item quantity="other">%d នាទីមុន</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">កុំដំណើរ​កម្មវិធី​ %d នេះឱ្យសស់</item>
+        <item quantity="other">កុំដំណើរ​ការ​កម្មវិធី​ %d នេះឱ្យសស់</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">បិទដំណើរ​កម្មវិធី​ %d នេះជានិច្ច</item>
+        <item quantity="other">បិទដំណើរ​ការកម្មវិធី​ %d នេះជានិច្ច</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">​បានអនុញ្ញាតឱ្យកម្មវិធី​ %d ចាប់ផ្ដើមស្វ័យប្រវត្តិ</item>
@@ -53,6 +53,9 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">ការតាក់តែងការតភ្ជាប់សម្រាប់ %s កម្មវិធី</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">ចាំ %d វិនាទីសិន ហើយ​ព្យាយាមម្ដងទៀត</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">មនុស្ស​​ចំនួន %1$d នាក់​​បានត​ភ្ជាប់</item>
@@ -99,6 +102,9 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">រង់ចាំ​ %d វិនាទី ហើយ​ព្យាយាម​ម្ដងទៀត។</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">យ៉ាងច្រើនបំផុត %d ដំណើរការ</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d បានបន្ថែម​</item>
     </plurals>
@@ -108,6 +114,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">បានជ្រើសរើសធាតុ​ចំនួន %d</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">ការផ្លាស់ប្ដូរនឹងត្រូវបានអនុវត្តក្នុងរយៈពេល %d វិនាទី</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d នាទីមុន</item>
     </plurals>
@@ -116,6 +125,9 @@
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">អ្នក​កំពុង​ដំណើរការ​បាន %1$d ជំហាន​ពីការវាយបញ្ចូល​ CIT។</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ឥឡូវនេះអ្នកនៅសល់ %1$d ជំហានទៀតដែលត្រូវសិក្សារដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍។</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">អ្នក​នៅសល់ %1$d ជំហានទៀត​ដើម្បីបើកមើលព័ត៌មាន​ទូរស័ព្ទបាន។</item>
@@ -128,6 +140,21 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">កម្មវិធី %d អាចបង្ហាញការជូនដំណឹងបាន</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">បន្ទាប់ពី %d នាទី</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d ប៊ីត/គម្រូ</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d នាទី</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d វិនាទី</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">ទទួលបានការរំលឹកនៅពេលណាកាសរបស់អ្នកនៅឆ្ងាយពីត្រចៀករបស់អ្នក ឬ ប្រអប់សាកថ្មយូរជាង %d នាទី</item>
@@ -160,22 +187,22 @@
         <item quantity="other">" នាទី"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
-        <item quantity="other">%d ការជូនដំណឹង</item>
+        <item quantity="other">ការជូនដំណឹង %d</item>
     </plurals>
     <plurals name="usage_state_unlock_count">
         <item quantity="other">%d ដង</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-        <item quantity="other">ថ្ងៃចុងសប្ដាហ៍: %d ម៉ោង</item>
+        <item quantity="other">ថ្ងៃចុងសប្ដាហ៍៖ %d ម៉ោង</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-        <item quantity="other">ថ្ងៃចុងសប្ដាហ៍: %d នាទី</item>
+        <item quantity="other">ថ្ងៃចុងសប្ដាហ៍៖ %d នាទី</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">ថ្ងៃធ្វើការ៖ %d ម៉ោង</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">ថ្ងៃធ្វើការ៖ %d នាទី</item>
+        <item quantity="other">ថ្ងៃធ្វើការ: %d នាទី</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ម៉ោង"</item>
@@ -188,8 +215,5 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">បាន​ចែករំលែក​បណ្ដាញ %d</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d ឧបករណ៍បានតភ្ជាប់</item>
     </plurals>
 </resources>

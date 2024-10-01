@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>Սա առաջարկվող բովանդակություն է:</item>
-        <item>Սա գովազդ է:</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Ակտիվ"</item>
+        <item>" | Ակտիվ (լրատվամիջոցներ)"</item>
+        <item>" | Ակտիվ (հեռախոս)"</item>
     </string-array>
 </resources>

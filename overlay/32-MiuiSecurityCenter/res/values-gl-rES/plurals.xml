@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Hai 1 hora</item>
+        <item quantity="one">Hai 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Hai %d horas</item>
+        <item quantity="one">Hai %d hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Hai media hora</item>
+        <item quantity="one">Hai media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">En %d horas</item>
+        <item quantity="one">En %d hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">En media hora</item>
+        <item quantity="one">En media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Inmediatamente</item>
+        <item quantity="one">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hai %d mins</item>
+        <item quantity="one">Hai %d min</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Engadidos %d xogos</item>
+        <item quantity="one">Engadido %d xogo</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplicacións engadidas</item>
+        <item quantity="one">%d aplicación engadida</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Permitido %3$d veces entre ás %1$s e ás %2$s</item>
+        <item quantity="one">Permitido %3$d vez entre ás %1$s e ás %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Utilizado durante %1$d minutos</item>
+        <item quantity="one">Utilizado durante %1$d minuto</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Utilizado durante %1$d minutos ata ás %2$s</item>
+        <item quantity="one">Utilizado durante %1$d minuto ata ás %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Os rexistros do comportamento da aplicación almacenaranse neste dispositivo %d días. Desactivar esta función eliminará todos os rexistros do comportamento da aplicación e non se recomenda.</item>
+        <item quantity="one">Os rexistros do comportamento da aplicación almacenaranse neste dispositivo %d día. Desactivar esta función eliminará todos os rexistros do comportamento da aplicación e non se recomenda.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Permitidos %d permisos</item>
+        <item quantity="one">Permitido %d permiso</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Pedir %d permisos</item>
+        <item quantity="one">Pedir %d permiso</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Desinstalar %d aplicacións?</item>
+        <item quantity="one">Desinstalar %d aplicación</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Actualizar %d aplicacións</item>
+        <item quantity="one">Actualizar %d aplicación</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Usada hai %d días</item>
+        <item quantity="one">Usada hai %d día</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Usada hai %d meses</item>
+        <item quantity="one">Usada hai %d mes</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Usada hai %d anos</item>
+        <item quantity="one">Usada hai %d ano</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Podes usar App lock con %1$s aplicacións</item>
+        <item quantity="one">Podes usar App lock con %1$s aplicación</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Podes protexer ao menos %s aplicacións</item>
+        <item quantity="one">Podes protexer ao menos %s aplicación</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplicacións protexeranse con App lock</item>
+        <item quantity="one">%s aplicación protexerase con App lock</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplicacións incluíndo %1$s</item>
+        <item quantity="one">%2$d aplicación incluíndo %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplicacións poden conectarse á rede en segundo plano</item>
+        <item quantity="one">%d aplicación pode conectarse á rede en segundo plano</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d aplicacións non se poden conectar á rede en segundo plano</item>
+        <item quantity="one">%d aplicación non se pode conectar á rede en segundo plano</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">Protexendo %d aplicacións</item>
+        <item quantity="one">Protexendo %d aplicación</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Podes desinstalar &lt;font color=#F22424>%d&lt;/font> aplicacións&lt;/Data></item>
+        <item quantity="one">&lt;Data>Podes desinstalar &lt;font color=#F22424>%d&lt;/font> aplicación&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Xa usou %s límites de datos diarios.
+
+Se activa de novo os datos móbiles, o seu operador telefónico podería aplicarlle custos adicionais."</item>
+        <item quantity="one">"Xa usou %s límite de datos diario.
+
+Se activa de novo os datos móbiles, o seu operador telefónico podería aplicarlle custos adicionais."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Xa usou %s do límite de datos diarios.</item>
+        <item quantity="one">Xa usou %s do límite de datos diarios.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">En %1$d minutos</item>
+        <item quantity="one">En %1$d minuto</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">A puntuación de rendemento do teu dispositivo é inferior a %d puntos. Optimizar agora?</item>
+        <item quantity="one">A puntuación de rendemento do teu dispositivo é inferior a %d punto. Optimizar agora?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Buscar entre %d aplicacións</item>
+        <item quantity="one">Buscar entre %d aplicación</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riscos relacionados coa privacidade</item>
+        <item quantity="one">%d risco relacionado coa privacidade</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemas que requiren optimización</item>
+        <item quantity="one">%1$d problema que require optimización</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicacións atopadas</item>
+        <item quantity="one">%d aplicación atopada</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d características</item>
+        <item quantity="one">%d característica</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d chamadas de %2$s e outros</item>
+        <item quantity="one">%1$d chamada de %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d chamadas de %2$s e outros</item>
+        <item quantity="one">%1$d chamada de %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d mensaxes</item>
+        <item quantity="one">%d mensaxe</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">A túa subscrición a Game Turbo rematará en %d días. Renova agora para gozar de xogos fluídos.</item>
+        <item quantity="one">A túa subscrición a Game Turbo rematará en %d día. Renova agora para gozar de xogos fluídos.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d persoas están xogando</item>
+        <item quantity="one">%1$d persoa está xogando</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d persoas están xogando</item>
+        <item quantity="one">%1$d persoa está xogando</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Desinstalar %2$d xogos (incluíndo %1$s)</item>
+        <item quantity="one">Desinstalar %2$d xogo (incluíndo %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Grava os momentos claves automaticamente e crea vídeos con elementos destacados de sesión. Podes elixir gardalos permanentemente despois de cada sesión de xogo. Os vídeos non gardados eliminaranse automaticamente despois de %1$d días.</item>
+        <item quantity="one">Grava os momentos claves automaticamente e crea vídeos con elementos destacados de sesión. Podes elixir gardalos permanentemente despois de cada sesión de xogo. Os vídeos non gardados eliminaranse automaticamente despois de %1$d día.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Gardáronse %d gravacións AI en Game Turbo</item>
+        <item quantity="one">Gardouse %d gravación AI en Game Turbo</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d segs</item>
+        <item quantity="one">%d seg</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Visitado %d días seguidos</item>
+        <item quantity="one">Visitado en %d tempo</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Entendido (%d s)</item>
+        <item quantity="one">Entendido (%d s)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Nota:
+·Os elementos visuais aumentados non estáran dispoñibles cado o Aforrador de batería estea activado ou o teu dispositivo estea sobrequentado.
+·A taxa de cadros intelixente amosa os mellores resultados cando a túa partida estea configurada para amosar como mínimo %d cadros por segundo."</item>
+        <item quantity="one">"Nota:
+·Os elementos visuais aumentados non estáran dispoñibles cado o Aforrador de batería estea activado ou o teu dispositivo estea sobrequentado.
+·A taxa de cadros intelixente amosa os mellores resultados cando a túa partida estea configurada para amosar como mínimo %d cadro por segundo."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Nota:
+· Os elementos visuais aumentados non estarán dispoñibles cando Aforrador de batería estea activado ou o teu dispositivo estea sobrequente.
+· A taxa de cadros aumentada logra os mellores resultados cando a túa partida está configurada para amosar como mínimo %d cadros por segundo."</item>
+        <item quantity="one">"Nota:
+· Os elementos visuais aumentados non estarán dispoñibles cando Aforrador de batería estea activado ou o teu dispositivo estea sobrequente.
+· A taxa de cadros aumentada logra os mellores resultados cando a túa partida está configurada para amosar como mínimo %d cadro por segundo."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Proba agora o Cambiador de voz
+para obter unha proba gratuíta de %d días!"</item>
+        <item quantity="one">"Proba agora o Cambiador de voz
+para obter unha proba gratuíta de %d día!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Non se puido recibir unha proba gratuíta de %d días</item>
+        <item quantity="one">Non se puido recibir unha proba gratuíta de %d día</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Recibíronse correctamente unha proba gratuíta de %d días</item>
+        <item quantity="one">Recibiuse correctamente unha proba gratuíta de %d día</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Obtén unha proba gratuíta de %d días</item>
+        <item quantity="one">Obtén unha proba gratuíta de %d día</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"A túa subscrición expirou.
+Podes obter unha proba gratuíta de %d días agora!"</item>
+        <item quantity="one">"A túa subscrición expirou.
+Podes obter unha proba gratuíta de %d día agora!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Obtén unha proba gratuíta de %d días</item>
+        <item quantity="one">Obtén unha proba gratuíta de %d día</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Engade ata %d aplicacións. Mantén pulsado para reorganizar.</item>
+        <item quantity="one">Engade ata %d aplicación. Mantén pulsado para reorganizar.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Esta función reduce o brillo da pantalla despois de %d minutos de inactividade para aforrar enerxía. Desexas manter activada esta función?</item>
+        <item quantity="one">Esta función reduce o brillo da pantalla despois de %d minuto de inactividade para aforrar enerxía. Desexas manter activada esta función?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Reducir o brillo da pantalla automaticamente para aforrar enerxía despois de %d minutos de inactividade</item>
+        <item quantity="one">Reducir o brillo da pantalla automaticamente para aforrar enerxía despois de %d minuto de inactividade</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Hai media hora</item>
+        <item quantity="one">Hai media hora</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d máis caracteres</item>
+        <item quantity="one">    +%1$d máis carácter</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permisos</item>
+        <item quantity="one">%d permiso</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplicacións non poden iniciarse automaticamente</item>
+        <item quantity="one">%d aplicación non pode iniciarse automaticamente</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d aplicacións non están autorizadas para iniciarse en segundo plano</item>
+        <item quantity="one">%d aplicación non está autorizada para iniciarse en segundo plano</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplicacións poden iniciarse automaticamente</item>
+        <item quantity="one">%d aplicación pode iniciarse automaticamente</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplicacións poden iniciarse en segundo plano</item>
+        <item quantity="one">%d aplicación pode iniciarse en segundo plano</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplicacións non teñen un acceso como root</item>
+        <item quantity="one">%d aplicación non ten un acceso como root</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplicacións teñen acceso como root</item>
+        <item quantity="one">%d aplicación ten acceso como root</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risco,</item>
+        <item quantity="one">%d risco,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d troianos</item>
+        <item quantity="one">%d troiano</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplicacións non podes usar os datos de roaming</item>
+        <item quantity="one">%d aplicación non pode usar os datos de roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplicacións poden usar o roaming de datos</item>
+        <item quantity="one">%d aplicación pode usar o roaming de datos</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Atopadas %d aplicacións</item>
+        <item quantity="one">Atopada %d aplicación</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d riscos detectados</item>
+        <item quantity="one">%d risco detectado</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Controlando os datos de uso para %d aplicacións</item>
+        <item quantity="one">Controlando os datos de uso para %d aplicación</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Se control de usos de datos para %d aplicacións</item>
+        <item quantity="one">Se control de usos de datos para %d aplicación</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Nunha hora</item>
+        <item quantity="one">Nunha hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">En media hora</item>
+        <item quantity="one">En media hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Inmediatamente</item>
+        <item quantity="one">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">Nun minuto</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Engadido %d xogos</item>
+        <item quantity="one">Engadido %d xogo</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Podes protexer %d elementos</item>
+        <item quantity="one">Podes protexer %d elemento</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Conectar polo menos %d puntos</item>
+        <item quantity="one">Conectar polo menos %d punto</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Conecta polo menos %s puntos</item>
+        <item quantity="one">Conecta polo menos %s punto</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Esperar por %d segundos e intentar de novo. "</item>
+        <item quantity="one">"Esperar por %d segundo e intentar de novo. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d excepcións</item>
+        <item quantity="one">%d excepción</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d outros usuarios marcáronno como</item>
+        <item quantity="one">%d outro usuario marcouno como</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d mensaxes ou chamadas foron bloqueadas</item>
+        <item quantity="one">%d mensaxe ou chamada foi bloqueada</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Non escaneaches o teu dispositivo desde hai %d días</item>
+        <item quantity="one">Non escaneaches o teu dispositivo desde hai %d día</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d aplicacións conteñen virus ou malware</item>
+        <item quantity="one">%d aplicación contén virus ou malware</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d actualizacións dispoñibles</item>
+        <item quantity="one">%d actualización dispoñible</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Introduza ao menos %d caracteres</item>
+        <item quantity="one">Introduza ao menos %d carácter</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">A túa sesión de potenciación da velocidade acabará en %d días. Podes comezar a experimentar atrasos na rede. Queres renovar a sesión agora?</item>
+        <item quantity="one">A túa sesión de potenciación da velocidade acabará en %d día. Podes comezar a experimentar atrasos na rede. Queres renovar a sesión agora?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"O acceso á rede está restrinxida para &lt;font color='#ff0000'>%d&lt;/font> aplicacións"</item>
+        <item quantity="one">"O acceso á rede está restrinxida para &lt;font color='#ff0000'>%d&lt;/font> aplicación"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplicacións non engadidas</item>
+        <item quantity="one">%d aplicación non engadida</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d días sen análises de seguridade</item>
+        <item quantity="one">%d día sen análises de seguridade</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Baleirado %2$d%% da batería durante o último %1$d minuto</item>
+        <item quantity="one">Baleirado %2$d%% da batería durante o último %1$d minuto</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplicacións, incluíndo %1$s, están baleirando batería</item>
+        <item quantity="one">%2$d aplicación, incluíndo %1$s, está baleirando batería</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Eliminar %d paquetes de instalación</item>
+        <item quantity="one">Eliminar %d paquete de instalación</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Eliminar %d APK residuais</item>
+        <item quantity="one">Eliminar %d APK residual</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d elementos con alto consumo de enerxía</item>
+        <item quantity="one">%d elemento con alto consumo de enerxía</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizar %d elementos para aforrar batería</item>
+        <item quantity="one">Optimizar %d elemento para aforrar batería</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d días dende a última comprobación</item>
+        <item quantity="one">%d día dende a última comprobación</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Hai %d minutos</item>
+        <item quantity="one">Hai 1 minuto</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplicacións bloqueadas</item>
+        <item quantity="one">%d aplicación bloqueada</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d notificacións foron ocultadas</item>
+        <item quantity="one">%d notificación foi ocultada</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplicacións non bloqueadas</item>
+        <item quantity="one">%d aplicación non bloqueada</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notificacións son visibles</item>
+        <item quantity="one">%d notificación é visible</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Introduza polo menos %d díxitos</item>
+        <item quantity="one">Introduza polo menos %d díxito</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d aplicacións bloqueadas</item>
+        <item quantity="one">%d aplicación bloqueada</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplicacións, que inclúen %1$s poderían ser maliciosas</item>
+        <item quantity="one">%2$d aplicación, que inclúe %1$s podería ser maliciosa</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplicacións están baleirando a batería</item>
+        <item quantity="one">%d aplicación está baleirando a batería</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">O teu dispositivo non ten batería. Entrando en Modo de Hibernación en %1$d segundos.</item>
+        <item quantity="one">O teu dispositivo non ten batería. Entrando en Modo de Hibernación en %1$d segundo.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s días</item>
+        <item quantity="one">%s día</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s días até completar a carga</item>
+        <item quantity="one">%s día até completar a carga</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Quedan %s horas até completar a carga</item>
+        <item quantity="one">Queda %s hora até completar a carga</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Quedan %s minutos até completar a carga</item>
+        <item quantity="one">Queda %s minuto até completar a carga</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Quedan %s días</item>
+        <item quantity="one">Queda %s día</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s horas restantes</item>
+        <item quantity="one">%s hora restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutos restantes</item>
+        <item quantity="one">%s minuto restante</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">restan %d horas</item>
+        <item quantity="one">resta %d hora</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">restan %d minutos</item>
+        <item quantity="one">resta %d minuto</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minutos dende a última carga</item>
+        <item quantity="one">%d minuto dende a última carga</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d segundos dende a última carga</item>
+        <item quantity="one">%d segundo dende a última carga</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Descargado por %1$d persoas</item>
+        <item quantity="one">Descargado por %1$d persoas</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Descargado por %1$d persoas</item>
+        <item quantity="one">Descargado por %1$d persoas</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">O teu dispositivo apagarase en %d segundos</item>
+        <item quantity="one">O teu dispositivo apagarase en %d segundo</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">veces</item>
+        <item quantity="one">vez</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d elementos con alto consumo de enerxía</item>
+        <item quantity="one">%d elemento con alto consumo de enerxía</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d días "</item>
+        <item quantity="one">"%d día "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d horas "</item>
+        <item quantity="one">"%d hora "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d minutos "</item>
+        <item quantity="one">"%d minuto "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizar o uso da batería en %d escenarios</item>
+        <item quantity="one">Optimizar o uso da batería en %d escenario</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Arranxar %d problemas de uso da batería</item>
+        <item quantity="one">Arranxar %d problema de uso da batería</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Podes optimizar o consumo de enerxía para %d elementos</item>
+        <item quantity="one">Podes optimizar o consumo de enerxía para %d elemento</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d elementos poden ser optimizados"</item>
+        <item quantity="one">" %d elemento pode ser optimizado"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizar %d elementos para aforrar batería</item>
+        <item quantity="one">Optimizar %d elemento para aforrar batería</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Podes optimizar %d elementos para aforrar batería</item>
+        <item quantity="one">Podes optimizar %d elemento para aforrar batería</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d℃</item>
+        <item quantity="one">%d℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Engadir %d minutos</item>
+        <item quantity="one">Engadir %d minuto</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">elementos</item>
+        <item quantity="one">elemento</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Cancelar (%ds)</item>
+        <item quantity="one">Cancelar (%ds)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">Quedan %s días</item>
+        <item quantity="one">Queda %s día</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s horas restantes</item>
+        <item quantity="one">%s hora restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutos restantes</item>
+        <item quantity="one">%s minuto restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s mins de tempo coa pantalla restante</item>
+        <item quantity="one">%s min de tempo coa pantalla restante</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Activa para engadir %s mins ao tempo coa pantalla</item>
+        <item quantity="one">Activa para engadir %s min ao tempo coa pantalla</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Entendido (%ds)</item>
+        <item quantity="one">Entendido (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Entendido (%d s)</item>
+        <item quantity="one">Entendido (%d s)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">O teu dispositivo apagarase en %d segundos. Conecta o cargador.</item>
+        <item quantity="one">O teu dispositivo apagarase en %d segundo. Conecta o cargador.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplicacións inícianse automaticamente con frecuencia</item>
+        <item quantity="one">%d aplicación iníciase automaticamente con frecuencia</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplicacións baleiran a batería</item>
+        <item quantity="one">%d aplicación baleira a batería</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d iconas de aplicación oculta</item>
+        <item quantity="one">%d icona de aplicación oculta</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d iconas da aplicación non están ocultas</item>
+        <item quantity="one">%d icona da aplicación non está oculta</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s aplicacións teñen acceso permanente</item>
+        <item quantity="one">%s aplicación ten accedo permanente</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permitir para %s aplicacións</item>
+        <item quantity="one">Permitir para %s aplicación</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s veces</item>
+        <item quantity="one">%s vez</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d permisos de alto risco dados</item>
+        <item quantity="one">%d permiso de alto risco dado</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d aplicacións con riscos atopadas</item>
+        <item quantity="one">%d aplicación con riscos atopada</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d riscos de revelar información de localización detectada</item>
+        <item quantity="one">%d risco de revelar información de localización detectada</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d riscos detectados</item>
+        <item quantity="one">%d risco detectado</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d posibles riscos atopados</item>
+        <item quantity="one">%d posible risco atopado</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotos poden conter a información que sexa privada ou sensible</item>
+        <item quantity="one">%d foto pode conter a información que sexa privada ou sensible</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d funcionalidades que protexen a túa privacidade están desactivadas</item>
+        <item quantity="one">%d funcionalidade que protexe a túa privacidade está desactivada</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d permisos sensibles dados</item>
+        <item quantity="one">%d permiso sensible dado</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Desinstalar %d aplicacións</item>
+        <item quantity="one">Desinstalar %d aplicación</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d elementos precisan protección extra</item>
+        <item quantity="one">%d elemento precisa protección extra</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d problemas coa batería</item>
+        <item quantity="one">%d problema coa batería</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Se atoparon %d problemas coa batería</item>
+        <item quantity="one">Se atopou %d problema coa batería</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Atopáronse %d problemas coa batería, arránxeos</item>
+        <item quantity="one">Atopouse %d problema coa batería, arránxeo</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Optimizados %d elementos con alto consumo de enerxía</item>
+        <item quantity="one">Optimizado %d elemento con alto consumo de enerxía</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Restablecemento de fábrica (%ds)</item>
+        <item quantity="one">Restablecemento de fábrica (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Atopadas %d aplicacións non oficiais</item>
+        <item quantity="one">Atopada %d aplicación non oficial</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d aplicacións maliciosas detectadas</item>
+        <item quantity="one">%d aplicación maliciosa detectada</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Buscar %d aplicacións</item>
+        <item quantity="one">Buscar %d aplicación</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d aplicacións bloqueadas están esperando para ser borradas</item>
+        <item quantity="one">%d aplicación bloqueada está esperando para ser borrada</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">Eliminados %d virus</item>
+        <item quantity="one">Eliminado %d virus</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s aplicacións de pagamento protexidas</item>
+        <item quantity="one">%s aplicación de pagamento protexida</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplicacións sen protexer</item>
+        <item quantity="one">%s aplicación sen protexer</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplicacións protexidas</item>
+        <item quantity="one">%s aplicación protexida</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d palabras clave</item>
+        <item quantity="one">%d palabra clave</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d números</item>
+        <item quantity="one">%d número</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Editando %1$d permisos</item>
+        <item quantity="one">Editando %1$d permiso</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentos</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmento</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Actualización dispoñible para %d aplicacións.</item>
+        <item quantity="one">Actualización dispoñible para %d aplicación.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Non sincronizou as estatísticas de uso de datos do operador en %d días</item>
+        <item quantity="one">Non sincronizou as estatísticas de uso de datos do operador en %d día</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d s)</item>
+        <item quantity="one">(%d s)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d elementos seguros</item>
+        <item quantity="one">%1$d elemento seguro</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Actualizar &lt;font color=#F22424>%d&lt;/font> aplicacións&lt;/Data></item>
+        <item quantity="one">&lt;Data>Actualizar &lt;font color=#F22424>%d&lt;/font> aplicación&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">Se borraron %d virus</item>
+        <item quantity="one">Se borrou %d virus</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virus ou aplicacións perigosas</item>
+        <item quantity="one">%d virus ou aplicación perigosa</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Non se engadiron %d xogos</item>
+        <item quantity="one">Non se engadiu %d xogo</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Conecta polo menos %s puntos</item>
+        <item quantity="one">Conecta polo menos %s punto</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Insire %s díxitos</item>
+        <item quantity="one">Insire %s díxito</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Xa estiveches vendo vídeos durante %d horas.
+Fai un descanso!"</item>
+        <item quantity="one">"Xa estiveches vendo vídeos durante %d hora.
+Fai un descanso!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d visionados</item>
+        <item quantity="one">%1$d visionado</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Eliminar %d aplicacións seleccionadas?</item>
+        <item quantity="one">Eliminar %d aplicación seleccionada?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplicacións</item>
+        <item quantity="one">%s aplicación</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Aplicacións perigosas: %d</item>
+        <item quantity="one">Aplicación perigosa: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Troianos: %d</item>
+        <item quantity="one">Troiano: %d</item>
+    </plurals>
+</resources>

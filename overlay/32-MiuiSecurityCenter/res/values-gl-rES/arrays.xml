@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Unha vez</item>
+        <item>Cada día</item>
+        <item>Días laborais</item>
+        <item>De luns a venres</item>
+        <item>Personalizada</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Unha vez</item>
+        <item>Cada día</item>
+        <item>De luns a venres</item>
+        <item>Personalizada</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Todos os rexistros</item>
+        <item>Inicio automático</item>
+        <item>Inicio en cadea</item>
+        <item>Usando permisos</item>
+        <item>Accións sensibles</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Padrón</item>
+        <item>PIN</item>
+        <item>Contrasinal</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Tamaño</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan mensual</item>
+        <item>Ilimitado</item>
+        <item>Plan diario</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizado</item>
+        <item>Tarxeta de Fan Xiaomi</item>
+        <item>Cartón Xiao Tiansheng</item>
+        <item>Cartón Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizado</item>
+        <item>Mi Mobile</item>
+        <item>Tarxeta de Fan Xiaomi</item>
+        <item>Cartón Tianshen</item>
+        <item>Cartón Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Onte (datos móbeis) "</item>
+        <item>"Hoxe (datos móbeis) "</item>
+        <item>"Mes pasado (datos móbeis) "</item>
+        <item>"Este mes (datos móbeis) "</item>
+        <item>"Onte (Wi-Fi) "</item>
+        <item>"Hoxe (Wi-Fi) "</item>
+        <item>"Mes pasado (Wi-Fi) "</item>
+        <item>"Este mes (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Onte "</item>
+        <item>"Hoxe "</item>
+        <item>"O último mes "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoxe "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Onte: "</item>
+        <item>"Hoxe: "</item>
+        <item>"Mes pasado: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoxe: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Será posible acceder e editar ficheiros no teu dispositivo usando un ordenador.</item>
+        <item>Permitirase instalar aplicacións no teu dispositivo sen o teu permiso explícito.</item>
+        <item>Poderás controlar e gravar o contido da túa pantalla de maneira remota.</item>
+        <item>Será posible acceder á información detallada do teu dispositivo.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>O máis baixo</item>
+        <item>Baixo</item>
+        <item>Normal</item>
+        <item>Alto</item>
+        <item>O máis alto</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cando o dispositivo está bloqueado</item>
+        <item>Cando o dispositivo está bloqueado ou despois de saír dunha aplicación</item>
+        <item>Cando o dispositivo está bloqueado ou 1 minuto despois de saír dunha aplicación</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de datos móbiles "</item>
+        <item>"Uso da Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Importante: varias aplicacións do sistema poderían deixar de funcionar correctamente.</item>
+        <item>As plantillas de texto, as contas e o contido podería non amosarse correctamente.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Amosar alerta</item>
+        <item>Alertar e desactivar datos móbeis</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Predefinido</item>
+        <item>Priorizar o rendemento</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Usando o modo de control da temperatura predefinido</item>
+        <item>Priorizando o rendemento</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Le todas as túas notificacións, incluíndo o contido das túas mensaxes de texto e outros elementos que podan conter información persoal</item>
+        <item>Restrinxir os permisos das notificacións para algunhas aplicacións</item>
+        <item>Simular tocar notificacións e abrir aplicacións</item>
+        <item>Activar e desactivar o modo DND</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Recompila os datos sobre os teus intereses e comportamento sabendo que aplicacións usas e con que frecuencia</item>
+        <item>Accede aos axustes do operador e de idioma, así como a outros detalles</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>As aplicacións de terceiros que non estean verificadas poderían causar varios problemas e reducir a estabilidade do sistema.</item>
+        <item>Algunhas aplicacións de terceiros poden conter malware que poña os teus datos persoais en risco.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Almacenamento interno</item>
+        <item>Almacenamento externo</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Só para as excepcións</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Uso de datos</item>
+        <item>Saldo do teléfono</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Ordenando por nome da aplicación</item>
+        <item>Ordenando polos máis usados recentemente</item>
+        <item>Ordenando por almacenamento usado</item>
+        <item>Ordenando por tempo de instalación</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Nome da aplicación</item>
+        <item>Usado recentemente</item>
+        <item>Almacenamento usado</item>
+        <item>Tempo de instalación</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Desactivar e notificar</item>
+        <item>Só notificar</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Fonte de instalación</item>
+        <item>Tempo de instalación</item>
+        <item>Fonte da última actualización</item>
+        <item>Hora da última actualización</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plan de datos mensual</item>
+        <item>Plan de datos diario</item>
+        <item>Plan de datos ilimitado</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de datos móbiles "</item>
+        <item>"Uso da Wi-Fi "</item>
+    </string-array>
+</resources>

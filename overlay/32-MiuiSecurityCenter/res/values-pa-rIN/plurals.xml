@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d-ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d-ਘੰਟਾ ਪਹਿਲੇ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d ਘੰਟਿਆਂ ਵਿੱਚ</item>
+        <item quantity="one">%d ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ਤੁਰੰਤ</item>
+        <item quantity="one">ਤੁਰੰਤ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
+        <item quantity="one">%d ਮਿੰਟ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ਹੁਣੇ ਹੀ</item>
+        <item quantity="one">ਹੁਣੇ ਹੀ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d ਗੇਮਾਂ ਸ਼ਾਮਲ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਗੇਮ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d ਐਪਾਂ ਸ਼ਾਮਲ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਐਪ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">%1$s ਅਤੇ %2$s ਵਿਚਕਾਰ %3$d ਵਾਰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਗਈ</item>
+        <item quantity="one">%1$s ਅਤੇ %2$s ਵਿਚਕਾਰ %3$d ਵਾਰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">%1$d ਮਿੰਟਾਂ ਲਈ ਵਰਤਿਆ ਗਿਆ</item>
+        <item quantity="one">%1$d ਮਿੰਟ ਲਈ ਵਰਤਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">%2$s ਤੱਕ %1$d ਮਿੰਟਾਂ ਲਈ ਵਰਤਿਆ ਗਿਆ</item>
+        <item quantity="one">%2$s ਤੱਕ %1$d ਮਿੰਟ ਲਈ ਵਰਤਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">ਐਪ ਵਿਹਾਰ ਰਿਕਾਰਡ %d ਦਿਨਾਂ ਲਈ ਇਸ ਡੀਵਾਈਸ ਉੱਤੇ ਕਰ ਦਿੱਤੇ ਜਾਣਗੇ। ਇਸ ਸਹੂਲਤ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਐਪ ਵਿਹਾਰ ਰਿਕਾਰਡ ਮਿਟ ਜਾਣਗੇ ਅਤੇ ਅਜਿਹਾ ਕਰਨ ਦੀ ਸਲਾਹ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ।</item>
+        <item quantity="one">ਐਪ ਵਿਹਾਰ ਰਿਕਾਰਡ %d ਦਿਨ ਲਈ ਇਸ ਡੀਵਾਈਸ ਉੱਤੇ ਕਰ ਦਿੱਤੇ ਜਾਣਗੇ। ਇਸ ਸਹੂਲਤ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਐਪ ਵਿਹਾਰ ਰਿਕਾਰਡ ਮਿਟ ਜਾਣਗੇ ਅਤੇ ਅਜਿਹਾ ਕਰਨ ਦੀ ਸਲਾਹ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ।</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d ਮਨਜ਼ੂਰੀਆਂ ਦਿੱਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d ਮਨਜ਼ੂਰੀਆਂ ਲਈ ਪੁੱਛੋ</item>
+        <item quantity="one">%d ਮਨਜ਼ੂਰੀ ਲਈ ਪੁੱਛੋ</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d ਵਾਰ</item>
+        <item quantity="one">%d ਵਾਰ</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">%d ਐਪਾਂ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ</item>
+        <item quantity="one">%d ਐਪ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">%d ਐਪਾਂ ਅੱਪਡੇਟ ਕਰੋ</item>
+        <item quantity="one">%d ਐਪ ਅੱਪਡੇਟ ਕਰੋ</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">%d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+        <item quantity="one">%d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">%d ਮਹੀਨਿਆਂ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+        <item quantity="one">%d ਮਹੀਨੇ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">%d ਸਾਲ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+        <item quantity="one">%d ਸਾਲ ਪਹਿਲਾਂ ਵਰਤਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">ਤੁਸੀਂ %1$s ਐਪਾਂ ਨਾਲ ਐਪ ਲਾਕ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ</item>
+        <item quantity="one">ਤੁਸੀਂ %1$s ਐਪ ਨਾਲ ਐਪ ਲਾਕ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">ਤੁਸੀਂ ਘੱਟੋ-ਘੱਟ %s ਐਪਾਂ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+        <item quantity="one">ਤੁਸੀਂ ਘੱਟੋ-ਘੱਟ %s ਐਪ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s ਐਪਾਂ, ਐਪ ਲਾਕ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ</item>
+        <item quantity="one">%s ਐਪ, ਐਪ ਲਾਕ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਜਾਵੇਗੀ</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d ਐਪਾਂ ਜਿਨ੍ਹਾਂ ਵਿੱਚ %1$s ਸ਼ਾਮਲ ਹੈ</item>
+        <item quantity="one">%2$d ਐਪ ਜਿਸ ਵਿੱਚ %1$s ਸ਼ਾਮਲ ਹੈ</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d ਵਾਰ</item>
+        <item quantity="one">%d ਵਾਰ</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d ਐਪਾਂ ਪਿਛੋਕੜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਨੂੰ ਕਨੈਕਟ ਕਰ ਸਕਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਪਿਛੋਕੜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਨੂੰ ਕਨੈਕਟ ਕਰ ਸਕਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d ਐਪਾਂ ਪਿਛੋਕੜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਨੂੰ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ</item>
+        <item quantity="one">%d ਐਪ ਪਿਛੋਕੜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਨੂੰ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੀ</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">%d ਐਪਲੀਕੇਸ਼ਨਾਂ ਰੱਖਿਅਤ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪਲੀਕੇਸ਼ਨ ਰੱਖਿਅਤ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>ਤੁਸੀਂ &lt;font color=#F22424>%d&lt;/font> ਐਪਾਂ ਅਣ-ਇੰਸਟਾਲ ਕਰ ਸਕਦੇ ਹੋ&lt;/Data></item>
+        <item quantity="one">&lt;Data>ਤੁਸੀਂ &lt;font color=#F22424>%d&lt;/font> ਐਪ ਅਣ-ਇੰਸਟਾਲ ਕਰ ਸਕਦੇ ਹੋ&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %s ਰੋਜ਼ਾਨਾ ਡਾਟਾ ਪਲਾਨ ਸੀਮਾਵਾਂ ਵਰਤ ਚੁੱਕੇ ਹੋ।
+
+ਜੇਕਰ ਤੁਸੀਂ ਮੋਬਾਈਲ ਡਾਟਾ ਦੁਬਾਰਾ ਚਾਲੂ ਕਰਦੇ ਹੋ, ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਓਪਰੇਟਰ ਤੁਹਾਡੇ ਤੋਂ ਵਾਧੂ ਖਰਚੇ ਪਾ ਸਕਦਾ ਹੈ।"</item>
+        <item quantity="one">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %s ਰੋਜ਼ਾਨਾ ਡਾਟਾ ਪਲਾਨ ਸੀਮਾ ਵਰਤ ਚੁੱਕੇ ਹੋ।
+
+ਜੇਕਰ ਤੁਸੀਂ ਮੋਬਾਈਲ ਡਾਟਾ ਦੁਬਾਰਾ ਚਾਲੂ ਕਰਦੇ ਹੋ, ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਓਪਰੇਟਰ ਤੁਹਾਡੇ ਤੋਂ ਵਾਧੂ ਖਰਚੇ ਪਾ ਸਕਦਾ ਹੈ।"</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %s ਰੋਜ਼ਾਨਾ ਡਾਟਾ ਪਲਾਨ ਸੀਮਾ ਵਰਤ ਚੁੱਕੇ ਹੋ।</item>
+        <item quantity="one">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %s ਰੋਜ਼ਾਨਾ ਡਾਟਾ ਪਲਾਨ ਸੀਮਾ ਵਰਤ ਚੁੱਕੇ ਹੋ।</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d ਮਿੰਟਾਂ ਵਿੱਚ</item>
+        <item quantity="one">%1$d ਮਿੰਟ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਕੋਰ %d ਅੰਕਾਂ ਤੋਂ ਘੱਟ ਹੈ। ਹੁਣੇ ਅਨੁਕੂਲਨ ਕਰਨਾ ਹੈ?</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਕੋਰ %d ਅੰਕ ਤੋਂ ਘੱਟ ਹੈ। ਹੁਣੇ ਅਨੁਕੂਲਨ ਕਰਨਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ਘੰਟੇ</item>
+        <item quantity="one">%s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s ਮਿੰਟ</item>
+        <item quantity="one">%s ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d ਐਪਾਂ ਵਿੱਚ ਲੱਭੋ</item>
+        <item quantity="one">%d ਐਪ ਵਿੱਚ ਲੱਭੋ</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d ਪਰਦੇਦਾਰੀ ਸੰਬੰਧੀ ਖ਼ਤਰਿਆਂ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+        <item quantity="one">%d ਪਰਦੇਦਾਰੀ ਸੰਬੰਧੀ ਖ਼ਤਰੇ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">ਅਨੁਕੂਲਨ ਲਈ %1$d ਸਮੱਸਿਆਵਾਂ ਲੋੜੀਂਦੀਆਂ ਹਨ</item>
+        <item quantity="one">ਅਨੁਕੂਲਨ ਲਈ %1$d ਸਮੱਸਿਆ ਲੋੜੀਂਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d ਐਪਾਂ ਮਿਲੀਆਂ</item>
+        <item quantity="one">%d ਐਪ ਮਿਲੀ</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</item>
+        <item quantity="one">%d ਵਿਸ਼ੇਸ਼ਤਾ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%2$s ਅਤੇ ਹੋਰਾਂ ਤੋਂ %1$d​ ਕਾਲਾਂ</item>
+        <item quantity="one">%2$s ਤੋਂ %1$d​ ਕਾਲ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%2$s ਅਤੇ ਹੋਰਾਂ ਤੋਂ %1$d ਕਾਲਾਂ</item>
+        <item quantity="one">%2$s ਤੋਂ %1$d ਕਾਲ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d ਸੁਨੇਹੇ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">ਤੁਹਾਡੀ ਖੇਡ ਟਰਬੋ ਸਦੱਸਤਾ %d ਦਿਨਾਂ ਵਿੱਚ ਸਮਾਪਤ ਹੋ ਜਾਵੇਗੀ। ਹੁਣੇ ਨਵਿਆਓ ਅਤੇ ਸ਼ਾਨਦਾਰ ਗੇਮਿੰਗ ਦੇ ਮਜ਼ੇ ਲਓ।</item>
+        <item quantity="one">ਤੁਹਾਡੀ ਖੇਡ ਟਰਬੋ ਸਦੱਸਤਾ %d ਦਿਨ ਵਿੱਚ ਸਮਾਪਤ ਹੋ ਜਾਵੇਗੀ। ਹੁਣੇ ਨਵਿਆਓ ਅਤੇ ਸ਼ਾਨਦਾਰ ਗੇਮਿੰਗ ਦੇ ਮਜ਼ੇ ਲਓ।</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d ਲੋਕ ਖੇਡ ਰਹੇ ਹਨ</item>
+        <item quantity="one">%1$d ਵਿਅਕਤੀ ਖੇਡ ਰਿਹਾ ਹੈ</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d ਲੋਕ ਖੇਡ ਰਹੇ ਹਨ</item>
+        <item quantity="one">%1$d ਵਿਅਕਤੀ ਖੇਡ ਰਿਹਾ ਹੈ</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">%2$d ਖੇਡਾਂ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ (%1$s ਸਮੇਤ)</item>
+        <item quantity="one">%2$d ਖੇਡ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ (%1$s ਸਮੇਤ)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">"ਮੁੱਖ ਪਲਾਂ ਨੂੰ ਆਪਣੇ ਆਪ ਹੀ ਰਿਕਾਰਡ ਕਰੋ ਅਤੇ ਸੈਸ਼ਨ ਦੀਆਂ ਕੈਪਸ਼ਨ ਦੇ ਨਾਲ ਵੀਡੀਓ ਸਿਰਜੋ। ਤੁਸੀਂ ਹਰੇਕ ਸੈਸ਼ਨ ਤੋਂ ਬਾਅਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਚੁਣ ਸਕਦੇ ਹੋ। ਬਿਨਾਂ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਵੀਡੀਓ ਆਪਣੇ ਆਪ ਹੀ %1$d ਦਿਨਾਂ ਬਾਅਦ ਮਿਟਾ ਦਿੱਤੇ ਜਾਣਗੇ।"</item>
+        <item quantity="one">"ਮੁੱਖ ਪਲਾਂ ਨੂੰ ਆਪਣੇ ਆਪ ਹੀ ਰਿਕਾਰਡ ਕਰੋ ਅਤੇ ਸੈਸ਼ਨ ਦੀਆਂ ਕੈਪਸ਼ਨ ਦੇ ਨਾਲ ਵੀਡੀਓ ਸਿਰਜੋ। ਤੁਸੀਂ ਹਰੇਕ ਸੈਸ਼ਨ ਤੋਂ ਬਾਅਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਚੁਣ ਸਕਦੇ ਹੋ। ਬਿਨਾਂ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਵੀਡੀਓ ਆਪਣੇ ਆਪ ਹੀ %1$d ਦਿਨ ਬਾਅਦ ਮਿਟਾ ਦਿੱਤੇ ਜਾਣਗੇ।"</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">%d AI ਰਿਕਾਰਡਿੰਗਾਂ ਖੇਡ ਟਰਬੋ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d AI ਰਿਕਾਰਡਿੰਗ ਖੇਡ ਟਰਬੋ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">%d ਦਿਨਾਂ ਵਿੱਚ ਜਾਂਚ ਕੀਤੀ ਗਈ</item>
+        <item quantity="one">%d ਸਮੇਂ ਵਿੱਚ ਜਾਂਚ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">ਸਮਝ ਲਿਆ (%dਸ)</item>
+        <item quantity="one">ਸਮਝ ਲਿਆ (%dਸ)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Note:
+·ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਚਾਲੂ ਹੋਣ ਜਾਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੇ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ 'ਤੇ ਬਿਤਰੀਨ ਵਿਜ਼ੁਅਲ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ।
+·ਸਮਾਰਟ ਫ਼੍ਰੇਮ ਦਰ ਉਦੋਂ ਸਭ ਤੋਂ ਚੰਗੇ ਨਤੀਜੇ ਦਿਖਾਉਂਦਾ ਹੈ ਜਦੋਂ ਤੁਹਾਡੀ ਖੇਡ ਨੂੰ ਘੱਟੋ-ਘੱਟ %d ਫ਼੍ਰੇਮ ਪ੍ਰਤੀ ਸਕਿੰਟ ਦਿਖਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ।"</item>
+        <item quantity="one">"Note:
+·ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਚਾਲੂ ਹੋਣ ਜਾਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੇ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ 'ਤੇ ਬਿਤਰੀਨ ਵਿਜ਼ੁਅਲ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ।
+·ਸਮਾਰਟ ਫ਼੍ਰੇਮ ਦਰ ਉਦੋਂ ਸਭ ਤੋਂ ਚੰਗੇ ਨਤੀਜੇ ਦਿਖਾਉਂਦਾ ਹੈ ਜਦੋਂ ਤੁਹਾਡੀ ਖੇਡ ਨੂੰ ਘੱਟੋ-ਘੱਟ %d ਫ਼੍ਰੇਮ ਪ੍ਰਤੀ ਸਕਿੰਟ ਦਿਖਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ।"</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"ਨੋਟ:
+·ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਚਾਲੂ ਹੋਣ ਜਾਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੇ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ 'ਤੇ ਬਿਤਰੀਨ ਵਿਜ਼ੁਅਲ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ।
+·ਵਿਸਤ੍ਰਿਤ ਫ਼੍ਰੇਮ ਦਰ ਉਦੋਂ ਸਭ ਤੋਂ ਚੰਗੇ ਨਤੀਜੇ ਦਿਖਾਉਂਦਾ ਹੈ ਜਦੋਂ ਤੁਹਾਡੀ ਖੇਡ ਨੂੰ ਘੱਟੋ-ਘੱਟ %d ਫ਼੍ਰੇਮ ਪ੍ਰਤੀ ਸਕਿੰਟ ਦਿਖਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ।"</item>
+        <item quantity="one">"ਨੋਟ:
+·ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਚਾਲੂ ਹੋਣ ਜਾਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੇ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ 'ਤੇ ਬਿਤਰੀਨ ਵਿਜ਼ੁਅਲ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ।
+·ਵਿਸਤ੍ਰਿਤ ਫ਼੍ਰੇਮ ਦਰ ਉਦੋਂ ਸਭ ਤੋਂ ਚੰਗੇ ਨਤੀਜੇ ਦਿਖਾਉਂਦਾ ਹੈ ਜਦੋਂ ਤੁਹਾਡੀ ਖੇਡ ਨੂੰ ਘੱਟੋ-ਘੱਟ %d ਫ਼੍ਰੇਮ ਪ੍ਰਤੀ ਸਕਿੰਟ ਦਿਖਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ।"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"%d-ਦਿਨਾਂ ਦੀ ਮੁੱਖ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ
+ਹੁਣੇ ਅਵਾਜ਼ ਪਰਿਵਰਤਕ ਅਜ਼ਮਾਓ!"</item>
+        <item quantity="one">"%d-ਦਿਨ ਦੀ ਮੁੱਖ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ
+ਹੁਣੇ ਅਵਾਜ਼ ਪਰਿਵਰਤਕ ਅਜ਼ਮਾਓ!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">%d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ</item>
+        <item quantity="one">%d-ਦਿਨ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">%d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਸਫ਼ਲਤਾਪੂਰਵਕ ਪ੍ਰਾਪਤ ਕੀਤੀ ਗਈ</item>
+        <item quantity="one">%d-ਦਿਨ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਸਫ਼ਲਤਾਪੂਰਵਕ ਪ੍ਰਾਪਤ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">%d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰੋ</item>
+        <item quantity="one">%d-ਦਿਨ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ।
+ਤੁਸੀਂ ਹੁਣੇ %d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ!"</item>
+        <item quantity="one">"ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ।
+ਤੁਸੀਂ ਹੁਣੇ %d-ਦਿਨ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">%d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰੋ</item>
+        <item quantity="one">%d-ਦਿਨਾਂ ਦੀ ਮੁਫ਼ਤ ਪਰਖ ਪ੍ਰਾਪਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">%d ਐਪਾਂ ਤੱਕ ਸ਼ਾਮਲ ਕਰੋ। ਮੁੜ-ਵਿਵਸਥਿਤ ਕਰਨ ਲਈ ਦਬਾਈ ਰੱਖੋ।</item>
+        <item quantity="one">%d ਐਪ ਤੱਕ ਸ਼ਾਮਲ ਕਰੋ। ਮੁੜ-ਵਿਵਸਥਿਤ ਕਰਨ ਲਈ ਦਬਾਈ ਰੱਖੋ।</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਪਾਵਰ ਬਚਾਉਣ ਲਈ, %d ਮਿੰਟਾਂ ਤੱਕ ਅਕਿਰਿਆਸ਼ੀਲ ਰਹਿਣ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਆਪ ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ ਨੂੰ ਘਟਾਉਂਦਾ ਹੈ। ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਚਾਲੂ ਰੱਖਣੀ ਹੈ?</item>
+        <item quantity="one">ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਪਾਵਰ ਬਚਾਉਣ ਲਈ, %d ਮਿੰਟ ਤੱਕ ਅਕਿਰਿਆਸ਼ੀਲ ਰਹਿਣ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਆਪ ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ ਨੂੰ ਘਟਾਉਂਦਾ ਹੈ। ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਚਾਲੂ ਰੱਖਣੀ ਹੈ?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">%d ਮਿੰਟਾਂ ਤੱਕ ਅਕਿਰਿਆਸ਼ੀਲ ਰਹਿਣ ਤੋਂ ਬਾਅਦ ਪਾਵਰ ਬਚਾਉਣ ਲਈ ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ ਆਪਣੇ ਆਪ ਘਟਾਓ</item>
+        <item quantity="one">%d ਮਿੰਟ ਤੱਕ ਅਕਿਰਿਆਸ਼ੀਲ ਰਹਿਣ ਤੋਂ ਬਾਅਦ ਪਾਵਰ ਬਚਾਉਣ ਲਈ ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ ਆਪਣੇ ਆਪ ਘਟਾਓ</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+        <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d ਹੋਰ ਅੱਖਰ</item>
+        <item quantity="one">    +%1$d ਹੋਰ ਅੱਖਰ</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d ਮਨਜ਼ੂਰੀਆਂ</item>
+        <item quantity="one">%d ਮਨਜ਼ੂਰੀ</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ਐਪਾਂ ਨੂੰ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ</item>
+        <item quantity="one">%d ਐਪ ਨੂੰ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d ਐਪਾਂ ਨੂੰ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਣ ਦੀ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਹੈ</item>
+        <item quantity="one">%d ਐਪ ਨੂੰ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਣ ਦੀ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ਐਪਾਂ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੋ ਸਕਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d ਐਪਾਂ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ਐਪਾਂ ਕੋਲ ਰੂਟ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</item>
+        <item quantity="one">%d ਐਪ ਕੋਲ ਰੂਟ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ਐਪਾਂ ਕੋਲ ਰੂਟ ਪਹੁੰਚ ਹੈ</item>
+        <item quantity="one">%d ਐਪ ਕੋਲ ਰੂਟ ਪਹੁੰਚ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d ਜੋਖ਼ਮ,</item>
+        <item quantity="one">%d ਜੋਖ਼ਮ,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d ਟ੍ਰੋਜਨ</item>
+        <item quantity="one">%d ਟ੍ਰੋਜਨ</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d ਐਪ ਡਾਟਾ ਰੋਮਿੰਗ ਨਹੀਂ ਵਰਤ ਸਕਦੇ</item>
+        <item quantity="one">%d ਐਪ ਡਾਟਾ ਰੋਮਿੰਗ ਨਹੀਂ ਵਰਤ ਸਕਦਾ</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d ਐਪ ਡਾਟਾ ਰੋਮਿੰਗ ਵਰਤ ਸਕਦੇ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਡਾਟਾ ਰੋਮਿੰਗ ਵਰਤ ਸਕਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d ਐਪਾਂ ਮਿਲੀਆਂ</item>
+        <item quantity="one">%d ਐਪ ਮਿਲੀ</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d ਜੋਖ਼ਮਾਂ ਦਾ ਪਤਾ ਲਗਿਆ</item>
+        <item quantity="one">%d ਜੋਖ਼ਮ ਦਾ ਪਤਾ ਲਗਿਆ</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d ਐਪਾਂ ਦੀ ਡਾਟਾ ਵਰਤੋਂ ਨੂੰ ਟ੍ਰੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item quantity="one">%d ਐਪ ਦੀ ਡਾਟਾ ਵਰਤੋਂ ਨੂੰ ਟ੍ਰੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d ਐਪਾਂ ਦੀ ਡਾਟਾ ਵਰਤੋਂ ਨੂੰ ਟ੍ਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ</item>
+        <item quantity="one">%d ਐਪ ਦੀ ਡਾਟਾ ਵਰਤੋਂ ਨੂੰ ਟ੍ਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="one">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ਤੁਰੰਤ</item>
+        <item quantity="one">ਤੁਰੰਤ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
+        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d ਖੇਡਾਂ ਸ਼ਾਮਲ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਖੇਡ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">ਤੁਸੀਂ %d ਆਈਟਮਾਂ ਤੱਕ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+        <item quantity="one">ਤੁਸੀਂ %d ਆਈਟਮ ਤੱਕ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ਘੰਟੇ</item>
+        <item quantity="one">%s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s ਮਿੰਟ</item>
+        <item quantity="one">%s ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ਬਸ ਹੁਣੇ ਹੀ</item>
+        <item quantity="one">ਬਸ ਹੁਣੇ ਹੀ</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">ਘੱਟੋ-ਘੱਟ %d ਡੋਟ ਕਨੈਕਟ ਕਰੋ</item>
+        <item quantity="one">ਘੱਟੋ-ਘੱਟ %d ਡੋਟ ਕਨੈਕਟ ਕਰੋ</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">ਘੱਟ ਤੋਂ ਘੱਟ %s ਬਿੰਦੀਆਂ ਜੋੜੋ</item>
+        <item quantity="one">ਘੱਟ ਤੋਂ ਘੱਟ %s ਬਿੰਦੀ ਜੋੜੋ</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"%d ਸਕਿੰਟਾਂ ਲਈ ਉਡੀਕ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। "</item>
+        <item quantity="one">"%d ਸਕਿੰਟ ਲਈ ਉਡੀਕ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d ਅਪਵਾਦ</item>
+        <item quantity="one">%d ਅਪਵਾਦ</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d ਹੋਰ ਵਰਤੋਂਕਾਰਾਂ ਨੇ ਇਸਨੂੰ ਇਸ ਰੂਪ ਵਿੱਚ ਮਾਰਕ ਕੀਤਾ ਹੈ</item>
+        <item quantity="one">%d ਹੋਰ ਵਰਤੋਂਕਾਰ ਨੇ ਇਸਨੂੰ ਇਸ ਰੂਪ ਵਿੱਚ ਮਾਰਕ ਕੀਤਾ ਹੈ</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਅਤੇ ਕਾਲਾਂ ਬਲਾਕ ਸੀ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਜਾਂ ਕਾਲ ਬਲਾਕ ਸੀ</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">%d ਦਿਨਾਂ ਤੋਂ ਡੀਵਾਈਸ ਸਕੈਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ</item>
+        <item quantity="one">%d ਦਿਨ ਤੋਂ ਡੀਵਾਈਸ ਸਕੈਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d ਐਪਾਂ ਵਿੱਚ ਵਾਇਰਸ ਜਾਂ ਮਾਲਵੇਅਰ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਵਿੱਚ ਵਾਇਰਸ ਜਾਂ ਮਾਲਵੇਅਰ ਹਨ</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d ਅੱਪਡੇਟਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ</item>
+        <item quantity="one">%d ਅੱਪਡੇਟ ਉਪਲਬਧ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਆਈਟਮ ਚੁਣੀ ਗਈ</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">ਘੱਟ ਤੋਂ ਘੱਟ %d ਅੱਖਰ ਦਾਖ਼ਲ ਕਰੋ।</item>
+        <item quantity="one">ਘੱਟ ਤੋਂ ਘੱਟ %d ਅੱਖਰ ਦਾਖ਼ਲ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ ਗਤੀ ਵਰਧਕ ਸੈਸ਼ਨ %d ਦਿਨਾਂ ਵਿੱਚ ਸਮਾਪਤ ਹੋ ਜਾਵੇਗਾ। ਹੋ ਸਕਦਾ ਹੈ ਤੁਹਾਨੂੰ ਨੈੱਟਵਰਕ ਵਿੱਚ ਦੇਰੀ ਦਾ ਅਹਿਸਾਸ ਹੋਵੇ। ਹੁਣੇ ਸੈਸ਼ਨ ਨਵਿਆਉਣਾ ਹੈ?</item>
+        <item quantity="one">ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ ਗਤੀ ਵਰਧਕ ਸੈਸ਼ਨ %d ਦਿਨ ਵਿੱਚ ਸਮਾਪਤ ਹੋ ਜਾਵੇਗਾ। ਹੋ ਸਕਦਾ ਹੈ ਤੁਹਾਨੂੰ ਨੈੱਟਵਰਕ ਵਿੱਚ ਦੇਰੀ ਦਾ ਅਹਿਸਾਸ ਹੋਵੇ। ਹੁਣੇ ਸੈਸ਼ਨ ਨਵਿਆਉਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"ਨੈੱਟਵਰਕ ਪਹੁੰਚ &lt;font color='#ff0000'>%d&lt;/font> ਐਪਾਂ ਦੇ ਲਈ ਪ੍ਰਤੀਬੰਧਿਤ ਹੈ"</item>
+        <item quantity="one">"ਨੈੱਟਵਰਕ ਪਹੁੰਚ &lt;font color='#ff0000'>%d&lt;/font> ਐਪ ਦੇ ਲਈ ਪ੍ਰਤੀਬੰਧਿਤ ਹੈ"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d ਐਪਾਂ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਐਪ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">ਸੁਰੱਖਿਆ ਸਕੈਨਾਂ ਤੋਂ ਬਿਨਾਂ %d ਦਿਨ</item>
+        <item quantity="one">ਸੁਰੱਖਿਆ ਸਕੈਨਾਂ ਤੋਂ ਬਿਨਾਂ %d ਦਿਨ</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">ਪਿਛਲੇ %1$d ਮਿੰਟਾਂ ਵਿੱਚ ਬੈਟਰੀ %2$d%% ਘੱਟ ਗਈ ਹੈ</item>
+        <item quantity="one">ਪਿਛਲੇ %1$d ਮਿੰਟ ਵਿੱਚ ਬੈਟਰੀ %2$d%% ਘੱਟ ਗਈ ਹੈ</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%1$s ਸਮੇਤ %2$d ਐਪਾਂ, ਬੈਟਰੀ ਦੀ ਖ਼ਪਤ ਕਰ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$s ਸਮੇਤ %2$d ਐਪ, ਬੈਟਰੀ ਦੀ ਖ਼ਪਤ ਕਰ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">%d ਇੰਸਟਾਲੇਸ਼ਨ ਪੈਕੇਜ ਮਿਟਾਓ</item>
+        <item quantity="one">%d ਇੰਸਟਾਲੇਸ਼ਨ ਪੈਕੇਜ ਮਿਟਾਓ</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">%d ਬਚੇ APK ਮਿਟਾਉਣੇ ਹਨ</item>
+        <item quantity="one">%d ਬਚਿਆ APK ਮਿਟਾਉਣਾ ਹੈ</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖਪਤ ਨਾਲ %d ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖਪਤ ਨਾਲ %d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮਾਂ ਅਨੁਕੂਲ ਕਰੋ</item>
+        <item quantity="one">ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮ ਅਨੁਕੂਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">ਅਖੀਰਲੀ ਵਾਰ %d ਦਿਨ ਪਹਿਲੇ ਚੈੱਕ ਅੱਪ ਕੀਤਾ ਗਿਆ ਹੈ</item>
+        <item quantity="one">ਅਖੀਰਲੀ ਵਾਰ %d ਦਿਨ ਪਹਿਲੇ ਚੈੱਕ ਅੱਪ ਕੀਤਾ ਗਿਆ ਹੈ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d ਐਪਾਂ ਲਾਕ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਐਪ ਲਾਕ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d ਸੂਚਨਾਵਾਂ ਲੁਕਾਈਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਸੂਚਨਾ ਲੁਕਾਈ ਗਈ</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d ਐਪਾਂ ਲਾਕ ਨਹੀਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਲਾਕ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d ਸੂਚਨਾਵਾਂ ਦਿਖਣਯੋਗ ਹਨ</item>
+        <item quantity="one">%d ਸੂਚਨਾ ਦਿਖਣਯੋਗ ਹੈ</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">ਘੱਟ ਤੋਂ ਘੱਟ %d ਅੰਕ ਦਾਖ਼ਲ ਕਰੋ।</item>
+        <item quantity="one">ਘੱਟ ਤੋਂ ਘੱਟ %d ਅੰਕ ਦਾਖ਼ਲ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">ਲਾਕ ਕੀਤੀਆਂ ਗਈਆਂ %d ਐਪਾਂ</item>
+        <item quantity="one">ਲਾਕ ਕੀਤੀ ਗਈ %d ਐਪ</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%1$s ਸਮੇਤ %2$d ਐਪਾਂ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$s ਸਮੇਤ %2$d ਐਪ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d ਐਪਾਂ ਬੈਟਰੀ ਦੀ ਖ਼ਪਤ ਕਰ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਬੈਟਰੀ ਦੀ ਖ਼ਪਤ ਕਰ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ਘੰਟੇ"</item>
+        <item quantity="one">" ਘੰਟਾ"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" ਮਿੰਟ"</item>
+        <item quantity="one">" ਮਿੰਟ"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-ਦਿਨ</item>
+        <item quantity="one">%d-ਦਿਨ</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੀ ਬੈਟਰੀ ਖ਼ਤਮ ਹੋ ਗਈ ਹੈ। %1$d ਸਕਿੰਟਾਂ ਵਿੱਚ ਹਾਈਬਰਨੇਸ਼ਨ ਮੋਡ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋ ਰਿਹਾ ਹੈ।</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੀ ਬੈਟਰੀ ਖ਼ਤਮ ਹੋ ਗਈ ਹੈ। %1$d ਸਕਿੰਟ ਵਿੱਚ ਹਾਈਬਰਨੇਸ਼ਨ ਮੋਡ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋ ਰਿਹਾ ਹੈ।</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ਦਿਨ</item>
+        <item quantity="one">%s ਦਿਨ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ਘੰਟੇ</item>
+        <item quantity="one">%s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s ਮਿੰਟ</item>
+        <item quantity="one">%s ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਦਿਨ</item>
+        <item quantity="one">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਦਿਨ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਘੰਟੇ</item>
+        <item quantity="one">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਮਿੰਟ</item>
+        <item quantity="one">ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਰਜ ਹੋਣ ਤੱਕ %s ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s ਦਿਨ ਬਾਕੀ</item>
+        <item quantity="one">%s ਦਿਨ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s ਘੰਟੇ ਬਾਕੀ</item>
+        <item quantity="one">%s ਘੰਟਾ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s ਮਿੰਟ ਬਾਕੀ</item>
+        <item quantity="one">%s ਮਿੰਟ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ਘੰਟੇ ਬਾਕੀ</item>
+        <item quantity="one">%d ਘੰਟਾ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d ਮਿੰਟ ਬਾਕੀ</item>
+        <item quantity="one">%d ਮਿੰਟ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ ਚਾਰਜ ਕੀਤਾ ਸੀ</item>
+        <item quantity="one">%d ਮਿੰਟ ਪਹਿਲਾਂ ਚਾਰਜ ਕੀਤਾ ਸੀ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d ਸਕਿੰਟ ਪਹਿਲਾਂ ਚਾਰਜ ਕੀਤਾ ਸੀ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਪਹਿਲਾਂ ਚਾਰਜ ਕੀਤਾ ਸੀ</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d ਲੋਕਾਂ ਦੁਆਰਾ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਵਿਅਕਤੀ ਦੁਆਰਾ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d ਲੋਕਾਂ ਦੁਆਰਾ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਵਿਅਕਤੀ ਦੁਆਰਾ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਦੀ %d ਸਕਿੰਟਾਂ ਪਾਵਰ ਆਫ਼ ਕਰ ਦਿੱਤੀ ਜਾਵੇਗੀ</item>
+        <item quantity="one">ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਦੀ %d ਸਕਿੰਟ ਪਾਵਰ ਆਫ਼ ਕਰ ਦਿੱਤੀ ਜਾਵੇਗੀ</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ਘੰਟੇ</item>
+        <item quantity="one">%s ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s ਮਿੰਟ</item>
+        <item quantity="one">%s ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">ਵਾਰ</item>
+        <item quantity="one">ਵਾਰ</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d ਵਾਰ</item>
+        <item quantity="one">%d ਵਾਰ</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖਪਤ ਵਾਲੀਆਂ %d ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖਪਤ ਵਾਲੀ %d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ਦਿਨ "</item>
+        <item quantity="one">"%d ਦਿਨ "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ਘੰਟੇ"</item>
+        <item quantity="one">" ਘੰਟਾ"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" ਮਿੰਟ"</item>
+        <item quantity="one">" ਮਿੰਟ"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ਘੰਟੇ "</item>
+        <item quantity="one">"%d ਘੰਟਾ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d ਮਿੰਟ "</item>
+        <item quantity="one">"%d ਮਿੰਟ "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">%d ਸਥਿਤੀਆਂ ਵਿੱਚ ਬੈਟਰੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਕਰੋ</item>
+        <item quantity="one">%d ਸਥਿਤੀ ਵਿੱਚ ਬੈਟਰੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">ਬੈਟਰੀ ਵਰਤੋਂ ਨਾਲ ਸੰਬੰਧਿਤ %d ਸਮੱਸਿਆਵਾਂ ਠੀਕ ਕਰੋ</item>
+        <item quantity="one">ਬੈਟਰੀ ਵਰਤੋਂ ਨਾਲ ਸੰਬੰਧਿਤ %d ਸਮੱਸਿਆ ਠੀਕ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">ਤੁਸੀਂ %d ਆਈਟਮਾਂ ਲਈ ਬਿਜਲੀ ਦੀ ਖਪਤ ਅਨੁਕੂਲਿਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+        <item quantity="one">ਤੁਸੀਂ %d ਆਈਟਮ ਲਈ ਬਿਜਲੀ ਦੀ ਖਪਤ ਅਨੁਕੂਲਿਤ ਕਰ ਸਕਦੇ ਹੋ</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d ਆਈਟਮਾਂ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ"</item>
+        <item quantity="one">" %d ਆਈਟਮ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮਾਂ ਅਨੁਕੂਲ ਕਰੋ</item>
+        <item quantity="one">ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮ ਅਨੁਕੂਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">ਤੁਸੀਂ ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮਾਂ ਦਾ ਅਨੁਕੂਲਨ ਕਰ ਸਕਦੇ ਹੋ</item>
+        <item quantity="one">ਤੁਸੀਂ ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ %d ਆਈਟਮ ਦਾ ਅਨੁਕੂਲਨ ਕਰ ਸਕਦੇ ਹੋ</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d ਮਿੰਟ ਸ਼ਾਮਲ ਕਰੋ</item>
+        <item quantity="one">%d ਮਿੰਟ ਸ਼ਾਮਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">(%dਸ) ਰੱਦ ਕਰੋ</item>
+        <item quantity="one">(%dਸ) ਰੱਦ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s ਦਿਨ ਬਾਕੀ</item>
+        <item quantity="one">%s ਦਿਨ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s ਘੰਟੇ ਬਾਕੀ</item>
+        <item quantity="one">%s ਘੰਟਾ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s ਮਿੰਟ ਬਾਕੀ</item>
+        <item quantity="one">%s ਮਿੰਟ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">ਸਕ੍ਰੀਨ ਸਮੇਂ ਦੇ %s ਮਿੰਟ ਬਾਕੀ ਹਨ</item>
+        <item quantity="one">ਸਕ੍ਰੀਨ ਸਮੇਂ ਦਾ %s ਮਿੰਟ ਬਾਕੀ ਹੈ</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">ਸਕ੍ਰੀਨ ਸਮਾਂ ਦੇ %s ਮਿੰਟ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਚਾਲੂ ਕਰੋ</item>
+        <item quantity="one">ਸਕ੍ਰੀਨ ਸਮਾਂ ਦਾ %s ਮਿੰਟ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਚਾਲੂ ਕਰੋ</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">ਸਮਝ ਲਿਆ (%d)</item>
+        <item quantity="one">ਸਮਝ ਲਿਆ (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">ਸਮਝ ਲਿਆ (%dਸ)</item>
+        <item quantity="one">ਸਮਝ ਲਿਆ (%dਸ)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">ਤੁਹਾਡਾ ਡੀਵਾਈਸ %d ਸਕਿੰਟਾਂ ਵਿੱਚ ਬੰਦ ਹੋ ਜਾਵੇਗਾ। ਚਾਰਜਰ ਕਨੈਕਟ ਕਰੋ।</item>
+        <item quantity="one">ਤੁਹਾਡਾ ਡੀਵਾਈਸ %d ਸਕਿੰਟ ਵਿੱਚ ਬੰਦ ਹੋ ਜਾਵੇਗਾ। ਚਾਰਜਰ ਕਨੈਕਟ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d ਐਪਾਂ ਵਾਰ-ਵਾਰ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੁੰਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਵਾਰ-ਵਾਰ ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d ਐਪਾਂ ਬੈਟਰੀ ਖ਼ਰਚ ਕਰਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਬੈਟਰੀ ਖ਼ਰਚ ਕਰਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ਐਪ ਪ੍ਰਤੀਕ ਲੁਕੇ ਹੋਏ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਪ੍ਰਤੀਕ ਲੁਕਿਆ ਹੋਇਆ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ਐਪ ਪ੍ਰਤੀਕ ਲੁਕੇ ਹੋਏ ਨਹੀਂ ਹਨ</item>
+        <item quantity="one">%d ਐਪ ਪ੍ਰਤੀਕ ਲੁਕਿਆ ਹੋਇਆ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s ਐਪਾਂ ਕੋਲ ਸਥਾਈ ਪਹੁੰਚ ਹੈ</item>
+        <item quantity="one">%s ਐਪ ਕੋਲ ਸਥਾਈ ਪਹੁੰਚ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">%s ਐਪਾਂ ਲਈ ਮਨਜ਼ੂਰਸ਼ੁਦਾ</item>
+        <item quantity="one">%s ਐਪ ਲਈ ਮਨਜ਼ੂਰਸ਼ੁਦਾ</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s ਵਾਰ</item>
+        <item quantity="one">%s ਵਾਰ</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d ਵੱਧ-ਜੋਖ਼ਮ ਵਾਲੀਆਂ ਮਨਜ਼ੂਰੀਆਂ ਦਿੱਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਵੱਧ-ਜੋਖ਼ਮ ਵਾਲੀ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d ਜੋਖ਼ਮ ਵਾਲੀਆਂ ਐਪਾਂ ਮਿਲੀਆਂ</item>
+        <item quantity="one">%d ਜੋਖ਼ਮ ਵਾਲੀ ਐਪ ਮਿਲੀ</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਦੇ ਖੁਲਾਸੇ ਕਰਨ ਸੰਬੰਧੀ %d ਖ਼ਤਰਿਆਂ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+        <item quantity="one">ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਦੇ ਖੁਲਾਸੇ ਕਰਨ ਸੰਬੰਧੀ %d ਖ਼ਤਰੇ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d ਜੋਖ਼ਮਾਂ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+        <item quantity="one">%d ਖ਼ਤਰੇ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d ਸੰਭਾਵਿਤ ਜੋਖ਼ਮ ਮਿਲੇ</item>
+        <item quantity="one">%d ਸੰਭਾਵਿਤ ਜੋਖ਼ਮ ਮਿਲਿਆ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d ਫ਼ੋਟੋਆਂ ਵਿੱਚ ਨਿੱਜੀ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ</item>
+        <item quantity="one">%d ਫ਼ੋਟੋ ਵਿੱਚ ਨਿੱਜੀ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਵਾਲੀਆਂ %d ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ</item>
+        <item quantity="one">ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਵਾਲੀ %d ਵਿਸ਼ੇਸ਼ਤਾ ਬੰਦ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d ਸੰਵੇਦਨਸ਼ੀਲ ਮਨਜ਼ੂਰੀਆਂ ਦਿੱਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਸੰਵੇਦਨਸ਼ੀਲ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">%d ਐਪਾਂ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ</item>
+        <item quantity="one">%d ਐਪ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਸੁਰੱਖਿਆ ਦੀ ਲੋੜ ਹੈ</item>
+        <item quantity="one">%d ਆਈਟਮ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਸੁਰੱਖਿਆ ਦੀ ਲੋੜ ਹੈ</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d ਬੈਟਰੀ ਮੁੱਦੇ</item>
+        <item quantity="one">%d ਬੈਟਰੀ ਮੁੱਦਾ</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d ਬੈਟਰੀ ਮੁੱਦੇ ਲੱਭੇ</item>
+        <item quantity="one">%d ਬੈਟਰੀ ਮੁੱਦਾ ਲੱਭਿਆ</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d ਬੈਟਰੀ ਸਮੱਸਿਆਵਾਂ ਲੱਭੀਆਂ, ਇਨ੍ਹਾਂ ਨੂੰ ਸਹੀ ਕਰੋ</item>
+        <item quantity="one">%d ਬੈਟਰੀ ਸਮੱਸਿਆ ਲੱਭੀ, ਇਸ ਨੂੰ ਸਹੀ ਕਰੋ</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖਪਤ ਨਾਲ %d ਆਈਟਮਾਂ ਅਨੁਕੂਲਿਤ ਕਰੋ</item>
+        <item quantity="one">ਵੱਧ ਬਿਜਲੀ ਦੀ ਖ਼ਪਤ ਨਾਲ %d ਆਈਟਮ ਅਨੁਕੂਲਿਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">ਫੈਕਟਰੀ ਰੀਸੈੱਟ (%ds)</item>
+        <item quantity="one">ਫੈਕਟਰੀ ਰੀਸੈੱਟ (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">%d ਅਣਅਧਿਕਾਰਕ ਐਪਾਂ ਮਿਲੀਆਂ</item>
+        <item quantity="one">%d ਅਣਅਧਿਕਾਰਕ ਐਪ ਮਿਲੀ</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d ਖ਼ਤਰਨਾਕ ਐਪਾਂ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ</item>
+        <item quantity="one">%d ਖ਼ਤਰਨਾਕ ਐਪ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d ਐਪਾਂ ਨੂੰ ਲੱਭੋ</item>
+        <item quantity="one">%d ਐਪ ਨੂੰ ਲੱਭੋ</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">ਲਾਕ ਕੀਤੀਾਂ %d ਐਪਾਂ ਨੂੰ ਸਾਫ਼ ਕੀਤੇ ਜਾਣਾ ਬਾਕੀ ਹੈ</item>
+        <item quantity="one">ਲਾਕ ਕੀਤੀ %d ਐਪ ਨੂੰ ਸਾਫ਼ ਕੀਤੇ ਜਾਣਾ ਬਾਕੀ ਹੈ</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">ਮਿਟਾਏ ਗਏ %d ਵਾਇਰਸ</item>
+        <item quantity="one">ਮਿਟਾਇਆ ਗਿਆ %d ਵਾਇਰਸ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s ਭੁਗਤਾਨ ਐਪਾਂ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ</item>
+        <item quantity="one">%s ਭੁਗਤਾਨ ਐਪ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਹੈ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s ਐਪ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ</item>
+        <item quantity="one">%s ਐਪ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s ਐਪਾਂ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ</item>
+        <item quantity="one">%s ਐਪ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਹੈ</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d ਕੀ-ਵਰਡਸ</item>
+        <item quantity="one">%d ਕੀ-ਵਰਡ</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d ਨੰਬਰ</item>
+        <item quantity="one">%d ਨੰਬਰ</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d ਮਨਜ਼ੂਰੀਆਂ ਸੰਪਾਦਿਤ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$d ਮਨਜ਼ੂਰੀ ਸੰਪਾਦਿਤ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> ਫ਼ਾਰਮੈਟ</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> ਫ਼ਾਰਮੈਟ</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ਐਪਾਂ ਲਈ ਅੱਪਡੇਟਾਂ ਉਪਲਬਧ ਹਨ।</item>
+        <item quantity="one">%d ਐਪ ਲਈ ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ।</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">ਮੋਬਾਈਲ ਓਪਰੇਟਰ ਦੇ ਡਾਟਾ ਵਰਤੋਂ ਅੰਕੜੇ %d ਦਿਨਾਂ ਤੋਂ ਸਿੰਕ ਨਹੀਂ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">ਮੋਬਾਈਲ ਓਪਰੇਟਰ ਦੇ ਡਾਟਾ ਵਰਤੋਂ ਅੰਕੜੇ %d ਦਿਨ ਤੋਂ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dਸ)</item>
+        <item quantity="one">(%dਸ)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਸੁਰੱਖਿਅਤ</item>
+        <item quantity="one">%1$d ਆਈਟਮ ਸੁਰੱਖਿਅਤ</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> ਐਪਾਂ ਅੱਪਡੇਟ ਕਰੋ&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> ਐਪ ਅੱਪਡੇਟ ਕਰੋ&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d ਵਾਇਰਸ ਹਟਾਏ ਗਏ</item>
+        <item quantity="one">%d ਵਾਇਰਸ ਹਟਾਇਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d ਵਾਇਰਸ ਜਾਂ ਜੋਖ਼ਮ ਵਾਲੀਆਂ ਐਪਾਂ</item>
+        <item quantity="one">%d ਵਾਇਰਸ ਜਾਂ ਜੋਖ਼ਮ ਵਾਲੀ ਐਪ</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d ਖੇਡਾਂ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ</item>
+        <item quantity="one">%d ਖੇਡ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">ਘੱਟ ਤੋਂ ਘੱਟ %s ਬਿੰਦੀਆਂ ਜੋੜੋ</item>
+        <item quantity="one">ਘੱਟ ਤੋਂ ਘੱਟ %s ਬਿੰਦੀ ਜੋੜੋ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">%s ਅੰਕ ਦਾਖ਼ਲ ਕਰੋ</item>
+        <item quantity="one">%s ਅੰਕ ਦਾਖ਼ਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ %d ਘੰਟਿਆਂ ਤੋਂ ਵੀਡੀਓ ਦੇਖ ਰਹੇ ਹੋ।
+ਵਕਫ਼ਾ ਲਓ!"</item>
+        <item quantity="one">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ %d ਘੰਟੇ ਤੋਂ ਵੀਡੀਓ ਦੇਖ ਰਹੇ ਹੋ।
+ਵਕਫ਼ਾ ਲਓ!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d ਦੇਖੇ ਗਏ</item>
+        <item quantity="one">%1$d ਦੇਖਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">%d ਚੁਣੀਆਂ ਐਪਾਂ ਸਾਫ਼ ਕਰਨੀਆਂ ਹਨ?</item>
+        <item quantity="one">%d ਚੁਣੀ ਐਪ ਸਾਫ਼ ਕਰਨੀ ਹੈ?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s ਐਪਾਂ</item>
+        <item quantity="one">%s ਐਪ</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">ਖ਼ਤਰਨਾਕ ਐਪਾਂ: %d</item>
+        <item quantity="one">ਖ਼ਤਰਨਾਕ ਐਪ: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">ਟ੍ਰੋਜਨਸ: %d</item>
+        <item quantity="one">ਟ੍ਰੋਜਨ: %d</item>
+    </plurals>
+</resources>

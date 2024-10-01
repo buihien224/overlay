@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ایک بار</item>
+        <item>ہر روز</item>
+        <item>قانونی طور پر کام کے دن</item>
+        <item>کام کے دن</item>
+        <item>حسب ضرورت</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ایک بار</item>
+        <item>ہر روز</item>
+        <item>کام کے دن</item>
+        <item>حسب ضرورت</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>تمام ریکارڈ</item>
+        <item>خودکار شروعات</item>
+        <item>سلسلہ آغاز</item>
+        <item>اجازتوں کا استعمال کرنا</item>
+        <item>حساس کارروائیاں</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>پیٹرن</item>
+        <item>پن</item>
+        <item>پاسورڈ</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>سائز</item>
+        <item>نام</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>ماہانہ پلان</item>
+        <item>لامحدود</item>
+        <item>یومیہ پلان</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>کسٹم</item>
+        <item>Xiaomi فین کارڈ</item>
+        <item>Xiao Tiansheng کارڈ</item>
+        <item>Tencent King کارڈ</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>کسٹم</item>
+        <item>Mi موبائل</item>
+        <item>Xiaomi فین کارڈ</item>
+        <item>Tianshen کارڈ</item>
+        <item>Tencent کارڈ</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"کل (موبائل ڈیٹا) "</item>
+        <item>"آج (موبائل ڈیٹا) "</item>
+        <item>"پچھلے مہینے (موبائل ڈیٹا) "</item>
+        <item>"اس مہینے (موبائل ڈیٹا) "</item>
+        <item>"کل (وائی-فائی) "</item>
+        <item>"آج (وائی-فائی) "</item>
+        <item>"پچھلے مہینے (وائی-فائی) "</item>
+        <item>"اس مہینے (وائی-فائی) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"کل "</item>
+        <item>"آج "</item>
+        <item>"پچھلے مہینے "</item>
+        <item>"اس مہینے "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"اس ہفتے "</item>
+        <item>"آج "</item>
+        <item>"اس مہینے "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"کل: "</item>
+        <item>"آج: "</item>
+        <item>"پچھلے مہینے: "</item>
+        <item>"اس مہینے: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"اس ہفتے "</item>
+        <item>"آج: "</item>
+        <item>"اس مہینے: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>ایک کمپیوٹر کا استعمال کرتے ہوئے اپنے ڈیوائس پر فائلوں تک رسائی اور ترمیم کرنا ممکن ہوگا۔</item>
+        <item>آپ کی واضح اجازت کے بغیر آپ کے ڈیوائس پر ایپس انسٹال کرنے کی اجازت ہوگی۔</item>
+        <item>آپ دور سے اپنے اسکرین کے مواد کی نگرانی اور ریکارڈ کرنے کے اہل ہوں گے۔</item>
+        <item>آپ کے ڈیوائس کے بارے میں تفصیلی معلومات تک رسائی کرنا ممکن ہوگا۔</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>سب سے کم</item>
+        <item>کم</item>
+        <item>باقاعدہ</item>
+        <item>اعلیٰ</item>
+        <item>اعلیٰ ترین</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>جب ڈیوائس لاک ہے</item>
+        <item>جب ڈوائیس لاک ہے یا ایپ خارج کرنے کے بعد</item>
+        <item>ڈوائیس لاک ہے یا ایپ خارج کرنے کے بعد ایک منٹ میں</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"موبائل کا استعمال "</item>
+        <item>"وائی-فائی کا استعمال "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>اہم: متعدد سسٹم ایپس ٹھیک سے کام کرنا بند کر سکتے ہیں۔</item>
+        <item>ٹیکسٹ لے آؤٹ, اکاؤنٹس, مواد ہو سکتا ہے ٹھیک طرح سے ڈسپلے نہ ہوں۔</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>انتباہ دکھائیں</item>
+        <item>تنبیہہ کریں اور موبائل ڈیٹا بند کریں</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ڈیفالٹ</item>
+        <item>کارکردگی کو ترجیح دیں</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>ڈیفالٹ درجہ حرارت کنٹرول موڈ کا استعمال کرنا</item>
+        <item>کارکردگی کو ترجیح دینا</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>اپنی تمام اطلاعات پڑھیں, اپنے ٹیکسٹ پیغامات کے مواد اور دیگر آئٹم سمیت جس میں ذاتی معلومات شامل ہو سکتی ہے</item>
+        <item>کچھ ایپس کے لیے اطلاع کی اجازتیں محدود کریں</item>
+        <item>ٹیپنگ اطلاعات اور کھلے ہوئے ایپس کی نقل کریں</item>
+        <item>DND موڈ آن اور آف کریں</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>یہ جان کر کہ آپ کون سے ایپس استعمال کرتے اور کتنی کثرت سے انھیں استعمال کرتے ہیں اپنی دلچسپیوں اور رویے کے بارے میں ڈیٹا اکٹھا کریں</item>
+        <item>دوسری تفصیلات کے ساتھ, اپنی کیریئر متعلقہ اور زبان کی ترتیبات تک رسائی کریں</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>فریق ثالث ایپس جو تصدیق شدہ نہیں ہیں متعدد مسائل پیدا کر سکتے اور سسٹم کے استحکام کو کم کر سکتے ہیں۔</item>
+        <item>کچھ فریق ثالث ایپس میں مالویئر ہوتے ہیں جو آپ کے ذاتی ڈیٹا کو خطرے میں ڈالتے ہیں۔</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>داخلی اسٹوریج</item>
+        <item>باہری اسٹوریج</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ہمیشہ</item>
+        <item>صرف استشنا کے لیے</item>
+        <item>کبھی نہیں</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ڈیٹا استعمال</item>
+        <item>فون بیلنس</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>ایپ نام کے مطابق چھانٹنا</item>
+        <item>سب سے حالیہ استعمال کے مطابق چھانٹنا</item>
+        <item>استعمال کیے گئے اسٹوریج کے مطابق چھانٹنا</item>
+        <item>انسٹالیشن کے وقت کے مطابق چھانٹنا</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>ایپ نام</item>
+        <item>حال ہی میں استعمال ہوا</item>
+        <item>استعمال کیا گیا اسٹوریج</item>
+        <item>انسٹالیشن کا وقت</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>بند کریں اور مطلع کریں</item>
+        <item>صرف مطلع کریں</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>انسٹالیشن سورس</item>
+        <item>انسٹالیشن کا وقت</item>
+        <item>آخری اپ ڈیٹ کا سورس</item>
+        <item>آخری اپ ڈیٹ کا وقت</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>ماہانہ ڈیٹا پلان</item>
+        <item>یومیہ ڈیٹا پلان</item>
+        <item>لامحدود ڈیٹا پلان</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"موبائل ڈیٹا کا استعمال "</item>
+        <item>"وائی-فائی کا استعمال "</item>
+    </string-array>
+</resources>

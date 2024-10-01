@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ore më parë</item>
+        <item quantity="one">%d ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Në %d orë</item>
+        <item quantity="one">Në %d orë</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">në %d minuta</item>
+        <item quantity="one">në %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">%d minut më parë</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">U shtuan %d loja</item>
+        <item quantity="one">U shtua %d lojë</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplikacionet e shtuara</item>
+        <item quantity="one">%d u shtua aplikacioni</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplikacionet</item>
+        <item quantity="one">%d aplikacione</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplikacionet</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Lejuar %3$d kohë ndërmjet %1$s dhe %2$s</item>
+        <item quantity="one">Lejuar %3$d kohë ndërmjet %1$s dhe %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Përdorur për %1$d minuta</item>
+        <item quantity="one">Përdor për %1$d minut</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Përdorur për %1$d minuta deri %2$s</item>
+        <item quantity="one">Përdor për %1$d minut deri %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Regjistrimet e sjelljes së aplikacionit do të ruhen në këtë pajisje për %d ditë. Çaktivizimi i kësaj veçorie do të fshijë të gjitha regjistrimet e sjelljes së aplikacionit dhe nuk rekomandohet.</item>
+        <item quantity="one">Regjistrimet e sjelljes së aplikacionit do të ruhen në këtë pajisje për %d ditë. Çaktivizimi i kësaj veçorie do të fshijë të gjitha regjistrimet e sjelljes së aplikacionit dhe nuk rekomandohet.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">U dhanë %d leje</item>
+        <item quantity="one">U dha %d leje</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Kërko për %d leje</item>
+        <item quantity="one">Kërko për %d leje</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d herë</item>
+        <item quantity="one">%d herë</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Çinstalo%d aplikacion</item>
+        <item quantity="one">Çinstalo aplikacionet%d</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Përditëso %d aplikacionet</item>
+        <item quantity="one">Përditëso %d aplikacionin</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Përdorur para %d ditë</item>
+        <item quantity="one">Përdorur para %d ditë</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Përdorur para %d muaj</item>
+        <item quantity="one">Përdorur para %d muaj</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Përdorur para %d viteve</item>
+        <item quantity="one">Përdorur para %d viti</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Mund të përdorni bllokimin e aplikacionit me %1$s aplikacioneve</item>
+        <item quantity="one">Mund të përdorni kycjen e aplikacionit me %1$s aplikacionin</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Ju mund të mbroni të paktën %s aplikacione</item>
+        <item quantity="one">Ju mund të mbroni te paktën %s aplikacionin</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplikacionet do të mbrohen me kyçjen e aplikacioneve</item>
+        <item quantity="one">%s aplikacioni do të mbrohet me kyçjen e aplikacionit</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplikacionet e përfshira %1$s</item>
+        <item quantity="one">%2$d aplikacioni i përfshirë %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d herë</item>
+        <item quantity="one">%d herë</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">aplikacionet %d mund të lidhen me rrjetin në sfond</item>
+        <item quantity="one">aplikacioni %d mund të lidhet me rrjetin në sfond</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">aplikacionet %d nuk mund të lidhen me rrjetin në sfond</item>
+        <item quantity="one">aplikacioni %d nuk mund të lidhet me rrjetin në sfond</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">Po mbron %d aplikacione</item>
+        <item quantity="one">Po mbron %d aplikacion</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Ti mund të instalosh &lt;font color=#F22424>%d&lt;/font> aplikacione &lt;/Data></item>
+        <item quantity="one">&lt;Data>Ti mund të instalosh &lt;font color=#F22424>%d&lt;/font> aplikacion&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"I ke përdorur kufijtë ditorë %s të të dhënave.
+
+Nëse e aktivizon sërish internetin mobil, operatori mund të të tarifojë për të dhëna shtesë."</item>
+        <item quantity="one">"E ke përdorur kufirin ditor %s të të dhënave.
+
+Nëse e aktivizon sërish internetin mobil, operatori mund të të tarifojë për të dhëna shtesë."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">I ke përdorur kufijtë ditorë %s të të dhënave.</item>
+        <item quantity="one">E ke përdorur kufirin ditor %s të të dhënave.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Në %1$d minuta</item>
+        <item quantity="one">Në %1$d minuta</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Performanca e pajisjes tuaj është më e ulët se %d pikë. Optimizo tani?</item>
+        <item quantity="one">Performanca e pajisjes tuaj është më e ulët se %d pikë. Optimizo tani?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s orë</item>
+        <item quantity="one">%s orë</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Kërko brenda %d aplikacioneve</item>
+        <item quantity="one">Kërko brenda %d aplikacioni</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d rreziqet që lidhen me privatësinë</item>
+        <item quantity="one">%d rrezik i lidhur me privatësinë</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d çështje kërkojnë optimizim</item>
+        <item quantity="one">%1$d çështje kërkon optimizim</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">U gjetën %d aplikacione</item>
+        <item quantity="one">U gjet %d aplikacion</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d tipare</item>
+        <item quantity="one">%d tipar</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d thirrje nga %2$s dhe të tjerë</item>
+        <item quantity="one">%1$d thirrje nga %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d thirrje nga %2$s dhe të tjerë</item>
+        <item quantity="one">%1$d thirrje nga %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d mesazhe</item>
+        <item quantity="one">%d mesazh</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Anëtarësimi juaj në Lojë Turbo do të skadojë për %d ditë. Rinovo tani për të shijuar lojëra pa probleme.</item>
+        <item quantity="one">Anëtarësimi juaj në Lojë Turbo do të skadojë për %d ditë. Rinovo tani për të shijuar lojëra pa probleme.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d persona janë duke luajtur</item>
+        <item quantity="one">%1$d person është duke luajtur</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d persona janë duke luajtur</item>
+        <item quantity="one">%1$d person është duke luajtur</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Ininstaloni %2$d lojëra (përfshirë %1$s)</item>
+        <item quantity="one">Ininstaloni lojën %2$d (përfshirë %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">"Regjistroni automatikisht momentet kryesore dhe gjeneroni video me pikat kryesore të sesionit. Ju mund të zgjidhni t'i ruani ato përgjithmonë pas çdo seance lojrash. Videot e paruajtura do të fshihen automatikisht pas %1$d ditë."</item>
+        <item quantity="one">"Regjistroni automatikisht momentet kryesore dhe gjeneroni video me pikat kryesore të sesionit. Ju mund të zgjidhni t'i ruani ato përgjithmonë pas çdo seance lojrash. Videot e paruajtura do të fshihen automatikisht pas %1$d ditë."</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Ruajtur %d Regjistrimet e AI në Lojërat Turbo</item>
+        <item quantity="one">Ruajtur %d regjistrimin e AI në Lojë Turbo</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">%d sek</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Futur %d ditë me rradhë</item>
+        <item quantity="one">Futur %d herë</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutë</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">E kuptova (%ds)</item>
+        <item quantity="one">E kuptova (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Shënim:
+·Pamjet vizuale të përmirësuara nuk do të ofrohen kur Kursyesi i baterisë është i ndezur ose kur pajisja është mbinxehur.
+·Rritja inteligjente e kuadrove tregon rezultatet më të mira kur loja juaj është caktuar të shfaqë të paktën %d korniza për sekondë."</item>
+        <item quantity="one">"Shënim:
+·Pamjet vizuale të përmirësuara nuk do të ofrohen kur Kursyes baterie është i ndezur ose kur pajisja është mbinxehur.
+·Rritja inteligjente e kuadrove tregon rezultatet më të mira kur loja juaj është caktuar të shfaqë të paktën %d kornizë për sekondë."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Shënim:
+· Pamjet e përmirësuara nuk do të disponohen kur Kursyesi i baterisë është i ndezur ose kur pajisja është mbinxehur.
+· Shpejtësia e përmirësuar e kuadrove tregon rezultatet më të mira kur loja juaj është caktuar të shfaqë të paktën %d korniza për sekondë."</item>
+        <item quantity="one">"Shënim:
+· Pamjet e përmirësuara nuk do të disponohen kur Kursyesi i baterisë është i ndezur ose kur pajisja është mbinxehur.
+· Shpejtësia e përmirësuar e kuadrove tregon rezultatet më të mira kur loja juaj është caktuar të shfaqë të paktën %d kornizë për sekondë."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Provoni Zëri ndryshues tani
+për të marrë një provë falas%d-ditore!"</item>
+        <item quantity="one">"Provoni Zëri ndryshues tani
+për të marrë një provë falas%d-ditore!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Nuk mund të merrte një provë falas %d-ditore</item>
+        <item quantity="one">Nuk mund të merrte një provë falas %d-ditore</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Merre me sukses një provë falas %d-ditore</item>
+        <item quantity="one">Merre me sukses një provë falas %d ditore</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Merr një provë falas%d-ditore</item>
+        <item quantity="one">Merr një provë falas %d-ditore</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Nënshkrimet tuaja skaduan.
+Mund të merrni një provë falas%d-ditore tani!"</item>
+        <item quantity="one">"Nënshkrimi juaj skadoi.
+Mund të merrni një provë falas%d-ditore tani!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Merr një provë falas%d-ditore</item>
+        <item quantity="one">Merr një provë falas%d-ditore</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Shto deri në %d aplikacione. Shtypni dhe mbani shtypur për ta riorganizuar.</item>
+        <item quantity="one">Shto deri në %d aplikacion. Shtypni dhe mbani shtypur për ta riorganizuar.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Kjo veçori ul ndriçimin e ekranit pas %d minutë të pasivitetit automatikisht për të kursyer energji. Të mbahet aktiv kjo veçori?</item>
+        <item quantity="one">Kjo veçori ul ndriçimin e ekranit pas %d minutë të pasivitetit automatikisht për të kursyer energji. Të mbahet aktiv kjo veçori?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Ulni ndriçimin e ekranit automatikisht për të kursyer energji pas %d minutat e pasivitetit</item>
+        <item quantity="one">Ulni ndriçimin e ekranit automatikisht për të kursyer energji pas %d minuta e pasivitetit</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    Edhe +%1$d karaktere</item>
+        <item quantity="one">    Edhe +%1$d karakter</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d leje</item>
+        <item quantity="one">%d leje</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikacione nuk mund të vetëfillojnë</item>
+        <item quantity="one">%d aplikacion nuk mund të vetëfillojë</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d aplikacionet nuk lejohen të fillojnë në sfond</item>
+        <item quantity="one">%d aplikacioni nuk lejohet të fillojë në sfond</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikacione mund të vetëfillojnë</item>
+        <item quantity="one">%d aplikacion mund të vetëfillojë</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplikacionet mund të fillojnë në sfond</item>
+        <item quantity="one">%d aplikacioni mund të fillojë në sfond</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplikacione nuk kanë qasje në root</item>
+        <item quantity="one">%d aplikacion nuk ka qasje në root</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplikacione kanë qasje në root</item>
+        <item quantity="one">%d aplikacion ka qasje në root</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d rreziqe,</item>
+        <item quantity="one">%d rrezik,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojane</item>
+        <item quantity="one">%d trojan</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplikacione nuk mund të përdorin të dhënat roaming</item>
+        <item quantity="one">%d aplikacion nuk mund të përdorë të dhënat roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplikacione mund të përdorin të dhënat roaming</item>
+        <item quantity="one">%d aplikacion mund të përdorë të dhënat roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">U gjetën %d aplikacione</item>
+        <item quantity="one">U gjet %d aplikacion</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d rrisqet u zbuluan</item>
+        <item quantity="one">%d rrisk i zbuluar</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Gjurmim përdorim të dhënash për aplikacionet %d</item>
+        <item quantity="one">Gjurmim përdorim të dhënash për aplikacionin %d</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Jo gjurmim përdorimi të dhënash për aplikacionet %d</item>
+        <item quantity="one">Jo gjurmim përdorimi të dhënash për aplikacionin %d</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">U shtuan %d loja</item>
+        <item quantity="one">U shtua %d lojë</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Ju mund të mbroni %d artikujt</item>
+        <item quantity="one">Ju mund të mbroni %d artikullin</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s orët</item>
+        <item quantity="one">%s orë</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Lidh të paktën %d pika</item>
+        <item quantity="one">Lidh të paktën %d pika</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Lidh së paku %spika</item>
+        <item quantity="one">Lidh së paku %spika</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Prisni për %d sekonda dhe provoni përsëri. "</item>
+        <item quantity="one">"Prisni për %d sekondë dhe provoni përsëri. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d përjashtime</item>
+        <item quantity="one">%d përjashtim</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d përdorues të tjerë e shënuan si</item>
+        <item quantity="one">%d përdorues tjetër e shënoi si</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d mesazhe ose thirrje u bllokuan</item>
+        <item quantity="one">%d mesazh ose thirrje u bllokua</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Nuk e keni skanuar pajisjen për %d ditë</item>
+        <item quantity="one">Nuk e keni skanuar pajisjen për %d ditë</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d aplikacionet përmbajnë viruse ose keqdashës</item>
+        <item quantity="one">%d aplikacioni përmban viruse ose keqdashës</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d përditësime janë në disponim</item>
+        <item quantity="one">%d përditësim është në disponim</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Shëno të paktën %d karaktera</item>
+        <item quantity="one">Shëno të paktën %d karakter</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Seanca juaj i rritjes së shpejtësisë së rrjetit do të përfundojë për %d ditë. Mund të filloni të përjetoni vonesa në rrjet. Të rinovohet seanca tani?</item>
+        <item quantity="one">Seanca juaj e rritjes së shpejtësisë së rrjetit do të përfundojë për %d ditë. Mund të filloni të përjetoni vonesa në rrjet. Të rinovohet seanca tani?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Hyrja në rrjet është e kufizuar për aplikacionet &lt;font color='#ff0000'>%d&lt;/font>"</item>
+        <item quantity="one">"Hyrja në rrjet është e kufizuar për aplikacionin &lt;font color='#ff0000'>%d&lt;/font>"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplikacionet nuk jane shtuar</item>
+        <item quantity="one">%d aplikacioni nuk eshte shtuar</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d ditë pa skanime sigurie</item>
+        <item quantity="one">%dditë pa skanime sigurie</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">U shkarkua %2$d%% e baterisë gjatë %1$d minutave të fundit</item>
+        <item quantity="one">U shkarkua %2$d%% e baterisë gjatë %1$d minutës së fundit</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplikacione, duke përfshirë %1$s, po shkarkojnë baterinë</item>
+        <item quantity="one">%2$d aplikacion, duke përfshirë %1$s, po shkarkon baterinë</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Fshij %d paketat instaluese</item>
+        <item quantity="one">Fshi %d paketën e instalimit</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Fshij %dAPK-të e mbetura</item>
+        <item quantity="one">Fshij %dAPK e mbetur</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d artikuj me konsum të lartë të energjisë</item>
+        <item quantity="one">%d artikull me konsum të lartë të energjisë</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizoni %d artikujt për të kursyer baterinë</item>
+        <item quantity="one">Optimizoni%d artikull për të kursyer baterinë</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d ditë nga kontrolli i fundit</item>
+        <item quantity="one">%d ditë nga kontrolli i fundit</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 minutë më parë</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplikacion i mbyllur</item>
+        <item quantity="one">%d aplikacione të mbyllura</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d njoftime u fshehën</item>
+        <item quantity="one">%d njoftim u fsheh</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplikacione të mbyllura</item>
+        <item quantity="one">%d aplikacione të mbyllura</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d njoftim janë të dukshme</item>
+        <item quantity="one">%d njoftim është i dukshëm</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Shëno të paktën %d numra</item>
+        <item quantity="one">Shëno të paktën %d numër</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d aplikacionet e kyçura</item>
+        <item quantity="one">%d aplikacioni i kyçur</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplikacionet perfshijne %1$s mund të jetë keqdashëse</item>
+        <item quantity="one">%2$d aplikacioni përfshin %1$s mund të jetë keqdashës</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplikacione po shkarkojnë baterinë</item>
+        <item quantity="one">%d aplikacion po shkarkon baterinë</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" orët"</item>
+        <item quantity="one">" orë"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" minuta"</item>
+        <item quantity="one">" minutë"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-ditë</item>
+        <item quantity="one">%d-ditë</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Pajisja juaj është pa bateri. Hyrja në modalitetin e letargjisë në %1$d sekonda.</item>
+        <item quantity="one">Pajisja juaj është pa bateri. Hyrja në modalitetin e letargjisë në %1$d sekond.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ditë</item>
+        <item quantity="one">%s ditë</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s orë</item>
+        <item quantity="one">%s orë</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s minutë</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s ditë për tu karikuar plotësisht</item>
+        <item quantity="one">%s ditë për tu karikuar plotësisht</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s orë për tu karikuar plotësisht</item>
+        <item quantity="one">%s orë për tu karikuar plotësisht</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutë për tu karikuar plotësish</item>
+        <item quantity="one">%s minutë për tu karikuar plotësish</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s ditë të mbetura</item>
+        <item quantity="one">%s ditë të mbetura</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s orë të mbetura</item>
+        <item quantity="one">%s orë të mbetura</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutë I mbetur</item>
+        <item quantity="one">%s minutë I mbetur</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d orë të mbetura</item>
+        <item quantity="one">%d orë e mbetur</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">Mbeten %d minuta</item>
+        <item quantity="one">Mbetet %d minutë</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minuta nga karikimi i fundit</item>
+        <item quantity="one">%d minutë nga karikimi i fundit</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d sekonda nga karikimi i fundit</item>
+        <item quantity="one">%d sekondë nga karikimi i fundit</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Shkarkuar nga %1$d njerëz</item>
+        <item quantity="one">Shkarkuar nga %1$d njerëz</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Shkarkuar nga %1$d njerëz</item>
+        <item quantity="one">Shkarkuar nga %1$d njerëz</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Pajisja juaj do te fiket në %d sekonda</item>
+        <item quantity="one">Pajisja juaj do të fiket në %d sekond</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s orë</item>
+        <item quantity="one">%s orë</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">herë</item>
+        <item quantity="one">koha</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d herë</item>
+        <item quantity="one">%d herë</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d artikuj me konsum të lartë të energjisë</item>
+        <item quantity="one">%d artikull me konsum të lartë të energjisë</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ditë "</item>
+        <item quantity="one">"%d ditë "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" orët"</item>
+        <item quantity="one">" orë"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" minuta"</item>
+        <item quantity="one">" minutë"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d orë "</item>
+        <item quantity="one">"%d orë "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d minuta "</item>
+        <item quantity="one">"%d minuta "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizo përdorimin e baterisë në skenaret %d</item>
+        <item quantity="one">Optimizo përdorimin e baterisë në skenarin %d</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Rregulloni %d çështjet e përdorimit të baterisë</item>
+        <item quantity="one">Rregulloni %d çështjen e përdorimit të baterisë</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Mund të optimizoni konsumin e energjisë për %d artikuj</item>
+        <item quantity="one">Ju mund të optimizoni konsumin e energjisë për %d artikull</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d artikujt mund të optimizohen"</item>
+        <item quantity="one">" %d artikujt mund të optimizohen"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizoni %d artikujt për të kursyer baterinë</item>
+        <item quantity="one">Optimizoni%d artikull për të kursyer baterinë</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Ju mund te optimizoni %d artikujt për të kursyer baterinë</item>
+        <item quantity="one">Ju mund te optimizoni%d artikull për të kursyer baterinë</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Shto %d minuta</item>
+        <item quantity="one">Shto %d minutë</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">artikuj</item>
+        <item quantity="one">artikull</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Anullo (%d)</item>
+        <item quantity="one">Anullo (%d)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s ditë të mbetur</item>
+        <item quantity="one">%s ditë të mbetur</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s orë të mbetura</item>
+        <item quantity="one">%s orë të mbetura</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutë të mbetur</item>
+        <item quantity="one">%s minutë I mbetur</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minuta te mbetura e kohës para ekranit</item>
+        <item quantity="one">%s minuta e mbetur e kohës para ekranit</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Aktivizoje për të shtuar %s minuta kohë para ekranit</item>
+        <item quantity="one">Aktivizoje për të shtuar %s minut kohë para ekranit</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">E kuptova (%d)</item>
+        <item quantity="one">E kuptova (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">E kuptova (%ds)</item>
+        <item quantity="one">E kuptova (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Pajisja juaj do të mbyllet brenda %d sekonda. Lidheni ngarkuesin.</item>
+        <item quantity="one">Pajisja juaj do të mbyllet brenda %d të dytë. Lidheni ngarkuesin.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikacionet fillojnë automatikisht shpesh</item>
+        <item quantity="one">%d fillon automatikisht aplikacioni shpesh</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikacionet harxhojnë baterinë</item>
+        <item quantity="one">%d aplikacioni harxhon baterinë</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplikacione janë të fshehura</item>
+        <item quantity="one">%d aplikacion është i fshehur</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ikonat e aplikacionit nuk fshihen</item>
+        <item quantity="one">%d ikona e aplikacionit nuk fshihet</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s aplikacionet kanë qasje të përhershme</item>
+        <item quantity="one">%s aplikacioni ka hyrje të përhershme</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Lejuar për %s aplikacione</item>
+        <item quantity="one">Lejuar për %s aplikacion</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s kohët</item>
+        <item quantity="one">%s kohë</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d Leje e dhene me rrezik të lartë</item>
+        <item quantity="one">%d Jepet leje me rrezik të lartë</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d U gjetën aplikacione të rrezikshme</item>
+        <item quantity="one">%d U gjet një aplikacion i rrezikshëm</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d zbulohet rreziku i zbulimit të informacionit të vendndodhjes</item>
+        <item quantity="one">%d zbulohet rreziku i zbulimit të informacionit të vendndodhjes</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d rreziqet e zbuluara</item>
+        <item quantity="one">%d zbulohet rreziku</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d rreziku i mundshëm i gjetur</item>
+        <item quantity="one">%drreziku i mundshëm i gjetur</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotot mund të përmbajnë informacione private ose të ndjeshme</item>
+        <item quantity="one">%d foto mund të përmbajë informacione private ose të ndjeshme</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d tiparet që mbrojnë privatësinë tuaj janë fikur</item>
+        <item quantity="one">%d tipari që mbron privatësinë tuaj është fikur</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d leja e ndjeshme e dhënë</item>
+        <item quantity="one">%d leja e ndjeshme e dhënë</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Çinstalo %d aplikacione</item>
+        <item quantity="one">Çinstalo %d aplikacion</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d artikujt ka nevojë për mbrojtje shtesë</item>
+        <item quantity="one">%d artikulli ka nevojë për mbrojtje shtesë</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d probleme me baterinë</item>
+        <item quantity="one">%d probleme me baterinë</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d probleme me baterinë u gjetën</item>
+        <item quantity="one">%d probleme me baterinë u gjetën</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">U gjet %d problem me baterinë, rregulloje</item>
+        <item quantity="one">U gjet %d problem me baterinë, rregulloje</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">%d artikujt e optimizuar me konsum të lartë energjie</item>
+        <item quantity="one">%d artikull i optimizuar me konsum të lartë energjie</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Rivendosje ne gjendjen e fabrikës (%ds)</item>
+        <item quantity="one">Rivendosje në gjendjen e fabrikës (%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">U gjetën %d aplikacione jo zyrtare</item>
+        <item quantity="one">U gjet %d aplikacion jo zyrtar</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d aplikacionet e zbuluara keqdashëse</item>
+        <item quantity="one">%d aplikacioni i zbuluar keqdashës</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Kërko aplikacionet %d</item>
+        <item quantity="one">Kërko aplikacionin %d</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d aplikacione të kyçura presin të pastrohen</item>
+        <item quantity="one">%d aplikacion i kyçur pret të pastrohet</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">U fshinë %d viruse</item>
+        <item quantity="one">U fshi %d virus</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">aplikacionet %s për pagesë janë të mbrojtura</item>
+        <item quantity="one">aplikacioni %s për pagesë është i mbrojtur</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">Aplikacionet %s nuk janë të mbrojtura</item>
+        <item quantity="one">Aplikacioni %s nuk është i mbrojtur</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">Aplikacionet %s janë të mbrojtura</item>
+        <item quantity="one">Aplikacioni %s është i mbrojtur</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d fjalë kyçe</item>
+        <item quantity="one">%d fjalë kyçe</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numra</item>
+        <item quantity="one">%d numër</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Duke edituar %1$d lejet</item>
+        <item quantity="one">Duke edituar %1$d lejen</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmente</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Përditësim në dispozicion për %d aplikacione.</item>
+        <item quantity="one">Përditësim në dispozicion për %d aplikacion.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Nuk janë sinkronizuar statistikat e përdorimit të të dhënave të operatorit për %d ditë</item>
+        <item quantity="one">Nuk janë sinkronizuar statistikat e përdorimit të të dhënave të operatorit për %d ditë</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d artikuj të sigurt</item>
+        <item quantity="one">%1$d artikull i sigurt</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Përditso &lt;font color=#F22424>%d&lt;/font>aplikacion&lt;/Data></item>
+        <item quantity="one">&lt;Data>Përditso &lt;font color=#F22424>%d&lt;/font>aplikacion&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">U pastruan %d viruse</item>
+        <item quantity="one">U pastrua %d virus</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d viruse ose aplikacione të rrezikshme</item>
+        <item quantity="one">%d virus ose aplikacion i rrezikshëm</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">aplikacionet %d</item>
+        <item quantity="one">aplikacioni %d</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Nuk u shtuan %d loja</item>
+        <item quantity="one">Nuk u shtua %d lojë</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Lidh së paku %s pika</item>
+        <item quantity="one">Lidh së paku %s pik</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Fut %s numra</item>
+        <item quantity="one">Fut %s numra</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Ju keni shikuar video për %d orë tashmë.
+Bëni një pushim!"</item>
+        <item quantity="one">"Ju keni shikuar video për %dorë tashmë.
+Bëni një pushim!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d shikime</item>
+        <item quantity="one">%1$d shikime</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Pastro %d aplikacionet e zgjrdhura?</item>
+        <item quantity="one">Pastro %d aplikacionin e zgjedhur?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplikacionet</item>
+        <item quantity="one">aplikacionet %s</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Aplikacione të rrezikshme: %d</item>
+        <item quantity="one">Aplikacion i rrezikshëm: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojanë: %d</item>
+        <item quantity="one">Trojan: %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>僅一次</item>
+        <item>每天</item>
+        <item>法定工作日</item>
+        <item>週一至週五</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>僅一次</item>
+        <item>每天</item>
+        <item>週一至週五</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>全部行為</item>
+        <item>自啟動</item>
+        <item>鏈式啟動</item>
+        <item>權限使用</item>
+        <item>敏感行為</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>圖案密碼</item>
+        <item>4位數字密碼</item>
+        <item>混合密碼</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>按大小排序</item>
+        <item>按名稱排序</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>每月固定流量</item>
+        <item>每月無限流量</item>
+        <item>日租卡</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>自訂</item>
+        <item>米粉卡</item>
+        <item>小天神卡</item>
+        <item>騰訊王卡</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>自訂</item>
+        <item>吃到飽</item>
+        <item>米粉卡</item>
+        <item>小天神卡</item>
+        <item>騰訊王卡</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>昨日流動網絡流量</item>
+        <item>當天流動網絡流量</item>
+        <item>上個月流動網絡流量</item>
+        <item>當月流動網絡流量</item>
+        <item>昨日Wi-Fi流量</item>
+        <item>當天Wi-Fi流量</item>
+        <item>上個月Wi-Fi流量</item>
+        <item>當月Wi-Fi流量</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>昨日網絡流量</item>
+        <item>當天網路流量</item>
+        <item>上個月流量</item>
+        <item>當月網路流量</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>本週網路流量</item>
+        <item>當天網路流量</item>
+        <item>當月網路流量</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>昨日</item>
+        <item>當天</item>
+        <item>上個月</item>
+        <item>當月</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>本週</item>
+        <item>當天</item>
+        <item>當月</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>可通過電腦連線您的裝置，讀取或修改裝置中儲存的相片及檔案</item>
+        <item>在未經您同意的情況下，在裝置中安裝應用程式</item>
+        <item>監控並錄製您的螢幕</item>
+        <item>取的裝置的多種重要資訊</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A型</item>
+        <item>B型</item>
+        <item>AB型</item>
+        <item>O型</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>是</item>
+        <item>否</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>正常</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>極低</item>
+        <item>稍低</item>
+        <item>適中</item>
+        <item>稍高</item>
+        <item>極高</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>螢幕鎖定後</item>
+        <item>螢幕鎖定或退出應用程式後</item>
+        <item>螢幕鎖定及退出應用程式1分鐘後</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>流動網絡流量</item>
+        <item>Wi-Fi流量</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>(重要)多項系統應用程式可能無法使用</item>
+        <item>文字排版、帳號、文件等介面會發生極大變化</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>僅提示</item>
+        <item>中斷網絡並提示</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>預設溫控模式</item>
+        <item>效能優先模式</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>目前預設溫控模式</item>
+        <item>當前效能優先模式</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>讀取您所收到的通知內容，包含簡訊正文及其他個人私隱資訊</item>
+        <item>關閉部分應用程式的通知權限</item>
+        <item>模擬點擊通知並彈出應用程式介面</item>
+        <item>控制勿擾模式開關狀態</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>通過檢視您使用的應用程式類型及頻率，取得您的個人愛好及行為資訊</item>
+        <item>取得您的電訊商、語言設定及其他詳細資訊</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>未經應用程式商店檢測的第三方應用程式可能會造成多種軟件問題，影響系統穩定性</item>
+        <item>部分惡意第三方應用程式可能會攻擊您的裝置，造成行為及私隱資料洩露</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>內置存儲</item>
+        <item>外置SD卡</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>全部APP可連網</item>
+        <item>僅白名單APP可上網</item>
+        <item>禁止任何APP連網</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>流動網絡流量</item>
+        <item>話費餘額</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>按應用名稱排序</item>
+        <item>按最近使用時間排序</item>
+        <item>按儲存容量排序</item>
+        <item>按安裝時間排序</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>應用程式名稱</item>
+        <item>最近使用時間</item>
+        <item>儲存空間佔用</item>
+        <item>安裝時間</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>關閉熱點並提示</item>
+        <item>僅提示</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>首次安裝來源</item>
+        <item>首次安裝時間</item>
+        <item>最後更新來源</item>
+        <item>最後更新時間</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>月租套餐</item>
+        <item>日租套餐</item>
+        <item>無限流量套餐</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>流動網絡流量</item>
+        <item>Wi-Fi流量</item>
+    </string-array>
+</resources>

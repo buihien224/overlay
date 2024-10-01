@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>זהו תוכן מומלץ.</item>
-        <item>זוהי מודעה.</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -54,5 +50,11 @@
         <item>ש</item>
         <item>ת</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | פעיל"</item>
+        <item>"  פעיל (מדיה)"</item>
+        <item>"  פעיל (טלפון)"</item>
     </string-array>
 </resources>

@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 గంటల క్రితం</item>
-        <item quantity="one">1 గంట క్రితం</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 గంటల క్రితం</item>
-        <item quantity="one">1 గంటల క్రితం</item>
+        <item quantity="other">%d గంట క్రితం</item>
+        <item quantity="one">%d గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">అర గంట క్రితం</item>
         <item quantity="one">అర గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 గంటలో</item>
-        <item quantity="one">1 గంటలో</item>
+        <item quantity="other">%d గంటలో</item>
+        <item quantity="one">%d గంటలో</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">అర గంటలో</item>
@@ -26,103 +22,71 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d నిమిషాల్లో</item>
-        <item quantity="one">1 నిమిషంలో</item>
+        <item quantity="one">%d నిమిషంలో</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ఇప్పుడే</item>
         <item quantity="one">ఇప్పుడే</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d నిమి క్రితం</item>
-        <item quantity="one">1 నిమి క్రితం</item>
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">%d నిమిషం క్రితం</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">అర గంట క్రితం</item>
-        <item quantity="one">అర గంట క్రితం</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">వాతావరణ ఒత్తిడి: %s హెక్టోపాస్కెల్స్</item>
+        <item quantity="one">వాతావరణ ఒత్తిడి: %s హెక్టోపాస్కెల్</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">1 గంటలో</item>
-        <item quantity="one">1 గంటలో</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s కెలోరీలు ఖర్చు చేశారు</item>
+        <item quantity="one">%1$s కెలోరీ ఖర్చు చేశారు</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">అర గంటలో</item>
-        <item quantity="one">అర గంటలో</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">కెలోరీ గోల్: %1$s కెలోరీలు</item>
+        <item quantity="one">కెలోరీ గోల్: %1$s కెలోరీ</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">వెంటనే</item>
-        <item quantity="one">వెంటనే</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d నిమిషాల్లో</item>
-        <item quantity="one">1 నిమిషంలో</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">యాక్టివిటీ సమయం: %1$s నిమిషాలు</item>
+        <item quantity="one">యాక్టివిటీ సమయం: %1$s నిమిషం</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">చెల్లుబాటుకాని పిన్‌ కోడ్, %d ప్రయత్నాలు మిగిలి ఉన్నాయి</item>
-        <item quantity="one">చెల్లుబాటుకాని పిన్‌ కోడ్, %d ప్రయత్నం మిగిలి ఉంది</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">యాక్టివిటీ గోల్: %1$s నిమిషాలు</item>
+        <item quantity="one">యాక్టివిటీ గోల్: %1$s నిమిషం</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">చెల్లుబాటుకాని PUK కోడ్, %d ప్రయత్నాలు మిగిలి ఉన్నాయి</item>
-        <item quantity="one">చెల్లుబాటుకాని PUK కోడ్, %d ప్రయత్నం మిగిలి ఉంది</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s నిమిషాలు</item>
+        <item quantity="one">%1$s/%2$s నిమి</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">ఎల్లప్పుడూ పాస్‌వర్డ్‌ని గుర్తు పెట్టుకునేందుకు ప్రతి %d గంటలకు మీ పాస్‌వర్డ్‌ని కనీసం ఒక్కసారి నమోదు చేయండి</item>
-        <item quantity="one">ఎల్లప్పుడూ పాస్‌వర్డ్‌ని గుర్తు పెట్టుకునేందుకు ప్రతి %d గంటకు మీ పాస్‌వర్డ్‌ని కనీసం ఒక్కసారి నమోదు చేయండి</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s గంటల్లోపు నిలబడ్డారు</item>
+        <item quantity="one">%1$s గంటలోపు నిలబడ్డారు</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">నిలబడి ఉండటానికి గోల్: %1$s గంటలు</item>
+        <item quantity="one">నిలబడి ఉండటానికి గోల్: %1$s గంట</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s గంలు</item>
+        <item quantity="one">%1$s/%2$s గం</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ప్రస్తుత అడుగుల లెక్కింపు: %1$s అడుగులు</item>
+        <item quantity="one">ప్రస్తుత అడుగుల లెక్కింపు: %1$s అడుగు</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">అడుగుల గోల్: %1$s అడుగులు</item>
+        <item quantity="one">అడుగుల గోల్: %1$s అడుగు</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s అడుగులు</item>
+        <item quantity="one">%1$s/%2$s అడుగు</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">ఎల్లప్పుడూ పాస్‌వర్డ్‌ని గుర్తు పెట్టుకునేందుకు ప్రతి %d గంటలకు మీ పాస్‌వర్డ్‌ని కనీసం ఒక్కసారి నమోదు చేయండి</item>
         <item quantity="one">ఎల్లప్పుడూ పాస్‌వర్డ్‌ని గుర్తు పెట్టుకునేందుకు ప్రతి %d గంటకు మీ పాస్‌వర్డ్‌ని కనీసం ఒక్కసారి నమోదు చేయండి</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">ఇంకా %d గంటలు ఉన్నాయి</item>
-        <item quantity="one">ఇంకా %d గంట ఉంది</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">ఇంకా %d నిమిషాలు ఉన్నాయి</item>
-        <item quantity="one">ఇంకా %d నిమిషం ఉంది</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">ఇంకా %1$d గం %2$d ని ఉంది</item>
-        <item quantity="one">ఇంకా %1$d గం %2$d ని ఉంది</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d గంటలు</item>
-        <item quantity="one">%d గంట</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d నిమిషాలు</item>
-        <item quantity="one">%d నిమిషం</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d గం %2$d ని</item>
-        <item quantity="one">%1$d గం %2$d ని</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d గంటలు మిగిలి ఉన్నాయి</item>
-        <item quantity="one">%d గంట మిగిలి ఉంది</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d నిమిషాలు మిగిలి ఉన్నాయి</item>
-        <item quantity="one">%d నిమిషం మిగిలి ఉంది</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d గం %2$d నిమి మిగిలి ఉంది</item>
-        <item quantity="one">%1$d గం %2$d నిమి మిగిలి ఉంది</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">ఇప్పుడే</item>
-        <item quantity="one">ఇప్పుడే</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
-        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
-        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d నిమిషాల క్రితం</item>
-        <item quantity="one">1 నిమిషం క్రితం</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">%d నిమిషాల్లో మళ్లీ ప్రయత్నించండి</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">%d సెకన్లలో మళ్లీ ప్రయత్నించండి</item>
         <item quantity="one">%d సెకనులో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">ఉష్ణోగ్రత: %1$s డిగ్రీలు, %2$s</item>
+        <item quantity="one">ఉష్ణోగ్రత: %1$s డిగ్రీ, %2$s</item>
     </plurals>
 </resources>

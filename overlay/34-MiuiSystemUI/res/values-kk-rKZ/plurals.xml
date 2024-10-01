@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 сағат бұрын</item>
-        <item quantity="one">1 сағат бұрын</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 сағат бұрын</item>
-        <item quantity="one">1 сағат бұрын</item>
+        <item quantity="other">%d сағат бұрын</item>
+        <item quantity="one">%d сағат бұрын</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Жарты сағат бұрын</item>
         <item quantity="one">Жарты сағат бұрын</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 сағатта</item>
-        <item quantity="one">1 сағатта</item>
+        <item quantity="other">%d сағатта</item>
+        <item quantity="one">%d сағатта</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Жарты сағатта</item>
@@ -26,103 +22,71 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d минутта</item>
-        <item quantity="one">1 минутта</item>
+        <item quantity="one">%d минутта</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Енді ғана</item>
         <item quantity="one">Енді ғана</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d мин. бұрын</item>
-        <item quantity="one">1 мин. бұрын</item>
+        <item quantity="other">%d минут бұрын</item>
+        <item quantity="one">%d минут бұрын</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Жарты сағат бұрын</item>
-        <item quantity="one">Жарты сағат бұрын</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Атмосфералық қысым: %s гектопаскаль</item>
+        <item quantity="one">Атмосфералық қысым: %s гектопаскаль</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">1 сағатта</item>
-        <item quantity="one">1 сағатта</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s калорий жұмсалды</item>
+        <item quantity="one">%1$s калорий жұмсалды</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Жарты сағатта</item>
-        <item quantity="one">Жарты сағатта</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Калорий жұмсау мақсаты: %1$s калория</item>
+        <item quantity="one">Калорий жұмсау мақсаты: %1$s калория</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Дереу</item>
-        <item quantity="one">Дереу</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s ккал</item>
+        <item quantity="one">%1$s/%2$s ккал</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d минутта</item>
-        <item quantity="one">1 минутта</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Белсенділік уақыты: %1$s минут</item>
+        <item quantity="one">Белсенділік уақыты: %1$s минут</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">PIN коды дұрыс емес, %d әрекет қалды</item>
-        <item quantity="one">PIN коды дұрыс емес, %d әрекет қалды</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Белсенділік мақсаты: %1$s минут</item>
+        <item quantity="one">Белсенділік мақсаты: %1$s минут</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">PUK коды дұрыс емес, %d әрекет қалды</item>
-        <item quantity="one">PUK коды дұрыс емес, %d әрекет қалды</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s мин</item>
+        <item quantity="one">%1$s/%2$s мин</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Құпиясөзді есіңізде сақтап қалу үшін әрбір %d сағат сайын енгізіңіз</item>
-        <item quantity="one">Құпиясөзді есіңізде сақтап қалу үшін әрбір %d сағат сайын енгізіңіз</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s сағат ішінде тұрдыңыз</item>
+        <item quantity="one">%1$s сағат ішінде тұрдыңыз</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Тұру мақсаты: %1$s сағат</item>
+        <item quantity="one">Тұру мақсаты: %1$s сағат</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s сағ</item>
+        <item quantity="one">%1$s/%2$s сағ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Қазіргі қадам саны: %1$s қадам</item>
+        <item quantity="one">Қазіргі қадам саны: %1$s қадам</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Қадам мақсаты: %1$s қадам</item>
+        <item quantity="one">Қадам мақсаты: %1$s қадам</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s қадам</item>
+        <item quantity="one">%1$s/%2$s қадам</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">График құлпын есіңізде сақтап қалу үшін әрбір %d сағат сайын енгізіңіз</item>
         <item quantity="one">График құлпын есіңізде сақтап қалу үшін әрбір %d сағат сайын енгізіңіз</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">Шамамен %d сағат қалды</item>
-        <item quantity="one">Шамамен %d сағат қалды</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Шамамен %d минут қалды</item>
-        <item quantity="one">Шамамен %d минут қалды</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">%1$d сағ. %2$d мин. қалды</item>
-        <item quantity="one">%1$d сағ. %2$d мин. қалды</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d сағат</item>
-        <item quantity="one">%d сағат</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d минут</item>
-        <item quantity="one">%d минут</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d сағ. %2$d мин.</item>
-        <item quantity="one">%1$d сағ. %2$d мин.</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d сағат қалды</item>
-        <item quantity="one">%d сағат қалды</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d минут қалды</item>
-        <item quantity="one">%d минут қалды</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d сағ. %2$d мин. қалды</item>
-        <item quantity="one">%1$d сағ. %2$d мин. қалды</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Енді ғана</item>
-        <item quantity="one">Енді ғана</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">Таңдалды: %d</item>
-        <item quantity="one">%d объект таңдалды</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d жаңа ескертпе</item>
-        <item quantity="one">%d жаңа ескертпе</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d минут бұрын</item>
-        <item quantity="one">1 минут бұрын</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">%d минуттан кейін қайталап көріңіз</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">%d секундтан кейін қайталап көріңіз</item>
         <item quantity="one">%d секундтан кейін қайталап көріңіз</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Температура: %1$s градус, %2$s</item>
+        <item quantity="one">Температура: %1$s градус, %2$s</item>
     </plurals>
 </resources>

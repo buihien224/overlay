@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>ఇది సిఫార్సు చేసిన కంటెంట్.</item>
-        <item>ఇది ఒక ప్రకటన.</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | యాక్టివ్‌గా ఉంది"</item>
+        <item>" | యాక్టివ్‌గా ఉంది (మీడియా)"</item>
+        <item>" | యాక్టివ్‌గా ఉంది (ఫోన్)"</item>
     </string-array>
 </resources>

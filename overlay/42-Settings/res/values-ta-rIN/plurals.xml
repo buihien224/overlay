@@ -5,16 +5,16 @@
         <item quantity="one">1 மணிநேரம் முன்</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 மணிநேரம் முன்</item>
-        <item quantity="one">1 மணிநேரம் முன்</item>
+        <item quantity="other">%d மணிநேரம் முன்பு</item>
+        <item quantity="one">%d மணிநேரம் முன்பு</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">அரை மணி நேரம் முன்பு</item>
         <item quantity="one">அரை மணி நேரம் முன்பு</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 மணி நேரத்தில்</item>
-        <item quantity="one">1 மணி நேரத்தில்</item>
+        <item quantity="other">%d மணிநேரத்தில்</item>
+        <item quantity="one">I%d மணிநேரத்தில்</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">அரை மணி நேரத்தில்</item>
@@ -26,15 +26,15 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d நிமிடங்களில்</item>
-        <item quantity="one">ஒரு நிமிடத்தில்</item>
+        <item quantity="one">%d நிமிடத்தில்</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">இப்போது</item>
         <item quantity="one">இப்போது</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
-        <item quantity="one">1 நிமிடம் முன்பு</item>
+        <item quantity="other">%d நிமிடங்கள் முன்பு</item>
+        <item quantity="one">%d நிமிடம் முன்பு</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d செயலிகளுக்கு ஒருபோதும் முடக்காதே</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s பயன்பாடுகளுக்கான கட்டுப்படுத்தப்பட்ட இணைப்பு</item>
         <item quantity="one">%s பயன்பாட்டிற்கான கட்டுப்படுத்தப்பட்ட இணைப்பு</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d வினாடிகள் காத்திருந்து மீண்டும் முயற்சிக்கவும்</item>
+        <item quantity="one">%d வினாடி காத்திருந்து மீண்டும் முயற்சிக்கவும்</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d பேர் இணைக்கப்பட்டனர்</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d வினாடிகள் காத்திருந்து, மீண்டும் முயலவும்.</item>
         <item quantity="one">%d வினாடி காத்திருந்து, மீண்டும் முயலவும்.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">அதிகபட்சம் %d செயல்முறைகள்</item>
+        <item quantity="one">அதிகபட்சம் %d செயல்முறை</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d சேர்க்கப்பட்டது</item>
         <item quantity="one">%d சேர்க்கப்பட்டது</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d உருப்படிகள் தேர்ந்தெடுக்கப்பட்டன</item>
         <item quantity="one">%d உருப்படி தேர்ந்தெடுக்கப்பட்டது</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">%d வினாடிகளில் மாற்றங்கள் பயன்படுத்தப்படும்</item>
+        <item quantity="one">%d வினாடியில் மாற்றங்கள் பயன்படுத்தப்படும்</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
         <item quantity="one">1 நிமிடம் முன்பு</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">CITஐ உள்ளிட, இன்னும் %1$d படிகள் மீதமுள்ளன.</item>
         <item quantity="one">CITஐ உள்ளிட, இன்னும் %1$d படி மீதமுள்ளது.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">இன்னும் %1$d படிகள் முடிந்தால் டெவெலப்பர் ஆகி விடுவீர்கள்.</item>
+        <item quantity="one">இன்னும் %1$d படி முடிந்தால் டெவெலப்பர் ஆகி விடுவீர்கள்.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">சாதன விவரத்தைத் திறப்பதில் இருந்து நீங்கள் %1$d படிகள் தொலைவில் உள்ளீர்கள்</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d பயன்பாடுகளால் அறிவிப்புகளைக் காண்பிக்க முடியும்</item>
         <item quantity="one">%d பயன்பாட்டால் அறிவிப்புகளைக் காண்பிக்க முடியும்</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d நிமிடங்களுக்குப் பிறகு</item>
+        <item quantity="one">%d நிமிடத்திற்குப் பிறகு</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d பிட்கள்/மாதிரி</item>
+        <item quantity="one">%d பிட்/மாதிரி</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">%d மணிநேரம்</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">உங்கள் இயர்ஃபோன்களில் ஒன்று எப்போதேனும் உங்கள் காது அல்லது சார்ஜிங் கேஸில் %d நிமிடங்களுக்கு மேல் இல்லாமல் போகும்போது ஒரு விழிப்பூட்டலைப் பெறுக</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d நெட்வொர்க்குகள் பகிரப்பட்டன</item>
         <item quantity="one">%d நெட்வொர்க் பகிரப்பட்டது</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d சாதனங்கள் இணைக்கப்பட்டன</item>
-        <item quantity="one">%1$d சாதனம் இணைக்கப்பட்டது</item>
     </plurals>
 </resources>

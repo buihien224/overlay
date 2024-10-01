@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+        <item quantity="other">ໃນ %d ຊົ່ວໂມງ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
@@ -19,84 +16,63 @@
         <item quantity="other">ທັນທີ</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">ໃນ %d ນາທີ</item>
+        <item quantity="other">ພາຍໃນ %d ນາທີ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ເມື່ອກີ້​ນີ້</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+        <item quantity="other">%d ນາທີກ່ອນ</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">ຄວາມກົດດັນບັນຍາກາດ: %s hectopascals</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">ເຜົາຜານໄດ້ %1$s ແຄລໍຣີ</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">ເປົ້າໝາຍແຄລໍຣີ: %1$s ແຄລໍຣີ</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">ທັນທີ</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">ໃນ %d ນາທີ</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">ເວລາກິດຈະກໍາ: %1$s ນາທີ</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">ລະຫັດ PIN ບໍ່ຖືກຕ້ອງ, ປ້ອນລະຫັດໄດ້ອີກ %d ຄັ້ງ</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">ເປົ້າໝາຍກິດຈະກໍາ: %1$s ນາທີ</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">ລະຫັດ PUK ບໍ່ຖືກຕ້ອງ, ປ້ອນລະຫັດໄດ້ອີກ %d ຄັ້ງ</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s ນາທີ</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">ປ້ອນລະຫັດຜ່ານຂອງທ່ານຢ່າງໜ້ອຍໃນທຸກໆ %d ຊົ່ວໂມງເພື່ອໃຫ້ຈື່ລະຫັດຜ່ານສະເໝີ</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">ການຢືນພາຍໃນ %1$s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">ເປົ້າໝາຍການຢືນ: %1$s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ນັບ​ບາດກ້າວ​ໃນ​ປັດ​ຈຸ​ບັນ​: %1$s ບາດກ້າວ​</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">ເປົ້າໝາຍບາດກ້າວ​: %1$s ບາດກ້າວ​</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s ບາດກ້າວ</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">ປ້ອນລະຫັດຜ່ານຂອງທ່ານຢ່າງໜ້ອຍໃນທຸກໆ %d ຊົ່ວໂມງເພື່ອໃຫ້ຈື່ລະຫັດຜ່ານສະເໝີ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກປະມານ %d ຊົ່ວໂມງ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກປະມານ %d ນາທີ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກປະມານ %1$d ຊົ່ວໂມງ %2$d ນາທີ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d ຊົ່ວໂມງ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d ນາທີ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d ຊົ່ວໂມງ %2$d ນາທີ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກ %d ຊົ່ວໂມງ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກ %d ນາທີ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">ໃຊ້ງານໄດ້ອີກ %1$d ຊົ່ວໂມງ %2$d ນາທີ</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d ນາທີຜ່ານມາ</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">ລອງອີກຄັ້ງໃນ %d ນາທີ</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">ລອງອີກຄັ້ງໃນ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">ອຸນຫະພູມ: %1$s degrees, %2$s</item>
     </plurals>
 </resources>

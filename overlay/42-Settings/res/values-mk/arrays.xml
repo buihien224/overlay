@@ -14,12 +14,12 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Исклучи анимација</item>
-        <item>Опсег на анимација 5x</item>
-        <item>Опсег на анимација 1x</item>
-        <item>Опсег на анимација 1,5x</item>
-        <item>Опсег на анимација 2x</item>
-        <item>Опсег на анимација 5x</item>
-        <item>Опсег на анимација 10x</item>
+        <item>Брзина на анимации 5x</item>
+        <item>Брзина на анимации 1x</item>
+        <item>Брзина на анимации 1,5x</item>
+        <item>Брзина на анимации 2x</item>
+        <item>Брзина на анимации 5x</item>
+        <item>Брзина на анимации 10x</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Ниеден</item>
@@ -31,18 +31,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Внатрешен капацитет</item>
-        <item>Пренослива СД картичка</item>
-        <item>Дозволи системот да одлучи</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Локација</item>
-        <item>Лични</item>
-        <item>Пораки</item>
-        <item>Аудиовизуелни содржини</item>
-        <item>Уред</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Локација</item>
@@ -81,9 +69,9 @@
         <item>Основна јачина на звук</item>
         <item>Јачина на звук на глас</item>
         <item>Јачина на звук на ѕвонење</item>
-        <item>Јачина на аудио/видео звук</item>
+        <item>Јачина на звук за аудио/видео</item>
         <item>Јачина на звук за аларм</item>
-        <item>Јачина на звук на известување</item>
+        <item>Јачина на звук за известување</item>
         <item>Јачина на звук на Bluetooth</item>
         <item>Остани активен</item>
         <item>Локација</item>
@@ -148,7 +136,7 @@
         <item>основна јачина на звук</item>
         <item>јачина на звук на глас</item>
         <item>јачина на звук на ѕвонење</item>
-        <item>јачина на звук на медиуми</item>
+        <item>јачина на звук за аудио/видео</item>
         <item>јачина на звук на аларм</item>
         <item>јачина на звук на известување</item>
         <item>јачина на звук на Bluetooth</item>
@@ -197,9 +185,9 @@
         <item>Постари од 90 дена</item>
     </string-array>
     <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Неодреден</item>
@@ -275,6 +263,10 @@
         <item>Qualcomm® aptX™ аудио</item>
         <item>Qualcomm® aptX™ HD аудио</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive аудио</item>
+        <item>Qualcomm® aptX™ TWS+ аудио</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Користи избор на системот (стандардно)</item>
@@ -283,6 +275,10 @@
         <item>Qualcomm® aptX™ аудио</item>
         <item>Qualcomm® aptX™ HD аудио</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive аудио</item>
+        <item>Qualcomm® aptX™ TWS+ аудио</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -290,17 +286,27 @@
         <item>, активен (аудиосодржини)</item>
         <item>, активен (телефон)</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Користи ги стандардните поставки на апликацијата</item>
+        <item>Пуштај на слушното помагало</item>
+        <item>Пуштај на звучникот на телефонот</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
+        <item>avrcp16</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp16</item>
+        <item>avrcp15</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Стандардна)</item>
+        <item>AVRCP 1.6 (Стандардна)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.6</item>
+        <item>AVRCP 1.5</item>
+    </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Disabled</item>
+        <item>Unicast</item>
+        <item>Unicast и Broadcast</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -320,16 +326,28 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 минути</item>
-        <item>5 минути</item>
-        <item>1 час</item>
-        <item>Времето никогаш да не истече</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Оневозможено</item>
-        <item>Овозможено е филтрирано</item>
+        <item>Овозможено филтрирање</item>
         <item>Овозможено</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Оставете само ACL-заглавија</item>
+        <item>Филтрирај ги A2DP-аудиовизуелните пакети</item>
+        <item>Филтрирај го RFCOMM-каналот</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Оневозможи</item>
+        <item>Пополнете со низа знаци</item>
+        <item>Оставете само заглавие</item>
+        <item>Целосно отстранете</item>
+    </string-array>
+    <string-array name="bt_stack_log_level_entries">
+        <item>Опширно</item>
+        <item>Отстранување грешки</item>
+        <item>Информации</item>
+        <item>Предупредување</item>
+        <item>Грешка</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Стандардно</item>
@@ -339,17 +357,10 @@
         <item>Поткренат</item>
         <item>Вдлабнат</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>Многу ситен текст</item>
-        <item>Ситен текст</item>
-        <item>Стандардна големина</item>
-        <item>Крупен текст</item>
-        <item>Многу крупен текст</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Многу мали</item>
         <item>Мали</item>
-        <item>Стандарден</item>
+        <item>Средни</item>
         <item>Големи</item>
         <item>Многу големи</item>
     </string-array>
@@ -399,33 +410,15 @@
     <string-array name="color_picker">
         <item>Тиркизна</item>
         <item>Сина</item>
-        <item>Индиго</item>
+        <item>Зелена</item>
         <item>Виолетова</item>
         <item>Розова</item>
-        <item>Црвена</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Темна</item>
-        <item>Светла</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Минатите 30 дена</item>
-        <item>Пост. цикл. на корист....</item>
+        <item>Портокалова</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Исклучено</item>
         <item>Прикажи пречекорени делови</item>
         <item>Прикажи делови за лица со девтераномалија</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Никогаш</item>
-        <item>15 секунди</item>
-        <item>30 секунди</item>
-        <item>1 минута</item>
-        <item>2 минути</item>
-        <item>5 минути</item>
-        <item>10 минути</item>
-        <item>30 минути</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Не потврдувај</item>
@@ -438,15 +431,15 @@
         <item>Systrace (Графика)</item>
         <item>Повици насобрани во glGetError</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Мали</item>
-        <item>Стандардно</item>
-        <item>Големи</item>
-        <item>Најголем</item>
+    <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Никогаш не користи HDCP проверка</item>
-        <item>Користи HDCP-проверка само за DRM-содржини</item>
+        <item>Користи проверка со HDCP само за DRM-содржини</item>
         <item>Секогаш користи HDCP проверка</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
@@ -480,6 +473,15 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Секогаш</item>
+        <item>Освен кога е отворена друга апликација за плаќање</item>
+    </string-array>
+    <string-array name="nfc_payment_favor_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ниедна</item>
@@ -493,7 +495,7 @@
         <item>4 илјади (безбедно)</item>
         <item>4 илјади (подобрено)</item>
         <item>4 илјади (подобрено, безбедно)</item>
-        <item>720p, 1080p (двоен екран)</item>
+        <item>720p, 1080p (Dual Screen)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>Претпочитан е GSM/WCDMA</item>
@@ -531,28 +533,6 @@
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Нормално</item>
-        <item>Умерено</item>
-        <item>Ниско</item>
-        <item>Критично</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Постојано</item>
-        <item>Врвна активност</item>
-        <item>Важно (преден план)</item>
-        <item>Важно (заднина)</item>
-        <item>Бекап</item>
-        <item>Тешка категорија</item>
-        <item>Услуга (активна)</item>
-        <item>Услуга (се рестартира)</item>
-        <item>Приемник</item>
-        <item>Дома</item>
-        <item>Последна активност</item>
-        <item>Кеширана (активност)</item>
-        <item>Кеширана (клиент за активност)</item>
-        <item>Кеширана (празна)</item>
-    </string-array>
     <string-array name="ram_states">
         <item>Нормална</item>
         <item>Умерена</item>
@@ -582,11 +562,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Исклучено</item>
-        <item>64 K/меѓумеморија</item>
-        <item>256 K/меѓумеморија</item>
-        <item>1 M/меѓумеморија</item>
-        <item>4 M/меѓумеморија</item>
-        <item>8 M/привремена меморија за евиденција</item>
+        <item>64 K по евиденциска меѓумеморија</item>
+        <item>256 K по евиденциска меѓумеморија</item>
+        <item>1 M по евиденциска меѓумеморија</item>
+        <item>4 M по евиденциска меѓумеморија</item>
+        <item>8 M по евиденциска меѓумеморија</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Исклучено</item>
@@ -598,7 +578,7 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Исклучено</item>
-        <item>Привремена меморија на целата евиденција</item>
+        <item>Сите евиденциски меѓумемории</item>
         <item>Привремена мем. на цела евиденција освен за радио</item>
         <item>само привремена меморија за евиденција на јадро</item>
     </string-array>
@@ -617,14 +597,16 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>Америка</item>
-        <item>Европа</item>
-        <item>Африка</item>
-        <item>Азија</item>
-        <item>Австралија</item>
-        <item>Пацифик</item>
-        <item>Сè</item>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Никогаш</item>
+        <item>По 1 минута</item>
+        <item>По 5 минути</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Се полни</item>
+        <item>Дремка</item>
+        <item>Режим за заштеда на енергија</item>
+        <item>Состојба на процес</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Исклучено</item>
@@ -633,28 +615,23 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Без анимација</item>
-        <item>Опсег на анимација 0,5x</item>
-        <item>Опсег на анимација 1x</item>
-        <item>Опсег на анимација 1,5x</item>
-        <item>Опсег на анимација 2x</item>
-        <item>Опсег на анимација 5x</item>
-        <item>Опсег на анимација 10x</item>
+        <item>Брзина на анимации 0,5x</item>
+        <item>Брзина на анимации 1x</item>
+        <item>Брзина на анимации 1,5x</item>
+        <item>Брзина на анимации 2x</item>
+        <item>Брзина на анимации 5x</item>
+        <item>Брзина на анимации 10x</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Многу бавно</item>
-        <item>Бавно</item>
-        <item>Нормално</item>
-        <item>Брзо</item>
-        <item>Побрзо</item>
-        <item>Многу брзо</item>
-        <item>Рапидно</item>
-        <item>Многу рапидно</item>
-        <item>Најбрзо</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Време на употреба</item>
-        <item>Користено последен пат</item>
-        <item>Име на апликација</item>
+        <item>60 %</item>
+        <item>80 %</item>
+        <item>100 %</item>
+        <item>150 %</item>
+        <item>200 %</item>
+        <item>250 %</item>
+        <item>300 %</item>
+        <item>350 %</item>
+        <item>400 %</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Се полни</item>
@@ -676,17 +653,6 @@
         <item>Времето истече</item>
         <item>Неуспешна</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN со претходно споделени клучеви</item>
-        <item>L2TP/IPSec VPN со сертификати</item>
-        <item>IPSec VPN со претходно споделени клучеви и Xauth автентикација</item>
-        <item>IPSec VPN со сертификати и Xauth автентикација</item>
-        <item>IPSec VPN со сертификати и хибридна автентикација</item>
-        <item>VPN со IKEv2/IPSec со сертификати и проверка на корисничко име/лозинка</item>
-        <item>VPN со IKEv2/IPSec со однапред споделени клучеви</item>
-        <item>VPN со IKEv2/IPSec со сертификати</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Мобилен интернет</item>
@@ -696,11 +662,9 @@
         <item>Wi-Fi</item>
         <item>Мобилен интернет</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_dhcp_entries">
+        <item>Испраќај го името на уредот до мрежата</item>
+        <item>Не испраќај го името на уредот до мрежата</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Не</item>
@@ -722,11 +686,6 @@
         <item>Слободен</item>
         <item>Надвор од опсег</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Копче „Притисни“</item>
-        <item>PIN од спарен уред</item>
-        <item>PIN од овој уред</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
         <item>GTC</item>
@@ -739,7 +698,7 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Користи рандомизирана MAC-адреса (стандардно)</item>
+        <item>Користи рандомизирана MAC-адреса</item>
         <item>Користи ја MAC-адресата на уредот</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
@@ -804,11 +763,11 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимација</item>
-        <item>Опсег на анимација 0,5x</item>
-        <item>Опсег на анимација 1x</item>
-        <item>Опсег на анимација 1,5x</item>
-        <item>Опсег на анимација 2x</item>
-        <item>Опсег на анимација 5x</item>
-        <item>Опсег на анимација 10x</item>
+        <item>Брзина на анимации 0,5x</item>
+        <item>Брзина на анимации 1x</item>
+        <item>Брзина на анимации 1,5x</item>
+        <item>Брзина на анимации 2x</item>
+        <item>Брзина на анимации 5x</item>
+        <item>Брзина на анимации 10x</item>
     </string-array>
 </resources>

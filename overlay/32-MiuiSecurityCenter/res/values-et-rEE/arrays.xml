@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Üks kord</item>
+        <item>Iga päev</item>
+        <item>Seaduslikud tööpäevad</item>
+        <item>Nädalapäevad</item>
+        <item>Tavaline</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Üks kord</item>
+        <item>Iga päev</item>
+        <item>Nädalapäevad</item>
+        <item>Tavaline</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Kõik kirjed</item>
+        <item>Automaatkäivitus</item>
+        <item>Ahelkäivitus</item>
+        <item>Õiguste kasutamine</item>
+        <item>Tundlikud tegevused</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Muster</item>
+        <item>PIN</item>
+        <item>Parool</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Suurus</item>
+        <item>Nimi</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Kuuplaan</item>
+        <item>Piiramatu</item>
+        <item>Päevaplaan</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Kohandatud</item>
+        <item>Xiaomi fännikart</item>
+        <item>Xiao Tiansheng kaart</item>
+        <item>Tencent King kaart</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Kohandatud</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi fännikart</item>
+        <item>Tiansheni kaart</item>
+        <item>Tencenti kaart</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Eile (mobiilne andmeside) "</item>
+        <item>"Täna (mobiilne andmeside) "</item>
+        <item>"Eelmine kuu (mobiilne andmeside) "</item>
+        <item>"See kuu (mobiilne andmeside) "</item>
+        <item>"Eile (Wi-Fi) "</item>
+        <item>"Täna (Wi-Fi) "</item>
+        <item>"Eelmine kuu (Wi-Fi) "</item>
+        <item>"See kuu (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Eile "</item>
+        <item>"Täna "</item>
+        <item>"Eelmisel kuul "</item>
+        <item>"Sel kuul "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Sel nädalal "</item>
+        <item>"Täna "</item>
+        <item>"Sel kuul "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Eile: "</item>
+        <item>"Täna: "</item>
+        <item>"Eelmisel kuul: "</item>
+        <item>"Sel kuul: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Sel nädalal: "</item>
+        <item>"Täna: "</item>
+        <item>"Sel kuul: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Seadme failidele on võimalik arvuti abil juurde pääseda ja neid redigeerida.</item>
+        <item>Rakenduste installimine seadmesse ilma teie selgesõnalise loata on lubatud.</item>
+        <item>Te saate ekraani sisu kaugjuhtimisega jälgida ja salvestada.</item>
+        <item>On võimalik pääseda ligi teie seadme üksikasjalikule teabele.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Madalaim</item>
+        <item>Madal</item>
+        <item>Tavaline</item>
+        <item>Kõrge</item>
+        <item>Kõrgeim</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Kui seade on lukustatud</item>
+        <item>Kui seade on lukustatud või pärast rakendusest väljumist</item>
+        <item>Kui seade on lukustatud või 1 minut pärast rakendusest väljumist</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobiili kasutus "</item>
+        <item>"Wi-Fi kasutus "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Oluline: mitmete süsteemirakenduste korralik töö võib lakata.</item>
+        <item>Teksti paigutusi, kontosid ja sisu ei pruugita õigesti kuvada.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Näita hoiatust</item>
+        <item>Hoiata ja lülita mobiilandmeside välja</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Vaikimisi</item>
+        <item>Eelista jõudlust</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Temperatuuri vaikerežiimi kasutamine</item>
+        <item>Jõudluse eelistamine</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Lugege kõiki oma teatisi, sealhulgas tekstisõnumite sisu ja muid üksusi, mis võivad sisaldada isiklikku teavet</item>
+        <item>Piirake mõne rakenduse teavitamisõigusi</item>
+        <item>Simuleerige teatistel ja avatud rakendustel koputamist</item>
+        <item>DND-režiimi sisse- ja väljalülitamine</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Koguge oma huvide ja käitumise kohta andmeid, õppides, milliseid rakendusi te kasutate ja kui sageli neid kasutate</item>
+        <item>Juurdepääs operaatoriga seotud ja keeleseadetele, aga ka muudele üksikasjadele</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Kolmandate osapoolte rakendused, mida ole ei kinnitatud, võivad põhjustada mitmeid probleeme ja vähendada süsteemi stabiilsust.</item>
+        <item>Mõni kolmanda osapoole rakendus võib sisaldada pahavara, mis seab teie isikuandmed ohtu.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Sisemine talletusruum</item>
+        <item>Väline talletusruum</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Alati</item>
+        <item>Ainult erandite jaoks</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Andmekasutus</item>
+        <item>Telefoni balanss</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Sortimine rakenduse nime järgi</item>
+        <item>Sortimine viimati kasutatute järgi</item>
+        <item>Sortimine kasutatud salvestusruumi järgi</item>
+        <item>Sorteerimine paigaldusaja järgi</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Rakenduse nimi</item>
+        <item>Viimati kasutatud</item>
+        <item>Kasutatud talletusruum</item>
+        <item>Installimisaeg</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Lülita välja ja anna märku</item>
+        <item>Ainult anna märku</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Installimisallikas</item>
+        <item>Paigaldamise aeg</item>
+        <item>Viimase uuenduse allikas</item>
+        <item>Viimase uuenduse aeg</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Igakuine andmeplaan</item>
+        <item>Igapäevane andmeplaan</item>
+        <item>Piiramatu andmeplaan</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobiilse andmeside kasutus "</item>
+        <item>"Wi-Fi kasutus "</item>
+    </string-array>
+</resources>

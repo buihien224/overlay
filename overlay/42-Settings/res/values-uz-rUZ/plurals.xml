@@ -5,16 +5,16 @@
         <item quantity="one">1 soat oldin</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 soat oldin</item>
-        <item quantity="one">1 soat oldin</item>
+        <item quantity="other">%d soat oldin</item>
+        <item quantity="one">%d soat oldin</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarim soat oldin</item>
         <item quantity="one">Yarim soat oldin</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 soat ichida</item>
-        <item quantity="one">1 soat ichida</item>
+        <item quantity="other">%d soatdan keyin</item>
+        <item quantity="one">%d soatdan keyin</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarim soat ichida</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Darhol</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d daqiqa ichida</item>
-        <item quantity="one">1 daqiqa ichida</item>
+        <item quantity="other">%d daqiqadan keyin</item>
+        <item quantity="one">%d daqiqadan keyin</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Hozirgina</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d daqiqa oldin</item>
-        <item quantity="one">1 daqiqa oldin</item>
+        <item quantity="one">%d daqiqa oldin</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d ta ilovaga hech qachon o‘chirilmasin</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Bog‘lanish %s ta ilovaga cheklandi</item>
         <item quantity="one">Bog‘lanish %s ta ilovaga cheklandi</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d soniya kuting va qayta urinib ko‘ring</item>
+        <item quantity="one">%d soniya kuting va qayta urinib ko‘ring</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d ta odam bog‘landi</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d soniya kutib qaytadan urinib ko‘ring.</item>
         <item quantity="one">%d soniya kutib qaytadan urinib ko‘ring.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Eng ko‘p %d ta jarayon</item>
+        <item quantity="one">Eng ko‘p %d ta jarayon</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d qo‘shildi</item>
         <item quantity="one">%d qo‘shildi</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d ta element tanlandi</item>
         <item quantity="one">%d ta element tanlandi</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">"O'zgarishlar %d soniyada qo'llaniladi"</item>
+        <item quantity="one">"O'zgarishlar %d soniyada qo'llaniladi"</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d daqiqa oldin</item>
         <item quantity="one">1 daqiqa oldin</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">Siz CIT‘ga kirish uchun %1$d bosqich qoldi.</item>
         <item quantity="one">Siz CIT‘ga kirish uchun %1$d bosqich qoldi.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"Siz hozir %1$d dasturchi bo'lishdan bir necha qadam naridasiz."</item>
+        <item quantity="one">"Siz hozir %1$d dasturchi bo'lishdan uzoqlashing."</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Qurilma haqidagi ma’lumotlarni ochish uchun %1$d bosqich qoldi.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d ta ilova bildirishnomalarni ko‘rsata oladi</item>
         <item quantity="one">%d ta ilova bildirishnomalarni ko‘rsata oladi</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d daqiqadan so‘ng</item>
+        <item quantity="one">%d daqiqadan so‘ng</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bit/namuna</item>
+        <item quantity="one">%d bit/namuna</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Eshitish vositangizdan biri sizning qulog‘ingizdan uzoqlashganda yoki zaryad olayotgan %d daqiqadan ko‘proq vaqt davomida ogohlantirish oling</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d ta tarmoq ulashildi</item>
         <item quantity="one">%d ta tarmoq ulashildi</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d ta qurilma ulangan</item>
-        <item quantity="one">%1$d ta qurilma ulangan</item>
     </plurals>
 </resources>

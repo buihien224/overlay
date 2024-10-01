@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">半小时前</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">半小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">马上</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d分钟后</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">刚刚</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d 分钟前</item>
+        <item quantity="one">%d 分钟前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">气压%s百帕</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">消耗卡路里%1$s千卡</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">目标%1$s千卡</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s 千卡</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">当前活动时长%1$s分钟</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">目标%1$s分钟</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s 分钟</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">当前站立%1$s次</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">目标%1$s次</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s 次</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">当前步数%1$s步</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">目标%1$s步</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s 步</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">为防止密码遗忘，每%d小时至少使用一次密码</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">请于 %s 分钟后再尝试</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">请于 %s 秒后再尝试</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">温度%1$s° %2$s</item>
+    </plurals>
+</resources>

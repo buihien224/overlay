@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Duela ordubete</item>
+        <item quantity="one">Duela ordubete</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Duela %d ordu</item>
+        <item quantity="one">Duela ordu %d</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Ordu %d barru</item>
+        <item quantity="one">Ordu %d barru</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu %d barru</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Duela %d min</item>
+        <item quantity="one">Duela min %d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d Joku gehitutak</item>
+        <item quantity="one">Joku %d gehituta</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplikazio gehituta</item>
+        <item quantity="one">Aplikazio %d gehituta</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">%3$d aldiz baimenduta %1$s eta %2$s artean</item>
+        <item quantity="one">%3$d aldiz baimenduta %1$s eta %2$s artean</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">%1$d minutuz erabilita</item>
+        <item quantity="one">%1$d minutuz erabilita</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">%1$d minutuz erabilita %2$s arte</item>
+        <item quantity="one">%1$d minutuz erabilita %2$s arte</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Aplikazioen portaeraren erregistroak gailu honetan gordeko dira %d egunez. Funtzio hau desaktibatzeak aplikazioen portaera erregistroak ezabatuko ditu eta ez da gomendatzen.</item>
+        <item quantity="one">Aplikazioen portaeraren erregistroak gailu honetan gordeko dira egun %d. Funtzio hau desaktibatzeak aplikazioen portaera erregistroak ezabatuko ditu eta ez da gomendatzen.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d baimen onartutak</item>
+        <item quantity="one">Baimen %d onartuta</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d baimen eskatu</item>
+        <item quantity="one">Baimen %d eskatu</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d aldiz</item>
+        <item quantity="one">%d Behin</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Desinstalatu %d aplikazio</item>
+        <item quantity="one">Desinstalatu %d aplikazio</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Eguneratu %d aplikazio</item>
+        <item quantity="one">Eguneratu aplikazio %d</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Duela %d egun erabilita</item>
+        <item quantity="one">Duela egun %d erabilita</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Duela %d hilabete erabilita</item>
+        <item quantity="one">Duela hilabete %d erabilita</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Duela %d urte erabilita</item>
+        <item quantity="one">Duela urte %d erabilita</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Aplikazioen blokeoa erabil dezakezu %1$s aplikaziorekin</item>
+        <item quantity="one">Aplikazioen blokeoa erabil dezakezu %1$s aplikaziorekin</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">%s aplikazio gutxienez babestu dezakezu</item>
+        <item quantity="one">%s aplikazio gutxienez babestu dezakezu</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplikazio babestuko dira Aplikazio blokeoarekin</item>
+        <item quantity="one">Aplikazio %s babestuko da Aplikazio blokeoarekin</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplikazio, %1$s barne</item>
+        <item quantity="one">%2$d aplikazio, %1$s barne</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d aldiz</item>
+        <item quantity="one">%d aldiz</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplikazio sarera konekta daitezke atzealdean</item>
+        <item quantity="one">%d aplikazio sarera konekta daitezke atzealdean</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d aplikazio ezin dira sarera konektatu atzealdean</item>
+        <item quantity="one">%d aplikazio ezin dira sarera konektatu atzealdean</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">%d Aplikazioak babesten</item>
+        <item quantity="one">%d Aplikazioak babesten</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> aplikazio desinstalatu ditzakezu&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> aplikazio desinstalatu dezakezu&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"%s eguneroko datu mugak jadanik erabili dituzu.
+
+Datu mugikorrak berriro aktibatzen badituzu, zure operadoreak komisio gehigarriak kobratu ditzake."</item>
+        <item quantity="one">"%s eguneroko datu mugak jadanik erabili dituzu.
+
+Datu mugikorrak berriro aktibatzen badituzu, zure operadoreak komisio gehigarriak kobratu ditzake."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">%s eguneroko datu mugak jadanik erabili dituzu.</item>
+        <item quantity="one">%s eguneroko datu mugak jadanik erabili dituzu.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d minututan</item>
+        <item quantity="one">%1$d minututan</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Gailuaren errendimenduaren puntuazioa %d puntu baino txikiagoa da. Optimizatu orain?</item>
+        <item quantity="one">Gailuaren errendimenduaren puntuazioa %d puntu baino txikiagoa da. Optimizatu orain?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ordu</item>
+        <item quantity="one">ordu %s</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutu</item>
+        <item quantity="one">minutu %s</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d aplikazioen artean bilatu</item>
+        <item quantity="one">Aplikazio %d-an bilatu</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">Pribatutasunarekin lotutako %d arrisku</item>
+        <item quantity="one">Pribatutasunarekin lotutako %d arrisku</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d arazok optimizaketa behar dute</item>
+        <item quantity="one">Arazo %1$d optimizaketa behar du</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d Aplikazio aurkitutak</item>
+        <item quantity="one">Aplikazio %d aurkituta</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d funtzio</item>
+        <item quantity="one">Funtzio %d</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d dei %2$s-tik eta bestetik</item>
+        <item quantity="one">%1$d dei %2$s-tik eta bestetik</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%2$s eta besteen %1$d dei</item>
+        <item quantity="one">%2$s-ren dei %1$d</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d mezu</item>
+        <item quantity="one">%d mezu</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Zure Game Turbo harpidetza %d egun barru iraungiko da. Berritu orain eta gozatu pitzadurarik gabeko jokatzea.</item>
+        <item quantity="one">Zure Game Turbo harpidetza egun %d barru iraungiko da. Berritu orain eta gozatu pitzadurarik gabeko jokatzea.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d Pertsona jolasten ari dira</item>
+        <item quantity="one">Pertsona %1$d jolasten ari da</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d Pertsona jolasten ari dira</item>
+        <item quantity="one">Pertsona %1$d jolasten ari da</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Desinstalatu %2$d jolas (%1$s ere bai)</item>
+        <item quantity="one">Desinstalatu %2$d jolas (%1$s ere bai)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Momentu nagusiak automatikoki gorde eta bideoak sortu saioaren une nabarmenekin. Joko sesio bakoitzaren ondoren betiko gordetzea erabaki dezakezu. Gorde gabeko bideoak automatikoki ezabatuko dira %1$d egun eta gero.</item>
+        <item quantity="one">Momentu nagusiak automatikoki gorde eta bideoak sortu saioaren une nabarmenekin. Joko sesio bakoitzaren ondoren betiko gordetzea erabaki dezakezu. Gorde gabeko bideoak automatikoki ezabatuko dira egun %1$d eta gero.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">%d AI grabaketa Game Turbo-n gorde dira</item>
+        <item quantity="one">%d AI grabaketa Game Turbo-n gorde da</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d segundo</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">%d egun segitutan berraztertuta</item>
+        <item quantity="one">%d Behin berraztertuta</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">ordu %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">min %d</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Ulertuta (%d s)</item>
+        <item quantity="one">Ulertuta (%d s)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Oharra:
+·Irudi hobetuak ez dira eskuragarri egongo Bateria aurrezlea aktibatuta dagoenean edo zure gailua gainberotuta dagoenean.
+·Fotograma-tasa adimendunak hobeto funtzionatzen du zure jokoa %d fotograma segunduko erakusteko ezarrita dagoenean."</item>
+        <item quantity="one">"Oharra:
+·Irudi hobetuak ez dira eskuragarri egongo Bateria aurrezlea aktibatuta dagoenean edo zure gailua gainberotuta dagoenean.
+·Fotograma-tasa adimendunak hobeto funtzionatzen du zure jokoa %d fotograma segunduko erakusteko ezarrita dagoenean."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Oharra:
+·Irudi hobetuak ez dira eskuragarri egongo Bateria aurrezlea aktibatuta dagoenean edo zure gailua gainberotuta dagoenean.
+·Fotograma-tasa hobetuak hobeto funtzionatzen du zure jokoa %d fotograma segunduko erakusteko ezarrita dagoenean."</item>
+        <item quantity="one">"Oharra:
+· Irudi hobetuak ez dira eskuragarri egongo Bateria aurrezlea aktibatuta dagoenean edo zure gailua gainberotuta dagoenean.
+·Fotograma-tasa hobetuak hobeto funtzionatzen du zure jokoa %d fotograma segunduko erakusteko ezarrita dagoenean."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Probatu Ahots aldatzailea
+%d eguneko doako proba lortzeko!"</item>
+        <item quantity="one">"Probatu Ahots aldatzailea
+%d eguneko doako proba lortzeko!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Ezin izan duzu %d eguneko doako proba jaso</item>
+        <item quantity="one">Ezin izan duzu %d eguneko doako proba jaso</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">%d eguneko doako proba behar bezala jaso duzu</item>
+        <item quantity="one">%d eguneko doako proba behar bezala jaso duzu</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Lortu %d eguneko doako proba</item>
+        <item quantity="one">Lortu %d eguneko doako proba</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Zure harpidetza iraungi da.
+%d eguneko doako proba lor dezakezu!"</item>
+        <item quantity="one">"Zure harpidetza iraungi da.
+%d eguneko doako proba lor dezakezu!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Lortu %d eguneko doako proba</item>
+        <item quantity="one">Lortu %d eguneko doako proba</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Gehitu %d aplikazio arte. Eduki sakatuta berrantolatzeko.</item>
+        <item quantity="one">Gehitu %d aplikazio arte. Eduki sakatuta berrantolatzeko.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Funtzio honek pantailaren argitasuna ahultzen du %d minutuz inaktibo egon ondoren energia aurrezteko. Mantendu funtzio hori aktibatuta?</item>
+        <item quantity="one">Funtzio honek pantailaren argitasuna ahultzen du %d minutuz inaktibo egon ondoren energia aurrezteko. Mantendu funtzio hori aktibatuta?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Ahuldu pantailaren argitasuna automatikoki %d minutuz inaktibo egon ondoren energia aurrezteko</item>
+        <item quantity="one">Ahuldu pantailaren argitasuna automatikoki %d minutuz inaktibo egon ondoren energia aurrezteko</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d karaktere gehiago</item>
+        <item quantity="one">Karaktere     +%1$d gehiago</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d Baimen</item>
+        <item quantity="one">Baimen %d</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikazio ez daukate auto-abiarazteko baimena</item>
+        <item quantity="one">Aplikazio %d ez dauka auto-abiarazteko baimena</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d aplikaziok ez dute baimenik atzealdean hasteko</item>
+        <item quantity="one">Aplikazio %d-ek ez du atzealdean hasteko baimenik</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d Aplikazio auto-abiarazten dira</item>
+        <item quantity="one">Aplikazio %d auto-abiarazten da</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplikazio atzealdean has daitezke</item>
+        <item quantity="one">Aplikazio %d atzealdean has daiteke</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplikazio root sarbidea ez daukate</item>
+        <item quantity="one">Aplikazio %d root sarbidea ez dauka</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d Aplikazio root sarbidea daukate</item>
+        <item quantity="one">Aplikazio %d root sarbidea dauka</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d arriskuak,</item>
+        <item quantity="one">arrisku %d,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d troiarrak</item>
+        <item quantity="one">troiar %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">Aplikazio %d</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplikazio ezin dute roaming datuak erabili</item>
+        <item quantity="one">%d aplikazio ezin dute roaming datuak erabili</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplikazio roaming datuak erabili ditzakete</item>
+        <item quantity="one">%d aplikazio roaming datuak erabili ditzakete</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d Aplikazioa urkitutak</item>
+        <item quantity="one">%d aplikazioak aurkituta</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d arrisku aurkitu dira</item>
+        <item quantity="one">%d arrisku aurkitu da</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Datuen erabileraren segimendua egiten %d aplikazioetarako</item>
+        <item quantity="one">Datuen erabileraren segimendua egiten %d aplikazioetarako</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Datuen erabileraren segimendua ez egiten %d aplikazioetarako</item>
+        <item quantity="one">Datuen erabileraren segimendua ez egiten %d aplikazioetarako</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Ordubete barru</item>
+        <item quantity="one">Ordubete barru</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu 1 barru</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d Jolas gehitutak</item>
+        <item quantity="one">Jolas %d gehituta</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">%d elementu babes ditzakezu</item>
+        <item quantity="one">%d elementu babes dezakezu</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ordu</item>
+        <item quantity="one">%s ordu</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minutu</item>
+        <item quantity="one">%s minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Konektatu gutxienez %d puntu</item>
+        <item quantity="one">Konektatu gutxienez puntu %d</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Konektatu gutxienez %s puntu</item>
+        <item quantity="one">Konektatu gutxienez %s puntu</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"%d segundo itxoin eta berriro saiatu. "</item>
+        <item quantity="one">"Segundo %d itxoin eta berriro saiatu. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d salbuespen</item>
+        <item quantity="one">Salbuespen %d</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d beste erabiltzaileek markatu dute honela</item>
+        <item quantity="one">%d beste erabiltzaileek markatu dute honela</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d mezu edo dei blokeatu dira</item>
+        <item quantity="one">Mezu edo dei %d blokeatu da</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Gailua ez da %d egunez eskaneatu</item>
+        <item quantity="one">Gailua ez da egun %d -ez eskaneatu</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d aplikazio birusak eta malware dituzte</item>
+        <item quantity="one">Aplikazio %d -ek birusak eta malware ditu</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d eguneratze eskuragarri daude</item>
+        <item quantity="one">Eguneratze %d eskuragarri dago</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementu aukeratuta</item>
+        <item quantity="one">%d elementu aukeratuta</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Sartu gutxienez %d karaktere</item>
+        <item quantity="one">Sartu gutxienez karaktere %d</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Zure sareko abiadura areagotze saioa %d egun barru bukatuko da. Baliteke sareko atzerapenak izaten hastea. Saioa berritu orain?</item>
+        <item quantity="one">Zure sareko abiadura areagotze saioa %d egun barru bukatuko da. Baliteke sareko atzerapenak izaten hastea. Saioa berritu orain?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Sare sarbidea &lt;font color='#ff0000'>%d:&lt;/font> aplikazioentzat mugatua dago"</item>
+        <item quantity="one">"Sare sarbidea &lt;font color='#ff0000'>%d:&lt;/font> aplikazioentzat mugatua dago"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplikazio ez dira gehitu</item>
+        <item quantity="one">Aplikazio %d ez da gehitu</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d egun segurtasun-eskaneatzerik gabe</item>
+        <item quantity="one">Egun %d segurtasun-eskaneatzerik gabe</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Bateriaren %%%2$d -a agortu da azkenengo %1$d minutuetan</item>
+        <item quantity="one">Bateriaren %%%2$d -a agortu da azkenengo minutu %1$d-ean</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplikazio, %1$s barne, bateria husten ari dira</item>
+        <item quantity="one">Aplikazio %2$d, %1$s barne, bateria husten ari da</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Ezabatu %d instalazio-pakete</item>
+        <item quantity="one">Ezabatu %d instalazio-pakete</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Ezabatu %d gainontzeko APK</item>
+        <item quantity="one">Ezabatu %d gainontzeko APK</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">Energia-kontsumo handia duten %d elementu</item>
+        <item quantity="one">Energia-kontsumo handia duen elementu %d</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizatu %d elementu bateria aurrezteko</item>
+        <item quantity="one">Optimizatu %d elementu bateria aurrezteko</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d Egun azkeneko azterketatik</item>
+        <item quantity="one">Egun %d azkeneko azterketatik</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Duela %d minutu</item>
+        <item quantity="one">Duela minutu 1</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplikazio blokeatutak</item>
+        <item quantity="one">Aplikazio %d blokeatuta</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">Aplikazio %d</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d Jakinarazpen ezkutatu dira</item>
+        <item quantity="one">Jakinarazpen %d ezkutatu da</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplikazio ez blokeatutak</item>
+        <item quantity="one">Aplikazio %d ez blokeatuta</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d Jakinarazpen ikusgai dira</item>
+        <item quantity="one">Jakinarazpen %d ikusgai da</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Sartu gutxienez %d digitu</item>
+        <item quantity="one">Sartu gutxienez digitu %d</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d blokeatutako aplikazioak</item>
+        <item quantity="one">Blokeatutako aplikazio %d</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplikazio %1$s barne asmo txarrekoak izan daitezke</item>
+        <item quantity="one">App %2$d %1$s barne asmo txarrekoa izan daiteke.</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplikazio bateria husten ari dira</item>
+        <item quantity="one">Aplikazio %d bateria husten ari da</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ordu"</item>
+        <item quantity="one">" ordu"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">Egun %d</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d elementu</item>
+        <item quantity="one">Elementu %d</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Zure gailuak ez du bateriarik. Hibernazio moduan sartzen %1$d segundo barru.</item>
+        <item quantity="one">Zure gailuak ez du bateriarik. Hibernazio moduan sartzen segundo %1$d barru.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s egun</item>
+        <item quantity="one">"Egun %s "</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ordu</item>
+        <item quantity="one">Ordu %s</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutu</item>
+        <item quantity="one">Minutu %s</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s egun guztiz kargatuta egon arte</item>
+        <item quantity="one">Egun %s guztiz kargatuta egon arte</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ordu guztiz kargatuta egon arte</item>
+        <item quantity="one">Ordu %s guztiz kargatuta egon arte</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutu guztiz kargatuta egon arte</item>
+        <item quantity="one">Minutu %s guztiz kargatuta egon arte</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s egun falta dira</item>
+        <item quantity="one">Egun %s falta da</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s ordu falta dira</item>
+        <item quantity="one">Ordu %s falta da</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutu falta dira</item>
+        <item quantity="one">Minutu %s falta da</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ordu falta dira</item>
+        <item quantity="one">Ordu %d falta da</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minutu falta dira</item>
+        <item quantity="one">Minutu %d falta da</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minutu azkeneko kargagatik</item>
+        <item quantity="one">Minutu %d azkeneko kargagatik</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d segundo azkeneko kargagatik</item>
+        <item quantity="one">Segundo %d azkeneko kargagatik</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d pertsonek deskargatuta</item>
+        <item quantity="one">%1$d pertsonek deskargatuta</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d pertsonek deskargatuta</item>
+        <item quantity="one">Pertsona %1$d -ek deskargatuta</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Gailua %d segundoan itzaliko da</item>
+        <item quantity="one">Gailua %d segundoan itzaliko da</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ordu</item>
+        <item quantity="one">ordu %s</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minutu</item>
+        <item quantity="one">Minutu %s</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">aldiz</item>
+        <item quantity="one">aldiz</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d aldiz</item>
+        <item quantity="one">Aldi %d</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">Energia-kontsumo handia duten %d elementu</item>
+        <item quantity="one">Energia-kontsumo handia duen elementu %d</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d egun "</item>
+        <item quantity="one">"%d egun "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ordu"</item>
+        <item quantity="one">" ordu"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ordu "</item>
+        <item quantity="one">"%d ordu "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d minutu "</item>
+        <item quantity="one">"%d minutu "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Bateria optimizatu %d egoeretan</item>
+        <item quantity="one">Bateriaren erabilera optimizatu %d egoeran</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Konpondu %d bateria erabileraren arazo</item>
+        <item quantity="one">Konpondu %d bateria erabileraren arazo</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">%delementuren energia-kontsumoa optimiza dezakezu</item>
+        <item quantity="one">Elementu %den energia-kontsumoa optimiza dezakezu</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d elementu optimizatu daitezke"</item>
+        <item quantity="one">" %d elementu optimizatu daiteke"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizatu %d elementu bateria aurrezteko</item>
+        <item quantity="one">Optimizatu %d elementu bateria aurrezteko</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">%d elementu optimizatu ditzakezu bateria aurrezteko</item>
+        <item quantity="one">%d elementu optimizatu dezakezu bateria aurrezteko</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d minutu gehitu</item>
+        <item quantity="one">Minutu %d gehitu</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">itemak</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Ezeztatu (%d s)</item>
+        <item quantity="one">Ezeztatu (%d s)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s egun falta dira</item>
+        <item quantity="one">Egun %s falta da</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s ordu falta dira</item>
+        <item quantity="one">Ordu %s falta da</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutu falta dira</item>
+        <item quantity="one">Minutu %s falta da</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minutu pantaila denbora geratzen dira</item>
+        <item quantity="one">Minutu %s pantaila denbora geratzen da</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Aktibatu %s minutu pantaila denbora gehitzeko</item>
+        <item quantity="one">Aktibatu minutu %s pantaila denbora gehitzeko</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Ulertuta (%d)</item>
+        <item quantity="one">Ulertuta (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Ados (%ds)</item>
+        <item quantity="one">Ados (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Gailua %d segundo barru itzaliko da. Konektatu kargagailua.</item>
+        <item quantity="one">Gailua %d segundo barru itzaliko da. Konektatu kargagailua.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikazio automatikoki hasten dira maiz</item>
+        <item quantity="one">%d aplikazio automatikoki hasten da maiz</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikaziok bateria kontsumitzen dute</item>
+        <item quantity="one">%d aplikaziok bateria kontsumitzen du</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplikazio-ikono ezkutatu dira</item>
+        <item quantity="one">Aplikazio-ikono %d ezkutatu da</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Ez dira ezkutatu %d aplikazio-ikono</item>
+        <item quantity="one">Ez da ezkutatu aplikazio-ikono %d</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s aplikaziok etengabeko sarbidea dute</item>
+        <item quantity="one">%s aplikaziok etengabeko sarbidea du</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">%s aplikaziorako onartzen da</item>
+        <item quantity="one">%s aplikaziorako onartzen da</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s aldiz</item>
+        <item quantity="one">%s aldiz</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d arrisku handiko baimen eman dira</item>
+        <item quantity="one">%d arrisku handiko baimen eman da</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d aplikazio arriskutsu aurkitu dira</item>
+        <item quantity="one">%d aplikazio arriskutsu aurkitu da</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">Kokapen informazioa jakinarazten duen %d arrisku hauteman dira</item>
+        <item quantity="one">Kokapen informazioa jakinarazten duen %d arrisku hauteman da</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d arrisku hauteman dira</item>
+        <item quantity="one">%d arrisku hauteman da</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d arrisku posible aurkitu dira</item>
+        <item quantity="one">%d arrisku posible aurkitu da</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">Baliteke %d argazkik informazio pribatua edo konfidentziala edukitzea</item>
+        <item quantity="one">Baliteke %d argazkik informazio pribatua edo konfidentziala edukitzea</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">Zure pribatutasuna babesten duen %d funtzio desaktibatuta daude</item>
+        <item quantity="one">Zure pribatutasuna babesten duen funtzio %d desaktibatuta dago</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d baimen konfidentzial eman dira</item>
+        <item quantity="one">%d baimen konfidentzial eman da</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Desinstalatu %d aplikazio</item>
+        <item quantity="one">Desinstalatu %d aplikazio</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d elementuk gehigarrizko babesa behar dute</item>
+        <item quantity="one">%d elementuk gehigarrizko babesa behar du</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d bateria arazo</item>
+        <item quantity="one">%d bateria arazo</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d bateria arazo aurkituak</item>
+        <item quantity="one">%d bateria arazo aurkituak</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d bateria arazoak aurkitu dira, konpondu</item>
+        <item quantity="one">%d bateria arazoak aurkitu dira, konpondu</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Energia-kontsumo handia duten %d elementu optimizatuta</item>
+        <item quantity="one">Energia-kontsumo handia duen elementu %d optimizatuta</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Fabrikako berrezarketa(%ds)</item>
+        <item quantity="one">Fabrikako berrezarketa(%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">%d ofizialak ez diren aplikazio aurkituta</item>
+        <item quantity="one">%d ofizialak ez diren aplikazio aurkituta</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Asmo txarreko %d aplikazio aurkitu dira</item>
+        <item quantity="one">Asmo txarreko %d aplikazio aurkitu da</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d aplikazio bilatu</item>
+        <item quantity="one">%d aplikazio bilatu</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">Blokeatutako %d aplikazio garbituak izateko itxaroten</item>
+        <item quantity="one">Blokeatutako aplikazio %d garbitua izateko itxaroten</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">%d birus ezabatutak</item>
+        <item quantity="one">Birus %d ezabatuta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s ordainketa aplikazio babestuta daude</item>
+        <item quantity="one">%s ordainketa aplikazio babestuta daude</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplikazio ez daude babestuta</item>
+        <item quantity="one">%s aplikazio ez daude babestuta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplikazio babestuta daude</item>
+        <item quantity="one">%s aplikazio babestuta daude</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d items</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d hitz gako</item>
+        <item quantity="one">%d hitz gako</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d zenbaki</item>
+        <item quantity="one">%d zenbaki</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d baimen editatzen</item>
+        <item quantity="one">Baimen %1$d editatzen</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> zati</item>
+        <item quantity="one">Zati &lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big></item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d aplikazioentzat eguneraketa erabilgarri dago.</item>
+        <item quantity="one">Aplikazio %d-entzat eguneraketa erabilgarri dago.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Operadorearen datu erabilera ez da %d egunetan sinkronizatu</item>
+        <item quantity="one">Operadorearen datu erabilera ez da egun %d-ean sinkronizatu</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d elementuak babestuta daude</item>
+        <item quantity="one">%1$d elementuak babestuta daude</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Eguneratu &lt;font color=#F22424>%d&lt;/font> aplikazio&lt;/Data></item>
+        <item quantity="one">&lt;Data>Eguneratu &lt;font color=#F22424>%d&lt;/font> aplikazio&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d birus garbituak</item>
+        <item quantity="one">Birus %d garbituta</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d birus edo aplikazio arriskutsu</item>
+        <item quantity="one">Birus edo aplikazio arriskutsu %d</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Ez dira %d jolas gehitu</item>
+        <item quantity="one">Ez da jolas %d gehitu</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Konektatu gutxienez %s puntu</item>
+        <item quantity="one">Konektatu gutxienez %s puntu</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Sartu %s digitu</item>
+        <item quantity="one">Sartu %s digitu</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"%d ordu daramatzazu bideoak ikusten.
+Hartu atsedena!"</item>
+        <item quantity="one">"%d ordu daramatzazu bideoak ikusten.
+Hartu atsedena!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d aldiz ikusita</item>
+        <item quantity="one">%1$d aldiz ikusita</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Hautatutako %d aplikazio ezabatu?</item>
+        <item quantity="one">Hautatutako %d aplikazio ezabatu?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplikazio</item>
+        <item quantity="one">Aplikazio %s</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Aplikazio arriskutsua: %d</item>
+        <item quantity="one">Aplikazio arriskutsua: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Troiar: %d</item>
+        <item quantity="one">Troiar: %d</item>
+    </plurals>
+</resources>

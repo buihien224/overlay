@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>See on soovitatud sisu</item>
-        <item>See on reklaam.</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktiivne"</item>
+        <item>" | Aktiivne (meedia)"</item>
+        <item>" | Aktiivne (telefon)"</item>
     </string-array>
 </resources>

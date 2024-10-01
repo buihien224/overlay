@@ -4,13 +4,13 @@
         <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+        <item quantity="other">ໃນ %d ຊົ່ວໂມງ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
@@ -19,13 +19,13 @@
         <item quantity="other">ທັນທີ</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">ໃນ %d ນາທີ</item>
+        <item quantity="other">ພາຍໃນ %d ນາທີ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ເມື່ອກີ້​ນີ້</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+        <item quantity="other">%d ນາທີກ່ອນ</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">ບໍ່ປິດໃຊ້ງານສຳລັບ %d ແອັບ</item>
@@ -53,6 +53,9 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">ຈຳກັດການເຊື່ອມຕໍ່ສຳລັບ %s ແອັບແລ້ວ</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Wait for %d secs and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d ຄົນເຊື່ອມຕໍ່ຢູ່</item>
@@ -99,6 +102,9 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">ກະລຸນາລໍຖ້າ %d ວິນາທີແລະລອງອີກຄັ້ງ.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">ບໍ່ເກີນ %d ການດຳເນີນການ</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">ເພີ່ມແລ້ວ %d</item>
     </plurals>
@@ -108,6 +114,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">ການປ່ຽນແປງຈະຖືກນຳໃຊ້ໃນ %d ວິ</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d ນາທີຜ່ານມາ</item>
     </plurals>
@@ -116,6 +125,9 @@
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">ຍັງເຫຼືອອີກ %1$d ຂັ້ນຕອນເພື່ອເຂົ້າສູ່ CIT.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ທ່ານເຫຼືອອີກ %1$d ຂັ້ນຕອນໃນການເປັນນັກພັດທະນາ.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">ຍັງເຫຼືອອີກ %1$d ຂັ້ນຕອນເພື່ອເປີດຂໍ້ມູນອຸປະກອນ.</item>
@@ -128,6 +140,21 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d ແອັບສາມາດສະແດງການແຈ້ງເຕືອນ</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">ຫຼັງຈາກ %d ນາທີ</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/sample</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d ນາທີ</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d ວິນາທີ</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">ຮັບການແຈ້ງເຕືອນເມື່ອໃດກໍຕາມທີ່ຫູຟັງຂອງທ່ານຢູ່ຫ່າງຈາກຫູຫຼືສາກດົນເກີນ %d ນາທີ</item>
@@ -188,8 +215,5 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">ແຊຣ໌ແລ້ວ %d ເຄືອຂ່າຍ</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d ອຸປະກອນເຊື່ອມຕໍ່ແລ້ວ</item>
     </plurals>
 </resources>

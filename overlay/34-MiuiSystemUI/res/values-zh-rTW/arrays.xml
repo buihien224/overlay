@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>一律顯示百分比</item>
+        <item>充電時顯示百分比 (預設)</item>
+        <item>不顯示這個圖示</item>
+    </string-array>
+    <array name="biometric_dialog_package_names_for_logo_with_overrides" />
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>，使用中</item>
+        <item>，使用中 (媒體)</item>
+        <item>，使用中 (手機)</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>顯示小時、分鐘和秒</item>
+        <item>顯示小時和分鐘 (預設)</item>
+        <item>不顯示這個圖示</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>剪貼簿</item>
+        <item>按鍵碼</item>
+        <item>確認旋轉，鍵盤切換工具</item>
+        <item>無</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>一般</item>
+        <item>精簡</item>
+        <item>靠左</item>
+        <item>靠右</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_dream">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>無法使用</item>
+        <item>關閉</item>
+        <item>開啟</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>無法使用</item>
+        <item>已關閉</item>
+        <item>已開啟</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>掃描中…</item>
+        <item>連線中…</item>
+        <item>驗證中…</item>
+        <item>正在取得 IP 位址…</item>
+        <item>已連線</item>
+        <item>已暫停使用</item>
+        <item>正在中斷連線…</item>
+        <item>已中斷連線</item>
+        <item>失敗</item>
+        <item>已封鎖</item>
+        <item>暫時不使用訊號較弱的連線</item>
+    </string-array>
+</resources>

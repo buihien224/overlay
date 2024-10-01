@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ერთხელ</item>
+        <item>ყოველ დღე</item>
+        <item>იურიდიული სამუშაო დღე</item>
+        <item>კვირის დღეები</item>
+        <item>პერსონალიზირებული</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ერთხელ</item>
+        <item>ყოველ დღე</item>
+        <item>კვირის დღეები</item>
+        <item>პერსონალიზირებული</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>ყველა ჩანაწერი</item>
+        <item>ავტოსტარტი</item>
+        <item>ქსელის დასაწყისი</item>
+        <item>დაშვებების გამოყენება</item>
+        <item>მგრძნობიარე მოქმედებები</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>ნიმუში</item>
+        <item>PIN კოდი</item>
+        <item>პაროლი</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>ზომა</item>
+        <item>სახელი</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>თვიური გეგმა</item>
+        <item>შეუზღუდავი</item>
+        <item>დღიური გეგმა</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>პერსონალიზირებული</item>
+        <item>Xiaomi Fan-ის ბარათი</item>
+        <item>Xiao Tiansheng-ის ბარათი</item>
+        <item>Tencent King-ის ბარათი</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>პერსონალიზირებული</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan-ის ბარათი</item>
+        <item>Tianshen ბარათი</item>
+        <item>Tencent ბარათი</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"გუშინ (მობილური მონაცემები) "</item>
+        <item>"დღეს (მობილური მონაცემები) "</item>
+        <item>"წინა თვე (მობილური მონაცემები) "</item>
+        <item>"ამ თვეს (მობილური მონაცემები) "</item>
+        <item>"გუშინ (Wi-Fi) "</item>
+        <item>"დღეს (Wi-Fi) "</item>
+        <item>"წინა თვე (Wi-Fi) "</item>
+        <item>"ამ თვეს (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"გუშინ "</item>
+        <item>"დღეს "</item>
+        <item>"წინა თვე "</item>
+        <item>"ამ თვეს "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"ამ კვირას "</item>
+        <item>"დღეს "</item>
+        <item>"ამ თვეს "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"გუშინ "</item>
+        <item>"დღეს: "</item>
+        <item>"წინა თვე: "</item>
+        <item>"ამ თვეს: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"ამ კვირას: "</item>
+        <item>"დღეს: "</item>
+        <item>"ამ თვეს: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>თქვენი მოწყობილობით ფაილების წვდომა და რედაქტირება შესაძლებელი იქნება კომპიუტერის გამოყენებით.</item>
+        <item>აპლიკაციების დაინსტალირება თქვენს მოწყობილობაზე თქვენი აშკარა ნებართვის გარეშე.</item>
+        <item>თქვენ ვალდებული ხართ დისტანციურად განახორციელოთ თქვენი ეკრანის შინაარსის მონიტორინგი და ჩაწერა.</item>
+        <item>შესაძლებელი გახდება თქვენი მოწყობილობის შესახებ დეტალურ ინფორმაციაზე წვდომა.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>უდაბლესი</item>
+        <item>დაბალი</item>
+        <item>რეგულარული</item>
+        <item>მაღალი</item>
+        <item>უმაღლესი</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>როდესაც მოწყობილობა დაბლოკილია</item>
+        <item>როდესაც მოწყობილობა დაბლოკილია ან აპიდან გასვლის შემდეგ</item>
+        <item>როცა მოწყობილობა დაბლოკილია ან 1 წუთში აპიდან გამოსვლის შემდეგ</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"მობილური მონაცემების გამოყენება "</item>
+        <item>"Wi-Fi გამოყენება "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>მნიშვნელოვანია: მრავალ სისტემურმა პროგრამამ შესაძლოა შეწყვიტოს სწორად მუშაობა.</item>
+        <item>ტექსტის ფორმატები, ანგარიშები და შინაარსი შეიძლება სწორად არ იყოს ნაჩვენები.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>გაფრთხილების ჩვენება</item>
+        <item>გამაფრთხილე და გამორთე მობილური მონაცემები</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ძირითადი</item>
+        <item>წარმადობის ოპტიმიზაცია</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>სტანდარტული ტემპერატურის კონტროლის რეჟიმი</item>
+        <item>წარმადობის ოპტიმიზაცია</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>წაიკითხეთ ყველა თქვენი შეტყობინება, თქვენი ტექსტური შეტყობინებების შინაარსისა და სხვა ერთეულების ჩათვლით, რომლებიც შეიძლება შეიცავდეს პირად ინფორმაციას</item>
+        <item>შეზღუდეთ შეტყობინებების ნებართვები ზოგიერთი აპლიკაციისათვის</item>
+        <item>შეტყობინებების სიმულაცია და გახსენით აპლიკაციები</item>
+        <item>ჩართეთ და გამორთეთ DND რეჟიმი</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>შეაგროვეთ მონაცემები თქვენი ინტერესებისა და ქცევის შესახებ, შეისწავლით თუ რა პროგრამებს იყენებთ და რამდენად ხშირად იყენებთ მათ</item>
+        <item>წვდომა თქვენს ოპერატორთან და ენის პარამეტრები და ასევე სხვა დეტალებზე</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>მესამე მხარის აპლიკაციები, რომლებიც არ არის გადამოწმებული, რომლებმაც შეიძლება გამოიწვიოს მრავალი პრობლემა და შეამციროს სისტემის სტაბილურობა.</item>
+        <item>ზოგიერთი მესამე მხარის აპლიკაცია შეიძლება შეიცავდეს ვირუსებს, რომელიც თქვენს პირად მონაცემებს რისკის ქვეშ აყენებს.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>შიდა მეხსიერება</item>
+        <item>გარე მეხსიერება</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ყოველთვის</item>
+        <item>მხოლოდ გამონაკლისებისთვის</item>
+        <item>არასოდეს</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>მონაცემთა გამოყენება</item>
+        <item>ბალანსი ტელეფონზე</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>სორტირება აპლიკაციის მიხედვით</item>
+        <item>დალაგება ბოლო დროს გამოყენებულის მიხედვით</item>
+        <item>სორტირება გამოყენებული მეხსიერების მიხედვით</item>
+        <item>სორტირება ინსტალაციის დროის მიხედვით</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>აპლიკაციის სახელი</item>
+        <item>ბოლოს გამოყენებული</item>
+        <item>გამოყენებული მეხსიერება</item>
+        <item>ინსტალაციის დრო</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>გამორთვა და შეტყობინება</item>
+        <item>მხოლოდ მაცნობეთ</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ინსტალაციის წყარო</item>
+        <item>ინსტალაციის დრო</item>
+        <item>ბოლო განახლების წყარო</item>
+        <item>ბოლო განახლების დრო</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>ყოველთვიური მონაცემების გეგმა</item>
+        <item>ყოველდღიური მონაცემების გეგმა</item>
+        <item>მონაცემთა შეუზღუდავი გეგმა</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"მობილური მონაცემების გამოყენება "</item>
+        <item>"Wi-Fi გამოყენება "</item>
+    </string-array>
+</resources>

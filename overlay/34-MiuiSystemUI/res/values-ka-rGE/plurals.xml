@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 საათის წინ</item>
-        <item quantity="one">1 საათის წინ</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 საათის წინ</item>
-        <item quantity="one">1 საათის წინ</item>
+        <item quantity="other">%d საათის წინ</item>
+        <item quantity="one">%d საათის წინ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ნახევარი საათის წინ</item>
         <item quantity="one">ნახევარი საათის წინ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 საათში</item>
-        <item quantity="one">1 საათში</item>
+        <item quantity="other">%d საათში</item>
+        <item quantity="one">%d საათში</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ნახევარ საათში</item>
@@ -25,8 +21,8 @@
         <item quantity="one">დაუყოვნებლივ</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d წუთში</item>
-        <item quantity="one">1 წუთში</item>
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">%d წუთში</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ამ წუთას</item>
@@ -34,95 +30,63 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d წუთის წინ</item>
-        <item quantity="one">1 წუთის წინ</item>
+        <item quantity="one">%d წუთის წინ</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">ნახევარი საათის წინ</item>
-        <item quantity="one">ნახევარი საათის წინ</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">ატმოსფერული წნევა: %s ჰექტოპასკალი</item>
+        <item quantity="one">ატმოსფერული წნევა: %s ჰექტოპასკალი</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">1 საათში</item>
-        <item quantity="one">1 საათში</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">დაიწვა %1$s კალორია</item>
+        <item quantity="one">დაიწვა %1$s კალორია</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">ნახევარ საათში</item>
-        <item quantity="one">ნახევარ საათში</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">დამწვარი კალორიების მიზანი: %1$s კალორია</item>
+        <item quantity="one">დამწვარი კალორიების მიზანი: %1$s კალორია</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">დაუყოვნებლივ</item>
-        <item quantity="one">დაუყოვნებლივ</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s კკალ</item>
+        <item quantity="one">%1$s/%2$s კკალ</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d წუთში</item>
-        <item quantity="one">1 წუთში</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">აქტივობის დრო: %1$s წუთი</item>
+        <item quantity="one">აქტივობის დრო: %1$s წუთი</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">არასწორი PIN კოდი, დარჩენილია %d ცდა</item>
-        <item quantity="one">არასწორი PIN კოდი, დარჩენილია %d ცდა</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">აქტივობის დრო: %1$s წუთი</item>
+        <item quantity="one">აქტივობის დრო: %1$s წუთი</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">არასწორი PUK კოდი, დარჩენილი %d ცდა</item>
-        <item quantity="one">არასწორი PUK კოდი, დარჩენილი %d ცდა</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s წთ</item>
+        <item quantity="one">%1$s/%2$s წთ</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">შეიყვანეთ თქვენი პაროლი ერთხელ მაინც ყოველ %d საათში ერთხელ, რათა ყოველთვის გახსოვდეთ ის</item>
-        <item quantity="one">შეიყვანეთ თქვენი პაროლი ერთხელ მაინც ყოველ %d საათში ერთხელ, რათა ყოველთვის გახსოვდეთ ის</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">ფეხზეა %1$s საათის განმავლობაში</item>
+        <item quantity="one">ფეხზეა %1$s საათის განმავლობაში</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">ფეხზე დგომის მიზანი: %1$s საათი</item>
+        <item quantity="one">ფეხზე დგომის მიზანი: %1$s საათი</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s სთ</item>
+        <item quantity="one">%1$s/%2$s სთ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ამჟამინდელი ნაბიჯების რაოდენობა: %1$s ნაბიჯი</item>
+        <item quantity="one">ამჟამინდელი ნაბიჯების რაოდენობა: %1$s ნაბიჯი</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">ნაბიჯების მიზანი: %1$s ნაბიჯი</item>
+        <item quantity="one">ნაბიჯების მიზანი: %1$s ნაბიჯი</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s ნაბიჯი</item>
+        <item quantity="one">%1$s/%2$s ნაბიჯი</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">შეიყვანეთ თქვენი პაროლი ერთხელ მაინც ყოველ %d საათში ერთხელ, რათა ყოველთვის გახსოვდეთ ის</item>
         <item quantity="one">შეიყვანეთ თქვენი პაროლი ერთხელ მაინც ყოველ %d საათში ერთხელ, რათა ყოველთვის გახსოვდეთ ის</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">დარჩა %d საათი</item>
-        <item quantity="one">დარჩა %d საათი</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">დარჩა %d წუთი</item>
-        <item quantity="one">დარჩა %d წუთი</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">დარჩა %1$d h %2$d წთ</item>
-        <item quantity="one">დარჩა %1$d h %2$d წთ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d საათი</item>
-        <item quantity="one">%d საათი</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d წუთი</item>
-        <item quantity="one">%d წუთი</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d სთ %2$d წთ</item>
-        <item quantity="one">%1$d სთ %2$d წთ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">დარჩენილია%d საათი</item>
-        <item quantity="one">დარჩენილია%d საათი</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">დარჩენილია %d წუთი</item>
-        <item quantity="one">დარჩენილია %d წუთი</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">დარჩენილია%1$d სთ და %2$d წთ</item>
-        <item quantity="one">დარჩენილია%1$d სთ და %2$d წთ</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">ახლა</item>
-        <item quantity="one">ახლა</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d ერთეული მონიშნულია</item>
-        <item quantity="one">%d ერთეული მონიშნულია</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d ახალი შეტყობინება</item>
-        <item quantity="one">%d ახალი შეტყობინება</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d წუთის წინ</item>
-        <item quantity="one">1 წუთის წინ</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">კიდევ სცადეთ %d წუთში</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">კიდევ სცადეთ %d წამში</item>
         <item quantity="one">კიდევ სცადეთ %d წამში</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">ტემპერატურა: %1$s გრადუსი, %2$s</item>
+        <item quantity="one">ტემპერატურა: %1$s გრადუსი, %2$s</item>
     </plurals>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">1 گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 گھنٹہ قبل</item>
-        <item quantity="one">1 گھنٹہ قبل</item>
+        <item quantity="other">%d گھنٹہ پہلے</item>
+        <item quantity="one">%d گھنٹہ پہلے</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">آدھا گھنٹہ قبل</item>
         <item quantity="one">آدھا گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 گھنٹہ میں</item>
-        <item quantity="one">1 گھنٹہ میں</item>
+        <item quantity="other">%d گھنٹہ میں</item>
+        <item quantity="one">%d گھنٹہ میں</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">آدھا گھنٹہ میں</item>
@@ -26,15 +26,15 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d منٹ میں</item>
-        <item quantity="one">1 منٹ میں</item>
+        <item quantity="one">%d منٹ میں</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ابھی ابھی</item>
         <item quantity="one">ابھی ابھی</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d منٹ قبل</item>
-        <item quantity="one">1 منٹ قبل</item>
+        <item quantity="other">%d منٹ پہلے</item>
+        <item quantity="one">%d منٹ پہلے</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d ایپس کے لیے کبھی غیر فعال نہ کریں</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s ایپس کے لیے کنکشن محدود ہے</item>
         <item quantity="one">%s ایپ کے لیے کنکشن محدود ہے</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d سیکنڈ تک انتظار کریں اور دوبارہ کوشش کریں</item>
+        <item quantity="one">%d سیکنڈ تک انتظار کریں اور دوبارہ کوشش کریں</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d لوگ مربوط ہیں</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d سیکنڈ تک انتظار کریں اور دوبارہ کوشش کریں۔</item>
         <item quantity="one">%d سیکنڈ تک انتظار کریں اور دوبارہ کوشش کریں۔</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">زیادہ سے زیادہ %d پراسیس</item>
+        <item quantity="one">زیادہ سے زیادہ %d پراسیس</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d کو شامل کیا گیا</item>
         <item quantity="one">%d کو شامل کیا گیا</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
         <item quantity="one">%d آئٹم منتخب ہوا</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">تبدیلیاں %d سیکنڈ میں لاگو ہوں گی</item>
+        <item quantity="one">تبدیلیاں %d سیکنڈ میں لاگو ہوں گی</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d منٹ قبل</item>
         <item quantity="one">1 منٹ پہلے</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">آپ CIT میں داخل ہونے سے %1$d قدم دور ہیں۔</item>
         <item quantity="one">آپ CIT میں داخل ہونے سے %1$d قدم دور ہیں۔</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">اب آپ ڈیولپر بننے سے %1$d قدم دور ہیں۔</item>
+        <item quantity="one">اب آپ ڈیولپر بننے سے %1$d قدم دور ہیں۔</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">آپ ڈیوائس کی معلومات کھولنے سے %1$d قدم دور ہیں۔</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d ایپس اطلاعات دکھا سکتے ہیں</item>
         <item quantity="one">%d ایپ اطلاعات دکھا سکتا ہے</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d منٹ کے بعد</item>
+        <item quantity="one">%d منٹ کے بعد</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d بٹ/نمونہ</item>
+        <item quantity="one">%d بٹ/نمونہ</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d سیکنڈ</item>
+        <item quantity="one">%d سیکنڈ</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">جب بھی آپ کے ایئرفونز میں سے کوئی ایک آپ کے کان یا چارجنگ کیس سے %d منٹ سے زیادہ وقت کے لیے دور ہو تو انتباہ موصول کریں</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d نیٹ ورکس کا اشتراک کیا گیا</item>
         <item quantity="one">%d نیٹ ورک کا اشتراک کیا گیا</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d ڈیوائس مربوط ہیں</item>
-        <item quantity="one">%1$d ڈیوائس مربوط ہے</item>
     </plurals>
 </resources>

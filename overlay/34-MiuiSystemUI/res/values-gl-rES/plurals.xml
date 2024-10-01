@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Hai 1 hora</item>
-        <item quantity="one">Hai 1 hora</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Hai 1 hora</item>
-        <item quantity="one">Hai 1 hora</item>
+        <item quantity="other">Hai %d horas</item>
+        <item quantity="one">Hai %d hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Hai media hora</item>
         <item quantity="one">Hai media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Nunha hora</item>
-        <item quantity="one">Nunha hora</item>
+        <item quantity="other">En %d horas</item>
+        <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">En media hora</item>
@@ -25,104 +21,72 @@
         <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d minutos</item>
-        <item quantity="one">Nun minuto</item>
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hai %d minutos</item>
-        <item quantity="one">Hai 1 min</item>
+        <item quantity="other">Hai %d mins</item>
+        <item quantity="one">Hai %d min</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Hai media hora</item>
-        <item quantity="one">Hai media hora</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Presión atmosférica: %s hectopascais</item>
+        <item quantity="one">Presión atmosférica: %s hectopascal</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Nunha hora</item>
-        <item quantity="one">Nunha hora</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Queimaches %1$s calorías</item>
+        <item quantity="one">Queimaches %1$s caloría</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">En media hora</item>
-        <item quantity="one">En media hora</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Meta de calorías: %1$s calorías</item>
+        <item quantity="one">Meta de calorías: %1$s caloría</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Inmediatamente</item>
-        <item quantity="one">Inmediatamente</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">En %d minutos</item>
-        <item quantity="one">Nun minuto</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Tempo de actividade: %1$s minutos</item>
+        <item quantity="one">Tempo de actividade: %1$s minuto</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Código PIN incorrecto, restan %d intentos</item>
-        <item quantity="one">Código PIN incorrecto, resta %d intento</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Meta de actividade: %1$s minutos</item>
+        <item quantity="one">Meta de actividade: %1$s minuto</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Código PUK incorrecto, restan %d intentos</item>
-        <item quantity="one">Código PUK incorrecto, resta %d intento</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Insire o teu contrasinal ao menos unha vez cada %d horas para recordalo sempre</item>
-        <item quantity="one">Insire o teu contrasinal ao menos unha vez cada %d hora para recordalo sempre</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">En pé dentro de %1$s horas</item>
+        <item quantity="one">En pé dentro de %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Meta de estar en pé: %1$s horas</item>
+        <item quantity="one">Meta de estar en pé: %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s h</item>
+        <item quantity="one">%1$s/%2$s h</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Total de pasos actuais: %1$s pasos</item>
+        <item quantity="one">Total de pasos actuais: %1$s paso</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Meta de pasos: %1$s pasos</item>
+        <item quantity="one">Meta de pasos: %1$s paso</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s pasos</item>
+        <item quantity="one">%1$s/%2$s paso</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Insire o teu contrasinal ao menos unha vez cada %d horas para recordalo sempre</item>
         <item quantity="one">Insire o teu contrasinal ao menos unha vez cada %d hora para recordalo sempre</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">Restan %d horas</item>
-        <item quantity="one">Resta %d hora</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Restan %d minutos</item>
-        <item quantity="one">Resta %d minuto</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Restan %1$d h %2$d minutos</item>
-        <item quantity="one">Restan %1$d h %2$d minutos</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d horas</item>
-        <item quantity="one">%d hora</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minutos</item>
-        <item quantity="one">%d minuto</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h %2$d m</item>
-        <item quantity="one">%1$d h %2$d m</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">Restan %d horas</item>
-        <item quantity="one">Resta %d hora</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">Restan %d minutos</item>
-        <item quantity="one">Resta %d minuto</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">Quedan %1$d h %2$d minutos</item>
-        <item quantity="one">Quedan %1$d h %2$d minutos</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elementos seleccionados</item>
-        <item quantity="one">%d elemento seleccionado</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d novas notificacións</item>
-        <item quantity="one">%d nova notificación</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Hai %d minutos</item>
-        <item quantity="one">Hai 1 minuto</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Téntao de novo en %d minutos</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Téntao de novo en %d segundos</item>
         <item quantity="one">Téntao de novo en %d segundo</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s graos, %2$s</item>
+        <item quantity="one">Temperatura: %1$s grao, %2$s</item>
     </plurals>
 </resources>

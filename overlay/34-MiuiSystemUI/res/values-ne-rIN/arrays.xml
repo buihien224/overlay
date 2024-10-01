@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>यो सिफारिस गरिएको सामग्री हो।</item>
-        <item>यो एउटा विज्ञापन हो।</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | सक्रिय छ"</item>
+        <item>" | सक्रिय छ (मिडिया)"</item>
+        <item>" | सक्रिय छ (फोन)"</item>
     </string-array>
 </resources>

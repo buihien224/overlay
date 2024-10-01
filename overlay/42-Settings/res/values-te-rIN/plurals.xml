@@ -5,16 +5,16 @@
         <item quantity="one">1 గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 గంటల క్రితం</item>
-        <item quantity="one">1 గంటల క్రితం</item>
+        <item quantity="other">%d గంట క్రితం</item>
+        <item quantity="one">%d గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">అర గంట క్రితం</item>
         <item quantity="one">అర గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 గంటలో</item>
-        <item quantity="one">1 గంటలో</item>
+        <item quantity="other">%d గంటలో</item>
+        <item quantity="one">%d గంటలో</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">అర గంటలో</item>
@@ -26,15 +26,15 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d నిమిషాల్లో</item>
-        <item quantity="one">1 నిమిషంలో</item>
+        <item quantity="one">%d నిమిషంలో</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ఇప్పుడే</item>
         <item quantity="one">ఇప్పుడే</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d నిమి క్రితం</item>
-        <item quantity="one">1 నిమి క్రితం</item>
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">%d నిమిషం క్రితం</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d అప్లికేషన్‌లకి ఎన్నడూ నిలిపివేయవద్దు</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s అప్లికేషన్‌ల కోసం కనెక్షన్ నిరోధించబడింది</item>
         <item quantity="one">%s అప్లికేషన్ కోసం కనెక్షన్ నిరోధించబడింది</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">%d సెకన్లు వేచి ఉండి, మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకను వేచి ఉండి, మళ్లీ ప్రయత్నించండి</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d వ్యక్తి కనెక్ట్ అయి ఉన్నారు</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d సెకన్లు వేచి ఉండి, ఆపై మళ్లీ ప్రయత్నించండి.</item>
         <item quantity="one">%d సెకను వేచి ఉండి, ఆపై మళ్లీ ప్రయత్నించండి.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">గరిష్టంగా %d ప్రక్రియలు</item>
+        <item quantity="one">గరిష్టంగా %d ప్రక్రియ</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d జోడించబడ్డాయి</item>
         <item quantity="one">%d జోడించబడింది</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
         <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">మార్పులు %d సెకన్లలో వర్తించబడతాయి</item>
+        <item quantity="one">మార్పులు %d సెకనులో వర్తించబడతాయి</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d నిమిషాల క్రితం</item>
         <item quantity="one">1 నిమిషం క్రితం</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">మీరు CITని పొందడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
         <item quantity="one">మీరు CITని పొందడానికి %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">మీరు ఇప్పుడు డెవలపర్ కావడానికి మరో %1$d అడుగుల దూరంలోనే ఉన్నారు.</item>
+        <item quantity="one">మీరు ఇప్పుడు డెవలపర్ కావడానికి మరో %1$d అడుగు దూరంలోనే ఉన్నారు.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">మీరు పరికర సమాచారాన్ని తెరవడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d యాప్‌లు నోటిఫికేషన్‌లు చూపించగలవు</item>
         <item quantity="one">%d యాప్ నోటిఫికేషన్ చూపించగలదు</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d నిమిషాల తరువాత</item>
+        <item quantity="one">%d నిమిషం తరువాత</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d బిట్స్/శాంపిల్</item>
+        <item quantity="one">%d బిట్/శాంపిల్</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d సెకన్లు</item>
+        <item quantity="one">%d సెకను</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">మీ ఇయర్‌ఫోన్‌లలో ఒకటి %d నిమిషాల కంటే ఎక్కువ సమయం మీ చెవిలో లేక ఛార్జింగ్ కేస్‌లో లేనట్లయితే ఒక హెచ్చరికని స్వీకరిస్తారు</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d నెట్‌వర్క్‌లను భాగస్వామ్యం చేసారు</item>
         <item quantity="one">%d నెట్‌వర్క్‌ను భాగస్వామ్యం చేసారు</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d పరికరాలు కనెక్ట్ అయ్యాయి</item>
-        <item quantity="one">%1$d పరికరం కనెక్ట్ అయింది</item>
     </plurals>
 </resources>

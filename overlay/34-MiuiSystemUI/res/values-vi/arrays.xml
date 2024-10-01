@@ -5,6 +5,13 @@
         <item>Hiển thị phần trăm khi sạc (mặc định)</item>
         <item>Không hiển thị biểu tượng này</item>
     </string-array>
+    <array name="biometric_dialog_package_names_for_logo_with_overrides" />
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, đang hoạt động</item>
+        <item>, đang hoạt động (nội dung nghe nhìn)</item>
+        <item>, đang hoạt động (điện thoại)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Hiển thị giờ, phút và giây</item>
         <item>Hiển thị giờ và phút (mặc định)</item>
@@ -92,6 +99,11 @@
         <item>Đang tắt</item>
         <item>Đang bật</item>
     </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Không có</item>
+        <item>Đang tắt</item>
+        <item>Đang bật</item>
+    </string-array>
     <string-array name="tile_states_hotspot">
         <item>Không hoạt động</item>
         <item>Đang tắt</item>
@@ -129,6 +141,11 @@
     </string-array>
     <string-array name="tile_states_qr_code_scanner">
         <item>Không hoạt động</item>
+        <item>Đang tắt</item>
+        <item>Đang bật</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Không có</item>
         <item>Đang tắt</item>
         <item>Đang bật</item>
     </string-array>
@@ -171,12 +188,6 @@
         <item>Không hoạt động</item>
         <item>Đang tắt</item>
         <item>Đang bật</item>
-    </string-array>
-    <string-array name="udfps_accessibility_touch_hints">
-        <item>Di chuyển sang trái</item>
-        <item>Di chuyển xuống</item>
-        <item>Di chuyển sang phải</item>
-        <item>Di chuyển lên</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>

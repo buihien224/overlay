@@ -4,13 +4,13 @@
         <item quantity="other">1 jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 jam yang lalu</item>
+        <item quantity="other">%d jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Setengah jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dalam 1 jam</item>
+        <item quantity="other">%d jam lagi</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Dalam setengah jam</item>
@@ -19,13 +19,13 @@
         <item quantity="other">Secepat mungkin</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dalam masa %d min</item>
+        <item quantity="other">%d minit lagi</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Tadi</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minit yang lalu</item>
+        <item quantity="other">%d min yang lalu</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Jangan sekali-kali nyahakatif %d apl</item>
@@ -34,7 +34,7 @@
         <item quantity="other">Sentiasa nyahaktif %d apl</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d aplikasi dibenarkan untuk automula</item>
+        <item quantity="other">%d aplikasi dibenarkan untuk auto-mula</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d apl dapat bersambung ke rangkaian</item>
@@ -53,6 +53,9 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Hadkan sambungan untuk %s apl</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Wait for %d secs and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d orang tersambung</item>
@@ -99,6 +102,9 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">Tunggu %d saat dan cuba sekali lagi.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Maksimum %d proses</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d ditambah</item>
     </plurals>
@@ -108,6 +114,9 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d kandungan dipilih</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Perubahan akan digunakan dalam %d saat</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minit yang lalu</item>
     </plurals>
@@ -116,6 +125,9 @@
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">%1$d langkah lagi untuk masuk ke CIT.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Anda kini %1$d beberapa langkah lagi daripada menjadi pembangun.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Anda mempunyai %1$d langkah lagi untuk membuka info peranti.</item>
@@ -128,6 +140,21 @@
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d apl tidak dapat memaparkan notifikasi</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Selepas %d minit</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bit/sampel</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minit</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d saat</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Terima peringatan apabila salah satu fon telinga anda jauh dari telinga atau bekas pengecasan lebih lama daripada %d minit</item>
@@ -188,8 +215,5 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d rangkaian dikongsi</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d peranti tersambung</item>
     </plurals>
 </resources>

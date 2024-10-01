@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Sekali</item>
+        <item>Setiap hari</item>
+        <item>Hari bekerja yang sah</item>
+        <item>Hari bekerja</item>
+        <item>Khas</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Sekali</item>
+        <item>Setiap hari</item>
+        <item>Hari bekerja</item>
+        <item>Khas</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Semua rekod</item>
+        <item>Automula</item>
+        <item>Permulaan rantaian</item>
+        <item>Menggunakan kebenaran</item>
+        <item>Tindakan sensitif</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Corak</item>
+        <item>PIN</item>
+        <item>Kata laluan</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Saiz</item>
+        <item>Nama</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Pelan bulanan</item>
+        <item>Tanpa had</item>
+        <item>Pelan harian</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Khas</item>
+        <item>Kad Peminat Xiaomi</item>
+        <item>Kad Xiao Tiansheng</item>
+        <item>Kad Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Khas</item>
+        <item>Mi Mobile</item>
+        <item>Kad Peminat Xiaomi</item>
+        <item>Kad Tianshen</item>
+        <item>Kad Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Semalam (data mudah alih) "</item>
+        <item>"Hari ini (data mudah alih) "</item>
+        <item>"Bulan lepas (data mudah alih) "</item>
+        <item>"Bulan ini (data mudah alih) "</item>
+        <item>"Semalam (Wi-Fi) "</item>
+        <item>"Hari ini (Wi-Fi) "</item>
+        <item>"Bulan lepas (Wi-Fi) "</item>
+        <item>"Bulan ini (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Semalam "</item>
+        <item>"Hari ini "</item>
+        <item>"Bulan lepas "</item>
+        <item>"Bulan ini "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Minggu ini "</item>
+        <item>"Hari ini "</item>
+        <item>"Bulan ini "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Semalam: "</item>
+        <item>"Hari ini: "</item>
+        <item>"Bulan lepas: "</item>
+        <item>"Bulan ini: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Minggu ini: "</item>
+        <item>"Hari ini: "</item>
+        <item>"Bulan ini: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Anda boleh mengakses dan mengedit fail pada peranti anda menggunakan komputer.</item>
+        <item>Memasang apl pada peranti anda tanpa kebenaran jelas anda akan dibenarkan.</item>
+        <item>Anda dapat memantau dan merakam kandungan skrin anda dari jauh.</item>
+        <item>Anda boleh mengakses maklumat terperinci mengenai peranti anda.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Paling rendah</item>
+        <item>Rendah</item>
+        <item>Biasa</item>
+        <item>Tinggi</item>
+        <item>Paling tinggi</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Apabila peranti dikunci</item>
+        <item>Apabila peranti dikunci atau selepas keluar dari apl</item>
+        <item>Apabila peranti dikunci atau dalam 1 minit selepas keluar dari apl</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Penggunaan mudah alih "</item>
+        <item>"Penggunaan Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Penting: Aplikasi pelbagai sistem mungkin berhenti berfungsi dengan baik.</item>
+        <item>Susun atur teks, akaun, dan kandungan mungkin tidak dipaparkan dengan betul.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Beri amaran</item>
+        <item>Beri amaran dan matikan data mudah alih</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Lalai</item>
+        <item>Mengutamakan prestasi</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Menggunakan mod kawalan suhu lalai</item>
+        <item>Mengutamakan prestasi</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Baca semua notifikasi anda, termasuk kandungan mesej teks dan item lain yang mungkin mengandungi maklumat peribadi</item>
+        <item>Hadkan kebenaran notifikasi untuk beberapa apl</item>
+        <item>Simulasikan notifikasi klikkan dan buka apl</item>
+        <item>Hidupkan atau matikan mod DND</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Kumpulkan data mengenai minat dan tingkah laku anda dengan mempelajari aplikasi apa yang anda gunakan dan seberapa kerap anda menggunakannya</item>
+        <item>Akses tetapan yang berkaitan dengan operator dan bahasa anda, serta butiran lain</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Apl pihak ketiga yang tidak disahkan mungkin menyebabkan pelbagai masalah dan menurunkan kestabilan sistem.</item>
+        <item>Beberapa apl pihak ketiga mungkin mengandungi perisian hasad yang membahayakan data peribadi anda.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Storan dalaman</item>
+        <item>Storan luaran</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Sentiasa</item>
+        <item>Pengecualian sahaja</item>
+        <item>Jangan sekali-kali</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Penggunaan Data</item>
+        <item>Baki telefon</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Susun mengikut nama apl</item>
+        <item>Susun mengikut paling baru digunakan</item>
+        <item>Susun mengikut storan yang digunakan</item>
+        <item>Susun mengikut masa pemasangan</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Nama apl</item>
+        <item>Digunakan baru-baru ini</item>
+        <item>Storan digunakan</item>
+        <item>Masa pemasangan</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Matikan dan maklumkan</item>
+        <item>Maklumkan sahaja</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Sumber pemasangan</item>
+        <item>Masa pemasangan</item>
+        <item>Sumber kemaskini terakhir</item>
+        <item>Masa kemaskini terakhir</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Pelan data bulanan</item>
+        <item>Pelan data harian</item>
+        <item>Pelan data tiada had</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Penggunaan data mudah alih "</item>
+        <item>"Penggunaan Wi-Fi "</item>
+    </string-array>
+</resources>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_key_item_name">
+        <item>ისაუბრეთ Google ასისტენტთან</item>
+        <item>Google ძებნის გახსნა</item>
+        <item>გახსენით უკანა კამერა</item>
+        <item>გახსენით წინა კამერა</item>
+        <item>წინა აპლიკაციის გახსნა</item>
+        <item>ჩართეთ ფანარი</item>
+        <item>კითხვის რეჟიმის ჩართვა</item>
+        <item>არცერთი</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>ყოველ დღე</item>
+        <item>სამუშაო კვირის ღამეს</item>
+        <item>შაბათ-კვირას</item>
+        <item>შერჩევით</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ყოველდღე</item>
+        <item>სამუშაო კვირის ღამეს</item>
+        <item>შაბათ-კვირას</item>
+        <item>შერჩევით</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>ძირითადი</item>
+        <item>პორტატული ჰოთსფოთი</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>გრაფიკული</item>
+        <item>პროცენტულობა (ხატულაზე)</item>
+        <item>პროცენტულობა (ხატულას გვერდით)</item>
+        <item>ზედა პანელი</item>
+    </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>გრაფიკული</item>
+        <item>პროცენტულობა (ხატულაზე)</item>
+        <item>პროცენტულობა (ხატულას გვერდით)</item>
+        <item>პროგრესის ზოლი</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>მაღალი ხარისხის რეჟიმი (ძირითადი)</item>
+        <item>დაბალი შეყოვნების რეჟიმი</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>მაღალი ხარისხის რეჟიმი (ძირითადი)</item>
+        <item>დაბალი შეყოვნების რეჟიმი</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ოპტიმიზირებულია აუდიო ხარისხისთვის (990kbps/909kbps)</item>
+        <item>დაბალანსებული აუდიო და კავშირის ხარისხი (990kbps/909kbps)</item>
+        <item>ოპტიმიზირებულია კავშირის ხარისხისთვის (330kbps/303kbps)</item>
+        <item>საუკეთესო ეფექტი (ადაპტირებული ბიტრეიტი)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>ხანმოკლე შეფერხება</item>
+        <item>საშუალო შეფერხება</item>
+        <item>ხანგრძლივი შეფერხება</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>ხანმოკლე შეყოვნება (50~100მს)</item>
+        <item>საშუალო შეფერხება (150~200მს)</item>
+        <item>ხანგრძლივი შეფერხება (300~500მს)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>ოპტიმიზირებულია დაბალი შეყოვნებისთვის</item>
+        <item>ოპტიმიზირებულია კავშირის ხარისხისთვის</item>
+        <item>დაბალანსებული აუდიო და კავშირის ხარისხი</item>
+        <item>ოპტიმიზირებულია აუდიო ხარისხისთვის</item>
+        <item>საუკეთესო ეფექტი (ავტო ბიტის სიხშირე)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>ოპტიმიზირებულია დაბალი შეყოვნებისთვის (256kbps)</item>
+        <item>ოპტიმიზირებულია კავშირის ხარისხისთვის (400kbps)</item>
+        <item>დაბალანსებული აუდიო და კავშირის ხარისხი (500/560kbps)</item>
+        <item>ოპტიმიზირებულია აუდიო ხარისხისთვის (900kbps)</item>
+        <item>საუკეთესო ეფექტი (ადაპტირებული ბიტის სიხშირე)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>სისტემის უპირატესობების გამოყენება (დათქმული)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ აუდიო</item>
+        <item>Qualcomm® aptX™ HD აუდიო</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive აუდიო</item>
+        <item>Qualcomm® aptX™ TWS+ აუდიო</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>პირობითი დამკვრელების ჩართვა</item>
+        <item>პირობითი დამკვრელების გამორთვა</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>სისტემის უპირატესობების გამოყენება (დათქმული)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ აუდიო</item>
+        <item>Qualcomm® aptX™ HD აუდიო</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive აუდიო</item>
+        <item>Qualcomm® aptX™ TWS+ აუდიო</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>პირობითი კოდეკების ჩართვა</item>
+        <item>პირობითი კოდეკების გამორთვა</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>"   გააქტიურებულია"</item>
+        <item>"   გააქტიურებულია (მედია)"</item>
+        <item>" |  გააქტიურებულია (ტელეფონი)"</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 წამი</item>
+        <item>2 წამი</item>
+        <item>5 წამი</item>
+        <item>10 წამი</item>
+        <item>20 წამი</item>
+        <item>ყოველთვის</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>ძალიან პატარა ტექსტის ზომა</item>
+        <item>ტექსტის პატარა ზომა</item>
+        <item>ძირითადი ტექსტი ზომა</item>
+        <item>დიდი ტექსტის ზომა</item>
+        <item>ძალიან დიდი ტექსტის ზომა</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>სახით განბლოკვა</item>
+        <item>გრაფიკული გასაღები</item>
+        <item>PIN</item>
+        <item>პაროლი</item>
+    </string-array>
+    <array name="click_bottom">
+        <item>clickbottom03</item>
+        <item>clickbottom04</item>
+        <item>clickbottom05</item>
+        <item>clickbottom06</item>
+        <item>clickbottom07</item>
+        <item>clickbottom08</item>
+        <item>clickbottom03</item>
+    </array>
+    <string-array name="common_password_business_names">
+        <item>დაბლოკილი ეკრანი</item>
+        <item>კონფიდენციალური პაროლი</item>
+        <item>საბავშვო რეჟიმი</item>
+        <item>ფაილ მენეჯერი</item>
+        <item>აპლიკაციის ჩამკეტი</item>
+        <item>მეორე სივრცე</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>თავსებადობა</item>
+        <item>მაღალი სიჩქარე</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>ბნელი</item>
+        <item>სუსტი</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"დღეს (მობილური მონაცემები) "</item>
+        <item>"ამ თვეს (მობილური მონაცემები) "</item>
+        <item>"წინა თვე (მობილური მონაცემები) "</item>
+        <item>"დღეს (Wi-Fi) "</item>
+        <item>"ამ თვეს (Wi-Fi) "</item>
+        <item>"წინა თვე (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"დღეს "</item>
+        <item>"ამ თვეს "</item>
+        <item>"წინა თვე "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"დღეს: "</item>
+        <item>"ამ თვეს: "</item>
+        <item>"წინა თვე: "</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>გსურთ ამ მოწყობილობის გადატვირთვა ამ პარამეტრების გამოსაყენებლად?</item>
+        <item>გსურთ ამ მოწყობილობის გადატვირთვა ამ პარამეტრების გამოსაყენებლად?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>სისტემური ანიმაციების დამლვა</item>
+        <item>სისტემური ანიმაციების ჩვენება</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>დააჩქარეთ მოწყობილობის წარმადობა</item>
+        <item>შეიძლება შეანელოს მოწყობილობის წარმადობა</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 ინჩი</item>
+        <item>4.0 ინჩი</item>
+        <item>3.5 ინჩი</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>გამორთვა</item>
+        <item>სუსტი</item>
+        <item>საშუალო</item>
+        <item>ძლიერი</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
+    <string-array name="input_method_selector_titles">
+        <item>input_method_selector_show_automatically_title</item>
+        <item>input_method_selector_always_show_title</item>
+        <item>input_method_selector_always_hide_title</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>ეკრანის ჩართვის გარეშე</item>
+        <item>ეკრანის ჩართვა</item>
+        <item>ანიმაციის ჩვენება</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>ლურჯი</item>
+        <item>წითელი</item>
+        <item>ყვითელი</item>
+        <item>მწვანე</item>
+        <item>ცისფერი</item>
+        <item>თეთრი</item>
+        <item>იისფერი</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 წამი</item>
+        <item>3 წამი</item>
+        <item>4 წამი</item>
+        <item>5 წამი</item>
+        <item>6 წამი</item>
+        <item>7 წამი</item>
+        <item>8 წამი</item>
+        <item>9 წამი</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>დაუყოვნებლივ</item>
+        <item>30 წამის შემდეგ</item>
+        <item>1 წუთის შემდეგ</item>
+        <item>2 წუთის შემდეგ</item>
+        <item>5 წუთის შემდეგ</item>
+        <item>არასოდეს</item>
+    </string-array>
+    <array name="long_press">
+        <item>clickbottom03</item>
+        <item>clickbottom04</item>
+        <item>clickbottom05</item>
+        <item>clickbottom06</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom07</item>
+        <item>clickbottom03</item>
+    </array>
+    <string-array name="long_press_volume_down_action">
+        <item>არცერთი</item>
+        <item>სწრაფი გადაღების რეჟიმი (ფოტო)</item>
+        <item>სწრაფი გადაღების რეჟიმი (ვიდეო)</item>
+        <item>საზოგადოებრივი ტრანსპორტის კომბინაციები</item>
+    </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>შეუზღუდავი</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>ძლიერი</item>
+        <item>საშუალო</item>
+        <item>დაბალი</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>ლურჯი</item>
+        <item>წითელი</item>
+        <item>მწვანე</item>
+        <item>ვარდისფერი</item>
+        <item>იისფერი</item>
+        <item>იასამნისფერი</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP და უფრო ძველი</item>
+        <item>Windows Vista და უფრო ახალი</item>
+        <item>OSX</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>msd_pc_system_install_finish_summary_xp</item>
+        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>USB მეხსიერება ავტომატურად გაიხსნება, როცა დაუკავშრდებით კომპიუტერს.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. მიჰყევით ეკრანზე გამოსახულ ინსტრუქციებს</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>საინსტალაციო ინტრუმენტი: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>დირექტორიის შექმნა: mkdir /media/mtp</item>
+        <item>დაადასტურეთ მომხმარებლის ჯგუფის ნებართვები მიმდინარე მომხმარებლის გაერთიანებულ ჯგუფში</item>
+        <item>შესვლა ახლიდან</item>
+        <item>დამონტაჟებულ მოწყობილობასთან წვდომა: mtpfs /media/mtp ფაილ მენეჯერის მეშვეობით; იგივეა, რაც ადგილობრივი საქაღალდე.</item>
+        <item>"მოწყობილობის წაშლა: fusermount -u /media/mtp
+შენიშვნა: მხოლოდ Ubuntu 8.04-სთვის!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>msd_install_retry_reinstall_mac</item>
+        <item>msd_install_retry_connect</item>
+        <item>msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>msd_install_retry_connect</item>
+        <item>Mi PC Suite-ის დაინსტალირება თავიდან</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>ქსელი შენელებულია მაღალი ტრაფიკის გამო</item>
+        <item>ქსელი შენელებულია სუსტი სიგნალის გამო</item>
+        <item>მიმდინარეობს გადატანა…</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>გადახდა, წვდომა და სმარტ სახლის ბარათები</item>
+        <item>Bluetooth დაწყვილება, უკაბელო კავშირი და სმარტ სახლის ბარათები</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>ყველა ბარათი</item>
+        <item>სისტემის მიერ აღიარებული ბარათები</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>გრაფიკული</item>
+        <item>პროცენტი (ხატულაზე)</item>
+        <item>პროცენტი (ხატულას გვერდით)</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>გრაფიკული</item>
+        <item>პროცენტულობა (ხატულაზე)</item>
+        <item>პროცენტულობა (ხატულას გვერდით)</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>ძებნა</item>
+        <item>პარამეტრები</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="paper_color_values">
+        <item>სრული ფერები</item>
+        <item>ღია ფერები</item>
+        <item>შავი და თეთრი</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>დაშვება</item>
+        <item>კითხვა</item>
+        <item>უარყოფა</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>ხმაურის ჩახშობა ერთ მიკროფონზე</item>
+        <item>ხმაურის ჩახშობა ორივე მიკროფონზე</item>
+    </string-array>
+    <array name="power_click">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick02</item>
+        <item>powerclick03</item>
+        <item>powerclick04</item>
+        <item>powerclick05</item>
+        <item>powerclick06</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick07</item>
+        <item>powerclick03</item>
+        <item>powerclick02</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+        <item>powerclick01</item>
+    </array>
+    <string-array name="power_mode_entries">
+        <item>წარმადობა</item>
+        <item>დაბალანსებული</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>გამშვები</item>
+        <item>აკრეფვა</item>
+        <item>მიმოწერა</item>
+        <item>ბრაუზერი</item>
+        <item>კამერა</item>
+        <item>გალერეა</item>
+        <item>მუსიკა</item>
+        <item>ელ. ფოსტა</item>
+        <item>ჩართეთ ვიდეო</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>შიდა მეხსიერება</item>
+        <item>გარე მეხსიერება</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>მესიჯები</item>
+        <item>სურათები</item>
+        <item>ფაილები</item>
+        <item>ჩანაწერები</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>მარცხენა ხელის სტილი</item>
+        <item>მარჯვენა ხელის სტილი</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>თბილი</item>
+        <item>სტანდარტული</item>
+        <item>გრილი</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 წამი</item>
+        <item>1 წამი</item>
+        <item>1.5 წამი</item>
+        <item>2 წამი</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>მენიუს ღილაკი მარცხნივ, უკანა ღილაკი მარჯვნივ</item>
+        <item>უკანა ღილაკი მარცხნივ, მენიუს ღილაკი მარჯვნივ</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>ბოლოს გამოყენებული აპლიკაციის ჩვენება</item>
+        <item>მენიუს ჩვენება</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>შეცვალეთ ფერები მიმდინარე შინაარსის საფუძველზე</item>
+        <item>ყოველთვის გააძლიერეთ ფერები</item>
+        <item>კონტრასტი დარჩება უცვლელი</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>ნათელი (რეკომენდირებულია)</item>
+        <item>ინტენსივობა</item>
+        <item>სტანდარტული</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>screen_resolution_ultrahigh_format</item>
+        <item>screen_resolution_high_format</item>
+        <item>screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="screen_resolution_text">
+        <item>2K</item>
+        <item>1080p</item>
+        <item>720p</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>ბრწყინვალე</item>
+        <item>სტანდარტული</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 წამი</item>
+        <item>30 წამი</item>
+        <item>1 წუთი</item>
+        <item>2 წუთი</item>
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>არასოდეს</item>
+    </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>standard</item>
+        <item>total</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>ყოველთვის</item>
+        <item>30 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+        <item>8 საათი</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>Xiaomi Smart Hub</item>
+        <item>სმარტ სახლი</item>
+        <item>არცერთი</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>სმარტ სახლი</item>
+        <item>არცერთი</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>დაშვება</item>
+        <item>უარყოფა</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>დააჭირეთ</item>
+        <item>ბაზა</item>
+        <item>პოპი</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>მკაფიო</item>
+        <item>ძლიერი</item>
+    </string-array>
+    <array name="three_drop">
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop01</item>
+        <item>threedrop02</item>
+        <item>threedrop03</item>
+        <item>threedrop04</item>
+        <item>threedrop05</item>
+        <item>threedrop06</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+        <item>threedrop07</item>
+    </array>
+    <string-array name="time_format_entries">
+        <item>12 საათი 1:00 PM</item>
+        <item>24 საათი 13:00</item>
+        <item>ავტო (დაფუძნებულია სისტემის ენაზე)</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>გამორთვა</item>
+        <item>ჩვეულებრივი</item>
+        <item>ექსტრემალური</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"მობილური მონაცემების გამოყენება "</item>
+        <item>"Wi-Fi გამოყენება "</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>შეცვალეთ ფერები მიმდინარე შინაარსის საფუძველზე</item>
+        <item>ყოველთვის გააძლიერეთ ფერები</item>
+        <item>ეკრანის შინაარსის სტანდარტული ფერის აღდგენა ფერის კალიბრაციით</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>ნათელი (რეკომენდირებულია)</item>
+        <item>გაჯერებულია</item>
+        <item>ორიგინალი ფერი</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>ძალიან ნელი</item>
+        <item>ნელი</item>
+        <item>ნორმალური</item>
+        <item>სწრაფი</item>
+        <item>უფრო სწრაფი</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>სტანდარტული</item>
+        <item>შეხება</item>
+        <item>პირდაპირი შეხება</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>ითხოვეთ დაკავშირება</item>
+        <item>მხოლოდ დამუხტვა</item>
+        <item>SD ბარათის წაკითხვა</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>ნებისმიერისგან</item>
+        <item>მხოლოდ კონტაქტებიდან</item>
+        <item>მხოლოდ ვარსკლავიანი კონტაქტებიდან</item>
+        <item>არცერთი</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>wapi_psk_type_ascii</item>
+        <item>wapi_psk_type_hex</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>მიმდინარეობს სესიის დაწყება…</item>
+        <item>სესია დაწყებულია</item>
+        <item>სერვისის გათიშვა…</item>
+        <item>სესიის დაწყება ვერ ხერხდება</item>
+        <item>დრო ამოიწურა. მიმდინარეობს ხელახალი მცდელობა…</item>
+        <item>მოწყობილობა დაკავშირებულია</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>გამორთვა</item>
+        <item>დაბალი</item>
+        <item>საშუალო</item>
+        <item>მაღალი</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>გრაფიკული</item>
+        <item>პროცენტი (ხატულაზე)</item>
+        <item>პროცენტი (ხატულას გვერდით შეტყობინებათა პანელზე)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>wifi_ap_choose_2G</item>
+        <item>wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>wifi_ap_ssid_off</item>
+        <item>wifi_ap_ssid_on</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>wifi_security_none</item>
+        <item>wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>ავტომატური დაკავშირება</item>
+        <item>ხელით დაკავშირება</item>
+        <item>შეკითხვა ყოველთვის</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>დამხმარე</item>
+        <item>სავსეა</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>გაზარდეთ სიჩქარე მობილური ინტერნეტის გამოყენებით მხოლოდ მაშინ, როდესაც Wi-Fi სიგნალი ცუდია</item>
+        <item>შეუთავსეთ Wi-Fi და მობილური ინტერნეტი კავშირის სიჩქარის გასაზრდელად</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>გამოიყენეთ ნებისმიერი MAC</item>
+        <item>გამოიყენეთ მოწყობილობის MAC</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>wifi_security_none</item>
+        <item>wifi_security_wep</item>
+        <item>wifi_security_psk_generic</item>
+        <item>wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>ავტომატური დაკავშირება</item>
+        <item>ხელით დაკავშირება</item>
+    </string-array>
+</resources>

@@ -5,16 +5,16 @@
         <item quantity="one">Пред 1 час</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Пред 1 час</item>
-        <item quantity="one">Пред 1 час</item>
+        <item quantity="other">пред %d часа</item>
+        <item quantity="one">пред %d час</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Пред половина час</item>
         <item quantity="one">Пред половина час</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">За 1 час</item>
-        <item quantity="one">За 1 час</item>
+        <item quantity="other">За %d час</item>
+        <item quantity="one">За %d час</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">За половина час</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Веднаш</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">за %d минути</item>
-        <item quantity="one">за 1 мин</item>
+        <item quantity="other">За %d минути</item>
+        <item quantity="one">За %d мин</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Штотуку</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">пред %d минути</item>
-        <item quantity="one">Пред 1 мин</item>
+        <item quantity="one">пред %d мин</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Секогаш овозможувај за %d апл.</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Ограничено поврзување за%sапликации</item>
         <item quantity="one">Ограничено поврзување за%sапликација</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Причекајте %d сек. и обидете се повторно</item>
+        <item quantity="one">Причекајте %d сек. и обидете се повторно</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$dповрзани лица</item>
@@ -132,6 +136,10 @@
         <item quantity="other">Почекајте %d секунди и обидете се повторно.</item>
         <item quantity="one">Почекајте %d секунда и обидете се повторно.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Најмногу %d процеси</item>
+        <item quantity="one">Најмногу %d процес</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d додадени</item>
         <item quantity="one">%d додадено</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d предмети селектирани</item>
         <item quantity="one">%d предмет селектиран</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Промените ќе бидат применети за %d сек</item>
+        <item quantity="one">Промените ќе бидат применети за %d сек</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">пред %d минути</item>
         <item quantity="one">Пред 1 минута</item>
@@ -155,6 +167,10 @@
     <plurals name="show_cit_countdown">
         <item quantity="other">Вие сте %1$d чекори подалеку од влезот во CIT.</item>
         <item quantity="one">Вие сте %1$d чекор подалеку од влезот во CIT.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сега сте на %1$d чекори од станување програмер.</item>
+        <item quantity="one">Сега сте на %1$d чекор од станување програмер</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Сега сте на %1$d чекори од отварање на инфо за уред.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d апл. може да прикажат известувања</item>
         <item quantity="one">%d апл. може да прикаже известувања</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">По %d минути</item>
+        <item quantity="one">По %d минути</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/примероци</item>
+        <item quantity="one">%d bit/примерок</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d часови</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Примете предупредување секогаш кога една од вашите слушалки е далеку од вашето уво или кутијата за полнење подолго од %dминути</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Споделени%dмрежи</item>
         <item quantity="one">Споделена%dмрежа</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d поврзани уреди</item>
-        <item quantity="one">%1$d поврзан уред</item>
     </plurals>
 </resources>

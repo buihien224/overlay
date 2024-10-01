@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ஒருமுறை</item>
+        <item>ஒவ்வொரு நாளும்</item>
+        <item>சட்டபூர்வ பணிநாட்கள்</item>
+        <item>வாரநாட்கள்</item>
+        <item>விருப்பம்</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ஒருமுறை</item>
+        <item>ஒவ்வொரு நாளும்</item>
+        <item>வாரநாட்கள்</item>
+        <item>விருப்பம்</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>எல்லா பதிவுகளும்</item>
+        <item>தானியங்குதொடக்கம்</item>
+        <item>சங்கிலி தொடக்கம்</item>
+        <item>அனுமதிகளைப் பயன்படுத்தல்</item>
+        <item>உணர்திறமிக்க செயல்கள்</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>பேட்டர்ன்</item>
+        <item>PIN</item>
+        <item>கடவுச்சொல்</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>அளவு</item>
+        <item>பெயர்</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>மாதாந்திர திட்டம்</item>
+        <item>வரம்பற்றது</item>
+        <item>தினசரி திட்டம்</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>தனிப்பயன்</item>
+        <item>Xiaomi ஃபேன் கார்டு</item>
+        <item>Xiao Tiansheng கார்டு</item>
+        <item>Tencent King கார்டு</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>தனிப்பயன்</item>
+        <item>Mi மொபைல்</item>
+        <item>Xiaomi ஃபேன் கார்டு</item>
+        <item>Tianshen card</item>
+        <item>Tencent card</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"நேற்று (மொபைல் தரவு) "</item>
+        <item>"இன்று (மொபைல் தரவு) "</item>
+        <item>"கடந்த மாதம் (மொபைல் தரவு) "</item>
+        <item>"இந்த மாதம் (மொபைல் தரவு) "</item>
+        <item>"நேற்று (Wi-Fi) "</item>
+        <item>"இன்று (Wi-Fi) "</item>
+        <item>"கடந்த மாதம் (Wi-Fi) "</item>
+        <item>"இந்த மாதம் (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"நேற்று "</item>
+        <item>"இன்று "</item>
+        <item>"கடந்த மாதம் "</item>
+        <item>"இந்த மாதம் "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"இந்த வாரம் "</item>
+        <item>"இன்று "</item>
+        <item>"இந்த மாதம் "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"நேற்று: "</item>
+        <item>"இன்று: "</item>
+        <item>"கடந்த மாதம்: "</item>
+        <item>"இந்த மாதம்: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"இந்த வாரம்: "</item>
+        <item>"இன்று: "</item>
+        <item>"இந்த மாதம்: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>ஒரு கணினியைப் பயன்படுத்தி, உங்கள் சாதனத்தில் உள்ள கோப்புகளை அணுகுதல் மற்றும் திருத்துதல் சாத்தியமாகும்.</item>
+        <item>வெளிப்படையான அனுமதி இல்லாமல் உங்கள் சாதனத்தின் செயலிகளை நிறுவுதல் அனுமதிக்கப்படும்.</item>
+        <item>உங்கள் திரை உள்ளடக்கத்தை தொலைநிலையில் உங்களால் கண்காணிக்கவும் பதிவு செய்யவும் முடியும்.</item>
+        <item>உங்கள் சாதனத்தைப் பற்றிய விரிவான தகவல்களை அணுக முடியும்.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>மிகக் குறைவு</item>
+        <item>குறைவு</item>
+        <item>வழக்கமானது</item>
+        <item>அதிகம்</item>
+        <item>அதிகபட்சம்</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>சாதனம் பூட்டப்படும்போது</item>
+        <item>சாதனம் பூட்டப்படும்போது அல்லது பயன்பாட்டிலிருந்து வெளியேறியவுடன்</item>
+        <item>சாதனம் பூட்டப்படும்போது அல்லது பயன்பாட்டிலிருந்து வெளியேறிய பின்னர் 1 நிமிடம் கழித்து</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"மொபைல் பயன்பாடு "</item>
+        <item>"Wi-Fi பயன்பாடு "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>முக்கியம்: பல முறைமை செயலிகள் சரியாக செயல்படுவதை நிறுத்தக் கூடும்.</item>
+        <item>உரை தளவமைப்புகள், கணக்குகள் மற்றும் உள்ளடக்கம் ஆகியவை சரியாகக் காண்பிக்கப்படாமல் போகலாம்.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>எச்சரிக்கை காண்பி</item>
+        <item>எச்சரித்து, மொபைல் தரவை முடக்கு</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>இயல்புநிலை</item>
+        <item>செயல்திறனுக்கு முன்னுரிமை</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>இயல்பு வெப்பநிலை கட்டுப்பாடுப் பயன்முறை</item>
+        <item>செயல்திறனுக்கு முன்னுரிமை</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>உங்கள் தனிப்பட்ட தகவல்களையும் கொண்டிருக்க வாய்ப்புடைய உங்கள் உரை செய்திகள் மற்றும் பிற உருப்படிகளின் உள்ளடக்கம் உட்பட எல்லா அறிவிப்புகளையும் படித்தல்</item>
+        <item>சில செயலிகளுக்கு அறிவிப்பு அனுமதிகளைக் கட்டுப்படுத்து</item>
+        <item>தட்டுதல் அறிவிப்புகள் மற்றும் செயலிகள் திறத்தலை சிமுலேட் செய்யவும்</item>
+        <item>DND பயன்முறையை இயக்கவும் மற்றும் அணைக்கவும்</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>நீங்கள் என்னென்ன செயலிகளைப் பயன்படுத்துகிறீர்கள் மற்றும் அவற்றை எந்தக் கால இடைவெளியில் பயன்படுத்துகிறீர்கள் என்பதை கற்பதன் மூலம் உங்கள் ஆர்வங்கள் மற்றும் நடத்தையைப் பற்றிய தரவை சேகரித்தல்</item>
+        <item>உங்கள் கேரியர் தொடர்பான மற்றும் மொழி அமைப்புகள் மற்றும் பிற விவரங்களை அணுகுதல்</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>சரிபார்க்கப்படாத மூன்றாம் தரப்பினர் செயலிகள், பல சிக்கல்களை உருவாக்கும் மற்றும் முறைமை சமநிலையைக் குறைக்கும்.</item>
+        <item>சில மூன்றாம் தரப்பு செயலிகளில் உங்கள் தனிப்பட்ட தரவை அபாயத்தில் வைக்கக் கூடிய தீம்பொருள் இருக்கலாம்.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>அக சேமிப்பிடம்</item>
+        <item>வெளிப்புற சேமிப்பிடம்</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>எப்போதும்</item>
+        <item>சில விதிவிலக்குகளுக்கு மட்டும்</item>
+        <item>எப்போதும் வேண்டாம்</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>தரவுப் பயன்பாடு</item>
+        <item>ஃபோன் நிலுவை</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>செயலியின் பெயர் மூலம் வரிசைப்படுத்தல்</item>
+        <item>சமீபத்தில் பயன்படுத்தியவை மூலம் வரிசைப்படுத்தல்</item>
+        <item>பயன்படுத்திய சேமிப்பிடம் மூலம் வரிசைப்படுத்தல்</item>
+        <item>நிறுவல் நேரத்தின்படி வரிசைப்படுத்தல்</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>பயன்பாட்டின் பெயர்</item>
+        <item>சமீபத்தில் பயன்படுத்தியவை</item>
+        <item>பயன்படுத்திய சேமிப்பகம்</item>
+        <item>நிறுவல் நேரம்</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>அணைக்கவும் மற்றும் அறிவிக்கவும்</item>
+        <item>தெரிவிக்க மட்டுமே</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>நிறுவல் மூலம்</item>
+        <item>நிறுவல் நேரம்</item>
+        <item>கடைசியாக புதுப்பித்தல் மூலம்</item>
+        <item>கடைசியாக புதுப்பித்தல் நேரம்</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>மாதாந்திர தரவு திட்டம்</item>
+        <item>தினசரி தரவு திட்டம்</item>
+        <item>வரம்பற்ற தரவுத் திட்டம்</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"மொபைல் தரவுப் பயன்பாடு "</item>
+        <item>"Wi-Fi பயன்பாடு "</item>
+    </string-array>
+</resources>

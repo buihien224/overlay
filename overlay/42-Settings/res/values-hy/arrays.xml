@@ -2,7 +2,7 @@
 <resources>
     <string-array name="accessibility_button_gesture_selector_titles">
         <item>Կոճակ</item>
-        <item>Ժեստեր</item>
+        <item>Ժեստ</item>
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
         <item>Ցուցադրվում է այլ հավելվածների վրայից</item>
@@ -31,18 +31,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Սարքի ներքին պահոց</item>
-        <item>Շարժական SD քարտ</item>
-        <item>Թույլատրել համակարգը որոշի</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Տեղադրություն</item>
-        <item>Անձնական</item>
-        <item>SMS/MMS</item>
-        <item>Մեդիա</item>
-        <item>Սարք</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Տեղակայում</item>
@@ -83,7 +71,7 @@
         <item>Զանգի բարձրություն</item>
         <item>Մուլտիմեդիայի ձայնը</item>
         <item>Զարթուցիչի ձայնի բարձրություն</item>
-        <item>Ծանուցման ձայնի բարձրություն</item>
+        <item>Ծանուցումների ձայնի ուժգնություն</item>
         <item>Bluetooth-ի ձայնի բարձրություն</item>
         <item>Արթուն պահել</item>
         <item>Տեղադրություն</item>
@@ -275,6 +263,10 @@
         <item>Qualcomm® aptX™ աուդիո</item>
         <item>Qualcomm® aptX™ HD աուդիո</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive աուդիո</item>
+        <item>Qualcomm® aptX™ TWS+ աուդիո</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Օգտագործել համակարգի կարգավորումը (կանխադրված)</item>
@@ -283,6 +275,10 @@
         <item>Qualcomm® aptX™ աուդիո</item>
         <item>Qualcomm® aptX™ HD աուդիո</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive աուդիո</item>
+        <item>Qualcomm® aptX™ TWS+ աուդիո</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -290,17 +286,27 @@
         <item>, ակտիվ է (մեդիա)</item>
         <item>, ակտիվ է (հեռախոս)</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Օգտագործել հավելվածի կանխադրված արժեքը</item>
+        <item>Նվագարկել լսողական սարքում</item>
+        <item>Նվագարկել հեռախոսի բարձրախոսում</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
+        <item>avrcp16</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp16</item>
+        <item>avrcp15</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (կանխադրված)</item>
+        <item>AVRCP 1.6 (կանխադրված)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.6</item>
+        <item>AVRCP 1.5</item>
+    </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Disabled</item>
+        <item>Unicast</item>
+        <item>Unicast and Broadcast</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -320,16 +326,28 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 րոպե</item>
-        <item>5 րոպե</item>
-        <item>1 ժամ</item>
-        <item>Ժամանակի սպառումը բացառել</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Անջատված է</item>
         <item>Միացված է զտիչներով</item>
         <item>Միացված է</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Թողնել միայն ACL վերնագրերը</item>
+        <item>Զտել A2DP մուլտիմեդիա փաթեթները</item>
+        <item>Զտել RFCOMM կապուղին</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Անջատել</item>
+        <item>Լրացնել նիշերի տողով</item>
+        <item>Թողնել միայն վերնագիրը</item>
+        <item>Ամբողջությամբ հեռացնել</item>
+    </string-array>
+    <string-array name="bt_stack_log_level_entries">
+        <item>Մանրամասն</item>
+        <item>Վրիպազերծում</item>
+        <item>Տեղեկություններ</item>
+        <item>Զգուշացում</item>
+        <item>Սխալ</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Կանխադրված</item>
@@ -339,17 +357,10 @@
         <item>Ուռուցիկ</item>
         <item>Ճնշված</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>Տեքստի շատ փոքր չափ</item>
-        <item>Տեքստի փոքր չափ</item>
-        <item>Տեքստի կանխադրված չափսը</item>
-        <item>Տեքստի մեծ չափ</item>
-        <item>Տեքստի շատ մեծ չափ</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Շատ փոքր</item>
         <item>Փոքր</item>
-        <item>Կանխադրված</item>
+        <item>Միջին</item>
         <item>Մեծ</item>
         <item>Շատ մեծ</item>
     </string-array>
@@ -360,11 +371,11 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Կարգավորված է հավելվածով</item>
-        <item>Սպիտակը սևի վրա</item>
-        <item>Սևը սպիտակի վրա</item>
-        <item>Դեղինը սևի վրա</item>
-        <item>Դեղինը կապույտի վրա</item>
+        <item>Ըստ հավելվածի</item>
+        <item>Սպիտակ՝ սևի վրա</item>
+        <item>Սև՝ սպիտակի վրա</item>
+        <item>Դեղին՝ սևի վրա</item>
+        <item>Դեղին՝ կապույտի վրա</item>
         <item>Հատուկ</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
@@ -397,35 +408,17 @@
         <item>Սովորական</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Փիրուզագույն</item>
+        <item>Երկնագույն</item>
         <item>Կապույտ</item>
-        <item>Ինդիգո</item>
+        <item>Կանաչ</item>
         <item>Մանուշակագույն</item>
         <item>Վարդագույն</item>
-        <item>Կարմիր</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Մուգ</item>
-        <item>Բաց</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Վերջին 30 օրում</item>
-        <item>Սահմանել օգտագործման ցիկլը...</item>
+        <item>Նարնջագույն</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Անջատված է</item>
         <item>Ցույց տալ գերազանցված հատվածները</item>
         <item>Ցույց տալ դալտոնիզմի ոլորտները</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Երբեք</item>
-        <item>15 վայրկյան</item>
-        <item>30 վայրկյան</item>
-        <item>1 րոպե</item>
-        <item>2 րոպե</item>
-        <item>5 րոպե</item>
-        <item>10 րոպե</item>
-        <item>30 րոպե</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Չստուգել</item>
@@ -438,11 +431,11 @@
         <item>Համակարգային հետագիծ (գծապատկերներ)</item>
         <item>glGetError կանչերի ցուցակ</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Փոքր</item>
-        <item>Կանխադրված</item>
-        <item>Մեծ</item>
-        <item>Ամենամեծ</item>
+    <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Երբեք չօգտագործել HDCP ստուգումը</item>
@@ -480,6 +473,15 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Միշտ</item>
+        <item>Եթե ուրիշ վճարային հավելված բացված չէ</item>
+    </string-array>
+    <string-array name="nfc_payment_favor_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ոչ մեկը</item>
@@ -530,28 +532,6 @@
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Սովորական</item>
-        <item>Չափավոր</item>
-        <item>Ցածր</item>
-        <item>Կրիտիկական</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Կայուն</item>
-        <item>Առավել հաճախակի կատարվող գործողությունը</item>
-        <item>Կարևոր (ակտիվ ռեժիմ)</item>
-        <item>Կարևոր (ֆոնային ռեժիմ)</item>
-        <item>Պահուստավորում</item>
-        <item>Խիստ ծանրաբեռնվածություն</item>
-        <item>Ծառայություն (ակտիվ է)</item>
-        <item>Ծառայություն (վերագործարկվում է)</item>
-        <item>Ստացող</item>
-        <item>Հիմնական</item>
-        <item>Վերջին գործողությունը</item>
-        <item>Քեշավորված (գործողությունը)</item>
-        <item>Քեշավորված (սպասառուի գործողությունը)</item>
-        <item>Քեշավորված (դատարկ)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Սովորական</item>
@@ -617,14 +597,16 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>Ամերիկա</item>
-        <item>Եվրոպա</item>
-        <item>Աֆրիկա</item>
-        <item>Ասիա</item>
-        <item>Ավստրալիա</item>
-        <item>Խաղաղօվկիանոսյան</item>
-        <item>Բոլորը</item>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Երբեք</item>
+        <item>1 րոպեից</item>
+        <item>5 րոպեից</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Լիցքավորում</item>
+        <item>Նինջ</item>
+        <item>Էներգախնայման ռեժիմ</item>
+        <item>Գործընթացի կարգավիճակը</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Անջատել</item>
@@ -641,20 +623,15 @@
         <item>Շարժապատկերի սանդղակը` 10x</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Շատ դանդաղ</item>
-        <item>Դանդաղ</item>
-        <item>Սովորական</item>
-        <item>Արագ</item>
-        <item>Ավելի արագ</item>
-        <item>Շատ արագ</item>
-        <item>Սրընթաց</item>
-        <item>Չափազանց արագ</item>
-        <item>Ամենաարագ</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Օգտագործման ժամանակը</item>
-        <item>Վերջին օգտագործումը</item>
-        <item>Ծրագրի անունը</item>
+        <item>60%</item>
+        <item>80%</item>
+        <item>100%</item>
+        <item>150%</item>
+        <item>200%</item>
+        <item>250%</item>
+        <item>300%</item>
+        <item>350%</item>
+        <item>400%</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Լիցքավորում</item>
@@ -676,17 +653,6 @@
         <item>Ժամանակի սպառում</item>
         <item>Անհաջող</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN նախորոշված ստեղներով</item>
-        <item>L2TP/IPSec VPN վկայագրերով</item>
-        <item>IPSec VPN նախորոշված ստեղներով և Xauth նույնականացմամբ</item>
-        <item>IPSec VPN վկայականներով և Xauth նույնականացմամբ</item>
-        <item>IPSec VPN վկայագրերով և խառնածին նույնականացմամբ</item>
-        <item>Հավաստագրերով և օգտանուն/գաղտնաբառով նույնականացմամբ IKEv2/IPSec VPN</item>
-        <item>Ընդհանուր բանալիներով IKEv2/IPSec VPN</item>
-        <item>Հավաստագրերով IKEv2/IPSec VPN</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Բջջային</item>
@@ -696,11 +662,9 @@
         <item>Wi-Fi</item>
         <item>Բջջային</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_dhcp_entries">
+        <item>Ուղարկել սարքի անվանումը ցանցին</item>
+        <item>Չուղարկել սարքի անվանումը ցանցին</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Ոչ</item>
@@ -722,11 +686,6 @@
         <item>Հասանելի</item>
         <item>Ընդգրկույթից դուրս</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Սեղմման կոճակ</item>
-        <item>Հավասարազոր սարքի PIN-ը</item>
-        <item>PIN-ը այս սարքից</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
         <item>GTC</item>
@@ -739,7 +698,7 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Օգտագործել պատահական MAC հասցե (կանխադրված)</item>
+        <item>Օգտագործել պատահական MAC հասցե</item>
         <item>Օգտագործել սարքի MAC հասցեն</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

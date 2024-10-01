@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ម្ដង</item>
+        <item>រាល់ថ្ងៃ</item>
+        <item>ថ្ងៃ​ធ្វើការ​ផ្លូវការ</item>
+        <item>ថ្ងៃធ្វើការ</item>
+        <item>តាម​បំណង</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ម្ដង</item>
+        <item>រាល់ថ្ងៃ</item>
+        <item>ថ្ងៃធ្វើការ</item>
+        <item>តាម​បំណង</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>កំណត់ត្រាទាំងអស់</item>
+        <item>ចាប់ផ្ដើមស្វ័យប្រវត្តិ</item>
+        <item>ខ្សែសង្វាក់ចាប់ផ្ដើម</item>
+        <item>ប្រើការអនុញ្ញាត​</item>
+        <item>សម្មភាពសំខាន់ៗ</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>គំនូរគំរូ</item>
+        <item>កូដ PIN</item>
+        <item>ពាក្យសម្ងាត់</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>ទំហំ</item>
+        <item>ឈ្មោះ</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>គម្រោងប្រចាំខែ</item>
+        <item>ឥតកំណត់</item>
+        <item>គម្រោងប្រចាំថ្ងៃ</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>តាម​បំណង</item>
+        <item>កាត Xiaomi Fan</item>
+        <item>កាត Xiao Tiansheng</item>
+        <item>កាត Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>តាម​បំណង</item>
+        <item>ទូរស័ព្ទ Mi</item>
+        <item>កាត Xiaomi Fan</item>
+        <item>កាត Tianshen</item>
+        <item>កាត Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"ម្សិលមិញ (ទិន្ន័យ​ចល័ត) "</item>
+        <item>"ថ្ងៃនេះ (ទិន្ន័យ​ចល័ត) "</item>
+        <item>"ខែមុន (ទិន្ន័យចល័ត) "</item>
+        <item>"ខែនេះ (ទិន្ន័យ​ចល័ត) "</item>
+        <item>"ម្សិលមិញ (Wi-Fi) "</item>
+        <item>"ថ្ងៃនេះ​ (Wi-Fi) "</item>
+        <item>"ខៃមុន (Wi-Fi) "</item>
+        <item>"ខែនេះ​ (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"ម្សិលមិញ "</item>
+        <item>"ថ្ងៃនេះ "</item>
+        <item>"ខែមុន "</item>
+        <item>"ខែនេះ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"សប្តាហ៍នេះ "</item>
+        <item>"ថ្ងៃនេះ "</item>
+        <item>"ខែនេះ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"ម្សិលមិញ៖ "</item>
+        <item>"ថ្ងៃនេះ៖ "</item>
+        <item>"ខែមុន​៖ "</item>
+        <item>"ខែនេះ៖​ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"សប្តាហ៍នេះ៖ "</item>
+        <item>"ថ្ងៃនេះ៖ "</item>
+        <item>"ខែនេះ៖​ "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>អ្នកនឹងអាចចូលប្រើ និងកែសម្រួលឯកសារនៅលើឧបករណ៍របស់អ្នកបានដោយប្រើកុំព្យូទ័រ។</item>
+        <item>ការដំឡើងកម្មវិធីនៅលើឧបករណ៍របស់អ្នកដោយគ្មានការអនុញ្ញាតច្បាស់លាស់របស់អ្នកនឹងត្រូវបានអនុញ្ញាត។</item>
+        <item>អ្នកនឹងអាចតាមដាន និងកត់ត្រាមាតិកាអេក្រង់របស់អ្នកពីចម្ងាយបាន។</item>
+        <item>អ្នកនឹងអាចទទួលបានព័ត៌មានលម្អិតអំពីឧបករណ៍របស់អ្នកបាន។</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>ទាបបំផុត</item>
+        <item>ទាប</item>
+        <item>ធម្មតា</item>
+        <item>ខ្ពស់</item>
+        <item>ខ្ពស់បំផុត</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>នៅពេលដែលឧបករណ៍ត្រូវបានចាក់សោ</item>
+        <item>នៅពេលដែលឧបករណ៍ត្រូវបានចាក់សោ ឬបន្ទាប់ពីចាកចេញពីកម្មវិធី</item>
+        <item>នៅពេលដែលឧបករណ៍ត្រូវបានចាក់សោ ឬក្នុងរយៈពេល 1នាទីបន្ទាប់ពីចាកចេញពីកម្មវិធី</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"បម្រើបម្រាស់ទូរស័ព្ទចល័ត "</item>
+        <item>"បម្រើបម្រាស់ Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>សំខាន់ៈកម្មវិធីប្រព័ន្ធច្រើនអាចឈប់ដំណើរការត្រឹមត្រូវ។</item>
+        <item>ប្លង់បង្ហាញអត្ថបទ គណនី និងមាតិកានានាអាចមិនត្រូវបានបង្ហាញត្រឹមត្រូវបាន។</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>បង្ហាញការព្រមាន</item>
+        <item>ព្រមាននិងបិទទិន្នន័យចល័ត</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>លំនាំដើម</item>
+        <item>រៀបអាទិភាពប្រតិបត្តិការ​</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>ប្រើម៉ូដគ្រប់គ្រងសីតុណ្ហភាពលំនាំដើម</item>
+        <item>កំពុងរៀបអាទិភាពប្រតិបត្តិការ​</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>សូមអានរាល់ការជូនដំណឹងរបស់អ្នក រួមទាំងខ្លឹមសារនៃសារជាអត្ថបទរបស់អ្នក និងធាតុផ្សេងទៀតដែលអាចផ្ទុកមានព័ត៌មានផ្ទាល់ខ្លួន</item>
+        <item>ដាក់កម្រិតសិទ្ធិអនុញ្ញាតការជូនដំណឹងសម្រាប់កម្មវិធីមួយចំនួន</item>
+        <item>ក្លែងចលនាការចុចសារជូនដំណឹង និងបើកកម្មវិធី</item>
+        <item>បើកនិងបិទម៉ូដកុំរំខាន</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>ប្រមូលទិន្នន័យអំពីចំណាប់អារម្មណ៍​ និងអាកប្បកិរិយារបស់លោកអ្នកដោយសិក្សាកម្មវិធីណាដែលអ្នកប្រើ និងរយៈពេលប៉ុន្មានដែលអ្នកប្រើ</item>
+        <item>ចូលប្រើសំណុំកំណត់ទាក់ទងនឹងក្រុមហ៊ុនសេវាទូរស័ព្ទ និងព័ត៌មានលម្អិតផ្សេងទៀត</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>កម្មវិធីភាគីទីបីដែលមិនបានផ្ទៀងផ្ទាត់អាចបង្កបញ្ហាច្រើន និងបន្ថយស្ថេរភាពប្រព័ន្ធ។</item>
+        <item>កម្មវិធីភាគីទីបីមួយចំនួនអាចផ្ទុកមេរោគដែលធ្វើឱ្យទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នករងហានិភ័យ។</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>អង្គផ្ទុកខាងក្នុង</item>
+        <item>អង្គផ្ទុកខាងក្រៅ</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ជានិច្ចកាល</item>
+        <item>សម្រាប់តែករណីលើកលែងប៉ុណ្ណោះ</item>
+        <item>កុំ</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ការប្រើ​ទិន្នន័យ</item>
+        <item>សមតុល្យ​ទូរស័ព្ទ</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>តម្រៀបតាមឈ្មោះកម្មវិធី</item>
+        <item>តម្រៀប​តាម​ការ​ប្រើប្រាស់ដែលថ្មីបំផុត</item>
+        <item>តម្រៀបតាមអង្គផ្ទុកដែលបានប្រើប្រាស់</item>
+        <item>តម្រៀបតាមពេលវេលាដែលបានតម្លើង</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>ឈ្មោះកម្មវិធី</item>
+        <item>បានប្រើប្រាស់នាពេលថ្មីៗនេះ</item>
+        <item>អង្គផ្ទុកដែលបានប្រើប្រាស់</item>
+        <item>ពេលដំឡើង</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>បិទ ហើយជូនដំណឹង</item>
+        <item>តែជូនដំណឹងប៉ុណ្ណោះ</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ប្រភពការដំឡើង</item>
+        <item>ពេលដំឡើង</item>
+        <item>ប្រភអាប់ដេតចុងក្រោយ</item>
+        <item>ពេលអាប់ដេតចុងក្រោយ</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>ផែនការទិន្នន័យប្រចាំខែ</item>
+        <item>ផែនការ​ទិន្នន័យ​ប្រចាំថ្ងៃ</item>
+        <item>ផែនការ​ទិន្នន័យ​ឥតកំណត់</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"បម្រើបម្រាស់ទិន្នន័យចល័ត "</item>
+        <item>"បម្រើបម្រាស់ Wi-Fi "</item>
+    </string-array>
+</resources>

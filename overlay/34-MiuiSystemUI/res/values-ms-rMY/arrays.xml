@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>Ini adalah kandungan yang disyorkan.</item>
-        <item>Ini adalah iklan.</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktif"</item>
+        <item>" | Aktif (media)"</item>
+        <item>" | Aktif (telefon)"</item>
     </string-array>
 </resources>

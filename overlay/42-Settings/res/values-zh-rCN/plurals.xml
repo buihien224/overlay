@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">半小时前</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">半小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">马上</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d分钟后</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">刚刚</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d 分钟前</item>
+        <item quantity="one">%d 分钟前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">在%d个应用下不自动屏蔽屏幕按键</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">在%d个应用下自动屏蔽屏幕按键</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">允许%d个应用自启动</item>
+        <item quantity="one">允许%d个应用自启动</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d个应用允许后台联网</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d个应用禁止后台联网</item>
+    </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">可用设备（%d）</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">%d秒一次</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d台设备</item>
+        <item quantity="one">%d台设备</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%s个应用已禁止联网</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">操作执行中，请等待%d秒钟</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d人在线</item>
+        <item quantity="one">%1$d人在线</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">最多仅支持 %d 个字符</item>
+        <item quantity="one">最多仅支持 %d 个字符</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">请至少输入 %d 个字符</item>
+        <item quantity="one">请至少输入 %d 个字符</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">数字密码必须包含%d个数字</item>
+        <item quantity="one">数字密码必须包含%d个数字</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">最多仅支持%d位数字</item>
+        <item quantity="one">最多仅支持%d位数字</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">请至少输入%d个数字</item>
+        <item quantity="one">请至少输入%d个数字</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">尝试解锁失败次数过多，请在 %d 秒后重试。</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d 秒后重试。</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s、%2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">不得超过%d个进程</item>
+        <item quantity="one">不得超过%d个进程</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">已添加%d位</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">附近有已保存的网络时自动开启Wi-Fi，%d分钟未连接则自动关闭</item>
+        <item quantity="one">附近有已保存的网络时自动开启Wi-Fi，%d分钟未连接则自动关闭</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">操作执行中，请等待%d秒钟</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">只需 %1$d 步操作即可进入cit。</item>
+        <item quantity="one">只需 %1$d 步操作即可进入cit。</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">只需 %1$d 步操作即可进入电话信息。</item>
+        <item quantity="one">只需 %1$d 步操作即可进入电话信息。</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">只需 %1$d 步操作即可抓取日志。</item>
+        <item quantity="one">只需 %1$d 步操作即可抓取日志。</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">禁止%d个应用推送通知</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">允许%d个应用推送通知</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d 位/样本</item>
+        <item quantity="one">%d 位/样本</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">耳机离耳离盒%d分钟后手机弹出防丢提醒</item>
+        <item quantity="one">耳机离耳离盒%d分钟后手机弹出防丢提醒</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">今日共解锁%d次</item>
+        <item quantity="one">今日共解锁%d次</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">近7日共解锁%d次</item>
+        <item quantity="one">近7日共解锁%d次</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">今日共通知%d条</item>
+        <item quantity="one">今日共通知%d条</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">近7日共通知%d条</item>
+        <item quantity="one">近7日共通知%d条</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d小时</item>
+        <item quantity="one">%d小时</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d（时）</item>
+        <item quantity="one">%d（时）</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">小时</item>
+        <item quantity="one">小时</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d分钟</item>
+        <item quantity="one">%d分钟</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">分</item>
+        <item quantity="one">分</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d条</item>
+        <item quantity="one">%d条</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d次</item>
+        <item quantity="one">%d次</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">周 末:%d小时</item>
+        <item quantity="one">周 末:%d小时</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">周 末:%d分钟</item>
+        <item quantity="one">周 末:%d分钟</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">工作日:%d小时</item>
+        <item quantity="one">工作日:%d小时</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">工作日:%d分钟</item>
+        <item quantity="one">工作日:%d分钟</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">小时</item>
+        <item quantity="one">小时</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">分钟</item>
+        <item quantity="one">分钟</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">发现%d个软件有风险，建议卸载</item>
+        <item quantity="one">发现%d个软件有风险，建议卸载</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">我累计分享了%d个公共网络</item>
+        <item quantity="one">我累计分享了%d个公共网络</item>
+    </plurals>
+</resources>

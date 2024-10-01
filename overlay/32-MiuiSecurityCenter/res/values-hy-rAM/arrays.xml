@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Մեկ անգամ</item>
+        <item>Ամեն օր</item>
+        <item>Պաշտոնական աշխատանքային օրեր</item>
+        <item>Աշխատանքային օրեր</item>
+        <item>Անձնականացնել</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Մեկ անգամ</item>
+        <item>Ամեն օր</item>
+        <item>Աշխատանքային օրեր</item>
+        <item>Անձնականացնել</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Բոլոր գրառումները</item>
+        <item>Ավտոմատ մեկնարկ</item>
+        <item>Շղթայի մեկնարկ</item>
+        <item>Օգտագործելով թույլտվություններ</item>
+        <item>Զգայուն գործողություններ</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Նմուշ</item>
+        <item>PIN</item>
+        <item>Գաղտնաբառ</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Չափ</item>
+        <item>Անուն</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>ԳԲ</item>
+        <item>ՄԲ</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Ամսական պլան</item>
+        <item>Անսահմանափակ</item>
+        <item>Ամենօրյա պլան</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Կարգավորել</item>
+        <item>Xiaomi Fan քարտ</item>
+        <item>Xiao Tiansheng քարտ</item>
+        <item>Tencent King քարտ</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Կարգավորել</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan քարտ</item>
+        <item>Tianshen քարտ</item>
+        <item>Tencent քարտ</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Երեկ (շարժական տվյալներ) "</item>
+        <item>"Այսօր (բջջային տվյալներ) "</item>
+        <item>"Անցյալ ամիս (շարժական տվյալներ) "</item>
+        <item>"Այս ամիս (բջջային տվյալներ) "</item>
+        <item>"Երեկ (Wi-Fi) "</item>
+        <item>"Այսօր (Wi-Fi) "</item>
+        <item>"Անցած ամիս (Wi-Fi) "</item>
+        <item>"Այս ամիս (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Երեկ "</item>
+        <item>"Այսօր "</item>
+        <item>"Անցյալ ամիս "</item>
+        <item>"Այս ամիս "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Այս շաբաթ "</item>
+        <item>"Այսօր "</item>
+        <item>"Այս ամիս "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Երեկ․ "</item>
+        <item>"Այսօր․ "</item>
+        <item>"Անցյալ ամիս․ "</item>
+        <item>"Այս ամիս․ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Այս շաբաթ․ "</item>
+        <item>"Այսօր․ "</item>
+        <item>"Այս ամիս․ "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Հնարավոր կլինի մուտք գործել և խմբագրել ձեր սարքի ֆայլերը համակարգչով:</item>
+        <item>Առանց ձեր թույլտվության թույլատրվում է ձեր սարքի վրա ծրագրեր տեղադրել:</item>
+        <item>Դուք կկարողանաք հեռակա դիտել և արձանագրել ձեր էկրանի պարունակությունը:</item>
+        <item>Հնարավոր կլինի մուտք գործել ձեր սարքի մասին մանրամասն տեղեկություններ:</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Ցածրագույն</item>
+        <item>Ցածր</item>
+        <item>Կանոնավոր</item>
+        <item>Բարձր</item>
+        <item>Բարձրագույն</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Երբ սարքն արգելափակված է</item>
+        <item>Երբ սարքն արգելափակված է կամ հավելվածից դուրս գալուց հետո</item>
+        <item>Երբ սարքն արգելափակված է կամ 1 րոպե հավելվածից դուրս գալուց հետո</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Բջջային օգտագործում "</item>
+        <item>"Wi-Fi-ի օգտագործումը "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Կարևոր. Բազմաթիվ համակարգչային ծրագրեր կարող են դադարեցնել ինչպես հարկն է աշխատել:</item>
+        <item>Տեքստի դասավորությունը, հաշիվները և բովանդակությունը կարող են ճիշտ չցուցադրվել:</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Ցուցադրել նախազգուշացումը</item>
+        <item>Զգուշացնել և անջատել բջջային համացանցը</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Լռելյայն</item>
+        <item>Առաջնահերթ դարձնել կատարողականությունը</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Օգտագործելով լռելյայն ջերմաստիճանի կառավարման ռեժիմ</item>
+        <item>Առաջնահերթ կատարում</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Կարդացեք ձեր բոլոր ծանուցումները, ներառյալ ձեր տեքստային հաղորդագրությունների և այլ իրերի պարունակությունը, որոնք կարող են պարունակել անձնական տվյալներ</item>
+        <item>Սահմանափակել ծանուցման թույլտվությունները որոշ ծրագրերի համար</item>
+        <item>Մոդելավորել թակել ծանուցումները և բաց ծրագրերը</item>
+        <item>Միացրել և անջատել DND ռեժիմը</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Հավաքեք ձեր հետաքրքրությունների և վարքի վերաբերյալ տվյալները` սովորելով, թե ինչ ծրագրեր եք օգտագործում և որքան հաճախ եք դրանք օգտագործում</item>
+        <item>Մուտք գործեք ձեր կրիչի հետ կապված և լեզվի պարամետրեր, ինչպես նաև այլ մանրամասներ</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Երրորդ կողմի ծրագրերը, որոնք չեն ստուգվում, կարող են առաջացնել բազմաթիվ խնդիրներ և նվազեցնել համակարգի կայունությունը:</item>
+        <item>Երրորդ կողմի որոշ ծրագրեր կարող են պարունակել չարամիտ ծրագիր, որը վտանգում է ձեր անձնական տվյալները:</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Ներքին պահոց</item>
+        <item>Արտաքին պահուստ</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Միշտ</item>
+        <item>Միայն բացառությունների համար</item>
+        <item>Երբեք</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Տվյալների օգտագործում</item>
+        <item>Հեռախոսի հաշվեկշիռը</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Տեսակավորում ըստ հավելվածի անվան</item>
+        <item>Տեսակավորում ըստ վերջին օգտագործվածի</item>
+        <item>Տեսակավորում ըստ օգտագործված պահեստի</item>
+        <item>Տեսակավորում ըստ տեղադրման ժամանակի</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Հավելվածի անվանումը</item>
+        <item>Վերջերս օգտագործված</item>
+        <item>Օգտագործված պահեստ</item>
+        <item>Տեղադրման ժամանակը</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Անջատել և ծանուցել</item>
+        <item>Միայն ծանուցել</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Տեղադրման աղբյուրը</item>
+        <item>Տեղադրման ժամանակը</item>
+        <item>Վերջին թարմացման աղբյուրը</item>
+        <item>Վերջին թարմացման ժամանակը</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Ամսական տվյալների պլան</item>
+        <item>Օրական տրաֆիկի պլան</item>
+        <item>Անսահմանափակ տվյալների պլան</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Շարժական տվյալների օգտագործումը "</item>
+        <item>"Wi-Fi-ի օգտագործումը "</item>
+    </string-array>
+</resources>

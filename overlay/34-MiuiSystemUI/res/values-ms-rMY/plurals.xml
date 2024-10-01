@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 jam yang lalu</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 jam yang lalu</item>
+        <item quantity="other">%d jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Setengah jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dalam 1 jam</item>
+        <item quantity="other">%d jam lagi</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Dalam setengah jam</item>
@@ -19,84 +16,63 @@
         <item quantity="other">Secepat mungkin</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dalam masa %d min</item>
+        <item quantity="other">%d minit lagi</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Tadi</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minit yang lalu</item>
+        <item quantity="other">%d min yang lalu</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Setengah jam yang lalu</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Tekanan atmosfera: %s hektopascal</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Dalam 1 jam</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s Kalori terbakar</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Dalam setengah jam</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Matlamat kalori: %1$s Kalori</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Secepat mungkin</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">dalam masa %d minit</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Masa aktiviti: %1$s minit</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Kod PIN tidak tepat, %d percubaan berbaki</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Matlamat aktiviti: %1$s minit</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Kod PUK tidak tepat, %d percubaan berbaki</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Masukkan kata laluan anda sekurang-kurangnya setiap %d jam untuk mengingatinya</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Berdiri dalam masa %1$s jam</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Matlamat berdiri: %1$s jam</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s jam</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Kiraan langkah semasa: %1$s langkah</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Matlamat langkah: %1$s langkah</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s langkah</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Masukkan kata laluan anda sekurang-kurangnya setiap %d jam untuk mengingatinya</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">Lebih kurang %d jam lagi</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Lebih kurang %d minit lagi</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Lebih kurang %1$d jam %2$d min lagi</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d jam</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minit</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d j %2$d m</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">Berbaki %d jam</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">Berbaki %d minit</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">Berbaki %1$d j %2$d m</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Tadi</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d kandungan dipilih</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d notifikasi baru</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minit yang lalu</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Cuba lagi dalam %d minit</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Cuba lagi dalam %d saat</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Suhu: %1$s darjah, %2$s</item>
     </plurals>
 </resources>

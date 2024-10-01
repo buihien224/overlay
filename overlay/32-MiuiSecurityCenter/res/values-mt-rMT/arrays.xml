@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Darba</item>
+        <item>Kuljum</item>
+        <item>Ġranet tax-xogħol normali</item>
+        <item>Ġranet tax-xogħol</item>
+        <item>Personalizzat</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Darba</item>
+        <item>Kuljum</item>
+        <item>Ġranet tax-xogħol</item>
+        <item>Personalizzat</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Id-dejta kollha</item>
+        <item>Auto-ibda</item>
+        <item>Katina tal-bidu</item>
+        <item>Qed tuża l-permessi</item>
+        <item>Azzjonijiet sensittivi</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Disinn</item>
+        <item>PIN</item>
+        <item>Password</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Daqs</item>
+        <item>Isem</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>"Pakkett ta' kull xahar"</item>
+        <item>Bla limiti</item>
+        <item>"Pakkett ta' kuljum"</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizzata</item>
+        <item>Xiaomi Fan kard</item>
+        <item>Karta Xiao Tiansheng</item>
+        <item>Karta Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizzat</item>
+        <item>Mi Mowbajl</item>
+        <item>Xiaomi Fan kard</item>
+        <item>Karta Tianshen</item>
+        <item>Karta Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Ilbieraħ (dejta tal-mowbajl) "</item>
+        <item>"Illum (dejta tal-mowbajl) "</item>
+        <item>"Ix-xahar li għadda (dejta tal-mowbajl) "</item>
+        <item>"Dax-xahar (dejta tal-mowbajl) "</item>
+        <item>"Ilbieraħ (Wi-Fi) "</item>
+        <item>"Illum (Wi-Fi) "</item>
+        <item>"Ix-xahar li għadda (Wi-Fi) "</item>
+        <item>"Dax-xahar (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ilbieraħ "</item>
+        <item>"Illum "</item>
+        <item>"Ix-xahar li għadda "</item>
+        <item>"Dax-xahar "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Dil-ġimgħa "</item>
+        <item>"Illum "</item>
+        <item>"Dax-xahar "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ilbieraħ: "</item>
+        <item>"Illum: "</item>
+        <item>"Ix-xahar li għadda: "</item>
+        <item>"Dax-xahar: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Dil-ġimgħa: "</item>
+        <item>"Illum: "</item>
+        <item>"Dax-xahar: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>"Se tkun tista' taċċessa u teditja l-fajls li jinsabu fuq it-tagħmir tiegħek permezz ta' kompjuter."</item>
+        <item>L-apps se jkunu jistgħu jiġu installati fuq it-tagħmir tiegħek mingħajr ma jintalab permess partikolari.</item>
+        <item>"Se tkun tista' tara u tirreġistra dak li qed jiġri fuq l-iskrin tiegħek minn tagħmir ieħor."</item>
+        <item>"Se tkun tista' taċċessa informazzjoni dettaljata dwar it-tagħmir tiegħek."</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Baxxa ħafna</item>
+        <item>Baxxa</item>
+        <item>Normali</item>
+        <item>Għolja</item>
+        <item>Għolja ħafna</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Meta t-tagħmir ikun imsakkar</item>
+        <item>Meta t-tagħmir ikun imsakkar jew wara li toħroġ minn xi app</item>
+        <item>Meta t-tagħmir ikun imsakkar jew wara minuta li toħroġ minn xi app</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Użu tal-mowbajl "</item>
+        <item>"Użu tal-Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>"Importanti: Numru ta' apps tas-sistema jafu ma jibqgħux jaħdmu kif suppost."</item>
+        <item>Il-kliem, il-kontijiet u l-kontenut jafu ma jintwerewx kif suppost.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Uri avviż</item>
+        <item>Avża u itfi d-dejta tal-mowbajl</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Komuni</item>
+        <item>Agħti prijorità lill-ħeffa tal-operat</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>"Qed juża l-modalita' tal-kontroll tat-temperatura komuni"</item>
+        <item>Qed jagħti prijorità lill-ħeffa tal-operat</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Taqra n-notifikazzjonijiet tiegħek kollha inklużi l-messaġġi SMS tiegħek u affarijiet oħra li jaf ikun fihom dettalji personali</item>
+        <item>Tillimita n-notifikazzjonijiet tal-permessi għal ċertu apps</item>
+        <item>Iġġiegħel lit-tagħmir jaħseb li nfetħu n-notifikazzjonijiet u tiftaħ l-apps</item>
+        <item>Itfi jew ixgħel il-modalità Ittellifnix</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>"Tiġbor l-informazzjoni dwar l-interessi u l-imġieba tiegħek billi żżomm kont ta' liema apps tuża u kemm tużahom ta' spiss"</item>
+        <item>Taċċessa l-għażliet tal-operatur u tal-lingwa tiegħek, kif ukoll informazzjoni oħra</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>L-apps terzi li mhux verifikati jafu joħolqulek xi problemi u jaffettwaw l-istabbiltà tas-sistema.</item>
+        <item>Ċerti apps terzi jafu jkollhom softwer ħażin li jqiegħed id-dejta tiegħek fil-periklu.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Ħażna interna</item>
+        <item>Ħażna esterna</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Dejjem</item>
+        <item>Għall-eċċezjonijiet biss</item>
+        <item>Qatt</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Użu tad-dejta</item>
+        <item>Bilanċ tat-telefown</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Sarbit skont isem l-app</item>
+        <item>"Sarbit b'meta l-aħħar li ntużat"</item>
+        <item>Sarbit bil-ħażna użata</item>
+        <item>Sarbit bid-data tal-installazzjoni</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Isem l-app</item>
+        <item>Użati dal-aħħar</item>
+        <item>Ħażna użata</item>
+        <item>Meta ġiet installata</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Itfi u avża</item>
+        <item>Avża biss</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Sors tal-installazjoni</item>
+        <item>Meta ġiet installata</item>
+        <item>Sors tal-aħħar aġġornament</item>
+        <item>Meta seħħ l-aħħar aġġornament</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>"Pjan tad-dejta ta' xahar"</item>
+        <item>"Pjan tad-dejta ta' kuljum"</item>
+        <item>Pjan tad-dejta bla limitu</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Użu tad-dejta tal-mowbajl "</item>
+        <item>"Użu tal-Wi-Fi "</item>
+    </string-array>
+</resources>

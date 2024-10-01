@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ਇੱਕ ਵਾਰ</item>
+        <item>ਰੋਜ਼ਾਨਾ</item>
+        <item>ਕਨੂੰਨੀ ਕਾਰਜ ਦਿਹਾੜੇ</item>
+        <item>ਕਾਰਜਦਿਵਸ</item>
+        <item>ਕਸਟਮ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ਇੱਕ ਵਾਰ</item>
+        <item>ਰੋਜ਼ਾਨਾ</item>
+        <item>ਕਾਰਜਦਿਵਸ</item>
+        <item>ਕਸਟਮ</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>ਸਾਰੇ ਰਿਕਾਰਡ</item>
+        <item>ਸਵੈਚਲਿਤ ਸ਼ੁਰੂ</item>
+        <item>ਚੇਨ ਸਟਾਰਟ</item>
+        <item>ਮਨਜ਼ੂਰੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</item>
+        <item>ਸੰਵੇਦਨਸ਼ੀਲ ਕਾਰਜ</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>ਪੈਟਰਨ</item>
+        <item>ਪਿੰਨ</item>
+        <item>ਪਾਸਵਰਡ</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>ਆਕਾਰ</item>
+        <item>ਨਾਂ</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>ਮਹੀਨਾਵਾਰ ਪਲਾਨ</item>
+        <item>ਅਸੀਮਤ</item>
+        <item>ਰੋਜ਼ਾਨਾ ਪਲਾਨ</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>ਕਸਟਮ</item>
+        <item>Xiaomi ਪ੍ਰੇਮੀ ਕਾਰਡ</item>
+        <item>Xiao Tiansheng ਕਾਰਡ</item>
+        <item>Tencent King ਕਾਰਡ</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>ਕਸਟਮ</item>
+        <item>Mi ਮੋਬਾਈਲ</item>
+        <item>Xiaomi ਪ੍ਰੇਮੀ ਕਾਰਡ</item>
+        <item>Tianshen ਕਾਰਡ</item>
+        <item>Tencent ਕਾਰਡ</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"ਬੀਤੇ ਕੱਲ੍ਹ (ਮੋਬਾਈਲ ਡਾਟਾ) "</item>
+        <item>"ਅੱਜ (ਮੋਬਾਈਲ ਡਾਟਾ) "</item>
+        <item>"ਪਿਛਲੇ ਮਹੀਨੇ (ਮੋਬਾਈਲ ਡਾਟਾ) "</item>
+        <item>"ਇਸ ਮਹੀਨੇ (ਮੋਬਾਈਲ ਡਾਟਾ) "</item>
+        <item>"ਬੀਤੇ ਕੱਲ੍ਹ (ਵਾਈ-ਫ਼ਾਈ) "</item>
+        <item>"ਅੱਜ (ਵਾਈ-ਫ਼ਾਈ) "</item>
+        <item>"ਪਿਛਲੇ ਮਹੀਨੇ (ਵਾਈ-ਫ਼ਾਈ) "</item>
+        <item>"ਇਸ ਮਹੀਨੇ (ਵਾਈ-ਫ਼ਾਈ) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"ਕੱਲ੍ਹ "</item>
+        <item>"ਅੱਜ "</item>
+        <item>"ਪਿਛਲੇ ਮਹੀਨੇ "</item>
+        <item>"ਇਸ ਮਹੀਨੇ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"ਇਸ ਹਫ਼ਤੇ "</item>
+        <item>"ਅੱਜ "</item>
+        <item>"ਇਸ ਮਹੀਨੇ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"ਕੱਲ੍ਹ "</item>
+        <item>"ਅੱਜ: "</item>
+        <item>"ਪਿਛਲੇ ਮਹੀਨੇ: "</item>
+        <item>"ਇਸ ਮਹੀਨੇ: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"ਇਸ ਹਫ਼ਤੇ "</item>
+        <item>"ਅੱਜ: "</item>
+        <item>"ਇਸ ਮਹੀਨੇ: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>"ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਫ਼ਾਈਲਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਕੇ ਸੰਪਾਦਨ ਕਰਨਾ ਸੰਭਵ ਨਹੀਂ ਹੋਵੇਗਾ।"</item>
+        <item>"ਤੁਹਾਡੇ ਸਪਸ਼ਟ ਮਨਜ਼ੂਰੀ ਤੋਂ ਬਿਨਾਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਇੰਸਟਾਲ ਕਰ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ।"</item>
+        <item>ਤੁਸੀਂ ਦੂਰ-ਦੁਰਾਡੇ ਤੋਂ ਆਪਣੀ ਸਕ੍ਰੀਨ ਦੀ ਸਮੱਗਰੀ ਦੀ ਨਿਗਰਾਨੀ ਅਤੇ ਰਿਕਾਰਡ ਕਰ ਸਕੋਗੇ।</item>
+        <item>ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੇ ਬਾਰੇ ਵੇਰਵੇਪੂਰਨ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ ਕੀਤੀ ਜਾ ਸਕੇਗੀ।</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>ਲਘੁਤਮ</item>
+        <item>ਘੱਟ</item>
+        <item>ਨਿਯਮਕ</item>
+        <item>ਉੱਚ</item>
+        <item>ਸਿਖਰ</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>ਜਦੋਂ ਡੀਵਾਈਸ ਲਾਕ ਕੀਤੀ ਗਈ ਹੋਵੇ</item>
+        <item>ਜਦੋਂ ਡੀਵਾਈਸ ਲਾਕ ਹੋਵੇ ਜਾਂ ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਣ ਤੋਂ ਬਾਅਦ</item>
+        <item>ਜਦੋਂ ਡੀਵਾਈਸ ਲਾਕ ਹੋਵੇ ਜਾਂ ਐਪ ਤੋਂ ਬਾਹਰ ਨਿਕਲਣ ਤੋਂ 1 ਮਿੰਟ ਬਾਅਦ</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"ਮੋਬਾਈਲ ਵਰਤੋਂ "</item>
+        <item>"ਵਾਈ-ਫ਼ਾਈ ਵਰਤੋਂ "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>ਜ਼ਰੂਰੀ: ਕਈ ਸਿਸਟਮ ਐਪਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨਾ ਬੰਦ ਕਰ ਸਕਦੀਆਂ ਹਨ।</item>
+        <item>ਹੋ ਸਕਦਾ ਹੈ ਲਿਖਤ ਲੇਆਉਟ, ਖਾਤੇ ਅਤੇ ਸਮੱਗਰੀ ਸਹੀ ਢੰਗ ਨਾਲ ਡਿਸਪਲੇ ਨਾ ਕੀਤੀ ਜਾਵੇ।</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>ਚਿਤਾਵਨੀ ਦਿਖਾਓ</item>
+        <item>ਚਿਤਾਵਨੀ ਦੇ ਕੇ ਮੋਬਾਈਲ ਡਾਟਾ ਬੰਦ ਕਰੋ</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਤਰਜੀਹ ਦਿਓ</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ ਤਾਪਮਾਨ ਕੰਟਰੋਲ ਮੋਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ</item>
+        <item>ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਤਰਜੀਹ ਦਿੱਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>ਆਪਣੇ ਲਿਖਤ ਸੁਨੇਹਿਆਂ ਦੀ ਸਮੱਗਰੀ ਅਤੇ ਹੋਰ ਆਈਟਮਾਂ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ ਸਮੇਤ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹੋ</item>
+        <item>ਕੁਝ ਐਪਾਂ ਲਈ ਸੂਚਨਾ ਮਨਜ਼ੂਰੀਆਂ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰੋ</item>
+        <item>ਟੈਪਿੰਗ ਸੂਚਨਾਵਾਂ ਸਿਮੁਲੇਟ ਕਰੋ ਅਤੇ ਐਪਾਂ ਖੋਲ੍ਹੋ</item>
+        <item>DND ਮੋਡ ਚਾਲੂ ਅਤੇ ਬੰਦ ਕਰੋ</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>ਇਹ ਜਾਣ ਕੇ ਕਿ ਤੁਸੀਂ ਕਿਹੜੀਆਂ ਐਪਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ ਅਤੇ ਉਹਨਾਂ ਦੀ ਵਰਤੋਂ ਤੁਸੀਂ ਕਿੰਨੀ ਵਾਰ ਕਰਦੇ ਹੋ, ਆਪਣੀਆਂ ਲੋੜਾਂ ਅਤੇ ਵਿਹਾਰ ਨਾਲ ਸੰਬੰਧਿਤ ਡਾਟਾ ਇਕੱਤਰ ਕਰੋ</item>
+        <item>ਆਪਣੇ ਮੋਬਾਈਲ ਓਫਰੇਟਰ ਨਾਲ ਸੰਬੰਧਿਤ ਅਤੇ ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ, ਨਾਲ ਹੀ ਹੋਰ ਵੇਰਵਿਆਂ ਤੱਕ ਪਹੁੰਚ ਕਰੋ</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>ਤੀਜੀ ਧਿਰ ਦੀਆਂ ਉਹ ਐਪਾਂ ਜਿਨ੍ਹਾਂ ਦੀ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ, ਕਈ ਸਮੱਸਿਆਵਾਂ ਪੈਦਾ ਕਰ ਸਕਦੀਆਂ ਹਨ ਅਤੇ ਸਿਸਟਮ ਸਥਿਰਤਾ ਘਟਾ ਸਕਦੀਆਂ ਹਨ।</item>
+        <item>ਕੁਝ ਤੀਜੀ ਧਿਰ ਦੀਆਂ ਐਪਾਂ ਵਿੱਚ ਮਾਲਵੇਅਰ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹਨ ਜੋ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਜੋਖ਼ਮ ਵਿੱਚ ਪਾ ਸਕਦੇ ਹਨ।</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ</item>
+        <item>ਬਾਹਰਲੀ ਸਟੋਰੇਜ਼</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ਹਮੇਸ਼ਾਂ</item>
+        <item>ਸਿਰਫ਼ ਅੱਪਵਾਦਾਂ ਲਈ</item>
+        <item>ਕਦੇ ਵੀ ਨਹੀਂ</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ਡਾਟਾ ਵਰਤੋਂ</item>
+        <item>ਫ਼ੋਨ ਬੈਲੈਂਸ</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>ਐਪ ਨਾਂ ਅਨੁਸਾਰ ਛਾਂਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+        <item>ਸਭ ਤੋਂ ਹਾਲੀਆ ਵਰਤੀਆਂ ਅਨੁਸਾਰ ਛਾਂਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+        <item>ਵਰਤੀ ਗਈ ਸਟੋਰੇਜ ਅਨੁਸਾਰ ਛਾਂਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+        <item>ਇੰਸਟਾਲੇਸ਼ਨ ਸਮੇਂ ਅਨੁਸਾਰ ਛਾਂਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>ਐਪ ਦਾ ਨਾਂ</item>
+        <item>ਹਾਲ ਹੀ ਵਿੱਚ ਵਰਤਿਆ ਗਿਆ</item>
+        <item>ਵਰਤੀ ਗਈ ਸਟੋਰੇਜ</item>
+        <item>ਇੰਸਟਾਲੇਸ਼ਨ ਸਮਾਂ</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>ਬੰਦ ਕਰੋ ਅਤੇ ਸੂਚਨਾ ਦਿਓ</item>
+        <item>ਸਿਰਫ਼ ਸੂਚਨਾ ਦਿਓ</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ਇੰਸਟਾਲੇਸ਼ਨ ਸਰੋਤ</item>
+        <item>ਇੰਸਟਾਲੇਸ਼ਨ ਸਮਾਂ</item>
+        <item>ਅਖੀਰਲਾ ਅੱਪਡੇਟ ਸਰੋਤ</item>
+        <item>ਅਖੀਰਲਾ ਅੱਪਡੇਟ ਸਮਾਂ</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>ਮਹੀਨਾਵਾਰ ਡਾਟਾ ਪਲਾਨ</item>
+        <item>ਰੋਜ਼ਾਨਾ ਡਾਟਾ ਪਲਾਨ</item>
+        <item>ਅਸੀਮਤ ਡਾਟਾ ਪਲਾਨ</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"ਮੋਬਾਈਲ ਡਾਟਾ ਵਰਤੋਂ "</item>
+        <item>"ਵਾਈ-ਫ਼ਾਈ ਵਰਤੋਂ "</item>
+    </string-array>
+</resources>

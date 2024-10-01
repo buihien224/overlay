@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>Isto é contido recomendado.</item>
-        <item>Isto e un anuncio.</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Activo"</item>
+        <item>" | Activo (multimedia)"</item>
+        <item>" | Activo (teléfono)"</item>
     </string-array>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">1 tund tagasi</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 tund tagasi</item>
-        <item quantity="one">1 tund tagasi</item>
+        <item quantity="other">%d tundi tagasi</item>
+        <item quantity="one">%d tund tagasi</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pool tundi tagasi</item>
         <item quantity="one">Pool tundi tagasi</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 tunni pärast</item>
-        <item quantity="one">1 tunni pärast</item>
+        <item quantity="other">%d tunni pärast</item>
+        <item quantity="one">%d tunni pärast</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Poole tunni pärast</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d minuti pärast</item>
-        <item quantity="one">1 minuti pärast</item>
+        <item quantity="one">%d minuti pärast</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just nüüd</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutit tagasi</item>
-        <item quantity="one">1 minut tagasi</item>
+        <item quantity="one">%d minut tagasi</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Ärge kunagi keelake %d rakenduse jaoks</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Piirati rakenduste %s ühendust</item>
         <item quantity="one">Piirati rakenduse %s ühendus</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Wait for %d secs and try again</item>
+        <item quantity="one">Wait for %d sec and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d inimest ühendatud</item>
@@ -132,6 +136,10 @@
         <item quantity="other">Oota %d sekundit ja proovi uuesti.</item>
         <item quantity="one">Oota %d sekund ja proovi uuesti.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Kõige rohkem %d protsessi</item>
+        <item quantity="one">Kõige rohkem %d protsess</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d lisatud</item>
         <item quantity="one">%d lisatud</item>
@@ -143,6 +151,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d üksuseid kustutatud</item>
         <item quantity="one">%d üksus kustutatud</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Muudatused rakendatakse %d sekundi pärast</item>
+        <item quantity="one">Muudatused rakendatakse %d sekundi pärast</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutit tagasi</item>
@@ -156,8 +168,12 @@
         <item quantity="other">Te olete %1$d sammu kaugusel CIT’i sisenemisest.</item>
         <item quantity="one">Te olete %1$d sammu kaugusel CIT’i sisenemisest.</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Sul on arendajaks saamiseni jäänud %1$d sammu.</item>
+        <item quantity="one">Sul on arendajaks saamiseni jäänud %1$d samm.</item>
+    </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Olete seadme info avamisest %1$d sammu kaugusel.</item>
+        <item quantity="other">"You're %1$d steps away from opening device info."</item>
         <item quantity="one">Olete seadme info avamisest %1$d sammu kaugusel.</item>
     </plurals>
     <plurals name="show_rep_countdown">
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d rakendust saab teavitusi näidata</item>
         <item quantity="one">%d rakendus saab teavitusi näidata</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Pärast %d minutit</item>
+        <item quantity="one">Pärast %d minutit</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bitti/näidis</item>
+        <item quantity="one">%d bitt/näidis</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minutit</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d sekundit</item>
+        <item quantity="one">%d sekund</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Saate märguande alati, kui üks teie kõrvaklappidest on kauem kui %d minutit kõrvast või laadimiskarbist eemal</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Jagatud %d võrgud</item>
         <item quantity="one">Jagatud %d võrk</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d seade ühendatud</item>
-        <item quantity="one">%1$d seade ühendatud</item>
     </plurals>
 </resources>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Behin</item>
+        <item>Egunero</item>
+        <item>Lanegun legalak</item>
+        <item>Asteko egunak</item>
+        <item>Pertsonalizatua</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Behin</item>
+        <item>Egunero</item>
+        <item>Asteko egunak</item>
+        <item>Pertsonalizatua</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Erregistro guztiak</item>
+        <item>Pizte-automatikoa</item>
+        <item>Kate hasiera</item>
+        <item>Baimenak erabiltzen</item>
+        <item>Ekintza sentikorrak</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Patroia</item>
+        <item>PIN-a</item>
+        <item>Pasahitza</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Neurria</item>
+        <item>Izena</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Hileko plana</item>
+        <item>Mugarik gabe</item>
+        <item>Eguneroko plana</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Pertsonalizatua</item>
+        <item>Xiaomi Fan txartela</item>
+        <item>Xiao Tiansheng txartela</item>
+        <item>Tencent King txartela</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Pertsonalizatua</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan txartela</item>
+        <item>Tianshen txartela</item>
+        <item>Tencent txartela</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Atzo (datu mugikorrak) "</item>
+        <item>"Gaur (datu mugikorrak) "</item>
+        <item>"Aurreko hilabetea (datu mugikorrak) "</item>
+        <item>"Hilabete hau (datu mugikorrak) "</item>
+        <item>"Atzo (wifia) "</item>
+        <item>"Gaur (wifia) "</item>
+        <item>"Aurreko hilabetea (wifia) "</item>
+        <item>"Hilabete hau (wifia) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Atzo "</item>
+        <item>"Gaur "</item>
+        <item>"Aurreko hilabetea "</item>
+        <item>"Hilabete hau "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Aste hau "</item>
+        <item>"Gaur "</item>
+        <item>"Hilabete hau "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Atzo: "</item>
+        <item>"Gaur: "</item>
+        <item>"Aurreko hilabetea: "</item>
+        <item>"Hilabete hau: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Aste hau: "</item>
+        <item>"Gaur: "</item>
+        <item>"Hilabete hau: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Fitxategiak gailuan atzitu eta editatu ahal izango dira ordenagailu bat erabiliz.</item>
+        <item>Aplikazioak gailuan instalatzeko aukera emango da, zure baimen espliziturik gabe.</item>
+        <item>Pantailako edukia urrutik kontrolatzeko eta grabatzeko aukera izango duzu.</item>
+        <item>Zure gailuari buruzko informazio zehatza atzitu ahal izango da.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Baxuena</item>
+        <item>Baxua</item>
+        <item>Arrunta</item>
+        <item>Altua</item>
+        <item>Altuena</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Gailua blokeatuta dagoenean</item>
+        <item>Gailua blokeatuta dagoenean edota aplikaziotik irtendakoan</item>
+        <item>Gailua blokeatuta dagoenean {zwsp} edota aplikaziotik irten eta minutu batera</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mugikorraren erabilera "</item>
+        <item>"Wifiaren erabilera "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Garrantzitsua: baliteke hainbat sistema aplikaziok behar bezala funtzionatzeari uztea.</item>
+        <item>Baliteke testu diseinuak, kontuak eta edukia ondo ez erakustea.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Erakutsi abisua</item>
+        <item>Abisatu eta itzali datu mugikorrak</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Lehenetsia</item>
+        <item>Lehentasuna eman errendimenduari</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Tenperatura kontrol modu lehenetsia erabiltzen</item>
+        <item>Errendimenduari lehentasuna ematen</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Irakurri jakinarazpen guztiak, informazio pertsonala eduki dezaketen testu mezuen eta beste elementu batzuen edukia barne.</item>
+        <item>Murriztu jakinarazpen baimenak aplikazio batzuetarako</item>
+        <item>Simulatu jakinarazpenak sakatzea eta aplikazioak irekitzea</item>
+        <item>Aktibatu eta desaktibatu Ez molestatu modua</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Bildu zure interesei eta portaerei buruzko datuak, zein aplikazio erabiltzen dituzun eta zein maiztasunarekin horiek erabiltzen dituzun ezagutuz</item>
+        <item>Atzitu zure operadorearekin lotutako ezarpenak eta hizkuntza ezarpenak, baita beste xehetasun batzuk ere</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Egiaztatu gabeko hirugarrenen aplikazioek hainbat arazo sortu eta sistemaren egonkortasuna murriztu ditzakete.</item>
+        <item>Hirrugarrenen aplikazio batzuek zure datu pertsonalak arriskuan jartzen dituen malwarea izan dezakete.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Barne biltegia</item>
+        <item>Kanpo biltegia</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Beti</item>
+        <item>Salbuespenetarako bakarrik</item>
+        <item>Inoiz ere ez</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Datu erabilera</item>
+        <item>Telefonoaren balantzea</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Aplikazioaren izenaren arabera sailkatzen</item>
+        <item>Azken aldiz erabilitakoaren arabera sailkatzen</item>
+        <item>Erabilitako memoriaren arabera sailkatzen</item>
+        <item>Instalazio dataren arabera sailkatzen</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>App izena</item>
+        <item>Duela gutxi erabilia</item>
+        <item>Erabilitako memoria</item>
+        <item>Instalazio denbora</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Itzali eta jakinarazi</item>
+        <item>Bakarrik jakinarazi</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Instalazioaren jatorria</item>
+        <item>Instalazio denbora</item>
+        <item>Azkeneko eguneratzearen jatorria</item>
+        <item>Azken eguneratzearen denbora</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Hilabeteroko datu-plana</item>
+        <item>Eguneroko datu-plana</item>
+        <item>Datu-plan mugagabea</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Datu mugikorren erabilera "</item>
+        <item>"Wifiaren erabilera "</item>
+    </string-array>
+</resources>

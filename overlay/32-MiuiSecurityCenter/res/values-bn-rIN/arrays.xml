@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>একবার</item>
+        <item>প্রতিদিন</item>
+        <item>আইনগত কাজের দিন</item>
+        <item>কর্মদিবস</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>একবার</item>
+        <item>প্রতিদিন</item>
+        <item>কর্মদিবস</item>
+        <item>কাস্টম</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>সমস্ত রেকর্ড</item>
+        <item>আপনাআপনি শুরু করুন</item>
+        <item>চেন স্টার্ট</item>
+        <item>অনুমতি ব্যবহার করা</item>
+        <item>সংবেদনশীল অ্যাকশন</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>প্যাটার্ণ</item>
+        <item>পিন</item>
+        <item>পাসওয়ার্ড</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>মাপ</item>
+        <item>নাম</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>মাসিক প্ল্যান</item>
+        <item>আনলিমিটেড</item>
+        <item>দৈনিক প্ল্যান</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>নিজের মতো</item>
+        <item>Xiaomi ফ্যান কার্ড</item>
+        <item>Xiao Tiansheng কার্ড</item>
+        <item>Tencent King কার্ড</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>নিজের মতো</item>
+        <item>Mi মোবাইল</item>
+        <item>Xiaomi ফ্যান কার্ড</item>
+        <item>Tianshen কার্ড</item>
+        <item>Tencent কার্ড</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"গতকাল (মোবাইল ডেটা) "</item>
+        <item>"আজকে (মোবাইল ডেটা) "</item>
+        <item>"গত মাসে (মোবাইল ডেটা) "</item>
+        <item>"এই মাসে (মোবাইল ডেটা) "</item>
+        <item>"গতকাল (ওয়াই-ফাই) "</item>
+        <item>"আজকে (ওয়াই-ফাই) "</item>
+        <item>"গত মাসে (ওয়াই-ফাই) "</item>
+        <item>"এই মাসে (ওয়াই-ফাই) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"গতকাল "</item>
+        <item>"আজকে "</item>
+        <item>"গত মাসে "</item>
+        <item>"এই মাসে "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"এই সপ্তাহে "</item>
+        <item>"আজকে "</item>
+        <item>"এই মাসে "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"গতকাল "</item>
+        <item>"আজকে: "</item>
+        <item>"গত মাসে: "</item>
+        <item>"এই মাসে: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"এই সপ্তাহে: "</item>
+        <item>"আজকে: "</item>
+        <item>"এই মাসে: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>একটি কম্পিউটার ব্যবহার করে আপনার ডিভাইসে ফাইল অ্যাকসেস ও এডিট করা সম্ভব হবে</item>
+        <item>আপনার স্পষ্ট অনুমতি ছাড়া ডিভাইসে অ্যাপ ইনস্টল করার অনুমতি আছে</item>
+        <item>আপনি দূর থেকে আপনার স্ক্রিনেক কনটেন্ট দেখতে ও রেকর্ড করতে পারবেন।</item>
+        <item>আপনার জিভাইস সম্বন্ধে বিস্তারে তথ্য অ্যাকসেস করা সম্ভব হবে।</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>সর্বনিম্ন</item>
+        <item>কম</item>
+        <item>সাধারণ</item>
+        <item>উচ্চ</item>
+        <item>সর্বোচ্চ</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>যখন ডিভাইস লক করা আছে</item>
+        <item>যখন ডিভাইস লক করা বা অ্যাপ থেকে বেরোনোর পর</item>
+        <item>যখন ডিভাইস লক করা বা অ্যাপ থেকে বেরোনোর ১ মিনিট পর</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"মোবাইল ব্যবহার "</item>
+        <item>"ওয়াই-ফাই ব্যবহার "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>গুরুত্বপূর্ণ: একাধিক সিস্টেম অ্যাপ্স ঠিক মত কাজ করা বন্ধ করে দিতে পারে।</item>
+        <item>টেকস্ট লেআউট, অ্যাকাউন্ট এবং কনটেন্ট ঠিক মত ডিসপ্লে নাও হতে পারে।</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>সতর্কতা দেখান</item>
+        <item>মোবাইল ডেটা বন্ধ করুন</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ডিফল্ট</item>
+        <item>কার্য সম্পাদনা অগ্রাধিকার</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>ডিফল্ট তাপমাত্রা নিয়ন্ত্রণ মোড ব্যবহার করা</item>
+        <item>কার্য সম্পাদনা অগ্রাধিকার</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>টেকস্ট মেসেজ এবং অন্য আইটেম যাতে ব্যক্তিগত তথ্য থাকতে পারে সহ সব বিজ্ঞপ্তি পড়ুন।</item>
+        <item>কিছু অ্যাপের জন্য বিজ্ঞপ্তি অনুমতি আটকে দিন</item>
+        <item>ট্যাপিং বিজ্ঞপ্তি এবং খোলা অ্যাপ সিমুলেট করুন</item>
+        <item>DND মোড চালু এবং বন্ধ</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>আপনি কোন অ্যাপ কত ঘন ঘন ব্যবহার করেন সেই বিষয়ে আপনার পছন্দ এবং ব্যবহার সম্বন্ধে ডেটা সংগ্রহ করে</item>
+        <item>আপনার কেরিয়ার-সম্পর্কিত এবং ভাষা সেটিংস অ্যাকসেস করুন, সাথে অন্য বিবরণও</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>তৃতীয় পক্ষের অ্যাপ যা যাচাই করা হয় না,একাধিক সমস্যার কারণ হতে পারে এবং সিস্টেম স্ট্যাবিলিটি কমিয়ে দিতে পারে।</item>
+        <item>কিছু তৃতীয় পক্ষের অ্যাপ্সে ম্যালওয়ার থাকতে পারে যা আপনার ব্যক্তিগত ডেটার জন্য বিপদের ঝুঁকি বাড়াতে পারে।</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>অভ্যন্তরীণ সঞ্চয়স্থান</item>
+        <item>বাহ্যিক সঞ্চয়স্থান</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>সবসময়</item>
+        <item>শুধু ব্যতিক্রমের জন্য</item>
+        <item>কখনই নয়</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ডেটার ব্যবহার</item>
+        <item>ফোন ব্যালেন্স</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>অ্যাপ নাম অনুসারে বাছাই করুন</item>
+        <item>ব্যবহৃত ফ্রিকুয়েন্সি অনুযায়ী বাছাই করুন</item>
+        <item>ব্যবহৃত সঞ্চয়স্থান অনুযায়ী বাছাই করুন</item>
+        <item>ইনস্টলেশান সময় অনুযায়ী বাছাই করুন</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>অ্যাপের নাম</item>
+        <item>সম্প্রতি ব্যবহার করা হয়েছে</item>
+        <item>স্টোরেজ ব্যবহার করা হয়েছে</item>
+        <item>ইনস্টলেশান সময়</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>বন্ধ করুন ও বিজ্ঞপ্তি পাঠান</item>
+        <item>শুধু বিজ্ঞপ্তি পাঠান</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ইনস্টলেশান উৎস</item>
+        <item>ইনস্টলেশান সময়</item>
+        <item>শেষ আপডেটের উৎস</item>
+        <item>শেষ আপডেটের সময়</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>মাসিক ডেটা প্ল্যান</item>
+        <item>দৈনিক ডেটা প্ল্যান</item>
+        <item>আনলিমিটেড ডাটা প্ল্যান</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"মোবাইল ডেটা ব্যবহার "</item>
+        <item>"ওয়াই-ফাই ব্যবহার "</item>
+    </string-array>
+</resources>

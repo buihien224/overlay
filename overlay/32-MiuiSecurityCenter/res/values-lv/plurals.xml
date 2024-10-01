@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pirms 1 stundas</item>
+        <item quantity="zero">Pirms 1 stundas</item>
+        <item quantity="one">Pirms 1 stundas</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pirms %d stundām</item>
+        <item quantity="zero">Pirms %d stundām</item>
+        <item quantity="one">Pirms %d stundas</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Pēc %d stundām</item>
+        <item quantity="zero">Pēc %d stundām</item>
+        <item quantity="one">Pēc %d stundas</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Pēc %d min</item>
+        <item quantity="zero">Pēc %d min</item>
+        <item quantity="one">Pēc %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pirms %d min.</item>
+        <item quantity="zero">Pirms %d min.</item>
+        <item quantity="one">Pirms %d min.</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Pievienotas %d spēles</item>
+        <item quantity="zero">Pievienotas %d spēles</item>
+        <item quantity="one">Pievienota %d spēle</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Pievienotas %d lietotnes</item>
+        <item quantity="zero">Pievienotas %d lietotnes</item>
+        <item quantity="one">Pievienota %d lietotne</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Atļauts %3$d reizes starp %1$s un %2$s</item>
+        <item quantity="zero">Atļauts %3$d reizes starp %1$s un %2$s</item>
+        <item quantity="one">Atļauts %3$d reizes starp %1$s un %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Izmantots %1$d minūtes</item>
+        <item quantity="zero">Izmantots %1$d minūtes</item>
+        <item quantity="one">Izmantots %1$d minūti</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Izmantots %1$d minūtes līdz %2$s</item>
+        <item quantity="zero">Izmantots %1$d minūtes līdz %2$s</item>
+        <item quantity="one">Izmantots %1$d minūti līdz %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Lietotņu uzvedības ieraksti tiks glabāti šajā ierīcē %d dienas. Izslēdzot šo funkciju, tiks dzēsti visi lietotņu uzvedības ieraksti, un tas nav ieteicams.</item>
+        <item quantity="zero">Lietotņu uzvedības ieraksti tiks glabāti šajā ierīcē %d dienas. Izslēdzot šo funkciju, tiks dzēsti visi lietotņu uzvedības ieraksti, un tas nav ieteicams.</item>
+        <item quantity="one">Lietotņu uzvedības ieraksti tiks glabāti šajā ierīcē %d dienu. Izslēdzot šo funkciju, tiks dzēsti visi lietotņu uzvedības ieraksti, un tas nav ieteicams.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Atļautas %d atļaujas</item>
+        <item quantity="zero">Atļautas %d atļaujas</item>
+        <item quantity="one">Atļauta %d atļauja</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Lūgt %d atļaujas</item>
+        <item quantity="zero">Lūgt %d atļaujas</item>
+        <item quantity="one">Lūgt %d atļauju</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d reize</item>
+        <item quantity="zero">%d reize</item>
+        <item quantity="one">%d reize</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Atinstalēt %d lietotnes</item>
+        <item quantity="zero">Atinstalēt %d lietotnes</item>
+        <item quantity="one">Atinstalēt %d lietotni</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Atjaunināt %d lietotnes</item>
+        <item quantity="zero">Atjaunināt %d lietotnes</item>
+        <item quantity="one">Atjaunināt %d lietotni</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Lietots pirms %d dienām</item>
+        <item quantity="zero">Lietots pirms %d dienām</item>
+        <item quantity="one">Lietots pirms %d dienas</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Lietots pirms %d mēnešiem</item>
+        <item quantity="zero">Lietots pirms %d mēnešiem</item>
+        <item quantity="one">Lietots pirms %d mēneša</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Lietots pirms %d gadiem</item>
+        <item quantity="zero">Lietots pirms %d gadiem</item>
+        <item quantity="one">Lietots pirms %d gada</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Lietotņu bloķēšanu var izmantot %1$s lietotnēs</item>
+        <item quantity="zero">Lietotņu bloķēšanu var izmantot %1$s lietotnēs</item>
+        <item quantity="one">Lietotņu bloķēšanu var izmantot %1$s lietotnē</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Jūs varat aizsargāt vismaz %s lietotnes</item>
+        <item quantity="zero">Jūs varat aizsargāt vismaz %s lietotnes</item>
+        <item quantity="one">Jūs varat aizsargāt vismaz %s lietotni</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s lietotnes tiks aizsargātas ar Lietotņu bloķēšanu</item>
+        <item quantity="zero">%s lietotnes tiks aizsargātas ar Lietotņu bloķēšanu</item>
+        <item quantity="one">%s lietotne tiks aizsargāta ar Lietotņu bloķēšanu</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d lietotnes ieskaitot %1$s</item>
+        <item quantity="zero">%2$d lietotnes ieskaitot %1$s</item>
+        <item quantity="one">%2$d lietotne ieskaitot %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d reizes</item>
+        <item quantity="zero">%d reizes</item>
+        <item quantity="one">%d reize</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d lietotnes var pieslēgties tīklam fonā</item>
+        <item quantity="zero">%d lietotnes var pieslēgties tīklam fonā</item>
+        <item quantity="one">%d lietotne var pieslēgties tīklam fonā</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d lietotne nevar izveidot savienojumu ar tīklu fonā</item>
+        <item quantity="zero">%d lietotne nevar izveidot savienojumu ar tīklu fonā</item>
+        <item quantity="one">%d lietotne nevar pieslēgties tīklam fonā</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">Aizsargā %d lietotnes</item>
+        <item quantity="zero">Aizsargā %d lietotnes</item>
+        <item quantity="one">Aizsargā %d lietotni</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Jūs varat atinstalēt &lt;font color=#F22424>%d&lt;/font> lietotnes&lt;/Data></item>
+        <item quantity="zero">&lt;Data>Jūs varat atinstalēt &lt;font color=#F22424>%d&lt;/font> lietotnes&lt;/Data></item>
+        <item quantity="one">&lt;Data>Jūs varat atinstalēt &lt;font color=#F22424>%d&lt;/font> lietotni&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Jūs jau esat izmantojis %s ikdienas datu ierobežojumus.
+
+Ja atkal ieslēgsiet mobilos datus, jūsu operators var jums piemērot maksu par papildus datiem."</item>
+        <item quantity="zero">"Jūs jau esat izmantojis %s ikdienas datu ierobežojumus.
+
+Ja atkal ieslēgsiet mobilos datus, jūsu operators var jums piemērot maksu par papildus datiem."</item>
+        <item quantity="one">"Jūs jau esat izmantojis %s ikdienas datu ierobežojumu.
+
+Ja atkal ieslēgsiet mobilos datus, jūsu operators var jums piemērot maksu par papildus datiem."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Jūs jau esat izmantojis %s ikdienas datu ierobežojumus.</item>
+        <item quantity="zero">Jūs jau esat izmantojis %s ikdienas datu ierobežojumus.</item>
+        <item quantity="one">Jūs jau esat izmantojis %s ikdienas datu ierobežojumu.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Pēc %1$d minūtēm</item>
+        <item quantity="zero">Pēc %1$d minūtēm</item>
+        <item quantity="one">Pēc %1$d minūtes</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Jūsu ierīces veiktspējas rādītājs ir zemāks par %d punktiem. Vai optimizēt?</item>
+        <item quantity="zero">Jūsu ierīces veiktspējas rādītājs ir zemāks par %d punktu. Vai optimizēt?</item>
+        <item quantity="one">Jūsu ierīces veiktspējas rādītājs ir zemāks par %d punktu. Vai optimizēt?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Pārtīt uz priekšu par %d sekundēm</item>
+        <item quantity="zero">Pārtīt uz priekšu par %d sekundēm</item>
+        <item quantity="one">Pārtīt uz priekšu par %d sekundi</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Attīt atpakaļ par %d sekundēm</item>
+        <item quantity="zero">Attīt atpakaļ par %d sekundēm</item>
+        <item quantity="one">Attīt atpakaļ par %d sekundi</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s st.</item>
+        <item quantity="zero">%s st.</item>
+        <item quantity="one">%s st.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="zero">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Meklēt starp %d lietotnēm</item>
+        <item quantity="zero">Meklēt starp %d lietotnēm</item>
+        <item quantity="one">Meklēt starp %d lietotni</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">Ar %d konfidencialitāti saistīti riski</item>
+        <item quantity="zero">Ar %d konfidencialitāti saistīti riski</item>
+        <item quantity="one">Ar %d konfidencialitāti saistīts risks</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problēmas prasa optimizāciju</item>
+        <item quantity="zero">%1$d problēmas prasa optimizāciju</item>
+        <item quantity="one">%1$d problēma prasa optimizāciju</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d lietotnes atrastas</item>
+        <item quantity="zero">%d lietotnes atrastas</item>
+        <item quantity="one">%d lietotne atrasta</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d iespējas</item>
+        <item quantity="zero">%d iespējas</item>
+        <item quantity="one">%d iespēja</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d zvani no %2$s un citiem</item>
+        <item quantity="zero">%1$d zvani no %2$s un citiem</item>
+        <item quantity="one">%1$d zvans no %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d zvani no %2$s un citiem</item>
+        <item quantity="zero">%1$d zvani no %2$s un citiem</item>
+        <item quantity="one">%1$d zvans no %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d ziņas</item>
+        <item quantity="zero">%d ziņas</item>
+        <item quantity="one">%d ziņa</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="zero">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienām.</item>
+        <item quantity="zero">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienām.</item>
+        <item quantity="one">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienas.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienām. Atjaunojiet tagad, lai baudītu spēles bez pārtraukuma.</item>
+        <item quantity="zero">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienām. Atjaunojiet tagad, lai baudītu spēles bez pārtraukuma.</item>
+        <item quantity="one">Jūsu Game Turbo dalības termiņš beigsies pēc %d dienas. Atjaunojiet tagad, lai baudītu spēles bez pārtraukuma.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d cilvēki spēlē</item>
+        <item quantity="zero">%1$d cilvēki spēlē</item>
+        <item quantity="one">%1$d cilvēks spēlē</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d cilvēki spēlē</item>
+        <item quantity="zero">%1$d cilvēki spēlē</item>
+        <item quantity="one">%1$d cilvēks spēlē</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Atnistalēt %2$d spēles (ieskaitot %1$s)</item>
+        <item quantity="zero">Atnistalēt %2$d spēles (ieskaitot %1$s)</item>
+        <item quantity="one">Atnistalēt %2$d spēli (ieskaitot %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Ierakstiet galvenos momentus automātiski un ģenerējiet video ar izceltām sesijām. Jūs varat izvēlēties saglabāt tos pastāvīgi pēc katras spēļu sesijas. Nesaglabātie video tiks automātiski izdzēsti pēc %1$d dienām.</item>
+        <item quantity="zero">Ierakstiet galvenos momentus automātiski un ģenerējiet video ar izceltām sesijām. Jūs varat izvēlēties saglabāt tos pastāvīgi pēc katras spēļu sesijas. Nesaglabātie video tiks automātiski izdzēsti pēc %1$d dienām.</item>
+        <item quantity="one">Ierakstiet galvenos momentus automātiski un ģenerējiet video ar izceltām sesijām. Jūs varat izvēlēties saglabāt tos pastāvīgi pēc katras spēļu sesijas. Nesaglabātie video tiks automātiski izdzēsti pēc %1$d dienas.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Saglabāti %d Al ieraksti uz Game Turbo</item>
+        <item quantity="zero">Saglabāti %d Al ieraksti uz Game Turbo</item>
+        <item quantity="one">Saglabāts %d Al ieraksts uz Game Turbo</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d sek.</item>
+        <item quantity="zero">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Atzīmējāties %d dienas pēc kārtas</item>
+        <item quantity="zero">Atzīmējāties %d dienas pēc kārtas</item>
+        <item quantity="one">Atzīmējāties %d reizi</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d st.</item>
+        <item quantity="zero">%d st.</item>
+        <item quantity="one">%d st.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min.</item>
+        <item quantity="zero">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Sapratu (%ds)</item>
+        <item quantity="zero">Sapratu (%ds)</item>
+        <item quantity="one">Sapratu (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Piezīme.
+·Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+·Viedais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīti vismaz %d kadri sekundē."</item>
+        <item quantity="zero">"Piezīme.
+·Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+·Viedais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīti vismaz %d kadri sekundē."</item>
+        <item quantity="one">"Piezīme.
+·Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+·Viedais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīts vismaz %d kadrs sekundē."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Piezīme.
+· Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+· Uzlabotais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīts vismaz %d kadrus sekundē."</item>
+        <item quantity="zero">"Piezīme.
+· Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+· Uzlabotais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīts vismaz %d kadrus sekundē."</item>
+        <item quantity="one">"Piezīme.
+· Uzlabotie vizuālie materiāli nebūs pieejami, ja ir ieslēgts baterijas jaudas taupīšanas režīms vai ierīce ir pārkarsusi.
+· Uzlabotais kadru nomaiņas ātrums parāda labākos rezultātus, ja spēle ir iestatīta tā, lai tiktu rādīts vismaz %d kadru sekundē."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Izmēģiniet Balss pārveidotāju tagad!
+iegūstiet %d-dienu bezmaksas izmēģinājumu!"</item>
+        <item quantity="zero">"Izmēģiniet Balss pārveidotāju tagad!
+iegūstiet %d- dienu bezmaksas izmēģinājumu!"</item>
+        <item quantity="one">"Izmēģiniet Balss pārveidotāju tagad!
+iegūstiet %d-dienas bezmaksas izmēģinājumu!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">Neizdevās saņemt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="zero">Neizdevās saņemt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="one">Neizdevās saņemt %d dienas bezmaksas izmēģinājumu</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Veiksmīgi saņēma %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="zero">Veiksmīgi saņēma %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="one">Veiksmīgi saņēma %d dienas bezmaksas izmēģinājumu</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Iegūt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="zero">Iegūt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="one">Iegūt %d dienas bezmaksas izmēģinājumu</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Jūsu abonementa derīgums ir beidzies.
+Jūs varat iegūt %d dienu bezmaksas izmēģinājumu tagad!"</item>
+        <item quantity="zero">"Jūsu abonementa derīgums ir beidzies.
+Jūs varat iegūt %d-dienu bezmaksas izmēģinājumu tagad!"</item>
+        <item quantity="one">"Jūsu abonementa derīgums ir beidzies.
+Jūs varat iegūt %d-dienas bezmaksas izmēģinājumu tagad!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Iegūt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="zero">Iegūt %d dienu bezmaksas izmēģinājumu</item>
+        <item quantity="one">Iegūt %d dienas bezmaksas izmēģinājumu</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Pievienot līdz %d lietotnēm. Nospiediet un turiet, lai pārkārtotu.</item>
+        <item quantity="zero">Pievienot līdz %d lietotnēm. Nospiediet un turiet, lai pārkārtotu.</item>
+        <item quantity="one">Pievienot līdz %d lietotnei. Nospiediet un turiet, lai pārkārtotu.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Šī funkcija automātiski samazina ekrāna spilgtumu pēc %d neaktivitātes minūtēm, lai automātiski saglabātu enerģiju. Vai saglabāt šo funkciju ieslēgtu?</item>
+        <item quantity="zero">Šī funkcija automātiski samazina ekrāna spilgtumu pēc %d neaktivitātes minūtēm, lai automātiski saglabātu enerģiju. Vai saglabāt šo funkciju ieslēgtu?</item>
+        <item quantity="one">Šī funkcija automātiski samazina ekrāna spilgtumu pēc %d neaktivitātes minūtes, lai automātiski saglabātu enerģiju. Vai saglabāt šo funkciju ieslēgtu?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Automātiski samazināt ekrāna spilgtumu, lai saglabātu enerģiju pēc %d neaktivitātes minūtēm</item>
+        <item quantity="zero">Automātiski samazināt ekrāna spilgtumu, lai saglabātu enerģiju pēc %d neaktivitātes minūtēm</item>
+        <item quantity="one">Automātiski samazināt ekrāna spilgtumu, lai saglabātu enerģiju pēc %d neaktivitātes minūtes</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="zero">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pirms pusstundas</item>
+        <item quantity="zero">Pirms pusstundas</item>
+        <item quantity="one">Pirms pusstundas</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">   + %1$d vairāk zīmju</item>
+        <item quantity="zero">   + %1$d vairāk zīmju</item>
+        <item quantity="one">   + %1$d vairāk zīmes</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d atļaujas</item>
+        <item quantity="zero">%d atļaujas</item>
+        <item quantity="one">%d atļauja</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d lietotnēm atļauta automātiskā palaišana</item>
+        <item quantity="zero">%d lietotnēm atļauta automātiskā palaišana</item>
+        <item quantity="one">%d lietotnei atļauta automātiskā palaišana</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d lietotnēm nav atļauts startēt fonā</item>
+        <item quantity="zero">%d lietotnēm nav atļauts startēt fonā</item>
+        <item quantity="one">%d lietotnei nav atļauts startēt fonā</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d lietotnes var sākties automātiski</item>
+        <item quantity="zero">%d lietotnes var sākties automātiski</item>
+        <item quantity="one">%d lietotne var sākties automātiski</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d lietotnes var palaist fonā</item>
+        <item quantity="zero">%d lietotnes var palaist fonā</item>
+        <item quantity="one">%d lietotni var palaist fonā</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d lietotnēm nav saknes piekļuves</item>
+        <item quantity="zero">%d lietotnēm nav saknes piekļuves</item>
+        <item quantity="one">%d lietotnei nav saknes piekļuves</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d lietotnēm ir saknes piekļuve</item>
+        <item quantity="zero">%d lietotnēm ir saknes piekļuve</item>
+        <item quantity="one">%d lietotnei ir saknes piekļuve</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d riski,</item>
+        <item quantity="zero">%d riski,</item>
+        <item quantity="one">%d risks,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d Trojas zirgi</item>
+        <item quantity="zero">%d Trojas zirgi</item>
+        <item quantity="one">%d Trojas zirgs</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d lietotnes nevar lietot viesabonēšanas datus</item>
+        <item quantity="zero">%d lietotnes nevar lietot viesabonēšanas datus</item>
+        <item quantity="one">%d lietotne nevar lietot viesabonēšanas datus</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d lietotnes var lietot viesabonēšanas datus</item>
+        <item quantity="zero">%d lietotnes var lietot viesabonēšanas datus</item>
+        <item quantity="one">%d lietotne var lietot viesabonēšanas datus</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d lietotnes atrastas</item>
+        <item quantity="zero">%d lietotnes atrastas</item>
+        <item quantity="one">%d lietotne atrasta</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">Atrasti %d riski</item>
+        <item quantity="zero">Atrasti %d riski</item>
+        <item quantity="one">Atrasts %d risks</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Datu lietojums tiek uzraudzīts %d lietotnēm</item>
+        <item quantity="zero">Datu lietojums tiek uzraudzīts %d lietotnēm</item>
+        <item quantity="one">Datu lietojums tiek uzraudzīts %d lietotnei</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Datu lietojums netiek uzraudzīts %d lietotnēm</item>
+        <item quantity="zero">Datu lietojums netiek uzraudzīts %d lietotnēm</item>
+        <item quantity="one">Datu lietojums netiek uzraudzīts %d lietotnei</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Pēc 1 stundas</item>
+        <item quantity="zero">Pēc 1 stundas</item>
+        <item quantity="one">Pēc 1 stundas</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Pēc pusstundas</item>
+        <item quantity="zero">Pēc pusstundas</item>
+        <item quantity="one">Pēc pusstundas</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nekavējoties</item>
+        <item quantity="zero">Nekavējoties</item>
+        <item quantity="one">Nekavējoties</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="zero">pēc %d minūtēm</item>
+        <item quantity="one">pēc 1 minūtes</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Pievienotas %d spēles</item>
+        <item quantity="zero">Pievienotas %d spēles</item>
+        <item quantity="one">Pievienota %d spēle</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Jūs varat aizsargāt %d vienumus</item>
+        <item quantity="zero">Jūs varat aizsargāt %d vienumus</item>
+        <item quantity="one">Jūs varat aizsargāt %d vienumu</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s stundas</item>
+        <item quantity="zero">%s stundas</item>
+        <item quantity="one">%s stunda</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minūtes</item>
+        <item quantity="zero">%s minūtes</item>
+        <item quantity="one">%s minūte</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tikko</item>
+        <item quantity="zero">Tikko</item>
+        <item quantity="one">Tikko</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Savienojiet vismaz %d punktus</item>
+        <item quantity="zero">Savienojiet vismaz %d punktus</item>
+        <item quantity="one">Savienojiet vismaz %d punktu</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Savienojiet vismaz %s punktus</item>
+        <item quantity="zero">Savienojiet vismaz %s punktus</item>
+        <item quantity="one">Savienojiet vismaz %s punktu</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Pagaidiet %d sekundes un mēģiniet vēlreiz. "</item>
+        <item quantity="zero">"Pagaidiet %d sekundes un mēģiniet vēlreiz. "</item>
+        <item quantity="one">"Pagaidiet %d sekundi un mēģiniet vēlreiz. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d izņēmumi</item>
+        <item quantity="zero">%d izņēmumi</item>
+        <item quantity="one">%d izņēmums</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d citi lietotāji to atzīmēja kā</item>
+        <item quantity="zero">%d citi lietotāji to atzīmēja kā</item>
+        <item quantity="one">%d cits lietotājs to atzīmēja kā</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d ziņas vai zvani tika bloķēti</item>
+        <item quantity="zero">%d ziņas vai zvani tika bloķēti</item>
+        <item quantity="one">%d ziņa vai zvans tika bloķēts</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Ierīce nav skenēta %d dienas</item>
+        <item quantity="zero">Ierīce nav skenēta %d dienas</item>
+        <item quantity="one">Ierīce nav skenēta %d dienu</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d lietotnēm ir vīruss vai ļaunprātīga programmatūra</item>
+        <item quantity="zero">%d lietotnēm ir vīruss vai ļaunprātīga programmatūra</item>
+        <item quantity="one">%d lietotnei ir vīruss vai ļaunprātīga programmatūra</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">Pieejami %d atjauninājumi</item>
+        <item quantity="zero">Pieejami %d atjauninājumi</item>
+        <item quantity="one">Pieejams %d atjauninājums</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Izvēlēti %d vienumi</item>
+        <item quantity="zero">Izvēlēti %d vienumi</item>
+        <item quantity="one">Izvēlēts %d vienums</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Ievadiet vismaz %d rakstzīmes</item>
+        <item quantity="zero">Ievadiet vismaz %d rakstzīmes</item>
+        <item quantity="one">Ievadiet vismaz %d rakstzīmi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Jūsu tīkla ātruma palielināšanas sesija beigsies pēc %d dienām. Jūs varētu sākt piedzīvot tīkla kavēšanos. Vai atjaunot sesiju tagad?</item>
+        <item quantity="zero">Jūsu tīkla ātruma palielināšanas sesija beigsies pēc %d dienām. Jūs varētu sākt piedzīvot tīkla kavēšanos. Vai atjaunot sesiju tagad?</item>
+        <item quantity="one">Jūsu tīkla ātruma palielināšanas sesija beigsies pēc %d dienas. Jūs varētu sākt piedzīvot tīkla kavēšanos. Vai atjaunot sesiju tagad?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Tīkla piekļuve ir ierobežota &lt;font color='#ff0000'>%d&lt;/font> lietotnēm"</item>
+        <item quantity="zero">"Tīkla piekļuve ir ierobežota &lt;font color='#ff0000'>%d&lt;/font> lietotnēm"</item>
+        <item quantity="one">"Tīkla piekļuve ir ierobežota &lt;font color='#ff0000'>%d&lt;/font> lietotnei"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">Nav pievienotas %d lietotnes</item>
+        <item quantity="zero">Nav pievienotas %d lietotnes</item>
+        <item quantity="one">Nav pievienota %d lietotne</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dienas bez drošības pārbaudēm</item>
+        <item quantity="zero">%d dienas bez drošības pārbaudēm</item>
+        <item quantity="one">%d diena bez drošības pārbaudēm</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Pēdējo %1$d minūšu laikā iztērēts %2$d%% baterijas</item>
+        <item quantity="zero">Pēdējo %1$d minūšu laikā iztērēts %2$d%% baterijas</item>
+        <item quantity="one">Pēdējās %1$d minūtes laikā iztērēts %2$d%% baterijas</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d lietotnes, ieskaitot %1$s iztukšo akumulatoru</item>
+        <item quantity="zero">%2$d lietotnes, ieskaitot %1$s iztukšo akumulatoru</item>
+        <item quantity="one">%2$d lietotne, ieskaitot %1$s iztukšo akumulatoru</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Dzēst %d instalācijas pakotnes</item>
+        <item quantity="zero">Dzēst %d instalācijas pakotnes</item>
+        <item quantity="one">Dzēst %d instalācijas pakotni</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Dzēst atlikušos %d APK</item>
+        <item quantity="zero">Dzēst atlikušos %d APK</item>
+        <item quantity="one">Dzēst atlikušo %d APK</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="zero">%d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="one">%d vienums ar lielu enerģijas patēriņu</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="zero">Optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="one">Optimizēt %d vienumu, lai ietaupītu bateriju</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d dienas kopš pēdējās pārbaudes</item>
+        <item quantity="zero">%d dienas kopš pēdējās pārbaudes</item>
+        <item quantity="one">%d diena kopš pēdējās pārbaudes</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d lietotnes ir bloķētas</item>
+        <item quantity="zero">%d lietotnes ir bloķētas</item>
+        <item quantity="one">%d lietotne ir bloķēta</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotni</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d paziņojumi tika noslēpti</item>
+        <item quantity="zero">%d paziņojumi tika noslēpti</item>
+        <item quantity="one">%d paziņojums tika noslēpts</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d lietotnes nav bloķētas</item>
+        <item quantity="zero">%d lietotnes nav bloķētas</item>
+        <item quantity="one">%d lietotne nav bloķēta</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d paziņojumi ir redzami</item>
+        <item quantity="zero">%d paziņojumi ir redzami</item>
+        <item quantity="one">%d paziņojums ir redzams</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Ievadiet vismaz %d ciparus</item>
+        <item quantity="zero">Ievadiet vismaz %d ciparus</item>
+        <item quantity="one">Ievadiet vismaz %d ciparu</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d bloķētas lietotnes</item>
+        <item quantity="zero">%d bloķētas lietotnes</item>
+        <item quantity="one">%d bloķēta lietotne</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d lietotnes ieskaitot %1$s varētu būt kaitīgas</item>
+        <item quantity="zero">%2$d lietotnes ieskaitot %1$s varētu būt kaitīgas</item>
+        <item quantity="one">%2$d lietotne ieskaitot %1$s varētu būt kaitīga</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="zero">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d lietotnes iztukšo akumulatoru</item>
+        <item quantity="zero">%d lietotnes iztukšo akumulatoru</item>
+        <item quantity="one">%d lietotne iztukšo akumulatoru</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" st."</item>
+        <item quantity="zero">" st."</item>
+        <item quantity="one">" st."</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min."</item>
+        <item quantity="zero">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-dienas</item>
+        <item quantity="zero">%d-dienas</item>
+        <item quantity="one">%d-diena</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Jūsu ierīces akumulators ir izlādējies. Ieies Hibernācijas režīmā pēc %1$d sekundēm.</item>
+        <item quantity="zero">Jūsu ierīces akumulators ir izlādējies. Pāries Hibernācijas režīmā pēc %1$d sekundēm.</item>
+        <item quantity="one">Jūsu ierīces akumulators ir izlādējies. Ieies Hibernācijas režīmā pēc %1$d sekundes.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s dienas</item>
+        <item quantity="zero">%s dienas</item>
+        <item quantity="one">%s diena</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s stundas</item>
+        <item quantity="zero">%s stundas</item>
+        <item quantity="one">%s stunda</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minūtes</item>
+        <item quantity="zero">%s minūtes</item>
+        <item quantity="one">%s minūte</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s dienas līdz pilnai uzlādei</item>
+        <item quantity="zero">%s dienas līdz pilnai uzlādei</item>
+        <item quantity="one">%s diena līdz pilnai uzlādei</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s stundas līdz pilnai uzlādei</item>
+        <item quantity="zero">%s stundas līdz pilnai uzlādei</item>
+        <item quantity="one">%s stunda līdz pilnai uzlādei</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minūtes līdz pilnai uzlādei</item>
+        <item quantity="zero">%s minūtes līdz pilnai uzlādei</item>
+        <item quantity="one">%s minūte līdz pilnai uzlādei</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s dienas atlikušas</item>
+        <item quantity="zero">%s dienas atlikušas</item>
+        <item quantity="one">%s diena atlikusi</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Atlikušas %s stundas</item>
+        <item quantity="zero">Atlikušas %s stundas</item>
+        <item quantity="one">Atlikusi %s stunda</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">Atlikušas %s minūtes</item>
+        <item quantity="zero">Atlikušas %s minūtes</item>
+        <item quantity="one">Atlikusi %s minūte</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">Atlikušas %d stundas</item>
+        <item quantity="zero">Atlikušas %d stundas</item>
+        <item quantity="one">Atlikusi %d stunda</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">Atlikušas %d minūtes</item>
+        <item quantity="zero">Atlikušas %d minūtes</item>
+        <item quantity="one">Atlikusi %d minūte</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minūtes kopš pēdējās uzlādes</item>
+        <item quantity="zero">%d minūtes kopš pēdējās uzlādes</item>
+        <item quantity="one">%d minūte kopš pēdējās uzlādes</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d sekundes kopš pēdējās uzlādes</item>
+        <item quantity="zero">%d sekundes kopš pēdējās uzlādes</item>
+        <item quantity="one">%d sekunde kopš pēdējās uzlādes</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Lejupielādējuši %1$d cilvēki</item>
+        <item quantity="zero">Lejupielādējuši %1$d cilvēki</item>
+        <item quantity="one">Lejupielādējuši %1$d cilvēki</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Lejupielādējuši %1$d cilvēki</item>
+        <item quantity="zero">Lejupielādējuši %1$d cilvēki</item>
+        <item quantity="one">Lejupielādējuši %1$d cilvēki</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Jūsu ierīce tiks izslēgta pēc %d sek</item>
+        <item quantity="zero">Jūsu ierīce tiks izslēgta pēc %d sek</item>
+        <item quantity="one">Jūsu ierīce tiks izslēgta pēc %d sek</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s st</item>
+        <item quantity="zero">%s st</item>
+        <item quantity="one">%s st</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="zero">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">reizes</item>
+        <item quantity="zero">reizes</item>
+        <item quantity="one">reizi</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d reizes</item>
+        <item quantity="zero">%d reizes</item>
+        <item quantity="one">%d reizi</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="zero">%d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="one">%d vienums ar lielu enerģijas patēriņu</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dienas "</item>
+        <item quantity="zero">"%d dienas "</item>
+        <item quantity="one">"%d diena "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" st."</item>
+        <item quantity="zero">" st."</item>
+        <item quantity="one">" st."</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min."</item>
+        <item quantity="zero">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d h "</item>
+        <item quantity="zero">"%d h "</item>
+        <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="zero">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizējiet baterijas lietojumu %d scenārijos</item>
+        <item quantity="zero">Optimizējiet baterijas lietojumu %d scenārijos</item>
+        <item quantity="one">Optimizējiet baterijas lietojumu %d scenārijā</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Labot %d baterijas lietojuma problēmas</item>
+        <item quantity="zero">Labot %d baterijas lietojuma problēmas</item>
+        <item quantity="one">Labot %d baterijas lietojuma problēmu</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Varat optimizēt enerģijas patēriņu %d vienumiem</item>
+        <item quantity="zero">Varat optimizēt enerģijas patēriņu %d vienumiem</item>
+        <item quantity="one">Varat optimizēt enerģijas patēriņu %d vienumam</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d vienumi var būt optimizēti"</item>
+        <item quantity="zero">" %d vienumi var būt optimizēti"</item>
+        <item quantity="one">" %d vienums var būt optimizēti"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="zero">Optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="one">Optimizēt %d vienumu, lai ietaupītu bateriju</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Jūs varat optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="zero">Jūs varat optimizēt %d vienumus, lai ietaupītu bateriju</item>
+        <item quantity="one">Jūs varat optimizēt %d vienumu, lai ietaupītu bateriju</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="zero">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="zero">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Pievienot %d minūtes</item>
+        <item quantity="zero">Pievienot %d minūtes</item>
+        <item quantity="one">Pievienot %d minūti</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">vienumi</item>
+        <item quantity="zero">vienumi</item>
+        <item quantity="one">vienums</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Atcelt %ds)</item>
+        <item quantity="zero">Atcelt %ds)</item>
+        <item quantity="one">Atcelt %ds)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s dienas atlikušas</item>
+        <item quantity="zero">%s dienas atlikušas</item>
+        <item quantity="one">%s diena atlikusi</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Atlikušas %s stundas</item>
+        <item quantity="zero">Atlikušas %s stundas</item>
+        <item quantity="one">Atlikusi %s stunda</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Atlikušas %s minūtes</item>
+        <item quantity="zero">Atlikušas %s minūtes</item>
+        <item quantity="one">Atlikusi %s minūte</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Atlikušas %s min. ekrāna laika</item>
+        <item quantity="zero">Atlikušas %s min. ekrāna laika</item>
+        <item quantity="one">Atlikusi %s min. ekrāna laika</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Ieslēdziet, lai pievienotu %s min. ekrāna laika</item>
+        <item quantity="zero">Ieslēdziet, lai pievienotu %s min. ekrāna laika</item>
+        <item quantity="one">Ieslēdziet, lai pievienotu %s min. ekrāna laika</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Sapratu (%d)</item>
+        <item quantity="zero">Sapratu (%d)</item>
+        <item quantity="one">Sapratu (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Sapratu (%ds)</item>
+        <item quantity="zero">Sapratu (%ds)</item>
+        <item quantity="one">Sapratu (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Jūsu ierīce izslēgsies pēc %d sekundēm. Pievienojiet lādētāju.</item>
+        <item quantity="zero">Jūsu ierīce izslēgsies pēc %d sekundēm. Pievienojiet lādētāju.</item>
+        <item quantity="one">Jūsu ierīce izslēgsies pēc %d sekundes. Pievienojiet lādētāju.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d lietotnes bieži tiek automātiski palaista</item>
+        <item quantity="zero">%d lietotnes bieži tiek automātiski palaista</item>
+        <item quantity="one">%d lietotne bieži tiek automātiski palaista</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d lietotnes iztukšo bateriju</item>
+        <item quantity="zero">%d lietotnes iztukšo bateriju</item>
+        <item quantity="one">%d lietotne iztukšo bateriju</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Paslēptas %d lietotņu ikonas</item>
+        <item quantity="zero">Paslēptas %d lietotņu ikonas</item>
+        <item quantity="one">Paslēpta %d lietotnes ikona</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d lietotņu ikonas nav paslēptas</item>
+        <item quantity="zero">%d lietotņu ikonas nav paslēptas</item>
+        <item quantity="one">%d lietotnes ikona nav paslēpta</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s lietotnēm ir patstāvīga piekļuve</item>
+        <item quantity="zero">%s lietotnēm ir patstāvīga piekļuve</item>
+        <item quantity="one">%s lietotnei ir patstāvīga piekļuve</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Atļauts %s lietotnēm</item>
+        <item quantity="zero">Atļauts %s lietotnēm</item>
+        <item quantity="one">Atļauts %s lietotnei</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s reizes</item>
+        <item quantity="zero">%s reizes</item>
+        <item quantity="one">%s reizi</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">Piešķirtas %d augsta riska atļaujas</item>
+        <item quantity="zero">Piešķirtas %d augsta riska atļaujas</item>
+        <item quantity="one">Piešķirta %d augsta riska atļauja</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">Atrastas %d neuzticamas lietotnes</item>
+        <item quantity="zero">Atrastas %d neuzticamas lietotnes</item>
+        <item quantity="one">Atrasta %d neuzticama lietotne</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">Konstatēti %d riski atklāt atrašanās vietas informāciju</item>
+        <item quantity="zero">Konstatēti %d riski atklāt atrašanās vietas informāciju</item>
+        <item quantity="one">Konstatēts %d risks atklāt atrašanās vietas informāciju</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">Atklāti %d riski</item>
+        <item quantity="zero">Atklāti %d riski</item>
+        <item quantity="one">Atklāts %d risks</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">Atrasti %d iespējamie riski</item>
+        <item quantity="zero">Atrasti %d iespējamie riski</item>
+        <item quantity="one">Atrasts %d iespējams risks</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotoattēlos var būt informācija, kas ir privāta vai jutīga</item>
+        <item quantity="zero">%d fotoattēlos var būt informācija, kas ir privāta vai jutīga</item>
+        <item quantity="one">%d fotoattēlā var būt informācija, kas ir privāta vai jutīga</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d iespējas, kas aizsargā jūsu konfidencialitāti, ir izslēgtas</item>
+        <item quantity="zero">%d iespējas, kas aizsargā jūsu konfidencialitāti, ir izslēgtas</item>
+        <item quantity="one">%d iespēja, kas aizsargā jūsu konfidencialitāti, ir izslēgta</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">Piešķirtas %d jutīgās atļaujas</item>
+        <item quantity="zero">Piešķirtas %d jutīgās atļaujas</item>
+        <item quantity="one">Piešķirta %d jutīgā atļauja</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Atinstalēt %d lietotnes</item>
+        <item quantity="zero">Atinstalēt %d lietotnes</item>
+        <item quantity="one">Atinstalēt %d lietotni</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d vienumiem nepieciešama papildu aizsardzība</item>
+        <item quantity="zero">%d vienumiem nepieciešama papildu aizsardzība</item>
+        <item quantity="one">%d vienumam nepieciešama papildu aizsardzība</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d baterijas problēmas</item>
+        <item quantity="zero">%d baterijas problēmas</item>
+        <item quantity="one">%d baterijas problēma</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Atrastas %d baterijas problēmas</item>
+        <item quantity="zero">Atrastas %d baterijas problēmas</item>
+        <item quantity="one">Atrasta %d baterijas problēma</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Atrastas %d baterijas problēmas, labot tās</item>
+        <item quantity="zero">Atrastas %d baterijas problēmas, labot tās</item>
+        <item quantity="one">Atrasta %d baterijas problēma, labot to</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Optimizēti %d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="zero">Optimizēti %d vienumi ar lielu enerģijas patēriņu</item>
+        <item quantity="one">Optimizēts %d vienums ar lielu enerģijas patēriņu</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Rūpnīcas atiestatīšana(%ds)</item>
+        <item quantity="zero">Rūpnīcas atiestatīšana(%ds)</item>
+        <item quantity="one">Rūpnīcas atiestatīšana(%ds)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Atrastas %d neoficiālas lietotnes</item>
+        <item quantity="zero">Atrastas %d neoficiālas lietotnes</item>
+        <item quantity="one">Atrasta %d neoficiāla lietotne</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Atrastas %d ļaunprātīgas lietotnes</item>
+        <item quantity="zero">Atrastas %d ļaunprātīgas lietotnes</item>
+        <item quantity="one">Atrasta %d ļaunprātīga lietotne</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Meklēt %d lietotnes</item>
+        <item quantity="zero">Meklēt %d lietotnes</item>
+        <item quantity="one">Meklēt %d lietotni</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d bloķētas lietotnes gaida tīrīšanu</item>
+        <item quantity="zero">%d bloķētas lietotnes gaida tīrīšanu</item>
+        <item quantity="one">%d bloķēta lietotne gaida tīrīšanu</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">Dzēsti %d vīrusi</item>
+        <item quantity="zero">Dzēsti %d vīrusi</item>
+        <item quantity="one">Dzēsts %d vīruss</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s maksājumu lietotnes ir aizsargātas</item>
+        <item quantity="zero">%s maksājumu lietotnes ir aizsargātas</item>
+        <item quantity="one">%s maksājumu lietotne ir aizsargāta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s lietotnes nav aizsargātas</item>
+        <item quantity="zero">%s lietotnes nav aizsargātas</item>
+        <item quantity="one">%s lietotne nav aizsargāta</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s lietotnes ir aizsargātas</item>
+        <item quantity="zero">%s lietotnes ir aizsargātas</item>
+        <item quantity="one">%s lietotne ir aizsargāta</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d atslēgas vārdi</item>
+        <item quantity="zero">%d atslēgas vārdi</item>
+        <item quantity="one">%d atslēgas vārds</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numuri</item>
+        <item quantity="zero">%d numuri</item>
+        <item quantity="one">%d numurs</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Rediģē %1$d atļaujas</item>
+        <item quantity="zero">Rediģē %1$d atļaujas</item>
+        <item quantity="one">Rediģē %1$d atļauju</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenti</item>
+        <item quantity="zero">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenti</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragments</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="zero">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Pieejami atjauninājumi %d lietotnēm.</item>
+        <item quantity="zero">Pieejami atjauninājumi %d lietotnēm.</item>
+        <item quantity="one">Pieejams atjauninājums %d lietotnei.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">Operatora datu lietojuma statistika nav sinhronizēta %d dienas</item>
+        <item quantity="zero">Operatora datu lietojuma statistika nav sinhronizēta %d dienas</item>
+        <item quantity="one">Operatora datu lietojuma statistika nav sinhronizēta %d dienu</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="zero">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d vienumi ir droši</item>
+        <item quantity="zero">%1$d vienumi ir droši</item>
+        <item quantity="one">%1$d vienums ir drošs</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Atjaunināt &lt;font color=#F22424>%d&lt;/font> lietotnes&lt;/Data></item>
+        <item quantity="zero">&lt;Data>Atjaunināt &lt;font color=#F22424>%d&lt;/font> lietotnes&lt;/Data></item>
+        <item quantity="one">&lt;Data>Atjaunināt &lt;font color=#F22424>%d&lt;/font> lietotni&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">Notīrīti %d vīrusi</item>
+        <item quantity="zero">Notīrīti %d vīrusi</item>
+        <item quantity="one">Notīrīts %d vīruss</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d vīrusi vai riskantas lietotnes</item>
+        <item quantity="zero">%d vīrusi vai riskantas lietotnes</item>
+        <item quantity="one">%d vīruss vai riskanta lietotne</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d spēles nav pievienotas</item>
+        <item quantity="zero">%d spēles nav pievienotas</item>
+        <item quantity="one">%d spēle nav pievienota</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Savienojiet vismaz %s punktus</item>
+        <item quantity="zero">Savienojiet vismaz %s punktus</item>
+        <item quantity="one">Savienojiet vismaz %s punktu</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Ievadiet %s ciparus</item>
+        <item quantity="zero">Ievadiet %s ciparus</item>
+        <item quantity="one">Ievadiet %s ciparu</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotnes</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Jūs jau skatījāties videoklipus %d stundas.
+Paņemiet pauzi!"</item>
+        <item quantity="zero">"Jūs jau skatījāties videoklipus %d stundas.
+Paņemiet pauzi!"</item>
+        <item quantity="one">"Jūs jau skatījāties videoklipus %d stundu.
+Paņemiet pauzi!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d skatījumi</item>
+        <item quantity="zero">%1$d skatījumi</item>
+        <item quantity="one">%1$d skatījums</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Vai tīrīt %d izvēlētās lietotnes?</item>
+        <item quantity="zero">Vai tīrīt %d izvēlētās lietotnes?</item>
+        <item quantity="one">Vai tīrīt %d izvēlētu lietotni?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s lietotnes</item>
+        <item quantity="zero">%s lietotnes</item>
+        <item quantity="one">%s lietotne</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Bīstamas lietotnes: %d</item>
+        <item quantity="zero">Bīstamas lietotnes: %d</item>
+        <item quantity="one">Bīstama lietotne: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojas zirgi: %d</item>
+        <item quantity="zero">Trojas zirgi: %d</item>
+        <item quantity="one">Trojas zirgs: %d</item>
+    </plurals>
+</resources>

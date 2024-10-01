@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ພາຍໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ນາທີກ່ອນ</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">ເພີ່ມ %d ເກມແລ້ວ</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">ເພີ່ມ %d ແອັບແລ້ວ</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">ອະນຸຍາດ %3$d ເວລາລະຫວ່າງ %1$s ແລະ %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">ໃຊ້ສຳລັບ %1$d ນາທີ</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">ໃຊ້ສຳລັບ %1$d ນາທີຈົນກວ່າ %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">ບັນທຶກພຶດຕິກໍາແອັບຈະຖືກຈັດເກັບໄວ້ໃນອຸປະກອນນີ້ເປັນເວລາ %d ມື້. ການປິດຄຸນສົມບັດນີ້ຈະລົບບັນທຶກພຶດຕິກຳແອັບທັງໝົດແລະບໍ່ແນະນຳ.</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">ອະນຸຍາດ %d ການອະນຸຍາດ</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">ຖາມເພື່ອ %d ການອະນຸຍາດ</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d ຄັ້ງ</item>
+    </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">ຖອນການຕິດຕັ້ງແອັບ %d</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">ອັບເດດ %d ແອັບ</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">ໃຊ້ %d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">ໃຊ້ %d ເດືອນກ່ອນ</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">ໃຊ້ %d ປີກ່ອນ</item>
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">ທ່ານສາມາດໃຊ້ແອັບລັອກກັບ %1$s ແອັບ</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">ທ່ານສາມາດປົກປ້ອງຢ່າງໜ້ອຍ %s ແອັບ</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s ແອັບຈະຖືກປົກປ້ອງດ້ວຍແອັບລັອກ</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d ແອັບລວມທັງ %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d ເວລາ</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d ແອັບສາມາດເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍໃນພື້ນຫຼັງ</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d ແອັບບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍໃນພື້ນຫຼັງ</item>
+    </plurals>
+    <plurals name="cache_check_content">
+        <item quantity="other">ກຳລັງປົກປ້ອງ %d ແອັບ</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>ທ່ານສາມາດຖອນການຕິດຕັ້ງ&lt;font color=#F22424>%d&lt;/font> ແອັບ&lt;/Data></item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"ທ່ານໄດ້ໃຊ້ແພັກເກດຂໍ້ມູນລາຍວັນເກີນ %s ຄັ້ງ.
+
+ຖ້າທ່ານເປີດຂໍ້ມູນມືຖືອີກຄັ້ງ, ຜູ້ໃຫ້ບໍລິການຂອງທ່ານອາດຈະຄິດຄ່າໃຊ້ຈ່າຍສຳລັບຂໍ້ມູນເພີ່ມເຕີມ."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">ທ່ານໄດ້ໃຊ້ແພັກເກດຂໍ້ມູນລາຍວັນເກີນ %s ຄັ້ງ.</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">ໃນ %1$d ນາທີ</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">ຄະແນນປະສິດທິພາບຂອງອຸປະກອນຂອງທ່ານຕ່ຳກວ່າ %d ຄະແນນ. ເພີ່ມປະສິດທິພາບຕອນນີ້?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s ນາທີ</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">ຄົ້ນຫາຈາກ %d ແອັບ</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d ຄວາມສ່ຽງທີ່ກ່ຽວຂ້ອງກັບຄວາມເປັນສ່ວນຕົວ</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d ບັນຫາຕ້ອງການເພີ່ມປະສິດທິພາບ</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">ພົບ %d ແອັບ</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d ຄຸນສົມບັດ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%1$d ສາຍຈາກ %2$s ແລະອື່ນໆ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d ສາຍຈາກ %2$s ແລະອື່ນໆ</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">ການເປັນສະມາຊິກ Game Turbo ຂອງທ່ານຈະໝົດອາຍຸໃນ %d ມື້. ຕໍ່ອາຍຸຕອນີ້ເພື່ືອມ່ວນກັບການຫຼິ້ນເກມທີ່ລາບລື່ນ.</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d ຄົນກຳລັງຫຼິ້ນ</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d ຄົນກຳລັງຫຼິ້ນ</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">ຖອນການຕິດຕັ້ງ %2$d ເກມ (ລວມທັງ %1$s)</item>
+    </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">ບັນທຶກຊ່ວງເວລາສຳຄັນໂດຍອັດຕະໂນມັດແລະສ້າງວິດີໂອພ້ອມກັບໄຮໄລທ໌ຂອງເຊສຊັ່ນ. ທ່ານສາມາດເລືອກທີ່ບັນທຶກໄວ້ຢ່າງຖາວອນຫຼັງຈາກເຊສຊັ່ນການຫຼິ້ນເກມແຕ່ລະຄັ້ງ. ວິດີໂອທີ່ບໍ່ໄດ້ບັນທຶກຈະຖືກລົບໂດຍອັດຕະໂນມັດຫຼັງຈາກ %1$d days.</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">ບັນທຶກ %d ການບັນທຶກດ້ວຍ AI ລົງໃນ Game Turbo</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d ວິ</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">ລົງຊື່ເຂົ້າໃຊ້ເປັນເວລາ %d ມື້ຕິດຕໍ່ກັນ</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d ນາທີ</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">ຮັບຊາບ (%dວິ)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"ໝາຍເຫດ:
+·ພາບທີ່ໄດ້ຮັບການປັບປຸງແລ້ວຈະບໍ່ສາມາດໃຊ້ໄດ້ເມື່ອຕົວປະຢັດແບັດເຕີຣີເປີດຢູ່ຫຼືອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ.
+·ອັດຕາເຟຣມອັດສະລິຍະຈະສະແດງຜົນໄດ້ດີທີ່ສຸດເມື່ອເກມຂອງທ່ານຖືກຕັ້ງໃຫ້ສະແດງຢ່າງໜ້ອຍ %d ເຟຣມຕໍ່ວິນາທີ."</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"ໝາຍເຫດ:
+· ພາບທີ່ໄດ້ຮັບການປັບປຸງແລ້ວຈະບໍ່ສາມາດໃຊ້ໄດ້ເມື່ອຕົວປະຢັດແບັດເຕີຣີເປີດຢູ່ຫຼືອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ.
+·ອັດຕາເຟຣມໄດ້ຮັບການປັບປຸງຈະສະແດງຜົນໄດ້ດີທີ່ສຸດເມື່ອເກມຂອງທ່ານຖືກຕັ້ງໃຫ້ສະແດງຢ່າງໜ້ອຍ %d ເຟຣມຕໍ່ວິນາທີ."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"ລອງຕົວປ່ຽນສຽງຕອນນີ້
+ເພື່ອຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນ!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">ບໍ່ສາມາດຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">ຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນສຳເລັດແລ້ວ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">ຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນ</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"ການສະໝັກສະມາຊິກຂອງທ່ານໝົດອາຍຸ.
+ທ່ານສາມາດຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນຕອນນີ້!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">ຮັບການທົດລອງໃຊ້ຟຣີ %d ວັນ</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">ເພີ່ມໄດ້ສູງສຸດ %d ແອັບ. ກົດຄ້າງໄວ້ເພື່ອຈັດຮຽງໃໝ່.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">ຄຸນສົມບັດນີ້ຊ່ວຍປັບຄວາມສະຫວ່າງໜ້າຈໍລົງຫຼັງຈາກ %d ນາທີທີ່ບໍ່ມີການໃຊ້ງານໂດຍອັດຕະໂນມັດເພື່ອປະຢັດພະລັງງານ. ຮັກສາຄຸນສົມບັດນີ້ໄວ້ບໍ?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">ປັບຄວາມສະຫວ່າງໜ້າຈໍລົງອັດຕະໂນມັດເພື່ອປະຫຍັດພະລັງງານຫລັງຈາກນັ້ນ %d ນາທີທີ່ບໍ່ມີການໃຊ້ງານ</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ເຄິ່ງຊົ່ວ​ໂມງ​ຜ່ານ​ມາ</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d ຕົວອັກສອນເພີ່ມ</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d ການອະນຸຍາດ</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ແອັບບໍ່ຖືກອະນຸຍາດໃຫ້ເລີ່ມຕົ້ນອັດຕະໂນມັດ</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d ແອັບບໍ່ອະນຸຍາດໃຫ້ເລີ່ມຕົ້ນໃນພື້ນຫຼັງ</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ແອັບສາມາດເລີ່ມຕົ້ນອັດຕະໂນມັດ</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d ແອັບສາມາດເລີ່ມຕົ້ນໃນພື້ນຫຼັງ</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ແອັບບໍ່ມີການເຂົ້າເຖິງ Root</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ແອັບມີການເຂົ້າເຖິງ Root</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d ຄວາມສ່ຽງ,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojan</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d ແອັບບໍ່ສາມາດໃຊ້ໂຣມມິງຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d ແອັບສາມາດໃຊ້ໂຣມມິງຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">ພົບ %d ແອັບ</item>
+    </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">ກວດພົບ %d ຄວາມສ່ຽງ</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">ຕິດຕາມການນຳໃຊ້ຂໍ້ມູນສຳລັບ %d ແອັບ</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">ບໍ່ຕ້ອງຕິດຕາມການນຳໃຊ້ຂໍ້ມູນສຳລັບ %d ແອັບ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ພາຍໃນ 1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ພາຍໃນເຄິ່ງຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ທັນທີ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">ເພີ່ມ %d ເກມແລ້ວ</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">ທ່ານສາມາດປົກປ້ອງ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s ນາທີ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ເມື່ອກີ້​ນີ້</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">ເຊື່ອມຕໍ່ຢ່າງໜ້ອຍ %d ຈຸດ</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">ເຊື່ອມຕໍ່ຢ່າງໜ້ອຍ %s ຈຸດ</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"ກະລຸນາລໍຖ້າ %d ວິນາທີແລະລອງອີກຄັ້ງ. "</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d ການຍົກເວັ້ນ</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d ຜູ້ໃຊ້ອື່ນເຮັດເຄື່ອງໝາຍເປັນ</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d ຂໍ້ຄວາມແລະການໂທຖືກບລັອກ</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">ບໍ່ໄດ້ສະແກນອຸປະກອນເປັນເວລາ %d ວັນ</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d ແອັບມີໄວຣັສຫຼື Malware</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">​ມີການ​ອັບ​ເດດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">ປ້ອນຢ່າງໜ້ອຍ %d ຕົວອັກສອນ</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">ເຊດຊັ່ນເພີ່ມຄວາມໄວເຄືອຂ່າຍຂອງທ່ານຈະສິ້ນສຸດໃນ %d ມື້. ຕໍ່ອາຍຸເຊດຊັ່ນທັງໝົດຕອນນີ້ບໍ່?</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"ການເຂົ້າເຖິງເຄືອຂ່າຍຖືກຈຳກັດສຳລັບ &lt;font color='#ff0000'>%d&lt;/font> ແອັບ"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">ບໍ່ໄດ້ເພີ່ມ %d ແອັບແລ້ວ</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">ບໍ່ໄດ້ສະແກນຄວາມປອກດໄພ %d ວັນແລ້ວ</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">ໃຊ້ແບັດເຕີຣີໄປ %2$d%% ໃນລະຫວ່າງ %1$d ນາທີທີ່ຜ່ານມາ</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d ແອັບ, ລວມທັງ %1$s, ກຳລັງໃຊ້ງານແບັດ</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">ລົບ %d ແພັກເກດຕິດຕັ້ງ</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">ລົບ %d APK ທີ່ເຫຼືອ</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d ລາຍການທີ່ໃຊ້ພະລັງງານສູງ</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">ເພີ່ມປະສິດທິພາບ %d ລາຍການເພື່ອປະຢັດແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d ວັນຕັ້ງແຕ່ການກວດສອບຄັ້ງຫຼ້າສຸດ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ນາທີຜ່ານມາ</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d ແອັບລັອກຢູ່</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d ການແຈ້ງເຕືອນຖືກເຊື່ອງໄວ້</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d ແອັບບໍ່ໄດ້ລັອກ</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d ການແຈ້ງເຕືອນຖືກສະແດງ</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">ປ້ອນຢ່າງໜ້ອຍ %d ຕົວເລກ</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d ແອັບທີ່ລັອກ</item>
+    </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d ແອັບລວມເຖິງ %1$s ອາດເປັນອັນຕະລາຍ</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d ແອັບກຳລັງໃຊ້ງານແບັດ</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ຊົ່ວໂມງ"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" ນາທີ"</item>
+    </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-ມື້</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">ອຸປະກອນຂອງທ່ານແບັດເຕີຣີໝົດ. ກຳລັງເຂົ້າສູ່ໂໝດ Hibernation ໃນ %1$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ມື້</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s ນາທີ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s ມື້ຈົນກວ່າສາກໄຟເຕັມ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ຊົ່ວໂມງຈົນກວ່າສາກໄຟເຕັມ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s ນາທີຈົນກວ່າສາກໄຟເຕັມ</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">ຍັງເຫຼືອ %s ມື້</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">ຍັງເຫຼືອ %s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">ຍັງເຫຼືອ %s ນາທີ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">ຍັງເຫຼືອ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">ຍັງເຫຼືອ %d ນາທີ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d ນາທີຕັ້ງແຕ່ການສາກໄຟຄັ້ງຫຼ້າສຸດ</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d ວິນາທີຕັ້ງແຕ່ການສາກໄຟຄັ້ງຫຼ້າສຸດ</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">ດາວໂຫຼດແລ້ວ %1$d ຄົນ</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">ດາວໂຫຼດແລ້ວ %1$d ຄົນ</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">ອຸປະກອນຂອງທ່ານຈະປິດໃນ %d ວິ</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s ນາທີ</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">ຄັ້ງ</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d ຄັ້ງ</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d ລາຍການທີ່ໃຊ້ພະລັງງານສູງ</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ມື້ "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ຊົ່ວໂມງ"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" ນາທີ"</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ຊົ່ວໂມງ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d ນາທີ "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">ເພີ່ມປະສິດທິພາບການນຳໃຊ້ແບັດເຕີຣີໃນ %d ສະຖານະການ</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">ແກ້ໄຂ %d ບັນຫາການນຳໃຊ້ແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">ທ່ານ​ສາ​ມາດ​ປັບ​ປຸງ​ການ​ໃຊ້​ພະລັງງານ​ສຳ​ລັບ %d ລາຍ​ການ</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d ລາຍການສາມາດເພີ່ມປະສິດທິພາບ"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">ເພີ່ມປະສິດທິພາບ %d ລາຍການເພື່ອປະຢັດແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">ທ່ານສາມາດເພີ່ມປະສິດທິພາບ %d ລາຍການເພື່ອປະຢັດແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">ເພີ່ມ %d ນາທີ</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">ລາຍການ</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">ຍົກເລີກ (%ds)</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">ຍັງເຫຼືອ %s ມື້</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">ຍັງເຫຼືອ %s ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">ຍັງເຫຼືອ %s ນາທີ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">ເວລາໜ້າຈໍທີ່ເຫຼືອຢູ່ %s ນາທີ</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">ເປີດເພື່ອເພີ່ມ %s ນາທີຂອງເວລາໃຊ້ງານ</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">ຮັບຊາບ (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">ຮັບຊາບ (%dວິ)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">ອຸປະກອນຂອງທ່ານຈະຖືກປິດພາຍໃນ %d ວິນາທີ. ເຊື່ອມຕໍ່ເຄື່ອງສາກໄຟ.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d ເລີ່ມຕົ້ນອັດຕະໂນມັດເລື້ອຍໆ</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d ແອັບໃຊ້ແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ໄອຄອນແອັບຖືກເຊື່ອງ</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d ໄອຄອນແອັບຍັງບໍ່ຖືກເຊື່ອງ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s ແອັບມີການເຂົ້າເຖິງແບບຖາວອນ</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">ອະນຸຍາດສຳລັບ %s ແອັບ</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s ຄັ້ງ</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">ໃຫ້ %d ການອະນຸຍາດທີ່ມີຄວາມສ່ຽງສູງ</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">ກວດພົບ %d ແອັບທີ່ສ່ຽງ</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">ກວດພົບ %d ຄວາມສ່ຽງໃນການເປີດເຜີຍຂໍ້ມູນ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">ກວດພົບ %d ຄວາມສ່ຽງ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">ພົບ %d ຄວາມສ່ຽງທີ່ເປັນໄປໄດ້</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d ຮູບພາບອາດມີຂໍ້ມູນທີ່ເປັນສ່ວນຕົວຫຼືລະອຽດອ່ອນ</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d ຄຸນສົມບັດທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານຖືກປິດ</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">ໃຫ້ %d ການອະນຸຍາດທີ່ລະອຽດອ່ອນ</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">ຖອນການຕິດຕັ້ງ %d ແອັບ</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d ລາຍການຕ້ອງການການປົກປ້ອງພິເສດ</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d ບັນຫາແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">ພົບ %d ບັນຫາແບັດເຕີຣີ</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">ພົບ %d ບັນຫາແບັດເຕີຣີ, ແກ້ໄຂ</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">ປັບແຕ່ງ %d ລາຍການທີ່ໃຊ້ພະລັງງານສູງ</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">ຣີເຊັດຄ່າເລີ່ມຕົ້ນໂຮງງານ (%dວິ)</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">ພົບ %d ແອັບທີ່ບໍ່ເປັນທາງການ</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">ກວດພົບ %d ແອັບທີ່ເປັນອັນຕະລາຍ</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">ຄົ້ນຫາ %d ແອັບ</item>
+    </plurals>
+    <plurals name="section_clear_acc_item_right_tips">
+        <item quantity="other">%d ແອັບທີ່ຖືກລັອກກຳລັງລໍຖ້າການລົບລ້າງ</item>
+    </plurals>
+    <plurals name="section_security_defend_item_right_tips">
+        <item quantity="other">ລົບ %d ໄວຣັສແລ້ວ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s ແອັບຊຳລະເງິນຖືກປ້ອງກັນ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s ແອັບບໍ່ຖືກປ້ອງກັນ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s ແອັບຖືກປ້ອງກັນ</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d ຄຳສຳຄັນ</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d ໝາຍເລກ</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">ແກ້ໄຂ %1$d ການອະນຸຍາດ</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> ຊິ້ນສ່ວນ</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">ມີການ​ອັບ​ເດດສຳລັບ %d ແອັບ.</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">ບໍ່ໄດ້ຊິ້ງສະຖິຕິການນຳໃຊ້​ຂໍ້​ມູນຈາກຜູ້ໃຫ້ບໍລິການເປັນເວລາ %d ວັນ</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dວິ)</item>
+    </plurals>
+    <plurals name="system_check_content">
+        <item quantity="other">%1$d ລາຍການປອດໄພ</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>ອັບເດດ &lt;font color=#F22424>%d&lt;/font> ແອັບ&lt;/Data></item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">ລົບລ້າງ %d ໄວຣັສແລ້ວ</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d ໄວຣັສຫຼືແອັບທີ່ມີຄວາມສ່ຽງ</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">ຍັງບໍ່ໄດ້ເພີ່ມ %d ເກມ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">ເຊື່ອມຕໍ່ຢ່າງໜ້ອຍ %s ຈຸດ</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">ປ້ອນ %s ຕົວເລກ</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d ແອັບ</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"ທ່ານເບິ່ງວິດີໂອມາແລ້ວ %d ຊົ່ວໂມງແລ້ວ.
+ພັກຜ່ອນ!"</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">ເຂົ້າຊົມ %1$d ຄັ້ງ</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">ລົບລ້າງ %d ແອັບທີ່ເລືອກບໍ?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s ແອັບ</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">ແອັບອັນຕະລາຍ: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojan: %d</item>
+    </plurals>
+</resources>

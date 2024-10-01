@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Sau ɗaya</item>
+        <item>Kowace rana</item>
+        <item>Ranakun aiki</item>
+        <item>Ranakun aiki</item>
+        <item>Tsara da kanka</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Sau ɗaya</item>
+        <item>Kowace rana</item>
+        <item>Ranakun aiki</item>
+        <item>Tsara da kanka</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Dukan rekwod</item>
+        <item>Kunnawa da kansa</item>
+        <item>Fara jerin</item>
+        <item>Amfani da izini</item>
+        <item>Ayyuka masu muhimmanci</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Zanen sirri</item>
+        <item>PIN</item>
+        <item>Kalmar sirri</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Girma</item>
+        <item>Sunan</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Tsarin wata-wata</item>
+        <item>Mara iyaka</item>
+        <item>Tsarin yau da kullun</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Tsara da kanka</item>
+        <item>Katin Mabiyan Xiaomi</item>
+        <item>Katin Xiao Tiansheng</item>
+        <item>Katin Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Tsara da kanka</item>
+        <item>Mi Mobile</item>
+        <item>Katin Mabiyan Xiaomi</item>
+        <item>Katin Tianshen</item>
+        <item>Katin Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Jiya (data mobayil )</item>
+        <item>Yau (data mobayil )</item>
+        <item>"Watan daya wuce (data mobayil) "</item>
+        <item>"Wannan wata (data mobayil) "</item>
+        <item>"Jiya (Wi-Fi) "</item>
+        <item>"Yau (Wi-Fi) "</item>
+        <item>"Watan daya wuce (Wi-Fi) "</item>
+        <item>"Wannan wata (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Jiya "</item>
+        <item>"Yau "</item>
+        <item>"Watan daya wuce "</item>
+        <item>"Wannan wata "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Wannan mako "</item>
+        <item>"Yau "</item>
+        <item>"Wannan wata "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Jiya: "</item>
+        <item>"Yau: "</item>
+        <item>"Watan daya wuce: "</item>
+        <item>"Wannan wata: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Wannan mako "</item>
+        <item>"Yau: "</item>
+        <item>"Wannan wata: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>"Zai yuwu a samu damar isowa ga shirya fayiloli akan na'urarka ta amfani da kwamfuta."</item>
+        <item>"Za'a bada izinin sanyawar manhaja akan na'urarka ba tare da izinin ka ba."</item>
+        <item>Za ka iya kula da monita da rikodin abun dake kan Allo daga nisa.</item>
+        <item>"Za'a iya isowa ga cikakken byani game da na'urar."</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Mara karfi sosai</item>
+        <item>Mara karfi</item>
+        <item>Na asali</item>
+        <item>Mai karfi</item>
+        <item>Mai karfi sosai</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>"Idan na'urar na kulle"</item>
+        <item>"Idan na'urar na kashe ko kuma bayan an fita cikin manhaja"</item>
+        <item>"Idan na'urar na kulle ko kuma minti daya bayan an fita cikin manhaja"</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Amfani da data mobayil "</item>
+        <item>"Amfani da Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Muhimmanci: Manhajar sistem da yawa na iya tsayar da aiki daidai.</item>
+        <item>Fitarar rubutu, asusu, da abubuwa na iya nunawa ba daidai ba</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Nuna gargadi</item>
+        <item>Gargadi da kashe bayanan mobal</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Na asali</item>
+        <item>Fifita kulawa da aiki</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Yana amfani da yanayin lura da karfin zafi na asali</item>
+        <item>Yana fifita kulawa da aiki</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Karanta duk sanarwarku, gami da abubuwan cikin sakonninku na rubutu da sauran abubuwan da zasu iya dauke bayanan ka na sirri</item>
+        <item>Takaita izinin sanrwa ma wasu manhaja</item>
+        <item>Yi tabawa na sanarwa sai ka bude manhaja</item>
+        <item>Kunna da kashe yanayin Kar Ayi Damuwa</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>"Tattara bayanai game da abubuwan da kuke sha'awa da halayen ku ta hanyar koyon wani manhajar kuke amfani da shi kuma ta yaya kuke amfani dasu"</item>
+        <item>Isowa ga kamfanin sadarwa da saittunan yare, kazalika da sauran bayanai</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Wasu manhajar da ba'a tabbatar ba na iya haifar da matsaloli da yawa da kuma rage ƙarfin tsarin."</item>
+        <item>Wasu manhaja na iya kunsar maketaccin manhaja wada ke iya janyo hadari ma bayanan ka.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>"Ma'ajin ciki"</item>
+        <item>"Ma'ajin waje"</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Kullum</item>
+        <item>Na abubuwan da banda su kadai</item>
+        <item>Har abada</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Amfani da data mobayil</item>
+        <item>Sauran kudi</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Jerawa ta sunayen manhaja</item>
+        <item>Jerawa ta wanda aka fi amfani dashi kwanan nan</item>
+        <item>"Jerawa ta ma'ajin da aka yi amfani dashi"</item>
+        <item>Jerawa ta lokacin sanyawa</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Sunan manhajar</item>
+        <item>An yi amfani da shi kwanan nan</item>
+        <item>"Ma'aji da aka yi amfani dashi"</item>
+        <item>Lokacin kafuwar</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Kashe sai ka sanar</item>
+        <item>Ya sanar kawai</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Asalin kafuwar</item>
+        <item>Lokacin kafuwar</item>
+        <item>Asalin sabuntawa na karshe</item>
+        <item>Lokacin sabuntawa na karshe</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Tsarin bayanan intanit na wata</item>
+        <item>Tsarin data mobayil na kullum</item>
+        <item>Bayanan intantet mara iyaka</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Amfani da data mobayil "</item>
+        <item>"Amfani da Wi-Fi "</item>
+    </string-array>
+</resources>

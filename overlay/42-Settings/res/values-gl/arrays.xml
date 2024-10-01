@@ -32,18 +32,6 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Almacenamento interno do dispositivo</item>
-        <item>Tarxeta SD extraíble</item>
-        <item>Deixar decidir ao sistema</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Localización</item>
-        <item>Persoal</item>
-        <item>Mensaxaría</item>
-        <item>Multimedia</item>
-        <item>Dispositivo</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>Localización</item>
         <item>Localización</item>
@@ -243,13 +231,13 @@
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimizado para a calidade do audio</item>
+        <item>Optimizado para a calidade de audio</item>
         <item>Calidade equilibrada do audio e da conexión</item>
         <item>Optimizado para a calidade da conexión</item>
         <item>Máxima (taxa de bits adaptable)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizado para a calidade do audio (990 kb/s ou 909 kb/s)</item>
+        <item>Optimizado para a calidade de audio (990 kb/s ou 909 kb/s)</item>
         <item>Calidade equilibrada do audio e da conexión (660 kb/s ou 606 kb/s)</item>
         <item>Optimizado para a calidade da conexión (330 kb/s ou 303 kb/s)</item>
         <item>Máxima (taxa de bits adaptable)</item>
@@ -275,6 +263,10 @@
         <item>Audio Qualcomm® aptX™</item>
         <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Audio Qualcomm® aptX™ Adaptive</item>
+        <item>Audio Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar selección do sistema (predeterminado)</item>
@@ -283,6 +275,10 @@
         <item>Audio Qualcomm® aptX™</item>
         <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Audio Qualcomm® aptX™ Adaptive</item>
+        <item>Audio Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -290,17 +286,27 @@
         <item>, activo (contido multimedia)</item>
         <item>, activo (teléfono)</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Usar configuración predeterminada da aplicación</item>
+        <item>Reproducir no dispositivo auditivo</item>
+        <item>Reproducir no altofalante do teléfono</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
+        <item>avrcp16</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp16</item>
+        <item>avrcp15</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (predeterminado)</item>
+        <item>AVRCP 1.6 (predeterminado)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.6</item>
+        <item>AVRCP 1.5</item>
+    </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Desactivado</item>
+        <item>Unicast</item>
+        <item>Unicast e Broadcast</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -308,7 +314,7 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (predeterminada)</item>
+        <item>MAP 1.2 (predeterminado)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
@@ -320,16 +326,28 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>1 hora</item>
-        <item>Sen tempo de espera</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desactivado</item>
         <item>Está activado o filtrado</item>
         <item>Activada</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixar só as cabeceiras de ACL</item>
+        <item>Filtrar paquetes multimedia A2DP</item>
+        <item>Filtrar canle RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Desactivar</item>
+        <item>Completar cunha cadea de caracteres</item>
+        <item>Deixar só a cabeceira</item>
+        <item>Quitar por completo</item>
+    </string-array>
+    <string-array name="bt_stack_log_level_entries">
+        <item>Verbosidade</item>
+        <item>Depuración</item>
+        <item>Información</item>
+        <item>Aviso</item>
+        <item>Erro</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Predeterminado</item>
@@ -339,17 +357,10 @@
         <item>Con relevo</item>
         <item>Afundido</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>Tamaño do texto: moi pequeno</item>
-        <item>Tamaño do texto: pequeno</item>
-        <item>Tamaño do texto: predeterminado</item>
-        <item>Tamaño do texto: grande</item>
-        <item>Tamaño do texto: moi grande</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Moi pequeno</item>
         <item>Pequeno</item>
-        <item>Predeterminado</item>
+        <item>Mediano</item>
         <item>Grande</item>
         <item>Moi grande</item>
     </string-array>
@@ -397,35 +408,17 @@
         <item>Estándar</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Verde azulado</item>
+        <item>Ciano</item>
         <item>Azul</item>
-        <item>Índigo</item>
+        <item>Verde</item>
         <item>Violeta</item>
         <item>Rosa</item>
-        <item>Vermello</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Escuro</item>
-        <item>Claro</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Últimos 30 días</item>
-        <item>Definir ciclo de uso...</item>
+        <item>Laranxa</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivado</item>
         <item>Mostrar áreas superpostas</item>
         <item>Mostrar áreas de deuteranomalía</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Nunca</item>
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>30 minutos</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Non verificar</item>
@@ -438,11 +431,11 @@
         <item>Systrace (gráficos)</item>
         <item>Pilla de chamadas en glGetError</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Pequeno</item>
-        <item>Predeterminado</item>
-        <item>Grande</item>
-        <item>O máis grande</item>
+    <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non utilizar nunca a comprobación HDCP</item>
@@ -480,6 +473,15 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Sempre</item>
+        <item>Agás se hai outra aplicación para pagos aberta</item>
+    </string-array>
+    <string-array name="nfc_payment_favor_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ningunha</item>
@@ -493,7 +495,7 @@
         <item>4K (seguro)</item>
         <item>4K (mellorado)</item>
         <item>4K (mellorado e seguro)</item>
-        <item>720p, 1080p (pantalla dual)</item>
+        <item>720p, 1080p (Dual Screen)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>Preferencia: GSM/WCDMA</item>
@@ -530,28 +532,6 @@
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Moderado</item>
-        <item>Baixo</item>
-        <item>Crítico</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Persistente</item>
-        <item>Actividade principal</item>
-        <item>Importante (primeiro plano)</item>
-        <item>Importante (segundo plano)</item>
-        <item>Copia de seguranza</item>
-        <item>Peso pesado</item>
-        <item>Servizo (en execución)</item>
-        <item>Servizo (reiniciando)</item>
-        <item>Receptor</item>
-        <item>Inicio</item>
-        <item>Última actividade</item>
-        <item>Na caché (actividade)</item>
-        <item>Na caché (cliente de actividade)</item>
-        <item>Na caché (en branco)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
@@ -617,14 +597,16 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>América</item>
-        <item>Europa</item>
-        <item>África</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacífico</item>
-        <item>Todas</item>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Nunca</item>
+        <item>Tras 1 minuto</item>
+        <item>Tras 5 minutos</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Cargando</item>
+        <item>Sesta</item>
+        <item>Modo de aforro de batería</item>
+        <item>Estado do proceso</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
@@ -641,20 +623,15 @@
         <item>Escala de animación de 10x</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Moi lento</item>
-        <item>Lento</item>
-        <item>Normal</item>
-        <item>Rápido</item>
-        <item>Máis rápido</item>
-        <item>Moi rápido</item>
-        <item>Rápido</item>
-        <item>Moi rápido</item>
-        <item>O máis rápido</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Tempo de uso</item>
-        <item>Última vez que se utilizou</item>
-        <item>Nome da aplicación</item>
+        <item>60 %</item>
+        <item>80 %</item>
+        <item>100 %</item>
+        <item>150 %</item>
+        <item>200 %</item>
+        <item>250 %</item>
+        <item>300 %</item>
+        <item>350 %</item>
+        <item>400 %</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Cargando</item>
@@ -676,17 +653,6 @@
         <item>Tempo de espera</item>
         <item>Incorrecta</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>VPN PPTP</item>
-        <item>VPN L2TP/IPSec con claves precompartidas</item>
-        <item>VPN L2TP/IPSec con certificados</item>
-        <item>VPN IPSec con claves precompartidas e autenticación Xauth</item>
-        <item>VPN IPSec con certificados e autenticación Xauth</item>
-        <item>VPN IPSec con certificados e autenticación híbrida</item>
-        <item>VPN IKEv2/IPSec con certificados e autenticación mediante nome de usuario/contrasinal</item>
-        <item>VPN IKEv2/IPSec con claves precompartidas</item>
-        <item>VPN IKEv2/IPSec con certificados</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wifi</item>
         <item>Datos móbiles</item>
@@ -696,11 +662,9 @@
         <item>Wifi</item>
         <item>Datos móbiles</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_dhcp_entries">
+        <item>Enviar nome do dispositivo á rede</item>
+        <item>Non enviar nome do dispositivo á rede</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Non</item>
@@ -722,11 +686,6 @@
         <item>Dispoñible</item>
         <item>Fóra de cobertura</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Pulsar o botón</item>
-        <item>PIN do dispositivo mesmo nivel</item>
-        <item>PIN do dispositivo</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
         <item>GTC</item>
@@ -739,7 +698,7 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Usar MAC aleatorio (predefinido)</item>
+        <item>Usar MAC aleatorio</item>
         <item>Usar MAC do dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

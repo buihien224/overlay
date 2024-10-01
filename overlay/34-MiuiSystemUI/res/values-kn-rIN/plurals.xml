@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 ಗಂಟೆ ಹಿಂದೆ</item>
-        <item quantity="one">1 ಗಂಟೆ ಹಿಂದೆ</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ಗಂಟೆ ಹಿಂದೆ</item>
-        <item quantity="one">1 ಗಂಟೆ ಹಿಂದೆ</item>
+        <item quantity="other">%d ಗಂಟೆ ಮೊದಲು</item>
+        <item quantity="one">%d ಗಂಟೆ ಮೊದಲು</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
         <item quantity="one">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 ಗಂಟೆಯಲ್ಲಿ</item>
-        <item quantity="one">1 ಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="other">%d ಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="one">%d ಗಂಟೆಯಲ್ಲಿ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
@@ -26,103 +22,71 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ</item>
-        <item quantity="one">1 ನಿಮಿಷದಲ್ಲಿ</item>
+        <item quantity="one">%d ನಿಮಿಷದಲ್ಲಿ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ಈಗ ತಾನೇ</item>
         <item quantity="one">ಈಗ ತಾನೇ</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
-        <item quantity="one">1 ನಿಮಿಷದ ಹಿಂದೆ</item>
+        <item quantity="other">%d ನಿಮಿ.ಗಳ ಮೊದಲು</item>
+        <item quantity="one">%d ನಿಮಿ ಮೊದಲು</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
-        <item quantity="one">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">ಹವಾಮಾನ ಒತ್ತಡ: %s ಹೆಕ್ಟೊಪಾಸ್ಕಲ್‌ಗಳು</item>
+        <item quantity="one">ಹವಾಮಾನ ಒತ್ತಡ: %s ಹೆಕ್ಟೊಪಾಸ್ಕಲ್‌</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">1 ಗಂಟೆಯಲ್ಲಿ</item>
-        <item quantity="one">1 ಗಂಟೆಯಲ್ಲಿ</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s ಕ್ಯಾಲರಿಗಳನ್ನು ಕರಗಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$s ಕ್ಯಾಲರಿ ಕರಗಿಸಲಾಗಿದೆ</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
-        <item quantity="one">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">ಕ್ಯಾಲೊರಿ ಗುರಿ: %1$s ಕ್ಯಾಲೊರಿಗಳು</item>
+        <item quantity="one">ಕ್ಯಾಲೊರಿ ಗುರಿ: %1$s ಕ್ಯಾಲೊರಿ</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">ಈ ಕ್ಷಣವೇ</item>
-        <item quantity="one">ಈ ಕ್ಷಣವೇ</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ</item>
-        <item quantity="one">1 ನಿಮಿಷದಲ್ಲಿ</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">ಚಟುವಟಿಕೆ ಸಮಯ: %1$s ನಿಮಿಷಗಳು</item>
+        <item quantity="one">ಚಟುವಟಿಕೆ ಸಮಯ: %1$s ನಿಮಿಷ</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">ಪಿನ್‌ ಕೋಡ್ ತಪ್ಪಾಗಿದೆ, %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಇವೆ</item>
-        <item quantity="one">ಪಿನ್‌ ಕೋಡ್ ತಪ್ಪಾಗಿದೆ, %d ಪ್ರಯತ್ನ ಬಾಕಿ ಇದೆ</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">ಚಟುವಟಿಕೆ ಗುರಿ: %1$s ನಿಮಿಷಗಳು</item>
+        <item quantity="one">ಚಟುವಟಿಕೆ ಗುರಿ: %1$s ನಿಮಿಷ</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">ಪಿಯುಕೆ ಕೋಡ್ ತಪ್ಪಾಗಿದೆ, %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಇವೆ</item>
-        <item quantity="one">ಪಿಯುಕೆ ಕೋಡ್ ತಪ್ಪಾಗಿದೆ, %d ಪ್ರಯತ್ನ ಬಾಕಿ ಇದೆ</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s ನಿಮಿ.ಗಳು</item>
+        <item quantity="one">%1$s/%2$s ನಿಮಿ</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಅದನ್ನು ಕನಿಷ್ಠ ಪ್ರತೀ %d ಗಂಟೆಗಳಿಗೊಮ್ಮೆ ನಮೂದಿಸುತ್ತಿರಿ</item>
-        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಅದನ್ನು ಕನಿಷ್ಠ ಪ್ರತೀ %d ಗಂಟೆಗೊಮ್ಮೆ ನಮೂದಿಸುತ್ತಿರಿ</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s ಗಂಟೆಗೊಳಗೆ ನಿಂತಿದ್ದೀರಿ</item>
+        <item quantity="one">%1$s ಗಂಟೆಯೊಳಗೆ ನಿಂತಿದ್ದೀರಿ</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">ನಿಲ್ಲುವಿಕೆಯ ಗುರಿ: %1$s ಗಂಟೆಗಳು</item>
+        <item quantity="one">ನಿಲ್ಲುವಿಕೆಯ ಗುರಿ: %1$s ಗಂಟೆ</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ಗಂ.ಗಳು</item>
+        <item quantity="one">%1$s/%2$s ಗಂ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ಪ್ರಸ್ತುತ ಹೆಜ್ಜೆ ಲೆಕ್ಕ: %1$s ಹೆಜ್ಜೆಗಳು</item>
+        <item quantity="one">ಪ್ರಸ್ತುತ ಹೆಜ್ಜೆ ಲೆಕ್ಕ: %1$s ಹೆಜ್ಜೆ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">ಹೆಜ್ಜೆ ಗುರಿ: %1$s ಹೆಜ್ಜೆಗಳು</item>
+        <item quantity="one">ಹೆಜ್ಜೆ ಗುರಿ: %1$s ಹೆಜ್ಜೆ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s ಹೆಜ್ಜೆಗಳು</item>
+        <item quantity="one">%1$s/%2$s ಹೆಜ್ಜೆ</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಅದನ್ನು ಕನಿಷ್ಠ ಪ್ರತೀ %d ಗಂಟೆಗಳಿಗೊಮ್ಮೆ ನಮೂದಿಸುತ್ತಿರಿ</item>
         <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಅದನ್ನು ಕನಿಷ್ಠ ಪ್ರತೀ %d ಗಂಟೆಗೊಮ್ಮೆ ನಮೂದಿಸುತ್ತಿರಿ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">%d ಗಂಟೆಗಳು ಬಾಕಿಯಿವೆ</item>
-        <item quantity="one">%d ಗಂಟೆ ಬಾಕಿಯಿದೆ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">%d ನಿಮಿಷಗಳು ಬಾಕಿಯಿವೆ</item>
-        <item quantity="one">%d ನಿಮಿಷ ಬಾಕಿಯಿದೆ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">%1$d ಗಂ %2$d ನಿ ಬಾಕಿಯಿವೆ</item>
-        <item quantity="one">%1$d ಗಂ %2$d ನಿ ಬಾಕಿಯಿವೆ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d ಗಂಟೆಗಳು</item>
-        <item quantity="one">%d ಗಂಟೆ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
-        <item quantity="one">%d ನಿಮಿಷ</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d ಗಂ %2$d ನಿಮಿ</item>
-        <item quantity="one">%1$d ಗಂ %2$d ನಿಮಿ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d ಗಂಟೆಗಳು ಉಳಿದಿವೆ</item>
-        <item quantity="one">%d ಗಂಟೆ ಉಳಿದಿದೆ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d ನಿಮಿಷಗಳು ಉಳಿದಿವೆ</item>
-        <item quantity="one">%d ನಿಮಿಷ ಉಳಿದಿದೆ</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d h %2$d ನಿ.ಗಳು ಉಳಿದಿವೆ</item>
-        <item quantity="one">%1$d ಗಂ %2$d ನಿ.ಗಳು ಉಳಿದಿವೆ</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">ಈಗ ತಾನೇ</item>
-        <item quantity="one">ಈಗ ತಾನೇ</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
-        <item quantity="one">%d ಐಟಂ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
-        <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆ</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
-        <item quantity="one">1 ನಿಮಿಷ ಹಿಂದೆ</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ</item>
@@ -131,5 +95,9 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">%d ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ</item>
         <item quantity="one">%d ಸೆಕೆಂಡ್‌ನಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">ತಾಪಮಾನ: %1$s ಡಿಗ್ರಿಗಳು, %2$s</item>
+        <item quantity="one">ತಾಪಮಾನ: %1$s ಡಿಗ್ರಿ, %2$s</item>
     </plurals>
 </resources>

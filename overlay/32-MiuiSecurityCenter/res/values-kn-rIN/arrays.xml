@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>ಒಮ್ಮೆ</item>
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ಕಾನೂನು ಪ್ರಕಾರ ಕೆಲಸದ ದಿನ</item>
+        <item>ವಾರದ ದಿನಗಳು</item>
+        <item>ಕಸ್ಟಮ್‌</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ಒಮ್ಮೆ</item>
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ವಾರದ ದಿನಗಳು</item>
+        <item>ಕಸ್ಟಮ್‌</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>ಎಲ್ಲಾ ರೆಕಾರ್ಡ್‌ಗಳು</item>
+        <item>ಸ್ವಯಂಪ್ರಾರಂಭ</item>
+        <item>ಸರಣಿ ಆರಂಭ</item>
+        <item>ಅನುಮತಿಗಳನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಸೂಕ್ಷ್ಮ ಕ್ರಿಯೆಗಳು</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>ಪ್ಯಾಟರ್ನ್‌</item>
+        <item>ಪಿನ್‌</item>
+        <item>ಪಾಸ್‌ವರ್ಡ್‌</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>ಗಾತ್ರ</item>
+        <item>ಹೆಸರು</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>ಮಾಸಿಕ ಪ್ಲ್ಯಾನ್‌</item>
+        <item>ಅನಿಯಮಿತ</item>
+        <item>ದೈನಂದಿನ ಪ್ಲ್ಯಾನ್‌</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>ಕಸ್ಟಮ್‌</item>
+        <item>Xiaomi ಫ್ಯಾನ್‌ ಕಾರ್ಡ್‌</item>
+        <item>Xiao Tiansheng ಕಾರ್ಡ್‌</item>
+        <item>Tencent King ಕಾರ್ಡ್</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>ಕಸ್ಟಮ್‌</item>
+        <item>Mi ಮೊಬೈಲ್</item>
+        <item>Xiaomi ಫ್ಯಾನ್‌ ಕಾರ್ಡ್‌</item>
+        <item>Tianshen ಕಾರ್ಡ್‌</item>
+        <item>Tencent ಕಾರ್ಡ್‌</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"ನಿನ್ನೆ (ಮೊಬೈಲ್ ಡೇಟಾ) "</item>
+        <item>"ಇಂದು (ಮೊಬೈಲ್ ಡೇಟಾ) "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು (ಮೊಬೈಲ್‌ ಡೇಟಾ) "</item>
+        <item>"ಈ ತಿಂಗಳು (ಮೊಬೈಲ್‌ ಡೇಟಾ) "</item>
+        <item>"ನಿನ್ನೆ (ವೈ-ಫೈ) "</item>
+        <item>"ಇಂದು (ವೈ-ಫೈ) "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು (ವೈ-ಫೈ) "</item>
+        <item>"ಈ ತಿಂಗಳು (ವೈ-ಫೈ) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"ನಿನ್ನೆ "</item>
+        <item>"ಇಂದು "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು "</item>
+        <item>"ಈ ತಿಂಗಳು "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"ಈ ವಾರ "</item>
+        <item>"ಇಂದು "</item>
+        <item>"ಈ ತಿಂಗಳು "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"ನಿನ್ನೆ: "</item>
+        <item>"ಇಂದು: "</item>
+        <item>"ಕೊನೆಯ ತಿಂಗಳು: "</item>
+        <item>"ಈ ತಿಂಗಳು: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"ಈ ವಾರ: "</item>
+        <item>"ಇಂದು: "</item>
+        <item>"ಈ ತಿಂಗಳು: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>ಕಂಪ್ಯೂಟರ್‌ ಮೂಲಕ ನಿಮ್ಮ ಡಿವೈಸ್‌ನಲ್ಲಿರುವ ಫೈಲ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ಎಡಿಟ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.</item>
+        <item>ನಿಮ್ಮ ಅನುಮತಿ ಇಲ್ಲದೇ ನಿಮ್ಮ ಡಿವೈಸ್‌ನಲ್ಲಿ ಆ್ಯಪ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡುವುದನ್ನು ಅನುಮತಿಸಲಾಗುತ್ತದೆ</item>
+        <item>ನಿಮ್ಮ ಸ್ಕ್ರೀನ್‌ ಕಂಟೆಂಟ್‌ಗಳನ್ನು ದೂರದಿಂದಲೇ ನೋಡಲು ಮತ್ತು ರೆಕಾರ್ಡ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕುರಿತು ವಿವರವಾದ ಮಾಹಿತಿ ಪ್ರವೇಶಿಸುವುದು ಸಾಧ್ಯವಾಗುತ್ತದೆ.</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>ಅತೀ ಕಡಿಮೆ</item>
+        <item>ಕಡಿಮೆ</item>
+        <item>ನಿಯಮಿತ</item>
+        <item>ಹೆಚ್ಚು</item>
+        <item>ತೀರಾ ಹೆಚ್ಚು</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>gb_voice_changer_gender_man</item>
+        <item>gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>ಡಿವೈಸ್‌ ಲಾಕ್ ಮಾಡಿದಾಗ</item>
+        <item>ಫೋನನ್ನು ಲಾಕ್ ಮಾಡಿದಾಗ ಅಥವಾ ಅಪ್ಲಿಕೇಶನ್ ನಿರ್ಗಮನದ ನಂತರ</item>
+        <item>ಫೋನನ್ನು ಲಾಕ್ ಮಾಡಿದಾಗ ಅಥವಾ ಅಪ್ಲಿಕೇಶನ್ ನಿರ್ಗಮನದ ನಂತರ 1 ನಿಮಿಷದಲ್ಲಿ</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"ಮೊಬೈಲ್ ಬಳಕೆ "</item>
+        <item>"ವೈ-ಫೈ ಬಳಕೆ "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>ಪ್ರಮುಖ: ಮಲ್ಪಿಪಲ್‌ ಸಿಸ್ಟಂ ಆ್ಯಪ್‌ಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು.</item>
+        <item>ಪಠ್ಯ ಲೇಔಟ್‌ಗಳು, ಖಾತೆಗಳು ಮತ್ತು ಕಂಟೆಂಟ್‌ ಸರಿಯಾಗಿ ಡಿಸ್‌ಪ್ಲೇ ಆಗದೇ ಇರಬಹುದು.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>auto_task_operation_open</item>
+        <item>auto_task_operation_close</item>
+        <item>auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>ಎಚ್ಚರಿಕೆ ತೋರಿಸು</item>
+        <item>ಎಚ್ಚರಿಸು, ಮೊಬೈಲ್ ಡೇಟಾ ಆಫ್‌ ಮಾಡು</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>pc_battery_history_consume_rank_menu_item</item>
+        <item>power_center_battery_all</item>
+        <item>power_center_battery_software</item>
+        <item>power_center_battery_hardware</item>
+        <item>pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>ಡೀಫಾಲ್ಟ್‌</item>
+        <item>ಕಾರ್ಯದಕ್ಷತೆ ಆದ್ಯತೆಗೊಳಿಸಿ</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>ಡಿಫಾಲ್ಟ್‌ ತಾಪಮಾನ ನಿಯಂತ್ರಣ ಮೋಡ್‌ ಬಳಸಲಾಗುತ್ತಿದೆ</item>
+        <item>ಕಾರ್ಯದಕ್ಷತೆ ಆದ್ಯತೆಗೊಳಿಸಿ</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>ನಿಮ್ಮ ಪಠ್ಯ ಸಂದೇಶಗಳಲ್ಲಿರುವ ಕಂಟೆಂಟ್‌ಗಳನ್ನೂ ಒಳಗೊಂಡಂತೆ ಮತ್ತು ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡ ನಿಮ್ಮೆಲ್ಲಾ ಅಧಿಸೂಚನೆಗಳನ್ನೂ ಓದು</item>
+        <item>ಕೆಲವು ಆ್ಯಪ್‌ಗಳಿಗೆ ಅಧಿಸೂಚನೆ ಅನುಮತಿಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</item>
+        <item>ಅಧಿಸೂಚನೆಗಳ ಟ್ಯಾಪಿಂಗ್‌ ಸಿಮ್ಯುಲೇಟ್‌ ಮಾಡು ಮತ್ತು ಆ್ಯಪ್‌ಗಳನ್ನು ತೆರೆ</item>
+        <item>DND ಮೋಡ್ ಆನ್/ಆಫ್‌ ಮಾಡು</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>ನೀವು ಯಾವ ಆ್ಯಪ್‌ಗಳನ್ನು ಬಳಸುತ್ತೀರಿ ಮತ್ತು ಎಷ್ಟು ಬಾರಿ ಬಳಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ಅರಿತುಕೊಳ್ಳುವ ಮೂಲಕ ನಿಮ್ಮ ಆಸಕ್ತಿಗಳು ಮತ್ತು ವರ್ತನೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಡೇಟಾ ಸಂಗ್ರಹಿಸಿ.</item>
+        <item>ಕ್ಯಾರಿಯರ್‌ ಸಂಬಂಧಿ ಮತ್ತು ಭಾಷೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಹಾಗೂ ಇತರ ವಿವರಗಳನ್ನು ಪ್ರವೇಶಿಸಿ</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>ಪರಿಶೀಲಿಸದೇ ಇರುವ ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಆ್ಯಪ್‌ಗಳು ಹಲವು ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು. ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಗೆ ಧಕ್ಕೆಯುಂಟು ಮಾಡಬಹುದು.</item>
+        <item>ಕೆಲವು ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಆ್ಯಪ್‌ಗಳು ಮಾಲ್ವೇರ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರಬಹುದು ಮತ್ತು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾಗೆ ಅಪಾಯವುಂಟು ಮಾಡಬಹುದು.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ</item>
+        <item>ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆ</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>ಯಾವಾಗಲೂ</item>
+        <item>ಕೇವಲ ವಿನಾಯಿತಿಗಳಿಗಾಗಿ ಮಾತ್ರ</item>
+        <item>ಯಾವಾಗಲೂ ಬೇಡ</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>ಡೇಟಾ ಬಳಕೆ</item>
+        <item>ಪೋನ್ ಬ್ಯಾಲನ್ಸ್</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>ಆ್ಯಪ್‌ ಹೆಸರಿನ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</item>
+        <item>ಇತ್ತೀಚಿಗೆ ಬಳಸಿದ್ದರ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಬಳಕೆ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</item>
+        <item>ಇನ್‌ಸ್ಟಾಲೇಶನ್‌ ಸಮಯದ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>ಆ್ಯಪ್‌‌ ಹೆಸರು</item>
+        <item>ಇತ್ತೀಚೆಗೆ ಬಳಸಲಾಗಿದೆ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಬಳಸಲಾಗಿದೆ</item>
+        <item>ಇನ್‌ಸ್ಟಾಲೇಶನ್‌ ಸಮಯ</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>ಆಫ್‌ ಮಾಡಿ ಮತ್ತು ಸೂಚಿಸಿ</item>
+        <item>ಕೇವಲ ಸೂಚಿಸು</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>ಇನ್‌ಸ್ಟಾಲೇಶನ್‌ ಮೂಲ</item>
+        <item>ಇನ್‌ಸ್ಟಾಲೇಶನ್‌ ಸಮಯ</item>
+        <item>ಹಿಂದಿನ ಅಪ್‌ಡೇಟ್‌ ಮೂಲ</item>
+        <item>ಹಿಂದಿನ ಅಪ್‌ಡೇಟ್‌ ಸಮಯ</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>ಮಾಸಿಕ ಡೇಟಾ ಯೋಜನೆ</item>
+        <item>ದೈನಂದಿನ ಡೇಟಾ ಪ್ಲಾನ್‌</item>
+        <item>ಅನಿಯಮಿತ ಡೇಟಾ ಪ್ಲಾನ್</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಕೆ "</item>
+        <item>"ವೈ-ಫೈ ಬಳಕೆ "</item>
+    </string-array>
+</resources>

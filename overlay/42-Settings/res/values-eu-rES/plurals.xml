@@ -5,16 +5,16 @@
         <item quantity="one">Duela ordubete</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Duela ordubete</item>
-        <item quantity="one">Duela ordubete</item>
+        <item quantity="other">Duela %d ordu</item>
+        <item quantity="one">Duela ordu %d</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Duela ordu erdi</item>
         <item quantity="one">Duela ordu erdi</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Ordubete barru</item>
-        <item quantity="one">Ordubete barru</item>
+        <item quantity="other">Ordu %d barru</item>
+        <item quantity="one">Ordu %d barru</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Ordu erdi barru</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Berehala</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d min barru</item>
-        <item quantity="one">Min 1 barru</item>
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu %d barru</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Oraintxe bertan</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Duela %d min</item>
-        <item quantity="one">Duela min 1</item>
+        <item quantity="one">Duela min %d</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Inoiz ere ez ezgaitu %d aplikazioentzat</item>
@@ -46,7 +46,7 @@
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d aplikazio automatikoki hasteko baimenduta daude</item>
-        <item quantity="one">%d aplikazio automatikoki hasteko baimenduta daude</item>
+        <item quantity="one">Aplikazio %d automatikoki hasteko baimenduta dago</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplikazio sarera konektatu daitezke</item>
@@ -58,7 +58,7 @@
     </plurals>
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d gailu erabilgarri</item>
-        <item quantity="one">%d gailu erabilgarri</item>
+        <item quantity="one">Gailu %d erabilgarri</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d segundoz behin</item>
@@ -66,15 +66,19 @@
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d gailu</item>
-        <item quantity="one">%d gailu</item>
+        <item quantity="one">Gailu %d</item>
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">%s aplikazioentzat konexioa mugatuta</item>
         <item quantity="one">Aplikazio %s-entzat konexioa mugatuta</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Itxaron %d segundo eta saiatu berriz</item>
+        <item quantity="one">Itxaron segundo %d eta saiatu berriz</item>
+    </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d pertsona konektatuta</item>
-        <item quantity="one">%1$d pertsona konektatuta</item>
+        <item quantity="one">Pertsona %1$d konektatuta</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Duela ordu erdi</item>
@@ -132,6 +136,10 @@
         <item quantity="other">%d segundo itxaron eta berriro saiatu.</item>
         <item quantity="one">Segundo %d itxaron eta berriro saiatu.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">%d prozesu gehienez</item>
+        <item quantity="one">Prozesu %d gehienez</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d gehituta</item>
         <item quantity="one">%d gehituta</item>
@@ -144,6 +152,10 @@
         <item quantity="other">%d elementu aukeratuta</item>
         <item quantity="one">%d elementu aukeratuta</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Aldaketak %d segunod barru ezarriko dira</item>
+        <item quantity="one">Aldaketak segundo %d barru ezarriko dira</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Duela %d minutu</item>
         <item quantity="one">Duela minutu 1</item>
@@ -153,16 +165,20 @@
         <item quantity="one">%d elementu hautatuta</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">CIT-a sartzetik %1$d urratsetara zaude.</item>
-        <item quantity="one">CIT-a sartzetik %1$d urratsetara zaude.</item>
+        <item quantity="other">CIT-a sartzetik %1$d urratsera zaude.</item>
+        <item quantity="one">CIT-a sartzetik urrats %1$d-era zaude.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Garatzaile bat izatetik %1$d urratsera zaude.</item>
+        <item quantity="one">Garatzaile bat izatetik urrats %1$d-era zaude.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Gailuaren informazioa irekitzetik %1$d urratsetara zaude.</item>
-        <item quantity="one">Gailuaren informazioa irekitzetik %1$d urratsera zaude.</item>
+        <item quantity="other">Gailuaren informazioa irekitzetik %1$d urratsera zaude.</item>
+        <item quantity="one">Gailuaren informazioa irekitzetik urrats %1$d-era zaude.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Akatsaren berri ematetik %1$d urratsetara zaude.</item>
-        <item quantity="one">Akatsaren berri ematetik %1$d urratsetara zaude.</item>
+        <item quantity="other">Akatsaren berri ematetik %1$d urratsera zaude.</item>
+        <item quantity="one">Akatsaren berri ematetik urrats %1$d-era zaude.</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplikazioek ezin dute jakinarazpenak erakutsi</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplikazioek jakinarazpenak erakutsi ditzakete</item>
         <item quantity="one">%d aplikazioak jakinarazpenak erakutsi ditzake</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d minutu eta gero</item>
+        <item quantity="one">Minutu %d eta gero</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bit/lagin</item>
+        <item quantity="one">bit/lagin %d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">Ordu %d</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">Minutu %d</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d segundo</item>
+        <item quantity="one">Segundo %d</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Jaso alerta bat entzungailuren bat zure belarritik edo karga-kaxatik kanpo %d minutu baino gehiago dagoenean</item>
@@ -245,15 +281,11 @@
         <item quantity="one">"min "</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">%d arrisku aurkitua</item>
-        <item quantity="one">%d arrisku aurkitua</item>
+        <item quantity="other">%d arrisku aurkitu dira</item>
+        <item quantity="one">Arrisku %d aurkitu da</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d sare partekatuta</item>
-        <item quantity="one">%d sare partekatuta</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d gailu konektatutak</item>
-        <item quantity="one">Gailu %1$d konektatuta</item>
+        <item quantity="one">Sare %d partekatuta</item>
     </plurals>
 </resources>

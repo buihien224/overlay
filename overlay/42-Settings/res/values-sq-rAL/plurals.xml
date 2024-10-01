@@ -5,16 +5,16 @@
         <item quantity="one">1 orë më parë</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 orë më parë</item>
-        <item quantity="one">1 orë më parë</item>
+        <item quantity="other">%d ore më parë</item>
+        <item quantity="one">%d ore më parë</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Gjysmë ore më parë</item>
         <item quantity="one">Gjysmë ore më parë</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Për 1 orë</item>
-        <item quantity="one">Për 1 orë</item>
+        <item quantity="other">Në %d orë</item>
+        <item quantity="one">Në %d orë</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Për gjysmë ore</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Menjëherë</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">për %d minuta</item>
-        <item quantity="one">për 1 minutë</item>
+        <item quantity="other">në %d minuta</item>
+        <item quantity="one">në %d minut</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Tani</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minuta më parë</item>
-        <item quantity="one">1 min më parë</item>
+        <item quantity="one">%d minut më parë</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Kurrë mos çaktivizo për %d aplikacionet</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Lidhje e kufizuar për %s aplikacione</item>
         <item quantity="one">Lidhje e kufizuar për %s aplikacion</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Wait for %d secs and try again</item>
+        <item quantity="one">Wait for %d sec and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persona të lidhur</item>
@@ -132,6 +136,10 @@
         <item quantity="other">Prisni për %d sekonda dhe provoni sërish.</item>
         <item quantity="one">Prisni për %d sekond dhe provo sërish.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Së shumti %d proçeset</item>
+        <item quantity="one">Së shumti %d proçesi</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d të shtuar</item>
         <item quantity="one">%d të shtuar</item>
@@ -143,6 +151,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d artikuj të zgjedhur</item>
         <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Ndryshimet do të zbatohen për %d sekonda</item>
+        <item quantity="one">Ndryshimet do të zbatohen për %d sek</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuta më parë</item>
@@ -156,9 +168,13 @@
         <item quantity="other">Ju jeni%1$d hapa largë nga futja në CIT.</item>
         <item quantity="one">Ju jeni %1$d hap larg nga futja në CIT.</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tani jeni %1$d hapa larg të qenit një zhvillues.</item>
+        <item quantity="one">Ti je tani %1$d nje hap larg nga te qenurit zhvillues.</item>
+    </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Ju jeni %1$d largohuni nga hapja e informacionit të pajisjes.</item>
-        <item quantity="one">Ju jeni %1$d largohuni nga hapja e informacionit të pajisjes.</item>
+        <item quantity="other">Ju jeni %1$d hapa larg per te hapur informacionin e pajisjes.</item>
+        <item quantity="one">Ju jeni %1$d hap larg per te hapur informacionin e pajisjes.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Ju jeni%1$d hapa largë nga raportimi i korrigjimit.</item>
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">aplikacionet %d mund të shfaqin njoftime</item>
         <item quantity="one">aplikacioni %d mund të shfaqë njoftime</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Pas %d minuta</item>
+        <item quantity="one">Pas %d minut</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/monstra</item>
+        <item quantity="one">%d bit/monster</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">%d sekond</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Merrni një sinjalizim sa herë që një nga kufjet tuaj është larg veshit ose kutisë së karikimit për më shumë se %d minuta</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Ndau %d rrjete</item>
         <item quantity="one">Ndau %d rrjet</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d pajisje të lidhura</item>
-        <item quantity="one">%1$d pajisje e lidhur</item>
     </plurals>
 </resources>

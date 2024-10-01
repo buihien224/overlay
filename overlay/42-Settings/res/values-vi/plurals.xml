@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' ?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 giờ trước</item>
@@ -28,16 +28,16 @@
         <item quantity="other">%d phút trước</item>
     </plurals>
     <plurals name="abc_slice_duration_days">
-        <item quantity="one">%d ngày trước</item>
         <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="one">%d phút trước</item>
         <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="one">%d năm trước</item>
         <item quantity="other">%d năm trước</item>
+        <item quantity="one">%d năm trước</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Không bao giờ tắt %d ứng dụng</item>
@@ -57,9 +57,6 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d thiết bị khả dụng</item>
     </plurals>
-    <plurals name="clean_time">
-        <item quantity="other">%d giây</item>
-    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Mỗi %d giây</item>
     </plurals>
@@ -68,6 +65,9 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Đã hạn chế kết nối %s ứng dụng</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Chờ %d giây và thử lại</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d thiết bị đã kết nối</item>
@@ -115,8 +115,8 @@
         <item quantity="other">Chờ %d giây và thử lại.</item>
     </plurals>
     <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="one">%1$s</item>
         <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Nhiều nhất %d tiến trình</item>
@@ -131,8 +131,8 @@
         <item quantity="other">Đã chọn %d mục</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="one">%d thông báo mới</item>
         <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
     </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Thay đổi sẽ được áp dụng sau %d giây</item>
@@ -154,10 +154,6 @@
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
-    </plurals>
-    <plurals name="special_access_summary">
-        <item quantity="one">1 ứng dụng có thể sử dụng dữ liệu không bị hạn chế</item>
-        <item quantity="other">%d ứng dụng có thể sử dụng dữ liệu không bị hạn chế</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d ứng dụng không thể hiển thị thông báo</item>
@@ -202,13 +198,13 @@
         <item quantity="other">%d giờ</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other"> giờ</item>
+        <item quantity="other">" giờ"</item>
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d phút</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other"> phút</item>
+        <item quantity="other">" phút"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d thông báo</item>
@@ -229,18 +225,15 @@
         <item quantity="other">Các ngày trong tuần: %d phút</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other"> giờ</item>
+        <item quantity="other">" giờ"</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other"> phút</item>
+        <item quantity="other">" phút"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">Đã tìm thấy %d nguy cơ</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Đã chia sẻ %d mạng</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d thiết bị đã kết nối</item>
     </plurals>
 </resources>

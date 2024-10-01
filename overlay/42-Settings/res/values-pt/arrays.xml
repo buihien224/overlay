@@ -32,18 +32,6 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Armazenamento do dispositivo interno</item>
-        <item>Cartão SD removível</item>
-        <item>Deixar o sistema decidir</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Localização</item>
-        <item>Pessoal</item>
-        <item>Mensagens</item>
-        <item>Mídia</item>
-        <item>Dispositivo</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>Localização</item>
         <item>Localização</item>
@@ -99,7 +87,7 @@
         <item>Ler estado do telefone</item>
         <item>Adicionar correio de voz</item>
         <item>Usar SIP</item>
-        <item>Processar chamada realizada</item>
+        <item>Processar ligação feita</item>
         <item>Impressão digital</item>
         <item>Sensores corporais</item>
         <item>Ler transmissões celulares</item>
@@ -166,7 +154,7 @@
         <item>ler estado do telefone</item>
         <item>adicionar correio de voz</item>
         <item>usar sip</item>
-        <item>processar chamada realizada</item>
+        <item>processar ligação feita</item>
         <item>impressão digital</item>
         <item>sensores corporais</item>
         <item>ler transmissões celulares</item>
@@ -275,6 +263,10 @@
         <item>Áudio Qualcomm® aptX™</item>
         <item>Áudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Audio Qualcomm® aptX™ Adaptive</item>
+        <item>Audio Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar seleção do sistema (padrão)</item>
@@ -283,6 +275,10 @@
         <item>Áudio Qualcomm® aptX™</item>
         <item>Áudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Audio Qualcomm® aptX™ Adaptive</item>
+        <item>Audio Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -290,17 +286,27 @@
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Usar o padrão do app</item>
+        <item>Tocar no aparelho auditivo</item>
+        <item>Tocar no alto-falante do smartphone</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
+        <item>avrcp16</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp16</item>
+        <item>avrcp15</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (padrão)</item>
+        <item>AVRCP 1.6 (padrão)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.6</item>
+        <item>AVRCP 1.5</item>
+    </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Disabled</item>
+        <item>Unicast</item>
+        <item>Unicast e Broadcast</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -320,16 +326,28 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>Dois minutos</item>
-        <item>Cinco minutos</item>
-        <item>Uma hora</item>
-        <item>Nunca definir tempo limite</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desativado</item>
         <item>Filtro ativado</item>
         <item>Ativado</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixar apenas cabeçalhos da Access Control List</item>
+        <item>Filtrar pacotes de mídia A2DP</item>
+        <item>Filtrar canal RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Desativar</item>
+        <item>Preencher com string de caracteres</item>
+        <item>Deixar apenas o cabeçalho</item>
+        <item>Remover totalmente</item>
+    </string-array>
+    <string-array name="bt_stack_log_level_entries">
+        <item>Detalhado</item>
+        <item>Depuração</item>
+        <item>Informações</item>
+        <item>Aviso</item>
+        <item>Erro</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Padrão</item>
@@ -339,17 +357,10 @@
         <item>Em relevo</item>
         <item>Baixo relevo</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>Texto muito pequeno</item>
-        <item>Texto pequeno</item>
-        <item>Texto de tamanho padrão</item>
-        <item>Texto grande</item>
-        <item>Texto muito grande</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
-        <item>Padrão</item>
+        <item>Médio</item>
         <item>Grande</item>
         <item>Muito grande</item>
     </string-array>
@@ -397,35 +408,17 @@
         <item>Padrão</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Azul-petróleo</item>
+        <item>Ciano</item>
         <item>Azul</item>
-        <item>Índigo</item>
+        <item>Verde</item>
         <item>Roxo</item>
         <item>Rosa</item>
-        <item>Vermelho</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Escuro</item>
-        <item>Claro</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Últimos 30 dias</item>
-        <item>Definir ciclo de uso...</item>
+        <item>Laranja</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desativado</item>
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para daltonismo</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Nunca</item>
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>30 minutos</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Não verificar</item>
@@ -438,11 +431,11 @@
         <item>Systrace (gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Pequena</item>
-        <item>Padrão</item>
-        <item>Grande</item>
-        <item>Maior</item>
+    <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca usar a verificação HDCP</item>
@@ -480,6 +473,15 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Sempre</item>
+        <item>Exceto quando outro app de pagamento estiver aberto</item>
+    </string-array>
+    <string-array name="nfc_payment_favor_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -530,28 +532,6 @@
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Moderado</item>
-        <item>Baixo</item>
-        <item>Crítico</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Persistente</item>
-        <item>Principal atividade</item>
-        <item>Importante (primeiro plano)</item>
-        <item>Importante (segundo plano)</item>
-        <item>Backup</item>
-        <item>Uso intenso</item>
-        <item>Serviço (em execução)</item>
-        <item>Serviço (reiniciando)</item>
-        <item>Receptor</item>
-        <item>Início</item>
-        <item>Última atividade</item>
-        <item>Em cache (atividade)</item>
-        <item>Em cache (cliente de atividade)</item>
-        <item>Em cache (vazio)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
@@ -617,14 +597,16 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>América</item>
-        <item>Europa</item>
-        <item>África</item>
-        <item>Ásia</item>
-        <item>Austrália</item>
-        <item>Pacífico</item>
-        <item>Todos</item>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Nunca</item>
+        <item>Depois de um minuto</item>
+        <item>Depois de cinco minutos</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Carregando</item>
+        <item>Soneca</item>
+        <item>Modo de economia de energia</item>
+        <item>Estado do processo</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
@@ -641,20 +623,15 @@
         <item>Escala de animação 10 x</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Muito devagar</item>
-        <item>Devagar</item>
-        <item>Normal</item>
-        <item>Rápida</item>
-        <item>Mais rápida</item>
-        <item>Muito rápida</item>
-        <item>Rápida</item>
-        <item>Muito rápida</item>
-        <item>Super-rápida</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Tempo de uso</item>
-        <item>Última utilização</item>
-        <item>Nome do app</item>
+        <item>60%</item>
+        <item>80%</item>
+        <item>100%</item>
+        <item>150%</item>
+        <item>200%</item>
+        <item>250%</item>
+        <item>300%</item>
+        <item>350%</item>
+        <item>400%</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carregamento</item>
@@ -670,22 +647,11 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
-        <item>Inicializando...</item>
+        <item>Iniciando…</item>
         <item>Conectando...</item>
         <item>Conectado</item>
         <item>Tempo limite</item>
         <item>Malsucedida</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>VPN PPTP</item>
-        <item>L2TP/IPSec VPN com chaves pré-compartilhadas</item>
-        <item>VPN L2TP/IPSec com certificados</item>
-        <item>VPN IPSec com chaves pré-compartilhadas e autenticação Xauth</item>
-        <item>VPN IPSec com autenticação de certificados e Xauth</item>
-        <item>VPN IPSec com certificados e autenticação híbrida</item>
-        <item>VPN IKEv2/IPSec com certificados e autenticação de nome de usuário/senha</item>
-        <item>VPN IKEv2/IPSec com chaves pré-compartilhadas</item>
-        <item>VPN IKEv2/IPSec com certificados</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -696,11 +662,9 @@
         <item>Wi-Fi</item>
         <item>Celular</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_dhcp_entries">
+        <item>Enviar nome do dispositivo à rede</item>
+        <item>Não enviar nome do dispositivo à rede</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Não</item>
@@ -722,11 +686,6 @@
         <item>Disponível</item>
         <item>Fora de alcance</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Pressione o botão</item>
-        <item>PIN do dispositivo pareado</item>
-        <item>PIN deste disposit.</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
         <item>GTC</item>
@@ -739,7 +698,7 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Usar MAC aleatório (padrão)</item>
+        <item>Usar MAC aleatório</item>
         <item>Usar MAC do dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

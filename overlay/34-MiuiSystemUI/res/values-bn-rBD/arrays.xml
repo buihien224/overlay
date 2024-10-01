@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="miui_notification_aggregate_category">
-        <item>এটা প্রস্তাবিত কনটেন্ট।</item>
-        <item>এটা বিজ্ঞাপন।</item>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | সক্রিয়"</item>
+        <item>" | সক্রিয় (মিডিয়া)"</item>
+        <item>" | সক্রিয় (ফোন)"</item>
     </string-array>
 </resources>

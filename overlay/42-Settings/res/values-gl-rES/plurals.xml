@@ -5,16 +5,16 @@
         <item quantity="one">Hai 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Hai 1 hora</item>
-        <item quantity="one">Hai 1 hora</item>
+        <item quantity="other">Hai %d horas</item>
+        <item quantity="one">Hai %d hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Hai media hora</item>
         <item quantity="one">Hai media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Nunha hora</item>
-        <item quantity="one">Nunha hora</item>
+        <item quantity="other">En %d horas</item>
+        <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">En media hora</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d minutos</item>
-        <item quantity="one">Nun minuto</item>
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hai %d minutos</item>
-        <item quantity="one">Hai 1 min</item>
+        <item quantity="other">Hai %d mins</item>
+        <item quantity="one">Hai %d min</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desactivar para %d apps</item>
@@ -71,6 +71,10 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Conexión restrinxida para %s aplicacións</item>
         <item quantity="one">Conexión restrinxida para %s aplicación</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Agarda %d segundos e téntao de novo</item>
+        <item quantity="one">Agarda %d segundo e téntao de novo</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persoas conectadas</item>
@@ -132,6 +136,10 @@
         <item quantity="other">Agarda %d segundos e téntao de novo.</item>
         <item quantity="one">Agarda %d segundo e téntao de novo.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Como máximo %d procesos</item>
+        <item quantity="one">Como máximo %d proceso</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d engadidos</item>
         <item quantity="one">%d engadido</item>
@@ -143,6 +151,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Os cambios aplicaranse en %d segs</item>
+        <item quantity="one">Os cambios aplicaranse en %d seg</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hai %d minutos</item>
@@ -156,8 +168,12 @@
         <item quantity="other">Está a %1$d pasos de entrar a CIT.</item>
         <item quantity="one">Está a %1$d paso de entrar a CIT.</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Agora estás a %1$d pasos de ser programador.</item>
+        <item quantity="one">Agora estás a %1$d paso de ser programador.</item>
+    </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Estás %1$d a un paso de abrir a información do dispositivo.</item>
+        <item quantity="other">"You're %1$d steps away from opening device info."</item>
         <item quantity="one">Estás %1$d a un paso de abrir a información do dispositivo.</item>
     </plurals>
     <plurals name="show_rep_countdown">
@@ -171,6 +187,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicacións poden amosar notificacións</item>
         <item quantity="one">%d aplicación pode amosar notificacións</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Despois de %d minutos</item>
+        <item quantity="one">Despois de %d minuto</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/mostra</item>
+        <item quantity="one">%d bit/mostra</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Recibe unha alerta sempre que un dos auriculares estea lonxe do teu oído ou da carcasa durante máis de %d minutos</item>
@@ -251,9 +287,5 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Redes %d compartidas</item>
         <item quantity="one">Rede %d compartida</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>
