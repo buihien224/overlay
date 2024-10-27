@@ -7,10 +7,10 @@
         <item quantity="many">Pred 1 hodinou</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Pred 1 hodinou</item>
-        <item quantity="one">Pred 1 hodinou</item>
-        <item quantity="few">Pred 1 hodinou</item>
-        <item quantity="many">Pred 1 hodinou</item>
+        <item quantity="other">Pred %d hod.</item>
+        <item quantity="one">Pred %d hod.</item>
+        <item quantity="few">Pred %d hod.</item>
+        <item quantity="many">Pred %d hod.</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
@@ -19,10 +19,10 @@
         <item quantity="many">Pred pol hodinou</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Do hodiny</item>
-        <item quantity="one">Do hodiny</item>
-        <item quantity="few">Do hodiny</item>
-        <item quantity="many">Do hodiny</item>
+        <item quantity="other">Za %d hod.</item>
+        <item quantity="one">Za %d hod.</item>
+        <item quantity="few">Za %d hod.</item>
+        <item quantity="many">Za %d hod.</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Do pol hodiny</item>
@@ -37,10 +37,10 @@
         <item quantity="many">Okamžite</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">do %d min.</item>
-        <item quantity="one">do 1 min.</item>
-        <item quantity="few">do %d min.</item>
-        <item quantity="many">do %d min.</item>
+        <item quantity="other">Za %d min.</item>
+        <item quantity="one">Za %d min.</item>
+        <item quantity="few">Za %d min.</item>
+        <item quantity="many">Za %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Práve teraz</item>
@@ -49,28 +49,16 @@
         <item quantity="many">Práve teraz</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Pred %d minútami</item>
-        <item quantity="one">Pred 1 min.</item>
-        <item quantity="few">Pred %d min.</item>
-        <item quantity="many">Pred %d min.</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Povoliť aplikácii %1$s automatický prístup k položkám v schránke %2$d-krát</item>
-        <item quantity="one">Povoliť aplikácii %1$s automatický prístup k položkám v schránke %2$d-krát</item>
-        <item quantity="few">Povoliť aplikácii %1$s automatický prístup k položkám v schránke %2$d-krát</item>
-        <item quantity="many">Povoliť aplikácii %1$s automatický prístup k položkám v schránke %2$d-krát</item>
+        <item quantity="other">pred %d min.</item>
+        <item quantity="one">pred %d min.</item>
+        <item quantity="few">pred %d min.</item>
+        <item quantity="many">pred %d min.</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Zablokovaných %2$d pokusov o prístup k schránke pre aplikáciu %1$s</item>
         <item quantity="one">Zablokovaný %2$d pokus o prístup k schránke pre aplikáciu %1$s</item>
         <item quantity="few">Zablokované %2$d pokusy o prístup k schránke pre aplikáciu %1$s</item>
         <item quantity="many">Zablokovaných %2$d pokusov o prístup k schránke pre aplikáciu %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">Aplikácia %1$s pristúpila k položkám v schránke %2$d-krát</item>
-        <item quantity="one">Aplikácia %1$s pristúpila k položkám v schránke %2$d-krát</item>
-        <item quantity="few">Aplikácia %1$s pristúpila k položkám v schránke %2$d-krát</item>
-        <item quantity="many">Aplikácia %1$s pristúpila k položkám v schránke %2$d-krát</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
@@ -119,17 +107,5 @@
         <item quantity="one">Pred 1 minútou</item>
         <item quantity="few">Pred %d minútami</item>
         <item quantity="many">Pred %d minútou</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Aplikácii %2$s ste povolili prístup k schránke už %1$d krát. Prajete si, aby mala aplikácia %3$s kedykoľvek prístup ku schránke?</item>
-        <item quantity="one">Aplikácii %2$s ste povolili prístup k schránke už %1$d krát. Prajete si, aby mala aplikácia %3$s kedykoľvek prístup ku schránke?</item>
-        <item quantity="few">Aplikácii %2$s ste povolili prístup k schránke už %1$d krát. Prajete si, aby mala aplikácia %3$s kedykoľvek prístup ku schránke?</item>
-        <item quantity="many">Aplikácii %2$s ste povolili prístup k schránke už %1$d krát. Prajete si, aby mala aplikácia %3$s kedykoľvek prístup ku schránke?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Prístup k aplikácii %2$s bol už %1$d-krát zakázaný. Zakázať prístup ku schránke pre aplikáciu %3$s natrvalo?</item>
-        <item quantity="one">Prístup k aplikácii %2$s bol už %1$d-krát zakázaný. Zakázať prístup ku schránke pre aplikáciu %3$s natrvalo?</item>
-        <item quantity="few">Prístup k aplikácii %2$s bol už %1$d-krát zakázaný. Zakázať prístup ku schránke pre aplikáciu %3$s natrvalo?</item>
-        <item quantity="many">Prístup k aplikácii %2$s bol už %1$d-krát zakázaný. Zakázať prístup ku schránke pre aplikáciu %3$s natrvalo?</item>
     </plurals>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">Пред 1 час</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Пред 1 час</item>
-        <item quantity="one">Пред 1 час</item>
+        <item quantity="other">пред %d часа</item>
+        <item quantity="one">пред %d час</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Пред половина час</item>
         <item quantity="one">Пред половина час</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">За 1 час</item>
-        <item quantity="one">За 1 час</item>
+        <item quantity="other">За %d час</item>
+        <item quantity="one">За %d час</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">За половина час</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Веднаш</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">за %d минути</item>
-        <item quantity="one">за 1 мин</item>
+        <item quantity="other">За %d минути</item>
+        <item quantity="one">За %d мин</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Штотуку</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">пред %d минути</item>
-        <item quantity="one">Пред 1 мин</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Дозволивте на %1$s да пристапи автоматски до ставките во клипборд веќе %2$d пати</item>
-        <item quantity="one">Дозволивте на %1$s да пристапи автоматски до ставките во клипборд веќе %2$d пат</item>
+        <item quantity="one">пред %d мин</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Блокирани се %2$d обиди за пристап до клипборд за %1$s</item>
         <item quantity="one">Блокиран %2$d обид за пристап до клипборд за %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s пристапи до ставки во клипборд %2$d пати</item>
-        <item quantity="one">%1$s пристапи до ставки во клипборд %2$d пат</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Пред половина час</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">пред %d минути</item>
         <item quantity="one">Пред 1 минута</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Дозволивте на %2$s да пристапи до клипборд веќе %1$d пати. Дали сакате секогаш да давате дозвола на %3$s да пристапи до клипборд?</item>
-        <item quantity="one">Дозволивте на %2$s да пристапи до клипборд веќе %1$d пат. Дали сакате секогаш да давате дозвола на %3$s да пристапи до клипборд?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Ограничивте пристап до клипборд за %2$s %1$d пати. Трајно ограничи пристап до клипборд за %3$s?</item>
-        <item quantity="one">Ограничивте пристап до клипборд за %2$s %1$d пат. Трајно ограничи пристап до клипборд за %3$s?</item>
     </plurals>
 </resources>

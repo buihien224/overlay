@@ -5,16 +5,16 @@
         <item quantity="one">Duela ordubete</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Duela ordubete</item>
-        <item quantity="one">Duela ordubete</item>
+        <item quantity="other">Duela %d ordu</item>
+        <item quantity="one">Duela ordu %d</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Duela ordu erdi</item>
         <item quantity="one">Duela ordu erdi</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Ordubete barru</item>
-        <item quantity="one">Ordubete barru</item>
+        <item quantity="other">Ordu %d barru</item>
+        <item quantity="one">Ordu %d barru</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Ordu erdi barru</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Berehala</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d min barru</item>
-        <item quantity="one">Min 1 barru</item>
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu %d barru</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Oraintxe bertan</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Duela %d min</item>
-        <item quantity="one">Duela min 1</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s aplikazioari arbelaren elementuak automatikoki atzitzeko baimena eman zaio %2$d aldiz</item>
-        <item quantity="one">%1$s aplikazioari arbelaren elementuak automatikoki atzitzeko baimena eman zaio %2$d aldiz</item>
+        <item quantity="one">Duela min %d</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s aplikazioak arbela atzitzeko %2$d saiakera blokeatu dira</item>
         <item quantity="one">%1$s aplikazioak arbela atzitzeko %2$d saiakera blokeatu da</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s aplikazioak arbelaren elementuak atzitu ditu %2$d aldiz</item>
-        <item quantity="one">%1$s aplikazioak arbelaren elementuak atzitu ditu %2$d aldiz</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Duela ordu erdi</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Duela %d minutu</item>
         <item quantity="one">Duela minutu 1</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">%2$s aplikazioari arbela atzitzeko baimena eman diozu %1$d aldiz. %3$s aplikazioari arbela beti atzitzeko baimena eman nahi diozu?</item>
-        <item quantity="one">%2$s aplikazioari arbela atzitzeko baimena eman diozu %1$d aldiz. %3$s aplikazioari arbela beti atzitzeko baimena eman nahi diozu?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">%2$s aplikazioari arbela atzitzeko aukera murriztu diozu %1$d aldiz. %3$s aplikazioari arbela atzitzeko aukera betirako murriztu nahi diozu?</item>
-        <item quantity="one">%2$s aplikazioari arbela atzitzeko aukera murriztu diozu %1$d aldiz. %3$s aplikazioari arbela atzitzeko aukera betirako murriztu nahi diozu?</item>
     </plurals>
 </resources>

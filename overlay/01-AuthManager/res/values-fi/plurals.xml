@@ -5,16 +5,16 @@
         <item quantity="one">1 tunti sitten</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 tunti sitten</item>
-        <item quantity="one">1 tunti sitten</item>
+        <item quantity="other">%d tunti sitten</item>
+        <item quantity="one">%d tunti sitten</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Puoli tuntia sitten</item>
         <item quantity="one">Puoli tuntia sitten</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 tunnin kuluttua</item>
-        <item quantity="one">1 tunnin kuluttua</item>
+        <item quantity="other">%d tunnin päästä</item>
+        <item quantity="one">%d tunnin päästä</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Puolen tunnin kuluttua</item>
@@ -25,28 +25,20 @@
         <item quantity="one">Heti</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d minuutin kuluttua</item>
-        <item quantity="one">1 min kuluttua</item>
+        <item quantity="other">%d min päästä</item>
+        <item quantity="one">%d min päästä</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Juuri nyt</item>
         <item quantity="one">Juuri nyt</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuuttia sitten</item>
-        <item quantity="one">1 minuutti sitten</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Sovelluksen %1$s on sallittu käyttää kohteita leikepöydällä automaattisesti %2$d kertaa</item>
-        <item quantity="one">Sovelluksen %1$s on sallittu käyttää kohteita leikepöydällä automaattisesti %2$d kerran</item>
+        <item quantity="other">%d min sitten</item>
+        <item quantity="one">%d min sitten</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Estetty %2$d yritystä käyttää leikepöytää kohteelle %1$s</item>
         <item quantity="one">Estetty %2$d yritys käyttää leikepöytää kohteelle %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s käytti kohteita leikepöydällä %2$d kertaa</item>
-        <item quantity="one">%1$s käytti kohteita leikepöydällä %2$d kerran</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Puoli tuntia sitten</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Olet sallinnut sovelluksen %2$s käyttää leikepöytää jo %1$d kertaa. Haluatko aina sallia sovelluksen %3$s käyttää leikepöytää?</item>
-        <item quantity="one">Olet sallinnut sovelluksen %2$s käyttää leikepöytää jo %1$d kerran. Haluatko aina sallia sovelluksen %3$s käyttää leikepöytää?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Olet rajoittanut leikepöydän käyttöä sovellukselle %2$s jo %1$d kertaa. Rajoitetaanko leikepöydän käyttöä sovellukselle %3$s pysyvästi?</item>
-        <item quantity="one">Olet rajoittanut leikepöydän käyttöä sovellukselle %2$s jo %1$d kerran. Rajoitetaanko leikepöydän käyttöä sovellukselle %3$s pysyvästi?</item>
     </plurals>
 </resources>

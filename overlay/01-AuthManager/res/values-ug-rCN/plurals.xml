@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 سائەت ئىلگىرى</item>
+        <item quantity="other">%d سائەت ئىلگىرى</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">يېرىم سائەت ئىلگىرى</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1سائەتتىن كېيىن</item>
+        <item quantity="other">%d سائەتتىن كېيىن</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">يېرىم سائەتتىن كېيىن</item>

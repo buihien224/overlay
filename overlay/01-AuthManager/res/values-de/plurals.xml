@@ -5,16 +5,16 @@
         <item quantity="one">Vor 1 Stunde</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor 1 Stunde</item>
-        <item quantity="one">Vor 1 Stunde</item>
+        <item quantity="other">Vor %d Stunden</item>
+        <item quantity="one">Vor %d Stunde</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
         <item quantity="one">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 Stunde</item>
-        <item quantity="one">In 1 Stunde</item>
+        <item quantity="other">In %d Stunden</item>
+        <item quantity="one">In %d Stunde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In einer halben Stunde</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Sofort</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d Minuten</item>
-        <item quantity="one">in 1 Min</item>
+        <item quantity="other">In %d Minuten</item>
+        <item quantity="one">In %d Minute</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s wurde der Zugriff auf Zwischenablageelemente %2$d Male automatisch erlaubt</item>
-        <item quantity="one">%1$s wurde der Zugriff auf Zwischenablageelemente %2$d Mal automatisch erlaubt</item>
+        <item quantity="one">Vor %d Minute</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%2$d Versuche blockiert, um auf die Zwischenablage für %1$s zuzugreifen</item>
         <item quantity="one">%2$d Versuch blockiert, um auf die Zwischenablage für %1$s zuzugreifen</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s hat %2$d Male auf Objekte in der Zwischenablage zugegriffen</item>
-        <item quantity="one">%1$s hat %2$d Mal auf Objekte in der Zwischenablage zugegriffen</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Du hast %2$s den Zugriff auf die Zwischenablage bereits %1$d Male gewährt. Möchtest du %3$s den Zugriff auf die Zwischenablage immer erlauben?</item>
-        <item quantity="one">Du hast %2$s den Zugriff auf die Zwischenablage bereits %1$d Mal gewährt. Möchtest du %3$s den Zugriff auf die Zwischenablage immer erlauben?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Du hast %2$s den Zugriff auf die Zwischenablage bereits %1$d Male verweigert. Möchtest du %3$s den Zugriff auf die Zwischenablage immer verweigern?</item>
-        <item quantity="one">Du hast %2$s den Zugriff auf die Zwischenablage bereits %1$d Mal verweigert. Möchtest du %3$s den Zugriff auf die Zwischenablage immer verweigern?</item>
     </plurals>
 </resources>

@@ -2,6 +2,12 @@ import xml.etree.ElementTree as ET
 import argparse
 import xml.dom.minidom as minidom
 import os
+import re
+
+def is_md5(value):
+    # Check if the value matches an MD5 pattern (32 hex characters)
+    return bool(re.fullmatch(r"[a-fA-F0-9]{32}", value))
+
 
 def parse_xml(file_path):
     try:
@@ -26,16 +32,27 @@ def find_missing_translations(base_file, translation_file, output_file):
     base_strings, base_plurals = parse_xml(base_file)
     translation_strings, translation_plurals = parse_xml(translation_file)
 
-    excluded_prefixes = ('miuix_', 'mtrl_', 'path_', 'solar_', 'androidx_', 'abc_', 'library_android', 
-                         'material_', 'fab_', 'chinese_', 'fmt_', 'btn_', 'm3_', 'abc_','create_table')
+    excluded_prefixes = ('earthly_', 'miuix_', 'mtrl_', 'path_', 'solar_', 'androidx_', 'abc_', 'library_android', 
+                         'material_', 'fab_', 'chinese_', 'fmt_', 'btn_', 'm3_', 'abc_','create_table', 'preference_key', 'api_key', 'create_talbe', '.firebase.', 'google_', 'pref_key', 'preference_category_')
+
+    def should_skip_value(value):
+        # Check for excluded conditions in the value
+        if value is None or (len(value) == 1 and value.isalpha()) or value.startswith(('@', 'com.')) or value.isdigit() or is_md5(value):
+            return True
+        # Skip values containing any of the following characters with no spaces
+        for char in ['$','%',':','-','.', '_']:
+            if char in value and ' ' not in value:
+                return True
+        # Skip if value does not contain any alphabetic characters
+        if not any(char.isalpha() for char in value):
+            return True
+        return False
 
     missing_strings = {
         key: value for key, value in base_strings.items()
         if key not in translation_strings
         and not any(key.startswith(prefix) for prefix in excluded_prefixes)
-        and value is not None
-        and not value.startswith('@')
-        and not value.startswith('com.')
+        and not should_skip_value(value)
     }
 
     missing_plurals = {
@@ -68,6 +85,8 @@ def find_missing_translations(base_file, translation_file, output_file):
         print(f"Missing translations have been written to {output_file}.")
     else:
         print("No missing translations found.")
+
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Find missing translations in XML files.")

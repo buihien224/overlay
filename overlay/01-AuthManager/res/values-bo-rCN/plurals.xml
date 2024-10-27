@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">དུས་ཚོད1གི་སྔོན།</item>
+        <item quantity="other">ཆུ་ཚོད་%d གོང་།</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་སྔོན།</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">དུས་ཚོད1གི་རྗེས།</item>
+        <item quantity="other">ཆུ་ཚོད་%d ཡི་རྗེས།</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་རྗེས།</item>

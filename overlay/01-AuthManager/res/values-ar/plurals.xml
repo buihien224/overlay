@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,20 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرة</item>
-        <item quantity="zero">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرة</item>
-        <item quantity="one">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرة</item>
-        <item quantity="two">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرات</item>
-        <item quantity="few">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرات</item>
-        <item quantity="many">السماح لتطبيق %1$s الوصول إلى عناصر الحافظة تلقائيا %2$d مرة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">تم حظر %2$d محاولة لتطبيق %1$s للوصول إلى الحافظة</item>
@@ -87,14 +79,6 @@
         <item quantity="two">تم حظر %2$d محاولات لتطبيق %1$s للوصول إلى الحافظة</item>
         <item quantity="few">تم حظر %2$d محاولات لتطبيق %1$s للوصول إلى الحافظة</item>
         <item quantity="many">تم حظر %2$d محاولة لتطبيق %1$s للوصول إلى الحافظة</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرة</item>
-        <item quantity="zero">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرة</item>
-        <item quantity="one">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرة</item>
-        <item quantity="two">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرات</item>
-        <item quantity="few">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرات</item>
-        <item quantity="many">قام تطبيق %1$s بالوصول لعناصر الحافظة %2$d مرة</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -159,21 +143,5 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرة. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-        <item quantity="zero">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرة. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-        <item quantity="one">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرة. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-        <item quantity="two">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرات. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-        <item quantity="few">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرات. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-        <item quantity="many">لقد سمحت لتطبيق %2$s الوصول إلى الحافظة %1$d مرة. هل ترغب دائما في السماح لتطبيق %3$s بالوصول إلى الحافظة؟</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرة. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
-        <item quantity="zero">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرة. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
-        <item quantity="one">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرة. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
-        <item quantity="two">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرات. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
-        <item quantity="few">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرات. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
-        <item quantity="many">لقد قمت بتقييد وصول تطبيق %2$s إلى الحافظة %1$d مرة. هل ترغب بشكل دائم تقييد وصول تطبيق %3$s إلى الحافظة؟</item>
     </plurals>
 </resources>

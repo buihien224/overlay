@@ -4,13 +4,13 @@
         <item quantity="other">1時間前</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1時間前</item>
+        <item quantity="other">%d時間前</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">30分前</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1時間後</item>
+        <item quantity="other">%d時間後</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">30分後</item>
@@ -27,14 +27,8 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d分前</item>
     </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$sに対し、クリップボードのアイテムへのアクセスを自動的に%2$d回許可しました</item>
-    </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$sのクリップボードへのアクセスを%2$d回ブロックしました</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$sがクリップボードのアイテムに%2$d回アクセスしました</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30分前</item>
@@ -59,11 +53,5 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d分前</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">%2$sによるクリップボードへのアクセスを%1$d回許可しました。%3$sがクリップボードにアクセスすることを常に許可しますか？</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">%2$sによるクリップボードへのアクセスを既に%1$d回拒否しました。%3$sのクリップボードへのアクセスを永久に制限しますか？</item>
     </plurals>
 </resources>

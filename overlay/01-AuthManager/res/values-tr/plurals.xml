@@ -5,16 +5,16 @@
         <item quantity="one">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
-        <item quantity="one">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
         <item quantity="one">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içerisinde</item>
-        <item quantity="one">1 saat içerisinde</item>
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içerisinde</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dk. içerisinde</item>
-        <item quantity="one">1 dk. içerisinde</item>
+        <item quantity="one">%d dk. içerisinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dk. önce</item>
-        <item quantity="one">1 dk. önce</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s uygulamasının %2$d kez otomatik olarak panodaki ögelere erişmesine izin verildi</item>
-        <item quantity="one">%1$s uygulamasının %2$d kez otomatik olarak panodaki ögelere erişmesine izin verildi</item>
+        <item quantity="one">%d dk. önce</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s için %2$d panoya erişim girişimi engellendi</item>
         <item quantity="one">%1$s için %2$d panoya erişim girişimi engellendi</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s uygulaması %2$d kez panodaki ögelere erişti</item>
-        <item quantity="one">%1$s uygulaması %2$d kez panodaki ögelere erişti</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">%2$s uygulamasını panoya erişmesine %1$d kez izin verdiniz. %3$s uygulamasının her zaman panoya erişmesine izin vermek istiyor musunuz?</item>
-        <item quantity="one">%2$s uygulamasını panoya erişmesine %1$d kez izin verdiniz. %3$s uygulamasının her zaman panoya erişmesine izin vermek istiyor musunuz?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">%2$s uygulamasının panoya erişimini %1$d kez kısıtladınız. Kalıcı olarak %3$s uygulamasının panoya erişimi kısıtlansın mı?</item>
-        <item quantity="one">%2$s uygulamasının panoya erişimini %1$d kez kısıtladınız. Kalıcı olarak %3$s uygulamasının panoya erişimi kısıtlansın mı?</item>
     </plurals>
 </resources>

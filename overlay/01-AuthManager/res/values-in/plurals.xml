@@ -4,13 +4,13 @@
         <item quantity="other">1 jam lalu</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 jam lalu</item>
+        <item quantity="other">%d jam yang lalu</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Setengah jam lalu</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 jam lagi</item>
+        <item quantity="other">%d jam lagi</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">0,5 jam lagi</item>
@@ -27,14 +27,8 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mnt lalu</item>
     </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s diizinkan untuk otomatis mengakses item di papan klip sebanyak %2$d kali</item>
-    </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%2$d upaya %1$s untuk mengakses papan klip telah dibatasi</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s mengakses item di papan klip sebanyak %2$d kali</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Setengah jam lalu</item>
@@ -59,11 +53,5 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d menit lalu</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Anda telah mengizinkan %2$s untuk mengakses papan klip %1$d kali. Apakah Anda ingin selalu mengizinkan %3$s untuk mengakses papan klip?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Anda telah membatasi akses ke papan klip untuk apl %2$s %1$d kali. Batasi akses ke papan klip untuk apl %3$s secara permanen?</item>
     </plurals>
 </resources>

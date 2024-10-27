@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">አጋራ በ</string>
     <string name="abc_shareactionprovider_share_with_application">ለ%s አጋራ</string>
     <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="call_notification_answer_action">መልስ</string>
+    <string name="call_notification_answer_video_action">ቪዲዮ</string>
+    <string name="call_notification_decline_action">አትቀበል</string>
+    <string name="call_notification_hang_up_action">ስልኩን ዝጋ</string>
+    <string name="call_notification_incoming_text">ገቢ ጥሪ</string>
+    <string name="call_notification_ongoing_text">እየተካሄደ ያለ ጥሪ</string>
+    <string name="call_notification_screening_text">ገቢ ጥሪ ማጣራት</string>
     <string name="copy">ቅዳ</string>
     <string name="expand_button_title">የላቀ</string>
     <string name="not_set">አልተዘጋጀም</string>

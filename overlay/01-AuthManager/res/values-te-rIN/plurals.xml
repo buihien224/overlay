@@ -5,16 +5,16 @@
         <item quantity="one">1 గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 గంటల క్రితం</item>
-        <item quantity="one">1 గంటల క్రితం</item>
+        <item quantity="other">%d గంట క్రితం</item>
+        <item quantity="one">%d గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">అర గంట క్రితం</item>
         <item quantity="one">అర గంట క్రితం</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 గంటలో</item>
-        <item quantity="one">1 గంటలో</item>
+        <item quantity="other">%d గంటలో</item>
+        <item quantity="one">%d గంటలో</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">అర గంటలో</item>
@@ -26,27 +26,19 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d నిమిషాల్లో</item>
-        <item quantity="one">1 నిమిషంలో</item>
+        <item quantity="one">%d నిమిషంలో</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ఇప్పుడే</item>
         <item quantity="one">ఇప్పుడే</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d నిమి క్రితం</item>
-        <item quantity="one">1 నిమి క్రితం</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">క్లిప్‌బోర్డ్‌లోని అంశాలకు %2$d సార్లు ఆటోమేటిక్‌గా ప్రవేశం పొందేందుకు %1$s అనుమతించబడింది</item>
-        <item quantity="one">క్లిప్‌బోర్డ్‌లోని అంశాలకు %2$d సారి ఆటోమేటిక్‌గా ప్రవేశం పొందేందుకు %1$s అనుమతించబడింది</item>
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">%d నిమిషం క్రితం</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు చేసిన %2$d ప్రయత్నాలు నిరోధించబడ్డాయి</item>
         <item quantity="one">%1$s క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు చేసిన %2$d ప్రయత్నం నిరోధించబడింది</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s %2$d సార్లు క్లిప్‌బోర్డ్‌లోని అంశాలకు ప్రవేశం పొందింది</item>
-        <item quantity="one">%1$s %2$d సారి క్లిప్‌బోర్డ్‌లోని అంశాలకు ప్రవేశం పొందింది</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">అర గంట క్రితం</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d నిమిషాల క్రితం</item>
         <item quantity="one">1 నిమిషం క్రితం</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">మీరు ఇప్పటికే %1$d సార్లు క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు %2$sని అనుమతించారు. మీరు ఎల్లప్పుడూ క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు %3$sని అనుమతించాలనుకుంటున్నారా?</item>
-        <item quantity="one">మీరు ఇప్పటికే %1$d సారి క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు %2$sని అనుమతించారు. మీరు ఎల్లప్పుడూ క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందేందుకు %3$sని అనుమతించాలనుకుంటున్నారా?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">మీరు ఇప్పటికే %1$d సార్లు క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందకుండా %2$sని నిరోధించారు. మీరు ఎల్లప్పుడూ క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందకుండా %3$sని నిరోధించాలనుకుంటున్నారా?</item>
-        <item quantity="one">మీరు ఇప్పటికే %1$d సారి క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందకుండా %2$sని నిరోధించారు. మీరు ఎల్లప్పుడూ క్లిప్‌బోర్డ్‌కి ప్రవేశం పొందకుండా %3$sని నిరోధించాలనుకుంటున్నారా?</item>
     </plurals>
 </resources>

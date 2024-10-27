@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,28 +25,20 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Toegestaan %1$s om automatisch toegang te krijgen tot items op het klembord %2$d keer</item>
-        <item quantity="one">Toegestaan %1$s om automatisch toegang te krijgen tot items op het klembord %2$d keer</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%2$d pogingen om toegang te krijgen tot het klembord geblokkeerd voor %1$s</item>
         <item quantity="one">%2$d poging om toegang te krijgen tot het klembord geblokkeerd voor %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s heeft toegang tot items op het klembord %2$d keer</item>
-        <item quantity="one">%1$s heeft toegang tot items op het klembord %2$d keer</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">U heeft %2$s al %1$d keer toegang tot het klembord verleend. Wilt u %3$s toestemming geven om onbeperkt toegang te krijgen tot het klembord?</item>
-        <item quantity="one">U heeft %2$s al %1$d keer toegang tot het klembord verleend. Wilt u %3$s toestemming geven om onbeperkt toegang te krijgen tot het klembord?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">U heeft al %2$s %1$d keer de toegang tot het klembord geweigerd. Wilt u de toegang tot uw klembord voor %3$s permanent beperken?</item>
-        <item quantity="one">U heeft al %2$s %1$d keer de toegang tot het klembord geweigerd. Wilt u de toegang tot uw klembord voor %3$s permanent beperken?</item>
     </plurals>
 </resources>

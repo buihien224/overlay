@@ -6,9 +6,9 @@
         <item quantity="one">Pirms 1 stundas</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Pirms 1 stundas</item>
-        <item quantity="zero">Pirms 1 stundas</item>
-        <item quantity="one">Pirms 1 stundas</item>
+        <item quantity="other">Pirms %d stundām</item>
+        <item quantity="zero">Pirms %d stundām</item>
+        <item quantity="one">Pirms %d stundas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pirms pusstundas</item>
@@ -16,9 +16,9 @@
         <item quantity="one">Pirms pusstundas</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Pēc 1 stundas</item>
-        <item quantity="zero">Pēc 1 stundas</item>
-        <item quantity="one">Pēc 1 stundas</item>
+        <item quantity="other">Pēc %d stundām</item>
+        <item quantity="zero">Pēc %d stundām</item>
+        <item quantity="one">Pēc %d stundas</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Pēc pusstundas</item>
@@ -31,9 +31,9 @@
         <item quantity="one">Nekavējoties</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">pēc %d minūtēm</item>
-        <item quantity="zero">pēc %d minūtēm</item>
-        <item quantity="one">pēc 1 minūtes</item>
+        <item quantity="other">Pēc %d min</item>
+        <item quantity="zero">Pēc %d min</item>
+        <item quantity="one">Pēc %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Tikko</item>
@@ -41,24 +41,14 @@
         <item quantity="one">Tikko</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Pirms %d minūtēm</item>
-        <item quantity="zero">Pirms %d minūtēm</item>
-        <item quantity="one">Pirms 1 minūtes</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Automātiski atļāva %1$s piekļūt vienumiem starpliktuvē %2$d reizes</item>
-        <item quantity="zero">Automātiski atļāva %1$s piekļūt vienumiem starpliktuvē %2$d reizes</item>
-        <item quantity="one">Automātiski atļāva %1$s piekļūt vienumiem starpliktuvē %2$d reizi</item>
+        <item quantity="other">Pirms %d min.</item>
+        <item quantity="zero">Pirms %d min.</item>
+        <item quantity="one">Pirms %d min.</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Bloķēti %2$d mēģinājumi piekļūt starpliktuvei priekš %1$s</item>
         <item quantity="zero">Bloķēti %2$d mēģinājumi piekļūt starpliktuvei priekš %1$s</item>
         <item quantity="one">Bloķēti %2$d mēģinājums piekļūt starpliktuvei priekš %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s piekļuva vienumiem starpliktuvē %2$d reizes</item>
-        <item quantity="zero">%1$s piekļuva vienumiem starpliktuvē %2$d reizes</item>
-        <item quantity="one">%1$s piekļuva vienumiem starpliktuvē %2$d reizi</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pirms pusstundas</item>
@@ -99,15 +89,5 @@
         <item quantity="other">Pirms %d minūtēm</item>
         <item quantity="zero">Pirms %d minūtēm</item>
         <item quantity="one">Pirms 1 minūtes</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Jūs atļāvāt %2$s piekļūt starpliktuvei jau %1$d reizes. Vai vienmēr vēlaties atļaut %3$s piekļūt starpliktuvei?</item>
-        <item quantity="zero">Jūs atļāvāt %2$s piekļūt starpliktuvei jau %1$d reizes. Vai vienmēr vēlaties atļaut %3$s piekļūt starpliktuvei?</item>
-        <item quantity="one">Jūs atļāvāt %2$s piekļūt starpliktuvei jau %1$d reizi. Vai vienmēr vēlaties atļaut %3$s piekļūt starpliktuvei?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Jūs esat ierobežojis piekļuvi starpliktuvei jau %2$s %1$d reizes. Vai patstāvīgi ierobežot piekļuvi %3$s?</item>
-        <item quantity="zero">Jūs esat ierobežojis piekļuvi starpliktuvei jau %2$s %1$d reizes. Vai patstāvīgi ierobežot piekļuvi %3$s?</item>
-        <item quantity="one">Jūs esat ierobežojis piekļuvi starpliktuvei jau %2$s %1$d reizi. Vai patstāvīgi ierobežot piekļuvi %3$s?</item>
     </plurals>
 </resources>

@@ -7,10 +7,10 @@
         <item quantity="few">Pred 1 uro</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Pred 1 uro</item>
-        <item quantity="one">Pred 1 uro</item>
-        <item quantity="two">Pred 1 uro</item>
-        <item quantity="few">Pred 1 uro</item>
+        <item quantity="other">Pred %d urami</item>
+        <item quantity="one">Pred %d uro</item>
+        <item quantity="two">Pred %d urama</item>
+        <item quantity="few">Pred %d urami</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -19,10 +19,10 @@
         <item quantity="few">Pred pol ure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Čez 1 uro</item>
-        <item quantity="one">Čez 1 uro</item>
-        <item quantity="two">Čez 1 uro</item>
-        <item quantity="few">Čez 1 uro</item>
+        <item quantity="other">Čez %d ur</item>
+        <item quantity="one">Čez %d uro</item>
+        <item quantity="two">Čez %d uri</item>
+        <item quantity="few">Čez %d ure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Čez pol ure</item>
@@ -37,10 +37,10 @@
         <item quantity="few">Takoj</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">čez %d minut</item>
-        <item quantity="one">čez 1 minuto</item>
-        <item quantity="two">čez %d minuti</item>
-        <item quantity="few">čez %d minut</item>
+        <item quantity="other">Čez %d minut</item>
+        <item quantity="one">Čez %d minuto</item>
+        <item quantity="two">Čez %d minuti</item>
+        <item quantity="few">Čez %d minute</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
@@ -49,28 +49,16 @@
         <item quantity="few">Pravkar</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Pred %d minut</item>
-        <item quantity="one">Pred 1 min</item>
-        <item quantity="two">Pred %d minutami</item>
-        <item quantity="few">Pred %d minut</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Aplikaciji %1$s je samodejno bilo dovoljen dostop do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="one">Aplikaciji %1$s je samodejno bilo dovoljen dostop do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="two">Aplikaciji %1$s je samodejno bilo dovoljen dostop do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="few">Aplikaciji %1$s je samodejno bilo dovoljen dostop do predmetov v odložišču že %2$d-krat</item>
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred %d min</item>
+        <item quantity="two">Pred %d min</item>
+        <item quantity="few">Pred %d min</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Blokirani %2$d poskusi dostopa do odložišča s strani aplikacije %1$s</item>
         <item quantity="one">Blokiran %2$d poskus dostopa do odložišča s strani aplikacije %1$s</item>
         <item quantity="two">Blokirana %2$d poskusa dostopa do odložišča s strani aplikacije %1$s</item>
         <item quantity="few">Blokirani %2$d poskusi dostopa do odložišča s strani aplikacije %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">Aplikacija %1$s je dostopala do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="one">Aplikacija %1$s je dostopala do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="two">Aplikacija %1$s je dostopala do predmetov v odložišču že %2$d-krat</item>
-        <item quantity="few">Aplikacija %1$s je dostopala do predmetov v odložišču že %2$d-krat</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -119,17 +107,5 @@
         <item quantity="one">pred 1 minuto</item>
         <item quantity="two">Pred %d minutami</item>
         <item quantity="few">Pred %d minut</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Aplikaciji %2$s ste že %1$d-krat dovolili dostop do odložišča. Želite aplikaciji %3$s zmeraj dovoliti dostop do odložišča?</item>
-        <item quantity="one">Aplikaciji %2$s ste že %1$d-krat dovolili dostop do odložišča. Želite aplikaciji %3$s zmeraj dovoliti dostop do odložišča?</item>
-        <item quantity="two">Aplikaciji %2$s ste že %1$d-krat dovolili dostop do odložišča. Želite aplikaciji %3$s zmeraj dovoliti dostop do odložišča?</item>
-        <item quantity="few">Aplikaciji %2$s ste že %1$d-krat dovolili dostop do odložišča. Želite aplikaciji %3$s zmeraj dovoliti dostop do odložišča?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Aplikaciji %2$s ste že %1$d-krat omejili dostop do odložišča. Želite aplikaciji %3$s za zmeraj omejiti dostop do odložišča?</item>
-        <item quantity="one">Aplikaciji %2$s ste že %1$d-krat omejili dostop do odložišča. Želite aplikaciji %3$s za zmeraj omejiti dostop do odložišča?</item>
-        <item quantity="two">Aplikaciji %2$s ste že %1$d-krat omejili dostop do odložišča. Želite aplikaciji %3$s za zmeraj omejiti dostop do odložišča?</item>
-        <item quantity="few">Aplikaciji %2$s ste že %1$d-krat omejili dostop do odložišča. Želite aplikaciji %3$s za zmeraj omejiti dostop do odložišča?</item>
     </plurals>
 </resources>

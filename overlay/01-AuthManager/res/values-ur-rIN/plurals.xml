@@ -5,16 +5,16 @@
         <item quantity="one">1 گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 گھنٹہ قبل</item>
-        <item quantity="one">1 گھنٹہ قبل</item>
+        <item quantity="other">%d گھنٹہ پہلے</item>
+        <item quantity="one">%d گھنٹہ پہلے</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">آدھا گھنٹہ قبل</item>
         <item quantity="one">آدھا گھنٹہ قبل</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 گھنٹہ میں</item>
-        <item quantity="one">1 گھنٹہ میں</item>
+        <item quantity="other">%d گھنٹہ میں</item>
+        <item quantity="one">%d گھنٹہ میں</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">آدھا گھنٹہ میں</item>
@@ -26,27 +26,19 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d منٹ میں</item>
-        <item quantity="one">1 منٹ میں</item>
+        <item quantity="one">%d منٹ میں</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ابھی ابھی</item>
         <item quantity="one">ابھی ابھی</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d منٹ قبل</item>
-        <item quantity="one">1 منٹ قبل</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s کو %2$d بار خودکار طور پر کلپ بورڈ میں آئٹمز تک رسائی کی اجازت دی گئی</item>
-        <item quantity="one">%1$s کو %2$d بار خودکار طور پر کلپ بورڈ میں آئٹمز تک رسائی کی اجازت دی گئی</item>
+        <item quantity="other">%d منٹ پہلے</item>
+        <item quantity="one">%d منٹ پہلے</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s کے لیے کلپ بورڈ تک رسائی کی %2$d کوششیں بلاک کی گئیں</item>
         <item quantity="one">%1$s کے لیے کلپ بورڈ تک رسائی کی %2$d کوشش بلاک کی گئی</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s نے %2$d بار کلپ بورڈ میں آئٹمز تک رسائی کی</item>
-        <item quantity="one">%1$s نے %2$d بار کلپ بورڈ میں آئٹمز تک رسائی کی</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">آدھا گھنٹہ قبل</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d منٹ قبل</item>
         <item quantity="one">1 منٹ پہلے</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">آپ نے %2$s کو پہلے ہی %1$d بار کلپ بورڈ تک رسائی کی اجازت دی ہے۔ کیا آپ ہمیشہ %3$s کو کلپ بورڈ تک رسائی کی اجازت دینا چاہتے ہیں؟</item>
-        <item quantity="one">آپ نے %2$s کو پہلے ہی %1$d بار کلپ بورڈ تک رسائی کی اجازت دی ہے۔ کیا آپ ہمیشہ %3$s کو کلپ بورڈ تک رسائی کی اجازت دینا چاہتے ہیں؟</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">آپ نے %2$s کے لیے پہلے ہی %1$d بار کلپ بورڈ تک رسائی کو محدود کیا ہے۔ %3$s کے لیے مستقل طور پر کلپ بورڈ تک رسائی محدود کریں؟</item>
-        <item quantity="one">آپ نے %2$s کے لیے پہلے ہی %1$d بار کلپ بورڈ تک رسائی کو محدود کیا ہے۔ %3$s کے لیے مستقل طور پر کلپ بورڈ تک رسائی محدود کریں؟</item>
     </plurals>
 </resources>

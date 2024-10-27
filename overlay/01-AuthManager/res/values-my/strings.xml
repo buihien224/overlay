@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
     <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
     <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
+    <string name="call_notification_answer_action">ဖုန်းကိုင်ရန်</string>
+    <string name="call_notification_answer_video_action">ဗီဒီယို</string>
+    <string name="call_notification_decline_action">ငြင်းပယ်ရန်</string>
+    <string name="call_notification_hang_up_action">ဖုန်းချရန်</string>
+    <string name="call_notification_incoming_text">အဝင်ခေါ်ဆိုမှု</string>
+    <string name="call_notification_ongoing_text">လက်ရှိခေါ်ဆိုမှု</string>
+    <string name="call_notification_screening_text">အဝင်ခေါ်ဆိုမှုကို စစ်ဆေးနေသည်</string>
     <string name="copy">မိတ္တူကူးရန်</string>
     <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="not_set">သတ်မှတ်မထားပါ</string>
@@ -34,6 +41,6 @@
     <string name="search_menu_title">ရှာဖွေမှု</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
-    <string name="v7_preference_off">ပိတ်ရန်</string>
-    <string name="v7_preference_on">ဖွင့်ရန်</string>
+    <string name="v7_preference_off">ပိတ်</string>
+    <string name="v7_preference_on">ဖွင့်</string>
 </resources>

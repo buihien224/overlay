@@ -5,16 +5,16 @@
         <item quantity="one">1 tund tagasi</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 tund tagasi</item>
-        <item quantity="one">1 tund tagasi</item>
+        <item quantity="other">%d tundi tagasi</item>
+        <item quantity="one">%d tund tagasi</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pool tundi tagasi</item>
         <item quantity="one">Pool tundi tagasi</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 tunni pärast</item>
-        <item quantity="one">1 tunni pärast</item>
+        <item quantity="other">%d tunni pärast</item>
+        <item quantity="one">%d tunni pärast</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Poole tunni pärast</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d minuti pärast</item>
-        <item quantity="one">1 minuti pärast</item>
+        <item quantity="one">%d minuti pärast</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just nüüd</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutit tagasi</item>
-        <item quantity="one">1 minut tagasi</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s rakendusele on antud automaatselt juurdepääs lõikelaua üksustele %2$d korda</item>
-        <item quantity="one">%1$s rakendusele on antud automaatselt juurdepääs lõikelaua üksustele %2$d korda</item>
+        <item quantity="one">%d minut tagasi</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Blokeeriti %2$d rakenduse %1$s lõikelauale juurdepääsemise katset</item>
         <item quantity="one">Blokeeriti %2$d rakenduse %1$s lõikelauale juurdepääsemise katse</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s rakendusele on antud juurdepääs lõikelaua üksustele %2$d korda</item>
-        <item quantity="one">%1$s rakendusele on antud juurdepääs lõikelaua üksustele %2$d korda</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pool tundi tagasi</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutit tagasi</item>
         <item quantity="one">1 minut tagasi</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Olete andnud %2$s rakendusele juurdepääsu lõikelaua üksustele juba %1$d korda. Kas soovite anda %3$s rakendusele alati juurdepääsu lõikelauale?</item>
-        <item quantity="one">Olete andnud %2$s rakendusele juurdepääsu lõikelaua üksustele juba %1$d korda. Kas soovite anda %3$s rakendusele alati juurdepääsu lõikelauale?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Olete piiranud %2$s rakenduse juurdepääsu lõikelaua üksustele juba %1$d korda. Kas soovite piirata %3$s rakenduse juurdepääsu lõikelauale?</item>
-        <item quantity="one">Olete piiranud %2$s rakenduse juurdepääsu lõikelaua üksustele juba %1$d korda. Kas soovite piirata %3$s rakenduse juurdepääsu lõikelauale?</item>
     </plurals>
 </resources>

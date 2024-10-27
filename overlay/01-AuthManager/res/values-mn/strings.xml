@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Дараахтай хуваалцах</string>
     <string name="abc_shareactionprovider_share_with_application">%s-тай хуваалцах</string>
     <string name="abc_toolbar_collapse_description">Буулгах</string>
+    <string name="call_notification_answer_action">Хариулах</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Татгалзах</string>
+    <string name="call_notification_hang_up_action">Таслах</string>
+    <string name="call_notification_incoming_text">Ирсэн дуудлага</string>
+    <string name="call_notification_ongoing_text">Дуудлага хийгдэж байна</string>
+    <string name="call_notification_screening_text">Ирсэн дуудлагыг харуулж байна</string>
     <string name="copy">Хуулах</string>
     <string name="expand_button_title">Дэлгэрэнгүй</string>
     <string name="not_set">Тохируулаагүй</string>

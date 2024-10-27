@@ -6,9 +6,9 @@
         <item quantity="few">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije 1 sat</item>
-        <item quantity="one">prije 1 sat</item>
-        <item quantity="few">prije 1 sat</item>
+        <item quantity="other">Pred %d sati</item>
+        <item quantity="one">Pred %d sat</item>
+        <item quantity="few">Pred %d sata</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Prije pola sata</item>
@@ -16,9 +16,9 @@
         <item quantity="few">Prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za 1 sat</item>
-        <item quantity="one">Za 1 sat</item>
-        <item quantity="few">Za 1 sat</item>
+        <item quantity="other">Za %d sati</item>
+        <item quantity="one">Za %d sat</item>
+        <item quantity="few">Za %d sata</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
@@ -31,9 +31,9 @@
         <item quantity="few">Odmah</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">za%d min</item>
-        <item quantity="one">za 1 min</item>
-        <item quantity="few">za%d min</item>
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+        <item quantity="few">Za %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sad</item>
@@ -41,24 +41,14 @@
         <item quantity="few">Upravo sada</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">prije %d min</item>
-        <item quantity="one">prije 1 min</item>
-        <item quantity="few">prije %d min</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s automatski dozvoljen pristup stavkama u međuspremniku %2$d puta</item>
-        <item quantity="one">%1$s automatski dozvoljen pristup stavkama u međuspremniku %2$d put</item>
-        <item quantity="few">%1$s automatski dozvoljen pristup stavkama u međuspremniku %2$d puta</item>
+        <item quantity="other">Prije %d min</item>
+        <item quantity="one">Prije %d min</item>
+        <item quantity="few">Prije %d min</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Blokirano %2$d pokušaja pristupa međuspremniku za %1$s</item>
         <item quantity="one">Blokiran %2$d pokušaj pristupa međuspremniku za %1$s</item>
         <item quantity="few">Blokirana %2$d pokušaja pristupa međuspremniku za %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s je pristupio stavkama u međuspremniku %2$d puta</item>
-        <item quantity="one">%1$s je pristupio stavkama u međuspremniku %2$d put</item>
-        <item quantity="few">%1$s je pristupio stavkama u međuspremniku %2$d puta</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
@@ -99,15 +89,5 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">Prije 1 minute</item>
         <item quantity="few">prije %d min</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Dozvolili ste %2$s pristup međuspremniku već %1$d puta. Želite li da %3$s uvijek bude dopušteno pristupati međuspremniku?</item>
-        <item quantity="one">Dozvolili ste %2$s pristup međuspremniku već %1$d put. Želite li da %3$s uvijek bude dopušteno pristupati međuspremniku?</item>
-        <item quantity="few">Dozvolili ste %2$s pristup međuspremniku već %1$d puta. Želite li da %3$s uvijek bude dopušteno pristupati međuspremniku?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">%2$s ste ograničili pristup međuspremniku već %1$d puta. Želite li %3$s trajno ograničiti pristup međuspremniku?</item>
-        <item quantity="one">%2$s ste ograničili pristup međuspremniku već %1$d put. Želite li %3$s trajno ograničiti pristup međuspremniku?</item>
-        <item quantity="few">%2$s ste ograničili pristup međuspremniku već %1$d puta. Želite li %3$s trajno ograničiti pristup međuspremniku?</item>
     </plurals>
 </resources>

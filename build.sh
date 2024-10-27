@@ -1,6 +1,6 @@
 #!/bin/bash
 dir=$(pwd)
-
+diff="python3 $dir/bin/diff.py"
 
 recp() {
 	apkp=$(ls $dir/overlay | grep $1 | head -1)
@@ -8,6 +8,8 @@ recp() {
 	apk2=hypervs.$apk1
 
 	echo -e "\e[91mBuild $apkp\e[0m"
+
+    rm -rf output/$apk2.apk
 
 	java -jar $dir/bin/apktool.jar b -f $dir/overlay/$apkp -o output/$apk2.temp 
 
@@ -24,27 +26,42 @@ recp() {
 
 }
 
-if [[ $1 ]]; then
-	pick=$1
+if [[ -n $1 ]]; then
+    pick=$1
 else
-	ls $dir/overlay
-	echo -n "Enter overlay number: "
-	read pick 
+    # List available overlays and prompt for input
+    ls "$dir/overlay"
+    echo -n "Enter overlay number: "
+    read pick 
 fi
 
-if [[ $pick == "all" ]]; then
-	for i in $(ls $dir/overlay); do
-		path=$(basename $i)
-		num=$(echo $path | cut -d'-' -f1)
-		recp $num
-	done
-else
-	recp $pick
-fi
+handle_diff() {
+    apkp=$(ls "$dir/overlay" | grep "$2" | head -1)
+    sfile="$dir/overlay/$apkp/res/values-vi/$3.xml"
+
+    $diff "$4" "$sfile"
+}
+
+case $pick in
+    diff)
+        handle_diff "$@"
+        ;;
+    all)
+        for overlay in "$dir/overlay"/*; do
+            path=$(basename "$overlay")
+            num=$(echo "$path" | cut -d'-' -f1)
+            recp "$num"
+        done
+        ;;
+    *)
+        recp "$pick"
+        ;;
+esac
+
 
 rm -rf $(find -type d -name build)
 
 
-#sed -i 's/versionName: [^ ]*/versionName: VS-1.0.ST/g' $(find -type f -name apktool.yml)
+#sed -i 's/versionName: [^ ]*/versionName: VS-40.ST/g' $(find -type f -name apktool.yml)
 #sed -i 's/apkFileName: miuivs\./apkFileName: HyperVS\./g' $(find -type f -name apktool.yml)
 #sed -i 's/package="miuivs/package="hypervs/g' $(find -type f -name AndroidManifest.xml)

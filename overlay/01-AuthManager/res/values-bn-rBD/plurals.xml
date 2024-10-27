@@ -5,16 +5,16 @@
         <item quantity="one">1 ঘণ্টা আগে</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ঘণ্টা আগে</item>
-        <item quantity="one">1 ঘণ্টা আগে</item>
+        <item quantity="other">%d ঘণ্টা আগে</item>
+        <item quantity="one">%d ঘণ্টা আগে</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">আধ ঘণ্টা আগে</item>
         <item quantity="one">আধ ঘণ্টা আগে</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 ঘণ্টার মধ্যে</item>
-        <item quantity="one">1 ঘণ্টার মধ্যে</item>
+        <item quantity="other">%d ঘণ্টায়</item>
+        <item quantity="one">%d ঘণ্টায়</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">আধ ঘণ্টার মধ্যে</item>
@@ -25,28 +25,20 @@
         <item quantity="one">অবিলম্বে</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d মিনিটের মধ্যে</item>
-        <item quantity="one">1 মিনিটের মধ্যে</item>
+        <item quantity="other">%d মিনিটে</item>
+        <item quantity="one">%d মিনিটে</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">এইমাত্র</item>
         <item quantity="one">এইমাত্র</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d মিনিট আগে</item>
-        <item quantity="one">1 মিনিট আগে</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$sকে %2$d বার ক্লিপবোর্ডে আপনাআপনি আইটেম অ্যাকসেস করার অনুমতি দিয়েছেন।</item>
-        <item quantity="one">%1$sকে %2$d বার ক্লিপবোর্ডে আপনাআপনি আইটেম অ্যাকসেস করার অনুমতি দিয়েছেন।</item>
+        <item quantity="other">%d মিন আগে</item>
+        <item quantity="one">%d মিন আগে</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s এর জন্য ক্লিপবোর্ড অ্যাকসেস করার চেষ্টা %2$d বার ব্লক করা হয়েছে</item>
         <item quantity="one">%1$s এর জন্য ক্লিপবোর্ড অ্যাকসেস করার চেষ্টা %2$d বার ব্লক করা হয়েছে</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s %2$d বার ক্লিপবোর্ডে আইটেম অ্যাকসেস করেছে</item>
-        <item quantity="one">%1$s %2$d বার ক্লিপবোর্ডে আইটেম অ্যাকসেস করেছে</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">আধ ঘণ্টা আগে</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d মিনিট আগে</item>
         <item quantity="one">1 মিনিট আগে</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">আপনি %2$s কে ইতিমধ্যেই %1$d বার ক্লিপবোর্ড অ্যাকসেস করার অনুমতি দিয়েছেন।আপনি কি সব সময় %3$s কে ক্লিপবোর্ড অ্যাকসেস করার অনুমতি দিতে চান?</item>
-        <item quantity="one">আপনি %2$s কে ইতিমধ্যেই %1$d বার ক্লিপবোর্ড অ্যাকসেস করার অনুমতি দিয়েছেন।আপনি কি সব সময় %3$s কে ক্লিপবোর্ড অ্যাকসেস করার অনুমতি দিতে চান?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">আপনি %2$s কে ইতিমধ্যেই %1$d বার ক্লিপবোর্ড অ্যাকসেস করার অনুমতি সীমিত করেছেন।আপনি কি এক্কেবারে %3$s এর ক্লিপবোর্ড অ্যাকসেস করার অনুমতি সীমিত করতে চান?</item>
-        <item quantity="one">আপনি %2$s কে ইতিমধ্যেই %1$d বার ক্লিপবোর্ড অ্যাকসেস করার অনুমতি সীমিত করেছেন।আপনি কি এক্কেবারে %3$s এর ক্লিপবোর্ড অ্যাকসেস করার অনুমতি সীমিত করতে চান?</item>
     </plurals>
 </resources>

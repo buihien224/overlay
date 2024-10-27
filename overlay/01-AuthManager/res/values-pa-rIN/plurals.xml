@@ -5,16 +5,16 @@
         <item quantity="one">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 ਘੰਟਾ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="other">%d-ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d-ਘੰਟਾ ਪਹਿਲੇ</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
         <item quantity="one">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 ਘੰਟੇ ਵਿੱਚ</item>
-        <item quantity="one">1 ਘੰਟੇ ਵਿੱਚ</item>
+        <item quantity="other">%d ਘੰਟਿਆਂ ਵਿੱਚ</item>
+        <item quantity="one">%d ਘੰਟੇ ਵਿੱਚ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">ਅੱਧੇ ਘੰਟੇ ਵਿੱਚ</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d ਮਿੰਟਾਂ ਵਿੱਚ</item>
-        <item quantity="one">1 ਮਿੰਟ ਵਿੱਚ</item>
+        <item quantity="one">%d ਮਿੰਟ ਵਿੱਚ</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ਹੁਣੇ ਹੀ</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
-        <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">"%1$s ਵੱਲੋਂ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਆਈਟਮਾਂ ਤੱਕ %2$d ਵਾਰ ਪਹੁੰਚ ਕਰਨ ਦਿੱਤੀ ਗਈ"</item>
-        <item quantity="one">"%1$s ਵੱਲੋਂ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਆਈਟਮਾਂ ਤੱਕ %2$d ਵਾਰ ਪਹੁੰਚ ਕਰਨ ਦਿੱਤੀ ਗਈ"</item>
+        <item quantity="one">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">%1$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਦੀਆਂ %2$d ਕੋਸ਼ਿਸ਼ਾਂ ਬਲਾਕ ਕੀਤੀਆਂ ਗਈਆਂ</item>
         <item quantity="one">%1$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਦੀਆਂ %2$d ਕੋਸ਼ਿਸ਼ ਬਲਾਕ ਕੀਤੀ ਗਈ</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s ਵੱਲੋਂ ਕਲਿੱਪਬੋਰਡ ਉੱਤੇ ਆਈਟਮਾਂ ਤੱਕ %2$d ਵਾਰ ਪਹੁੰਚ ਕੀਤੀ ਗਈ</item>
-        <item quantity="one">%1$s ਵੱਲੋਂ ਕਲਿੱਪਬੋਰਡ ਉੱਤੇ ਆਈਟਮਾਂ ਤੱਕ %2$d ਵਾਰ ਪਹੁੰਚ ਕੀਤੀ ਗਈ</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ਅੱਧਾ ਘੰਟਾ ਪਹਿਲਾਂ</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
         <item quantity="one">1 ਮਿੰਟ ਪਹਿਲਾਂ</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %2$s ਵੱਲੋਂ ਕਲਿੱਪਬੋਰਡ ਉੱਤੇ %1$d ਵਾਰ ਪਹੁੰਚ ਕਰਨ ਦਿੱਤੀ ਹੈ। ਕੀ ਤੁਸੀਂ %3$s ਨੂੰ ਹਮੇਸ਼ਾਂ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
-        <item quantity="one">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %2$s ਵੱਲੋਂ ਕਲਿੱਪਬੋਰਡ ਉੱਤੇ %1$d ਵਾਰ ਪਹੁੰਚ ਕਰਨ ਦਿੱਤੀ ਹੈ। ਕੀ ਤੁਸੀਂ %3$s ਨੂੰ ਹਮੇਸ਼ਾਂ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %2$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਨੂੰ %1$d ਵਾਰ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰ ਦਿੱਤਾ ਹੈ। %3$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰਨਾ ਹੈ?"</item>
-        <item quantity="one">"ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ %2$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਨੂੰ %1$d ਵਾਰ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰ ਦਿੱਤਾ ਹੈ। %3$s ਲਈ ਕਲਿੱਪਬੋਰਡ ਤੱਕ ਪਹੁੰਚ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰਨਾ ਹੈ?"</item>
     </plurals>
 </resources>

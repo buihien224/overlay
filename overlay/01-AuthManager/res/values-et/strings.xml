@@ -27,8 +27,15 @@
     <string name="abc_shareactionprovider_share_with">Jaga:</string>
     <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
     <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="call_notification_answer_action">Vasta</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Keeldu</string>
+    <string name="call_notification_hang_up_action">Lõpeta kõne</string>
+    <string name="call_notification_incoming_text">Sissetulev kõne</string>
+    <string name="call_notification_ongoing_text">Käimasolev kõne</string>
+    <string name="call_notification_screening_text">Sissetuleva kõne filtreerimine</string>
     <string name="copy">Kopeerimine</string>
-    <string name="expand_button_title">Täpsem</string>
+    <string name="expand_button_title">Täpsemad</string>
     <string name="not_set">Määramata</string>
     <string name="preference_copied">„%1$s” on lõikelauale kopeeritud.</string>
     <string name="search_menu_title">Otsing</string>

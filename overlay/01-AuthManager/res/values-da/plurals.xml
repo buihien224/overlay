@@ -5,16 +5,16 @@
         <item quantity="one">1 time siden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 time siden</item>
-        <item quantity="one">1 time siden</item>
+        <item quantity="other">%d time siden</item>
+        <item quantity="one">%d time siden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">En halv time siden</item>
         <item quantity="one">En halv time siden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Om en time</item>
-        <item quantity="one">Om en time</item>
+        <item quantity="other">Om %d timer</item>
+        <item quantity="one">Om %d time</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Om en halv time</item>
@@ -25,8 +25,8 @@
         <item quantity="one">Omgående</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">om %d min</item>
-        <item quantity="one">om 1 min</item>
+        <item quantity="other">Om %d min</item>
+        <item quantity="one">Om %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Lige nu</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min siden</item>
-        <item quantity="one">1 min siden</item>
-    </plurals>
-    <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">Gav automatisk %1$s tilladelse til at få adgang til elementer i udklipsholderen %2$d gange</item>
-        <item quantity="one">Gav automatisk %1$s tilladelse til at få adgang til elementer i udklipsholderen %2$d gang</item>
+        <item quantity="one">%d min siden</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
         <item quantity="other">Blokeret %2$d forsøg på at få adgang til udklipsholderen for %1$s</item>
         <item quantity="one">Blokeret %2$d forsøg på at få adgang til udklipsholderen for %1$s</item>
-    </plurals>
-    <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s fik adgang til elementer i udklipsholderen %2$d gange</item>
-        <item quantity="one">%1$s fik adgang til elementer i udklipsholderen %2$d gang</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">En halv time siden</item>
@@ -79,13 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutter siden</item>
         <item quantity="one">1 minut siden</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">Du har allerede givet %2$s tilladelse til at få adgang til udklipsholderen %1$d gange. Vil du altid tillade, at %3$s har adgang til udklipsholderen?</item>
-        <item quantity="one">Du har allerede givet %2$s tilladelse til at få adgang til udklipsholderen %1$d gang. Vil du altid tillade, at %3$s har adgang til udklipsholderen?</item>
-    </plurals>
-    <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">Du har allerede nægtet %2$s adgang til udklipsholderen %1$d gange. Vil du permanent nægte %3$s adgang til udklipsholderen?</item>
-        <item quantity="one">Du har allerede nægtet %2$s adgang til udklipsholderen %1$d gang. Vil du permanent nægte %3$s adgang til udklipsholderen?</item>
     </plurals>
 </resources>

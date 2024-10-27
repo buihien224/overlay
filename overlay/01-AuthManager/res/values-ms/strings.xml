@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
     <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
     <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="call_notification_answer_action">Jawab</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Tolak</string>
+    <string name="call_notification_hang_up_action">Tamatkan Panggilan</string>
+    <string name="call_notification_incoming_text">Panggilan masuk</string>
+    <string name="call_notification_ongoing_text">Panggilan sedang berlangsung</string>
+    <string name="call_notification_screening_text">Menyaring panggilan masuk</string>
     <string name="copy">Salin</string>
     <string name="expand_button_title">Terperinci</string>
     <string name="not_set">Tidak ditetapkan</string>
