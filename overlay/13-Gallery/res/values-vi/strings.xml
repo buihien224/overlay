@@ -3381,4 +3381,24 @@ Chuyển mã có thể mất một chút thời gian khi bạn sử dụng tính
     <string name="get_GP_app_title">Cài đặt Google Photos</string>
     <string name="ai_entrance_description">Tạo hình ảnh AI dựa trên ảnh của mọi người và tạo ra chân dung của họ</string>
     <string name="ai_entrance_title">Chân dung AI</string>
+    <string name="recently_deleted">Đã xóa gần đây</string>
+    <string name="featured_added_to_top_album">Thêm thành công</string>
+    <string name="featured_change_album_cover">Thay đổi ảnh bìa album</string>
+    <string name="featured_customize">Tùy chỉnh</string>
+    <string name="featured_edit_album_name">Chỉnh sửa tên album</string>
+    <string name="featured_edit_group_name">Chỉnh sửa tên nhóm</string>
+    <string name="featured_edit_time_name">Chỉnh sửa tiêu đề</string>
+    <string name="featured_journey_empty_title">Chưa có hành trình nào ở đây</string>
+    <string name="featured_journey_pets_empty_des">Hành trình sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="featured_page_label">Bộ sưu tập</string>
+    <string name="featured_people_empty_des">Mọi người và nhóm sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="featured_people_empty_title">Chưa có người nào</string>
+    <string name="featured_people_pets_empty_des">Bật đồng bộ với đám mây và chụp thêm ảnh để thấy mọi người, thú cưng, và nhóm nổi bật ở đây</string>
+    <string name="featured_people_pets_empty_title">Chưa có người hoặc thú cưng nào ở đây</string>
+    <string name="featured_pin_to_collection">Thêm vào bộ sưu tập nổi bật</string>
+    <string name="featured_remove_top_album">Bỏ ghim thành công</string>
+    <string name="featured_time_empty_des">Kỷ niệm sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="featured_time_empty_title">Chưa có kỷ niệm nào ở đây</string>
+    <string name="journey">Hành trình</string>
+    <string name="journey_time_all">Tất cả</string>
 </resources>

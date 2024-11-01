@@ -702,4 +702,12 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các luật, q
 	<string name="wifi_on_utterance">Bật Wi-Fi</string>
 	<string name="zoom">Phóng to; Cử chỉ phóng to; Mở hai ngón tay</string>
 	<string name="zoom_name">Mở rộng</string>
+	<string name="si_app_name">Trình thông dịch AI</string>
+	<string name="si_res_translate_error">"Không thể dịch. Vui lòng thử lại."</string>
+	<string name="si_res_translating">Đang dịch…</string>
+	<string name="si_tips_for_sim_call">Cuộc gọi này đang được dịch</string>
+	<string name="voice_translate_function_description">Mở trình thông dịch AI từ công cụ bên trong trong cuộc gọi hoặc hội nghị. Bạn có thể dịch cuộc trò chuyện giữa hai bên trong thời gian thực để giao tiếp không rào cản.</string>
+	<string name="voice_translate_function_name">Dịch cuộc gọi và hội nghị</string>
+	<string name="voice_translate_summary">Thông dịch đồng thời cho cuộc gọi và hội nghị</string>
+	<string name="voice_translate_title">Trình thông dịch AI</string>
 </resources>

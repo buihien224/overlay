@@ -2300,4 +2300,11 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="zen_mode_warnings_keyguard_content">Thông báo và cuộc gọi sẽ im lặng khi thiết bị khóa</string>
     <string name="zen_mode_warnings_quit_immediately">Tắt</string>
     <string name="zen_mode_warnings_title">Không làm phiền đã bật</string>
+    <string name="custom_lockscreen">Tùy chỉnh Màn hình khóa</string>
+    <string name="daltonizer_mode_deuteranomaly">Mù màu đỏ-xanh lá (Deuteranomaly)</string>
+    <string name="daltonizer_mode_disabled">Tắt</string>
+    <string name="daltonizer_mode_monochromacy">Mù toàn màu (Monochromacy)</string>
+    <string name="daltonizer_mode_protanomaly">Mù màu đỏ-xanh lá (Protanomaly)</string>
+    <string name="daltonizer_mode_tritanomaly">Mù màu xanh dương-vàng (Tritanomaly)</string>
+    <string name="daltonizer_type_overridden">Đã bị ghi đè bởi %1$s</string>
 </resources>

@@ -20,7 +20,7 @@
     <string name="HIPS_Perm_GetInstall_Desc">Truy cập danh sách các ứng dụng đã cài đặt trên thiết bị này</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Lịch</string>
     <string name="HIPS_Perm_Intl_group_name_call_log">Lịch sử cuộc gọi</string>
-    <string name="HIPS_Perm_Intl_group_name_camera">Camera</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Máy ảnh</string>
     <string name="HIPS_Perm_Intl_group_name_contact">Liên hệ</string>
     <string name="HIPS_Perm_PhoneID_Desc">Truy cập số điện thoại, IMEI, và IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Truy cập số điện thoại và trạng thái thiết bị</string>
@@ -1025,7 +1025,7 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="cetus_invisible_mode_description_card">Đình chỉ quyền</string>
     <string name="cetus_invisible_mode_description_switch">Bật để đình chỉ quyền truy cập micro, camera và liên quan đến vị trí tất cả ứng dụng</string>
     <string name="cetus_invisible_mode_warn_all">Bạn đang ở chế độ ẩn danh. Quyền truy cập micro, camera và dịch vụ vị trí đã tắt.</string>
-    <string name="cetus_invisible_mode_warn_camera">Bạn đang ở chế độ ẩn danh. Quyền truy cập camera bị đình chỉ.</string>
+    <string name="cetus_invisible_mode_warn_camera">Bạn đang ở chế độ ẩn danh. Quyền truy cập máy ảnh bị đình chỉ.</string>
     <string name="cetus_invisible_mode_warn_location">Bạn đang ở chế độ ẩn danh. Quyền truy cập dịch vụ vị trí đã tắt.</string>
     <string name="cetus_invisible_mode_warn_open">Nếu bạn bật tính năng này, sẽ không có ứng dụng nào có thể sử dụng quyền truy cập vào micro, camera hoặc dịch vụ vị trí. Vẫn bật?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Bạn đang ở chế độ ẩn danh. Quyền truy cập micro đã tắt.</string>
@@ -2273,7 +2273,7 @@ Bấm và giữ biểu tượng để di chuyển cửa sổ xung quanh."</strin
     <string name="group_file">Tập tin và tài liệu</string>
     <string name="group_file_less_t">Truy cập tập tin và phương tiện</string>
     <string name="group_head_data_ai_clipboard">Bảo vệ bộ nhớ tạm</string>
-    <string name="group_head_data_camera_desc">Tắt để giới hạn truy cập camera cho tất cả ứng dụng</string>
+    <string name="group_head_data_camera_desc">Tắt để giới hạn truy cập máy ảnh cho tất cả ứng dụng</string>
     <string name="group_head_data_clipboard_desc">Tắt để giới hạn truy cập bộ nhớ tạm cho tất cả ứng dụng</string>
     <string name="group_head_data_location_desc">Tắt để giới hạn truy cập vị trí cho tất cả ứng dụng</string>
     <string name="group_head_data_location_service">Dịch vụ vị trí</string>
@@ -2703,7 +2703,7 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="menu_item_about_title">Giới thiệu</string>
     <string name="menu_item_app_details">Chi tiết</string>
     <string name="menu_item_app_permissions_control">Quản lý Quyền truy cập</string>
-    <string name="menu_item_control_app_permissions">Yêu cầu sự cho phép của bạn trước khi cho phép ứng dụng đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị</string>
+    <string name="menu_item_control_app_permissions">Yêu cầu sự cho phép của bạn trước khi cho phép ứng dụng đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị</string>
     <string name="menu_item_force_stop">Buộc đóng</string>
     <string name="menu_item_install_debug_package">Cài đặt gói gỡ lỗi</string>
     <string name="menu_item_notification_antispam_text_avail">Danh sách chặn</string>
@@ -3535,7 +3535,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="permission_action_virtual">Gửi lại tin nhắn trống</string>
     <string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả về tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
     <string name="permission_action_virtual_phone_summary">Cấp cho ứng dụng các quyền liên quan nhưng không cho phép truy cập vào số điện thoại thực của thẻ SIM</string>
-    <string name="permission_close_permission_control_dialog_msg">Khi quản lý Quyền truy cập tắt, ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị.</string>
+    <string name="permission_close_permission_control_dialog_msg">Khi quản lý Quyền truy cập tắt, ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị.</string>
     <string name="permission_close_permission_control_dialog_title">Tắt?</string>
     <string name="permission_exception_title">Hạn chế kết nối ứng dụng</string>
     <string name="permission_group_audio">Quyền này cho phép ứng dụng truy cập nhạc và các tập tin âm thanh khác được lưu trữ trên thiết bị này.</string>
@@ -3621,7 +3621,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="permission_instruction_write_settings">Quyền này cho phép ứng dụng sửa đổi cài đặt hệ thống. Ứng dụng độc hại có thể sử dụng tính năng cấp quyền này để thay đổi cài đặt hệ thống và ảnh hưởng đến việc sử dụng bình thường thiết bị.</string>
     <string name="permission_legacy_storage">Truy cập ảnh, video, âm thanh và tập tin</string>
     <string name="permission_oaid_desc">Cho phép %1$s theo dõi hoạt động của bạn trên các ứng dụng và trang web khác không?</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập camera và các nguồn tài nguyên khác của thiết bị. Bạn có thể mở tính năng này ở cài đặt Quyền.</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Ứng dụng sẽ không yêu cầu sự cho phép của bạn trước khi đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị. Bạn có thể mở tính năng này ở cài đặt Quyền.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Quản lý Quyền truy cập</string>
     <string name="permission_precise_location">Vị trí chính xác</string>
     <string name="permission_precise_location_sumary">Khi tính năng này bị tắt, ứng dụng sẽ chỉ có thể truy cập vào vị trí gần đúng của bạn</string>
@@ -5743,14 +5743,14 @@ Tính năng này sẽ không hoạt động khi Tết kiệm pin hoặc Tiết k
     <string name="yuan">NDT</string>
     <string name="permisison_usage_menu_all">Tất cả</string>
     <string name="permisison_usage_menu_terminal">Kết nối liên thông</string>
-    <string name="permisison_usage_now_camera">Ứng dụng này đang truy cập camera</string>
+    <string name="permisison_usage_now_camera">Ứng dụng này đang truy cập máy ảnh</string>
     <string name="permisison_usage_now_location">Ứng dụng này đang truy cập vị trí của bạn</string>
     <string name="permisison_usage_now_mic">Ứng dụng này đang truy cập micro</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Ứng dụng này đã truy cập thông tin tập luyện của bạn</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Ứng dụng này đã tự khởi động</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Ứng dụng này đã truy cập cảm biến cơ thể</string>
     <string name="permission_usage_allow_call_phone_once">%1$s | Ứng dụng này đã thực hiện cuộc gọi</string>
-    <string name="permission_usage_allow_camera_once">%1$s | Ứng dụng này đã truy cập camera</string>
+    <string name="permission_usage_allow_camera_once">%1$s | Ứng dụng này đã truy cập máy ảnh</string>
     <string name="permission_usage_allow_clipboard_once">%1$s | Ứng dụng này đã truy cập khay nhớ tạm</string>
     <string name="permission_usage_allow_delete_pic_once">%1$s | Ứng dụng này đã xóa ảnh khỏi Thư viện</string>
     <string name="permission_usage_allow_device_sensor_once">%1$s | Ứng dụng này đã truy cập cảm biến chuyển động và định hướng của thiết bị</string>
@@ -5782,7 +5782,7 @@ Tính năng này sẽ không hoạt động khi Tết kiệm pin hoặc Tiết k
     <string name="permission_usage_deny_autostart_once">%1$s | Ứng dụng này bị từ chối tự khởi động</string>
     <string name="permission_usage_deny_body_sensor_once">%1$s | Ứng dụng này bị từ chối truy cập cảm biến cơ thể</string>
     <string name="permission_usage_deny_call_phone_once">%1$s | Ứng dụng này bị từ chối thực hiện cuộc gọi</string>
-    <string name="permission_usage_deny_camera_once">%1$s | Ứng dụng này bị từ chối truy cập camera</string>
+    <string name="permission_usage_deny_camera_once">%1$s | Ứng dụng này bị từ chối truy cập máy ảnh</string>
     <string name="permission_usage_deny_clipboard_once">%1$s | Ứng dụng này bị từ chối truy cập khay nhớ tạm</string>
     <string name="permission_usage_deny_delete_pic_once">%1$s | Ứng dụng này bị từ chối xóa ảnh khỏi Thư viện</string>
     <string name="permission_usage_deny_device_sensor_once">%1$s | Ứng dụng này bị từ chối truy cập cảm biến chuyển động và định hướng</string>
@@ -6382,7 +6382,7 @@ Không hỗ trợ thông báo cho các nhóm bị chặn, cũng như phần mề
 <string name="menu_click_setting">Cài đặt</string>
 <string name="menu_click_show_system">Hiện dịch vụ hệ thống</string>
 <string name="mian_page_primary_txt">Roaming nước ngoài</string>
-<string name="mic">Microphone</string>
+<string name="mic">Micro</string>
 <string name="model_type_pad">Máy tính bảng</string>
 <string name="model_type_phone">Điện thoại</string>
 <string name="more_setting_summary">Hỗ trợ các loại thông báo về红包, thời gian không làm phiền, v.v.</string>

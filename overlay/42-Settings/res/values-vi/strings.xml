@@ -11902,5 +11902,8 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
     <string name="zone_menu_by_region">Chọn theo vùng</string>
     <string name="zone_time_type_dst">Giờ mùa hè</string>
     <string name="zone_time_type_standard">Giờ tiêu chuẩn</string>
-
+    <string name="nearby_wifi_refresh">Làm mới</string>
+    <string name="enhanced_ai_applications">Tăng cường ứng dụng AI</string>
+    <string name="enhanced_ai_applications_summary">Sử dụng AI để nâng cấp ứng dụng và trải nghiệm dịch vụ thông minh hơn</string>
+    <string name="system_personalize_title">Cá nhân hóa</string>
 </resources>
