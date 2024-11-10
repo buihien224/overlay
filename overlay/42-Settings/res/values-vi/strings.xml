@@ -11734,6 +11734,9 @@ bạn cũng có thể sử dụng mạng của người dùng khác."</string>
     <string name="zen_mode_event_rule_reply_yes_or_maybe">Có hoặc Có thể</string>
     <string name="zen_mode_events">Sự kiện</string>
     <string name="zen_mode_events_list">sự kiện</string>
+    <string name="zen_mode_summary2">Sẽ không có nhắc nhở cho cuộc gọi và thông báo đến</string>
+    <string name="zen_mode_screen_locked_only">Chỉ khi thiết bị bị khóa</string>
+    <string name="zen_mode_title">Không làm phiền</string>
     <string name="APKTOOL_DUMMYVAL_0x7f153058">Sự kiện</string>
     <string name="APKTOOL_DUMMYVAL_0x7f153059">Từ các sự kiện sắp tới trên lịch</string>
     <string name="APKTOOL_DUMMYVAL_0x7f15305a">Cho đến khi bạn tắt</string>

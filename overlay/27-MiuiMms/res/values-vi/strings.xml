@@ -1496,4 +1496,7 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
     <string name="zero_sms_feedback_message">Tin nhắn đã báo cáo được tải lên máy chủ của chúng tôi cùng với số điện thoại của người gửi. Những tin nhắn này chỉ được sử dụng để cải thiện tính năng Danh sách chặn.</string>
     <string name="zero_sms_feedback_success">Báo cáo thành công</string>
     <string name="zero_sms_feedback_title">Báo cáo</string>
+    <string name="mx_dspt_listview_translation_for_pad">Gửi tin nhắn đến các thiết bị Xiaomi khác mà không bị tính phí khi bạn kết nối với internet</string>
+    <string name="mx_dspt_translation_for_pad">Gửi tin nhắn đến các thiết bị Xiaomi khác mà không bị tính phí khi bạn kết nối với internet</string>
+
 </resources>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="hypervs.com.miui.weather2" platformBuildVersionCode="33" platformBuildVersionName="13">
-    <overlay android:isStatic="true" android:requiredSystemPropertyName="ro.build.characteristics" android:requiredSystemPropertyValue="tablet" android:priority="1" android:targetPackage="com.miui.weather2"/>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="hypervs.com.miui.weather2" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <overlay android:isStatic="true" android:requiredSystemPropertyName="bhlnk.hypervs.overlay" android:requiredSystemPropertyValue="true" android:priority="1" android:targetPackage="com.miui.weather2"/>
     <application android:hasCode="false" android:extractNativeLibs="false" />
 </manifest>
+
+
+
+

@@ -2259,16 +2259,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Tình trạng mạng kém tạm thời</string>
     <string name="wifitrackerlib_wifi_remembered">Đã lưu</string>
     <string name="wifitrackerlib_wifi_security_none">Không có</string>
-    <string name="wifitrackerlib_wifi_security_passpoint">PassPoint</string>
-    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
-    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
-    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
-    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
-    <string name="wifitrackerlib_wifi_security_short_owe">OWE</string>
-    <string name="wifitrackerlib_wifi_security_short_sae">WPA3</string>
-    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
-    <string name="wifitrackerlib_wifi_security_wep">WEP</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Không đo lượng dữ liệu</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Tạm thời, Wi-Fi sẽ không tự động kết nối</string>
     <string name="wind_direction_0">Gió B</string>
