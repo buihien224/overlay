@@ -13,7 +13,7 @@ packageInfo:
   renameManifestPackage: null
 versionInfo:
   versionCode: 1
-  versionName: TMP-VS
+  versionName: VS-4.2.ST
 resourcesAreCompressed: false
 sharedLibrary: false
 sparseResources: false

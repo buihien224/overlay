@@ -13,7 +13,7 @@ packageInfo:
   renameManifestPackage: null
 versionInfo:
   versionCode: '23120610'
-  versionName: VS-2.0.ST
+  versionName: VS-4.2.ST
 resourcesAreCompressed: false
 sharedLibrary: false
 sparseResources: false

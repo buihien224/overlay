@@ -2,4 +2,6 @@
 <resources>
     <string name="config_defaultAssistant">com.google.android.googlequicksearchbox</string>
     <string name="config_defaultAssistantAccessComponent">com.google.android.ext.services/android.ext.services.notification.Assistant</string>
+    <string name="config_defaultContextualSearchKey">omni.entry_point</string>
+    <string name="config_defaultContextualSearchPackageName">com.google.android.googlequicksearchbox</string>
 </resources>

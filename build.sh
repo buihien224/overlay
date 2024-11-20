@@ -62,6 +62,6 @@ esac
 rm -rf $(find -type d -name build)
 
 
-#sed -i 's/versionName: [^ ]*/versionName: VS-40.ST/g' $(find -type f -name apktool.yml)
+#sed -i 's/versionName: [^ ]*/versionName: VS-42.ST/g' $(find -type f -name apktool.yml)
 #sed -i 's/apkFileName: miuivs\./apkFileName: HyperVS\./g' $(find -type f -name apktool.yml)
-#sed -i 's/package="miuivs/package="hypervs/g' $(find -type f -name AndroidManifest.xml)
+#sed -i 's/package="tmp /package="hypervs/g' $(find -type f -name AndroidManifest.xml)

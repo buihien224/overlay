@@ -1,0 +1,434 @@
+com.miui.contentextension
+[x] hypervs.com.miui.contentextension
+
+com.android.providers.telephony
+--- com.android.providers.telephony.auto_generated_characteristics_rro
+[x] hypervs.com.android.providers.telephony
+[x] com.android.providers.telephony.overlay.miui
+
+com.android.dynsystem
+[x] hypervs.com.android.dynsystem
+
+com.miui.powerkeeper
+[x] hypervs.com.miui.powerkeeper
+
+com.google.android.cellbroadcastservice
+--- com.google.android.cellbroadcastservice.overlay.miui
+
+com.android.providers.calendar
+[x] hypervs.com.android.providers.calendar
+
+com.miui.contentcatcher
+[x] hypervs.com.miui.contentcatcher
+
+com.milink.service
+[x] hypervs.com.milink.service
+
+com.mobiletools.systemhelper
+--- hypervs.com.mobiletools.systemhelper
+
+com.xiaomi.account
+[x] hypervs.com.xiaomi.account
+
+com.bsp.catchlog
+[x] tmpvs.com.bsp.catchlog
+
+miui.systemui.plugin
+[x] hypervs.miui.systemui.plugin
+
+com.miui.themestore
+[x] hypervs.com.miui.themestore
+
+com.qualcomm.qti.autoregistration
+--- hypervs.com.qualcomm.qti.autoregistration
+
+com.android.htmlviewer
+[x] tmpvs.com.android.htmlviewer
+
+com.miui.securityadd
+[x] hypervs.com.miui.securityadd
+
+com.android.companiondevicemanager
+--- com.android.companiondevicemanager.auto_generated_characteristics_rro
+[x] tmpvs.com.android.companiondevicemanager
+
+com.miui.gallery
+[x] hypervs.com.miui.gallery
+
+com.android.quicksearchbox
+--- hypervs.com.android.quicksearchbox
+
+com.android.providers.downloads
+[x] hypervs.com.android.providers.downloads
+
+com.android.networkstack.inprocess
+--- tmpvs.com.android.networkstack.inprocess
+
+com.miui.securitycenter
+[x] hypervs.com.miui.securitycenter
+[x] com.miui.securitycenter.securitycenter_phone_overlay.config.overlay
+
+com.qualcomm.qti.performancemode
+[x] hypervs.com.qualcomm.qti.performancemode
+
+com.xiaomi.aiasst.vision
+--- hypervs.com.xiaomi.aiasst.vision
+
+com.miui.tsmclient
+[x] hypervs.com.miui.tsmclient
+
+com.newcall
+--- com.newcall.overlay.miui
+
+com.android.providers.downloads.ui
+[x] hypervs.com.android.providers.downloads.ui
+
+com.android.networkstack
+[x] com.android.networkstack.overlay.miui
+
+com.miui.backup
+[x] hypervs.com.miui.backup
+
+com.miui.notification
+[x] hypervs.com.miui.notification
+
+com.android.connectivity.resources
+--- tmpvs.com.android.connectivity.resources
+
+com.xiaomi.barrage
+[x] hypervs.com.xiaomi.barrage
+
+com.android.carrierconfig
+[x] com.android.carrierconfig.overlay.common
+[x] com.android.carrierconfig.overlay.miui
+
+com.android.wifi.dialog
+[x] tmpvs.com.android.wifi.dialog
+
+android
+[x] android.overlay.target
+[x] com.google.android.overlay.gmsconfig.common
+[x] com.google.android.overlay.gmsconfig.gsa
+[x] com.google.android.overlay.gmsconfig.geotz
+[x] com.google.android.overlay.modules.ext.services.cn
+[x] com.miui.core.internal.services
+[x] android.auto_generated_characteristics_rro
+--- hypervs.android
+[x] com.google.android.overlay.pixelconfig.common
+[x] android.overlay.common
+[x] android.miui.home.launcher.res
+--- android.qvaoverlay.common
+[x] android.aosp.overlay
+[x] com.miui.systemui.overlay.devices.android
+--- com.miui.wallpaper.overlay.customize
+[x] com.miui.voiceassistoverlay
+[x] com.nikgapps.overlay.gmscore
+[x] android.aosp.overlay.telephony
+[ ] com.android.internal.display.cutout.emulation.corner
+[ ] com.android.internal.display.cutout.emulation.double
+[ ] com.android.internal.display.cutout.emulation.hole
+[ ] com.android.internal.display.cutout.emulation.tall
+[ ] com.android.internal.systemui.navbar.threebutton
+[x] com.android.systemui.gesture.line.overlay
+[ ] com.android.theme.font.notoserifsource
+[ ] com.android.internal.display.cutout.emulation.waterfall
+[ ] com.android.internal.systemui.navbar.transparent
+[ ] com.android.role.notes.enabled
+[ ] com.android.systemui.navigation.bar.overlay
+[ ] com.android.internal.systemui.navbar.gestural
+[x] com.android.systemui:neutral
+[x] com.android.systemui:accent
+[x] com.android.systemui:dynamic
+[ ] hypervs.gboard.space
+[ ] hypervs.shw_navspace
+
+com.android.contacts
+[x] hypervs.com.android.contacts
+
+com.miui.securitymanager
+[x] hypervs.com.miui.securitymanager
+
+com.miui.securitycore
+[x] hypervs.com.miui.securitycore
+[x] com.android.inputsettings.overlay.miui
+
+com.google.android.pixel.setupwizard
+--- com.google.android.pixel.setupwizard.overlay
+
+com.android.mms
+[x] hypervs.com.android.mms
+
+com.android.mtp
+[x] tmpvs.com.android.mtp
+
+com.android.stk
+[x] com.android.stk.overlay.miui
+
+com.xiaomi.simactivate.service
+[x] hypervs.com.xiaomi.simactivate.service
+
+com.miui.phrase
+[x] hypervs.com.miui.phrase
+
+com.android.provision
+[x] hypervs.com.android.provision
+
+com.miui.system
+[x] hypervs.com.miui.system
+--- com.miui.system.overlay
+
+com.android.settings.intelligence
+[x] hypervs.com.android.settings.intelligence
+
+com.android.calendar
+[x] hypervs.com.android.calendar
+
+com.miui.aod
+[x] hypervs.com.miui.aod
+
+com.miui.cit
+[x] hypervs.com.miui.cit
+
+com.miui.rom
+[x] android.miui.overlay
+[x] android.miui.overlay.hypervs
+[x] android.miui.overlay.telephony
+
+com.miuix.editor
+[x] tmpvs.com.miuix.editor
+
+com.android.providers.settings
+[x] com.android.overlay.gmssettingprovider
+[x] hypervs.com.android.providers.settings
+--- com.android.providers.settings.overlay
+
+com.xiaomi.location.fused
+[x] tmpvs.com.xiaomi.location.fused
+
+com.miui.miinput
+--- hypervs.com.miui.miinput
+
+com.miui.personalassistant
+[x] hypervs.com.miui.personalassistant
+
+com.miui.misound
+[x] hypervs.com.miui.misound
+
+com.android.incallui
+[x] hypervs.com.android.incallui
+
+com.android.se
+[x] com.android.se.overlay.target
+
+com.android.bips
+[x] hypervs.com.android.bips
+
+com.android.musicfx
+[x] hypervs.com.android.musicfx
+
+com.xiaomi.phone
+[x] com.xiaomi.phone.overlay
+
+com.miui.cloudbackup
+[x] hypervs.com.miui.cloudbackup
+
+com.android.cellbroadcastreceiver
+--- com.android.cellbroadcastreceiver.overlay.common
+
+com.mipay.wallet
+--- hypervs.com.mipay.wallet
+
+com.android.server.telecom
+[x] com.android.overlay.cngmstelecomm
+[x] com.android.overlay.gmstelecomm
+[x] com.android.server.telecom.overlay.common
+[x] tmpvs.com.android.server.telecom
+[x] miuivs.com.android.server.telecom
+[x] com.android.server.telecom.overlay.miui
+
+com.android.keychain
+[x] miuivs.com.android.keychain
+
+com.android.camera
+[x] com.android.camera.overlay
+
+com.miui.mishare.connectivity
+[x] hypervs.com.miui.mishare.connectivity
+
+com.android.wifi.resources
+[x] com.android.wifi.resources.overlay.target
+[x] com.android.wifi.resources.overlay.pineapple
+[x] com.android.wifi.resources.overlay.common
+[x] com.android.wifi.resources.xiaomi
+[x] hypervs.com.android.wifi.resources
+
+com.miui.freeform
+--- hyperostmp.com.miui.freeform
+--- hypervs.com.miui.freeform
+
+com.android.packageinstaller
+[x] hypervs.com.android.packageinstaller
+
+com.xiaomi.finddevice
+[x] hypervs.com.xiaomi.finddevice
+
+com.xiaomi.joyose
+[x] hypervs.com.xiaomi.joyose
+
+com.miui.notes
+[x] hypervs.com.miui.notes
+
+com.xiaomi.market
+--- hypervs.com.xiaomi.market
+
+com.xiaomi.misettings
+[x] hypervs.com.xiaomi.misettings
+
+com.xiaomi.mirror
+[x] hypervs.com.xiaomi.mirror
+
+com.miui.cloudservice
+[x] hypervs.com.miui.cloudservice
+
+com.android.managedprovisioning
+--- com.android.managedprovisioning.overlay
+
+com.android.networkstack.tethering
+[x] com.qualcomm.qti.server.wigig.tethering.rro
+
+com.miui.audiomonitor
+[x] hypervs.com.miui.audiomonitor
+
+com.goodix.fingerprint.setting
+[x] hypervs.com.goodix.fingerprint.setting
+
+com.miui.touchassistant
+[x] hypervs.com.miui.touchassistant
+
+com.android.wallpaper.livepicker
+[x] tmpvs.com.android.wallpaper.livepicker
+
+com.miui.miwallpaper
+--- com.miui.miwallpaper.overlay.customize
+[x] hypervs.com.miui.miwallpaper
+[x] com.miui.miwallpaper.config.overlay
+
+com.xiaomi.bluetooth
+[x] com.xiaomi.bluetooth.rro.device.config.overlay
+[x] hypervs.com.xiaomi.bluetooth
+
+com.xiaomi.metoknlp
+[x] miuivs.com.xiaomi.metoknlp
+
+com.miui.cleanmaster
+[x] hypervs.com.miui.cleanmaster
+
+com.android.storagemanager
+[x] hypervs.com.android.storagemanager
+
+com.android.settings
+[x] com.android.settings.overlay.common
+[x] com.miui.settings.rro.device.type.overlay
+[x] com.miui.settings.rro.device.config.overlay
+[x] com.miui.settings.rro.device.hide.statusbar.overlay
+[x] hypervs.com.android.settings
+--- com.android.settings.overlay.miui
+
+com.miui.weather2
+[x] hypervs.com.miui.weather2
+
+com.android.networkstack.tethering.inprocess
+--- tmpvs.com.android.networkstack.tethering.inprocess
+
+com.xiaomi.scanner
+[x] hypervs.com.xiaomi.scanner
+
+com.google.android.wifi.resources
+--- com.google.android.wifi.resources.overlay.target
+--- com.google.android.wifi.resources.overlay.pineapple
+--- com.google.android.wifi.resources.overlay.common
+--- com.google.android.wifi.resources.xiaomi
+
+com.miui.mediaeditor
+[x] hypervs.com.miui.mediaeditor
+
+com.miui.accessibility
+[x] hypervs.com.miui.accessibility
+
+com.android.phone
+[x] com.android.overlay.gmstelephony
+--- com.android.phone.auto_generated_characteristics_rro
+[x] com.android.phone.overlay.common
+[x] hypervs.com.android.phone
+[x] com.android.phone.overlay.miui
+
+com.android.providers.blockednumber
+[x] hypervs.com.android.providers.blockednumber
+
+com.miui.screenshot
+[x] hypervs.com.miui.screenshot
+
+com.android.emergency
+[x] hypervs.com.android.emergency
+
+com.android.location.fused
+[x] tmpvs.com.android.location.fused
+
+com.android.systemui
+[x] com.android.systemui.overlay.common
+[x] com.miui.systemui.devices.overlay
+[x] com.miui.systemui.carriers.overlay
+[x] hypervs.com.android.systemui
+--- com.android.systemui.overlay.miui
+[ ] hypervs.hid_alarm
+[ ] hypervs.hid_clock
+[ ] hypervs.shw_lunaryear
+[ ] hypervs.hid_flightmode
+[ ] hypervs.hid_ap
+[ ] hypervs.hid_headset
+[ ] hypervs.hid_ringer
+[ ] hypervs.hid_signal
+[ ] hypervs.miuifingerprint.icon
+[ ] hypervs.hid_blt
+[ ] hypervs.hid_dnd
+[ ] hypervs.hid_gps
+[ ] hypervs.hid_nfc
+[ ] hypervs.hid_vpn
+[ ] hypervs.hid_wifi
+
+com.android.permissioncontroller
+--- hypervs.com.android.permissioncontroller
+
+com.android.thememanager
+[x] hypervs.com.android.thememanager
+--- com.android.thememanager.customthemeconfig.config.overlay
+
+com.android.traceur
+[x] hypervs.com.android.traceur
+
+com.google.android.cellbroadcastreceiver
+--- com.google.android.cellbroadcastreceiver.overlay.miui
+
+com.lbe.security.miui
+[x] hypervs.com.lbe.security.miui
+
+com.android.bluetooth
+[x] tmpvs.com.android.bluetooth
+--- com.android.bluetooth.overlay
+
+com.android.providers.contacts
+[x] com.android.overlay.gmscontactprovider
+[x] hypervs.com.android.providers.contacts
+
+com.android.captiveportallogin
+--- tmpvs.com.android.captiveportallogin
+
+com.miui.core
+[x] hypervs.com.miui.core
+
+com.miui.home
+[x] hypervs.com.miui.home
+
+com.xiaomi.digitalkey
+--- hypervs.com.xiaomi.digitalkey
+

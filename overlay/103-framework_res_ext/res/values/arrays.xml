@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ADJUST_WHITE_LIST">
+        <item>android</item>
+        <item>android.app.stubs</item>
+        <item>android.app.cts</item>
+        <item>com.android.mms</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.calendar</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.chinaunicom.registerhelper</item>
+        <item>com.mobiletools.systemhelper</item>
+        <item>com.miui.aod</item>
+        <item>com.android.networkstack</item>
+        <item>com.google.android.gms</item>
+    </string-array>
+    <string-array name="abnormal_small_window_blacklist">
+    </string-array>
+    <string-array name="abnormal_small_window_blacklist_for_pad">
+    </string-array>
+    <array name="abnormal_small_window_whitelist" />
+    <array name="abnormal_small_window_whitelist_for_pad" />
+    <string-array name="cvw_unsupported_freeform_white_list">
+    </string-array>
+    <string-array name="freeform_black_list">
+    </string-array>
+    <string-array name="freeform_black_list_for_pad">
+    </string-array>
+</resources>
