@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hypervs.com.ota.bg"
+    platformBuildVersionCode="33"
+    platformBuildVersionName="13">
+
+    <overlay
+        android:targetPackage="com.android.settings"
+        android:priority="999"
+        android:isStatic="true" />
+
+    <application
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>
