@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="accessibility_sliding_button_state_description_off">Đã tắt</string>
+<string name="accessibility_sliding_button_state_description_on">Đã bật</string>
+<string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
+<string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+
+<string name="ai_guard_post_brief_summary">Nhận diện và cảnh báo các cuộc gọi lừa đảo</string>
+<string name="ai_guard_post_go">Bắt đầu</string>
+
+<string name="ai_guard_post_preference_guidance_summary">%1$d. Vào Cài đặt &gt; Quyền riêng tư &amp; bảo mật &gt; Bảo mật &gt; Chống lừa đảo &gt; Bảo vệ cuộc gọi.
+%2$d. Bật Bảo vệ cuộc gọi AI và cấp các quyền cần thiết.</string>
+
+<string name="ai_guard_post_preference_guidance_title">Cách sử dụng</string>
+
+<string name="ai_guard_post_preference_summary">Gửi cảnh báo khi phát hiện dấu hiệu lừa đảo hoặc giả mạo danh tính trong cuộc gọi và cuộc gọi video WeChat hoặc QQ</string>
+<string name="ai_guard_post_preference_summary_1">Gửi cảnh báo khi phát hiện dấu hiệu lừa đảo trong cuộc gọi và cuộc gọi video WeChat hoặc QQ</string>
+
+<string name="ai_guard_post_preference_title">Chống lừa đảo bằng AI</string>
+
+<string name="ai_guard_settings_preference_summary_1">Sẽ gửi cảnh báo khi phát hiện dấu hiệu lừa đảo trong cuộc gọi và cuộc gọi video WeChat hoặc QQ. Bạn có thể tắt tính năng này cho từng cuộc gọi riêng lẻ.</string>
+
+<string name="antispam_add_black_number_message">Số bạn nhập quá ngắn. Chặn tất cả các số bắt đầu bằng dãy số này?</string>
+<string name="antispam_add_black_number_negative">Không</string>
+<string name="antispam_add_black_number_positive">Có</string>
+
+<string name="antispam_st_all_net">Mọi kết nối mạng</string>
+<string name="antispam_st_smart_close">Tắt</string>
+<string name="antispam_st_smart_update">Cơ sở dữ liệu nhận diện số</string>
+<string name="antispam_st_smart_update_title">Cập nhật cơ sở dữ liệu nhận diện số</string>
+<string name="antispam_st_wlan_net">Chỉ Wi-Fi</string>
+<string name="antispam_st_wlan_net_china">Chỉ WLAN</string>
+
+<string name="app_lock_mixed_char">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 -@#%^$&amp;*_!.,?;'/~</string>
+
+<string name="app_manager_ad_text_btn_resume">Tiếp tục</string>
+
+<string name="app_manager_details_electric_title_new">Pin</string>
+<string name="app_manager_details_electric_title_value">Mức sử dụng pin %s</string>
+
+<string name="app_manager_details_traffic_title_new">Mạng</string>
+<string name="app_manager_details_traffic_title_value">Dữ liệu đã dùng %1$s</string>
+
+<string name="app_manager_global_recommend_title">Dành cho bạn</string>
+
+<string name="app_summary">Trợ lý lì xì cho WeChat và QQ
+Hỗ trợ cả chat nhóm và cá nhân</string>
+
+<string name="applock_lock_mode_locked_or_exit_or_wait_summary">Khóa ứng dụng sau %1$d phút khi rời khỏi, thoát hoặc chuyển sang ứng dụng khác</string>
+<string name="applock_lock_mode_locked_or_exit_summary">Khóa ứng dụng ngay khi rời khỏi, thoát hoặc chuyển sang ứng dụng khác</string>
+<string name="applock_lock_mode_locked_summary">Không yêu cầu xác minh cho đến khi thiết bị bị khóa</string>
+
+<string name="applock_password_set_luck_button">Cài đặt</string>
+<string name="applock_password_set_luck_comment">Bạn cần thiết lập khóa màn hình để sử dụng các tính năng riêng tư trên thiết bị.</string>
+
+<string name="applock_password_set_luck_message">Để truy cập an toàn các tính năng riêng tư, Xiaomi HyperOS sử dụng khóa màn hình làm phương thức xác minh mặc định.
+
+Nếu bạn chưa thiết lập khóa màn hình, hãy làm theo hướng dẫn để thiết lập.</string>
+
+<string name="applock_password_set_luck_title">Thiết lập khóa màn hình trước</string>
+<string name="applock_password_start_setting">Thiết lập</string>
+
+<string name="applock_password_type">Khóa ứng dụng</string>
+<string name="applock_password_type_tips">Khóa ứng dụng đã được gộp vào mật khẩu bảo vệ quyền riêng tư. Bạn vẫn có thể dùng mật khẩu cũ cho đến khi chuyển sang loại mới.</string>
+
+<string name="applock_time_scope">Thời gian và phạm vi</string>
+
+<string name="apps_manager_reminder_uninstall_ref">Quản lý ứng dụng_Trang thông tin ứng dụng</string>
+
+<string name="audio_optimization_summary_v2">Tăng độ sống động khi chơi game và tối ưu khử nhiễu</string>
+
+<string name="auto_task_switch">Chuyển đổi</string>
+<string name="auto_task_typeface_font_size">cỡ chữ</string>
+<string name="auto_task_typeface_font_weight">độ đậm chữ</string>
+
+<string name="back_sound_no_support_oversea">SIM %1$d không hỗ trợ gói này</string>
+
+<string name="beauty_fun_portrait_center_check">Chế độ Ultra HD không hỗ trợ FocusFrame</string>
+<string name="beauty_fun_ultra_clear_check">FocusFrame không hỗ trợ chế độ Ultra HD</string>
+
+<string name="best_warning_dialog_message">Mẹo: Sử dụng trợ lý lì xì giúp bạn nhận lì xì nhanh hơn. Tuy nhiên, nếu bạn luôn là người mở đầu tiên, &lt;font color='#F30018'&gt;WeChat có thể nhầm bạn đang dùng plugin tự động&lt;/font&gt;, điều này có thể ảnh hưởng đến cơ hội nhận sau này. Hãy sử dụng hợp lý. Lì xì vui thôi, đừng tham quá!</string>
+
+<string name="best_warning_dialog_message1">Sử dụng trợ lý lì xì giúp bạn nhận lì xì nhanh hơn. Tuy nhiên, nếu bạn luôn là người mở đầu tiên, &lt;font color='#F22424'&gt;WeChat có thể nhầm bạn đang dùng plugin tự động&lt;/font&gt;, điều này có thể ảnh hưởng đến cơ hội nhận sau này. Hãy sử dụng hợp lý.</string>
+
+<string name="biometric_applock_password_lockout_title">Thử quá nhiều lần</string>
+
+<string name="biometric_applock_pwd">Xác minh khóa ứng dụng</string>
+<string name="biometric_applock_pwd_or_finger">Xác minh bằng vân tay hoặc khóa ứng dụng</string>
+
+<string name="biometric_face_error">Không thể xác minh</string>
+<string name="biometric_face_finger_change">Dữ liệu sinh trắc học đã thay đổi. Nhập mật khẩu để xác minh.</string>
+<string name="biometric_face_in_use">Camera đang được sử dụng. Không thể mở khóa bằng khuôn mặt.</string>
+
+<string name="biometric_finger_verify">Xác minh vân tay</string>
+
+<string name="biometric_lockscreen_pwd">Xác minh khóa màn hình</string>
+<string name="biometric_lockscreen_pwd_or_finger">Xác minh bằng vân tay hoặc khóa màn hình</string>
+<string name="biometric_private_password">Xác minh mật khẩu bảo vệ quyền riêng tư</string>
+<string name="biometric_private_password_lockout_title">Thử sai quá nhiều lần</string>
+<string name="biometric_private_pwd_or_finger">Xác minh bằng vân tay hoặc mật khẩu bảo vệ quyền riêng tư</string>
+<string name="biometric_reset_password_tips">Đặt lại mật khẩu thành công. Nhập mật khẩu mới để mở khóa.</string>
+<string name="biometric_screen_lock_password_lockout_title">Thử sai quá nhiều lần</string>
+<string name="biometric_subtitle">Để mở %1$s</string>
+<string name="biometric_subtitle_default">Xác minh danh tính của bạn</string>
+<string name="biometric_verify_retry">Thử lại</string>
+<string name="blacklist_prefix_add_hint_international">Chặn các cuộc gọi bắt đầu bằng một số cụ thể</string>
+<string name="bottomsheet_action_collapse">Thu gọn bảng dưới</string>
+<string name="bottomsheet_action_expand">Mở rộng bảng dưới</string>
+<string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp vào tay cầm kéo</string>
+<string name="bottomsheet_drag_handle_content_description">Tay cầm kéo</string>
+<string name="bubble_pickup_voice_print_auto">Đang ghi dấu giọng nói…</string>
+<string name="button_pickup_voice_print_auto_agree">Ghi</string>
+<string name="button_pickup_voice_print_auto_disagree">Để sau</string>
+<string name="button_toll_correction">Hiệu chỉnh số dư</string>
+<string name="call_all_number_block">Chặn tất cả cuộc gọi</string>
+<string name="car_sickness_relief_comment_text">Khi phát hiện chuyển động của xe, các chấm sẽ hiển thị ở hai bên màn hình để cho biết xe đang di chuyển, có thể giúp giảm cảm giác say xe.</string>
+<string name="car_sickness_relief_comment_text_opened">Các chấm sẽ hiển thị ở hai bên màn hình để cho biết chuyển động của xe, có thể giúp giảm cảm giác say xe.
+
+Bạn có thể bật hoặc tắt tính năng này trong Trung tâm điều khiển.</string>
+<string name="car_sickness_relief_example_text_1">Khi xe tăng tốc hoặc giảm tốc</string>
+<string name="car_sickness_relief_example_text_2">Khi xe rẽ hoặc chuyển làn</string>
+<string name="car_sickness_relief_exit_text">Tính năng giảm say xe đã dừng hoạt động</string>
+<string name="car_sickness_relief_start_text">Tính năng giảm say xe đang hoạt động</string>
+<string name="car_sickness_remind_time_title">Chỉ báo chuyển động</string>
+<string name="car_sickness_title">Giảm say xe</string>
+<string name="celcius_symbol">℃</string>
+<string name="character_counter_pattern">%1$d/%2$d</string>
+<string name="check_bill_balance">Kiểm tra số dư</string>
+<string name="click_page_to_recognition">Nhấn để tiếp tục nhận diện</string>
+<string name="combine_permission_action_foreground">Chỉ cho phép khi dùng ứng dụng</string>
+<string name="combine_permission_title">%1$s yêu cầu các quyền sau</string>
+<string name="confirm_reject_all_permission_only_opening_screen">Chỉ giới hạn quyền này khi mở ứng dụng cho tất cả ứng dụng?</string>
+<string name="connected_devices_permission_summary">Quản lý quyền truy cập vào thiết bị này</string>
+<string name="cs_camera_bubble">Đã phát hiện camera khả dụng.</string>
+<string name="cs_gesture_effect_title">Phản ứng cử chỉ AI</string>
+<string name="cs_pickup_enhance">Nâng cao</string>
+<string name="cs_pickup_private">Riêng tư</string>
+<string name="cs_pickup_private_desc">Chỉ thu âm từ người dùng cụ thể</string>
+<string name="cs_pickup_standard">Tiêu chuẩn</string>
+<string name="cs_pickup_standard_desc">Thu âm góc %1$d độ</string>
+<string name="cs_pickup_vioce_print_in_private_tips">Ghi dấu giọng nói để sử dụng chế độ giảm nhiễu riêng tư.</string>
+<string name="cs_pickup_vioce_print_private_dialog_title">Ghi dấu giọng nói</string>
+<string name="cs_pickup_voice_print_auto_dialog_tips">Giọng nói của bạn sẽ chỉ được ghi và xử lý trên thiết bị này.
+Để có kết quả tốt nhất, hãy ghi âm một mình ở nơi yên tĩnh.</string>
+<string name="cs_pickup_voice_print_auto_dialog_title">Cần ghi dấu giọng nói để giảm nhiễu cá nhân hóa</string>
+<string name="cs_record_voice_title">Ghi âm</string>
+   <string name="cs_tool_box_max_screen_guide_case_1_new">Hãy thử dịch đồng thời, làm đẹp và các công cụ gọi hội nghị khác trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_max_screen_guide_case_2_new">Hãy thử làm đẹp và các công cụ gọi hội nghị khác trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_max_screen_guide_case_3_new">Hãy thử nhiều tính năng gọi hội nghị trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_max_screen_guide_case_4_new">Hãy thử dịch đồng thời và các công cụ gọi hội nghị khác trong Hộp công cụ cuộc gọi mới</string>
+
+<string name="cs_tool_box_phone_guide_case_1_new">Hãy thử dịch đồng thời, làm đẹp và nhiều tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_phone_guide_case_2_new">Hãy thử làm đẹp và các tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_phone_guide_case_3_new">Hãy thử nhiều tính năng hấp dẫn trong Hộp công cụ cuộc gọi mới</string>
+<string name="cs_tool_box_phone_guide_case_4_new">Hãy thử dịch đồng thời và các tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+
+<string name="cs_vt_camera_title">Camera liên thiết bị</string>
+<string name="cta_combine_permission_title">Quyền</string>
+
+<string name="delete_connected_devices">Xóa các thiết bị đã chọn ngay?</string>
+<string name="delete_connected_devices_title">Xóa %1$s ngay?</string>
+
+<string name="dialog_not_remind">Không hiển thị lại</string>
+
+<string name="disable_back_screen_display_touch_tip">Khi chơi game, bạn sẽ không thể chạm đúp để bật màn hình sau</string>
+
+<string name="download_tvm_limit_toast">Tải xuống bị gián đoạn. Giới hạn: %1$d MB. Xem chi tiết trong bảng thông báo.</string>
+
+<string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
+
+<string name="ew_alert_earthquake_cancel">Đã hủy</string>
+<string name="ew_alert_earthquake_list_level_title">Cấp độ cảnh báo</string>
+<string name="ew_app_name_cancel">Đã hủy cảnh báo động đất. Đừng hoảng loạn!</string>
+<string name="ew_car_accident_call_self">Tiếp quản cuộc gọi</string>
+
+<string name="ew_city_support_tip">*Chỉ hỗ trợ cảnh báo cho các khu vực trực thuộc %s</string>
+
+<string name="ew_emergency_gender_text">Ngày dự sinh: %s</string>
+<string name="ew_emergency_gender_title">Mang thai</string>
+
+<string name="ew_list_receive_distance_faraway">Tâm chấn ở xa</string>
+<string name="ew_list_receive_distance_new">Khoảng cách tới tâm chấn: %1$s | Vị trí hiện tại: %2$s</string>
+
+<string name="ew_push_title_new">(%1$s) Cảnh báo động đất | Đã xảy ra động đất %3$s độ tại %2$s.</string>
+
+<string name="ew_subscribe_city_count">Có thể đăng ký tối đa %s thành phố</string>
+<string name="ew_subscribe_title_new">(%1$s) Cảnh báo động đất | Động đất khoảng %3$s độ xảy ra gần %2$s, %4$s có thể cảm nhận được rung chấn</string>
+
+<string name="exo_controls_time_placeholder">00:00:00</string>
+<string name="exo_player_time_seperate">/</string>
+
+<string name="face_too_many_filed_locked">Thử quá nhiều lần. Tạm thời bị khóa.</string>
+<string name="face_unlock">Mở khóa bằng khuôn mặt</string>
+
+<string name="fast_open_noti_summary">%s đã gửi cho bạn một lì xì</string>
+
+<string name="fbo_search_path">%s/%s/%s</string>
+
+<string name="finger_or_face_unlock">Mở khóa bằng vân tay hoặc khuôn mặt</string>
+<string name="finger_unlock">Mở khóa bằng vân tay</string>
+
+<string name="fixed_traffic_quota_offline">Giới hạn dữ liệu (bắt buộc)</string>
+
+<string name="game_balance_vision_enhance_subtitle_xring_sr">Chỉ khả dụng khi độ phân giải game được đặt ở mức cao nhất</string>
+<string name="game_balance_vision_enhance_subtitle_xring_ys">Chỉ khả dụng khi độ chi tiết hiển thị của game được đặt ở mức cao nhất</string>
+
+<string name="game_center_more">Thêm</string>
+<string name="game_center_network_setting_tip">Cho phép ứng dụng Bảo mật truy cập Internet trong Cài đặt</string>
+<string name="game_center_network_setting_tip_pad">Cho phép ứng dụng Bảo mật truy cập Internet trong Cài đặt</string>
+<string name="game_center_recommend">Đề xuất</string>
+
+<string name="game_perf_config_audio_desc">Điều chỉnh kiểu âm thanh trong game</string>
+<string name="game_perf_config_audio_title">Âm thanh game</string>
+
+<string name="game_perf_config_display_desc_disabled">Không khả dụng</string>
+<string name="game_perf_config_display_desc_enabled">Điều chỉnh độ phân giải và tốc độ khung hình</string>
+
+<string name="game_perf_config_motion_desc">Điều chỉnh độ nhạy cảm ứng trong game</string>
+
+<string name="game_perf_config_network_desc">Giảm độ trễ và giật lag mạng</string>
+<string name="game_perf_config_network_title">Tăng tốc mạng</string>
+
+<string name="game_perf_config_strategy_diy">Tùy chỉnh</string>
+<string name="game_perf_config_strategy_fps_first">Ưu tiên FPS</string>
+<string name="game_perf_config_strategy_picture_first">Ưu tiên hình ảnh</string>
+<string name="game_perf_config_strategy_title">Chiến lược hiệu năng</string>
+
+<string name="game_toolbox_ai_qa_desc">Hỏi đáp mô hình lớn</string>
+<string name="game_toolbox_ai_qa_title">Hướng dẫn AI</string>
+
+<string name="game_toolbox_ai_service_desc">Trải nghiệm chơi game nâng cao với AI</string>
+<string name="game_toolbox_ai_service_title">Dịch vụ AI cho game</string>
+
+<string name="game_toolbox_ai_upgrade_dialog_btn">Cập nhật</string>
+<string name="game_toolbox_ai_upgrade_dialog_desc">Có bản cập nhật cho dịch vụ AI game. Hãy cập nhật trước khi sử dụng các tính năng liên quan.</string>
+<string name="game_toolbox_ai_upgrade_dialog_title">Kiểm tra cập nhật</string>
+
+<string name="game_toolbox_auto_brightness_talkback">Độ sáng tự động</string>
+<string name="game_toolbox_btn_back_talkback">Quay lại</string>
+
+<string name="game_toolbox_cellular_network">Tăng tốc mạng di động</string>
+
+<string name="game_toolbox_display_avrs">AVRS</string>
+<string name="game_toolbox_display_avrs_desc">Bật để giảm nhẹ chất lượng hình ảnh và tiết kiệm đáng kể pin</string>
+
+<string name="game_toolbox_display_enhance_view_frc_notice">Lưu ý:
+Khi bật tốc độ khung hình thông minh, các công cụ đo FPS trong game hoặc bên thứ ba có thể không hiển thị chính xác. Hãy xem FPS thực tế trong bảng hiệu năng.</string>
+
+<string name="game_toolbox_display_style_desc">Điều chỉnh phong cách hiển thị (hỗ trợ HDR trong game)</string>
+   <string name="game_toolbox_display_style_game_hdr">HDR game</string>
+<string name="game_toolbox_display_style_not_hdr_desc">Bạn có thể chuyển đổi giữa các kiểu hiển thị khác nhau</string>
+<string name="game_toolbox_display_style_title">Kiểu hiển thị</string>
+<string name="game_toolbox_fps_average">Trung bình %d FPS</string>
+<string name="game_toolbox_fps_average_nodata">Đang lấy FPS trung bình…</string>
+<string name="game_toolbox_fps_realtime">Thời gian thực %d FPS</string>
+<string name="game_toolbox_fps_realtime_nodata">Đang lấy FPS thời gian thực…</string>
+<string name="game_toolbox_fps_shake">Độ dao động %d FPS</string>
+<string name="game_toolbox_fps_shake_nodata">Đang lấy độ giật khung hình…</string>
+<string name="game_toolbox_gyro_boost_title">Tăng cường con quay hồi chuyển</string>
+<string name="game_toolbox_gyro_boost_toast">Bật con quay hồi chuyển trong cài đặt game để sử dụng tính năng này</string>
+<string name="game_toolbox_immersion_sound_desc">Khi dùng tai nghe, nhận diện chính xác âm thanh như bước chân và giọng nói, tăng độ nhập vai</string>
+<string name="game_toolbox_immersion_sound_title">Âm thanh nhập vai</string>
+<string name="game_toolbox_item_joystick_key_mapping">Nút tay cầm</string>
+<string name="game_toolbox_margin_restrain_description">Thiết lập vùng chống chạm để giảm chạm nhầm</string>
+<string name="game_toolbox_mem_clean_desc">Dọn bộ nhớ và tăng tốc</string>
+<string name="game_toolbox_more_tools_title">Công cụ khác</string>
+<string name="game_toolbox_overtemp_click_toast">Hãy đợi thiết bị nguội lại để sử dụng tính năng này</string>
+<string name="game_toolbox_perf_config_desc">Cấu hình hiệu năng game</string>
+<string name="game_toolbox_perf_config_title">Cài đặt hiệu năng</string>
+<string name="game_toolbox_performance_config_custom_notice_new">Bạn có thể tùy chỉnh Siêu phân giải và Tốc độ khung hình thông minh để quản lý FPS và chất lượng hình ảnh. &lt;font color=%s&gt;FPS thực tế được hiển thị trên bảng hiệu năng.&lt;/font&gt;</string>
+<string name="game_toolbox_performance_config_frc_notice">Khi ưu tiên FPS bật, FPS thực tế hiển thị trên bảng hiệu năng</string>
+<string name="game_toolbox_performance_config_frc_notice_new">Ưu tiên FPS sẽ cải thiện FPS thông qua Tốc độ khung hình thông minh. &lt;font color=%s&gt;FPS thực tế được hiển thị trên bảng hiệu năng.&lt;/font&gt;</string>
+<string name="game_toolbox_performance_config_notice_highlight_color_hex">#A09A97</string>
+<string name="game_toolbox_performance_config_resolution_notice">Khi ưu tiên hình ảnh bật, FPS thực tế hiển thị trên bảng hiệu năng</string>
+<string name="game_toolbox_performance_config_resolution_notice_new">Ưu tiên hình ảnh sẽ nâng cao chất lượng qua Siêu phân giải và quản lý FPS qua Tốc độ khung hình thông minh. &lt;font color=%s&gt;FPS thực tế được hiển thị trên bảng hiệu năng.&lt;/font&gt;</string>
+<string name="game_toolbox_screen_brightness_talkback">Độ sáng màn hình</string>
+<string name="game_toolbox_settings_talkback">Cài đặt</string>
+<string name="game_toolbox_slow_charge_desc">Bật Sạc bypass Plus giúp cải thiện trải nghiệm chơi game khi sạc và giảm nhiệt thiết bị, nhưng tốc độ sạc sẽ chậm hơn. Bật ngay?</string>
+<string name="game_toolbox_slow_charge_dialog_btn">Đã hiểu</string>
+<string name="game_toolbox_slow_charge_negative_btn">Hủy</string>
+<string name="game_toolbox_slow_charge_notification_msg">Tính năng này giúp cải thiện trải nghiệm chơi game khi sạc và giảm nhiệt thiết bị, nhưng tốc độ sạc sẽ chậm hơn.</string>
+<string name="game_toolbox_slow_charge_notification_title">Sạc bypass Plus</string>
+<string name="game_toolbox_slow_charge_positive_btn">Bật</string>
+<string name="game_toolbox_slow_charge_title">Sạc bypass Plus</string>
+<string name="game_toolbox_slow_charge_toast">Đã bật Sạc bypass Plus</string>
+<string name="game_toolbox_smart_charge_title">Sạc thông minh</string>
+<string name="game_toolbox_smotion_vibrate_close_toast">Phản hồi rung không hoạt động với bố cục gốc. Đã tắt phản hồi rung.</string>
+<string name="game_toolbox_smotion_vibrate_conflic_toast">Phản hồi rung không hoạt động với bố cục gốc</string>
+<string name="game_toolbox_smotion_vibrate_desc">Thêm phản hồi rung theo hành động trong game. Chỉ hỗ trợ một số game.</string>
+<string name="game_toolbox_smotion_vibrate_title">Phản hồi rung</string>
+<string name="game_toolbox_super_follow_up_msg">Tăng cường phản hồi và theo dõi cảm ứng thông qua toàn bộ hệ thống phần cứng và phần mềm</string>
+<string name="game_toolbox_super_follow_up_msg_4.5">Điều chỉnh độ nhạy theo dõi: Cao để bám sát hơn, thấp để mượt hơn</string>
+<string name="game_toolbox_super_shake_msg">Giảm rung khi chạm và vuốt, cải thiện độ ổn định điều khiển</string>
+<string name="game_toolbox_super_shake_msg_4.5">Điều chỉnh độ nhạy điều khiển: Cao để phản hồi nhanh, thấp để ổn định hơn</string>
+<string name="game_toolbox_title">Công cụ chơi game</string>
+<string name="game_toolbox_title_game_center">Trò chơi</string>
+<string name="game_toolbox_title_wild">Chế độ tối đa</string>
+<string name="game_toolbox_wild_mode_toast_tip">Hiệu năng thiết bị đã được cải thiện đáng kể</string>
+<string name="game_toolbox_wild_mode_toast_title">Đã bật chế độ tối đa</string>
+<string name="game_turbo_custom_subtitle">Bạn có thể tùy chỉnh siêu phân giải và FPS thông minh để quản lý FPS và chất lượng hình ảnh</string>
+<string name="game_turbo_frame_rate_priority_subtitle">Cải thiện FPS một cách thông minh</string>
+<string name="game_turbo_image_quality_priority_subtitle">"Nâng cao chất lượng hình ảnh" cải thiện hình ảnh bằng siêu phân giải và quản lý FPS bằng FPS thông minh</string>
+<string name="game_turbo_performance_strategy_subtitle">FPS thực tế được hiển thị trên bảng hiệu năng</string>
+<string name="gamebox_coupon">Phiếu giảm giá</string>
+<string name="gamebox_eye_protect">Bảo vệ mắt khi chơi game</string>
+<string name="gamebox_gift_pack">Quà tặng</string>
+<string name="gamebox_member">Thành viên</string>
+<string name="gamebox_space">Trò chơi</string>
+<string name="gamebox_time_elapsed_time_talkback">%1$s %2$s</string>
+<string name="gamebox_time_ready_to_start_talkback">Chưa bắt đầu</string>
+<string name="gb_barrage_chat_text_color_black_talkback">Đen</string>
+<string name="gb_barrage_chat_text_color_blue_talkback">Xanh dương</string>
+<string name="gb_barrage_chat_text_color_red_talkback">Đỏ</string>
+<string name="gb_barrage_chat_text_color_white_talkback">Trắng</string>
+<string name="gb_barrage_chat_text_color_yellow_talkback">Vàng</string>
+<string name="gb_barrage_chat_text_size_largest_talkback">Lớn nhất</string>
+<string name="gb_barrage_chat_text_size_medium_talkback">Trung bình</string>
+<string name="gb_barrage_chat_text_size_slightly_large_talkback">Hơi lớn</string>
+<string name="gb_barrage_chat_text_size_slightly_small_talkback">Hơi nhỏ</string>
+<string name="gb_barrage_chat_text_size_smallest_talkback">Nhỏ nhất</string>
+<string name="gb_casual_game_application_range_prefix">Số.</string>
+<string name="gb_collimator_color_blue_talkback">Xanh dương</string>
+<string name="gb_collimator_color_purple_talkback">Tím</string>
+<string name="gb_collimator_color_red_talkback">Đỏ</string>
+<string name="gb_collimator_color_white_talkback">Trắng</string>
+<string name="gb_collimator_color_yellow_talkback">Vàng</string>
+<string name="gb_collimator_style_talkback">Kiểu %1$d</string>
+<string name="gb_hot_area_seekbar">Phạm vi vùng nhạy</string>
+<string name="gb_shoulder_key_circle_left">L</string>
+<string name="gb_shoulder_key_circle_left_sub1">L1</string>
+<string name="gb_shoulder_key_circle_left_sub2">L2</string>
+<string name="gb_shoulder_key_circle_right">R</string>
+<string name="gb_shoulder_key_circle_right_sub1">R1</string>
+<string name="gb_shoulder_key_circle_right_sub2">R2</string>
+<string name="gb_smotion_super_core_level_bar_desc">Độ nhạy</string>
+<string name="gb_super_hot_area">Vùng nhạy thông minh</string>
+<string name="gb_super_hot_area_msg">Phân vùng thích ứng AI, nâng cao trải nghiệm cảm ứng</string>
+<string name="gb_super_hot_area_msg_4.5">Điều chỉnh phạm vi vùng điều khiển và độ nhạy cảm ứng</string>
+<string name="gb_super_shake_4.5">Điều khiển thông minh nâng cao</string>
+<string name="gb_voice_changer_user_vip_loading">Đợi chút…</string>
+<string name="gb_wonderful_video_date_format">dd'th',MMM.</string>
+<string name="gd_beauty_manage_summary">Mở từ thanh công cụ bên trong khi gọi video để sử dụng</string>
+<string name="gd_beauty_manage_title">Làm đẹp cuộc gọi video</string>
+<string name="gd_setting_dock_call_summary_new">Sử dụng Làm đẹp và các tính năng khác khi gọi âm thanh hoặc video toàn màn hình</string>
+<string name="gd_setting_group_custom_beauty_new">Quản lý Làm đẹp cuộc gọi video</string>
+<string name="gd_sidebar_edit_add_app_tips_talkback">Thêm ứng dụng</string>
+<string name="gd_sidebar_edit_add_app_upper_limit_talkback">Không thể thêm widget</string>
+<string name="gd_sidebar_edit_delete_app_tips_talkback">Xóa ứng dụng</string>
+<string name="gd_sidebar_edit_division_line_talkback">Đường phân cách</string>
+<string name="go_to_setting">Cài đặt</string>
+
+<string name="grant_dialog_button_onetime">Cho phép một lần</string>
+<string name="gt_function_close">Thu gọn</string>
+<string name="gt_function_more">Thêm</string>
+
+<string name="how_to_modify_risk_app_permission">Các bước</string>
+<string name="how_to_modify_risk_app_permission_desc">Nếu bạn tin tưởng nhà phát triển ứng dụng, hãy làm theo các bước sau để cấp quyền:</string>
+
+<string name="learn_risk_app_permission_settings">Bỏ chặn quyền</string>
+<string name="location_services_title">Vị trí</string>
+
+<string name="lock_screen_face_password_type_tips">Bạn có thể thay đổi mật khẩu trong Dữ liệu khuôn mặt &amp; Khóa màn hình</string>
+<string name="lock_screen_finger_password_type_tips">Bạn có thể thay đổi mật khẩu trong Vân tay &amp; Khóa màn hình</string>
+<string name="lock_screen_hongbao_message">Từ %1$s</string>
+<string name="lock_screen_password_only_type_tips">Bạn có thể thay đổi mật khẩu trong Khóa màn hình</string>
+<string name="lock_screen_password_type">Khóa màn hình</string>
+<string name="lock_screen_password_type_tips">Bạn có thể thay đổi khóa màn hình trong Vân tay, dữ liệu khuôn mặt và Khóa màn hình.</string>
+
+<string name="lockscreen_access_pattern_area">Vùng hình vẽ</string>
+
+<string name="main_balance_check">Kiểm tra số dư</string>
+<string name="main_bill_out_talkback">Âm %1$.2f</string>
+<string name="main_declaration_dialog_msg">Giá trị số dư hiển thị trong tính năng này không thể dùng làm bằng chứng khi làm việc với nhà mạng. Dữ liệu từ nhà mạng sẽ được ưu tiên.</string>
+
+<string name="manage_notification_access_title">Đọc, trả lời và điều khiển thông báo</string>
+<string name="mark_call_intercept_threshold_dialog_message">*Nếu một số điện thoại bị nhiều người báo cáo là lừa đảo hoặc spam vượt quá ngưỡng bạn đặt, cuộc gọi sẽ bị chặn. Nếu đặt quá thấp, có thể chặn nhầm cuộc gọi bình thường.</string>
+
+<string name="material_clock_display_divider">:</string>
+<string name="material_slider_range_end">Kết thúc phạm vi,</string>
+<string name="material_slider_range_start">Bắt đầu phạm vi,</string>
+
+<string name="medical_info_category_title_medical">Thông tin y tế</string>
+<string name="medical_info_category_title_persion">Thông tin cơ bản</string>
+<string name="medical_info_sp_title_height">Chiều cao</string>
+<string name="medical_info_sp_title_weight">Cân nặng</string>
+<string name="medical_info_unknow_contact">Liên hệ không xác định</string>
+
+<string name="medical_sp_blood_type_title">Nhóm máu</string>
+<string name="medical_sp_category_title_address">Địa chỉ nhà</string>
+<string name="medical_sp_category_title_medicine">Thuốc đang dùng</string>
+
+<string name="medical_sp_edit_hint_address">Cung cấp địa chỉ giúp nhân viên cứu hộ liên hệ với gia đình và bạn bè</string>
+<string name="medical_sp_edit_hint_allergy">Thông tin dị ứng giúp nhân viên cứu hộ điều trị an toàn hơn</string>
+<string name="medical_sp_edit_hint_medical">Thông tin bệnh lý giúp nhân viên cứu hộ chăm sóc tốt hơn</string>
+<string name="medical_sp_edit_hint_medicine">Ghi lại thuốc đang dùng giúp điều trị an toàn hơn</string>
+
+<string name="medical_sp_expectedDate_title">Ngày dự sinh</string>
+<string name="medical_sp_gender_title">Giới tính</string>
+<string name="medical_sp_height_title">Chiều cao (cm)</string>
+<string name="medical_sp_pregent_title">Mang thai</string>
+<string name="medical_sp_text_not_add">Chưa thêm</string>
+<string name="medical_sp_text_not_setting">Chưa thiết lập</string>
+<string name="medical_sp_weight_title">Cân nặng (kg)</string>
+
+<string name="modify_risk_app_permission_dialog_cancel">Hủy</string>
+<string name="modify_risk_app_permission_dialog_confirm">Bật</string>
+<string name="modify_risk_app_permission_dialog_message">Để bảo vệ quyền riêng tư, chúng tôi khuyên bạn bật "Trả về dữ liệu trống" sau khi cấp quyền cho ứng dụng này.</string>
+<string name="modify_risk_app_permission_dialog_title">Trả về dữ liệu trống</string>
+
+<string name="modify_risk_app_permission_steps">%1$d. Mở &lt;b&gt;Cài đặt&lt;/b&gt; &gt; &lt;b&gt;Ứng dụng&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %2$d. Chọn &lt;b&gt;Ứng dụng&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %3$d. Chọn &lt;b&gt;Quản lý quyền&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %4$d. Nhấn biểu tượng ︙ và chọn &lt;b&gt;Bỏ chặn quyền&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %5$d. Sau đó bạn có thể cấp từng quyền riêng lẻ.</string>
+
+<string name="msg_only_opening_screen">Quyền truy cập sẽ bị hạn chế trong %d giây đầu sau khi mở ứng dụng</string>
+
+<string name="mtrl_timepicker_confirm">OK</string>
+    <string name="need_input_face">Thêm dữ liệu khuôn mặt</string>
+<string name="need_input_face_subtitle">Trước tiên hãy thêm dữ liệu khuôn mặt trong Cài đặt.</string>
+<string name="need_input_finger">Thêm dấu vân tay</string>
+<string name="need_input_finger_subtitle">Trước tiên hãy thêm dấu vân tay trong Cài đặt.</string>
+<string name="net_error">Đã xảy ra lỗi mạng</string>
+<string name="now_inquiry">Chi tiết</string>
+<string name="open_applock">Bật Khóa ứng dụng</string>
+<string name="open_applock_password_type">Loại mật khẩu</string>
+<string name="open_applock_tips">Khóa ứng dụng và xác minh danh tính khi mở. Khóa ứng dụng có hai loại mật khẩu và hỗ trợ xác thực sinh trắc học.</string>
+<string name="open_physical_sim_self_detection_noti_centent">Kết nối chuyển vùng của bạn có thể không hoạt động bình thường</string>
+<string name="open_physical_sim_self_detection_noti_title">Thử chẩn đoán mạng chuyển vùng</string>
+<string name="open_shut_down_password">Bật</string>
+<string name="optmizingbar_item_img_description">Hoàn tất</string>
+<string name="page_lose_focus_cant_recognition">Không thể xác minh sinh trắc học do lỗi</string>
+<string name="password_or_finger_unlock">Mở khóa bằng mật khẩu hoặc vân tay</string>
+<string name="password_switch">Sử dụng mật khẩu</string>
+<string name="password_unlock">Mở khóa bằng mật khẩu</string>
+
+<string name="pc_18W_high_power_reverse_charging_summary">Sạc nhanh hơn với sạc ngược công suất cao. Kết nối USB chỉ dùng để sạc.</string>
+<string name="pc_18W_high_power_reverse_charging_summary_new">Sạc nhanh hơn với sạc ngược công suất cao.</string>
+<string name="pc_18W_high_power_reverse_charging_title">Sạc ngược</string>
+<string name="pc_battery_charging_error_message">Đã xảy ra lỗi sạc. Hãy đến trung tâm bảo hành để sửa chữa.</string>
+<string name="pc_battery_charging_error_title">Lỗi sạc</string>
+<string name="pc_battery_detail">Chi tiết pin</string>
+<string name="pc_battery_history_accessibility_item_chart_binary">Thời gian sử dụng kể từ lần sạc trước: %1$s %2$s</string>
+<string name="pc_battery_history_accessibility_item_chart_single">Thời gian sử dụng kể từ lần sạc trước: %1$s</string>
+<string name="pc_battery_history_accessibility_item_consueme_list">%1$s, Mức sử dụng pin: %2$s</string>
+
+<string name="pc_camera_handle_setting_title">Sạc qua tay cầm</string>
+<string name="pc_dialog_dual_type_c_port_reminder_btn">Đã hiểu</string>
+<string name="pc_dialog_dual_type_c_port_reminder_checkbox">Không hiển thị lại</string>
+<string name="pc_dialog_dual_type_c_port_reminder_message">Cổng Type-C ở cạnh ngắn của thiết bị không hỗ trợ truyền dữ liệu. Hãy kết nối với máy tính bằng cổng còn lại.</string>
+<string name="pc_dialog_dual_type_c_port_reminder_title">Nhắc nhở sạc</string>
+
+<string name="pc_first_use_error_tips">Đang tính toán</string>
+<string name="pc_health_charge_default">Sạc đầy</string>
+<string name="pc_health_charge_protect_noti_summary_title">Thiết bị sẽ dừng sạc khi pin đạt %1$s</string>
+<string name="pc_health_charge_protect_summary_new">Để kéo dài tuổi thọ pin, thiết bị sẽ dừng sạc khi pin đạt %1$s và chỉ sạc đầy theo lịch</string>
+
+<string name="pc_hidemode_performance_chip_title">Hiệu suất (ép xung)</string>
+<string name="pc_is_exiting_low_temperature">Đang tắt
+Chế độ chịu lạnh</string>
+
+<string name="pc_low_temp_disable_otg_message">Không thể sử dụng thiết bị ngoài và sạc ngược do nhiệt độ hoặc pin quá thấp. Hãy thử lại khi nhiệt độ hoặc pin tăng.</string>
+<string name="pc_low_temp_disable_otg_ok">Đã hiểu</string>
+<string name="pc_low_temp_disable_otg_title">Không thể dùng thiết bị ngoài và sạc ngược</string>
+
+<string name="pc_power_mode_has_performance_chip">Hiệu suất nâng cao (ép xung)</string>
+
+<string name="pc_remove_shell_charging_notification_msg">Không thể sạc không dây khi đang dùng ốp Retro Handheld Console. Hãy tháo ra hoặc dùng sạc có dây.</string>
+<string name="pc_remove_shell_charging_notification_title">Tháo ốp để dùng sạc không dây</string>
+<string name="pc_remove_shell_charging_toast">Tháo ốp để dùng sạc ngược không dây</string>
+
+<string name="pc_side_road_charge_notifiy_on_time_title">Đã bật sạc thông minh</string>
+<string name="pc_side_road_charge_notifiy_ontime_button_text">Tắt</string>
+<string name="pc_side_road_charge_notifiy_ontime_summary">Tốc độ sạc đã giảm để tránh nóng máy, lag hoặc tụt FPS</string>
+
+<string name="pc_side_road_charge_preference_title">Sạc thông minh</string>
+<string name="pc_side_road_charge_prerference_summary">Tự động điều chỉnh tốc độ sạc theo mức pin, nhiệt độ và mức sử dụng ứng dụng. Giúp sạc nhanh khi pin thấp và giữ hiệu năng ổn định khi pin cao.</string>
+
+<string name="pc_smart_charge_button_summary_new">Để kéo dài tuổi thọ pin, hệ thống sẽ học thói quen sạc và dừng sạc khi pin đạt %1$s trong một số trường hợp</string>
+<string name="pc_smart_charge_notify_summary_high_temp_protect">Để bảo vệ thiết bị khỏi quá nhiệt, sạc sẽ dừng khi pin đạt %1$s</string>
+<string name="pc_smart_charge_notify_summary_night_pause_charge">Đã tạm dừng sạc ở %1$s. Sẽ tiếp tục lúc %2$s.</string>
+<string name="pc_smart_charge_notify_summary_night_start_charge">Sạc sẽ tạm dừng khi pin đạt %1$s và tiếp tục tự động theo thói quen sử dụng</string>
+
+<string name="pc_this_time_charge_full_now">Sạc đầy</string>
+<string name="pc_wireless_handle_grip_title">Tay cầm chụp ảnh Pro</string>
+
+<string name="percent_symbol">%</string>
+
+<string name="perm_desc_accessibility">Quyền này cho phép xem và điều khiển màn hình, thao tác ứng dụng và cảm biến theo yêu cầu của bạn, và tương tác với ứng dụng thay bạn.</string>
+<string name="perm_disable_dialog_message">Quyền (%1$s) của ứng dụng này chưa được xét duyệt.</string>
+<string name="perm_disable_dialog_title">Quyền bị hạn chế</string>
+<string name="perm_disable_note_text">Quyền này chưa được xét duyệt và hiện bị hạn chế: %1$s</string>
+
+<string name="perm_manage_external_storage">Quyền truy cập tất cả tệp</string>
+<string name="perm_manage_zen_modes_access">Quyền truy cập chế độ</string>
+
+<string name="permdesc_coarse_location">Vị trí gần đúng</string>
+<string name="permdesc_fine_location">Vị trí chính xác</string>
+
+<string name="permission_group_note">Cấp quyền này để cho phép ứng dụng truy cập Ghi chú.</string>
+<string name="permission_group_record">Cấp quyền này để cho phép ứng dụng truy cập Ghi âm.</string>
+<string name="permission_instruction_read_note">Truy cập ghi chú</string>
+<string name="permission_instruction_read_record">Truy cập bản ghi âm</string>
+
+<string name="permission_only_opening_screen">Hạn chế truy cập khi khởi chạy ứng dụng</string>
+
+<string name="phone_manage_content_description_add">Thêm</string>
+<string name="phone_manage_content_description_remove">Xóa</string>
+<string name="phone_manage_edit_cancel">Hủy</string>
+    <string name="phone_manage_edit_confirm">Lưu thay đổi</string>
+
+<string name="power_dialog_super_save_msg_p2">Chế độ siêu tiết kiệm pin sẽ tắt màn hình phụ và hạn chế hầu hết các tính năng tiêu tốn năng lượng, làm giảm hiệu năng thiết bị để duy trì các chức năng cơ bản (như gọi điện, SMS và kết nối mạng) lâu nhất có thể. Bật chế độ siêu tiết kiệm pin?</string>
+
+<string name="pp_agent_app_ctl_manager">Quản lý Điều khiển thông minh AI</string>
+<string name="pp_agent_app_ctl_manager_desc">Quản lý các ứng dụng mà %s có thể điều khiển</string>
+<string name="pp_agent_app_ctl_title">Cho phép %s điều khiển các ứng dụng này</string>
+
+<string name="pp_agent_request_screen_ctl_app_title">Bật Điều khiển thông minh AI cho %s</string>
+<string name="pp_agent_request_screen_ctl_app_title_msg">Khi bật tính năng này, %1$s có thể giúp bạn điều khiển %2$s.</string>
+<string name="pp_agent_request_screen_ctl_title">Bật Điều khiển thông minh AI</string>
+
+<string name="pp_agent_request_screen_info_app_title">Bật Nhận diện màn hình AI cho %s</string>
+<string name="pp_agent_request_screen_info_app_title_msg">Khi bật tính năng này, %1$s có thể truy cập nội dung màn hình từ %2$s</string>
+<string name="pp_agent_request_screen_info_app_title_msg_setting">Bật "Nhận diện màn hình AI" cho %s trong Cài đặt để tiếp tục. Bật ngay?</string>
+<string name="pp_agent_request_screen_info_app_title_setting">Yêu cầu quyền</string>
+<string name="pp_agent_request_screen_info_positive_button_setting">Bật</string>
+<string name="pp_agent_request_screen_info_title">Bật Nhận diện màn hình AI</string>
+
+<string name="pp_agent_screen_ctl">Điều khiển thông minh AI</string>
+<string name="pp_agent_screen_ctl_app_disable">%1$s hiện không thể bị điều khiển bởi %2$s.</string>
+<string name="pp_agent_screen_ctl_desc">Khi bật tính năng này, %s có thể giúp bạn điều khiển các ứng dụng trên thiết bị.</string>
+
+<string name="pp_agent_screen_info">Nhận diện màn hình AI</string>
+<string name="pp_agent_screen_info_app_disable">%2$s hiện không thể nhận diện nội dung màn hình của %1$s</string>
+<string name="pp_agent_screen_info_desc">Khi bật tính năng này, %s có thể nhận diện và truy cập nội dung hiển thị trên màn hình của bạn theo thời gian thực.</string>
+
+<string name="pp_agent_screen_info_manager">Quản lý Nhận diện màn hình AI</string>
+<string name="pp_agent_screen_info_manager_desc">Quản lý các ứng dụng mà %s được phép nhận diện nội dung trên màn hình</string>
+<string name="pp_agent_screen_info_title">Cho phép %s nhận diện nội dung trong các ứng dụng này</string>
+
+<string name="pp_agent_screen_privacy">Nhận diện màn hình AI &amp; Điều khiển thông minh</string>
+
+<string name="pp_lead_down_calenadr">Cài đặt Lịch</string>
+<string name="pp_lead_down_calenadr_desc">Sự kiện và lời nhắc được cung cấp bởi ứng dụng Lịch. Hãy cài đặt để sử dụng các tính năng này.</string>
+
+<string name="pp_more_privacy_func">Các tính năng quyền riêng tư bổ sung</string>
+
+<string name="pref_physical_sim_self_detection_cat_title">Kiểm tra mạng</string>
+<string name="pref_title_physical_sim_self_detection">Chẩn đoán mạng chuyển vùng</string>
+
+<string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
+<string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
+
+<string name="privacy_apps_password_auth_summary">Xác minh danh tính trước khi truy cập ứng dụng ẩn</string>
+<string name="privacy_apps_password_auth_title">Xác minh danh tính</string>
+
+<string name="privacy_custom_password_long">Nhập tối đa %d chữ số</string>
+<string name="privacy_custom_password_too_short">Nhập ít nhất %d chữ số</string>
+
+<string name="privacy_extra_provision_require_permission">· %1$s (%2$s)</string>
+
+<string name="privacy_hybrid_password_long">Nhập tối đa %d ký tự</string>
+<string name="privacy_hybrid_password_too_short">Nhập ít nhất %d ký tự</string>
+
+<string name="privacy_password_chanage_process">Thay đổi mật khẩu bảo vệ quyền riêng tư</string>
+
+<string name="privacy_password_custom_password">PIN tùy chỉnh</string>
+<string name="privacy_password_digital_password">PIN %d chữ số</string>
+
+<string name="privacy_password_enter_custom_password">Nhập PIN %1$d–%2$d chữ số</string>
+<string name="privacy_password_enter_custom_password_again">Nhập lại PIN</string>
+<string name="privacy_password_enter_custom_password_not_match">PIN không khớp</string>
+
+<string name="privacy_password_enter_digital_password">Nhập PIN %d chữ số</string>
+<string name="privacy_password_enter_digital_password_again">Nhập lại PIN %d chữ số</string>
+
+<string name="privacy_password_enter_graphic_password">Vẽ mẫu mở khóa. Kết nối ít nhất %d điểm.</string>
+
+<string name="privacy_password_enter_hybrid_password">Nhập mật khẩu %1$d–%2$d ký tự</string>
+<string name="privacy_password_enter_hybrid_password_again">Nhập lại mật khẩu</string>
+<string name="privacy_password_enter_hybrid_password_invalid">Mật khẩu không được chứa ký tự không hợp lệ</string>
+<string name="privacy_password_enter_hybrid_password_not_match">Mật khẩu không khớp</string>
+
+<string name="privacy_password_graphic_password">Mẫu</string>
+<string name="privacy_password_hybrid_password">Mật khẩu</string>
+<string name="privacy_password_other_password">Mật khẩu khác</string>
+
+<string name="privacy_password_setup_confirm">OK</string>
+<string name="privacy_password_setup_hint">Nhập mật khẩu của bạn</string>
+<string name="privacy_password_setup_next">Tiếp theo</string>
+   <string name="privacy_password_setup_not_match">Thử lại</string>
+<string name="privacy_password_setup_process">Thiết lập mật khẩu bảo vệ quyền riêng tư</string>
+
+<string name="privacy_password_update_desc">Bạn có thể tùy chỉnh các tính năng cụ thể được bảo vệ bằng khóa màn hình hoặc mật khẩu bảo vệ quyền riêng tư.</string>
+<string name="privacy_password_update_message">Giờ đây bạn có thể bảo vệ dữ liệu bằng mật khẩu bảo vệ quyền riêng tư thay cho khóa màn hình. Khi bật tính năng này, các phiên bản cũ của Khóa ứng dụng hoặc mật khẩu bảo vệ quyền riêng tư sẽ được thay thế bằng mật khẩu mới, và tất cả dữ liệu riêng tư sẽ được bảo vệ bởi nó. Thiết lập ngay?</string>
+<string name="privacy_password_update_title">Mật khẩu bảo vệ quyền riêng tư</string>
+<string name="privacy_password_update_type">Chọn loại mật khẩu</string>
+
+<string name="privacy_privacy_title">Chính sách quyền riêng tư</string>
+
+<string name="privacy_screen_share_notification_land_protect_sub_title">Đang bảo vệ quyền riêng tư của bạn</string>
+<string name="privacy_screen_share_notification_land_title">Đang chia sẻ màn hình</string>
+
+<string name="privacy_user_notice_title">Thông báo người dùng</string>
+
+<string name="private_face_password_type_tips">Bạn có thể thay đổi mật khẩu trong Dữ liệu khuôn mặt &amp; khóa màn hình &gt; Mật khẩu bảo vệ quyền riêng tư</string>
+<string name="private_file">Tệp riêng tư</string>
+<string name="private_finger_password_type_tips">Bạn có thể thay đổi mật khẩu trong Vân tay &amp; khóa màn hình &gt; Mật khẩu bảo vệ quyền riêng tư</string>
+<string name="private_note">Ghi chú ẩn</string>
+<string name="private_password_only_type_tips">Bạn có thể thay đổi mật khẩu trong Khóa màn hình &gt; Mật khẩu bảo vệ quyền riêng tư</string>
+<string name="private_password_type">Mật khẩu bảo vệ quyền riêng tư</string>
+<string name="private_password_type_tips">Bạn có thể thay đổi mật khẩu trong Vân tay, dữ liệu khuôn mặt và khóa màn hình &gt; Mật khẩu bảo vệ quyền riêng tư.</string>
+<string name="private_photo">Album riêng tư</string>
+<string name="private_sms">Tin nhắn riêng tư</string>
+
+<string name="protect_eye_dont_open">Để sau</string>
+<string name="protect_eye_hint_summry">Bật Chế độ đọc để có trải nghiệm đọc tốt hơn</string>
+<string name="protect_eye_hint_title">Bảo vệ mắt</string>
+<string name="protect_eye_open">Bật</string>
+<string name="protect_eye_opened_summry">Chỉnh sửa trong Cài đặt &gt; Màn hình &amp; độ sáng &gt; Bảo vệ mắt</string>
+<string name="protect_eye_opened_title">Đã bật Chế độ đọc</string>
+
+<string name="quick_mode_closed">Tắt</string>
+<string name="quick_mode_opened">Bật</string>
+
+<string name="reject_only_opening_screen">Hạn chế truy cập khi khởi chạy ứng dụng cho tất cả ứng dụng</string>
+
+<string name="repeat_prompts">Chậm lại! Đừng gửi nhiều yêu cầu liên tiếp.</string>
+
+<string name="reverse_charge_island_title">Sạc ngược</string>
+
+<string name="risk_app_dialog_confirm">Đã hiểu</string>
+<string name="risk_app_dialog_message">Hệ thống đã chặn ứng dụng này truy cập các quyền nhạy cảm vì nó đến từ nguồn không xác định.</string>
+<string name="risk_app_dialog_more_info">Cách mở khóa quyền</string>
+<string name="risk_app_dialog_title">Quyền bị từ chối</string>
+
+<string name="risk_app_menu_title">Mở khóa quyền</string>
+<string name="risk_app_permission_settings_desc">Cho phép ứng dụng từ nguồn không xác định truy cập các quyền nhạy cảm có thể gây rủi ro cho thiết bị và dữ liệu của bạn. Để tránh các rủi ro này, một số ứng dụng sẽ bị chặn quyền theo mặc định. Bạn có thể &lt;u&gt;mở khóa quyền&lt;/u&gt; thủ công, sau đó cấp quyền cụ thể theo nhu cầu.</string>
+
+<string name="risk_app_restrict_network_btn">Đã hiểu</string>
+<string name="risk_app_restrict_network_message">Kết nối internet của ứng dụng này đã bị hạn chế theo yêu cầu của cơ quan có thẩm quyền do hành vi bất thường.</string>
+<string name="risk_app_restrict_network_title">Không thể kết nối internet</string>
+
+<string name="search_keyword_firewall_1">Quản lý kết nối mạng</string>
+<string name="search_keyword_firewall_2">Phương thức kết nối mạng</string>
+<string name="search_keyword_firewall_3">Cài đặt mạng</string>
+
+<string name="security_access">Truy cập riêng tư</string>
+<string name="security_access_contact_tip">Ứng dụng này hỗ trợ truy cập riêng tư. Chỉ những liên hệ bạn chọn mới có thể được truy cập để bảo vệ quyền riêng tư.</string>
+<string name="security_access_file_tip">Ứng dụng này hỗ trợ truy cập riêng tư. Chỉ những tệp bạn chọn mới có thể được truy cập để bảo vệ quyền riêng tư.</string>
+<string name="security_access_media_tip">Ứng dụng này hỗ trợ truy cập riêng tư. Chỉ ảnh và video bạn chọn mới có thể được truy cập để bảo vệ quyền riêng tư.</string>
+
+<string name="sim_lock_new_pin_hint">Nhập %d-%d chữ số</string>
+<string name="sim_lock_pin_message">Nếu bạn chưa đặt PIN cho SIM, hãy thử mã PIN mặc định của nhà mạng (%s): %d.</string>
+<string name="sim_lock_query_pin_length_error">PIN phải có %d-%d chữ số</string>
+
+<string name="sms_guard_alert">Đã thay đổi ứng dụng nhắn tin mặc định. Xiaomi Messaging sẽ không thể chặn SMS rác.</string>
+
+<string name="sp_emergency_contact_title">Danh bạ khẩn cấp</string>
+
+<string name="sp_network_privacy_dialog_message_new">Ứng dụng Bảo mật (bao gồm các thành phần bảo mật hệ thống) cần kết nối internet để cung cấp tính năng quét virus. Cho phép ngay?</string>
+
+<string name="st_call_intercept_all">Chặn tất cả cuộc gọi</string>
+<string name="st_call_intercept_mark_agent">Chặn cuộc gọi môi giới bất động sản</string>
+<string name="st_call_intercept_mark_fraud">Chặn cuộc gọi lừa đảo</string>
+<string name="st_call_intercept_mark_sell">Chặn cuộc gọi tiếp thị</string>
+
+<string name="st_confirm_call_all_dialog_summary">Các cuộc gọi từ số không nằm trong danh sách ngoại lệ sẽ bị chặn. Bật ngay?</string>
+
+<string name="st_mark_call_intercept_threshold_summary">Tự động chặn các số đã bị báo cáo vượt quá số lần chỉ định</string>
+<string name="st_mark_call_intercept_threshold_title">Ngưỡng chặn</string>
+<string name="st_mark_number_group">Chặn cuộc gọi từ các số đã bị báo cáo</string>
+
+<string name="storage_clear_available_total_size_with_ufs">Đã dùng: %1$s, Còn lại: %2$s, Tổng: %3$s (%4$s với mở rộng bộ nhớ)</string>
+
+<string name="storage_fbo_action_des">Nhấn "Chống phân mảnh" để bắt đầu. Thiết bị có thể bị lag trong quá trình này. Tránh sử dụng thiết bị để quá trình diễn ra nhanh hơn.</string>
+<string name="storage_fbo_btn">Chống phân mảnh</string>
+<string name="storage_fbo_btn_estimate">Đang chuẩn bị…</string>
+<string name="storage_fbo_finish_btn">Hoàn tất</string>
+
+<string name="storage_fbo_notification_finish_title">Đã hoàn tất chống phân mảnh</string>
+<string name="storage_fbo_notification_start_content">Thiết bị có thể bị lag trong quá trình này</string>
+<string name="storage_fbo_notification_start_title">Đang chống phân mảnh bộ nhớ</string>
+
+<string name="talkback_virus_scan_omitted">Chưa quét</string>
+<string name="talkback_virus_scan_risky">Nguy hiểm</string>
+<string name="talkback_virus_scan_safe">An toàn</string>
+
+<string name="tc_sms_bill_report_receive_content">SMS hiệu chỉnh (đảm bảo SMS chứa thông tin số dư)</string>
+
+<string name="title_bill_balance_inquiry">Số dư (SIM %1$s)</string>
+<string name="title_flow_base_reminder">Nhắc nhở dữ liệu</string>
+
+<string name="title_request_perm_accessibility">Cho phép %1$s điều khiển thiết bị của bạn?</string>
+
+<string name="track_sidebar_click_app_icon">Thanh bên_nhấn biểu tượng</string>
+<string name="track_sidebar_click_split_screen_icon">Thanh bên_nhấn giữ rồi chọn chia đôi màn hình</string>
+<string name="track_sidebar_drag_center">Thanh bên toàn cục_kéo ứng dụng vào giữa màn hình</string>
+<string name="track_sidebar_drag_left">Thanh bên toàn cục_kéo ứng dụng sang trái màn hình</string>
+<string name="track_sidebar_drag_right">Thanh bên toàn cục_kéo ứng dụng sang phải màn hình</string>
+    <string name="traffic_select_dialog_title">Chọn nhà mạng</string>
+<string name="uninstall_app_reminder_msg">Tôi hiểu rằng dữ liệu ứng dụng đã xóa không thể khôi phục</string>
+<string name="uninstall_app_reminder_pre_title">Gỡ cài đặt %s</string>
+<string name="uninstall_app_reminder_toast">Xác nhận bạn hiểu rằng dữ liệu ứng dụng đã xóa không thể khôi phục</string>
+<string name="uninstall_xspace_app_reminder_pre_title">Gỡ cài đặt ứng dụng kép của %s</string>
+<string name="unlock_way">Phương thức mở khóa</string>
+<string name="usage_access_title">Quyền truy cập dữ liệu sử dụng</string>
+<string name="usage_type_background_desk_power_consumption_time">Sử dụng nền</string>
+<string name="usage_type_front_desk_power_consumption_time">Sử dụng khi mở</string>
+<string name="usage_type_power_consumption_ratio">Mức sử dụng pin</string>
+<string name="usage_type_power_consumption_ratio_hint_binary">Mức pin %3$s sử dụng so với tổng mức tiêu thụ của tất cả ứng dụng trong %1$s %2$s qua</string>
+<string name="usage_type_power_consumption_ratio_hint_single">Mức pin %2$s sử dụng so với tổng mức tiêu thụ của tất cả ứng dụng trong %1$s qua</string>
+<string name="use_for_open_applock">Dùng để bật Khóa ứng dụng</string>
+<string name="vb_movie_power_hint_new">Điều chỉnh hiệu ứng để có trải nghiệm xem ấn tượng hơn.
+Tính năng này sẽ làm tăng mức tiêu thụ pin.</string>
+<string name="view_package_info">Xem chi tiết gói cước</string>
+<string name="virus_detail_split_line_text"> | </string>
+<string name="voltage_symbol">V</string>
+
+<string name="warning_car_accident_alert_call_text">Gọi khẩn cấp</string>
+<string name="warning_car_accident_alert_cancel_text">Hủy</string>
+<string name="warning_car_accident_alert_countdown_text">Thiết bị sẽ tự động gọi 120 sau khi đếm ngược kết thúc</string>
+<string name="warning_car_accident_alert_fine_text">Tôi ổn</string>
+<string name="warning_car_accident_alert_option_item_call">Đã gọi 120</string>
+<string name="warning_car_accident_alert_option_item_contats">Đã thông báo cho liên hệ khẩn cấp</string>
+<string name="warning_car_accident_alert_option_item_time">Phát hiện tai nạn lúc %s</string>
+<string name="warning_car_accident_alert_text_to_speak">Thiết bị của bạn phát hiện có thể bạn vừa gặp tai nạn. Nếu bạn không phản hồi trước khi đếm ngược kết thúc, dịch vụ khẩn cấp sẽ được gọi tự động.</string>
+<string name="warning_car_accident_alert_text_to_speak_not_translate">您可能发生了车祸，倒计时结束后未回应将为您拨打紧急服务电话</string>
+<string name="warning_car_accident_alert_top_text">Bạn có gặp tai nạn không?</string>
+<string name="warning_car_accident_alert_waiting_rescue">Đang chờ cứu hộ…</string>
+
+<string name="warning_car_accident_auto_call_audio_text">Người dùng thiết bị này đã gặp tai nạn nghiêm trọng và không thể phản hồi cuộc gọi. Vị trí sự cố: %s</string>
+
+<string name="warning_car_accident_comment_text">Cách hoạt động:
+Khi thiết bị phát hiện tai nạn, nó sẽ rung và phát âm thanh ở mức âm lượng tối đa để hỏi bạn có cần trợ giúp không.
+Nếu bạn chọn cần trợ giúp hoặc không phản hồi, thiết bị sẽ gọi số khẩn cấp (mặc định là 120) và gửi tin nhắn cho các liên hệ khẩn cấp.
+Lưu ý: hệ thống không thể phát hiện tất cả các tai nạn.</string>
+
+<string name="warning_car_accident_demo_start_text">Nhấn "Bắt đầu" để xem điều gì xảy ra khi thiết bị phát hiện tai nạn</string>
+<string name="warning_car_accident_demo_start_text1">Bạn có thể chọn "Tôi ổn" để kết thúc hoặc chọn "Gọi khẩn cấp" hoặc chờ hết thời gian</string>
+<string name="warning_car_accident_demo_start_text2">Nếu bạn chọn gọi khẩn cấp, thiết bị sẽ gọi 120</string>
+<string name="warning_car_accident_demo_start_text3">Nếu không thao tác, thiết bị sẽ tự động gọi 120 sau khi đếm ngược</string>
+<string name="warning_car_accident_demo_start_text4">Sau khi gọi xong, bạn sẽ thấy nội dung sau</string>
+<string name="warning_car_accident_demo_start_text5">Kết thúc demo, bạn có thể trải nghiệm lại</string>
+
+<string name="warning_car_accident_demo_title">Bản demo</string>
+<string name="warning_car_accident_demo_top_text1">Trung tâm cấp cứu 120</string>
+<string name="warning_car_accident_demo_wait_call_text">Đã gọi 120</string>
+<string name="warning_car_accident_demo_wait_text">Đang chờ cứu hộ...</string>
+<string name="warning_car_accident_demo_wait_time_text">Phát hiện tai nạn lúc 14:40</string>
+
+<string name="warning_car_accident_dialog_message">Nếu tắt tính năng này, thiết bị sẽ không còn tự động gọi khẩn cấp khi phát hiện tai nạn. Bạn vẫn muốn tắt?</string>
+<string name="warning_car_accident_dialog_negative_text">Tắt</string>
+<string name="warning_car_accident_dialog_positive_text">Giữ bật</string>
+<string name="warning_car_accident_dialog_title">Tắt phát hiện tai nạn?</string>
+
+<string name="warning_car_accident_privay_revoke_dialog_message">Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của tính năng phát hiện tai nạn. Dữ liệu cá nhân đã thu thập sẽ bị xóa theo quy định. Do tính năng này cần dữ liệu để hoạt động, việc rút lại đồng ý đồng nghĩa bạn từ chối sử dụng dịch vụ. Tiếp tục?</string>
+<string name="warning_car_accident_privay_revoke_text">Rút lại sự đồng ý</string>
+<string name="warning_car_accident_title">Phát hiện tai nạn</string>
+<string name="warning_view_demo_text">Xem demo</string>
+
+<string name="warningcenter_mijia_alert_tips_5">Phát hiện cảnh báo nước. Kiểm tra ngay.</string>
+
+<string name="whitelist_prefix_add_hint_international">Cho phép cuộc gọi bắt đầu bằng số cụ thể</string>
+
+<string name="widget_power_size_unit">%</string>
+
+<string name="wireless_charging_no_reverser_charge_message">Không thể dùng sạc ngược khi đang cắm sạc</string>
+<string name="wireless_charging_no_reverser_charge_title">Rút sạc</string>
+
+<string name="wireless_high_temp_notification_warning_title">Đã dừng sạc không dây do quá nhiệt</string>
+<string name="wireless_high_temp_warning_dialog_ok">Đã hiểu</string>
+<string name="wireless_high_temp_warning_text">Sạc không dây sẽ tiếp tục khi thiết bị nguội</string>
+<string name="wireless_high_temp_warning_title">Đã dừng sạc không dây</string>
+
+<string name="wireless_hottemp_warning_button_ok">Đã hiểu</string>
+<string name="wireless_hottemp_warning_message">Thiết bị đang quá nóng. Sạc không dây đã dừng và sẽ tự động tiếp tục khi thiết bị nguội.</string>
+</resources>

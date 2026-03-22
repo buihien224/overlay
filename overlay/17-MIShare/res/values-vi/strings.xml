@@ -547,4 +547,285 @@ Trước khi sử dụng Mi Share, bạn phải cấp các quyền sau, cũng nh
     <string name="yesterday">Hôm qua</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+      <string name="accessibility_sliding_button_state_description_off">Đã tắt</string>
+<string name="accessibility_sliding_button_state_description_on">Đã bật</string>
+<string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
+<string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+
+<string name="app_name">XiaomiShare</string>
+<string name="background_wait">Ẩn</string>
+<string name="bt_address">Địa chỉ Bluetooth:</string>
+
+<string name="call_notification_answer_action">Trả lời</string>
+<string name="call_notification_answer_video_action">Video</string>
+<string name="call_notification_decline_action">Từ chối</string>
+<string name="call_notification_hang_up_action">Kết thúc</string>
+<string name="call_notification_incoming_text">Cuộc gọi đến</string>
+<string name="call_notification_ongoing_text">Cuộc gọi đang diễn ra</string>
+<string name="call_notification_screening_text">Đang lọc cuộc gọi đến</string>
+
+<string name="cancel_current">HỦY HIỆN TẠI</string>
+<string name="canceled">Đã hủy</string>
+<string name="confirm">OK</string>
+
+<string name="connect">Kết nối</string>
+<string name="connected">Đã kết nối</string>
+<string name="count_and_size_of_file">%1$s %2$s</string>
+
+<string name="did_address">ID thiết bị:</string>
+<string name="disconnect">NGẮT KẾT NỐI</string>
+
+<string name="err_send_short_connect_error">Không thể kết nối</string>
+<string name="err_send_short_remote_busy">Thiết bị đang bận</string>
+<string name="err_send_short_remote_cancel">Đã hủy</string>
+<string name="err_send_short_remote_refuse">Bị từ chối</string>
+<string name="err_send_short_remote_timeout">Không phản hồi</string>
+<string name="err_send_short_send_cancel">Đã hủy truyền</string>
+
+<string name="error_local_ap_in_use">Tắt điểm phát sóng trên thiết bị này rồi thử lại</string>
+<string name="error_local_easytether">Tắt chia sẻ kết nối trên thiết bị này rồi thử lại</string>
+<string name="error_local_mirror">Tắt Screen Combo trên thiết bị này rồi thử lại</string>
+<string name="error_local_p2p_in_use">Tắt tính năng liên kết thiết bị rồi thử lại</string>
+<string name="error_local_screening">Dừng truyền màn hình trên thiết bị này rồi thử lại</string>
+
+<string name="error_remote_ap_in_use">Tắt điểm phát sóng trên thiết bị kia rồi thử lại</string>
+<string name="error_remote_easytether">Tắt chia sẻ kết nối trên thiết bị kia rồi thử lại</string>
+<string name="error_remote_mirror">Tắt Screen Combo trên thiết bị kia rồi thử lại</string>
+<string name="error_remote_p2p_in_use">Tắt tính năng liên kết thiết bị trên thiết bị kia rồi thử lại</string>
+<string name="error_remote_screening">Dừng truyền màn hình trên thiết bị kia rồi thử lại</string>
+<string name="error_remote_wlan_off">Bật Wi-Fi trên thiết bị kia</string>
+<string name="error_remote_wlan_off_china">Bật WLAN trên thiết bị kia</string>
+
+<string name="file_transferring">Đang truyền dữ liệu. Hãy thử lại sau.</string>
+<string name="global_help">Không tìm thấy thiết bị</string>
+
+<string name="global_my">Thiết bị của tôi
+%1$s</string>
+
+<string name="guide_page_view1">Bật Xiaomi Share trên cả hai thiết bị. Người kia có thể bật trong Trung tâm điều khiển. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+<string name="guide_page_view1_lyra">Bạn có thể bật Xiaomi Share trong Trung tâm điều khiển. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+<string name="guide_page_view1_os3">Bật Xiaomi Share trong Trung tâm điều khiển để nhận tệp. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+
+<string name="guide_page_view2">Chọn thiết bị bạn muốn gửi và nhấn vào biểu tượng của nó. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+<string name="guide_page_view2_os3">Chọn thiết bị bạn muốn gửi. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+
+<string name="guide_page_view3">Chạm mặt lưng (vùng NFC) của hai thiết bị lại gần để bắt đầu chia sẻ. Trang %1$d/%2$d. Vuốt trái/phải bằng hai ngón tay để chuyển.</string>
+
+<string name="guide_summary_1_lyra">Bạn có thể bật Xiaomi Share trong Trung tâm điều khiển</string>
+<string name="guide_summary_1_os3">Bạn có thể bật Xiaomi Share trong Trung tâm điều khiển</string>
+<string name="guide_summary_2_os3">Chọn thiết bị bạn muốn gửi</string>
+<string name="guide_summary_3">Chạm mặt lưng hai thiết bị để chia sẻ</string>
+
+<string name="guide_title_1_lyra">Bật Xiaomi Share để nhận tệp</string>
+<string name="guide_title_1_os3">Bật Xiaomi Share để nhận tệp</string>
+<string name="guide_title_2_os3">Chọn thiết bị để gửi tệp</string>
+<string name="guide_title_3">Chạm để chia sẻ</string>
+
+<string name="honor_phone">Điện thoại Honor</string>
+
+<string name="international_privacy_dialog_agree">Đồng ý</string>
+<string name="international_privacy_dialog_content">Trong quá trình sử dụng ứng dụng, chúng tôi cần thu thập một số thông tin cần thiết để kết nối thiết bị và truyền tệp. Nếu bạn không cung cấp, chúng tôi có thể không cung cấp được dịch vụ tương ứng. Bạn có thể rút lại sự đồng ý bất cứ lúc nào trong Quyền riêng tư &gt; Rút lại sự đồng ý.</string>
+<string name="international_privacy_dialog_disagree">Không đồng ý</string>
+<string name="international_privacy_dialog_title">Xiaomi Share</string>
+
+<string name="jump_market_dialog_btn_cancel">Hủy</string>
+<string name="jump_market_dialog_btn_open">Mở</string>
+<string name="jump_market_dialog_message">Tính năng này không được hỗ trợ bởi hệ thống. Bạn có thể cập nhật trong GetApps. Mở GetApps ngay?</string>
+<string name="jump_market_dialog_title">Lưu ý</string>
+
+<string name="menu_item_permission_manager_and_use_guide_title">Chi tiết quyền</string>
+<string name="menu_item_privacy_setting_title">Quyền riêng tư</string>
+<string name="menu_item_support_device_title">Thiết bị hỗ trợ</string>
+<string name="menu_item_view_privacy_policy_title">Xem Chính sách quyền riêng tư</string>
+<string name="menu_item_view_user_protocol_title">Xem Điều khoản sử dụng</string>
+<string name="menu_item_withdraw_privacy_policy_consent_title">Rút lại sự đồng ý</string>
+
+<string name="mi_share_turbo_mode">Truyền nhanh</string>
+<string name="mishare_device_find_conditions_comment">Đang tìm thiết bị</string>
+
+<string name="mishare_device_version_comment">*Các thiết bị đăng nhập cùng tài khoản Xiaomi có thể tự động tin cậy và nhận dữ liệu từ nhau. Tính năng này yêu cầu cả hai thiết bị chạy Xiaomi HyperOS và Xiaomi Share phiên bản 3.0.0 trở lên.</string>
+
+<string name="mishare_settings_summary_international_ios">Điện thoại và máy tính bảng Xiaomi
+Thiết bị Apple: iPhone, iPad, Mac
+Thiết bị Android khác: vivo, realme, OPPO và một số hãng khác có thể hỗ trợ. Xem chi tiết trên website chính thức của từng hãng.</string>
+    <string name="mishare_support_device_comment">Thiết bị được hỗ trợ</string>
+<string name="mishare_support_device_summary">Điện thoại, máy tính bảng và laptop Xiaomi
+Thiết bị Android từ các hãng khác: vivo, realme, OPPO, Honor, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO</string>
+<string name="mishare_support_device_summary_ios">Điện thoại, máy tính bảng và laptop Xiaomi
+Thiết bị Apple: iPhone, iPad, Mac
+Thiết bị Android từ các hãng khác: vivo, realme, OPPO, Honor, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO</string>
+<string name="motorola">Motorola</string>
+<string name="motorola_phone">Điện thoại Motorola</string>
+<string name="nfc_check_the_touch_device">Để kết nối, hãy đảm bảo Wi-Fi và Bluetooth cũng đã bật trên thiết bị kia. Kiểm tra xem kết nối đã được cho phép tại Cài đặt &gt; Kết nối &amp; chia sẻ &gt; Thiết bị đã kết nối và thử lại.</string>
+<string name="nfc_check_the_touch_device_china">Để kết nối, hãy đảm bảo WLAN và Bluetooth cũng đã bật trên thiết bị kia. Kiểm tra xem kết nối đã được cho phép tại Cài đặt &gt; Kết nối &amp; chia sẻ &gt; Thiết bị đã kết nối và thử lại.</string>
+<string name="nfc_connect_fail">Không thể kết nối. Hãy đợi một hoặc hai phút rồi thử lại.</string>
+<string name="nfc_connect_fail_lyra_secure">Bạn có thể bật Xiaomi Share trong Trung tâm điều khiển của thiết bị.</string>
+<string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share đang tắt</string>
+<string name="nfc_connect_fail_pad">Không thể kết nối</string>
+<string name="nfc_connecting">Đang kết nối…</string>
+<string name="nfc_need_to_enable_your_bluetooth_and_wlan">Để kết nối, hãy bật Wi-Fi và Bluetooth trên thiết bị này trước. Bật ngay?</string>
+<string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Để kết nối, hãy bật WLAN và Bluetooth trên thiết bị này trước. Bật ngay?</string>
+<string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Không thể kết nối với máy tính. Hãy đảm bảo Wi-Fi và Bluetooth đã được bật trên cả thiết bị di động và máy tính, đồng thời máy tính đang chạy Xiaomi PC Manager.</string>
+<string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Không thể kết nối với máy tính. Hãy đảm bảo WLAN và Bluetooth đã được bật trên cả thiết bị di động và máy tính, đồng thời máy tính đang chạy Xiaomi PC Manager.</string>
+<string name="nfc_wifi_and_bluetooth">Bật Wi-Fi và Bluetooth</string>
+<string name="nfc_wifi_and_bluetooth_china">Bật WLAN và Bluetooth</string>
+<string name="nio_phone">Điện thoại NIO</string>
+<string name="oh_cancel">OH Hủy</string>
+<string name="oh_connect">OH Kết nối</string>
+<string name="oh_handoff">OH CHUYỂN TIẾP</string>
+<string name="oh_on_connect">OH Khi kết nối</string>
+<string name="oh_send">OH Gửi</string>
+<string name="onehop_connecting_tips">Đang kết nối…</string>
+<string name="onehop_file_security_tips">Đang xóa thông tin cá nhân…</string>
+<string name="onehop_option_send_confirm">Gửi</string>
+<string name="onehop_recv_tips">Đang chờ thiết bị kia chia sẻ…</string>
+<string name="onehop_remote_cancel">Thiết bị kia đã hủy truyền</string>
+<string name="onehop_remote_refuse">Thiết bị kia đã từ chối truyền</string>
+<string name="onehop_wait_for_connect_ap">Đang chờ thiết bị kia kết nối hotspot…</string>
+<string name="permission_apply_purpose">Cho phép Xiaomi Share tìm kiếm và kết nối với thiết bị gần đó để truyền tệp.</string>
+<string name="permission_related">Quyền</string>
+<string name="privacy_authorize">Cấp quyền</string>
+<string name="progress_notification_downloaded">Tải xuống hoàn tất</string>
+<string name="progress_notification_downloading">Tiến trình: %d%%</string>
+<string name="progress_notification_name">Đang tải plugin</string>
+<string name="redmi_k50_ultra">Redmi K50 Ultra</string>
+<string name="redmi_k70">Redmi K70</string>
+<string name="refused">Đã từ chối</string>
+<string name="select_file">Thêm tệp</string>
+<string name="send_file">GỬI TỆP</string>
+<string name="send_one_apk_dialog_desc">%2$d APK "%3$s" từ %1$s</string>
+<string name="send_one_apk_dialog_desc_received">Đã nhận %2$d APK "%3$s" từ %1$s</string>
+<string name="send_one_apk_dialog_desc_receiving">Đang nhận %2$d APK "%3$s" từ %1$s</string>
+<string name="send_one_audio_dialog_desc">%2$d tệp âm thanh "%3$s" từ %1$s</string>
+<string name="send_one_audio_dialog_desc_received">Đã nhận %2$d tệp âm thanh "%3$s" từ %1$s</string>
+<string name="send_one_audio_dialog_desc_receiving">Đang nhận %2$d tệp âm thanh "%3$s" từ %1$s</string>
+<string name="send_one_file_dialog_desc">%2$d tệp %3$s "%4$s" từ %1$s</string>
+<string name="send_one_file_dialog_desc_received">Đã nhận %2$d tệp %3$s "%4$s" từ %1$s</string>
+<string name="send_one_file_dialog_desc_receiving">Đang nhận %2$d tệp %3$s "%4$s" từ %1$s</string>
+<string name="send_one_zip_dialog_desc">%2$d tệp ZIP "%3$s" từ %1$s</string>
+<string name="send_one_zip_dialog_desc_received">Đã nhận %2$d tệp ZIP "%3$s" từ %1$s</string>
+<string name="send_one_zip_dialog_desc_receiving">Đang nhận %2$d tệp ZIP "%3$s" từ %1$s</string>
+<string name="send_text">Gửi văn bản:</string>
+<string name="share_canceled">Đã hủy truyền</string>
+<string name="share_complete">Truyền thành công</string>
+<string name="share_device_near_share">Chia sẻ khi ở gần</string>
+<string name="share_device_near_share_condition">Điều kiện chia sẻ</string>
+<string name="share_device_near_share_condition_describe">%1$d. Đảm bảo NFC, Bluetooth và Wi-Fi được bật trên cả hai thiết bị.
+%2$d. Cập nhật Xiaomi Share lên phiên bản %3$s.
+%4$d. Nếu dùng iPhone, hãy cài Xiaomi Interconnectivity.</string>
+<string name="share_device_near_share_condition_describe_china">%1$d. Đảm bảo NFC, Bluetooth và WLAN được bật trên cả hai thiết bị.
+%2$d. Cập nhật Xiaomi Share lên phiên bản %3$s.
+%4$d. Nếu dùng iPhone, hãy cài Xiaomi Interconnectivity.</string>
+<string name="share_device_near_share_content_describe">Bạn có thể gửi các loại nội dung sau:
+%1$d. Chia sẻ ảnh: Trong Thư viện, nhấn "Chia sẻ" bên cạnh ảnh.
+%2$d. Chia sẻ tệp: Chọn tệp trong Trình quản lý tệp.</string>
+<string name="share_device_near_share_content_title">Nội dung chia sẻ</string>
+<string name="share_device_near_share_image_describe">Đặt vùng NFC phía sau hai thiết bị gần nhau để bắt đầu chia sẻ</string>
+<string name="share_device_near_share_subtitle">Đặt hai thiết bị gần nhau để chia sẻ</string>
+<string name="share_failed">Không thể hoàn tất truyền</string>
+<string name="share_file_timeout">Hết thời gian yêu cầu. Hãy thử lại với ít tệp hơn.</string>
+<string name="share_not_supported">Không được hỗ trợ</string>
+<string name="share_notification_receive_confirm_content">Từ %1$s</string>
+<string name="share_open_nfc_content">Bật NFC để sử dụng tính năng này. Bật ngay?</string>
+<string name="share_open_nfc_title">Bật NFC</string>
+   <string name="share_refuse">Đã từ chối truyền</string>
+<string name="share_send_notification_describe">Người nhận: %1$s</string>
+<string name="share_to_be_sent">Đang chờ</string>
+<string name="share_waiting_connect">Đang chờ</string>
+<string name="share_waiting_other_recv">Đang gửi tệp</string>
+<string name="share_waiting_recv">Đang chờ</string>
+<string name="start_advertise">BẮT ĐẦU PHÁT</string>
+<string name="start_scan">BẮT ĐẦU QUÉT</string>
+<string name="stop_advertise">DỪNG PHÁT</string>
+<string name="stop_scan">DỪNG QUÉT</string>
+<string name="sub_title_mishare_switch">Tính năng này sẽ tự động tắt sau %d phút</string>
+<string name="sub_title_mishare_switch_all">Bạn có thể nhận tệp từ mọi thiết bị</string>
+<string name="sub_title_mishare_switch_mine">Bạn có thể nhận tệp từ các thiết bị đăng nhập cùng tài khoản</string>
+<string name="sub_title_mishare_switch_mine_desc">Trước khi đặt trạng thái nhận là "Từ tài khoản này", hãy đảm bảo thiết bị kia đã cập nhật lên Xiaomi HyperOS hoặc mới hơn và Xiaomi Share phiên bản 3.0.0 trở lên.</string>
+<string name="sub_title_mishare_switch_none">Bật Xiaomi Share để có thể nhận tệp</string>
+<string name="sub_title_mishare_switch_none_os3">Có thể được tìm thấy bởi thiết bị gần đó</string>
+<string name="sub_title_turbo_mode">Khi bật tính năng này, mạng sẽ bị ngắt trong quá trình truyền</string>
+<string name="sub_title_withdraw_privacy_policy_consent">Việc rút lại đồng ý với Chính sách quyền riêng tư cũng sẽ tắt Xiaomi Share</string>
+<string name="switch_mode_all">Từ mọi người (trong %d phút)</string>
+<string name="switch_mode_close">Tắt</string>
+<string name="switch_mode_close_os3">Tắt</string>
+<string name="switch_mode_sameaccount">Từ tài khoản này</string>
+<string name="tap_share_condition_describe">%1$d. Cả hai thiết bị đều bật NFC, Bluetooth và Wi-Fi.
+%2$d. Trên thiết bị Xiaomi, cập nhật Xiaomi Share lên phiên bản %3$s.
+%4$d. Trên iPhone, cài đặt ứng dụng Xiaomi Interconnectivity.</string>
+<string name="tap_share_condition_describe_china">%1$d. Cả hai thiết bị đều bật NFC, Bluetooth và WLAN.
+%2$d. Trên thiết bị Xiaomi, cập nhật Xiaomi Share lên phiên bản %3$s.
+%4$d. Trên iPhone, cài đặt ứng dụng Xiaomi Interconnectivity.</string>
+<string name="tap_share_condition_describe_os3">%1$d. Đảm bảo cả hai thiết bị đã mở khóa và bật NFC, Bluetooth, Wi-Fi.
+%2$d. Cập nhật thiết bị Xiaomi lên Xiaomi HyperOS 3 trở lên. Bạn cũng có thể tìm "Xiaomi Share" trong Cài đặt để kiểm tra xem có hỗ trợ "Chạm để chia sẻ" hay không.
+%4$d. Đảm bảo bạn đang dùng iPhone 12 trở lên và chạy iOS 17 trở lên. Cài phiên bản mới nhất của Xiaomi Interconnectivity trên iPhone.</string>
+<string name="tap_share_condition_describe_os3_china">%1$d. Đảm bảo cả hai thiết bị đã mở khóa và bật NFC, Bluetooth, WLAN.
+%2$d. Cập nhật thiết bị Xiaomi lên Xiaomi HyperOS 3 trở lên. Bạn cũng có thể tìm "Xiaomi Share" trong Cài đặt để kiểm tra xem có hỗ trợ "Chạm để chia sẻ" hay không.
+%4$d. Đảm bảo bạn đang dùng iPhone 12 trở lên và chạy iOS 17 trở lên. Cài phiên bản mới nhất của Xiaomi Interconnectivity trên iPhone.</string>
+<string name="tap_share_connecting_this_wifi">Đang kết nối với mạng Wi-Fi này</string>
+<string name="tap_share_connecting_this_wlan">Đang kết nối với mạng WLAN này</string>
+<string name="tap_share_connecting_wifi">Đang kết nối với "%1$s"</string>
+<string name="tap_share_contact_person_describe">Sử dụng Chạm để chia sẻ trong trang chi tiết liên hệ hoặc trang chọn, hoặc nhấn "Chia sẻ" để mở menu chia sẻ.</string>
+<string name="tap_share_contact_person_title">Chia sẻ liên hệ</string>
+<string name="tap_share_content_describe">Người gửi có thể sử dụng Chạm để chia sẻ theo các cách sau:
+%1$d. Chia sẻ ảnh và video bằng cách xem ảnh toàn màn hình trong Thư viện, tại trang chọn, hoặc nhấn "Gửi" để mở cửa sổ chia sẻ.
+%2$d. Chia sẻ tệp từ trang chọn của Trình quản lý tệp, hoặc nhấn "Gửi" để mở cửa sổ chia sẻ.
+%3$d. Để chia sẻ mạng Wi-Fi đang kết nối, mở danh sách Wi-Fi hoặc nhấn vào mạng đang kết nối để mở cửa sổ chia sẻ.
+%4$d. Chia sẻ liên hệ bằng cách xem trang chi tiết liên hệ, tại trang chọn, hoặc nhấn "Chia sẻ" để mở cửa sổ chia sẻ.
+%5$d. Chia sẻ trang web bằng cách mở trong Mi Browser hoặc nhấn "Chia sẻ" để mở cửa sổ chia sẻ.
+</string>
+<string name="tap_share_content_describe_china">Người gửi có thể sử dụng Chạm để chia sẻ theo các cách sau:
+%1$d. Chia sẻ ảnh và video bằng cách xem ảnh toàn màn hình trong Thư viện, tại trang chọn, hoặc nhấn "Gửi" để mở cửa sổ chia sẻ.
+%2$d. Chia sẻ tệp từ trang chọn của Trình quản lý tệp, hoặc nhấn "Gửi" để mở cửa sổ chia sẻ.
+%3$d. Để chia sẻ mạng WLAN đang kết nối, mở danh sách WLAN hoặc nhấn vào mạng đang kết nối để mở cửa sổ chia sẻ.
+%4$d. Chia sẻ liên hệ bằng cách xem trang chi tiết liên hệ, tại trang chọn, hoặc nhấn "Chia sẻ" để mở cửa sổ chia sẻ.
+%5$d. Chia sẻ trang web bằng cách mở trong Mi Browser hoặc nhấn "Chia sẻ" để mở cửa sổ chia sẻ.
+</string>
+<string name="tap_share_file_describe">Sử dụng Chạm để chia sẻ từ trang chọn của Trình quản lý tệp hoặc nhấn "Gửi" để mở menu chia sẻ.</string>
+    <string name="tap_share_file_title">Chia sẻ tệp</string>
+<string name="tap_share_game_team_up_describe">Vào phòng nhóm trong Mobile Legends: Bang Bang để sử dụng Chạm để chia sẻ. Trước tiên hãy cập nhật Mobile Legends: Bang Bang lên phiên bản %1$s hoặc mới hơn.</string>
+<string name="tap_share_game_team_up_title">Nhóm game</string>
+<string name="tap_share_image_and_video_comment">Bạn có thể gửi các loại nội dung sau:</string>
+<string name="tap_share_image_and_video_describe">Xem ảnh toàn màn hình trong Thư viện hoặc nhấn giữ để mở trang chọn để dùng Chạm để chia sẻ, hoặc nhấn "Gửi" để mở menu chia sẻ.</string>
+<string name="tap_share_image_and_video_title">Chia sẻ ảnh và video</string>
+<string name="tap_share_image_describe">Chạm vùng NFC phía sau hai thiết bị vào nhau để chia sẻ nhanh</string>
+<string name="tap_share_is_connect_this_wifi">Kết nối với mạng Wi-Fi này?</string>
+<string name="tap_share_is_connect_this_wlan">Kết nối với mạng WLAN này?</string>
+<string name="tap_share_navigation_address_describe">Mở chi tiết địa điểm trong Baidu Maps để dùng Chạm để chia sẻ, hoặc nhấn "Chia sẻ" để mở menu chia sẻ. Trước tiên hãy cập nhật Baidu Maps lên phiên bản %1$s hoặc mới hơn.</string>
+<string name="tap_share_navigation_address_title">Chia sẻ địa chỉ điều hướng</string>
+<string name="tap_share_network_page_describe">Mở trang web trong Mi Browser để dùng Chạm để chia sẻ, hoặc nhấn "Chia sẻ" để mở menu chia sẻ.</string>
+<string name="tap_share_network_page_title">Chia sẻ trang web</string>
+<string name="tap_share_preparing">Đang chuẩn bị</string>
+<string name="tap_share_preparing_file">Đang chuẩn bị tệp</string>
+<string name="tap_share_send_this_wifi">Chia sẻ mạng Wi-Fi này</string>
+<string name="tap_share_send_this_wlan">Chia sẻ mạng WLAN này</string>
+<string name="tap_share_subTitle">Chạm mặt lưng hai thiết bị vào nhau để chia sẻ</string>
+<string name="tap_share_tips_title">Chạm mặt lưng hai thiết bị vào nhau để chia sẻ</string>
+<string name="tap_share_title">Chạm để chia sẻ</string>
+<string name="tap_share_wifi_cannot_share">Không thể chia sẻ mạng này</string>
+<string name="tap_share_wifi_connect_cancel">Đã hủy kết nối</string>
+<string name="tap_share_wifi_connect_success">Đã kết nối</string>
+<string name="tap_share_wifi_connected">Đã kết nối với "%1$s"</string>
+<string name="tap_share_wifi_fail">Không thể kết nối</string>
+<string name="tap_share_wifi_password_describe">Để chia sẻ mạng Wi-Fi đang kết nối, mở danh sách Wi-Fi để dùng Chạm để chia sẻ, hoặc nhấn vào mạng đang kết nối để mở menu chia sẻ.</string>
+<string name="tap_share_wifi_password_describe_china">Để chia sẻ mạng WLAN đang kết nối, mở danh sách WLAN để dùng Chạm để chia sẻ, hoặc nhấn vào mạng đang kết nối để mở menu chia sẻ.</string>
+<string name="tap_share_wifi_password_title">Chia sẻ mật khẩu Wi-Fi</string>
+<string name="tap_share_wifi_password_title_china">Chia sẻ mật khẩu WLAN</string>
+<string name="tapshare_receive_describe_wifi">Kết nối với "%1$s"</string>
+<string name="toast_auto_close_in_minutes">Xiaomi Share sẽ tự động tắt sau %d phút</string>
+<string name="toast_or_desc_advert_all_close">Xiaomi Share đã tắt</string>
+<string name="toast_or_desc_advert_all_open">Xiaomi Share đang bật trong %d phút</string>
+<string name="toast_transfering">Đang truyền dữ liệu. Hãy thử lại sau.</string>
+<string name="transfer_to_different_account_summary">Cả hai thiết bị (Xiaomi và Android khác) cần bật Xiaomi Share trong Trung tâm điều khiển. Bạn có thể nhận tệp từ mọi người trong %d phút.</string>
+<string name="transfer_to_different_account_summary_ios">%1$d. Cả hai thiết bị (Xiaomi và Android khác) cần bật Xiaomi Share trong Trung tâm điều khiển. Bạn có thể nhận tệp từ mọi người trong %2$d phút.
+%3$d. iPhone và iPad cần bật Xiaomi Interconnectivity.</string>
+<string name="transfer_to_different_account_title">Đang tìm điện thoại và máy tính bảng</string>
+<string name="transfer_to_phone_summary_new">Bật Xiaomi Share trong Trung tâm điều khiển để dễ dàng gửi và nhận dữ liệu. Sau khi bật, bạn có thể chia sẻ với thiết bị gần đó trong %d phút trước khi tự động tắt.</string>
+<string name="transfer_to_same_account_summary">Để truyền dữ liệu tới thiết bị đăng nhập cùng tài khoản, hãy đảm bảo thiết bị kia đã cập nhật lên Xiaomi HyperOS hoặc mới hơn và Xiaomi Share phiên bản 3.0.0 trở lên. Đặt trạng thái nhận là "Từ tài khoản này". Nếu không, bạn cần bật Xiaomi Share trong Trung tâm điều khiển để nhận tệp từ mọi người trong %d phút.</string>
+<string name="transfer_to_same_account_title">Đang tìm thiết bị cùng tài khoản</string>
+<string name="transfer_to_summary_new">Bật Xiaomi Share trong Trung tâm điều khiển để dễ dàng gửi và nhận dữ liệu. Sau khi bật, bạn có thể chia sẻ với thiết bị gần đó trong %d phút trước khi tự động tắt.</string>
+<string name="withdraw">Rút lại</string>
+<string name="withdraw_consent_message">Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Xiaomi Share. Dữ liệu cá nhân đã thu thập sẽ bị xóa trong thời gian quy định theo pháp luật, trừ khi có yêu cầu khác. Vì Xiaomi Share cần dữ liệu này để hoạt động, việc rút lại đồng ý đồng nghĩa với việc bạn từ chối sử dụng dịch vụ.</string>
+<string name="withdraw_consent_title">Rút lại sự đồng ý</string>
+<string name="withdraw_with_time">Rút lại (%1$ds)</string>
 </resources>

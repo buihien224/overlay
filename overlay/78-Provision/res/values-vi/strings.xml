@@ -611,5 +611,239 @@ Bạn có thể kiểm soát tính năng này từ Cài đặt &gt; Mật khẩu
 <string name="welcome">Chào mừng</string>
 <string name="withdraw_consent">Nếu bạn rút lại sự đồng ý, dịch vụ Wallpaper Carousel sẽ bị tắt.</string>
 <string name="zone_picker_title">Chọn múi giờ</string>
+<string name="access_calendar">Truy cập lịch</string>
+<string name="accessibility_settings">Trợ năng</string>
+<string name="accessibility_sliding_button_state_description_off">Đã tắt</string>
+<string name="accessibility_sliding_button_state_description_on">Đã bật</string>
+<string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
+<string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+<string name="am">SA</string>
 
+<string name="app_battery_usage">Dùng để kiểm tra mức sử dụng pin của từng ứng dụng</string>
+<string name="application_extension_service">Dịch vụ mở rộng ứng dụng</string>
+<string name="application_extension_service_introduction">Dịch vụ mở rộng ứng dụng cung cấp tính năng đăng nhập và xác minh. Để cung cấp dịch vụ cơ bản, ứng dụng cần các quyền sau:</string>
+
+<string name="aquire_device_info">Truy cập thông tin thiết bị</string>
+<string name="back">Quay lại</string>
+
+<string name="boot_video_replay">Phát lại</string>
+<string name="boot_video_skip">Bỏ qua</string>
+
+<string name="calendar_storage">Bộ nhớ lịch</string>
+
+<string name="check_network_status">Không thể xác minh tài khoản do lỗi mạng</string>
+<string name="clearable_edittext_clear_description">Xóa</string>
+
+<string name="disagree_unable_serve">Nếu bạn không đồng ý các quyền trên, bạn sẽ không thể sử dụng dịch vụ này.</string>
+
+<string name="early_morning">Buổi sáng</string>
+<string name="evening">Buổi chiều</string>
+
+<string name="expand_button_title">Nâng cao</string>
+
+<string name="fidio_declare_permissions">MI FIDO</string>
+
+<string name="font_size_title">Kích thước chữ</string>
+
+<string name="friday">Thứ Sáu</string>
+<string name="friday_short">Th6</string>
+<string name="friday_shortest">Th6</string>
+
+<string name="get_audio_and_video_information_settings">Truy cập ảnh, video và âm thanh trên thiết bị</string>
+<string name="get_contact_information_settings">Truy cập danh bạ</string>
+
+<string name="image_brain_configuration_service">Dịch vụ cấu hình Xiaomi Imaging Engine</string>
+
+<string name="interconnection_service_permission1">Bật/tắt Bluetooth</string>
+<string name="interconnection_service_permission2">Kết nối và truyền dữ liệu giữa các thiết bị</string>
+<string name="interconnection_service_permission3">Bật/tắt WLAN</string>
+<string name="interconnection_service_permission5">Ghi âm</string>
+<string name="interconnection_service_permission7">Truy cập và chỉnh sửa ảnh, tệp trên thiết bị</string>
+<string name="interconnection_service_permission9">Truy cập định danh thiết bị</string>
+
+<string name="interconnection_service_summary_global">Tính năng liên kết thiết bị có thể khác nhau tùy theo model và phiên bản hệ thống. Truy cập trang chính thức để biết thêm.</string>
+
+<string name="kind_subtitle">Thiết bị này sử dụng màn hình gập. Để bảo vệ thiết bị, hãy lưu ý:</string>
+
+<string name="kind_tip_title">Lưu ý</string>
+<string name="kind_tip_subtitle">Thiết bị được trang bị màn hình gập. Để tránh hư hỏng, hãy tuân thủ các hướng dẫn sau khi sử dụng.</string>
+
+<string name="kind_tip_details_inner_title">Không nhấn màn hình bên trong bằng vật cứng hoặc sắc nhọn</string>
+<string name="kind_tip_details_pocket_title">Không bỏ thiết bị chưa gập vào túi hoặc balo</string>
+<string name="kind_tip_details_protective_title">Không tự tháo lớp bảo vệ màn hình</string>
+
+<string name="language_disabled_description">%1$s, không khả dụng</string>
+<string name="language_selected_description">%1$s, đã chọn</string>
+<string name="language_unselected_description">%1$s, nhấn đúp để áp dụng</string>
+
+<string name="layout_size_huge">Rất lớn</string>
+<string name="layout_size_large">Lớn</string>
+<string name="layout_size_normal">Tiêu chuẩn</string>
+
+<string name="locale_picker_search_hint">Tìm kiếm khu vực</string>
+
+<string name="mobile_network">Đang dùng dữ liệu di động</string>
+
+<string name="monday">Thứ Hai</string>
+<string name="monday_short">Th2</string>
+<string name="monday_shortest">Th2</string>
+
+<string name="month_january">Tháng 1</string>
+<string name="month_february">Tháng 2</string>
+<string name="month_march">Tháng 3</string>
+<string name="month_april">Tháng 4</string>
+<string name="month_may">Tháng 5</string>
+<string name="month_june">Tháng 6</string>
+<string name="month_july">Tháng 7</string>
+<string name="month_august">Tháng 8</string>
+<string name="month_september">Tháng 9</string>
+<string name="month_october">Tháng 10</string>
+<string name="month_november">Tháng 11</string>
+<string name="month_december">Tháng 12</string>
+
+<string name="more">Thêm</string>
+
+<string name="morning">Buổi sáng</string>
+<string name="night">Buổi tối</string>
+<string name="noon">Buổi trưa</string>
+
+<string name="next">Tiếp theo</string>
+<string name="not_set">Chưa đặt</string>
+
+<string name="other_settings_minor_mode">Chế độ trẻ em</string>
+<string name="other_settings_xiaomi_share">Xiaomi Share</string>
+
+<string name="permission_application_scope_description">Chúng tôi chỉ sử dụng các quyền này cho xác minh bảo mật và không dùng cho mục đích khác.</string>
+
+<string name="permission_get_audio_and_video_summary_settings">Dùng để đặt ảnh đại diện và xem trước nhạc chuông</string>
+
+<string name="permission_mi_account">Truy cập số điện thoại của thiết bị</string>
+
+<string name="permission_not_agree_service_not_working">Nếu bạn không đồng ý cấp quyền, bạn sẽ không thể sử dụng dịch vụ này.</string>
+
+<string name="permission_read_apps">Truy cập danh sách ứng dụng đã cài đặt</string>
+
+<string name="permission_sms_verification_code_login">Dùng để nhận mã SMS đăng nhập nhanh</string>
+
+<string name="phone_name_security">Bảo mật</string>
+
+<string name="power_and_performance">Pin và hiệu năng</string>
+<string name="power_and_performance_introduction">Cung cấp quản lý pin, thống kê sử dụng và tiết kiệm năng lượng.</string>
+
+<string name="prompt_fingerprint">Bảo vệ nâng cao đã bật. Hãy thiết lập khóa màn hình.</string>
+
+<string name="provision_complete_text">Hoàn tất</string>
+
+<string name="read_application_info">Truy cập thông tin ứng dụng</string>
+<string name="read_sms_and_mms">Truy cập SMS và MMS</string>
+
+<string name="require_statement">Để cung cấp dịch vụ, chúng tôi cần các quyền sau:</string>
+
+<string name="require_telephone_imei">Đọc IMEI và IMSI</string>
+<string name="require_telephone_location">Truy cập vị trí</string>
+
+<string name="safe_open_service">Dịch vụ mở an toàn</string>
+
+<string name="software_account_mismatch">Xác minh tài khoản</string>
+<string name="software_account_mismatch_summary">Đang xác minh…</string>
+
+<string name="software_version_mismatch">Phần mềm không tương thích</string>
+<string name="software_version_mismatch_summary">Phiên bản này không được hỗ trợ. Có thể gây rủi ro bảo mật.</string>
+
+<string name="start_up_slogan">Nơi mọi thứ kết nối</string>
+
+<string name="startup_page_text_hint">Mở ra để kích hoạt thiết bị</string>
+
+<string name="study_full_screen_gesture_text">Tìm hiểu thao tác cử chỉ</string>
+
+<string name="sub_screen_boot_tip">Hoàn tất thiết lập trên màn hình chính</string>
+
+<string name="summary_not_set">Chưa đặt</string>
+
+<string name="sunday_short">CN</string>
+   <string name="sunday_shortest">CN</string>
+
+<string name="terms_and_statement_title">Điều khoản và điều kiện</string>
+<string name="terms_of_use_label_use_network_china_append">Khi thiết bị được kích hoạt, các dịch vụ sau sẽ kết nối mạng:</string>
+<string name="terms_of_use_label_webview">Android System WebView</string>
+
+<string name="the_anniversary_of_lifting_martial_law">Ngày kỷ niệm dỡ bỏ thiết quân luật</string>
+<string name="the_anti_aggression_day">Ngày chống xâm lược</string>
+<string name="the_arbor_day">Ngày trồng cây</string>
+<string name="the_armed_forces_day">Ngày lực lượng vũ trang</string>
+<string name="the_armys_day">Ngày Quân đội</string>
+<string name="the_childrens_day">Ngày Thiếu nhi</string>
+<string name="the_chinese_youth_day">Ngày Thanh niên</string>
+<string name="the_christmas_day">Lễ Giáng sinh</string>
+<string name="the_double_ninth_festival">Tết Trùng Cửu</string>
+<string name="the_dragon_boat_festival">Tết Đoan Ngọ</string>
+<string name="the_easter_day">Lễ Phục Sinh</string>
+<string name="the_eve_of_the_spring_festival">Đêm Giao thừa (Tết Nguyên đán)</string>
+<string name="the_fifth_day">Mùng 5 Tết</string>
+<string name="the_fools_day">Cá tháng Tư</string>
+<string name="the_forth_day">Mùng 4 Tết</string>
+<string name="the_hksar_establishment_day">Ngày thành lập Đặc khu Hồng Kông</string>
+<string name="the_international_womens_day">Ngày Quốc tế Phụ nữ</string>
+<string name="the_laba_festival">Lễ Lạp Bát</string>
+<string name="the_labour_day">Ngày Lao động</string>
+<string name="the_lantern_festival">Tết Nguyên Tiêu</string>
+<string name="the_mid_autumn_festival">Tết Trung thu</string>
+<string name="the_national_day">Quốc khánh</string>
+<string name="the_national_father_day">Ngày sinh Tôn Trung Sơn</string>
+<string name="the_new_years_day">Tết Dương lịch</string>
+<string name="the_night_of_sevens">Lễ Thất Tịch</string>
+<string name="the_partys_day">Ngày thành lập Đảng</string>
+<string name="the_peace_day">Ngày Tưởng niệm</string>
+<string name="the_retrocession_day">Ngày trao trả</string>
+<string name="the_second_day">Mùng 2 Tết</string>
+<string name="the_seventh_day">Mùng 7 Tết</string>
+<string name="the_sixth_day">Mùng 6 Tết</string>
+<string name="the_spirit_festival">Lễ Vu Lan</string>
+<string name="the_spring_festival">Tết Nguyên đán</string>
+<string name="the_teachers_day">Ngày Nhà giáo</string>
+<string name="the_third_day">Mùng 3 Tết</string>
+<string name="the_tw_childrens_day">Ngày Thiếu nhi</string>
+<string name="the_tw_youth_day">Ngày Thanh niên</string>
+<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
+<string name="the_valentines_day">Lễ Tình nhân</string>
+<string name="the_water_lantern_festival">Lễ hội đèn nước</string>
+
+<string name="thursday">Thứ Năm</string>
+<string name="thursday_short">Th5</string>
+<string name="thursday_shortest">Th5</string>
+
+<string name="time_picker_dialog_title">Đặt thời gian</string>
+
+<string name="title_fingerprint">Đặt khóa màn hình</string>
+<string name="title_fingers_and_faces">Thiết lập vân tay và khuôn mặt</string>
+<string name="title_horizontal_layout">Ngang</string>
+<string name="title_only_fingerprint">Thiết lập vân tay</string>
+<string name="title_recent_tasks_style">Kiểu hiển thị đa nhiệm</string>
+<string name="title_set_fingerprint">Khóa màn hình</string>
+<string name="title_setting_up_face">Thiết lập khuôn mặt</string>
+<string name="title_stacked_layout">Xếp chồng</string>
+<string name="title_vertical_layout">Dọc</string>
+
+<string name="today">Hôm nay</string>
+<string name="tomorrow">Ngày mai</string>
+
+<string name="tuesday">Thứ Ba</string>
+<string name="tuesday_short">Th3</string>
+<string name="tuesday_shortest">Th3</string>
+
+<string name="used_date_viewing">Dùng để xem ngày</string>
+
+<string name="user_agreement">Thỏa thuận người dùng</string>
+
+<string name="v7_preference_off">TẮT</string>
+<string name="v7_preference_on">BẬT</string>
+
+<string name="verify_application_security">Dùng để xác minh bảo mật ứng dụng</string>
+<string name="verify_device_security">Dùng để xác minh bảo mật thiết bị</string>
+
+<string name="wednesday">Thứ Tư</string>
+<string name="wednesday_short">Th4</string>
+<string name="wednesday_shortest">Th4</string>
+
+<string name="yesterday">Hôm qua</string>
 </resources>

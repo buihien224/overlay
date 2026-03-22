@@ -2005,5 +2005,1721 @@
     <string name="photo_editor_low">Thấp</string>
     <string name="photo_editor_middle">Trung bình</string>
     <string name="photo_editor_size_ratio">Kích thước</string>
+<string name="acc_magic_matting_recycler_matting_disney_classic">Disney cổ điển</string>
+<string name="acc_magic_matting_recycler_matting_disney_poster">Áp phích Disney</string>
+<string name="acc_magic_matting_recycler_matting_disney_purple">Tím neon</string>
+<string name="acc_magic_matting_recycler_matting_mickey_donald">Chân dung retro</string>
+<string name="acc_magic_matting_recycler_matting_orange_centenary">Kỷ niệm màu cam</string>
+<string name="acc_magic_matting_recycler_matting_polka_dot_bow">Nơ chấm bi</string>
+<string name="acc_magic_matting_recycler_matting_red_centenary">Kỷ niệm màu đỏ</string>
 
+<string name="accessibility_sliding_button_state_description_off">Đã tắt</string>
+<string name="accessibility_sliding_button_state_description_on">Đã bật</string>
+<string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
+<string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+
+<string name="adjust_blacks">Vùng tối</string>
+<string name="adjust_de_noise_color">Màu sắc</string>
+<string name="adjust_de_noise_luminance">Độ sáng</string>
+<string name="adjust_dispersion_hue">Sắc độ</string>
+<string name="adjust_dispersion_size">Kích thước</string>
+<string name="adjust_dispersion_strength">Cường độ</string>
+<string name="adjust_dispersion_tip">Di chuyển vòng tròn
+để điều chỉnh vùng phân tán</string>
+
+<string name="adjust_light_perception">Độ sáng</string>
+<string name="adjust_noise_degree">Mức độ</string>
+<string name="adjust_noise_high_lights">Vùng sáng</string>
+<string name="adjust_noise_roughness">Độ thô</string>
+<string name="adjust_noise_size">Kích thước</string>
+
+<string name="adjust_quality_ultra_hd">Siêu HD</string>
+
+<string name="adjust_tab_color">Màu sắc</string>
+<string name="adjust_tab_color_special">Màu</string>
+<string name="adjust_tab_curve">Đường cong</string>
+<string name="adjust_tab_de_noise">Khử nhiễu</string>
+<string name="adjust_tab_detail">Chi tiết</string>
+<string name="adjust_tab_dispersion">Phân tán</string>
+<string name="adjust_tab_effect">Hiệu ứng</string>
+<string name="adjust_tab_noise">Nhiễu</string>
+<string name="adjust_tab_tone">Tông màu</string>
+<string name="adjust_tab_white_balance">Cân bằng trắng</string>
+
+<string name="adjust_talkback_blue_curve">Đường cong xanh dương</string>
+<string name="adjust_talkback_curve_anchor_delete">Xóa điểm neo</string>
+<string name="adjust_talkback_curve_reset">Đặt lại</string>
+<string name="adjust_talkback_green_curve">Đường cong xanh lá</string>
+<string name="adjust_talkback_red_curve">Đường cong đỏ</string>
+
+<string name="adjust_whites">Vùng sáng</string>
+
+<string name="ai_action_toast_cloud_data_pull_failed">Không thể tải dữ liệu. Kiểm tra mạng và thử lại.</string>
+<string name="ai_action_toast_cloud_data_pull_failed_v2">Đã xảy ra lỗi mạng. Kiểm tra và thử lại.</string>
+
+<string name="ai_action_toast_function_ai_cloud_universal_editor">Đợi một chút…</string>
+<string name="ai_action_toast_function_ai_expansion_processing">Đang mở rộng ảnh…</string>
+<string name="ai_action_toast_function_ai_expansion_processing_v2">Đang mở rộng ảnh…</string>
+<string name="ai_action_toast_function_ai_portrait_processing">Đang xử lý ảnh AI…</string>
+<string name="ai_action_toast_function_ai_portrait_processing_v2">Đang xử lý ảnh AI…</string>
+
+<string name="ai_action_toast_function_background_change_processing">Đang thay đổi nền…</string>
+<string name="ai_action_toast_function_background_change_processing_v2">Đang thay đổi nền…</string>
+
+<string name="ai_action_toast_function_beautification_processing">Đang làm đẹp…</string>
+<string name="ai_action_toast_function_beautification_processing_v2">Đang làm đẹp…</string>
+
+<string name="ai_action_toast_function_download_failed">Không thể tải tính năng. Kiểm tra mạng và thử lại.</string>
+<string name="ai_action_toast_function_download_failed_v2">Không thể tải. Kiểm tra mạng và thử lại.</string>
+
+<string name="ai_action_toast_function_expression_replace_processing">Đang thay đổi biểu cảm…</string>
+<string name="ai_action_toast_function_expression_replace_processing_v2">Đang thay đổi biểu cảm…</string>
+
+<string name="ai_action_toast_function_face_shape_processing">Đang điều chỉnh khuôn mặt…</string>
+<string name="ai_action_toast_function_face_shape_processing_v2">Đang điều chỉnh khuôn mặt…</string>
+
+<string name="ai_action_toast_function_leica_watermark_processing">Đang áp dụng watermark Leica…</string>
+<string name="ai_action_toast_function_leica_watermark_processing_v2">Đang xử lý watermark…</string>
+
+<string name="ai_action_toast_function_magic_remove_processing">Đang xóa bằng AI…</string>
+<string name="ai_action_toast_function_magic_remove_processing_v2">Đang xóa…</string>
+
+<string name="ai_action_toast_function_magic_sky_processing">Đang thay bầu trời…</string>
+<string name="ai_action_toast_function_magic_sky_processing_v2">Đang thay bầu trời…</string>
+
+<string name="ai_action_toast_function_music_processing">Đang áp dụng nhạc nền…</string>
+
+<string name="ai_action_toast_function_not_support">Tính năng này hiện không khả dụng</string>
+
+<string name="ai_action_toast_function_photo_auto_beautify_processing">Đang làm đẹp…</string>
+<string name="ai_action_toast_function_photo_auto_beautify_processing_v2">Đang làm đẹp…</string>
+
+<string name="ai_action_toast_function_photo_beautify_skin_processing">Đang chỉnh màu da…</string>
+<string name="ai_action_toast_function_photo_beautify_skin_processing_v2">Đang chỉnh màu da…</string>
+
+<string name="ai_action_toast_function_photo_body_beauty_processing">Đang chỉnh sửa cơ thể…</string>
+<string name="ai_action_toast_function_photo_body_beauty_processing_v2">Đang chỉnh sửa cơ thể…</string>
+
+<string name="ai_action_toast_function_photo_eliminate_processing">Đang loại bỏ phản chiếu…</string>
+<string name="ai_action_toast_function_photo_enhance_processing">Đang tăng cường…</string>
+<string name="ai_action_toast_function_photo_enhance_processing_v2">Đang áp dụng…</string>
+
+<string name="ai_action_toast_function_photo_filter_processing">Đang áp dụng bộ lọc…</string>
+<string name="ai_action_toast_function_photo_filter_processing_v2">Đang áp dụng bộ lọc…</string>
+
+<string name="ai_action_toast_function_photo_remove_glare_processing">Đang loại bỏ chói…</string>
+<string name="ai_action_toast_function_photo_restoration_processing">Đang khôi phục ảnh…</string>
+<string name="ai_action_toast_function_photo_restoration_processing_v2">Đang khôi phục ảnh…</string>
+
+<string name="ai_action_toast_function_process_all_failed">Không thể áp dụng hiệu ứng. Vui lòng thử lại sau.</string>
+<string name="ai_action_toast_function_process_all_failed_v2">Đã xảy ra lỗi. Vui lòng thử lại sau.</string>
+
+<string name="ai_action_toast_function_process_failed">Không thể áp dụng một số hiệu ứng.</string>
+<string name="ai_action_toast_function_process_failed_v2">Đã xảy ra lỗi.</string>
+
+<string name="ai_action_toast_function_resources_loading">Đang tải plug-in…</string>
+<string name="ai_action_toast_function_resources_loading_v2">Đợi một chút…</string>
+
+<string name="ai_action_toast_function_style_change_processing">Đang chuyển phong cách…</string>
+<string name="ai_action_toast_function_style_change_processing_v2">Đang chuyển phong cách…</string>
+
+<string name="ai_action_toast_function_super_portrait_processing">Đang xử lý chân dung HD…</string>
+<string name="ai_action_toast_function_super_portrait_processing_v2">Đang xử lý chân dung HD…</string>
+
+<string name="ai_action_toast_function_watermark_frame_processing">Đang áp dụng khung watermark…</string>
+<string name="ai_action_toast_function_watermark_frame_processing_v2">Đang xử lý watermark…</string>
+
+<string name="ai_action_toast_multiple_function_not_support">Một số tính năng hiện không khả dụng</string>
+
+<string name="ai_action_toast_need_login_mi_account">Đăng nhập tài khoản Xiaomi để thử lại</string>
+<string name="ai_action_toast_need_login_mi_account_v2">Đăng nhập tài khoản Xiaomi để sử dụng đầy đủ tính năng</string>
+
+<string name="ai_action_toast_not_support_scene">Tính năng này không hỗ trợ ở đây. Hãy quay lại và thử lại.</string>
+
+<string name="ai_action_toast_picture_content_illegal">Ảnh vi phạm tiêu chuẩn cộng đồng.</string>
+<string name="ai_action_toast_picture_content_illegal_v2">Ảnh vi phạm quy định.</string>
+
+<string name="ai_action_toast_picture_size_out_of_limit">Kích thước ảnh không được hỗ trợ.</string>
+
+<string name="ai_action_toast_poor_network">Không thể kết nối mạng.</string>
+<string name="ai_action_toast_poor_network_v2">Đã xảy ra lỗi mạng.</string>
+
+<string name="ai_action_toast_request_time_out">Yêu cầu đã hết thời gian.</string>
+<string name="ai_action_toast_request_time_out_v2">Yêu cầu đã hết thời gian.</string>
+
+<string name="ai_compliance_bottom_dialog_description">Bạn có thể thêm nhãn "AI-generated" cho ảnh được chỉnh sửa bằng AI.</string>
+<string name="ai_compliance_bottom_dialog_video_description">Bạn có thể thêm nhãn cho ảnh hoặc video chỉnh sửa bằng AI.</string>
+
+<string name="ai_compliance_menu_pop_description">Thêm nhãn "AI-generated" cho ảnh chỉnh sửa bằng AI</string>
+<string name="ai_compliance_menu_pop_video_description">Thêm nhãn cho ảnh hoặc video chỉnh sửa bằng AI</string>
+
+<string name="ai_emote_loading_expression_list">Đang tạo biểu cảm…</string>
+<string name="ai_emote_loading_expression_replace">Đang thay đổi biểu cảm…</string>
+<string name="ai_emote_loading_title">Đang tạo biểu cảm…</string>
+
+<string name="ai_emote_notice_desc">Dùng AI để thay đổi biểu cảm khuôn mặt trong ảnh.</string>
+
+<string name="ai_emote_process_max_limited">Thay đổi tối đa %d người</string>
+
+<string name="ai_emote_talkback_emote_0">Biểu cảm gốc</string>
+<string name="ai_emote_talkback_emote_1">Cười nhẹ</string>
+<string name="ai_emote_talkback_emote_2">Bình thường</string>
+<string name="ai_emote_talkback_emote_3">Cười lộ răng</string>
+<string name="ai_emote_talkback_emote_4">Cười lớn</string>
+<string name="ai_emote_talkback_emote_5">Buồn</string>
+
+<string name="ai_emote_talkback_emote_livephoto">Biểu cảm đề xuất %d</string>
+<string name="ai_emote_talkback_face">Người được chọn %d</string>
+
+<string name="aicrmanager_download_cancel">Hủy tải xuống</string>
+<string name="aicrmanager_download_done">Tải xong</string>
+<string name="aicrmanager_download_done_content_title">Plug-in AI Editor</string>
+<string name="aicrmanager_download_process_content_title">Đang tải plug-in AI Editor</string>
+<string name="aicrmanager_download_update_tip">Có bản cập nhật plug-in</string>
+<string name="aicrmanager_downloading">Đang tải %s</string>
+
+<string name="aigc_login_confirm">Đăng nhập</string>
+<string name="aigc_login_hint_message">Đăng nhập tài khoản Xiaomi để dùng AI Editor</string>
+<string name="aigc_login_hint_message_v2">Đăng nhập tài khoản Xiaomi để dùng đầy đủ tính năng</string>
+<string name="aigc_login_hint_title">Đăng nhập</string>
+
+<string name="appearance_setting_dark">Tối</string>
+<string name="appearance_setting_light">Sáng</string>
+<string name="appearance_setting_system">Theo hệ thống</string>
+    <string name="beauty_ai_beauty_category_india_classic">Cổ điển</string>
+<string name="beauty_ai_beauty_category_india_fresh">Tươi tắn</string>
+<string name="beauty_ai_beauty_category_india_light">Rạng rỡ</string>
+<string name="beauty_ai_beauty_category_india_man">Sắc nét</string>
+<string name="beauty_ai_beauty_category_india_nude">Tự nhiên</string>
+<string name="beauty_ai_beauty_category_india_soft">Mềm mại</string>
+
+<string name="beauty_body_beauty_tip_only_support_single_v2">Tính năng này không hoạt động với ảnh nhóm. Hãy thử ảnh khác.</string>
+<string name="beauty_body_beauty_tip_part_not_found_v2">Không tìm thấy bộ phận này. Hãy thử ảnh khác.</string>
+
+<string name="beauty_skin_beauty_tab_adjust">Tăng cường</string>
+<string name="beauty_skin_beauty_tab_skin">Da</string>
+<string name="beauty_skin_beauty_tab_skin_color">Tông da</string>
+
+<string name="beauty_tip_download_fail_v2">Không thể tải xuống. Kiểm tra mạng và thử lại.</string>
+<string name="beauty_tip_portrait_not_recognized_v2">Không phát hiện được người. Hãy thử ảnh khác.</string>
+
+<string name="bokeh_item_effect_mickey">Mickey</string>
+<string name="bokeh_talkback_item_effect_mickey">Hiệu ứng bokeh Mickey Mouse</string>
+<string name="bokeh_tips_alg_error">Không hỗ trợ hiệu ứng bokeh</string>
+<string name="bokeh_tips_alg_error_v2">Không hỗ trợ hiệu ứng bokeh. Hãy thử ảnh khác.</string>
+
+<string name="bottomsheet_action_collapse">Thu gọn bảng dưới</string>
+<string name="bottomsheet_action_expand">Mở rộng bảng dưới</string>
+<string name="bottomsheet_drag_handle_clicked">Đã chạm hai lần vào tay kéo</string>
+<string name="bottomsheet_drag_handle_content_description">Tay kéo</string>
+
+<string name="call_notification_answer_action">Trả lời</string>
+<string name="call_notification_answer_video_action">Video</string>
+<string name="call_notification_decline_action">Từ chối</string>
+<string name="call_notification_hang_up_action">Kết thúc</string>
+<string name="call_notification_incoming_text">Cuộc gọi đến</string>
+<string name="call_notification_ongoing_text">Đang gọi</string>
+<string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
+
+<string name="card_delete_description">Xóa vĩnh viễn kỷ niệm này?</string>
+<string name="card_delete_negative_text">Hủy</string>
+<string name="card_delete_positive_text">Xóa</string>
+<string name="card_delete_title">Xóa kỷ niệm</string>
+
+<string name="channel_description">Tải xuống ImageExpansion</string>
+<string name="channel_name">aicr_ImageExpansion_download</string>
+
+<string name="character_counter_pattern">%1$d/%2$d</string>
+<string name="checkUpdateSdkVersion">4.2.5</string>
+
+<string name="clip_menu_crop">Cắt</string>
+<string name="clip_speedX_0.25x">0.25X</string>
+<string name="clip_speedX_0.5x">0.5X</string>
+<string name="clip_speedX_1x">1X</string>
+<string name="clip_speedX_2.0x">2.0X</string>
+<string name="clip_speedX_3.0x">3.0X</string>
+
+<string name="collage_orientation_text">Hướng</string>
+
+<string name="collage_talkback_layout_2_00">Hai ảnh cùng kích thước, xếp dọc</string>
+<string name="collage_talkback_layout_2_01">Hai ảnh cùng kích thước, xếp ngang</string>
+<string name="collage_talkback_layout_2_02">Hai ảnh xếp dọc, tỉ lệ 3:2</string>
+<string name="collage_talkback_layout_2_03">Hai ảnh xếp ngang, tỉ lệ 3:2</string>
+<string name="collage_talkback_layout_2_04">Hai ảnh cùng kích thước, ngăn cách bởi đường chéo</string>
+<string name="collage_talkback_layout_2_05">Hai ảnh xếp dọc, tỉ lệ 2:3</string>
+<string name="collage_talkback_layout_2_06">Hai ảnh xếp ngang, tỉ lệ 2:3</string>
+
+<string name="collage_talkback_layout_3_00">Một ảnh trên, hai ảnh dưới</string>
+<string name="collage_talkback_layout_3_01">Hai ảnh trên, một ảnh dưới</string>
+<string name="collage_talkback_layout_3_02">Bố cục dọc</string>
+<string name="collage_talkback_layout_3_03">Bố cục ngang</string>
+<string name="collage_talkback_layout_3_04">Một ảnh bên trái, hai ảnh bên phải</string>
+<string name="collage_talkback_layout_3_05">Hai ảnh bên trái, một ảnh bên phải</string>
+<string name="collage_talkback_layout_3_06">Một ảnh trên, hai ảnh dưới</string>
+<string name="collage_talkback_layout_3_07">Hai ảnh trên, một ảnh dưới</string>
+<string name="collage_talkback_layout_3_08">Bố cục chéo</string>
+
+<string name="collage_talkback_layout_4_00">Bố cục bốn ảnh</string>
+<string name="collage_talkback_layout_4_01">Một ảnh trên, ba ảnh dưới</string>
+<string name="collage_talkback_layout_4_02">Một ảnh bên trái, ba ảnh bên phải</string>
+<string name="collage_talkback_layout_4_03">Bố cục dọc</string>
+<string name="collage_talkback_layout_4_04">Bố cục ngang</string>
+<string name="collage_talkback_layout_4_05">Bố cục không đều với bốn ảnh</string>
+
+<string name="collage_talkback_layout_5_00">Hai ảnh trái, ba ảnh phải</string>
+<string name="collage_talkback_layout_5_01">Ba ảnh trái, hai ảnh phải</string>
+<string name="collage_talkback_layout_5_02">Hai ảnh trên, ba ảnh dưới</string>
+<string name="collage_talkback_layout_5_03">Ba ảnh trên, hai ảnh dưới</string>
+<string name="collage_talkback_layout_5_04">Hai ảnh trái, ba ảnh phải</string>
+<string name="collage_talkback_layout_5_05">Hai ảnh trên, ba ảnh dưới</string>
+
+<string name="collage_talkback_layout_6_00">Hai nhóm ba ảnh, xếp ngang</string>
+<string name="collage_talkback_layout_6_01">Hai nhóm ba ảnh, xếp dọc</string>
+<string name="collage_talkback_layout_6_02">Hai ảnh trên, bốn ảnh dưới</string>
+<string name="collage_talkback_layout_6_03">Hai ảnh trái, bốn ảnh phải</string>
+<string name="collage_talkback_layout_6_04">Hai ảnh lớn trên, bốn ảnh nhỏ dưới</string>
+<string name="collage_talkback_layout_6_05">Bốn ảnh nhỏ trái, hai ảnh lớn phải</string>
+
+<string name="collage_talkback_layout_7_00">Bốn ảnh trên, ba ảnh dưới</string>
+<string name="collage_talkback_layout_7_01">Ba ảnh trên, hai ảnh giữa, hai ảnh dưới</string>
+<string name="collage_talkback_layout_7_02">Ba ảnh trên, một ảnh giữa, ba ảnh dưới</string>
+<string name="collage_talkback_layout_7_03">Một ảnh trên, ba ảnh giữa, ba ảnh dưới</string>
+<string name="collage_talkback_layout_7_04">Hai ảnh trên, ba ảnh giữa, hai ảnh dưới</string>
+<string name="collage_talkback_layout_7_05">Ba ảnh trên, ba ảnh giữa, một ảnh dưới</string>
+
+<string name="collage_talkback_layout_8_00">Hai nhóm bốn ảnh, xếp ngang</string>
+<string name="collage_talkback_layout_8_01">Hai nhóm bốn ảnh, xếp dọc</string>
+<string name="collage_talkback_layout_8_02">Ba ảnh trên, hai ảnh giữa, ba ảnh dưới</string>
+<string name="collage_talkback_layout_8_03">Ba ảnh trên, ba ảnh giữa, hai ảnh dưới</string>
+<string name="collage_talkback_layout_8_04">Một ảnh trên, ba ảnh giữa, bốn ảnh dưới</string>
+<string name="collage_talkback_layout_8_05">Ba ảnh trái, hai ảnh giữa, ba ảnh phải</string>
+
+<string name="collage_talkback_layout_9_00">Một ảnh trên, bốn ảnh giữa, bốn ảnh dưới</string>
+<string name="collage_talkback_layout_9_01">Ba nhóm ba ảnh, xếp dọc</string>
+<string name="collage_talkback_layout_9_02">Bố cục chín ảnh</string>
+<string name="collage_talkback_layout_9_03">Bốn ảnh trên, một ảnh giữa, bốn ảnh dưới</string>
+<string name="collage_talkback_layout_9_04">Một ảnh trên, giữa là 2 ảnh trên 3 ảnh, dưới là 3 ảnh</string>
+<string name="collage_talkback_layout_9_05">Ba nhóm ba ảnh, xếp dọc</string>
+
+<string name="collage_talkback_orientation_horizontal">Ngang</string>
+    <string name="collage_talkback_orientation_vertical">Dọc</string>
+<string name="collage_talkback_poster_cat_no_speak">Bàn chân mèo</string>
+<string name="collage_talkback_poster_city">Thành phố</string>
+<string name="collage_talkback_poster_color">Cắt dán</string>
+<string name="collage_talkback_poster_dream">Giấc mơ</string>
+<string name="collage_talkback_poster_film_1">Phim</string>
+<string name="collage_talkback_poster_film_2">Song song</string>
+<string name="collage_talkback_poster_fog">Sương mù</string>
+<string name="collage_talkback_poster_green_plant">Cây xanh</string>
+<string name="collage_talkback_poster_layout1">Đơn giản</string>
+<string name="collage_talkback_poster_layout2">Tối giản</string>
+<string name="collage_talkback_poster_leave_blank">Trống</string>
+<string name="collage_talkback_poster_life">Cuộc sống</string>
+<string name="collage_talkback_poster_lonely_foodie">Ẩm thực</string>
+<string name="collage_talkback_poster_morning">Buổi sáng</string>
+<string name="collage_talkback_poster_night_food">Quán cà phê</string>
+<string name="collage_talkback_poster_oval">Hình bầu dục</string>
+<string name="collage_talkback_poster_slow_life">Thư giãn</string>
+<string name="collage_talkback_poster_small_happy">Khoảnh khắc vui</string>
+<string name="collage_talkback_poster_small_lucky">Nụ cười</string>
+<string name="collage_talkback_poster_summer_flower">Mùa hè</string>
+<string name="collage_talkback_poster_tea">Giờ trà</string>
+<string name="collage_talkback_poster_time_watermark">Lịch</string>
+
+<string name="collage_talkback_stitching_01">Không khung</string>
+<string name="collage_talkback_stitching_02">Khung mỏng</string>
+<string name="collage_talkback_stitching_03">Khung vừa</string>
+<string name="collage_talkback_stitching_04">Bo góc</string>
+<string name="collage_talkback_stitching_05">Hình tròn</string>
+<string name="collage_talkback_stitching_06">Khung dày</string>
+
+<string name="collage_video_export_image">Ảnh</string>
+<string name="collage_video_export_livephoto">Khoảnh khắc động</string>
+<string name="collage_video_export_video">Video</string>
+<string name="collage_video_title">Chỉnh sửa</string>
+<string name="collage_video_video_time_limit">Hỗ trợ video tối đa %d giây</string>
+
+<string name="color_baby_blue">Xanh nhạt</string>
+<string name="color_black">Đen</string>
+<string name="color_blue">Xanh dương</string>
+<string name="color_bluish_blue">Xanh ngọc</string>
+<string name="color_cyan">Xanh lục lam</string>
+<string name="color_dark_blue">Xanh dương đậm</string>
+<string name="color_dark_brown">Nâu đậm</string>
+<string name="color_dark_cyan">Xanh lục lam đậm</string>
+<string name="color_dark_green">Xanh lá đậm</string>
+<string name="color_dark_purple">Tím đậm</string>
+<string name="color_dark_yellow">Vàng đậm</string>
+<string name="color_deep_pink">Hồng đậm</string>
+<string name="color_dusky_pink">Hồng nhạt</string>
+<string name="color_earthy_yellow">Vàng đất</string>
+<string name="color_gray">Xám</string>
+<string name="color_green">Xanh lá</string>
+<string name="color_indigo_blue">Xanh chàm</string>
+<string name="color_light_brown">Nâu nhạt</string>
+<string name="color_light_cyan">Xanh lục lam nhạt</string>
+<string name="color_light_green">Xanh lá nhạt</string>
+<string name="color_light_pink">Hồng nhạt</string>
+<string name="color_light_red">Đỏ nhạt</string>
+<string name="color_lilac">Tím oải hương</string>
+<string name="color_orange">Cam</string>
+<string name="color_pink">Hồng</string>
+<string name="color_purple">Tím</string>
+<string name="color_red">Đỏ</string>
+<string name="color_selector_talkback">Chọn màu</string>
+<string name="color_white">Trắng</string>
+<string name="color_yellow">Vàng</string>
+
+<string name="common_close_string">Tắt</string>
+<string name="common_google_play_services_enable_button">Bật</string>
+<string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu chưa bật Google Play services.</string>
+<string name="common_google_play_services_enable_title">Bật Google Play services</string>
+<string name="common_google_play_services_install_button">Cài đặt</string>
+<string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu thiếu Google Play services.</string>
+<string name="common_google_play_services_install_title">Cài đặt Google Play services</string>
+<string name="common_google_play_services_notification_channel_name">Trạng thái Google Play services</string>
+<string name="common_google_play_services_notification_ticker">Lỗi Google Play services</string>
+<string name="common_google_play_services_unsupported_text">%1$s không chạy do thiết bị không hỗ trợ Google Play services.</string>
+<string name="common_google_play_services_update_button">Cập nhật</string>
+<string name="common_google_play_services_update_text">%1$s cần cập nhật Google Play services để chạy.</string>
+<string name="common_google_play_services_update_title">Cập nhật Google Play services</string>
+<string name="common_google_play_services_updating_text">%1$s đang chờ Google Play services cập nhật.</string>
+<string name="common_google_play_services_wear_update_text">Cần phiên bản mới của Google Play services. Sẽ tự cập nhật sớm.</string>
+
+<string name="common_open_on_phone">Mở trên điện thoại</string>
+<string name="common_open_string">Bật</string>
+
+<string name="common_signin_button_text">Đăng nhập</string>
+<string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+
+<string name="convert_livephoto_title">Chuyển thành khoảnh khắc động</string>
+<string name="convert_livephoto_video_not_support">Không thể chuyển video này</string>
+<string name="convert_livephoto_video_not_support_v2">Định dạng video không được hỗ trợ. Hãy thử video khác.</string>
+<string name="convert_livephoto_video_time_limit">Chỉ hỗ trợ video tối đa %d giây</string>
+
+<string name="convert_static_photo_hint">Đã chuyển thành ảnh thường</string>
+
+<string name="custom_content_unavailable_alert">Không thể sử dụng nội dung đã nhập. Hãy thử nội dung khác.</string>
+
+<string name="description_editor_operate">Sao chép và dán chỉnh sửa</string>
+<string name="description_save_operate">Tùy chọn lưu</string>
+    <string name="description_summary_ai_beautify">Tự động cải thiện tông màu và chiều sâu bằng cách phân tích cảnh và áp dụng làm đẹp thông minh.</string>
+<string name="description_summary_ai_emote">Thay đổi biểu cảm khuôn mặt để sửa các ảnh nhóm bị lỗi.</string>
+<string name="description_summary_ai_image">Áp dụng mẫu phong cách cho chân dung để tạo ảnh sáng tạo, mới mẻ.</string>
+<string name="description_summary_ai_improve">Nâng cấp ảnh mờ hoặc chất lượng thấp bằng AI để tăng độ rõ nét.</string>
+<string name="description_summary_ai_matting">Tách người, mèo, chó hoặc xe và tạo nền thông minh.</string>
+<string name="description_summary_ai_outpaint_name">Mở rộng ảnh theo tỉ lệ có sẵn hoặc tùy chỉnh với bố cục thông minh.</string>
+<string name="description_summary_ai_remover">Tự động phát hiện và xóa vật thể, người hoặc phản chiếu để ảnh sạch hơn.</string>
+<string name="description_summary_ai_sky">Thay bầu trời chỉ với một chạm—biến trời âm u thành nắng ngay lập tức.</string>
+
+<string name="description_summary_basic_editor_crop">Chọn tỉ lệ như %1$d:%2$d hoặc %3$d:%4$d, hoặc tùy chỉnh để cắt ảnh chính xác theo ý muốn.</string>
+<string name="description_summary_basic_editor_filter">Áp dụng các bộ lọc như Film hoặc Đen trắng cho ảnh.</string>
+<string name="description_summary_basic_editor_mark">Vẽ, làm mờ, thêm chữ và sticker để chỉnh sửa sáng tạo.</string>
+<string name="description_summary_basic_editor_regulator">Điều chỉnh độ sáng, tương phản, nhiệt độ màu, độ bão hòa và hơn thế nữa.</string>
+<string name="description_summary_basic_editor_watermark">Chọn khung watermark đa dạng để cá nhân hóa ảnh.</string>
+
+<string name="description_summary_editor_operate">Sao chép và dán các chỉnh sửa như cắt, bộ lọc, điều chỉnh và watermark sang ảnh khác.</string>
+<string name="description_summary_save_operate">Lưu thông số chỉnh sửa, khôi phục ảnh gốc hoặc sao chép ảnh trong mục "Thêm".</string>
+
+<string name="description_tab_basic_editor">Cơ bản</string>
+<string name="description_tab_save_editor_operate">Lịch sử chỉnh sửa</string>
+<string name="description_title">Tổng quan tính năng</string>
+
+<string name="dest_title">Tiêu đề đích</string>
+<string name="dynamic_title_beauty">Làm đẹp động</string>
+
+<string name="editor_common_feature_not_support_toast">Tính năng này không được hỗ trợ</string>
+<string name="error_a11y_label">Lỗi: không hợp lệ</string>
+
+<string name="face_beauty">Làm đẹp khuôn mặt</string>
+
+<string name="filter_LCC_BLU">BLU</string>
+<string name="filter_LCC_BRS">BRS</string>
+<string name="filter_LCC_CHR">CHR</string>
+<string name="filter_LCC_CLS">CLS</string>
+<string name="filter_LCC_CNT">CNT</string>
+<string name="filter_LCC_ETN">ETN</string>
+<string name="filter_LCC_HC">HC</string>
+<string name="filter_LCC_IA">IA</string>
+<string name="filter_LCC_NAT">NAT</string>
+<string name="filter_LCC_NaT">Nat</string>
+<string name="filter_LCC_TEL">TEL</string>
+<string name="filter_LCC_VIV">VIV</string>
+
+<string name="filter_ambience_black_mist">Sương tối</string>
+<string name="filter_ambience_white_mist">Sương trắng</string>
+<string name="filter_category_ambience">Không khí</string>
+
+<string name="filter_film_600f">600F</string>
+<string name="filter_film_besson">Parkour</string>
+<string name="filter_film_bf_70">BF70</string>
+<string name="filter_film_c_50d">C-50D</string>
+<string name="filter_film_c_64">KC64</string>
+<string name="filter_film_chinese_red">Đỏ son</string>
+<string name="filter_film_desert_brown">Nâu hạt dẻ</string>
+<string name="filter_film_f_50">F-50</string>
+<string name="filter_film_flowers_dream">Rực rỡ</string>
+<string name="filter_film_freehand">Tự do</string>
+<string name="filter_film_g_200">KG200</string>
+<string name="filter_film_korean_rubber">Lan tím</string>
+<string name="filter_film_kyoto">Phố cổ</string>
+<string name="filter_film_le_mans">Kênh đào</string>
+<string name="filter_film_light_tea_green">Trà xanh</string>
+<string name="filter_film_monsoon">Mùa mưa</string>
+<string name="filter_film_mountain_cyan">Sương xanh</string>
+<string name="filter_film_old_alley">Ngõ xưa</string>
+<string name="filter_film_old_style">Hoài niệm</string>
+<string name="filter_film_p_100f">P100F</string>
+<string name="filter_film_p_160nc">KP160</string>
+<string name="filter_film_p_400h">FC400</string>
+<string name="filter_film_r_600">R600</string>
+<string name="filter_film_reversal">Đảo màu</string>
+<string name="filter_film_seaside">Biển</string>
+<string name="filter_film_sunset_red">Đỏ hoàng hôn</string>
+<string name="filter_film_taichi_ink">Mực</string>
+<string name="filter_film_v_5207">V-250</string>
+<string name="filter_film_zhi_xian">Thơ</string>
+
+<string name="filter_leica_blue">Xanh</string>
+<string name="filter_leica_monochrome">Đen trắng NAT</string>
+<string name="filter_leica_monochrome_high_contrast">Đen trắng HC</string>
+<string name="filter_leica_natural">Tự nhiên</string>
+<string name="filter_leica_sepia">Sepia</string>
+<string name="filter_leica_vivid">Rực rỡ</string>
+
+<string name="filter_movie_amber">Hổ phách</string>
+<string name="filter_movie_art">Thơ</string>
+<string name="filter_movie_qingye">Dạ khúc</string>
+<string name="filter_movie_romantic">Lãng mạn</string>
+
+<string name="filter_popular_bright">Sáng</string>
+<string name="filter_popular_forest_green">Thông xanh</string>
+<string name="filter_popular_negative">Âm bản</string>
+<string name="filter_popular_open_country">Hoang dã</string>
+<string name="filter_popular_positive">Dương bản</string>
+<string name="filter_popular_warm_green">Giấc mơ xanh</string>
+
+<string name="filter_portrait_bright_shining">Rực sáng</string>
+<string name="filter_portrait_butter">Mịn</string>
+<string name="filter_portrait_clearness">Rõ nét</string>
+<string name="filter_portrait_freshness">Tươi tắn</string>
+<string name="filter_portrait_nature">Tự nhiên</string>
+<string name="filter_portrait_neutral">Trung tính</string>
+<string name="filter_portrait_whitening">Sáng da</string>
+    <string name="filter_sky_detect_forbidden_tips_v2">Không thể nhận diện bầu trời</string>
+<string name="filter_sky_dynamic_saving_v2">Đang tạo…</string>
+
+<string name="frame_not_support_image_ratio_v2">Kích thước ảnh này không được hỗ trợ. Hãy thử ảnh khác.</string>
+<string name="frame_talkback_size">Kích thước khung</string>
+
+<string name="guide_tittle_layout_new_change">Bố cục hoàn toàn mới</string>
+<string name="hello_blank_fragment">Fragment trống</string>
+
+<string name="home_menu_compose_video">Tạo video</string>
+
+<string name="image_enhancer_guide_dialog_description">Chúng tôi sẽ tải ảnh chân dung gần đây của bạn lên đám mây để cải thiện kết quả. Bạn có thể bật/tắt trong Thêm &gt; Cài đặt tính năng.</string>
+<string name="image_enhancer_guide_dialog_subtitle">Nhận ảnh chân dung rõ nét, chi tiết hơn với cải tiến đặc biệt</string>
+<string name="image_enhancer_guide_dialog_title">Chân dung HD</string>
+
+<string name="image_enhancer_pop_subtitle">Chúng tôi sẽ tải ảnh chân dung gần đây của bạn lên đám mây để cải thiện kết quả</string>
+<string name="image_enhancer_pop_title">Tăng độ rõ chân dung</string>
+
+<string name="image_load_failed">Không thể đọc ảnh</string>
+<string name="image_load_failed_v2">Không thể xử lý mục này. Hãy chọn lại.</string>
+
+<string name="image_not_support">Ảnh này không được hỗ trợ</string>
+<string name="image_not_support_v2">Không thể xử lý mục này. Hãy chọn lại.</string>
+
+<string name="image_ratio_not_support">Tỷ lệ ảnh không được hỗ trợ</string>
+<string name="image_ratio_not_support_v2">Tỷ lệ khung hình không được hỗ trợ. Hãy chọn mục khác.</string>
+
+<string name="image_type_not_support">Định dạng ảnh không được hỗ trợ</string>
+<string name="image_type_not_support_v2">Định dạng ảnh không được hỗ trợ. Hãy thử ảnh khác.</string>
+
+<string name="kit_mode_confirm_text">Xác nhận</string>
+<string name="kit_mode_hint_title">Chọn phong cách chân dung</string>
+<string name="kit_mode_item_item1">Thanh lịch và tinh tế</string>
+<string name="kit_mode_item_item2">Tự nhiên và chân thực</string>
+<string name="kit_mode_item_title1">Chân dung chuyên nghiệp</string>
+<string name="kit_mode_item_title2">Chân dung Leica</string>
+
+<string name="live_convert_static_hint_description">Thao tác này sẽ chuyển ảnh thành ảnh thường. Bạn vẫn muốn tiếp tục?</string>
+<string name="live_convert_static_hint_title">Chuyển đổi khoảnh khắc động</string>
+
+<string name="live_edit_close_hint_description">Ảnh này đã được chuyển thành ảnh thường. Hoàn tác hoặc khôi phục ảnh gốc để lấy lại hiệu ứng động.</string>
+<string name="live_edit_close_hint_title">Không thể chỉnh hiệu ứng ảnh động</string>
+
+<string name="live_not_support_save_hint">Khoảnh khắc động này không hỗ trợ chỉnh hiệu ứng và đã được chuyển thành ảnh thường. Sẽ được lưu thành bản sao mới.</string>
+<string name="live_not_support_toast_hint">Khoảnh khắc động này không hỗ trợ chỉnh hiệu ứng và đã được chuyển thành ảnh thường</string>
+
+<string name="live_photo_guide_desc_edit_grade">Bạn có thể cắt, áp dụng bộ lọc và thêm watermark mà không làm mất hiệu ứng chuyển động</string>
+<string name="live_photo_guide_tittle_edit_grade">Chỉnh sửa khoảnh khắc động hoàn toàn mới</string>
+
+<string name="loading_text_format">Đang xóa thông tin riêng tư khỏi ảnh (%1$d/%2$d)…</string>
+
+<string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
+
+<string name="main_discard_change_message">Hủy tất cả thay đổi?</string>
+<string name="main_discard_change_positive">Hủy</string>
+
+<string name="main_discard_confirm_message_v2">Lưu thay đổi?</string>
+<string name="main_save_error_msg_v2">Không thể lưu. Hãy thử lại sau.</string>
+
+<string name="mark_doodle_paint_size">Độ dày nét vẽ: %s</string>
+<string name="mark_eraser_paint_size">Độ dày tẩy: %s</string>
+<string name="mark_mosaic_paint_size">Độ dày mosaic: %s</string>
+<string name="mark_palette_color_finish">Xong</string>
+
+<string name="marketSdkVersion">3.2.20-global</string>
+
+<string name="material_clock_display_divider">:</string>
+<string name="material_hour_24h_suffix">%1$s giờ</string>
+
+<string name="material_slider_range_end">Giá trị tối đa</string>
+<string name="material_slider_range_start">Giá trị tối thiểu</string>
+<string name="material_slider_value">Giá trị</string>
+
+<string name="more_menu_ai_compliance">Gắn nhãn nội dung AI</string>
+<string name="more_menu_appearance_setting">Giao diện</string>
+<string name="more_menu_copy_editing_points">Sao chép chỉnh sửa</string>
+<string name="more_menu_navigation_bar_setting">Điều hướng ứng dụng</string>
+<string name="more_menu_paste_editing_points">Dán chỉnh sửa</string>
+<string name="more_menu_plugin_management">Quản lý plug-in</string>
+<string name="more_menu_restore_to_original_image">Khôi phục ảnh gốc</string>
+<string name="more_menu_save_as_copy">Lưu bản sao</string>
+
+<string name="motion_photo_audio_off">Tắt âm thanh</string>
+<string name="motion_photo_audio_on">Bật âm thanh</string>
+<string name="motion_photo_cancel">Hủy</string>
+   <string name="motion_photo_decode_failed">Không thể thay đổi ảnh bìa cho khoảnh khắc động này</string>
+<string name="motion_photo_export_gif_limit">Không thể tạo GIF từ video dài hơn %d giây</string>
+<string name="motion_photo_re_pick_title">Khoảnh khắc động</string>
+
+<string name="motion_photo_save_fail">Không thể lưu</string>
+<string name="motion_photo_save_fail_v2">Không thể lưu. Hãy thử lại sau.</string>
+
+<string name="motion_photo_save_gif">Lưu dưới dạng GIF</string>
+<string name="motion_photo_save_gif_ing">Đang lưu GIF…</string>
+<string name="motion_photo_save_gif_ing_v2">Đang lưu. Không thoát hoặc khóa điện thoại.</string>
+
+<string name="motion_photo_save_image">Lưu ảnh đẹp nhất</string>
+<string name="motion_photo_save_image_ing">Đang lưu ảnh đẹp nhất…</string>
+<string name="motion_photo_save_image_ing_v2">Đang lưu. Không thoát hoặc khóa điện thoại.</string>
+
+<string name="motion_photo_save_video">Lưu dưới dạng video</string>
+<string name="motion_photo_save_video_ing">Đang lưu video…</string>
+<string name="motion_photo_save_video_ing_v2">Đang lưu. Không thoát hoặc khóa điện thoại.</string>
+
+<string name="motion_photo_toast_default">Mặc định</string>
+<string name="motion_photo_toast_long_press_play">Nhấn giữ ảnh để phát</string>
+<string name="motion_photo_toast_suggest">Đề xuất</string>
+
+<string name="motion_photo_video_bounce_effect">Nảy</string>
+<string name="motion_photo_video_bounce_ing">Đang áp dụng hiệu ứng nảy…</string>
+<string name="motion_photo_video_bounce_ing_v2">Đang áp dụng hiệu ứng nảy…</string>
+<string name="motion_photo_video_bounce_on">Đã áp dụng hiệu ứng nảy</string>
+
+<string name="motion_photo_video_reverse_effect">Đảo ngược</string>
+<string name="motion_photo_video_reverse_ing">Đang đảo ngược video…</string>
+<string name="motion_photo_video_reverse_ing_v2">Đang đảo ngược video…</string>
+<string name="motion_photo_video_reverse_on">Đã đảo ngược</string>
+
+<string name="motion_photo_video_transcode_ing">Đang chuyển mã video…</string>
+
+<string name="motion_photo_watermark_off">Đã tắt watermark</string>
+<string name="motion_photo_watermark_on">Đã bật watermark</string>
+
+<string name="movie_exit_full_screen_play">Thoát toàn màn hình</string>
+<string name="movie_full_screen_play">Xem toàn màn hình</string>
+
+<string name="msg_initialize_failed_and_reenter">Không thể khởi tạo plug-in. Hãy đóng và thử lại.</string>
+
+<string name="mtrl_checkbox_button_icon_path_group_name">biểu tượng</string>
+<string name="mtrl_checkbox_button_icon_path_name">đường dẫn biểu tượng</string>
+<string name="mtrl_checkbox_button_path_group_name">nút</string>
+<string name="mtrl_checkbox_button_path_name">đường dẫn nút</string>
+
+<string name="mtrl_checkbox_state_description_checked">Đã chọn</string>
+<string name="mtrl_checkbox_state_description_indeterminate">Chọn một phần</string>
+<string name="mtrl_checkbox_state_description_unchecked">Chưa chọn</string>
+
+<string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+
+<string name="mtrl_picker_announce_current_range_selection">Chọn ngày bắt đầu: %1$s – ngày kết thúc: %2$s</string>
+<string name="mtrl_picker_announce_current_selection_none">không có</string>
+<string name="mtrl_picker_cancel">Hủy</string>
+<string name="mtrl_picker_end_date_description">Ngày kết thúc %1$s</string>
+<string name="mtrl_picker_navigate_to_current_year_description">Chuyển đến năm hiện tại %1$d</string>
+<string name="mtrl_picker_start_date_description">Ngày bắt đầu %1$s</string>
+<string name="mtrl_picker_today_description">Hôm nay %1$s</string>
+
+<string name="mtrl_switch_thumb_path_name">hình tròn</string>
+
+<string name="mtrl_timepicker_cancel">Hủy</string>
+<string name="mtrl_timepicker_confirm">OK</string>
+
+<string name="nav_app_bar_navigate_up_description">Đi lên</string>
+<string name="nav_app_bar_open_drawer_description">Mở menu điều hướng</string>
+
+<string name="navigation_bar_setting_image_text">Biểu tượng</string>
+<string name="navigation_bar_setting_text">Văn bản</string>
+
+<string name="operation_hdr_string">Xem trước HDR: %s</string>
+
+<string name="permission_app_summary">Bạn có thể dùng Trình chỉnh sửa Thư viện để chỉnh sửa và làm đẹp ảnh, video. Khi dùng các dịch vụ AI trên một số thiết bị, ứng dụng cần truy cập ảnh đã chọn để xử lý.</string>
+
+<string name="photo_crop_talkback_dragging_bottom">Đang kéo</string>
+<string name="photo_crop_talkback_left_bottom_corner">Góc dưới bên trái vùng cắt</string>
+<string name="photo_crop_talkback_left_top_corner">Góc trên bên trái vùng cắt</string>
+<string name="photo_crop_talkback_right_bottom_corner">Góc dưới bên phải vùng cắt</string>
+<string name="photo_crop_talkback_right_top_corner">Góc trên bên phải vùng cắt</string>
+<string name="photo_crop_talkback_stop_bottom">Dừng</string>
+
+<string name="photo_editor_ai_beautify">Làm đẹp AI</string>
+<string name="photo_editor_ai_beautify_new_upgrade">Làm đẹp AI hoàn toàn mới</string>
+<string name="photo_editor_ai_beautify_process_error">Không thể làm đẹp. Hãy thử lại.</string>
+
+<string name="photo_editor_ai_beautify_user_guide_desc">Nhận diện thông minh các chi tiết ảnh và tối ưu tông màu
+Nâng tầm ảnh của bạn chỉ với một chạm</string>
+    <string name="photo_editor_ai_emote">Thay đổi biểu cảm</string>
+
+<string name="photo_editor_aicr_generation_failed_v2">Đã xảy ra lỗi. Hãy thử lại sau.</string>
+<string name="photo_editor_aicr_inpaint_invalid_image_v2">Ảnh này vi phạm quy định. Hãy thử ảnh khác.</string>
+<string name="photo_editor_aicr_low_battery_v2">Pin quá thấp. Hãy sạc thiết bị và thử lại.</string>
+<string name="photo_editor_aicr_outpaint_invalid_image_v2">Ảnh này vi phạm quy định. Hãy thử ảnh khác.</string>
+
+<string name="photo_editor_aicrmanager_change_tip">Tiến trình hiện tại sẽ không được lưu nếu bạn chuyển. Vẫn chuyển?</string>
+<string name="photo_editor_aicrmanager_common">Cơ bản</string>
+<string name="photo_editor_aicrmanager_delete_desc_v2">Xóa "%s" ngay?</string>
+
+<string name="photo_editor_aicrmanager_download_done_tip">Đã tải xong plug-in mô hình lớn. Chuyển sang phiên bản Pro? Tiến trình hiện tại sẽ không được lưu.</string>
+<string name="photo_editor_aicrmanager_installed">Đã cài đặt</string>
+<string name="photo_editor_aicrmanager_llm">Mô hình lớn</string>
+<string name="photo_editor_aicrmanager_notify_channel">Thông báo tải plug-in</string>
+<string name="photo_editor_aicrmanager_update">Cập nhật</string>
+
+<string name="photo_editor_aigc_ai_beautify_progress">Đang làm đẹp…</string>
+<string name="photo_editor_aigc_inpaint_progress">Đang xóa…</string>
+<string name="photo_editor_aigc_inpaint_progress_v2">Đang xóa…</string>
+<string name="photo_editor_aigc_outpaint_progress">Đang mở rộng ảnh…</string>
+<string name="photo_editor_aigc_outpaint_progress_v2">Đang mở rộng ảnh…</string>
+<string name="photo_editor_aigc_quality_improve_progress">Đang khôi phục ảnh…</string>
+<string name="photo_editor_aigc_quality_improve_progress_v2">Đang khôi phục ảnh…</string>
+
+<string name="photo_editor_auto_adjust_off_talkback">Đã tắt Làm đẹp AI</string>
+<string name="photo_editor_auto_adjust_on_talkback">Đã bật Làm đẹp AI</string>
+
+<string name="photo_editor_burst_shooting_save_dialog_msg">Ảnh chụp liên tiếp sẽ được lưu thành bản sao.</string>
+
+<string name="photo_editor_confirm">Chuyển</string>
+
+<string name="photo_editor_crop">Cắt</string>
+<string name="photo_editor_crop_ai_outpaint_name">Mở rộng</string>
+<string name="photo_editor_crop_outpaint_auto_name">Tự động</string>
+<string name="photo_editor_crop_outpaint_free_name">Tùy chỉnh</string>
+
+<string name="photo_editor_crop_outpaint_guide_desc">Thử tính năng mở rộng ảnh AI hoàn toàn mới!
+Giữ tỉ lệ gốc, chọn tỉ lệ riêng hoặc để AI quyết định.</string>
+
+<string name="photo_editor_crop_outpaint_name">Mở rộng ảnh AI</string>
+<string name="photo_editor_crop_outpaint_process_begin">Bắt đầu</string>
+<string name="photo_editor_crop_outpaint_process_tips">Đang tạo ảnh…</string>
+<string name="photo_editor_crop_outpaint_ratio_name">Theo tỉ lệ</string>
+
+<string name="photo_editor_crop_rotation_decimal_format">%s°</string>
+<string name="photo_editor_crop_size_former_latter">%1$d:%2$d</string>
+<string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
+
+<string name="photo_editor_dialog_checkbox_text">Không hiển thị lại</string>
+
+<string name="photo_editor_document_adjust">Cắt</string>
+<string name="photo_editor_document_adjust_area">Kéo để điều chỉnh</string>
+
+<string name="photo_editor_document_adjust_dialog">Các phần đã xóa sẽ xuất hiện lại sau khi cắt. Vẫn tiếp tục?</string>
+
+<string name="photo_editor_document_dehandwirte">Xóa chữ viết</string>
+<string name="photo_editor_document_dehandwirte_hand_mode">Xóa thủ công</string>
+<string name="photo_editor_document_demoire">Loại bỏ moiré</string>
+
+<string name="photo_editor_document_disable_dialog_msg">Ảnh này không hỗ trợ hiệu ứng tài liệu. Bạn có thể khôi phục bằng công cụ xóa hoặc ảnh gốc.</string>
+<string name="photo_editor_document_disable_dialog_title">Không thể chỉnh hiệu ứng tài liệu</string>
+
+<string name="photo_editor_document_effect">Hiệu ứng tài liệu</string>
+<string name="photo_editor_document_effect_bw">Đen trắng</string>
+<string name="photo_editor_document_effect_enhance">Tăng cường</string>
+<string name="photo_editor_document_effect_origin">Gốc</string>
+
+<string name="photo_editor_document_handwirte_close_dialog">Nếu tắt tính năng này, các phần đã xóa sẽ xuất hiện lại. Vẫn tắt?</string>
+<string name="photo_editor_document_handwirte_recover">Khôi phục</string>
+<string name="photo_editor_document_handwirte_remove">Xóa</string>
+
+<string name="photo_editor_document_intercept_dialog_msg">Bạn sẽ không thể chỉnh hiệu ứng tài liệu nếu dùng tính năng khác. Vẫn tiếp tục?</string>
+<string name="photo_editor_document_intercept_dialog_title">Chỉnh hiệu ứng tài liệu</string>
+
+<string name="photo_editor_document_not_support_toast">Ảnh này không hỗ trợ hiệu ứng tài liệu</string>
+<string name="photo_editor_document_off_toast">Không thể chỉnh hiệu ứng tài liệu</string>
+<string name="photo_editor_document_on_toast">Đã có thể chỉnh hiệu ứng tài liệu</string>
+
+<string name="photo_editor_document_preview">Xem trước</string>
+    <string name="photo_editor_document_rotate_left">Xoay trái</string>
+<string name="photo_editor_document_rotate_right">Xoay phải</string>
+<string name="photo_editor_document_undistortion">Làm thẳng</string>
+
+<string name="photo_editor_eliminate">Xóa phản chiếu</string>
+<string name="photo_editor_eliminate_done">Đã xóa phản chiếu</string>
+<string name="photo_editor_eliminate_notice_desc">Dễ dàng loại bỏ phản chiếu từ kính cửa sổ, tủ trưng bày và nhiều hơn nữa</string>
+<string name="photo_editor_eliminate_progress">Đang xóa phản chiếu…</string>
+
+<string name="photo_editor_enhancer_user_guide_desc">Thuật toán mô hình lớn mới giúp cải thiện độ rõ nét ảnh chỉ với một chạm</string>
+
+<string name="photo_editor_gallery_frame_dynamic_effects">Hiệu ứng động</string>
+<string name="photo_editor_gallery_frame_dynamic_effects_hint">Sau khi thêm hiệu ứng động, hãy xem trước trong mục khoảnh khắc động</string>
+<string name="photo_editor_gallery_frame_icon_gps">Tọa độ</string>
+<string name="photo_editor_gallery_frame_no_exif_v2">Không thể nhận diện thông số. Hãy thử ảnh khác.</string>
+<string name="photo_editor_gallery_frame_site_left">Trái</string>
+<string name="photo_editor_gallery_frame_site_right">Phải</string>
+<string name="photo_editor_gallery_frame_tab_disney">Disney</string>
+<string name="photo_editor_gallery_frame_tab_leica">Leica</string>
+
+<string name="photo_editor_idcard_adjust_button_talkback">Điều chỉnh vùng quét</string>
+<string name="photo_editor_idcard_emblem">Mặt sau</string>
+<string name="photo_editor_idcard_mode_title">Quét CMND/CCCD</string>
+<string name="photo_editor_idcard_portrait">Mặt trước</string>
+
+<string name="photo_editor_inpaint_progress">Đang xóa…%s</string>
+
+<string name="photo_editor_intoutpaint_name">Mở rộng ảnh AI/Xóa AI Pro</string>
+
+<string name="photo_editor_matting">Tách nền</string>
+<string name="photo_editor_matting_ai_background">Nền AI</string>
+<string name="photo_editor_matting_ai_create_bg">Đang tạo nền…</string>
+
+<string name="photo_editor_matting_brown_gray_sprinkle_gold">Nâu xám ánh kim</string>
+<string name="photo_editor_matting_chestnut_brown_sprinkle_gold">Nâu ánh kim</string>
+
+<string name="photo_editor_matting_create_background">Nhập nền bạn muốn (ví dụ: núi, sa mạc)</string>
+<string name="photo_editor_matting_create_desert">Sa mạc</string>
+<string name="photo_editor_matting_create_seaside">Biển</string>
+<string name="photo_editor_matting_create_title">Tạo nền</string>
+
+<string name="photo_editor_matting_deep_red_sprinkle_gold">Đỏ đậm ánh kim</string>
+<string name="photo_editor_matting_fruit_pattern">Trái cây</string>
+<string name="photo_editor_matting_get_rich">Phát tài</string>
+
+<string name="photo_editor_matting_gradient_1">Gradient %1$d</string>
+<string name="photo_editor_matting_gradient_2">Gradient %1$d</string>
+<string name="photo_editor_matting_gradient_3">Gradient %1$d</string>
+<string name="photo_editor_matting_gradient_4">Gradient %1$d</string>
+<string name="photo_editor_matting_gradient_5">Gradient %1$d</string>
+<string name="photo_editor_matting_gradient_6">Gradient %1$d</string>
+
+<string name="photo_editor_matting_gray_blue_sprinkle_gold">Xanh xám ánh kim</string>
+<string name="photo_editor_matting_gray_brush">Nét cọ xám</string>
+<string name="photo_editor_matting_great_fortune">Đại cát</string>
+
+<string name="photo_editor_matting_input_background">Nhập ảnh</string>
+
+<string name="photo_editor_matting_light_blue">Xanh nhạt</string>
+<string name="photo_editor_matting_light_blue_brush">Nét cọ xanh</string>
+<string name="photo_editor_matting_light_green">Xanh lá nhạt</string>
+<string name="photo_editor_matting_light_green_brush">Nét cọ xanh lá</string>
+<string name="photo_editor_matting_light_orange">Cam nhạt</string>
+<string name="photo_editor_matting_light_pink">Hồng nhạt</string>
+<string name="photo_editor_matting_light_purple">Tím nhạt</string>
+<string name="photo_editor_matting_light_yellow">Vàng nhạt</string>
+<string name="photo_editor_matting_light_yellow_brush">Nét cọ vàng</string>
+
+<string name="photo_editor_matting_monochrome_comic_frame">Truyện tranh trắng đen</string>
+<string name="photo_editor_matting_ootd_style">OOTD</string>
+<string name="photo_editor_matting_pink_brush">Nét cọ hồng</string>
+<string name="photo_editor_matting_pink_comic_frame">Truyện tranh hồng</string>
+
+<string name="photo_editor_matting_progress">Đang lấp vùng trống…</string>
+
+<string name="photo_editor_matting_sapphire_blue_sprinkle_gold">Xanh sapphire ánh kim</string>
+<string name="photo_editor_matting_smooth_sailing">Thuận buồm xuôi gió</string>
+<string name="photo_editor_matting_snowy_mountain">Núi</string>
+
+<string name="photo_editor_matting_type_color">Màu đơn</string>
+<string name="photo_editor_matting_type_fresh">Kết cấu</string>
+<string name="photo_editor_matting_type_fun">Thiết kế</string>
+<string name="photo_editor_matting_type_glitter">Ánh kim</string>
+<string name="photo_editor_matting_type_gradient">Chuyển màu</string>
+
+<string name="photo_editor_matting_underwater">Sứa</string>
+<string name="photo_editor_matting_wave_texture">Sóng</string>
+<string name="photo_editor_matting_wishes_come_true">Điều ước thành hiện thực</string>
+<string name="photo_editor_matting_yellow_brown_sprinkle_gold">Vàng nâu ánh kim</string>
+
+<string name="photo_editor_miui_beauty_no_face_v2">Không phát hiện khuôn mặt. Hãy thử ảnh khác.</string>
+
+<string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Tải %s cần khoảng %2$d MB dữ liệu di động. Tải ngay?</string>
+<string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Bạn không kết nối Wi-Fi. Dùng %1$d MB dữ liệu di động để tải plug-in?</string>
+
+<string name="photo_editor_navigator_tab_title_ai_pro">AI</string>
+<string name="photo_editor_navigator_tab_title_document">Tài liệu</string>
+
+<string name="photo_editor_no_permission_save_dialog_msg">Không thể lưu vào thư mục này. Ảnh sẽ được lưu thành bản sao.</string>
+
+<string name="photo_editor_outpaint_progress">Đang mở rộng…%s</string>
+<string name="photo_editor_paste_cancel_text">Đang hủy…</string>
+
+<string name="photo_editor_perspective_edit">Chỉnh tự do</string>
+
+<string name="photo_editor_privacy_cancel">Không đồng ý</string>
+<string name="photo_editor_privacy_confirm">Đồng ý</string>
+<string name="photo_editor_privacy_negative">Thoát</string>
+<string name="photo_editor_privacy_notice">Thông báo quyền riêng tư</string>
+<string name="photo_editor_privacy_positive">Đồng ý</string>
+    <string name="photo_editor_privacy_tip_ai">Trước khi sử dụng các tính năng AI, vui lòng đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách quyền riêng tư tính năng AI của Trình chỉnh sửa Thư viện&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận người dùng tính năng AI của Trình chỉnh sửa Thư viện&lt;/a&gt;.</string>
+
+<string name="photo_editor_privacy_tip_below">&lt;br&gt;&lt;br&gt;&lt;small&gt;*Do tính ngẫu nhiên của thuật toán, bạn sẽ đạt kết quả tốt nhất khi sử dụng ảnh có chủ thể hiển thị đầy đủ.&lt;/small&gt;</string>
+
+<string name="photo_editor_privacy_tip_outpaint">Vui lòng đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách quyền riêng tư Mở rộng ảnh AI&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận người dùng Mở rộng ảnh AI&lt;/a&gt; trước khi sử dụng.</string>
+
+<string name="photo_editor_privacy_tip_rmpro">Vui lòng đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách quyền riêng tư AI Erase Pro&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận người dùng AI Erase Pro&lt;/a&gt; trước khi sử dụng.</string>
+
+<string name="photo_editor_privacy_tip_virtualization">Chào mừng bạn đến với AI Image và các dịch vụ liên quan!&lt;br&gt;Để cung cấp các tính năng và dịch vụ cơ bản, chúng tôi cần thu thập và sử dụng một số thông tin cá nhân cần thiết.&lt;br&gt;Khi sử dụng tính năng AI Image, bạn cần tải lên ảnh có người. Chúng tôi sẽ xử lý thông tin khuôn mặt trên thiết bị của bạn và sử dụng để tạo ảnh AI.&lt;br&gt;Chúng tôi chỉ thu thập thông tin cần thiết để cung cấp dịch vụ. Để biết chi tiết cách thu thập và sử dụng dữ liệu, vui lòng tham khảo Chính sách quyền riêng tư AI Image.&lt;br&gt;Vui lòng đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận người dùng AI Image&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách quyền riêng tư AI Image&lt;/a&gt; trước khi tiếp tục.</string>
+
+<string name="photo_editor_privacy_title">Lưu ý</string>
+
+<string name="photo_editor_quality_improve">Nâng cao</string>
+<string name="photo_editor_quality_improve_progress">Đang nâng cao…%s</string>
+
+<string name="photo_editor_quality_off_talkback">Đã tắt Ultra HD</string>
+<string name="photo_editor_quality_on_talkback">Đã bật Ultra HD</string>
+
+<string name="photo_editor_remove_glare">Xóa lóa</string>
+<string name="photo_editor_remove_glare_done">Đã xóa lóa</string>
+<string name="photo_editor_remove_glare_notice_desc">Chạm để loại bỏ hiện tượng lóa ống kính như flare cánh hoa, vệt sáng và bóng ma</string>
+
+<string name="photo_editor_remover2_choose">Chọn phiên bản</string>
+
+<string name="photo_editor_remover2_download_failed_msg_v2">Không thể tải xuống. Kiểm tra mạng và thử lại.</string>
+<string name="photo_editor_remover2_download_failed_v2">Không thể tải xuống. Kiểm tra mạng và thử lại.</string>
+
+<string name="photo_editor_remover2_download_sdk_without_wifi_msg_v2">Bạn đang dùng dữ liệu di động. Tải xuống sẽ dùng %d MB. Tải ngay?</string>
+<string name="photo_editor_remover2_download_with_metered_network_msg_v2">Bạn đang dùng dữ liệu di động. Tải xuống sẽ dùng %d MB. Tải ngay?</string>
+
+<string name="photo_editor_remover2_no_people_to_remover_v2">Không phát hiện người. Hãy thử ảnh khác.</string>
+<string name="photo_editor_remover2_people_removering_v2">Đang xóa…</string>
+
+<string name="photo_editor_remover2_pro">Pro</string>
+<string name="photo_editor_remover2_pro_tip">Thuật toán AIGC cho các trường hợp phức tạp</string>
+
+<string name="photo_editor_remover2_standard">Tiêu chuẩn</string>
+<string name="photo_editor_remover2_standard_tip">Công cụ nhanh hơn cho ảnh đơn giản</string>
+
+<string name="photo_editor_remover2_toast_no_things_v2">Không phát hiện đối tượng. Hãy thử ảnh khác.</string>
+
+<string name="photo_editor_remover_pro_desc">AI Erase Pro giờ còn mạnh mẽ hơn!
+Chọn Pro để sử dụng.</string>
+
+<string name="photo_editor_remover_pro_inpainting">Đang xóa…</string>
+<string name="photo_editor_remover_pro_select_all_people">Chọn tất cả</string>
+<string name="photo_editor_remover_pro_start_remove">Bắt đầu</string>
+
+<string name="photo_editor_remover_pro_toast_circle_objects">Khoanh vùng đối tượng cần xóa</string>
+<string name="photo_editor_remover_pro_toast_paint_area">Tô vùng cần xóa</string>
+<string name="photo_editor_remover_pro_toast_paint_line">Vẽ đường cần xóa</string>
+<string name="photo_editor_remover_pro_toast_select_people">Chọn người cần xóa</string>
+
+<string name="photo_editor_remover_pro_type">Xóa chuyên nghiệp</string>
+
+<string name="photo_editor_restore_image_button_msg">Khôi phục ảnh gốc sẽ xóa mọi chỉnh sửa. Vẫn tiếp tục?</string>
+<string name="photo_editor_restore_image_button_text">Khôi phục</string>
+<string name="photo_editor_restore_image_dialog_title">Khôi phục ảnh gốc</string>
+
+<string name="photo_editor_save_option_dialog_cover_origin">Ghi đè</string>
+<string name="photo_editor_save_option_dialog_description_cover_origin">Bản sao: Tạo ảnh mới nhưng không lưu chỉnh sửa.</string>
+<string name="photo_editor_save_option_dialog_description_cover_origin_v2">Ghi đè: Thay thế ảnh gốc và có thể khôi phục sau.</string>
+
+<string name="photo_editor_save_option_dialog_description_save_as_copy">Ghi đè: Giữ một số chỉnh sửa và có thể khôi phục ảnh gốc.</string>
+<string name="photo_editor_save_option_dialog_description_save_as_copy_v2">Bản sao: Tạo ảnh mới không kèm chỉnh sửa.</string>
+
+<string name="photo_editor_save_option_dialog_description_setting_path">Bạn có thể thay đổi trong Thêm &gt; Cài đặt tính năng &gt; Tùy chọn lưu.</string>
+<string name="photo_editor_save_option_dialog_title">Chọn cách lưu</string>
+
+<string name="photo_editor_save_quality_100_percent">100%</string>
+<string name="photo_editor_save_quality_20_percent">20%</string>
+<string name="photo_editor_save_quality_40_percent">40%</string>
+<string name="photo_editor_save_quality_60_percent">60%</string>
+<string name="photo_editor_save_quality_80_percent">80%</string>
+
+<string name="photo_editor_setting_algorithm_info_audio_large_model_1_algorithm_name">Thuật toán mô hình lớn tạo âm thanh Xiaomi-1</string>
+<string name="photo_editor_setting_algorithm_info_audio_large_model_1_record_number">网信算备110108916280901250103号</string>
+
+<string name="photo_editor_setting_algorithm_info_image_large_model_1_algorithm_name">Tên: Thuật toán mô hình lớn hình ảnh Xiaomi-1</string>
+<string name="photo_editor_setting_algorithm_info_image_large_model_1_algorithm_name_v2">Thuật toán mô hình lớn hình ảnh Xiaomi-1</string>
+
+<string name="photo_editor_setting_algorithm_info_image_large_model_1_record_number">Mã đăng ký: 网信算备110108340172001240033号</string>
+<string name="photo_editor_setting_algorithm_info_image_large_model_1_record_number_v2">网信算备110108340172001240033号</string>
+
+<string name="photo_editor_setting_algorithm_info_image_large_model_1_subject_name">Đơn vị: 美卓软件设计（北京）有限公司</string>
+
+<string name="photo_editor_setting_algorithm_info_image_large_model_algorithm_name">Tên: Thuật toán mô hình lớn hình ảnh Xiaomi</string>
+<string name="photo_editor_setting_algorithm_info_image_large_model_record_number">Mã đăng ký: 网信算备110108916280901240029号</string>
+<string name="photo_editor_setting_algorithm_info_image_large_model_record_number_v2">网信算备110108916280901240029号</string>
+<string name="photo_editor_setting_algorithm_info_image_large_model_subject_name">Đơn vị: Beijing Xiaomi Mobile Software Co., Ltd.</string>
+
+<string name="photo_editor_setting_algorithm_info_language_large_model_1_record_number">网信算备110108916280901240011号</string>
+<string name="photo_editor_setting_algorithm_info_language_large_model_record_number">Beijing-XiaoMi-202404280002</string>
+
+<string name="photo_editor_setting_algorithm_info_name">Tên: %1$s</string>
+
+<string name="photo_editor_setting_algorithm_info_pengpai_image_algorithm_name">Tên: Xiaomi Pengpai Imaging</string>
+<string name="photo_editor_setting_algorithm_info_pengpai_image_record_number">Mã đăng ký: Beijing-XiaoMiPengPaiYingXiang-202506250091</string>
+<string name="photo_editor_setting_algorithm_info_pengpai_image_record_number_v2">Beijing-XiaoMiPengPaiYingXiang-202506250091</string>
+
+<string name="photo_editor_setting_algorithm_info_pengpai_vision_algorithm_name">Tên: Xiaomi Pengpai Vision</string>
+<string name="photo_editor_setting_algorithm_info_pengpai_vision_record_number">Mã đăng ký: Beijing-XiaoMiPengPaiShiJue-202503180057</string>
+<string name="photo_editor_setting_algorithm_info_pengpai_vision_record_number_v2">Beijing-XiaoMiPengPaiShiJue-202503180057</string>
+
+<string name="photo_editor_setting_algorithm_info_record_number">Mã đăng ký: %1$s</string>
+
+<string name="photo_editor_setting_algorithm_info_video_large_model_1_algorithm_name">Thuật toán mô hình lớn tạo video Xiaomi-1</string>
+<string name="photo_editor_setting_algorithm_info_video_large_model_1_record_number">网信算备110108916280901240061号</string>
+
+<string name="photo_editor_setting_revoke_privacy_dialog_confirm_with_countdown">Thu hồi (%1$d)</string>
+<string name="photo_editor_setting_revoke_privacy_dialog_msg">Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Trình chỉnh sửa Thư viện. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn và các dữ liệu đã thu thập sẽ được xóa trong thời gian quy định theo pháp luật hiện hành. Vì ứng dụng cần dữ liệu cá nhân để cung cấp dịch vụ, việc rút lại sự đồng ý đồng nghĩa với việc bạn từ chối sử dụng các dịch vụ này. Rút lại sự đồng ý ngay bây giờ?</string>
+<string name="photo_editor_setting_revoke_privacy_dialog_title">Rút lại sự đồng ý</string>
+<string name="photo_editor_setting_title_appearance">Giao diện</string>
+<string name="photo_editor_setting_title_check_privacy_policy">Chính sách quyền riêng tư</string>
+<string name="photo_editor_setting_title_check_user_agreement">Thỏa thuận người dùng</string>
+<string name="photo_editor_setting_title_main">Cài đặt tính năng</string>
+<string name="photo_editor_setting_title_navigator_style">Tùy chọn trang bắt đầu</string>
+<string name="photo_editor_setting_title_others_setting">Cài đặt bổ sung</string>
+<string name="photo_editor_setting_title_picture_size">Kích thước ảnh</string>
+<string name="photo_editor_setting_title_record_information">Đăng ký thuật toán</string>
+<string name="photo_editor_setting_title_revoke_privacy_policy">Rút lại sự đồng ý</string>
+<string name="photo_editor_setting_title_revoke_privacy_policy_dialog_msg">Đang rút lại sự đồng ý…</string>
+<string name="photo_editor_talkback_filter_contract">Ẩn bộ lọc</string>
+<string name="photo_editor_talkback_filter_expand">Hiện bộ lọc</string>
+<string name="photo_editor_talkback_fold_button">Thu gọn</string>
+<string name="photo_editor_talkback_mark_doodle">Vẽ nguệch ngoạc</string>
+<string name="photo_editor_talkback_mark_eraser">Tẩy</string>
+<string name="photo_editor_talkback_mark_mosaic">Khảm</string>
+<string name="photo_editor_talkback_mark_shape">Hình dạng</string>
+<string name="photo_editor_talkback_mark_signature">Chữ ký</string>
+<string name="photo_editor_timing_burst_shooting_save_dialog_msg">Ảnh chụp liên tiếp theo thời gian sẽ được lưu dưới dạng bản sao.</string>
+<string name="photo_editor_tips_copy_error">Không thể sao chép</string>
+<string name="photo_editor_tips_no_copy_points">Không có điểm chỉnh sửa hợp lệ</string>
+<string name="photo_editor_tips_paste_error">Không thể dán</string>
+<string name="photo_editor_tips_restore_error">Không thể khôi phục</string>
+<string name="photo_editor_video_generation_cache_origin_dialog_msg">Nếu bạn tiếp tục, bạn sẽ được chuyển đến tính năng hiệu ứng Tết Nguyên Đán và không thể quay lại trang này để tiếp tục chỉnh sửa. Tiếp tục?</string>
+<string name="photo_editor_video_generation_cache_origin_dialog_msg_v2">Nếu bạn tiếp tục, bạn sẽ được chuyển đến tính năng hiệu ứng Tết Nguyên Đán và không thể quay lại trang này để tiếp tục chỉnh sửa. Các chỉnh sửa hiện tại sẽ được lưu thành ảnh mới. Tiếp tục?</string>
+<string name="photo_editor_video_generation_cache_origin_dialog_title">Chú ý</string>
+<string name="photo_editor_video_generation_export">Lưu vào Thư viện</string>
+<string name="photo_editor_video_generation_export_again">Tạo lại</string>
+<string name="photo_editor_video_generation_export_live">Lưu thành Live moment</string>
+<string name="photo_editor_video_generation_export_video">Lưu video vào Thư viện</string>
+<string name="photo_editor_video_generation_loading_page_background">Tải nền</string>
+<string name="photo_editor_video_generation_loading_page_fail">Không thể tải trang. Thử lại</string>
+<string name="photo_editor_video_generation_loading_page_retry">Thử lại</string>
+<string name="photo_editor_video_generation_loading_page_time_out">Không thể tải. Kiểm tra kết nối mạng.</string>
+<string name="photo_editor_video_generation_spring_festival">Hiệu ứng Tết Nguyên Đán</string>
+<string name="photo_editor_video_generation_spring_festival_blessing_dialog_hint">Nhập tối đa %1$d ký tự để tạo bài thơ</string>
+<string name="photo_editor_video_generation_spring_festival_blessing_dialog_title">Tùy chỉnh bài thơ</string>
+<string name="photo_editor_video_generation_spring_festival_blessing_poem">Bài thơ tùy chỉnh</string>
+<string name="photo_editor_video_generation_spring_festival_card">Thiệp</string>
+<string name="photo_editor_video_generation_spring_festival_card_blessing_null">Không có lời chúc</string>
+<string name="photo_editor_video_generation_spring_festival_card_blessing_random">Lời chúc ngẫu nhiên</string>
+<string name="photo_editor_video_generation_spring_festival_card_illegal_input_toast">Nội dung có thể vi phạm quy định. Thử lại.</string>
+<string name="photo_editor_video_generation_spring_festival_end_toast">Tính năng này không khả dụng</string>
+<string name="photo_editor_video_generation_spring_festival_exceed_task_limit_toast">Hãy đợi tác vụ hiện tại hoàn tất trước khi thêm mới</string>
+<string name="photo_editor_video_generation_spring_festival_function_invalid_toast">Lỗi máy chủ. Kiểm tra ngày giờ hoặc kết nối mạng.</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_correct">Ví dụ đúng</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_cover_face">Mặt bị che</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_several_heads">Nhiều đối tượng</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_side_face">Mặt nghiêng hoặc quay lệch</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_small_head">Chủ thể quá nhỏ</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_tip">Để có kết quả tốt hơn, hãy tải ảnh rõ nét, chính diện:</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_tip_for_people">Đối với video hoặc thiệp, tải ảnh rõ nét, chính diện của một người</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_tip_for_pet">Đối với nội dung thú cưng, tải ảnh rõ nét, chính diện của một con vật</string>
+<string name="photo_editor_video_generation_spring_festival_guide_dialog_title">Hướng dẫn</string>
+<string name="photo_editor_video_generation_spring_festival_introduction">Hiệu ứng Tết Nguyên Đán đã có. Tạo video, thiệp hoặc lời chúc theo chủ đề thú cưng cho mùa lễ hội.</string>
+<string name="photo_editor_video_generation_spring_festival_introduction_enter">Thử</string>
+<string name="photo_editor_video_generation_spring_festival_no_pet_toast">Không nhận diện được thú cưng. Thử lại.</string>
+<string name="photo_editor_video_generation_spring_festival_notification_channel_name">Hiệu ứng Tết Nguyên Đán</string>
+<string name="photo_editor_video_generation_spring_festival_notification_complete_msg">Bạn có %d tác vụ đã hoàn thành. Nhấn để xem.</string>
+<string name="photo_editor_video_generation_spring_festival_notification_complete_title">Tạo thành công</string>
+<string name="photo_editor_video_generation_spring_festival_notification_fail_msg">Nhấn để tạo lại</string>
+<string name="photo_editor_video_generation_spring_festival_notification_fail_title">Không thể tạo</string>
+<string name="photo_editor_video_generation_spring_festival_notification_processing_msg">Nhấn để xem tiến trình</string>
+<string name="photo_editor_video_generation_spring_festival_notification_processing_title">Đang tạo hiệu ứng Tết…%s</string>
+<string name="photo_editor_video_generation_spring_festival_notification_time_out_msg">Kiểm tra kết nối mạng</string>
+<string name="photo_editor_video_generation_spring_festival_notification_time_out_title">Hết thời gian xử lý</string>
+<string name="photo_editor_video_generation_spring_festival_pet">Thú cưng</string>
+<string name="photo_editor_video_generation_spring_festival_single_pet_toast">Hãy tải ảnh chỉ có một thú cưng rồi thử lại</string>
+<string name="photo_editor_video_generation_spring_festival_tasks_empty_hint">Chưa có gì ở đây</string>
+<string name="photo_editor_video_generation_spring_festival_tasks_notice">Hiệu ứng Tết Nguyên Đán là tính năng giới hạn thời gian.
+Sẽ không còn khả dụng sau %s.</string>
+<string name="photo_editor_video_generation_spring_festival_video">Video</string>
+   <string name="photo_editor_video_generation_spring_festival_video_voice">Giọng nói</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_daily_female">Giọng nữ trung tính</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_daily_male">Giọng nam trung tính</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_dialog_positive">Thêm</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_dialog_title">Chọn giọng nói</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_lively_female">Giọng nữ vui tươi</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_lively_male">Giọng nam vui tươi</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_null">Không có giọng</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_random">Giọng ngẫu nhiên</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_warm_female">Giọng nữ ấm áp</string>
+<string name="photo_editor_video_generation_spring_festival_video_voice_warm_male">Giọng nam ấm áp</string>
+<string name="photo_editor_video_generation_success">Tạo thành công</string>
+<string name="photo_editor_video_generation_tasks">Tác vụ gần đây</string>
+<string name="photo_editor_video_generation_tasks_button_check">Xem</string>
+<string name="photo_editor_video_generation_tasks_button_queuing">Đang chờ…</string>
+<string name="photo_editor_video_generation_tasks_button_retry">Thử lại</string>
+<string name="photo_editor_video_generation_tasks_delete_dialog_msg">Xóa mục này ngay?</string>
+<string name="photo_editor_video_generation_tasks_header_completed">Hoàn tất (%d)</string>
+<string name="photo_editor_video_generation_tasks_header_failed">Không thể xử lý (%d)</string>
+<string name="photo_editor_video_generation_tasks_header_processing">Đang xử lý (%d)</string>
+<string name="photo_editor_virtualization">Ảnh AI</string>
+<string name="photo_editor_water_mark">Hình mờ</string>
+<string name="photo_guide_desc_copy_batch_edit">Sao chép và dán các chỉnh sửa (ví dụ: cắt, điều chỉnh, bộ lọc, hình mờ) sang ảnh khác. Bạn cũng có thể áp dụng cho nhiều ảnh cùng lúc.</string>
+<string name="photo_guide_desc_layout_new_change">Chế độ sáng và bố cục mới giúp cải thiện trải nghiệm chỉnh sửa.</string>
+<string name="photo_guide_desc_mark_new_change">Kết hợp vẽ, khảm, văn bản và nhãn dán để đánh dấu dễ dàng hơn.</string>
+<string name="photo_guide_desc_new_save">Lưu ảnh đã chỉnh sửa dưới dạng bản sao hoặc ghi đè ảnh gốc nhưng vẫn giữ toàn bộ chỉnh sửa. Bạn có thể khôi phục ảnh gốc sau.</string>
+<string name="photo_guide_desc_quality_enhance_refresh">Nhận ảnh siêu nét với chi tiết chân dung rõ ràng hơn.</string>
+<string name="photo_guide_desc_remove_glare">Chạm để xóa lóa ống kính, bao gồm flare hình cánh hoa, sọc sáng và bóng mờ</string>
+<string name="photo_guide_desc_smart_beauty_new_change">Điều chỉnh nhanh các thông số như phơi sáng, độ bão hòa và tương phản để tạo ảnh ấn tượng.</string>
+<string name="photo_guide_desc_watermark_new_change">Chọn nhiều kiểu hình mờ và tỷ lệ khung để chỉnh sửa hiệu quả hơn.</string>
+<string name="photo_guide_title_remove_glare">Xóa lóa</string>
+<string name="photo_guide_tittle_copy_batch_edit">Chỉnh sửa hàng loạt</string>
+<string name="photo_guide_tittle_mark_new_change">Đánh dấu mới</string>
+<string name="photo_guide_tittle_new_save">Tùy chọn lưu mới</string>
+<string name="photo_guide_tittle_quality_enhance_new_change">Ultra HD mới</string>
+<string name="photo_guide_tittle_smart_beauty_new_change">Làm đẹp AI</string>
+<string name="photo_guide_tittle_watermark_new_change">Hình mờ nâng cấp</string>
+<string name="photo_live_photo_effect_bounce">Nảy</string>
+<string name="photo_live_photo_effect_none">Không hiệu ứng</string>
+<string name="photo_live_photo_effect_reverse">Phát ngược</string>
+<string name="photo_mark_doodle_hint">Nhấn lại để xem thêm tùy chọn</string>
+<string name="photo_navi_mark_hint">Thêm vẽ, văn bản, khảm và nhãn dán tại đây</string>
+<string name="photo_portrait_color_download_fail_v2">Không thể tải. Kiểm tra kết nối mạng và thử lại.</string>
+<string name="photo_portrait_color_no_face_v2">Không phát hiện người</string>
+<string name="photo_portrait_download_sdk_without_wifi_msg_v2">Bạn đang dùng dữ liệu di động. Tải mục này sẽ dùng %d MB dữ liệu. Tải ngay?</string>
+<string name="photo_watermark_tab_name_camera">Hình mờ</string>
+<string name="photo_watermark_tab_name_film">Film</string>
+<string name="photo_watermark_tab_name_frame">Khung</string>
+<string name="photo_watermark_tab_name_limited_event">Sự kiện</string>
+<string name="photo_watermark_tab_name_picture_frame">Khung ảnh</string>
+<string name="photo_watermark_tab_name_sports">Thể thao</string>
+<string name="photo_watermark_talkback_button_none">Không có hình mờ</string>
+<string name="pref_camera_watermark_on_brief">P_~</string>
+<string name="pref_privacy_watermark_edit_clear_history">Xóa lịch sử</string>
+<string name="pref_privacy_watermark_edit_history">Lịch sử</string>
+<string name="pref_watermark_preview_title">Xem trước hình mờ</string>
+<string name="pref_watermark_setting_page_title">Cài đặt hình mờ</string>
+<string name="pref_watermark_switch_main_title">Hình mờ ảnh</string>
+<string name="pref_wm_add_icon">Thêm hình mờ</string>
+<string name="pref_wm_add_signature">Thêm chữ ký hình mờ</string>
+<string name="pref_wm_address_title">Vị trí</string>
+<string name="pref_wm_border_location_title">Vị trí viền</string>
+<string name="pref_wm_content_scaled_title">Kích thước nội dung</string>
+<string name="pref_wm_content_transparency_title">Độ trong suốt</string>
+<string name="pref_wm_custom_icon_delete_desc">Xóa hình mờ tùy chỉnh %d</string>
+<string name="pref_wm_custom_icon_item_desc">Hình mờ tùy chỉnh %d</string>
+<string name="pref_wm_custom_image_title">Hình ảnh</string>
+<string name="pref_wm_custom_signature_delete_desc">Xóa chữ ký hình mờ %d</string>
+<string name="pref_wm_custom_signature_item_desc">Chữ ký hình mờ %d</string>
+<string name="pref_wm_custom_signature_title">Chữ ký</string>
+<string name="pref_wm_custom_text_title">Văn bản tùy chỉnh</string>
+<string name="pref_wm_default_icon">Hình mờ mặc định</string>
+    <string name="pref_wm_default_signature">Chữ ký hình mờ mặc định</string>
+<string name="pref_wm_dynamic_background_summary_title">Hiển thị nền khung động cho Live moment</string>
+<string name="pref_wm_dynamic_background_title">Nền động</string>
+<string name="pref_wm_dynamic_effect_summary_title">Hiệu ứng hình mờ động chỉ khả dụng cho Live moment. Sau khi thêm, bạn có thể xem trước trên trang Live moment.</string>
+<string name="pref_wm_dynamic_effect_title">Hiệu ứng động</string>
+<string name="pref_wm_frame_background_title">Nền khung</string>
+<string name="pref_wm_frame_image_title">Ảnh hình mờ</string>
+<string name="pref_wm_greeting_content_title">Lời chúc</string>
+<string name="pref_wm_greeting_title">Tin nhắn ngày lễ</string>
+<string name="pref_wm_hf_banned_tip">Ảnh này không đáp ứng yêu cầu. Hãy thay ảnh khác và thử lại.</string>
+<string name="pref_wm_hf_loading_identity_tip">Đang nhận diện chữ ký…</string>
+<string name="pref_wm_hf_loading_saving_tip">Đang lưu…</string>
+<string name="pref_wm_hf_network_disable_tip">Lỗi mạng. Kiểm tra kết nối và thử lại</string>
+<string name="pref_wm_latlng_switch_title">Tọa độ</string>
+<string name="pref_wm_layout_h_left">Căn trái</string>
+<string name="pref_wm_layout_h_middle">Căn giữa</string>
+<string name="pref_wm_layout_h_right">Căn phải</string>
+<string name="pref_wm_layout_type_title">Kiểu bố cục</string>
+<string name="pref_wm_layout_v_bottom">Căn dưới</string>
+<string name="pref_wm_layout_v_center">Căn giữa</string>
+<string name="pref_wm_layout_v_top">Căn trên</string>
+<string name="pref_wm_location_network_disable_tip">Kết nối mạng để định vị chính xác hơn</string>
+<string name="pref_wm_mix_text_1_title">Văn bản %d</string>
+<string name="pref_wm_mix_text_2_title">Văn bản %d</string>
+<string name="pref_wm_mix_text_entry_0">Không hiển thị</string>
+<string name="pref_wm_mix_text_entry_1">Thời gian</string>
+<string name="pref_wm_mix_text_entry_2">Tọa độ</string>
+<string name="pref_wm_mix_text_entry_3">Văn bản tùy chỉnh</string>
+<string name="pref_wm_mix_text_entry_4">Thông số</string>
+<string name="pref_wm_model_title">Thiết bị</string>
+<string name="pref_wm_off_icon">Tắt hình mờ</string>
+<string name="pref_wm_off_signature">Tắt chữ ký hình mờ</string>
+<string name="pref_wm_photo_parameter_title">Thông số ống kính</string>
+<string name="pref_wm_position_entry_0">Không hiển thị</string>
+<string name="pref_wm_position_entry_1">Tọa độ</string>
+<string name="pref_wm_position_entry_2">Vị trí</string>
+<string name="pref_wm_position_title">Vị trí</string>
+<string name="pref_wm_setting_least_one_open_tip">Giữ ít nhất một tùy chọn được bật</string>
+<string name="pref_wm_signature_mode_hand">Viết tay</string>
+<string name="pref_wm_signature_mode_keyboard">Nhập bàn phím</string>
+<string name="pref_wm_signature_mode_picture">Trích xuất từ ảnh</string>
+<string name="pref_wm_time_title">Thời gian</string>
+<string name="pref_wm_weather_title">Thời tiết</string>
+<string name="refocus_effect">Làm mờ</string>
+<string name="refocus_live_apply_origin">Hiệu ứng làm mờ sẽ được áp dụng cho ảnh bìa gốc</string>
+<string name="refocus_live_disable_hint_content">Nếu dùng chỉnh sửa này, bạn sẽ không thể điều chỉnh độ mờ và ảnh động sẽ chuyển thành ảnh thường. Tiếp tục?</string>
+<string name="refocus_live_disable_hint_title">Giới hạn chỉnh sửa</string>
+<string name="refocus_live_switch_off">Đã chuyển thành ảnh thường. Không thể điều chỉnh độ mờ.</string>
+<string name="refocus_live_switch_on">Đã khôi phục ảnh động và tùy chỉnh độ mờ</string>
+<string name="refocus_photo_not_support">Không thể điều chỉnh độ mờ cho ảnh này</string>
+<string name="refocus_reset_content">Việc chỉnh lại độ mờ sẽ xóa tất cả chỉnh sửa hiện tại. Tiếp tục?</string>
+<string name="refocus_reset_title">Xóa chỉnh sửa</string>
+<string name="refocus_switch_disable_content">Ảnh này không còn hỗ trợ chỉnh độ mờ. Bạn có thể hoàn tác hoặc khôi phục ảnh gốc để chỉnh lại.</string>
+<string name="refocus_switch_disable_title">Không thể chỉnh độ mờ</string>
+<string name="refocus_switch_off">Bạn không thể chỉnh độ mờ nữa</string>
+<string name="refocus_switch_on">Bạn có thể chỉnh độ mờ</string>
+<string name="refocus_type_static">Làm mờ</string>
+<string name="remove_obj_mode_circle">Khoanh vùng</string>
+<string name="remove_obj_mode_manual">Xóa thủ công</string>
+<string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+<string name="return_motion_photo_hint">Đã khôi phục Live moment</string>
+<string name="scale_support_toast">Bạn có thể chụm để phóng to/thu nhỏ video</string>
+<string name="searchview_clear_text_content_description">Xóa văn bản</string>
+<string name="searchview_navigation_content_description">Quay lại</string>
+<string name="secret_reason_type_not_support_v2">Định dạng ảnh này không được hỗ trợ. Thử ảnh khác.</string>
+<string name="set_as_cover">Đặt làm ảnh bìa</string>
+<string name="settings_ai_editor_ai_image">Ảnh AI</string>
+    <string name="settings_ai_editor_ai_image_description">AI Image hoàn toàn mới cho phép bạn tạo hình ảnh với nhiều phong cách khác nhau. Để có kết quả tốt nhất, hãy tải lên ảnh có khuôn mặt rõ ràng</string>
+<string name="settings_ai_editor_ai_image_description_new">Tự động tạo video từ ảnh và clip. Chọn từ nhiều mẫu khác nhau để tạo nội dung cá nhân hóa một cách dễ dàng.</string>
+<string name="settings_ai_editor_ai_image_guide_new">1. Nhấn giữ để chọn nhiều mục trong Thư viện, sau đó chọn "Sáng tạo" và "Tự động".
+2. Chọn tùy chọn của bạn và nhấn "Tạo".</string>
+<string name="settings_ai_editor_ai_image_new">AI Image</string>
+
+<string name="settings_ai_editor_emoji_change_description_new">Thay đổi biểu cảm bằng AI. Có nhiều phong cách phù hợp với các ngữ cảnh khác nhau. Tải lên ảnh chính diện rõ nét để có kết quả tốt nhất.</string>
+<string name="settings_ai_editor_emoji_change_guide_new">1. Mở ảnh chân dung rõ nét trong Thư viện, sau đó chọn "Chỉnh sửa" → "Chân dung" → "Thay đổi biểu cảm".
+2. Chọn biểu cảm và xác nhận.</string>
+<string name="settings_ai_editor_emoji_change_new">Thay đổi biểu cảm</string>
+
+<string name="settings_ai_editor_expand">Mở rộng ảnh AI</string>
+<string name="settings_ai_editor_expand_description">Tính năng mở rộng ảnh mới hỗ trợ AI. Giữ nguyên tỷ lệ gốc, chọn tỷ lệ tùy chỉnh hoặc để AI tự quyết định</string>
+<string name="settings_ai_editor_expand_description_new">Mở rộng ảnh thông minh với nhiều tỷ lệ. Tự do điều chỉnh bố cục để mở rộng khung hình.</string>
+<string name="settings_ai_editor_expand_guide_new">1. Mở ảnh trong Thư viện, sau đó chọn "Chỉnh sửa" → "Tạo" → "Mở rộng".
+2. Chọn tỷ lệ và điều chỉnh vị trí, sau đó nhấn "Bắt đầu".</string>
+<string name="settings_ai_editor_expand_new">Mở rộng ảnh AI</string>
+
+<string name="settings_ai_editor_gudie_new">Cách sử dụng</string>
+
+<string name="settings_ai_editor_image_beautiy_decription_new">Tự động nhận diện đặc điểm ảnh và tối ưu màu sắc, tông màu. Cải thiện ảnh chân dung, phong cảnh và đồ ăn với hiệu ứng tự nhiên, điện ảnh.</string>
+<string name="settings_ai_editor_image_beautiy_guide_new">1. Mở ảnh trong Thư viện, sau đó chọn "Chỉnh sửa" → "Điều chỉnh".
+2. Nhấn "Làm đẹp AI" để nâng cao chất lượng ảnh.</string>
+<string name="settings_ai_editor_image_beautiy_new">Làm đẹp AI</string>
+
+<string name="settings_ai_editor_image_restoration">Tăng cường ảnh AI</string>
+<string name="settings_ai_editor_image_restoration_description">Cải thiện độ rõ nét ảnh chỉ với một chạm bằng thuật toán mô hình lớn mới</string>
+<string name="settings_ai_editor_image_restoration_description_new">Nâng cao độ rõ nét và khôi phục chi tiết ảnh chỉ với một chạm. Làm sống lại những bức ảnh mờ một cách dễ dàng.</string>
+<string name="settings_ai_editor_image_restoration_guide_new">1. Mở ảnh trong Thư viện, sau đó chọn "Chỉnh sửa" → "Điều chỉnh".
+2. Nhấn "Ultra HD" để nâng cao chất lượng ảnh.</string>
+<string name="settings_ai_editor_image_restoration_new">Ultra HD</string>
+
+<string name="settings_ai_editor_intelligent_filming">Phim AI</string>
+<string name="settings_ai_editor_intelligent_filming_description">Tải ảnh và video lên để tự động tạo video bằng AI, hoặc nhập mô tả để tạo nội dung hoàn toàn mới</string>
+<string name="settings_ai_editor_intelligent_filming_description_new">Tạo video AI mang phong cách điện ảnh với nhiều hiệu ứng như ánh sáng xanh, highlight tóc,... Tải lên ảnh khuôn mặt rõ nét để có kết quả tốt nhất.</string>
+<string name="settings_ai_editor_intelligent_filming_guide_new">1. Mở ảnh chân dung rõ nét trong Thư viện, sau đó chọn "Chỉnh sửa" → "Chân dung" → "AI Image".
+2. Chọn phong cách và xác nhận.</string>
+<string name="settings_ai_editor_intelligent_filming_new">Phim AI</string>
+
+<string name="settings_ai_editor_matting_description_new">Tự động nhận diện chủ thể và tách nền. Dễ dàng cắt, di chuyển hoặc thay nền để chỉnh sửa sáng tạo.</string>
+<string name="settings_ai_editor_matting_guide_new">1. Mở ảnh trong Thư viện, sau đó chọn "Chỉnh sửa" → "Tạo" → "Tách nền".
+2. Kéo đối tượng đến vị trí mới, chọn nền mới hoặc nhấn "Bắt đầu".</string>
+<string name="settings_ai_editor_matting_new">Tách nền</string>
+
+<string name="settings_ai_editor_remover">Xóa AI Pro</string>
+<string name="settings_ai_editor_remover_description">Xóa vật thể hoàn hảo với tính năng Xóa AI Pro nâng cấp</string>
+<string name="settings_ai_editor_remover_description_new">Xóa người qua đường hoặc vật thể không mong muốn một cách chính xác, đồng thời tự động tái tạo nền và ánh sáng để ảnh sạch hơn.</string>
+<string name="settings_ai_editor_remover_guide_new">1. Mở ảnh trong Thư viện, sau đó chọn "Chỉnh sửa" → "Tạo" → "Xóa".
+2. Chọn loại cần xóa (vật thể, người hoặc phản chiếu), sau đó nhấn "Bắt đầu".</string>
+<string name="settings_ai_editor_remover_new">Xóa AI Pro</string>
+
+<string name="settings_ai_editor_summary">Tạo và chỉnh sửa ảnh, video</string>
+<string name="settings_ai_editor_title">Trợ lý sáng tạo AI</string>
+
+<string name="side_sheet_accessibility_pane_title">Bảng bên</string>
+
+<string name="sticker_tab_talkback_avatar">Khuôn mặt</string>
+<string name="sticker_tab_talkback_city">Địa điểm</string>
+<string name="sticker_tab_talkback_colorful_words">Cụm từ</string>
+<string name="sticker_tab_talkback_decoration">Trang trí</string>
+<string name="sticker_tab_talkback_dopamine">Thú vị</string>
+<string name="sticker_tab_talkback_emoji">Cảm xúc</string>
+<string name="sticker_tab_talkback_gallery">Disney</string>
+<string name="sticker_tab_talkback_graffiti">Vẽ nguệch ngoạc</string>
+<string name="sticker_tab_talkback_holiday">Ngày lễ</string>
+<string name="sticker_tab_talkback_label">Biểu tượng</string>
+<string name="sticker_tab_talkback_photography">Nhiếp ảnh</string>
+<string name="sticker_tab_talkback_sports">Thể thao</string>
+<string name="sticker_tab_talkback_travel">Du lịch</string>
+
+<string name="talkback_clip_seek_bar">Thanh timeline video</string>
+<string name="text_edit_dialog_edit_view_default_text">Nhập văn bản</string>
+<string name="text_edit_talkback_submit">Xác nhận nhập</string>
+    <string name="text_edit_talkback_toggle_substrate">Chuyển đổi giữa chọn màu chữ và màu nền</string>
+
+<string name="toast_aigc_command_not_supported">Lệnh này không được hỗ trợ</string>
+<string name="toast_aigc_high_concurrency_limit">Máy chủ đang bận. Hãy đợi một lúc rồi thử lại.</string>
+<string name="toast_aigc_illegal_account_id">Đã xảy ra lỗi tài khoản. Vui lòng liên hệ hỗ trợ.</string>
+<string name="toast_aigc_illegal_image">Ảnh vi phạm quy định. Hãy chọn ảnh khác.</string>
+<string name="toast_aigc_illegal_image_v2">Ảnh này vi phạm quy định. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_image_not_supported">Ảnh này không được hỗ trợ</string>
+<string name="toast_aigc_minimum_face_size_restrict">Khuôn mặt quá nhỏ. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_minimum_resolution_restrict">Độ phân giải quá thấp. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_minimum_resolution_restrict_v2">Ảnh này quá nhỏ. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_network_time_out">Yêu cầu đã hết thời gian. Hãy thử lại sau.</string>
+<string name="toast_aigc_no_people_detected">Không phát hiện người. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_no_people_detected_v2">Không thể phát hiện người. Hãy thử ảnh khác.</string>
+<string name="toast_aigc_only_anime_stype_supported">Chỉ hỗ trợ kiểu "Hoạt hình". Hãy thử lại.</string>
+<string name="toast_aigc_poor_network">Kiểm tra kết nối mạng và thử lại</string>
+<string name="toast_aigc_poor_network_v2">Đã xảy ra lỗi mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+<string name="toast_aigc_request_time_limit">Bạn đã đạt giới hạn yêu cầu hôm nay. Hãy thử lại vào ngày mai.</string>
+<string name="toast_aigc_server_error">Đã xảy ra lỗi máy chủ. Hãy thử lại sau.</string>
+<string name="toast_aigc_server_error_v2">Đã xảy ra lỗi mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+
+<string name="toast_custom_shutter_style_desc_delete_title">Xóa kiểu này ngay?</string>
+<string name="toast_download_with_metered_network_msg_china">Thiết bị của bạn chưa kết nối Wi-Fi. Tải xuống bằng dữ liệu di động?</string>
+
+<string name="update_apk_size">Dung lượng: %s</string>
+<string name="update_btn_negative">Để sau</string>
+<string name="update_btn_positive">Cập nhật</string>
+<string name="update_check">Kiểm tra cập nhật</string>
+<string name="update_check_title">Phiên bản hiện tại: %s</string>
+<string name="update_ignore">Bỏ qua phiên bản này</string>
+<string name="update_latest_version">Đã là phiên bản mới nhất</string>
+<string name="update_new_version">Có bản cập nhật</string>
+<string name="update_title">Có bản cập nhật</string>
+
+<string name="upgrade_dialog_bugfix_message">Đã sửa một số lỗi và tối ưu trải nghiệm người dùng.</string>
+<string name="upgrade_dialog_ignore_version">Bỏ qua phiên bản này</string>
+<string name="upgrade_dialog_package_size">Dung lượng cập nhật: %s MB</string>
+<string name="upgrade_dialog_title">Có phiên bản mới</string>
+<string name="upgrade_dialog_update_not_now">Để sau</string>
+<string name="upgrade_dialog_update_now">Cập nhật</string>
+
+<string name="video_adjust">Điều chỉnh</string>
+<string name="video_adjust_add">Thêm điều chỉnh</string>
+<string name="video_adjust_serial_num">Điều chỉnh: %d</string>
+<string name="video_ai_auto_dialog_msg">Sử dụng tính năng này sẽ ghi đè các chỉnh sửa hiện tại. Tiếp tục?</string>
+
+<string name="video_audio">Âm nhạc</string>
+
+<string name="video_beauty">Làm đẹp</string>
+<string name="video_beauty_add">Thêm làm đẹp</string>
+<string name="video_beauty_big_eyes">Mắt to</string>
+<string name="video_beauty_bright_eyes">Làm sáng mắt</string>
+<string name="video_beauty_complexion">Nước da</string>
+<string name="video_beauty_dark_circles">Quầng thâm</string>
+<string name="video_beauty_even">Làm đều</string>
+<string name="video_beauty_guide_description">Dùng tính năng này để chỉnh da và khuôn mặt trong video.</string>
+<string name="video_beauty_guide_title">Làm đẹp video</string>
+<string name="video_beauty_mouth_shape">Môi</string>
+<string name="video_beauty_shape">Khuôn mặt</string>
+<string name="video_beauty_skin">Da</string>
+<string name="video_beauty_smooth">Làm mịn</string>
+<string name="video_beauty_stereoscopic">Tạo khối</string>
+<string name="video_beauty_thin_face">Thon mặt</string>
+<string name="video_beauty_thin_nose">Mũi</string>
+<string name="video_beauty_whitening">Làm sáng</string>
+<string name="video_beauty_wrinkles">Nếp nhăn</string>
+
+<string name="video_clip_crop">Cắt</string>
+
+<string name="video_description_summary_basic_editor_filter">Áp dụng các bộ lọc cho video như Film hoặc đen trắng. Bạn cũng có thể áp dụng bộ lọc phục hồi cho video Log.</string>
+<string name="video_description_summary_basic_editor_filter_link_text">Tải LUT phục hồi</string>
+<string name="video_description_summary_basic_editor_music">Thêm nhạc online hoặc từ thiết bị vào video.</string>
+<string name="video_description_summary_basic_editor_ratio">Thay đổi tỷ lệ video thành %1$d:%2$d, %3$d:%4$d, %5$d:%6$d, v.v.</string>
+<string name="video_description_summary_basic_editor_regulator">Điều chỉnh độ sáng, độ tương phản, nhiệt độ màu, độ bão hòa và nhiều hơn nữa.</string>
+<string name="video_description_summary_basic_editor_title">Thêm hiệu ứng văn bản vào video.</string>
+<string name="video_description_summary_basic_editor_trim">Cắt, thay đổi tốc độ hoặc nhân bản clip video.</string>
+
+<string name="video_description_summary_draft">Lưu dự án chưa hoàn thành để chỉnh sửa sau.</string>
+<string name="video_description_tab_draft">Bản nháp</string>
+
+<string name="video_draft_cancel_tips">Bạn có thể xem bản nháp tại Chỉnh sửa &gt; Thêm &gt; Bản nháp.</string>
+<string name="video_draft_copy_suffix">%s(bản sao)</string>
+<string name="video_draft_delete_message">Xóa bản nháp đã chọn?</string>
+<string name="video_draft_delete_title">Xóa bản nháp</string>
+<string name="video_draft_edit_rename_hint">Nhập tên</string>
+<string name="video_draft_no_data">Chưa có bản nháp</string>
+<string name="video_draft_open_check_message">Lưu công việc hiện tại thành bản nháp</string>
+<string name="video_draft_open_file_damaged">Tệp video hoặc ảnh đã bị xóa hoặc di chuyển</string>
+<string name="video_draft_open_message">Mở bản nháp này sẽ thay thế công việc hiện tại. Tiếp tục?</string>
+<string name="video_draft_open_title">Mở bản nháp</string>
+<string name="video_draft_save">Lưu bản nháp</string>
+<string name="video_draft_title">Bản nháp</string>
+
+<string name="video_editor_text_add">Thêm văn bản</string>
+<string name="video_editor_text_ai_caption">Phụ đề AI</string>
+    <string name="video_editor_text_audio_to_text">Chuyển giọng nói thành văn bản</string>
+<string name="video_editor_text_tip_add_text">Nhấn nút phía trên để thêm văn bản</string>
+<string name="video_editor_text_tip_ai_caption_add">Sử dụng Phụ đề AI sẽ xóa văn bản hiện tại. Vẫn tiếp tục?</string>
+<string name="video_editor_text_tip_input_textg">Nhập văn bản</string>
+<string name="video_filter_add">Thêm bộ lọc</string>
+<string name="video_guide_desc_intelligent_filming">Tự động nhận diện clip và chỉnh sửa thông minh để tạo video mang phong cách điện ảnh. Bạn cũng có thể tạo nhạc và phụ đề bằng AI</string>
+<string name="video_guide_desc_layout_new_change">Chế độ sáng mới và điều chỉnh bố cục giúp nâng cao hiệu quả chỉnh sửa.</string>
+<string name="video_guide_desc_new_draft">Lưu tiến trình chỉnh sửa vào bản nháp video.</string>
+<string name="video_guide_tittle_intelligent_filming">AI Film hoàn toàn mới</string>
+<string name="video_guide_tittle_new_draft">Bản nháp mới</string>
+<string name="video_more_talkback">Thêm</string>
+<string name="video_music_add">Thêm nhạc</string>
+<string name="video_processing">Đang xử lý…</string>
+<string name="video_track_add_video_talkback">Thêm video</string>
+<string name="video_track_audio_collection">Lớp nhạc</string>
+<string name="video_track_text_collection">Lớp văn bản</string>
+<string name="video_transition_unsupport8k">Không hỗ trợ hiệu ứng chuyển cảnh cho video 8K</string>
+<string name="video_tuning_action_name">Bảng trộn âm</string>
+<string name="video_tuning_audio_handle_minimize">Thu nhỏ</string>
+<string name="video_tuning_audio_handle_minimize_progress">Đang xử lý âm thanh %s</string>
+<string name="video_tuning_audio_handle_progress">Đang xử lý âm thanh…</string>
+<string name="video_tuning_audio_handle_success">Xử lý âm thanh thành công</string>
+<string name="video_tuning_cancel_audio_deal_title">Đang xử lý âm thanh. Hủy ngay?</string>
+<string name="video_tuning_handing">Không thể thực hiện thao tác khi đang dùng bảng trộn âm</string>
+<string name="video_tuning_handle_limit_clip">Cắt video sẽ xóa hiệu ứng trộn âm. Vẫn tiếp tục?</string>
+<string name="video_tuning_handle_limit_cut_audio">Tách âm thanh sẽ xóa hiệu ứng trộn âm. Vẫn tiếp tục?</string>
+<string name="video_tuning_handle_limit_reverse">Đảo video sẽ xóa hiệu ứng trộn âm. Vẫn tiếp tục?</string>
+<string name="video_tuning_handle_limit_speed">Thay đổi tốc độ sẽ xóa hiệu ứng trộn âm. Vẫn tiếp tục?</string>
+<string name="video_tuning_handle_limit_split">Cắt đoạn video sẽ xóa hiệu ứng trộn âm. Vẫn tiếp tục?</string>
+<string name="video_tuning_menu_bgm">Âm nền</string>
+<string name="video_tuning_menu_music">Nhạc</string>
+<string name="video_tuning_menu_smart">Tự động</string>
+<string name="video_tuning_menu_vocal">Giọng nói</string>
+<string name="video_tuning_no_audio_recognized">Không nhận diện được âm thanh. Thử video khác.</string>
+
+<string name="virtualization_detect_error_no_face">Chọn ảnh có khuôn mặt hiển thị rõ</string>
+<string name="virtualization_detect_error_no_face_v2">Không nhận diện được khuôn mặt. Thử ảnh khác.</string>
+<string name="virtualization_detect_error_prohibited">Không thể dùng ảnh này. Hãy chọn ảnh chính diện có khuôn mặt rõ.</string>
+<string name="virtualization_detect_error_prohibited_v2">Ảnh này vi phạm quy định. Thử ảnh khác.</string>
+<string name="virtualization_detect_error_too_much_face">Chọn ảnh chỉ có một người</string>
+<string name="virtualization_detect_error_too_much_face_v2">Tính năng này không hỗ trợ ảnh nhóm. Thử ảnh khác.</string>
+<string name="virtualization_detect_limited_notice">Không thể tạo thêm ảnh</string>
+<string name="virtualization_detect_limited_notice_v2">Không thể tạo thêm ảnh</string>
+<string name="virtualization_loading_title">Đang tạo ảnh AI</string>
+<string name="virtualization_loading_title_v2">Đang tạo…</string>
+
+<string name="virtualization_notice_desc">Tạo ảnh chân dung với nhiều phong cách khác nhau.
+Để có kết quả tốt nhất, hãy dùng ảnh có khuôn mặt rõ nét.</string>
+<string name="virtualization_notice_label_ai">Tạo bởi AI</string>
+<string name="virtualization_notice_type">Ảnh AI</string>
+<string name="virtualization_origin">Ảnh gốc</string>
+
+<string name="virtualization_style_1">Chiến binh</string>
+<string name="virtualization_style_2">Mỹ nhân vàng</string>
+<string name="virtualization_style_3">Phi hành gia</string>
+<string name="virtualization_style_4">Công chúa băng giá</string>
+<string name="virtualization_style_5">Bạn thú</string>
+<string name="virtualization_style_6">Ngôi sao tương lai</string>
+<string name="virtualization_style_7">Hoài niệm</string>
+
+<string name="virtualization_style_v2_1">Hoa dại</string>
+<string name="virtualization_style_v2_2">Thế giới ảo</string>
+<string name="virtualization_style_v2_3">Giờ xanh</string>
+<string name="virtualization_style_v2_4">Hoang dã</string>
+<string name="virtualization_style_v2_5">Ánh nắng</string>
+<string name="virtualization_style_v2_6">Ánh sáng Rembrandt</string>
+<string name="virtualization_style_v2_7">Ánh sáng cửa sổ</string>
+
+<string name="vlog_album_add">Thêm</string>
+<string name="vlog_album_add_full">Không thể thêm thêm ảnh</string>
+<string name="vlog_album_apply">Áp dụng</string>
+<string name="vlog_album_at_least_keep">Giữ lại ít nhất %1$d ảnh</string>
+<string name="vlog_album_choose">Chọn mục</string>
+<string name="vlog_album_delete_movie">Xóa</string>
+<string name="vlog_album_delete_movie_cancel">Hủy</string>
+<string name="vlog_album_delete_movie_complete">Đổi tên thành công</string>
+<string name="vlog_album_delete_movie_confirm">OK</string>
+<string name="vlog_album_deleted">Đã xóa kỷ niệm</string>
+<string name="vlog_album_edit_timeline">Chỉnh sửa timeline</string>
+<string name="vlog_album_remove">Xóa khỏi danh sách</string>
+<string name="vlog_album_rename_movie">Đổi tên</string>
+<string name="vlog_album_saving">Đang tạo video kỷ niệm…</string>
+<string name="vlog_album_share_movie">Chia sẻ</string>
+
+<string name="vlog_audio_balance">Cân bằng</string>
+<string name="vlog_audio_breeze">Gió tre</string>
+<string name="vlog_audio_charm">Quyến rũ</string>
+<string name="vlog_audio_china">Truyền thuyết</string>
+<string name="vlog_audio_copy">Sao chép</string>
+<string name="vlog_audio_different">Một kiểu yêu khác</string>
+<string name="vlog_audio_documentary">Phim tài liệu</string>
+<string name="vlog_audio_dreamland">Miền mơ tình yêu</string>
+<string name="vlog_audio_flash">Rực rỡ</string>
+<string name="vlog_audio_funny">Vui nhộn</string>
+<string name="vlog_audio_glow">Ánh hoàng hôn</string>
+<string name="vlog_audio_hiding">Tình yêu ẩn nơi đâu</string>
+<string name="vlog_audio_highs">Cuộc sống thượng lưu</string>
+<string name="vlog_audio_inspiring">Nguồn cảm hứng ngọt ngào</string>
+<string name="vlog_audio_jazz">Giai điệu jazz</string>
+<string name="vlog_audio_lake">Bên hồ</string>
+<string name="vlog_audio_left">Trái</string>
+<string name="vlog_audio_midnight">Âm thanh nửa đêm</string>
+<string name="vlog_audio_piano">Piano nhẹ nhàng</string>
+<string name="vlog_audio_pre">Trailer hành động</string>
+<string name="vlog_audio_rain">Mưa rơi</string>
+<string name="vlog_audio_recover">Khôi phục âm thanh</string>
+<string name="vlog_audio_recovered">Đã khôi phục âm thanh</string>
+<string name="vlog_audio_ride">Cưỡi ngựa</string>
+<string name="vlog_audio_right">Phải</string>
+<string name="vlog_audio_secret">Bí ẩn</string>
+<string name="vlog_audio_select">Chọn nhạc</string>
+<string name="vlog_audio_split">Tách âm thanh</string>
+<string name="vlog_audio_sport">Nhạc thể thao kịch tính</string>
+<string name="vlog_audio_stylish">Promo năng động</string>
+<string name="vlog_audio_sunset">Gió hoàng hôn</string>
+<string name="vlog_audio_sunshine">Chiều nắng</string>
+<string name="vlog_audio_teen">Cổ tích</string>
+<string name="vlog_audio_total">Tổng</string>
+<string name="vlog_audio_volume">Âm lượng</string>
+<string name="vlog_audio_walk">Bước đi xa</string>
+
+<string name="vlog_auido_track_full">Không thể thêm track âm thanh</string>
+
+<string name="vlog_auto_adjust_frame_template_close">Thay đổi tỷ lệ khung hình sẽ tắt hiệu ứng mẫu. Vẫn tiếp tục?</string>
+
+<string name="vlog_auto_audio_apply">Dùng</string>
+<string name="vlog_auto_audio_delete">Xóa bài hát</string>
+<string name="vlog_auto_audio_delete_cancel">Hủy</string>
+<string name="vlog_auto_audio_delete_desc">Xóa bài hát này?</string>
+<string name="vlog_auto_audio_delete_ok">Xóa</string>
+<string name="vlog_auto_audio_import">Nhập</string>
+<string name="vlog_auto_audio_lib">Trực tuyến</string>
+<string name="vlog_auto_audio_local">Cục bộ</string>
+<string name="vlog_auto_audio_local_desc">Định dạng hỗ trợ: *.mp3 và *.aac</string>
+<string name="vlog_auto_audio_local_title">Nhạc trên máy</string>
+<string name="vlog_auto_audio_origin">Giữ âm thanh gốc</string>
+<string name="vlog_auto_audio_waitint">Chờ chút…</string>
+
+<string name="vlog_auto_clip">Clip</string>
+<string name="vlog_auto_clip_delete">Xóa clip</string>
+<string name="vlog_auto_clip_delete_cancel">Hủy</string>
+<string name="vlog_auto_clip_delete_desc">Xóa clip này?</string>
+<string name="vlog_auto_clip_delete_ok">Xóa</string>
+
+<string name="vlog_auto_complete">Hoàn tất</string>
+
+<string name="vlog_auto_compose_middle_close">Chỉnh bố cục thủ công sẽ xóa hiệu ứng thông minh. Vẫn tiếp tục?</string>
+<string name="vlog_auto_composition_close">Chỉnh tỷ lệ thủ công sẽ tắt Xiaomi ProCut. Vẫn tiếp tục?</string>
+
+<string name="vlog_auto_generate_complete">Tạo</string>
+<string name="vlog_auto_generate_composition">Xiaomi ProCut</string>
+<string name="vlog_auto_generate_composition_desc">Tự động căn giữa người, chó và mèo</string>
+<string name="vlog_auto_generate_composition_title">Xiaomi ProCut</string>
+
+<string name="vlog_auto_generate_template_step2">Đang chỉnh sửa video bằng AI…</string>
+<string name="vlog_auto_generate_template_step3">Đang tạo nhạc…</string>
+<string name="vlog_auto_generate_template_step4">Đang tạo phụ đề…</string>
+
+<string name="vlog_auto_generate_template_version_desc">Tự động chỉnh sửa video, thêm nhạc và phụ đề</string>
+<string name="vlog_auto_generate_template_version_title">Chỉnh sửa video bằng AI</string>
+
+<string name="vlog_auto_generate_template_waiting">Đang chờ…</string>
+<string name="vlog_auto_generate_template_waiting2">Đang chờ…</string>
+
+<string name="vlog_auto_generate_title">Cài đặt</string>
+
+<string name="vlog_auto_image_anim_close">Chỉnh tỷ lệ thủ công sẽ tắt hiệu ứng động. Vẫn tiếp tục?</string>
+
+<string name="vlog_auto_inspire_desc">Nhập ý tưởng của bạn, ví dụ: </string>
+<string name="vlog_auto_inspire_edit">Chỉnh sửa thông minh</string>
+<string name="vlog_auto_inspire_example1">Phong cách hoàng hôn</string>
+<string name="vlog_auto_inspire_example2">Tạo vlog du lịch</string>
+<string name="vlog_auto_inspire_example3">Tạo phim bom tấn</string>
+
+<string name="vlog_auto_middle">Căn giữa thông minh</string>
+<string name="vlog_auto_middle_close">Chú ý</string>
+<string name="vlog_auto_middle_close_cancel">Hủy</string>
+<string name="vlog_auto_middle_close_desc">Tắt Xiaomi ProCut? Tất cả clip sẽ về tỷ lệ gốc.</string>
+<string name="vlog_auto_middle_close_ok">Tắt</string>
+
+<string name="vlog_auto_music">Nhạc</string>
+<string name="vlog_auto_ratio">Tỷ lệ</string>
+<string name="vlog_auto_remind">Chú ý</string>
+
+<string name="vlog_auto_text_effect_off">Hiệu ứng chữ đã tắt</string>
+<string name="vlog_auto_text_effect_on">Hiệu ứng chữ đã bật</string>
+
+<string name="vlog_auto_title">Tự động</string>
+
+<string name="vlog_bitrate">Bitrate</string>
+
+<string name="vlog_crop_239_100">2.39:1</string>
+<string name="vlog_crop_255_100">2.55:1</string>
+<string name="vlog_crop_free">Tùy chỉnh</string>
+<string name="vlog_crop_rotation_format">%d°</string>
+<string name="vlog_crop_title">Cắt</string>
+
+<string name="vlog_estimate_xxx">Dung lượng ước tính: %s</string>
+
+<string name="vlog_exit_message2">Bạn có thay đổi chưa lưu. Thoát?</string>
+
+<string name="vlog_filter_art">Thơ</string>
+<string name="vlog_filter_black_mist">Sương tối</string>
+<string name="vlog_filter_chengmi">Hổ phách</string>
+   <string name="vlog_filter_cinefilm">Hoài niệm</string>
+<string name="vlog_filter_diy_lut_import_cancel">Hủy</string>
+<string name="vlog_filter_diy_lut_import_confirm">Nhập</string>
+<string name="vlog_filter_fr500">FR500</string>
+<string name="vlog_filter_gallery_monochrom">Leica BW NAT</string>
+<string name="vlog_filter_gallery_monochrom_HC">Leica BW HC</string>
+<string name="vlog_filter_gallery_natural">Leica NAT</string>
+<string name="vlog_filter_gallery_vivid">Leica VIV</string>
+<string name="vlog_filter_gudian">Ảnh cổ</string>
+<string name="vlog_filter_old_street">Dạo phố</string>
+<string name="vlog_filter_qingye">Dạ khúc</string>
+<string name="vlog_filter_romantic">Lãng mạn</string>
+<string name="vlog_filter_sea_breeze">Gió biển</string>
+<string name="vlog_filter_tag_atmosphere">Không khí</string>
+<string name="vlog_filter_tag_lut">LUT</string>
+<string name="vlog_filter_video_log">Rec.709</string>
+<string name="vlog_filter_video_log_classic">Cổ điển</string>
+<string name="vlog_filter_video_log_cooltone">Lạnh</string>
+<string name="vlog_filter_video_software">Ấm</string>
+<string name="vlog_filter_white_mist">Sương trắng</string>
+
+<string name="vlog_fps">Tốc độ khung hình</string>
+
+<string name="vlog_generate_loading_cancel">Hủy tác vụ</string>
+<string name="vlog_generate_loading_notice">Còn khoảng %1$d phút. Bạn vẫn có thể dùng các tính năng khác.</string>
+<string name="vlog_generate_loading_notice_complate">Tạo video AI thành công</string>
+<string name="vlog_generate_loading_notice_complate_enter">Nhấn để xem</string>
+<string name="vlog_generate_loading_notice_progress">Đang tạo video AI…</string>
+<string name="vlog_generate_loading_notice_second">Còn khoảng %1$d giây. Bạn vẫn có thể dùng các tính năng khác.</string>
+<string name="vlog_generate_loading_watch_later">Xem sau</string>
+
+<string name="vlog_livephoto_covert_photo">Chuyển thành ảnh</string>
+<string name="vlog_livephoto_covert_photo_toast_tips">Tiếp tục sẽ mất một số hiệu ứng. Vẫn chuyển thành ảnh?</string>
+<string name="vlog_livephoto_covert_video">Chuyển thành video</string>
+<string name="vlog_livephoto_covert_video_toast_tips">Tiếp tục sẽ mất một số hiệu ứng. Vẫn chuyển thành video?</string>
+
+<string name="vlog_load_data_empty">Hãy chọn nội dung trước</string>
+<string name="vlog_mi_clip_cn">Trình chỉnh sửa video</string>
+<string name="vlog_not_support_above_x">Chỉ hỗ trợ video tối đa %s</string>
+
+<string name="vlog_quality">Chất lượng</string>
+<string name="vlog_quality_bitrate_auto">Tự động</string>
+<string name="vlog_quality_bitrate_high">Cao</string>
+<string name="vlog_quality_bitrate_low">Thấp</string>
+<string name="vlog_quality_bitrate_medium">Trung bình</string>
+
+<string name="vlog_quality_resolution_1080p">1080P</string>
+<string name="vlog_quality_resolution_480p">480P</string>
+<string name="vlog_quality_resolution_4k">4K</string>
+<string name="vlog_quality_resolution_720p">720P</string>
+
+<string name="vlog_ratio_239_100">2.39:1</string>
+<string name="vlog_ratio_255_100">2.55:1</string>
+
+<string name="vlog_resolution">Độ phân giải</string>
+
+<string name="vlog_saving_no_exit">Đang lưu video. Vui lòng ở lại trang này.</string>
+
+<string name="vlog_specific_resolution_xx">%1$d×%2$dpx</string>
+
+<string name="vlog_speed_double">2.0X</string>
+<string name="vlog_speed_half">0.5X</string>
+<string name="vlog_speed_normal">1.0X</string>
+<string name="vlog_speed_quarter">0.25X</string>
+<string name="vlog_speed_treble">3.0X</string>
+
+<string name="vlog_talkback_add_audio">Thêm âm thanh</string>
+<string name="vlog_talkback_add_caption">Thêm chữ</string>
+<string name="vlog_talkback_crop_free">Tự do</string>
+<string name="vlog_talkback_crop_mirror">Lật</string>
+<string name="vlog_talkback_crop_reset">Đặt lại</string>
+<string name="vlog_talkback_crop_right_rotate">Xoay %d độ</string>
+<string name="vlog_talkback_crop_rotate">Xoay</string>
+<string name="vlog_talkback_crop_scale_default_value">Giá trị mặc định trước khi xoay là %d độ</string>
+<string name="vlog_talkback_crop_view">Cắt ảnh</string>
+<string name="vlog_talkback_edit_text">Phụ đề</string>
+<string name="vlog_talkback_pro">Pro</string>
+<string name="vlog_talkback_process_bar">Thanh tua video</string>
+<string name="vlog_talkback_video_clip">Đoạn video</string>
+
+<string name="vlog_template_ai_caption_generating">Đang tạo phụ đề AI…</string>
+<string name="vlog_template_ai_caption_huangfan">Không thể tạo phụ đề AI. Thử nội dung khác.</string>
+
+<string name="vlog_template_ai_category">AI</string>
+<string name="vlog_template_ai_generate_start">Mẫu AI</string>
+<string name="vlog_template_ai_generated">Tạo bởi AI</string>
+<string name="vlog_template_ai_generating">Đang tạo…</string>
+<string name="vlog_template_ai_generating2">Đang tạo %1$s</string>
+<string name="vlog_template_ai_generating_process">Đang phân tích clip…</string>
+<string name="vlog_template_ai_huangfan">Không thể tạo mẫu AI. Thử nội dung khác.</string>
+
+<string name="vlog_template_ai_max_count">Có thể xử lý tối đa %1$d video cùng lúc</string>
+
+<string name="vlog_template_ai_music_category">AI</string>
+<string name="vlog_template_ai_music_generating">Đang tạo nhạc…</string>
+<string name="vlog_template_ai_music_generating_complate">Đã tạo nhạc AI</string>
+<string name="vlog_template_ai_music_generating_notice">Có thể tạo tối đa %1$d giây nhạc</string>
+<string name="vlog_template_ai_music_huangfan">Không thể tạo nhạc AI. Thử nội dung khác.</string>
+<string name="vlog_template_ai_music_start">Nhạc AI</string>
+
+<string name="vlog_template_ai_waiting_limit">Hiện có quá nhiều video AI đang xử lý. Thử lại sau.</string>
+
+<string name="vlog_template_apply">Dùng mẫu</string>
+<string name="vlog_template_auto">Tự động</string>
+<string name="vlog_template_auto_analysing">Đang phân tích…</string>
+
+<string name="vlog_template_blues">Blues</string>
+<string name="vlog_template_clip">Cắt</string>
+<string name="vlog_template_cut_more">Thêm nội dung</string>
+<string name="vlog_template_duration">Thời lượng</string>
+<string name="vlog_template_fenwei">Không khí</string>
+<string name="vlog_template_free">Tùy chỉnh</string>
+<string name="vlog_template_generating">Đang tạo video…</string>
+<string name="vlog_template_guochao">Truyền thống</string>
+<string name="vlog_template_use">Sử dụng</string>
+<string name="vlog_template_retry">Thử lại</string>
+
+<string name="wm_background_black">Đen</string>
+<string name="wm_background_white">Trắng</string>
+
+<string name="wm_group_classic_name">Cổ điển</string>
+<string name="wm_group_signature_name">Chữ ký</string>
+<string name="wm_group_standard_name">Tiêu chuẩn</string>
+    <string name="wm_orientation_inner_border_left">Viền bốn cạnh, nội dung nằm về phía bên trái của ảnh</string>
+<string name="wm_orientation_inner_border_right">Viền bốn cạnh, nội dung nằm về phía bên phải của ảnh</string>
+<string name="wm_orientation_outer_border_bottom">Viền một cạnh, nằm ở phía dưới của ảnh</string>
+<string name="wm_orientation_outer_border_left">Viền một cạnh, nằm ở phía bên trái của ảnh</string>
+<string name="wm_orientation_outer_border_right">Viền một cạnh, nằm ở phía bên phải của ảnh</string>
+<string name="wm_orientation_outer_border_top">Viền một cạnh, nằm ở phía trên của ảnh</string>
+
+<string name="wm_pref_setting_icon_item_desc">%1$s, mục %2$d</string>
+
+<string name="wm_signature_clear_content">Xóa</string>
+<string name="wm_signature_crop_tip">Tránh sử dụng nền tối và chỉ cắt phần hiển thị chữ ký</string>
+<string name="wm_signature_crop_title">Cắt</string>
+<string name="wm_signature_preview_tip">Xem trước trích xuất chữ ký</string>
+<string name="wm_signature_preview_title">Xem trước</string>
+<string name="wm_signature_view_region_hint">Vùng chữ ký</string>
+
+<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
+<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+<string name="xiaomi_market_sdk_update_dialog_title">Có bản cập nhật</string>
+
+<string name="xiaomi_update_sdk_connect_download_manager_fail">Không thể kết nối Trình quản lý tải xuống, vui lòng kiểm tra trạng thái trong Quản lý ứng dụng.</string>
+
+<string name="xiaomi_update_sdk_dialog_message">Giới thiệu phiên bản %1$s
+Dung lượng: %2$s</string>
+
+<string name="xiaomi_update_sdk_dialog_message_diff">Giới thiệu phiên bản %1$s
+Dung lượng cập nhật: %2$s</string>
+
+<string name="xiaomi_update_sdk_dialog_title">Có bản cập nhật</string>
+<string name="xiaomi_update_sdk_external_storage_unavailable">Không có bộ nhớ khả dụng, vui lòng kiểm tra thẻ SD.</string>
+
+<string name="xiaomi_update_sdk_update_dialog_cancel">Để sau</string>
+<string name="xiaomi_update_sdk_update_dialog_ok">Cập nhật</string>
 </resources>

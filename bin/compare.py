@@ -17,7 +17,40 @@ def escape_attr(s: str) -> str:
     )
 
 
+def _xml_1_0_char_ok(code: int) -> bool:
+    """XML 1.0 Char — dùng để lọc &#…; / &#x…; mà parser từ chối (ký tự điều khiển…)."""
+    if code in (0x9, 0xA, 0xD):
+        return True
+    if 0x20 <= code <= 0xD7FF:
+        return True
+    if 0xE000 <= code <= 0xFFFD:
+        return True
+    if 0x10000 <= code <= 0x10FFFF:
+        return True
+    return False
+
+
+_INVALID_DEC_CHAR_REF = re.compile(r"&#(\d+);")
+_INVALID_HEX_CHAR_REF = re.compile(r"&#x([0-9A-Fa-f]+);", re.IGNORECASE)
+
+
+def _sanitize_invalid_xml_numeric_refs(xml_content: str) -> str:
+    """Thay thế tham chiếu số trỏ tới ký tự không hợp lệ trong XML 1.0 (vd. &#6;, &#15;)."""
+
+    def _repl_dec(m: re.Match[str]) -> str:
+        n = int(m.group(1))
+        return m.group(0) if _xml_1_0_char_ok(n) else "\ufffd"
+
+    def _repl_hex(m: re.Match[str]) -> str:
+        n = int(m.group(1), 16)
+        return m.group(0) if _xml_1_0_char_ok(n) else "\ufffd"
+
+    s = _INVALID_DEC_CHAR_REF.sub(_repl_dec, xml_content)
+    return _INVALID_HEX_CHAR_REF.sub(_repl_hex, s)
+
+
 def extract_string_names(xml_content: str) -> dict[str, str | None]:
+    xml_content = _sanitize_invalid_xml_numeric_refs(xml_content)
     root = ET.fromstring(xml_content)
     out: dict[str, str | None] = {}
     for el in root.findall("string"):
