@@ -643,4 +643,1253 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy đ
     <string name="wifi_scan_btn_text">Quét lại</string>
     <string name="wifi_username_et_hint">ID tài khoản</string>
     <string name="yesterday">Hôm qua</string>
+        <string name="ai_app_name">CameraPermission</string>
+<string name="answering_tel1">Đang trả lời trên máy tính bảng…</string>
+<string name="answering_tel2">Đã chuyển từ điện thoại…</string>
+<string name="app_casting">Truyền ứng dụng</string>
+<string name="app_name_call">Điện thoại</string>
+<string name="app_name_feishu">Lark</string>
+<string name="app_name_qq">QQ</string>
+<string name="app_name_sms">Tin nhắn</string>
+<string name="app_name_vtcamera">Camera liên thiết bị</string>
+<string name="app_name_wechat">WeChat</string>
+<string name="appcirculate_alert_busy_negative">Hủy</string>
+<string name="appcirculate_alert_busy_positive">Ngắt</string>
+<string name="appcirculate_alert_busy_text">Có vẻ thiết bị kia đang truyền tệp. Bạn có muốn ngắt để tiếp tục không?</string>
+<string name="appcirculate_alert_busy_title">Ngắt truyền</string>
+<string name="appcirculate_alert_transfer_busy_text">Thiết bị đang truyền tệp, vui lòng thử lại sau</string>
+<string name="appcirculate_fragment_circulate_app_content_description">Xem trước: %1$s</string>
+<string name="appcirculate_fragment_circulate_device_card_button">Bật</string>
+<string name="appcirculate_fragment_circulate_device_card_subtitle">Xem trợ giúp</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Cho phép ứng dụng tìm kiếm thiết bị gần đó để sử dụng điều khiển và tính năng liên kết</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_title_1">Bật WLAN và Bluetooth</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Bật Wi-Fi và Bluetooth</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_title_2">Bật Bluetooth</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_title_3">Bật WLAN</string>
+<string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Bật Wi-Fi</string>
+<string name="appcirculate_fragment_circulate_device_card_title">Không tìm thấy
+thiết bị của bạn?</string>
+<string name="appcirculate_fragment_circulate_device_content_description">Mở trên thiết bị khác: %1$s</string>
+<string name="appcirculate_fragment_circulate_device_list_app_deliver">Mở "%1$s" trên thiết bị khác</string>
+<string name="appcirculate_fragment_circulate_device_list_button_cancel">Hủy</string>
+<string name="appcirculate_fragment_circulate_device_list_button_confirm">Tìm lại</string>
+<string name="appcirculate_fragment_circulate_device_list_text_searching">Đang tìm thiết bị gần đó…</string>
+<string name="appcirculate_toast_app_max_screen_count">Không thể mở thêm cửa sổ</string>
+<string name="appcirculate_toast_app_notstall">Chuyển thất bại, điện thoại chưa cài ứng dụng này</string>
+<string name="appcirculate_toast_busy">Thiết bị kia đang truyền tệp. Hãy đợi hoàn tất rồi thử lại.</string>
+<string name="appcirculate_toast_cancel">Đã hủy</string>
+<string name="appcirculate_toast_connected">Đã bắt đầu truyền</string>
+<string name="appcirculate_toast_fail">Không thể chuyển sang thiết bị khác</string>
+<string name="appcirculate_toast_high_temperature">Đợi thiết bị nguội rồi thử lại</string>
+<string name="appcirculate_toast_loading">Đang chuyển sang thiết bị khác…</string>
+<string name="appcirculate_toast_not_support_device_pad">Không thể mở ứng dụng này trên máy tính bảng</string>
+<string name="appcirculate_toast_not_support_device_pc">Không thể mở ứng dụng này trên máy tính</string>
+<string name="appcirculate_toast_not_support_device_phone">Không thể mở ứng dụng này trên điện thoại</string>
+<string name="appcirculate_toast_not_support_device_tv">Không thể mở ứng dụng này trên TV</string>
+<string name="appcirculate_toast_not_support_device_tv_connected">Đã kết nối với TV này</string>
+<string name="appcirculate_toast_pad_connection_car">Máy tính bảng đang kết nối với xe</string>
+<string name="appcirculate_toast_phone_connection_car">Điện thoại đang kết nối với xe</string>
+<string name="appcirculate_toast_success_1">Chuyển thành công</string>
+<string name="appcirculate_toast_success_2">Đang truyền ở chế độ riêng tư…</string>
+<string name="appcirculate_toast_success_3">Đang truyền…</string>
+<string name="application_extension">Mở rộng ứng dụng</string>
+<string name="application_extension_content_pad">Sử dụng "%1$s" làm màn hình ngoài. Bạn có thể hiển thị ứng dụng trong cửa sổ riêng này.</string>
+<string name="application_extension_content_phone">Ứng dụng này sẽ chỉ hiển thị trên "%1$s"</string>
+<string name="application_extension_toast">Hãy mở ứng dụng trước khi dùng tính năng mở rộng</string>
+<string name="application_move">Hiển thị ứng dụng này trên "%1$s"</string>
+<string name="ask_for_using_camera">Mở khóa thiết bị để cấp quyền</string>
+<string name="ask_for_using_camera_car">Màn hình chính của xe đang truy cập camera thiết bị này. Mở khóa để quản lý.</string>
+<string name="audio_record_des">Dùng để truyền âm thanh từ thiết bị di động đến màn hình ngoài</string>
+<string name="back_to_mirror">Phản chiếu màn hình</string>
+<string name="ball_hint_connect_fail">Không thể thực hiện. Hãy đợi một chút rồi thử lại.</string>
+<string name="ball_hint_text_loading">Đợi chút…</string>
+<string name="ball_hint_text_success">Kết nối thành công</string>
+<string name="button_cancel">Hủy</string>
+<string name="button_confirm">Chọn</string>
+<string name="camera_associate_failed">Không thể kết nối camera</string>
+<string name="camera_associate_success">Đã kết nối camera</string>
+<string name="camera_composed_button">Kết hợp</string>
+<string name="camera_composed_button_description">Kết hợp. Nhấn để chụp đồng thời bằng camera của hai thiết bị.</string>
+<string name="camera_composed_no_device">Không có thiết bị gần đó</string>
+<string name="camera_composed_title">Kết hợp với camera thiết bị này</string>
+<string name="camera_composed_using_title">Đang dùng camera kết hợp</string>
+<string name="camera_connecting_description">Đang kết nối…</string>
+<string name="camera_disassociate">Đã ngắt kết nối camera</string>
+<string name="camera_discompose_button_description">Nhấn để dừng chụp kết hợp và chuyển về camera thiết bị này.</string>
+<string name="camera_glasses_content_description">Kính đã kết nối. Nhấn đúp để kích hoạt. Dùng hai ngón kéo để chuyển.</string>
+<string name="camera_glasses_content_description_update">Kính đã kết nối. Nhấn đúp để kích hoạt.</string>
+<string name="camera_island_action_close">Ngắt kết nối</string>
+<string name="camera_island_connect_error">Không thể kết nối</string>
+<string name="camera_island_connected_title">Đang dùng camera liên thiết bị</string>
+<string name="camera_island_connecting">Đang kết nối</string>
+<string name="camera_island_disconnected_title">Đã ngắt camera liên thiết bị</string>
+<string name="camera_list_subtitle">Chuyển camera</string>
+<string name="camera_new_title">Camera liên thiết bị</string>
+<string name="camera_notify_string">Thông báo camera</string>
+<string name="camera_permission_dialog_message">Cho phép ứng dụng sử dụng camera của thiết bị này. Bạn có thể cấp quyền trong Cài đặt.</string>
+<string name="camera_permission_dialog_negative">Hủy</string>
+<string name="camera_permission_dialog_positive">Cài đặt</string>
+<string name="camera_permission_dialog_title">Cần quyền truy cập</string>
+    <string name="camera_permission_timeout_toast">Hết thời gian kết nối. Hãy thử lại.</string>
+<string name="camera_picker_title">Camera liên thiết bị</string>
+<string name="camera_title">Đang tìm thiết bị khả dụng…</string>
+<string name="cancel">Hủy</string>
+<string name="cancel_button">Hủy</string>
+
+<string name="car_air_con_back_switch_close">Tắt điều hòa hàng ghế sau</string>
+<string name="car_air_con_back_switch_open">Bật điều hòa hàng ghế sau</string>
+<string name="car_air_con_switch_close">Tắt điều hòa xe</string>
+<string name="car_air_con_switch_open">Bật điều hòa xe</string>
+<string name="car_air_con_unuse">–-</string>
+
+<string name="car_camera_associate_connecting">Đang kết nối camera xe</string>
+<string name="car_camera_associate_disconnecting">Đang ngắt kết nối camera xe</string>
+<string name="car_camera_unavailable_dialog_message">Xe đang ở chế độ tiết kiệm pin hoặc riêng tư. Không thể dùng camera phía trước.</string>
+<string name="car_camera_unavailable_dialog_positive_button">Đã hiểu</string>
+<string name="car_camera_unavailable_dialog_title">Không thể dùng camera</string>
+
+<string name="car_card_air_control_backseat_air">Điều hòa hàng ghế sau</string>
+<string name="car_card_air_temperature_minus">Giảm nhiệt độ điều hòa</string>
+<string name="car_card_air_temperature_plus">Tăng nhiệt độ điều hòa</string>
+<string name="car_card_air_temperature_text">Nhiệt độ</string>
+<string name="car_card_air_title">Điều hòa</string>
+
+<string name="car_card_copilot_change">Ghế phụ</string>
+<string name="car_card_one_key_back">Ngả ra sau</string>
+<string name="car_card_one_key_back_pause">Tạm dừng</string>
+<string name="car_card_one_key_front">Tiến lên</string>
+<string name="car_card_one_key_front_pause">Tạm dừng</string>
+
+<string name="car_card_seat_back_end_seat">Phải (sau)</string>
+<string name="car_card_seat_back_left_seat">Trái (sau)</string>
+<string name="car_card_seat_back_middle_seat">Giữa (sau)</string>
+<string name="car_card_seat_control_text">Ghế</string>
+
+<string name="car_card_seat_level_auto">Tự động</string>
+<string name="car_card_seat_level_off">Tắt</string>
+<string name="car_card_seat_level_one">Mức %d</string>
+<string name="car_card_seat_level_two">Mức %d</string>
+<string name="car_card_seat_level_three">Mức %d</string>
+
+<string name="car_card_seat_main_seat">Lái xe</string>
+<string name="car_card_seat_second_seat">Ghế phụ</string>
+<string name="car_card_seat_warm">Sưởi ghế</string>
+<string name="car_card_warm_default_none">-</string>
+
+<string name="car_crad_air_control_text">Điều hòa</string>
+<string name="car_device_camera_name">Camera trước của %1$s</string>
+<string name="car_seat_can_not_use">Không khả dụng</string>
+
+<string name="cast_mode">Chế độ truyền</string>
+<string name="character_counter_pattern">%1$d/%2$d</string>
+
+<string name="circulate_add_another_device_control_app">Thêm ứng dụng</string>
+<string name="circulate_audio_group_title">Đang phát…</string>
+<string name="circulate_back_button_content_description">Quay lại</string>
+
+<string name="circulate_camera_glasses_back_to_box_desc_err_310">%1$d. Nhấn nút nguồn trên remote TV để ngắt loa.
+%2$d. Thử kết nối lại kính khi màn hình sáng.</string>
+<string name="circulate_camera_glasses_back_to_box_title_err_310">Ngắt loa TV trước</string>
+
+<string name="circulate_camera_glasses_card_use_camera">Dùng camera kính</string>
+<string name="circulate_camera_glasses_card_using_camera">Đang dùng camera kính</string>
+
+<string name="circulate_camera_glasses_duplicate_dialog_title">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_pad">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_pc">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_phone">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_tv">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker">Thay thế thiết bị đã kết nối</string>
+<string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker_with_screen">Thay thế thiết bị đã kết nối</string>
+
+<string name="circulate_camera_glasses_error_device_not_support">Không thể truyền nội dung từ kính sang thiết bị này</string>
+
+<string name="circulate_car_card_use_camera">Dùng camera trước của xe</string>
+<string name="circulate_car_card_using_camera">Đang dùng camera trước của xe</string>
+
+<string name="circulate_card_audio_change_pad_title">Chuyển sang âm thanh máy tính bảng</string>
+<string name="circulate_card_audio_change_phone_title">Chuyển sang âm thanh điện thoại</string>
+<string name="circulate_card_audio_playing_pad_title">Đang dùng âm thanh máy tính bảng</string>
+<string name="circulate_card_audio_playing_phone_title">Đang dùng âm thanh điện thoại</string>
+
+<string name="circulate_card_disconnect">Ngắt kết nối</string>
+
+<string name="circulate_card_loading_title_audio_stereo">Hệ thống stereo</string>
+<string name="circulate_card_loading_title_band">Ban nhạc</string>
+<string name="circulate_card_loading_title_bluetooth">Thiết bị Bluetooth</string>
+<string name="circulate_card_loading_title_camera_glasses">Kính thông minh Xiaomi</string>
+<string name="circulate_card_loading_title_headset">Tai nghe</string>
+<string name="circulate_card_loading_title_screen_sound">Loa thông minh Xiaomi</string>
+<string name="circulate_card_loading_title_sound">Loa Xiaomi</string>
+<string name="circulate_card_loading_title_watch">Đồng hồ</string>
+
+<string name="circulate_card_mirror_device_button">Dừng</string>
+<string name="circulate_card_mirror_device_pad_subtitle">Đang hiển thị màn hình máy tính bảng…</string>
+<string name="circulate_card_mirror_device_subtitle">Đang hiển thị màn hình điện thoại…</string>
+
+<string name="circulate_card_mirror_device_title_laptop">Máy tính</string>
+<string name="circulate_card_mirror_device_title_pad">Máy tính bảng</string>
+<string name="circulate_card_mirror_device_title_television">TV</string>
+
+<string name="circulate_card_mirror_pad_subtitle">Kéo "Màn hình máy tính bảng" sang TV để phản chiếu</string>
+<string name="circulate_card_mirror_pad_title">Màn hình máy tính bảng</string>
+
+<string name="circulate_card_mirror_phone_subtitle">Kéo "Màn hình điện thoại" sang thiết bị khác
+để phản chiếu</string>
+<string name="circulate_card_mirror_phone_title">Màn hình điện thoại</string>
+
+<string name="circulate_card_mirror_subtitle_active_format">Đang phản chiếu trên %1$s</string>
+<string name="circulate_card_mirror_subtitle_normal">Kéo để phản chiếu màn hình</string>
+<string name="circulate_card_mirror_subtitle_pad_normal">Kéo sang thiết bị khác
+để phản chiếu màn hình máy tính bảng</string>
+
+<string name="circulate_card_mirror_tv_button_1">Cửa sổ nổi</string>
+<string name="circulate_card_mirror_tv_button_2">Tắt màn hình</string>
+<string name="circulate_card_mirror_tv_button_3">Riêng tư</string>
+
+<string name="circulate_card_sticker">Sticker</string>
+<string name="circulate_card_sticker__remote_control_expend_contentDescription">Hiển thị điều khiển</string>
+<string name="circulate_card_sticker_access">Nhấn đúp để kích hoạt</string>
+<string name="circulate_card_sticker_add">Thêm sticker</string>
+<string name="circulate_card_sticker_blank_contentDescription">Nhấn đúp vùng trống để thoát</string>
+<string name="circulate_card_sticker_complete">Hoàn tất</string>
+<string name="circulate_card_sticker_control_contentDescription">Bảng điều khiển. Có thể thoát tại đây.</string>
+<string name="circulate_card_sticker_dressing_equipment">Tùy chỉnh thiết bị</string>
+<string name="circulate_card_sticker_expend_contentDescription">Hiển thị thiết bị tùy chỉnh</string>
+<string name="circulate_card_sticker_no">Không có sticker</string>
+
+<string name="circulate_card_sticker_remote_control">Remote TV</string>
+<string name="circulate_card_sticker_remote_control_bottom">Xuống</string>
+<string name="circulate_card_sticker_remote_control_center">OK</string>
+<string name="circulate_card_sticker_remote_control_coordination_input">Nhập văn bản</string>
+<string name="circulate_card_sticker_remote_control_coordination_input_subtitle">Nhập văn bản trên thiết bị này để tìm kiếm trên TV</string>
+<string name="circulate_card_sticker_remote_control_cut">Chụp màn hình</string>
+<string name="circulate_card_sticker_remote_control_home">Trang chủ</string>
+<string name="circulate_card_sticker_remote_control_keyboard">Bàn phím</string>
+<string name="circulate_card_sticker_remote_control_left">Trái</string>
+<string name="circulate_card_sticker_remote_control_menu">Menu</string>
+<string name="circulate_card_sticker_remote_control_power">Nguồn</string>
+<string name="circulate_card_sticker_remote_control_return">Quay lại</string>
+<string name="circulate_card_sticker_remote_control_right">Phải</string>
+<string name="circulate_card_sticker_remote_control_top">Lên</string>
+<string name="circulate_card_sticker_remote_control_volum_add">Tăng âm lượng</string>
+<string name="circulate_card_sticker_remote_control_volum_reduce">Giảm âm lượng</string>
+
+<string name="circulate_card_sticker_selected">Đã chọn</string>
+<string name="circulate_card_tv_device_sync">Liên kết thiết bị</string>
+<string name="circulate_card_tv_full_screen">Toàn màn hình</string>
+<string name="circulate_card_tv_gesture_click_sure">Nhấn để xác nhận</string>
+<string name="circulate_card_tv_gesture_content_desc">Khu vực điều khiển cảm ứng. Vuốt để di chuyển con trỏ, nhấn để chọn.</string>
+    <string name="circulate_card_tv_gesture_ok">OK</string>
+<string name="circulate_card_tv_gesture_ok_title">Xác nhận ngay?</string>
+<string name="circulate_card_tv_gesture_return">Quay lại</string>
+<string name="circulate_card_tv_gesture_slide">Trượt để di chuyển con trỏ</string>
+<string name="circulate_card_tv_gesture_slide_title">Trượt để điều khiển</string>
+<string name="circulate_card_tv_my_app">Thêm ứng dụng</string>
+<string name="circulate_card_tv_notes_button_cancel">Hủy</string>
+<string name="circulate_card_tv_notes_button_confirm">Gửi</string>
+<string name="circulate_card_tv_notes_edittext_hint">Nhập tối đa %d ký tự</string>
+<string name="circulate_card_tv_notes_edittext_success_toast">Đã áp dụng ghi chú lên TV</string>
+<string name="circulate_card_tv_notes_edittext_toast">Ghi chú tối đa %d ký tự</string>
+<string name="circulate_card_tv_notes_send_error">Không thể gửi. Kiểm tra kết nối mạng và thử lại.</string>
+<string name="circulate_card_tv_notes_subtitle">Nhập ghi chú để hiển thị trên màn hình chờ của TV</string>
+<string name="circulate_card_tv_notes_text">Ghi chú TV</string>
+<string name="circulate_card_tv_notes_title">Ghi chú TV</string>
+<string name="circulate_card_tv_open_app_content_desc">%1$s. Nhấn để mở trên TV.</string>
+<string name="circulate_card_tv_pip_state_send_error">Đã xảy ra lỗi. Kiểm tra kết nối mạng và thử lại.</string>
+<string name="circulate_card_tv_privacy_protection">Riêng tư</string>
+<string name="circulate_card_tv_remote_control">Điều khiển</string>
+<string name="circulate_card_tv_screen">Truyền màn hình</string>
+<string name="circulate_card_tv_screen_mirror">Phản chiếu màn hình</string>
+<string name="circulate_card_tv_screen_mirror_ing">Đang phản chiếu màn hình…</string>
+<string name="circulate_card_tv_screen_of_mirror">Tắt màn hình</string>
+<string name="circulate_card_tv_screen_state">Đang truyền</string>
+<string name="circulate_card_tv_share">Xem</string>
+<string name="circulate_card_tv_small_mirror">Cửa sổ nổi</string>
+<string name="circulate_card_tv_small_screen">Cửa sổ trong cửa sổ</string>
+<string name="circulate_card_tv_source">Nguồn tín hiệu</string>
+<string name="circulate_card_tv_stop_screen">Dừng truyền</string>
+<string name="circulate_common_retry_later">Chờ một lúc rồi thử lại</string>
+<string name="circulate_controlphone_button_hint">Xem màn hình</string>
+<string name="circulate_controlphone_title">Quản lý thiết bị</string>
+<string name="circulate_cta_agree">Đồng ý</string>
+<string name="circulate_cta_app_name">Liên kết thiết bị</string>
+<string name="circulate_cta_desc_lite_phone">Liên kết thiết bị cho phép các thiết bị của bạn tương tác không dây với nhau. Để hoạt động bình thường, dịch vụ này cần kết nối internet và yêu cầu các quyền sau:</string>
+<string name="circulate_cta_desc_phone">Liên kết thiết bị cho phép các thiết bị của bạn tương tác không dây với nhau. Để hoạt động bình thường, dịch vụ này cần kết nối internet và yêu cầu các quyền sau:</string>
+<string name="circulate_cta_desc_phone_global">Liên kết thiết bị cho phép các thiết bị của bạn tương tác không dây với nhau.</string>
+<string name="circulate_cta_exit">Không đồng ý</string>
+<string name="circulate_cta_premission_bluetooth_subtitle">Dùng để kết nối thiết bị và truyền dữ liệu giữa chúng</string>
+<string name="circulate_cta_premission_get_installed_apps_subtitle">Dùng để truy cập danh sách ứng dụng đã cài và phản chiếu màn hình trên máy tính</string>
+<string name="circulate_cta_premission_mac_address_subtitle">Dùng để phát hiện thiết bị gần đó</string>
+<string name="circulate_cta_premission_obtain_information_subtitle">Khi ghi hoặc truyền màn hình, dịch vụ có thể thu thập thông tin hiển thị hoặc phát trên thiết bị, bao gồm dữ liệu nhạy cảm như âm thanh, mật khẩu, thông tin thanh toán, ảnh và tin nhắn</string>
+<string name="circulate_cta_premission_read_call_log_subtitle">Dùng để chuyển cuộc gọi giữa các thiết bị khi phản chiếu màn hình</string>
+<string name="circulate_cta_premission_sound_subtitle">Dùng để ghi âm thanh cục bộ khi truyền hoặc phản chiếu màn hình</string>
+<string name="circulate_cta_premission_sound_title">Ghi âm</string>
+<string name="circulate_cta_premission_storage_pad_title">Truy cập và lưu dữ liệu</string>
+<string name="circulate_cta_premission_storage_subtitle">Dùng để truyền và chia sẻ nội dung từ thiết bị</string>
+<string name="circulate_cta_premission_storage_title">Truy cập và lưu dữ liệu</string>
+<string name="circulate_cta_premission_transferring_data_subtitle">Dùng để truyền dữ liệu giữa các thiết bị đã kết nối</string>
+<string name="circulate_cta_premission_wlan_subtitle_china">Dùng để truyền dữ liệu và kết nối thiết bị qua WLAN</string>
+<string name="circulate_cta_premission_wlan_title">Bật/tắt WLAN</string>
+<string name="circulate_cta_title_global">Chính sách quyền riêng tư</string>
+<string name="circulate_cta_user_agreement">Vui lòng đọc và đồng ý với &lt;txt href="%1$s"&gt;“Thỏa thuận người dùng”&lt;/txt&gt; và &lt;txt href="%2$s"&gt;“Chính sách quyền riêng tư”&lt;/txt&gt;</string>
+<string name="circulate_device_control_button_description">Chuyển từ Xiaomi Smart Hub sang điều khiển thiết bị</string>
+<string name="circulate_device_type_name_camera_glasses">Kính</string>
+<string name="circulate_device_type_name_headset">Tai nghe</string>
+<string name="circulate_device_type_name_mijia">Thiết bị nhà thông minh</string>
+<string name="circulate_device_type_name_pad">Máy tính bảng</string>
+<string name="circulate_device_type_name_pc">Máy tính</string>
+<string name="circulate_device_type_name_phone">Điện thoại</string>
+<string name="circulate_device_type_name_tv">TV</string>
+<string name="circulate_device_type_name_wifi_speaker">Loa</string>
+<string name="circulate_device_type_name_wifi_speaker_with_screen">Loa màn hình cảm ứng</string>
+<string name="circulate_edit_group_title">Loa hoặc TV có thể được nhóm lại và hiển thị cùng nhau khi có nhiều hơn %1$d thiết bị kết nối cùng một mạng LAN</string>
+    <string name="circulate_edit_sound_group_title">Nhóm loa</string>
+<string name="circulate_edit_tv_group_title">Nhóm TV</string>
+
+<string name="circulate_glasses_duplicate_dialog_message">Kính đã được kết nối. Nếu bạn kết nối với một cặp kính mới, cặp hiện tại sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_dialog_message_pad">Máy tính bảng của bạn đã kết nối với kính. Nếu bạn kết nối với một cặp kính mới, cặp hiện tại sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_dialog_message_phone">Điện thoại của bạn đã kết nối với kính. Nếu bạn kết nối với một cặp kính mới, cặp hiện tại sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_dialog_message_tv">TV của bạn đã kết nối với kính. Nếu bạn kết nối với một cặp kính mới, cặp hiện tại sẽ bị ngắt kết nối. Kết nối ngay?</string>
+
+<string name="circulate_glasses_duplicate_headset_dialog_message">Tai nghe đã được kết nối. Nếu bạn kết nối với kính này, tai nghe sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_headset_dialog_message_pad">Máy tính bảng của bạn đã kết nối với tai nghe. Nếu bạn kết nối với kính này, tai nghe sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_headset_dialog_message_phone">Điện thoại của bạn đã kết nối với tai nghe. Nếu bạn kết nối với kính này, tai nghe sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_glasses_duplicate_headset_dialog_message_tv">TV của bạn đã kết nối với tai nghe. Nếu bạn kết nối với kính này, tai nghe sẽ bị ngắt kết nối. Kết nối ngay?</string>
+
+<string name="circulate_headset_back_to_box_desc">1. Đặt cả hai tai nghe vào hộp sạc.
+2. Nhấn và giữ nút trên hộp.
+3. Hoàn tất ghép nối trên thiết bị đích.</string>
+
+<string name="circulate_headset_back_to_box_desc_err_308">Để có thể chuyển phát giữa các thiết bị, hãy ghép nối tai nghe với TV trước.</string>
+
+<string name="circulate_headset_back_to_box_desc_err_310">%1$d. Nhấn nút nguồn trên remote TV để ngắt loa.
+%2$d. Thử kết nối lại tai nghe khi màn hình sáng lên.</string>
+
+<string name="circulate_headset_back_to_box_desc_pad">1. Đặt cả hai tai nghe vào hộp.
+2. Nhấn và giữ nút trên hộp.
+3. Hoàn tất ghép nối trong cài đặt Bluetooth hoặc qua hộp thoại trên thiết bị này.</string>
+
+<string name="circulate_headset_back_to_box_desc_phone">1. Đặt cả hai tai nghe vào hộp.
+2. Nhấn và giữ nút trên hộp.
+3. Hoàn tất ghép nối trong cài đặt Bluetooth hoặc qua hộp thoại trên thiết bị này.</string>
+
+<string name="circulate_headset_back_to_box_desc_tv">1. Đặt cả hai tai nghe vào hộp sạc.
+2. Nhấn và giữ nút trên hộp.
+3. Mở danh sách thiết bị Bluetooth trên TV và xác nhận ghép nối.</string>
+
+<string name="circulate_headset_back_to_box_subtitle">Không thể tự động ghép nối tai nghe này. Hãy ghép nối thủ công trên thiết bị đích.</string>
+
+<string name="circulate_headset_back_to_box_title">Ghép nối tai nghe trước</string>
+<string name="circulate_headset_back_to_box_title_err_308">Ghép nối tai nghe</string>
+<string name="circulate_headset_back_to_box_title_err_310">Ngắt loa TV trước</string>
+<string name="circulate_headset_back_to_box_title_pad">Ghép nối tai nghe với thiết bị này</string>
+<string name="circulate_headset_back_to_box_title_phone">Ghép nối tai nghe với thiết bị này</string>
+<string name="circulate_headset_back_to_box_title_tv">Ghép nối tai nghe</string>
+
+<string name="circulate_headset_control_anc_clear">Xuyên âm</string>
+<string name="circulate_headset_control_anc_disable_hint">Tai nghe của bạn đang kết nối với hai thiết bị. Bạn chỉ có thể điều chỉnh âm lượng từ thiết bị này.</string>
+<string name="circulate_headset_control_anc_noise_cancel">Khử tiếng ồn</string>
+<string name="circulate_headset_control_anc_off">Tắt</string>
+
+<string name="circulate_headset_control_audio_effect_off">Tắt âm thanh không gian</string>
+<string name="circulate_headset_control_audio_effect_spatial">Bật âm thanh không gian</string>
+
+<string name="circulate_headset_control_audio_find_earphone">Phát âm thanh</string>
+<string name="circulate_headset_control_audio_find_earphone_wearing_info_cancel">Hủy</string>
+<string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Tiếp tục</string>
+<string name="circulate_headset_control_audio_find_earphone_wearing_info_content">Âm thanh sẽ phát ở mức lớn. Nếu bạn đang đeo tai nghe, tiếp tục có thể gây hại cho thính giác. Hãy tháo tai nghe trước khi tiếp tục.</string>
+<string name="circulate_headset_control_audio_find_earphone_wearing_info_title">Cảnh báo âm lượng lớn</string>
+<string name="circulate_headset_control_audio_stop_find_earphone">Dừng phát âm thanh</string>
+
+<string name="circulate_headset_control_battery_case">Hộp</string>
+<string name="circulate_headset_control_battery_left">Trái</string>
+<string name="circulate_headset_control_battery_right">Phải</string>
+<string name="circulate_headset_control_charging">Đang sạc</string>
+<string name="circulate_headset_control_more_settings">Cài đặt bổ sung</string>
+
+<string name="circulate_headset_duplicate_cancel">Hủy</string>
+<string name="circulate_headset_duplicate_dialog_message">Có vẻ một tai nghe khác đang kết nối với %1$s. Thay thế bằng tai nghe hiện tại?</string>
+<string name="circulate_headset_duplicate_dialog_title">Thay tai nghe đang kết nối với %1$s</string>
+
+<string name="circulate_headset_duplicate_glasses_dialog_message">Kính đã được kết nối. Nếu bạn kết nối với tai nghe này, kính sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_headset_duplicate_glasses_dialog_message_pad">Máy tính bảng của bạn đã kết nối với kính. Nếu bạn kết nối với tai nghe này, kính sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_headset_duplicate_glasses_dialog_message_phone">Điện thoại của bạn đã kết nối với kính. Nếu bạn kết nối với tai nghe này, kính sẽ bị ngắt kết nối. Kết nối ngay?</string>
+<string name="circulate_headset_duplicate_glasses_dialog_message_tv">TV của bạn đã kết nối với kính. Nếu bạn kết nối với tai nghe này, kính sẽ bị ngắt kết nối. Kết nối ngay?</string>
+
+<string name="circulate_headset_duplicate_ok">Thay thế</string>
+    <string name="circulate_headset_error_account_not_match">Đảm bảo bạn đang dùng cùng một Tài khoản Xiaomi trên cả hai thiết bị</string>
+<string name="circulate_headset_error_acquired_by_other_host">Đang được sử dụng trên thiết bị khác. Vui lòng thử lại sau.</string>
+<string name="circulate_headset_error_camera_glasses_not_support">Kính không hỗ trợ truyền giữa các thiết bị</string>
+<string name="circulate_headset_error_default">Kết nối bị hết thời gian chờ</string>
+<string name="circulate_headset_error_device_not_support">Không thể kết nối tai nghe với thiết bị này</string>
+<string name="circulate_headset_error_ear_phone_not_support">Tai nghe này không hỗ trợ chuyển phát âm thanh</string>
+<string name="circulate_headset_error_group_device_not_support">Hãy tắt "Nhóm TV" trong "Chỉnh sửa nhóm thiết bị" trước</string>
+<string name="circulate_headset_error_headset_not_support">Không thể kết nối tai nghe của bạn với máy tính này</string>
+<string name="circulate_headset_error_headset_not_worn">Hãy đeo cả hai tai nghe và thử lại</string>
+<string name="circulate_headset_error_headset_not_worn_both">Hãy đeo cả hai tai nghe và thử lại</string>
+<string name="circulate_headset_error_headset_not_worn_single">Hãy đeo tai nghe để sử dụng tính năng này</string>
+<string name="circulate_headset_error_remote_host_bluetooth_unenable">Hãy bật Bluetooth trên TV
+và đăng nhập Tài khoản Xiaomi</string>
+<string name="circulate_headset_error_self_upgrade">Không thể thực hiện thao tác này. Hãy cập nhật ứng dụng trước.</string>
+<string name="circulate_headset_error_timeout">Kết nối bị hết thời gian chờ</string>
+<string name="circulate_headset_error_upgrade">Hãy cập nhật ứng dụng trên thiết bị đích trước</string>
+
+<string name="circulate_help_button_content_description">Trợ giúp</string>
+<string name="circulate_help_card_subtitle">Xem trợ giúp</string>
+<string name="circulate_help_card_title">Không tìm thấy
+thiết bị của bạn?</string>
+<string name="circulate_help_error">Không thể kết nối mạng</string>
+<string name="circulate_help_exit_button_content_description">Thoát</string>
+<string name="circulate_help_feedback_button">Phản hồi</string>
+
+<string name="circulate_jump_to_mijia">Mở Xiaomi Home</string>
+<string name="circulate_local_pad_name">Máy tính bảng của tôi</string>
+<string name="circulate_local_phone_name">Điện thoại của tôi</string>
+<string name="circulate_more_device">Thêm thiết bị</string>
+<string name="circulate_more_setting">Cài đặt bổ sung</string>
+
+<string name="circulate_network_button_help">Xem trợ giúp</string>
+<string name="circulate_network_cancel">Hủy</string>
+
+<string name="circulate_network_connect_failed_default_message">Đảm bảo điện thoại của bạn và thiết bị cần kết nối đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_message_Mac">Đảm bảo điện thoại của bạn và Mac đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_message_PC">Đảm bảo điện thoại của bạn và máy tính đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_message_iPad">Đảm bảo điện thoại của bạn và iPad đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_message_iPhone">Đảm bảo điện thoại của bạn và iPhone đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+
+<string name="circulate_network_connect_failed_pad_default_message">Đảm bảo máy tính bảng của bạn và thiết bị cần kết nối đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_pad_message_Mac">Đảm bảo máy tính bảng của bạn và Mac đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_pad_message_PC">Đảm bảo máy tính bảng của bạn và máy tính đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_pad_message_iPad">Đảm bảo máy tính bảng của bạn và iPad đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+<string name="circulate_network_connect_failed_pad_message_iPhone">Đảm bảo máy tính bảng của bạn và iPhone đang đăng nhập cùng một tài khoản và cùng mạng, hoặc xem trợ giúp.</string>
+
+<string name="circulate_network_connect_failed_pad_message_unsupport_pad">Không hỗ trợ kết nối với máy tính bảng</string>
+<string name="circulate_network_connect_failed_pad_pc_not_supported">Thiết bị này không được hỗ trợ. Hãy kiểm tra model hoặc phiên bản hệ thống có đáp ứng yêu cầu không. Bạn cũng có thể xem trợ giúp.</string>
+
+<string name="circulate_network_connect_failed_title">Không thể kết nối</string>
+<string name="circulate_network_connect_success_title">Đã kết nối qua mã QR</string>
+
+<string name="circulate_network_connecting_message">Giữ điện thoại mở khóa và màn hình bật.</string>
+<string name="circulate_network_connecting_message_pad">Giữ máy tính bảng mở khóa và màn hình bật.</string>
+<string name="circulate_network_connecting_title">Đang kết nối tới thiết bị…</string>
+
+<string name="circulate_network_failed_cancel">Hủy</string>
+
+<string name="circulate_network_share_launcher_pad_tips">Đảm bảo bạn đã bật tính năng này trong Cài đặt &gt; Liên kết thiết bị trên máy tính bảng Xiaomi.</string>
+<string name="circulate_network_share_launcher_phone_tips">Đảm bảo bạn đã bật tính năng này trong Cài đặt &gt; Liên kết thiết bị trên điện thoại Xiaomi.</string>
+
+<string name="circulate_open_in_tv">Mở trên TV</string>
+    <string name="circulate_pad_app_continuity">Đang dùng %1$s của điện thoại</string>
+<string name="circulate_pad_card_being_used_camera">Đang dùng camera điện thoại trên máy tính bảng</string>
+<string name="circulate_pad_card_being_used_cellular">Máy tính bảng đang dùng dữ liệu di động</string>
+<string name="circulate_pad_card_being_used_cellular_wifi">Đang chia sẻ Wi-Fi cho máy tính bảng</string>
+<string name="circulate_pad_card_being_used_cellular_wifi_china">Đang chia sẻ WLAN cho máy tính bảng</string>
+<string name="circulate_pad_card_use_camera">Dùng camera của máy tính bảng</string>
+<string name="circulate_pad_card_use_desktop">Chia sẻ Màn hình chính+ với máy tính bảng</string>
+<string name="circulate_pad_card_using_camera">Đang dùng camera của máy tính bảng</string>
+<string name="circulate_pad_card_using_desktop">Đang chia sẻ Màn hình chính+ với máy tính bảng</string>
+
+<string name="circulate_pc_card_use_desktop">Chia sẻ Màn hình chính+ với máy tính</string>
+<string name="circulate_pc_card_use_km">Chia sẻ chuột với máy tính</string>
+<string name="circulate_pc_card_using_camera">Máy tính đang dùng camera của thiết bị</string>
+<string name="circulate_pc_card_using_desktop">Đang chia sẻ Màn hình chính+ với máy tính</string>
+<string name="circulate_pc_card_using_km">Đang chia sẻ chuột với máy tính…</string>
+
+<string name="circulate_phone_app_continuity">Đang dùng %1$s trên máy tính bảng</string>
+<string name="circulate_phone_card_being_used_camera">Đang dùng camera máy tính bảng trên điện thoại</string>
+<string name="circulate_phone_card_use_camera">Dùng camera của điện thoại</string>
+<string name="circulate_phone_card_use_cellular">Dùng dữ liệu di động của điện thoại</string>
+<string name="circulate_phone_card_use_desktop">Mở Màn hình chính+ trên điện thoại</string>
+<string name="circulate_phone_card_using_camera">Đang dùng camera điện thoại…</string>
+<string name="circulate_phone_card_using_cellular">Đang dùng dữ liệu di động của điện thoại</string>
+<string name="circulate_phone_card_using_cellular_wifi">Đang dùng Wi-Fi của điện thoại</string>
+<string name="circulate_phone_card_using_cellular_wifi_china">Đang dùng WLAN của điện thoại</string>
+<string name="circulate_phone_card_using_desktop">Đang dùng Màn hình chính+ của điện thoại</string>
+<string name="circulate_phone_card_using_sink_desktop">Đang chia sẻ Màn hình chính+ với điện thoại</string>
+
+<string name="circulate_public_device_title_format">%1$s - %2$s</string>
+
+<string name="circulate_ringfind_button_hint_play">Phát âm thanh</string>
+<string name="circulate_ringfind_button_hint_stop">Dừng phát âm thanh</string>
+<string name="circulate_ringfind_error_hint_ringing">Âm thanh đang phát</string>
+<string name="circulate_ringfind_error_hint_start">Không thể phát âm thanh. Thử lại.</string>
+<string name="circulate_ringfind_error_hint_stop">Không thể dừng âm thanh. Thử lại.</string>
+<string name="circulate_ringfind_title">Phát âm thanh</string>
+<string name="circulate_ringfind_title_stop">Dừng phát âm thanh</string>
+
+<string name="circulate_sound_group_title">Nhóm loa</string>
+<string name="circulate_speaker_control_view">Từ %1$s</string>
+
+<string name="circulate_sport_device_find_band">Tìm vòng đeo tay</string>
+<string name="circulate_sport_device_find_start">Đang tìm thiết bị…</string>
+<string name="circulate_sport_device_find_start_failed">Không tìm thấy thiết bị. Thử lại.</string>
+<string name="circulate_sport_device_find_stop">Dừng</string>
+<string name="circulate_sport_device_find_stop_failed">Không thể dừng tìm kiếm. Thử lại.</string>
+<string name="circulate_sport_device_find_watch">Tìm đồng hồ</string>
+
+<string name="circulate_taking_photo">Đang dùng camera điện thoại…</string>
+
+<string name="circulate_title">Trung tâm Xiaomi</string>
+<string name="circulate_to_mijia">Thiết bị nhà thông minh</string>
+
+<string name="circulate_tv_app_opening">Đang mở trên TV…</string>
+<string name="circulate_tv_capturing">Đang chụp màn hình…</string>
+<string name="circulate_tv_group_title">Nhóm TV</string>
+<string name="circulate_tv_is_authing_tip">Đang xác minh thiết bị. Đợi một lúc rồi thử lại.</string>
+<string name="circulate_tv_name">TV Xiaomi</string>
+
+<string name="circulate_tv_power_alter_text">Sau khi tắt TV, điều khiển và TV sẽ biến mất khỏi trang này. Tắt ngay?</string>
+<string name="circulate_tv_power_alter_title">Tắt TV</string>
+
+<string name="circulate_video_capture_fail">Không thể chụp màn hình</string>
+<string name="circulate_video_capture_success">Đã chụp màn hình thành công</string>
+<string name="circulate_video_retry_later">Đang thử điều khiển TV…</string>
+
+<string name="click_to_use_device_camera_description">Nhấn để dùng camera của %1$s.</string>
+
+<string name="clipboard_cancel_sync">Hủy</string>
+<string name="clipboard_loading">Đang dán từ %1$s</string>
+
+<string name="close_invisible_mode_dialog_cancel">Hủy</string>
+<string name="close_invisible_mode_dialog_message">Không thể dùng Xiaomi Smart Play. Hãy tắt chế độ Ẩn danh trong Cài đặt để sử dụng.</string>
+<string name="close_invisible_mode_dialog_ok">Cài đặt</string>
+<string name="close_invisible_mode_dialog_title">Bạn đang ở chế độ Ẩn danh</string>
+
+<string name="compose_camera_with_device_cancel_description">Đang kết hợp camera với %1$s. Nhấn nút bên phải để hủy.</string>
+    <string name="compose_camera_with_device_description">Đang kết hợp camera với %1$s</string>
+<string name="compose_view_back_button_description">Quay lại thẻ Camera đa thiết bị</string>
+
+<string name="connect_setting_privacy_title">Quyền riêng tư</string>
+<string name="connect_settings_all_around">Từ mọi người (trong %d phút)</string>
+<string name="connect_settings_application_ecological">Kết hợp ứng dụng</string>
+<string name="connect_settings_base">Liên kết thiết bị</string>
+
+<string name="connect_settings_category_connected_devices">Quản lý thiết bị đã kết nối</string>
+<string name="connect_settings_category_connection_car">Tính năng xe</string>
+<string name="connect_settings_category_personal_device">Thiết bị cá nhân</string>
+
+<string name="connect_settings_close">Tắt</string>
+<string name="connect_settings_communication_sharing">Chia sẻ kết nối</string>
+<string name="connect_settings_communication_sharing_global">Đồng bộ mạng</string>
+
+<string name="connect_settings_connect_permission">Liên kết thiết bị &amp; quyền</string>
+<string name="connect_settings_connect_privacy">Quyền riêng tư</string>
+<string name="connect_settings_connection_service">Liên kết thiết bị</string>
+
+<string name="connect_settings_corp_network">Hỗ trợ mạng</string>
+<string name="connect_settings_corp_phone">Đồng bộ cuộc gọi</string>
+
+<string name="connect_settings_general_category_share_camera">Cho phép camera đa thiết bị trên các thiết bị này</string>
+<string name="connect_settings_general_category_share_launcher">Cho phép Màn hình chính+ trên các thiết bị này</string>
+
+<string name="connect_settings_general_summary_corp_phone_pad">Trả lời cuộc gọi từ điện thoại gần đó trên máy tính bảng đăng nhập cùng tài khoản Xiaomi</string>
+<string name="connect_settings_general_summary_corp_phone_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính gần đó đăng nhập cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_relay_app">Sử dụng cùng một ứng dụng trên các thiết bị đăng nhập cùng tài khoản Xiaomi.
+Hỗ trợ điện thoại, máy tính bảng và máy tính.</string>
+
+<string name="connect_settings_general_summary_share_camera">Dùng camera điện thoại để thay đổi góc quay khi gọi video hoặc livestream trên thiết bị gần đó (máy tính bảng, máy tính) cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_share_clipboard">Sao chép văn bản, hình ảnh hoặc tệp trên một thiết bị và dán sang thiết bị khác gần đó (điện thoại, máy tính bảng, máy tính hoặc xe) cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_share_file">Truy cập trực tiếp tệp trên điện thoại từ máy tính gần đó cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_share_launcher_phone">Xem, điều khiển điện thoại và dùng ứng dụng trên đó từ thiết bị gần đó (máy tính bảng, máy tính, xe) cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_share_launcher_phone_v2">Xem, điều khiển thiết bị này và dùng ứng dụng từ điện thoại, máy tính bảng, máy tính hoặc xe gần đó đăng nhập cùng tài khoản</string>
+
+<string name="connect_settings_general_summary_share_notification_pad">Hiển thị cảnh báo pin yếu từ điện thoại gần đó trên máy tính bảng cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_general_summary_share_notification_phone">Hiển thị thông báo quan trọng của điện thoại trên TV, máy tính bảng và máy tính gần đó cùng tài khoản Xiaomi.
+Hỗ trợ ứng dụng giao đồ ăn, gọi xe trên TV và cảnh báo pin yếu trên máy tính bảng, máy tính.</string>
+
+<string name="connect_settings_general_summary_share_notification_phone_global">Hiển thị thông báo pin yếu của điện thoại trên máy tính bảng gần đó đăng nhập cùng tài khoản</string>
+
+<string name="connect_settings_known_button">Đã hiểu</string>
+
+<string name="connect_settings_mi_share">Xiaomi Share</string>
+<string name="connect_settings_nfc_share">Truyền dữ liệu qua NFC</string>
+
+<string name="connect_settings_not_opened">Tắt</string>
+<string name="connect_settings_opened">Bật</string>
+
+<string name="connect_settings_privacy_policy">Chính sách quyền riêng tư</string>
+<string name="connect_settings_refresh">Làm mới</string>
+
+<string name="connect_settings_relay_app">Ứng dụng</string>
+<string name="connect_settings_same_account">Từ tài khoản này</string>
+
+<string name="connect_settings_screen_cast">Truyền màn hình</string>
+<string name="connect_settings_share_camera">Camera đa thiết bị</string>
+<string name="connect_settings_share_clipboard">Bảng tạm</string>
+<string name="connect_settings_share_file">Truy cập tệp</string>
+<string name="connect_settings_share_launcher">Màn hình chính+</string>
+    <string name="connect_settings_share_launcher_sub_feature_ipad_face_summary_unlock">Mở khóa điện thoại Xiaomi và ứng dụng bằng Face ID hoặc mật khẩu trên iPad</string>
+<string name="connect_settings_share_launcher_sub_feature_ipad_fingerprint_summary_unlock">Mở khóa điện thoại Xiaomi và ứng dụng bằng vân tay hoặc mật khẩu trên iPad</string>
+<string name="connect_settings_share_launcher_sub_feature_iphone_fingerprint_summary_unlock">Mở khóa điện thoại Xiaomi và ứng dụng bằng vân tay hoặc mật khẩu trên iPhone</string>
+<string name="connect_settings_share_launcher_sub_feature_iphone_summary_unlock">Dùng Face ID hoặc mật khẩu trên iPhone để mở khóa điện thoại Xiaomi và ứng dụng</string>
+<string name="connect_settings_share_launcher_sub_feature_iphone_unlock">Mở khóa bằng khuôn mặt hoặc mật khẩu</string>
+
+<string name="connect_settings_share_launcher_sub_feature_macbook_summary_unlock">Dùng vân tay hoặc mật khẩu trên Mac để mở khóa điện thoại và ứng dụng</string>
+
+<string name="connect_settings_share_launcher_sub_feature_micar_summary_unlock">Mở khóa điện thoại và ứng dụng bằng nhận diện khuôn mặt qua camera xe Xiaomi EV</string>
+<string name="connect_settings_share_launcher_sub_feature_micar_unlock">Mở khóa bằng khuôn mặt</string>
+
+<string name="connect_settings_share_launcher_sub_feature_pad_quick_open_app">Mở nhanh ứng dụng sau khi mở khóa</string>
+<string name="connect_settings_share_launcher_sub_feature_pad_summary_unlock">Dùng vân tay hoặc mật khẩu trên máy tính bảng Xiaomi để mở khóa điện thoại và ứng dụng</string>
+<string name="connect_settings_share_launcher_sub_feature_phone_summary_unlock">Dùng vân tay hoặc mật khẩu của điện thoại này để mở khóa thiết bị và ứng dụng</string>
+
+<string name="connect_settings_share_launcher_sub_feature_summary_pad_quick_open_app">Thêm ứng dụng điện thoại vào Màn hình chính của máy tính bảng. Sau khi điện thoại được mở khóa, có thể mở trực tiếp từ máy tính bảng.</string>
+
+<string name="connect_settings_share_launcher_sub_feature_unlock">Dùng vân tay hoặc nhập mật khẩu để mở khóa</string>
+
+<string name="connect_settings_share_notification">Thông báo</string>
+<string name="connect_settings_share_notification_help">Trợ giúp</string>
+
+<string name="connect_settings_share_notification_iphone_device">Hiển thị thông báo từ thiết bị này trên iPhone</string>
+<string name="connect_settings_share_notification_local_device">Hiển thị thông báo iPhone trên thiết bị này</string>
+
+<string name="connect_settings_share_notification_local_device_summary">Để nhận cuộc gọi, tin nhắn và thông báo ứng dụng trên thiết bị này, hãy bật đồng bộ thông báo sang điện thoại Xiaomi tại Xiaomi Interconnectivity &gt; Đồng bộ thông báo &gt; Đồng bộ sang Xiaomi trên iPhone.</string>
+
+<string name="connect_settings_share_notification_local_device_summary_v2">Để nhận cuộc gọi, tin nhắn và thông báo ứng dụng trên thiết bị Xiaomi, hãy kết nối trên iPhone tại Xiaomi Interconnectivity &gt; Đồng bộ thông báo &gt; Đồng bộ sang Xiaomi.</string>
+
+<string name="connect_settings_share_notification_local_device_title">Nhận thông báo từ %1$s</string>
+
+<string name="connect_settings_share_notification_local_other_mi_device">Hiển thị thông báo từ điện thoại Xiaomi khác trên thiết bị này</string>
+<string name="connect_settings_share_notification_mi_device">Hiển thị thông báo từ thiết bị này trên thiết bị Xiaomi</string>
+
+<string name="connect_settings_share_notification_mi_device_category">Đồng bộ sang thiết bị gần đó</string>
+<string name="connect_settings_share_notification_mi_device_category_v2">Đồng bộ thông báo cục bộ sang thiết bị gần đó</string>
+
+<string name="connect_settings_share_notification_mi_device_v2">Máy tính bảng hoặc TV Xiaomi</string>
+<string name="connect_settings_share_notification_mi_device_v3">Máy tính bảng, máy tính hoặc TV Xiaomi</string>
+
+<string name="connect_settings_share_notification_more_feature">Tính năng khác</string>
+
+<string name="connect_settings_share_notification_other_mi_local_device">Hiển thị thông báo cục bộ trên điện thoại Xiaomi khác</string>
+
+<string name="connect_settings_share_notification_receive_tab">Nhận</string>
+<string name="connect_settings_share_notification_receive_tab_device_category">Thiết bị khả dụng</string>
+<string name="connect_settings_share_notification_receive_tab_device_category_v2">Nhận từ các thiết bị này</string>
+
+<string name="connect_settings_share_notification_receive_tab_offline_summary">Đảm bảo %1$s đăng nhập cùng tài khoản với thiết bị này và đã bật Liên kết thiết bị trong Cài đặt.</string>
+<string name="connect_settings_share_notification_receive_tab_offline_title">Không thể kết nối với %1$s</string>
+
+<string name="connect_settings_share_notification_receive_tab_search_summary_china">Đảm bảo hai thiết bị đăng nhập cùng tài khoản và cùng mạng, hoặc đã bật Bluetooth và WLAN trên cả hai thiết bị.</string>
+<string name="connect_settings_share_notification_receive_tab_search_summary_global">Đảm bảo hai thiết bị đăng nhập cùng tài khoản và cùng mạng, hoặc đã bật Bluetooth và Wi-Fi trên cả hai thiết bị.</string>
+
+<string name="connect_settings_share_notification_receive_tab_search_summary_v2_china">Đảm bảo hai thiết bị đăng nhập cùng tài khoản và cùng mạng, hoặc đã bật WLAN trên cả hai thiết bị.</string>
+<string name="connect_settings_share_notification_receive_tab_search_summary_v2_global">Đảm bảo hai thiết bị đăng nhập cùng tài khoản và cùng mạng, hoặc đã bật Wi-Fi trên cả hai thiết bị.</string>
+
+<string name="connect_settings_share_notification_receive_tab_searching_title">Đang tìm thiết bị…</string>
+
+<string name="connect_settings_share_notification_receive_tab_summary_china">Khi thiết bị kết nối mạng, bạn có thể nhận thông báo từ thiết bị cùng tài khoản. Nếu thiết bị ở gần và bật Bluetooth + WLAN, bạn có thể phản chiếu ứng dụng và trả lời tin nhắn.</string>
+
+<string name="connect_settings_share_notification_receive_tab_summary_global">Khi thiết bị kết nối mạng, bạn có thể nhận thông báo từ thiết bị cùng tài khoản. Nếu thiết bị ở gần và bật Bluetooth + Wi-Fi, bạn có thể phản chiếu ứng dụng và trả lời tin nhắn.</string>
+
+<string name="connect_settings_share_notification_receive_tab_summary_v2_china">• Khi thiết bị kết nối internet, có thể nhận thông báo khi điện thoại cùng tài khoản bị khóa
+• Khi điện thoại ở gần và bật Bluetooth + WLAN, có thể trả lời tin nhắn bằng cách nhấn vào thông báo</string>
+
+<string name="connect_settings_share_notification_receive_tab_summary_v2_global">• Khi thiết bị kết nối internet, có thể nhận thông báo khi điện thoại cùng tài khoản bị khóa
+• Khi điện thoại ở gần và bật Bluetooth + Wi-Fi, có thể trả lời tin nhắn bằng cách nhấn vào thông báo</string>
+
+<string name="connect_settings_share_notification_receive_tab_unfound_title">Không tìm thấy thiết bị khả dụng</string>
+
+<string name="connect_settings_share_notification_receive_tab_unsubscribe_summary">Để quản lý thông báo trên thiết bị này, hãy bật đồng bộ thông báo sang thiết bị Xiaomi trong Xiaomi Interconnectivity &gt; Đồng bộ thông báo &gt; Đồng bộ sang Xiaomi trên %1$s.</string>
+
+<string name="connect_settings_share_notification_receive_tab_unsubscribe_title">"Đồng bộ thông báo" đã tắt trên %1$s</string>
+
+<string name="connect_settings_share_notification_receive_tab_v2">Nhận thông báo</string>
+
+<string name="connect_settings_share_notification_send_tab">Đồng bộ</string>
+<string name="connect_settings_share_notification_send_tab_device_category">Đồng bộ sang điện thoại</string>
+<string name="connect_settings_share_notification_send_tab_device_category_v2">Đồng bộ thông báo sang điện thoại khác của tôi</string>
+
+<string name="connect_settings_share_notification_send_tab_summary">Hiển thị thông báo từ thiết bị này trên điện thoại, máy tính bảng hoặc TV cùng tài khoản.
+*Hỗ trợ: Điện thoại hiển thị cuộc gọi, tin nhắn, thông báo; TV hiển thị giao đồ ăn, gọi xe; máy tính bảng và máy tính hiển thị cảnh báo pin yếu.</string>
+
+<string name="connect_settings_share_notification_send_tab_summary_v2">• Thông báo khi thiết bị bị khóa có thể hiển thị trên thiết bị khác cùng tài khoản
+• Điện thoại hiển thị cuộc gọi, SMS, thông báo; TV hiển thị giao đồ ăn, gọi xe; máy tính bảng và máy tính hiển thị cảnh báo pin yếu</string>
+
+<string name="connect_settings_share_notification_send_tab_v2">Đồng bộ sang thiết bị khác</string>
+
+<string name="connect_settings_summary_connection_service">Cho phép các thiết bị kết nối và tương tác không dây</string>
+<string name="connect_settings_summary_corp_network">Dùng mạng điện thoại trên máy tính bảng hoặc máy tính</string>
+<string name="connect_settings_summary_corp_phone">Trả lời cuộc gọi trên thiết bị gần đó cùng tài khoản Xiaomi</string>
+
+<string name="connect_settings_summary_global">Tìm thiết bị gần đó cùng tài khoản Xiaomi và thêm vào Trung tâm Xiaomi</string>
+
+<string name="connect_settings_summary_global_v2">Tự động phát hiện thiết bị gần đó cùng tài khoản Xiaomi và kết nối để thực hiện tác vụ đa thiết bị.
+Hãy bật Wi-Fi và Bluetooth trước khi sử dụng.</string>
+
+<string name="connect_settings_summary_relay_app">Tiếp tục công việc trên thiết bị khác với cùng ứng dụng</string>
+<string name="connect_settings_summary_relay_app_v2">Tiếp tục công việc trên thiết bị khác với cùng ứng dụng</string>
+
+<string name="connect_settings_summary_share_clipboard">Nội dung đã sao chép có thể dán sang thiết bị khác trong %d phút</string>
+<string name="connect_settings_summary_share_clipboard_v2">Nội dung đã sao chép có thể dán sang thiết bị khác trong %d phút</string>
+
+<string name="connect_settings_summary_share_file">Truy cập tệp cục bộ từ máy tính gần đó</string>
+
+<string name="connect_settings_summary_share_launcher_pad">Xem và điều khiển Màn hình chính của điện thoại gần đó</string>
+<string name="connect_settings_summary_share_launcher_pad_v2">Điều khiển điện thoại từ máy tính bảng</string>
+
+<string name="connect_settings_summary_share_launcher_phone">Cho phép thiết bị gần đó xem và điều khiển Màn hình chính của thiết bị này</string>
+<string name="connect_settings_summary_share_launcher_phone_v2">Điều khiển điện thoại từ máy tính bảng, máy tính hoặc xe</string>
+<string name="connect_settings_summary_share_launcher_phone_v3">Điều khiển thiết bị này từ điện thoại, máy tính bảng, máy tính hoặc xe</string>
+
+<string name="connect_settings_summary_share_notification_pad">Nhận thông báo từ điện thoại gần đó cùng tài khoản Xiaomi</string>
+<string name="connect_settings_summary_share_notification_pad_v2">Hiển thị thông báo từ điện thoại gần đó trên thiết bị này</string>
+
+<string name="connect_settings_summary_share_notification_phone">Hiển thị thông báo trên thiết bị gần đó khi điện thoại bị khóa</string>
+<string name="connect_settings_summary_share_notification_phone_v2">Hiển thị thông báo quan trọng của điện thoại trên TV, máy tính bảng và máy tính</string>
+    <string name="connect_settings_user_agreement">Thỏa thuận người dùng</string>
+<string name="connect_settings_withdraw_consent">Rút lại sự đồng ý</string>
+<string name="connection_failed">Không thể kết nối camera</string>
+<string name="controller_auth_cancel">Hủy</string>
+<string name="controller_auth_title">Xác minh điều khiển từ xa</string>
+<string name="debug_mode_idm_version">Phiên bản IDM</string>
+<string name="debug_mode_log_desc">Mặc định ẩn dữ liệu nhạy cảm (IP và MAC)</string>
+<string name="debug_mode_log_title">In log chi tiết</string>
+<string name="debug_mode_milink_version">Phiên bản MiLink</string>
+<string name="debug_mode_miplay_limit_desc">Mặc định yêu cầu Android P trở lên &amp;&amp; chip Qualcomm &amp;&amp; bản nội địa &amp;&amp; đã thích ứng quyền riêng tư</string>
+<string name="debug_mode_miplay_limit_title">Bỏ giới hạn điều kiện MiPlay</string>
+<string name="debug_mode_miplay_support">Có hỗ trợ MiPlay hay không</string>
+<string name="debug_mode_miplay_version">Phiên bản MiPlay</string>
+<string name="debug_mode_wait_remove_desc">Mặc định sẽ hiển thị popup quét ít nhất 1 giây</string>
+<string name="default_iphone_device_market_name">iPhone</string>
+<string name="default_web_client_id">687519570831-jhea9co2r033aaptoj7b50bcredbeos4.apps.googleusercontent.com</string>
+<string name="device_busy">Thiết bị đang bận. Hãy đợi 1–2 phút rồi thử lại.</string>
+<string name="device_permission_authorize_dialog_message">Sau khi cấp quyền, thiết bị này sẽ có thể sử dụng %s để chụp ảnh và quay video.</string>
+<string name="device_permission_authorize_dialog_message_car_pad">Cho phép xe điện sử dụng camera của máy tính bảng để xem hàng ghế sau.</string>
+<string name="device_permission_authorize_dialog_title">Cấp quyền camera cho %s</string>
+<string name="device_permission_authorize_dialog_title_car_pad">Cấp quyền trên máy tính bảng của bạn</string>
+<string name="device_permission_dialog_message">Trên "%s", vào Cài đặt &gt; Quyền riêng tư &amp; bảo mật &gt; Kết nối liên thiết bị và quyền, rồi cấp quyền camera để sử dụng tính năng này.</string>
+<string name="device_permission_dialog_message_car">Trên %s, vào Cài đặt &gt; Hệ thống &gt; Quản lý ứng dụng &gt; Quyền đặc biệt &gt; Kết nối liên thiết bị và cấp quyền camera.</string>
+<string name="device_permission_dialog_message_car_pad">Để sử dụng tính năng này, hãy cấp quyền camera trên máy tính bảng trong Cài đặt &gt; Quyền riêng tư &amp; bảo mật &gt; Kết nối liên thiết bị và quyền.</string>
+<string name="device_permission_dialog_message_global">Trong ứng dụng Bảo mật của %s, vào Bảo vệ quyền riêng tư &gt; Kết nối liên thiết bị và quyền và cấp quyền Camera.</string>
+<string name="device_permission_dialog_message_global_old">Trong Cài đặt của %s, vào Kết nối liên thiết bị &gt; Kết nối liên thiết bị và quyền và cấp quyền Camera.</string>
+<string name="device_permission_dialog_positive_button">Đã hiểu</string>
+<string name="device_permission_dialog_title">Cấp quyền trên %s</string>
+<string name="device_permission_dialog_title_car_pad">Cấp quyền trên máy tính bảng của bạn</string>
+<string name="device_type_name_pad">Máy tính bảng</string>
+<string name="device_type_name_phone">Điện thoại</string>
+<string name="dialog_auth_title">Mã xác minh</string>
+<string name="dialog_confirm_button">Đã hiểu</string>
+<string name="dialog_confirm_remote_status">Kiểm tra trạng thái %1$s</string>
+<string name="dialog_copy_it">Sao chép</string>
+<string name="dialog_enable_remote_notification">Cho phép thông báo liên thiết bị trên %1$s</string>
+<string name="dialog_enable_remote_notification_content_v2">Cài đặt này tạm thời không khả dụng. Hãy đảm bảo %1$s đã bật trong Cài đặt &gt; Kết nối thiết bị &gt; Thông báo liên thiết bị &gt; Đồng bộ thông báo cục bộ.</string>
+<string name="dialog_incoming_call_instruction">Trả lời trên %1$s</string>
+<string name="dialog_know_it">Đã hiểu</string>
+<string name="dialog_message_instruction_subtitle_call">Bạn có thể trả lời trên %1$s</string>
+<string name="dialog_message_instruction_subtitle_call_1">Bạn có thể trả lời trên điện thoại Xiaomi</string>
+<string name="dialog_message_instruction_subtitle_call_phone_1">Bạn có thể trả lời trên iPhone</string>
+<string name="dialog_message_instruction_subtitle_reply">Bạn có thể trả lời trên %1$s</string>
+<string name="dialog_message_instruction_subtitle_reply_1">Bạn có thể trả lời trên điện thoại Xiaomi</string>
+<string name="dialog_message_instruction_subtitle_reply_phone_1">Bạn có thể trả lời trên iPhone</string>
+<string name="dialog_message_reply_instruction">Trả lời trên %1$s</string>
+<string name="dialog_nearbydevice_permission_message_connectivity">Tính năng Kết nối liên thiết bị cần quyền kết nối thiết bị gần. Nếu không có, tính năng sẽ không hoạt động bình thường. Bạn có thể cấp quyền trong Cài đặt.</string>
+<string name="dialog_nearbydevice_permission_title_connectivity">Yêu cầu quyền</string>
+<string name="dialog_open_remote_switch_content">Không thể áp dụng cài đặt. Hãy đảm bảo %1$s đăng nhập cùng tài khoản và cùng mạng với thiết bị này.</string>
+<string name="dialog_remote_authorization">Cấp quyền trên %1$s</string>
+<string name="dialog_remote_authorization_content">Cấp quyền thông báo cho Kết nối liên thiết bị trên %1$s.</string>
+<string name="dialog_reset_app_subscribe">Cho phép thông báo từ %1$s</string>
+<string name="dialog_reset_app_subscribe_content">%2$s trước đây đã bị gỡ khỏi %1$s. Không thể nhận thông báo ứng dụng trên thiết bị này. Hãy thay đổi cài đặt và thử lại.</string>
+<string name="dialog_reset_app_subscribe_multi">Thay đổi cài đặt thông báo</string>
+<string name="dialog_reset_app_subscribe_multi_2_content">%2$s và %3$s trước đây đã bị gỡ khỏi %1$s. Không thể nhận thông báo ứng dụng trên thiết bị này. Hãy thay đổi cài đặt và thử lại.</string>
+<string name="dialog_reset_app_subscribe_multi_3_content">%2$s, %3$s và %4$s trước đây đã bị gỡ khỏi %1$s. Không thể nhận thông báo ứng dụng trên thiết bị này. Hãy thay đổi cài đặt và thử lại.</string>
+<string name="disconnect_access">Ngắt kết nối</string>
+<string name="dist_file_notification_subtitle">"%s" muốn truy cập file trên thiết bị này</string>
+<string name="dist_file_notification_title">Truy cập file liên thiết bị</string>
+<string name="distributed_hardware_info_version">1.1.1</string>
+<string name="edit_device_group">Chỉnh sửa nhóm thiết bị</string>
+<string name="enable_remote_notification_to_local_v2">Hiện không thể nhận thông báo. Hãy đảm bảo %1$s đã bật trong Cài đặt &gt; Kết nối thiết bị &gt; Thông báo liên thiết bị &gt; Đồng bộ thông báo cục bộ.</string>
+<string name="enable_screen_projection_summary_pad">Chiếu màn hình máy tính bảng lên TV hoặc thiết bị gần đó</string>
+<string name="err_toast_msg_audio_support_support_only">Thiết bị này chỉ hỗ trợ truyền âm thanh. Hãy kéo thẻ âm thanh.</string>
+<string name="err_toast_msg_default">Thao tác này không được hỗ trợ</string>
+<string name="err_toast_msg_mirror_and_bluetooth_support_only">Không thể truyền âm thanh</string>
+<string name="err_toast_msg_mirror_support_support_only">Thiết bị này chỉ hỗ trợ phản chiếu màn hình. Hãy kéo thẻ màn hình.</string>
+<string name="err_toast_msg_not_support">Thao tác này không được hỗ trợ</string>
+<string name="err_toast_msg_not_support_audio_protocol">Không thể truyền âm thanh đến thiết bị này</string>
+<string name="err_toast_msg_retry_later">Không thể thực hiện. Hãy đợi 1–2 phút rồi thử lại.</string>
+<string name="err_toast_msg_state_not_support">Không hỗ trợ kéo</string>
+<string name="err_toast_msg_try_switch_network">Kết nối điện thoại và máy tính cùng mạng WLAN</string>
+<string name="error_a11y_label">Lỗi: không hợp lệ</string>
+<string name="extended_screen_bittom">Mở rộng từ dưới</string>
+<string name="extended_screen_left">Mở rộng từ bên trái</string>
+<string name="extended_screen_right">Mở rộng từ bên phải</string>
+<string name="extended_screen_top">Mở rộng từ trên</string>
+<string name="extension_not_supported_toast">Không hỗ trợ mở rộng ứng dụng trong trường hợp này</string>
+<string name="file_deleted">File gốc đã bị xóa</string>
+<string name="file_read_des">Dùng để hiển thị ảnh và file trên màn hình ngoài</string>
+<string name="find_device_close">Đã hiểu</string>
+<string name="find_device_title">Đang phát âm thanh trên thiết bị</string>
+<string name="gesture_drag_end">Hoàn tất</string>
+<string name="gesture_drag_start">Bắt đầu di chuyển</string>
+<string name="gesture_recognition_success">Nhận diện thành công</string>
+<string name="global_dialog_cancle">Hủy</string>
+<string name="global_dialog_miplay_permission_positive">Cài đặt</string>
+<string name="global_dialog_nearbydevice_permission_message">Kết nối liên thiết bị cần quyền kết nối thiết bị gần để phát hiện. Hãy cấp quyền trong Cài đặt.</string>
+<string name="global_dialog_nearbydevice_permission_title">Yêu cầu quyền</string>
+<string name="i_see">Đã hiểu</string>
+<string name="image_transfer_failed">Không thể truyền ảnh</string>
+<string name="install">Cài đặt</string>
+<string name="inter_connect_setting_unavailable_dialog_message">Mở Cài đặt &gt; Kết nối liên thiết bị để bật camera liên thiết bị.</string>
+<string name="inter_connect_setting_unavailable_dialog_positive_button">Đã hiểu</string>
+<string name="inter_connect_setting_unavailable_dialog_title">Camera liên thiết bị</string>
+<string name="is_accessed_by">"%1$s" đang truy cập thiết bị này</string>
+<string name="jump_market_dialog_btn_cancel">Hủy</string>
+<string name="jump_market_dialog_btn_open">Mở</string>
+<string name="jump_market_dialog_message">Tính năng này không được hỗ trợ. Bạn có thể cập nhật trong GetApps. Mở ngay?</string>
+<string name="jump_market_dialog_title">Chú ý</string>
+<string name="km_synergy_error">Kết nối hết thời gian. Hãy bật Bluetooth và Wi-Fi trên cả hai thiết bị và đảm bảo trong phạm vi kết nối.</string>
+<string name="library_name">Điều khiển camera từ xa</string>
+<string name="local_camera_device">Thiết bị này</string>
+<string name="local_device_camera">Thiết bị này</string>
+<string name="local_hotspot_opening">Tắt điểm phát sóng của thiết bị này rồi thử lại</string>
+<string name="message_install">Cài Mi Canvas để vẽ liên thiết bị.</string>
+<string name="message_update">Cập nhật Mi Canvas để vẽ liên thiết bị.</string>
+<string name="miplay_accessibility_next">Bài tiếp theo</string>
+<string name="miplay_accessibility_pause">Tạm dừng</string>
+<string name="miplay_accessibility_play">Phát</string>
+<string name="miplay_accessibility_prev">Bài trước</string>
+<string name="miplay_accessibility_seekbar">Thanh tiến trình</string>
+<string name="miplay_accessibility_volume">Âm lượng</string>
+<string name="miplay_detail_divider_title">Loa</string>
+<string name="miplay_detail_header_no_song">Không phát</string>
+<string name="miplay_detail_title_text">Phát ở mọi nơi</string>
+<string name="miplay_device_full_name">%1$s của %2$s</string>
+<string name="miplay_headset_lc3_hint">Tắt chế độ LC3 để chuyển âm thanh về thiết bị này.</string>
+<string name="miplay_mini_card_no_song_but_attached_hint">Chuẩn bị phát âm thanh trên %1$s</string>
+<string name="miplay_mini_card_no_song_pad_title">Âm thanh máy tính bảng</string>
+<string name="miplay_mini_card_no_song_subtitle">Không phát</string>
+<string name="miplay_mini_card_no_song_title">Âm thanh điện thoại</string>
+<string name="miplay_service_timeout_toast">Kết nối đã hết thời gian chờ. Thử lại.</string>
+<string name="miplay_song_title_empty">Không có nội dung</string>
+
+<string name="mirror_phone_content">Bật Home screen+ ngay?</string>
+<string name="mirror_phone_content_remote">Bạn có thể bật Home screen+ trong Cài đặt &gt; Kết nối liên thiết bị.</string>
+<string name="mirror_phone_content_remote_V1">Bật Home screen+ trong Cài đặt &gt; Kết nối liên thiết bị &gt; Home screen+ trên %1$s.</string>
+<string name="mirror_phone_title">Bật Home screen+</string>
+<string name="mirror_phone_title_remote">Bật Home screen+ trên điện thoại</string>
+<string name="mirror_phone_title_remote_V1">Bật Home screen+ trước</string>
+<string name="mirror_remote_pad_content">Bạn có thể bật Home screen+ trong Cài đặt &gt; Kết nối liên thiết bị.</string>
+<string name="mirror_remote_pad_title">Bật Home screen+ trên máy tính bảng</string>
+
+<string name="mr_button_content_description">Truyền màn hình</string>
+<string name="mr_cast_button_connected">Truyền màn hình. Đã kết nối</string>
+<string name="mr_cast_button_connecting">Truyền màn hình. Đang kết nối</string>
+<string name="mr_cast_button_disconnected">Truyền màn hình. Chưa kết nối</string>
+<string name="mr_cast_dialog_title_view_placeholder">Không có thông tin</string>
+<string name="mr_chooser_searching">Đang tìm thiết bị</string>
+<string name="mr_chooser_title">Truyền tới</string>
+<string name="mr_controller_album_art">Ảnh bìa</string>
+<string name="mr_controller_casting_screen">Đang truyền màn hình</string>
+<string name="mr_controller_close_description">Đóng</string>
+<string name="mr_controller_collapse_group">Thu gọn</string>
+<string name="mr_controller_disconnect">Ngắt kết nối</string>
+<string name="mr_controller_expand_group">Mở rộng</string>
+<string name="mr_controller_no_info_available">Không có thông tin</string>
+<string name="mr_controller_no_media_selected">Chưa chọn nội dung</string>
+<string name="mr_controller_pause">Tạm dừng</string>
+<string name="mr_controller_play">Phát</string>
+<string name="mr_controller_stop">Dừng</string>
+<string name="mr_controller_stop_casting">Dừng truyền</string>
+<string name="mr_controller_volume_slider">Thanh âm lượng</string>
+
+<string name="mr_dialog_default_group_name">Nhóm</string>
+<string name="mr_dialog_groupable_header">Thêm thiết bị</string>
+<string name="mr_dialog_transferable_header">Phát trên nhóm</string>
+<string name="mr_system_route_name">Hệ thống</string>
+<string name="mr_user_route_category_name">Thiết bị</string>
+
+<string name="mtrl_checkbox_state_description_checked">Đã chọn</string>
+<string name="mtrl_checkbox_state_description_indeterminate">Chọn một phần</string>
+<string name="mtrl_checkbox_state_description_unchecked">Chưa chọn</string>
+
+<string name="mtrl_picker_cancel">Hủy</string>
+<string name="mtrl_timepicker_cancel">Hủy</string>
+<string name="mtrl_timepicker_confirm">OK</string>
+
+<string name="nearby_device_file_access">Nhận thông báo khi thiết bị gần đó truy cập tệp của thiết bị này</string>
+<string name="not_support_from_blacklist_toast">Không hỗ trợ truyền ứng dụng trong chế độ này</string>
+<string name="not_support_from_whitelist_toast">Mở ứng dụng để truyền</string>
+<string name="not_support_toast">Ứng dụng này không hỗ trợ truyền</string>
+<string name="nothing_to_play">Không phát gì</string>
+
+<string name="notify">Đang truyền ở chế độ nền</string>
+<string name="ok_button">Đã hiểu</string>
+
+<string name="onehop_different_region_toast">Không thể kết nối. Điện thoại và máy tính bảng có phiên bản hệ thống khác nhau.</string>
+
+<string name="onehop_mirror_guide_message_button">Đã hiểu</string>
+<string name="onehop_mirror_guide_message_text_1">Truyền màn hình điện thoại sang máy tính chỉ với một chạm.</string>
+<string name="onehop_mirror_guide_message_text_2">Chọn ảnh, video và tệp khác từ Thư viện hoặc Trình quản lý tệp để chuyển sang máy tính.</string>
+<string name="onehop_mirror_guide_message_title">Kết nối liên thiết bị</string>
+
+<string name="open_wlan">Bật Wi-Fi</string>
+<string name="open_wlan_known">Đã hiểu</string>
+<string name="open_wlan_other">Bật Wi-Fi trên %1$s để sử dụng tính năng liên kết thiết bị.</string>
+<string name="open_wlan_other_toast">Bật Wi-Fi trên thiết bị kia rồi thử lại</string>
+    <string name="open_wlan_other_toast_china">Bật WLAN trên thiết bị khác và thử lại</string>
+<string name="open_wlan_self">Bật Wi-Fi để sử dụng các tính năng kết nối. Bật ngay?</string>
+<string name="open_wlan_self_china">Bật WLAN để sử dụng các tính năng kết nối. Bật ngay?</string>
+<string name="open_wlan_self_toast">Bật Wi-Fi và thử lại</string>
+<string name="open_wlan_self_toast_china">Bật WLAN và thử lại</string>
+<string name="p2p_location_des">Dùng để kết nối thiết bị di động với màn hình ngoài</string>
+<string name="pasport_register_dialog_message">Tạo Tài khoản Xiaomi bằng số điện thoại %s ngay bây giờ?</string>
+<string name="passport_access_denied">Truy cập bị từ chối</string>
+<string name="passport_account_crop_user_avatar">Cắt ảnh</string>
+<string name="passport_account_empty_user_name">Nhập tên của bạn</string>
+<string name="passport_account_error_all_space_user_name">Tên không được chỉ chứa khoảng trắng</string>
+<string name="passport_account_error_invalid_user_name">Tên không được chứa &lt;, &gt; hoặc /</string>
+<string name="passport_account_error_longer_user_name">Tên không được dài hơn %d ký tự</string>
+<string name="passport_account_error_shorter_user_name">Tên phải dài hơn %d ký tự</string>
+<string name="passport_account_error_user_name">Biệt danh không hợp lệ. Hãy thử cái khác.</string>
+<string name="passport_account_invalid_user_avatar">Ảnh không hợp lệ. Hãy thử ảnh khác.</string>
+<string name="passport_account_name">Tài khoản: %1$s </string>
+<string name="passport_account_no_set">Không có</string>
+<string name="passport_account_none_bind_info">Không có</string>
+<string name="passport_account_none_user_name">Không có</string>
+<string name="passport_account_secure_info_pref_title">Thông tin tài khoản</string>
+<string name="passport_account_security_info_pref_title">Thông tin bảo mật</string>
+<string name="passport_account_user_avatar">Ảnh đại diện</string>
+<string name="passport_account_user_avatar_from_album">Chọn từ Thư viện</string>
+<string name="passport_account_user_avatar_from_camera">Máy ảnh</string>
+<string name="passport_account_user_base_info">Thông tin cơ bản</string>
+<string name="passport_account_user_details">Thông tin cá nhân</string>
+<string name="passport_account_user_email">Email khôi phục</string>
+<string name="passport_account_user_gender">Giới tính</string>
+<string name="passport_account_user_id">ID Tài khoản Xiaomi</string>
+<string name="passport_account_user_name">Biệt danh</string>
+<string name="passport_account_user_name_dialog_title">Nhập tên</string>
+<string name="passport_account_user_phone">Số điện thoại khôi phục</string>
+<string name="passport_activity_not_found_notice">Không tìm thấy ứng dụng</string>
+<string name="passport_agree">Đồng ý</string>
+<string name="passport_area_code_title">Mã vùng</string>
+<string name="passport_attention">Chú ý</string>
+<string name="passport_auth_fail_warning">Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.</string>
+<string name="passport_back">Quay lại</string>
+<string name="passport_bad_authentication">Tên đăng nhập hoặc mật khẩu không đúng</string>
+<string name="passport_can_not_recevie_verify_code">Không nhận được mã?</string>
+<string name="passport_change_password">Đổi mật khẩu</string>
+<string name="passport_check_security">Đang kiểm tra bảo mật…</string>
+<string name="passport_checking_account">Đang kiểm tra mật khẩu…</string>
+<string name="passport_clear_input">Xóa nội dung đã nhập</string>
+<string name="passport_copy_link">Sao chép liên kết</string>
+<string name="passport_copy_to_clipboard_successful">Sao chép thành công</string>
+<string name="passport_dialog_captcha_title">Mã</string>
+<string name="passport_dialog_doing_login">Đang đăng nhập…</string>
+<string name="passport_dialog_doing_register">Đang tạo tài khoản…</string>
+<string name="passport_dialog_is_my_account">Đúng</string>
+<string name="passport_dialog_is_your_mi_account">Đây có phải Tài khoản Xiaomi của bạn không?</string>
+<string name="passport_dialog_loading">Vui lòng đợi…</string>
+<string name="passport_dialog_nick_name_prefix">Biệt danh: %s</string>
+<string name="passport_dialog_phone_number_prefix">Số điện thoại: %s</string>
+<string name="passport_dialog_register_other">Không, tôi sẽ tạo tài khoản mới</string>
+<string name="passport_doing_query_account">Đang kiểm tra thông tin tài khoản…</string>
+<string name="passport_error_auth_fail">Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.</string>
+<string name="passport_error_device_id">Không thể lấy ID thiết bị</string>
+<string name="passport_error_dup_binded_email">Email này đã được liên kết với một Tài khoản Xiaomi khác.</string>
+<string name="passport_error_empty_password">Nhập mật khẩu</string>
+<string name="passport_error_empty_pwd">Mật khẩu không được để trống</string>
+<string name="passport_error_empty_user_id">Nhập tên đăng nhập</string>
+<string name="passport_error_invalid_bind_address">Địa chỉ email không hợp lệ.</string>
+<string name="passport_error_length_limit">Nội dung nhập quá dài</string>
+<string name="passport_error_network">Không thể kết nối mạng</string>
+<string name="passport_error_no_password_user">Bạn chưa đặt mật khẩu. Hãy đăng nhập bằng SMS.</string>
+<string name="passport_error_phone">Số điện thoại không hợp lệ</string>
+<string name="passport_error_server">Lỗi máy chủ</string>
+<string name="passport_error_sms_limit">Đã gửi quá nhiều mã đến số này. Hãy thử lại sau.</string>
+<string name="passport_error_ticket_invalid">Mã không đúng</string>
+<string name="passport_error_timeout_network_error">Yêu cầu đã hết thời gian</string>
+<string name="passport_error_token_expired">Mã đã hết hạn. Thử lại.</string>
+<string name="passport_error_unknow_error">Đã xảy ra lỗi</string>
+<string name="passport_error_unknow_host_network_error">Không thể kết nối mạng</string>
+<string name="passport_error_unknow_network_error">Đã xảy ra lỗi mạng</string>
+<string name="passport_error_unknown">Lỗi không xác định</string>
+<string name="passport_error_user_name">Tên đăng nhập không hợp lệ</string>
+<string name="passport_error_user_password">Mật khẩu không khớp</string>
+<string name="passport_exceed_binded_phone_times_notice">Số điện thoại này đã được liên kết với tài khoản khác.</string>
+<string name="passport_facebook_login_btn_content_description">Đăng nhập bằng Facebook</string>
+<string name="passport_frequency_try_later">Thử quá nhiều lần. Vui lòng đợi rồi thử lại.</string>
+<string name="passport_get_login_type_next">Tiếp theo</string>
+<string name="passport_get_phone_verifycode_exceed_limit">Đã gửi quá nhiều mã. Hãy đợi 24 giờ rồi thử lại.</string>
+<string name="passport_google_login_btn_content_description">Đăng nhập bằng Google</string>
+<string name="passport_help">Trợ giúp</string>
+<string name="passport_i_know">Đã hiểu</string>
+<string name="passport_identification_expired">Mã xác minh đã hết hạn. Làm lại.</string>
+<string name="passport_input_captcha_hint">Nhập mã</string>
+<string name="passport_input_email_address_notice">Chúng tôi sẽ dùng email này để xác minh tài khoản</string>
+<string name="passport_input_password_hint">Nhập mật khẩu</string>
+<string name="passport_input_phone_number_hint">Nhập số điện thoại</string>
+<string name="passport_input_verify_code">Nhập mã xác minh</string>
+<string name="passport_input_voice_captcha_hint">Nhập mã giọng nói</string>
+<string name="passport_input_voice_hint">Nhập mã thoại</string>
+<string name="passport_login_by_local_phone_long_text">Đăng nhập ngay</string>
+<string name="passport_login_by_local_phone_short_text">Đăng nhập</string>
+<string name="passport_login_other">Tài khoản Xiaomi khác</string>
+<string name="passport_login_register_by_local_phone_long_text">Tạo tài khoản</string>
+<string name="passport_login_with_sns">Cách đăng nhập khác</string>
+<string name="passport_logout_account">Đăng xuất</string>
+<string name="passport_mi_account_title">Đăng nhập Tài khoản Xiaomi</string>
+<string name="passport_network_error">Lỗi mạng. Kiểm tra kết nối và thử lại.</string>
+<string name="passport_network_error_hint">Kiểm tra URL hoặc mở bằng trình duyệt.</string>
+<string name="passport_network_timeout">Không thể kết nối mạng. Thử lại.</string>
+<string name="passport_next">Tiếp theo</string>
+<string name="passport_no_account">Chưa đăng nhập</string>
+    <string name="passport_open_settings">Cài đặt</string>
+<string name="passport_page_load_failed">Không thể mở trang</string>
+<string name="passport_password_hide_show">Ẩn mật khẩu</string>
+<string name="passport_password_login_btn">Đăng nhập</string>
+<string name="passport_password_not_show">Không hiển thị mật khẩu</string>
+<string name="passport_password_show">Hiển thị mật khẩu</string>
+<string name="passport_phone_auto_login_register_with_local_number">Tạo tài khoản</string>
+<string name="passport_photo_picker_not_found">Không có ảnh nào.</string>
+<string name="passport_qq_login_btn_content_description">Đăng nhập bằng QQ</string>
+<string name="passport_querying_phone_info">Đang yêu cầu thông tin tài khoản…</string>
+<string name="passport_quick_login_title">Nhập mật khẩu của bạn</string>
+<string name="passport_reging">Đang tạo tài khoản…</string>
+<string name="passport_register_by_local_phone_long_text">Tạo tài khoản</string>
+<string name="passport_register_by_local_phone_short_text">Tạo tài khoản</string>
+<string name="passport_register_dialog_positive">Tạo</string>
+<string name="passport_register_dialog_title">Tạo Tài khoản Xiaomi</string>
+<string name="passport_register_restricted">Quá nhiều tài khoản đã liên kết với số này. Hãy thử số khác.</string>
+<string name="passport_relogin_notice">Bạn cần đăng nhập lại</string>
+<string name="passport_request_agree">Cho phép</string>
+<string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo quy định pháp luật. Ứng dụng cần các quyền sau để hoạt động bình thường:&lt;br&gt;&lt;br&gt;&lt;b&gt;Sử dụng máy ảnh (để đặt ảnh đại diện)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Nếu bạn không đồng ý cấp quyền, bạn sẽ không thể sử dụng một số tính năng; tuy nhiên các chức năng cơ bản vẫn khả dụng. Bạn có thể thay đổi hoặc thu hồi quyền trong Cài đặt.</string>
+<string name="passport_request_cancel">Hủy</string>
+<string name="passport_request_error_invalid_token">Không thể xác minh</string>
+<string name="passport_request_error_network">Đã xảy ra lỗi mạng. Kiểm tra kết nối và thử lại.</string>
+<string name="passport_request_error_unknown">Đã xảy ra lỗi hệ thống. Quay lại và thử lại.</string>
+<string name="passport_request_gallery_permission_message">Ứng dụng cần truy cập Thư viện để đặt ảnh đại diện. Cho phép ngay?</string>
+<string name="passport_request_permission_title">Yêu cầu quyền</string>
+<string name="passport_resend_email_reach_limit_message">Bạn đã yêu cầu quá nhiều email xác minh. Hãy kiểm tra cả thư mục Spam.</string>
+<string name="passport_resend_email_reach_limit_title">Quá nhiều lần thử</string>
+<string name="passport_resend_ticket">Gửi lại mã</string>
+<string name="passport_retry">Thử lại</string>
+<string name="passport_same_new_and_old_pwd">Không được trùng với mật khẩu hiện tại</string>
+<string name="passport_send_sms_to">Mã đã gửi đến %1$s</string>
+<string name="passport_send_too_many_code">Đã gửi quá nhiều mã. Hãy đợi 24 giờ rồi thử lại.</string>
+<string name="passport_sending_vcode">Đang gửi mã…</string>
+<string name="passport_service_error">Lỗi máy chủ</string>
+<string name="passport_set_password_no_phone_msg">Thêm số điện thoại để bảo vệ tài khoản của bạn.</string>
+<string name="passport_skip_query_account">Bỏ qua</string>
+<string name="passport_sns_access_token_expired_warning">Phiên đã hết hạn. Đăng nhập lại để kết nối tài khoản.</string>
+<string name="passport_sns_bind_limit">Thử quá nhiều lần. Hãy dùng cách đăng nhập khác.</string>
+<string name="passport_system_error">Hệ thống bận. Vui lòng đợi và thử lại.</string>
+<string name="passport_talkback_image_captcha">Mã xác minh hình ảnh</string>
+<string name="passport_talkback_switch_image_captcha">Chuyển sang mã hình ảnh</string>
+<string name="passport_talkback_switch_voice_captcha">Chuyển sang mã giọng nói</string>
+<string name="passport_talkback_voice_captcha">Phát mã giọng nói</string>
+<string name="passport_third_sns_service_unavailable">Dịch vụ không khả dụng. Hãy đảm bảo ứng dụng đã cài và không bị chặn.</string>
+<string name="passport_ticket_send_by_second">Gửi sau %d giây</string>
+<string name="passport_to_forget_password">Quên mật khẩu?</string>
+<string name="passport_to_password_login">Đăng nhập bằng mật khẩu</string>
+<string name="passport_to_verify_code_login">Đăng nhập bằng SMS</string>
+<string name="passport_unknown_error">Lỗi không xác định</string>
+<string name="passport_unknown_host_network_error">Kiểm tra kết nối mạng và thử lại</string>
+<string name="passport_user_agreement_hint_first_login">Hệ thống sẽ tự động tạo tài khoản nếu bạn dùng số điện thoại lần đầu.</string>
+<string name="passport_user_avatar_update_title">Đổi ảnh đại diện</string>
+<string name="passport_user_avatar_uploading">Vui lòng đợi…</string>
+<string name="passport_user_id_hint">Email/số điện thoại/ID Tài khoản Xiaomi</string>
+<string name="passport_user_name_phone_number">Số điện thoại</string>
+<string name="passport_user_password_hint">Mật khẩu</string>
+<string name="passport_vcode_what_app_send_prompt">Mã xác minh WhatsApp sẽ được gửi đến số khôi phục (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
+    <string name="passport_wechat_not_install">Hãy cài đặt WeChat trước</string>
+<string name="passport_weibo_login_btn_content_description">Đăng nhập bằng Weibo</string>
+<string name="passport_weixin_login_btn_content_description">Đăng nhập bằng WeChat</string>
+<string name="passport_wrong_captcha">Mã bạn nhập không đúng</string>
+<string name="passport_wrong_phone_number_format">Định dạng số điện thoại không hợp lệ</string>
+<string name="passport_wrong_vcode">Mã bạn nhập không đúng</string>
+<string name="passport_wrong_voice">Mã bạn nhập không đúng</string>
+<string name="picker_view_description">Camera liên thiết bị. Bạn có thể chạm vào thẻ để chọn camera trên các thiết bị gần đó.</string>
+<string name="picker_view_outside_description">Chạm để đóng thẻ này.</string>
+<string name="privacy_action_failed">Không thể thu hồi sự đồng ý</string>
+<string name="privacy_confirm_revoke_and_exit_btn">Thu hồi</string>
+<string name="privacy_give_up_revoke_btn">Hủy</string>
+<string name="privacy_i_know_btn">Tiếp tục</string>
+<string name="privacy_read_statement">Hãy đồng ý điều khoản trước</string>
+<string name="privacy_revoke_agree_detail_content">%1$d. Hãy đảm bảo bạn có quyền thu hồi sự đồng ý trước khi tiếp tục.
+%2$d. Sau khi thu hồi, thông tin cá nhân đã thu thập sẽ bị xóa trong thời gian theo quy định pháp luật (trừ khi có yêu cầu khác). Vì dịch vụ liên kết cần dữ liệu cá nhân, việc thu hồi đồng nghĩa với từ chối sử dụng dịch vụ này. Việc này không ảnh hưởng đến các chức năng khác.
+%3$d. Thu hồi là hành động không thể hoàn tác. Bạn sẽ không thể thay đổi quyết định sau khi thực hiện.</string>
+<string name="privacy_revoke_agree_detail_prompt">Tuyên bố về việc thu hồi sự đồng ý với Chính sách quyền riêng tư liên kết</string>
+<string name="privacy_revoke_agree_detail_title">Hãy đọc và đồng ý "Tuyên bố thu hồi sự đồng ý với Chính sách quyền riêng tư liên kết" trước khi tiếp tục.</string>
+<string name="privacy_revoke_agree_introduce">Nếu tiếp tục, bạn sẽ thu hồi sự đồng ý với Chính sách quyền riêng tư liên kết. Dữ liệu cá nhân đã thu thập sẽ bị xóa theo quy định pháp luật. Do dịch vụ liên kết cần dữ liệu này, việc thu hồi đồng nghĩa với từ chối sử dụng dịch vụ. Điều này không ảnh hưởng đến các chức năng khác.</string>
+<string name="privacy_revoke_agree_warning_map_text">Chú ý</string>
+<string name="privacy_revoke_succeed">Thu hồi thành công</string>
+<string name="privacy_revoking_warning">Đang thu hồi…</string>
+<string name="privacy_setting_content">Không hiển thị thông báo nổi và cuộc gọi đến</string>
+<string name="progress_notification_downloaded">Tải xuống hoàn tất</string>
+<string name="progress_notification_downloading">Tiến trình: %d%%</string>
+<string name="progress_notification_name">Đang tải plug-in</string>
+<string name="prompt_camera_associate_failed">Không thể kết nối</string>
+<string name="prompt_camera_disassociate">Đã ngắt kết nối</string>
+<string name="prompt_camera_ocuppied">Camera đang bận</string>
+<string name="prompt_camera_prepare">Đang kết nối…</string>
+<string name="prompt_camera_success">Đã kết nối</string>
+<string name="quick_settings">Cài đặt</string>
+<string name="quick_settings_close_tips">Đã bật thành công. Bạn có thể tắt trong Cài đặt &gt; Thông báo &amp; thanh trạng thái.</string>
+<string name="quick_settings_device_dialog_check_box">Không hiển thị lại</string>
+<string name="quick_settings_device_dialog_message">Nếu bật tính năng này, bạn có thể tìm thấy TV, loa và ô tô gần đó trong Trung tâm điều khiển. Bật ngay?</string>
+<string name="quick_settings_device_dialog_positive">Bật</string>
+<string name="quick_settings_device_dialog_title">Tìm thiết bị gần đó</string>
+<string name="quick_settings_notification_control_center">Thông báo &amp; thanh trạng thái</string>
+<string name="remote_hotspot_opening">Tắt điểm phát sóng của thiết bị kia rồi thử lại</string>
+<string name="remote_speaker_list">Danh sách phát</string>
+<string name="remote_speaker_loop">Phát theo thứ tự</string>
+<string name="remote_speaker_random">Phát ngẫu nhiên</string>
+<string name="remote_speaker_repeat">Lặp lại</string>
+<string name="sample_location">Bắc Kinh - China Unicom</string>
+<string name="screen_arrangement">Sắp xếp màn hình</string>
+<string name="screen_arrangement_content">Sắp xếp vị trí máy tính bảng và màn hình ngoài</string>
+<string name="screen_mirror">Phản chiếu màn hình</string>
+<string name="screen_mirror_content">Toàn bộ nội dung sẽ hiển thị trên "%1$s"</string>
+<string name="screen_projection_characteristics_app_casting_summary_new">Bạn có thể chuyển sang truyền ứng dụng trong Xiaomi HyperIsland để chiếu app hiện tại lên màn hình ngoài và vẫn dùng app khác</string>
+<string name="screen_projection_characteristics_hang_up_summary_pad">Tắt màn hình khi đang chiếu để giảm tiêu thụ pin và nhiệt độ</string>
+<string name="screen_projection_characteristics_small_window_summary_pad">Hiển thị app đang chiếu dưới dạng cửa sổ nổi và vẫn dùng app khác</string>
+<string name="searchview_clear_text_content_description">Xóa nội dung</string>
+<string name="searchview_navigation_content_description">Quay lại</string>
+<string name="server_activity_task_tips">Camera đang được sử dụng bởi %s</string>
+<string name="server_camera_disconnected">Đã ngắt kết nối do lỗi</string>
+<string name="server_camera_occupied">Camera đang bận. Vui lòng thử lại sau.</string>
+<string name="server_toast_camera_prepare">Đang chuẩn bị chia sẻ camera…</string>
+<string name="service_name">MiplayAudio</string>
+<string name="set_negative_button">Cài đặt</string>
+<string name="settings_cross_notify">Thông báo liên thiết bị</string>
+<string name="settings_cross_notify_app">Thông báo ứng dụng</string>
+<string name="settings_cross_notify_hidden">Ẩn nội dung thông báo</string>
+<string name="settings_cross_notify_hidden_tips">Hiển thị thông báo trên thiết bị khác với nội dung bị ẩn, chạm để xem</string>
+<string name="settings_cross_notify_manager">Thông báo liên thiết bị</string>
+<string name="settings_cross_notify_power">Pin yếu</string>
+<string name="settings_cross_notify_system">Thông báo hệ thống</string>
+<string name="settings_cross_notify_tips">Hiển thị thông báo trên thiết bị gần đó khi thiết bị này bị khóa</string>
+<string name="sever_stream_beauty">Làm đẹp</string>
+<string name="sever_stream_control_btn_exit">Dừng</string>
+<string name="sever_stream_control_btn_pause">Tạm dừng</string>
+<string name="sever_stream_control_btn_preview">Xem trước</string>
+<string name="sever_stream_control_btn_resume">Tiếp tục</string>
+<string name="sever_stream_push_state_idle">Xem trước đã tắt trên thiết bị này</string>
+<string name="sever_stream_push_state_idle2">Xem trước đã tắt</string>
+<string name="sever_stream_push_state_pause">Đã tạm dừng</string>
+<string name="sever_stream_push_state_pushing">Đang chia sẻ camera…</string>
+<string name="sever_switch_camera">Chuyển camera trước/sau</string>
+<string name="sever_switch_camera_front">Camera trước</string>
+<string name="sever_switch_camera_rear">Camera sau</string>
+    <string name="share_desktop_with_car">Chia sẻ Màn hình chính+ với xe</string>
+<string name="share_desktop_with_car_ing">Đang chia sẻ Màn hình chính+ với xe</string>
+<string name="side_sheet_accessibility_pane_title">Bảng bên</string>
+<string name="sound_card_circulatable_control_text">Điều khiển phát</string>
+<string name="sound_card_circulatable_source_text">Nguồn âm thanh</string>
+<string name="start_forbidden_by_glasses_camera_in_use_toast">Camera kính đang được sử dụng. Hãy thử lại sau.</string>
+<string name="start_forbidden_by_glasses_in_audio_record">Đang ghi âm. Không thể mở Camera.</string>
+<string name="start_forbidden_by_glasses_in_translation">Đang dịch. Không thể mở Camera.</string>
+<string name="start_forbidden_by_glasses_temperature_high_toast">Kính đang quá nóng. Hãy thử lại sau.</string>
+<string name="start_forbidden_by_not_worn">Không thể kết nối. Hãy đeo kính và thử lại.</string>
+<string name="state_app_continuity">Đang dùng chuyển tiếp ứng dụng</string>
+<string name="state_audio_cast">Đang truyền âm thanh qua Xiaomi Smart Play</string>
+<string name="state_call_synergy">Đang đồng bộ cuộc gọi</string>
+<string name="state_camera_synergy">Đang dùng camera liên thiết bị</string>
+<string name="state_cellular_synergy">Đang dùng kết nối chia sẻ</string>
+<string name="state_computing_power">Đang dùng hỗ trợ tính toán</string>
+<string name="state_hid_synergy">Đang dùng điều khiển liên thiết bị</string>
+<string name="state_mirror">Đang truyền màn hình</string>
+<string name="state_music_playing">Đang phát nhạc</string>
+<string name="state_screen_synergy">Đang dùng Màn hình chính+</string>
+<string name="state_take_photo">Đang dùng camera liên thiết bị</string>
+<string name="state_video_cast">Đang truyền video qua Xiaomi Smart Play</string>
+<string name="status_bar_car_camera_icon_name">Xe</string>
+<string name="status_bar_default_icon_name">Thiết bị</string>
+<string name="status_bar_device_iot_camera_icon_name">Camera Xiaomi Home</string>
+<string name="status_bar_fail">Không thể kết nối</string>
+<string name="status_bar_glasses_camera_icon_name">Kính</string>
+<string name="status_bar_loading">Đang kết nối…</string>
+<string name="status_bar_pad_camera_icon_name">Máy tính bảng</string>
+<string name="status_bar_pc_camera_icon_name">Máy tính</string>
+<string name="status_bar_phone_camera_icon_name">Điện thoại</string>
+<string name="status_bar_success">Kết nối thành công</string>
+<string name="switch_cast_mode">Chạm để chuyển chế độ truyền</string>
+<string name="switching_to_local_camera_description">Đang chuyển về camera của thiết bị này…</string>
+<string name="synergy_being_used_text">Đang sử dụng</string>
+<string name="synergy_text">Liên kết thiết bị</string>
+<string name="talk_back_device_battery_quantity">Pin %s</string>
+<string name="talk_back_device_battery_quantity_charging">Đang sạc, pin %s</string>
+<string name="talkback_beauty_off">Làm đẹp đã tắt. Chạm để điều chỉnh.</string>
+<string name="talkback_beauty_on">Làm đẹp đã bật</string>
+<string name="talkback_beauty_value">Mức làm đẹp %1$d. Chạm nơi khác để quay lại.</string>
+<string name="talkback_stream_has_resume">Đã tiếp tục quay</string>
+<string name="talkback_stream_has_stop">Đã tạm dừng quay</string>
+<string name="talkback_stream_pause">Nút tạm dừng</string>
+<string name="talkback_stream_resume">Nút tiếp tục</string>
+<string name="talkback_stream_stop">Nút dừng. Chạm để dừng quay.</string>
+<string name="talkback_stream_switch">Chuyển camera trước/sau</string>
+<string name="temperature_warning_dialog_message">Thiết bị đang quá nóng. Hãy đợi nguội trước khi chia sẻ camera.</string>
+<string name="temperature_warning_dialog_positive_button">Đã hiểu</string>
+<string name="temperature_warning_dialog_title">Không thể dùng camera liên thiết bị</string>
+<string name="title_connection_interrupted">Kết nối bị gián đoạn</string>
+<string name="title_install">Cài đặt Mi Canvas</string>
+<string name="title_update">Cập nhật Mi Canvas</string>
+<string name="toast_confirm_network">Không thể hoàn tất thiết lập. Hãy đảm bảo thiết bị đã kết nối mạng.</string>
+<string name="toast_copy_auth_message_finish">Sao chép thành công</string>
+<string name="toast_remote_not_install">Ứng dụng chưa được cài trên %1$s.</string>
+<string name="toast_retry">Hãy đợi cài đặt hoàn tất rồi thử lại</string>
+<string name="toast_synchronization">Đang đồng bộ trạng thái thiết bị, vui lòng thử lại sau.</string>
+<string name="tv_remote_auth_cancel">Hủy</string>
+<string name="tv_remote_auth_title">Nhập mã xác minh của TV</string>
+<string name="universal_clipboard_notification_persistent">Dịch vụ Bảng nhớ tạm chung</string>
+<string name="unlock_screen_to_authorize_camera">%s muốn sử dụng camera của thiết bị này</string>
+<string name="unlock_screen_to_authorize_camera_car">%s đang truy cập camera của thiết bị này</string>
+<string name="update">Cập nhật</string>
+    <string name="upgrade_accessibility_cancel_download">Đã hủy tải xuống</string>
+<string name="upgrade_accessibility_finish_all_upgrade">Cập nhật thành công. Phiên bản hiện tại đã mới nhất.</string>
+<string name="upgrade_accessibility_finish_upgrade">Cập nhật thành công</string>
+<string name="upgrade_accessibility_fold_devicelist">Đã thu gọn danh sách cập nhật của %1$s.</string>
+<string name="upgrade_accessibility_unfold_devicelist">Đã mở rộng danh sách cập nhật của %1$s.</string>
+<string name="upgrade_accessibility_upgrading">Đang cập nhật…</string>
+<string name="upgrade_app_name_version">%1$s | %2$s</string>
+<string name="upgrade_cancel">Hủy</string>
+<string name="upgrade_cancel_all">Hủy tất cả cập nhật</string>
+<string name="upgrade_check_upgrade">Cập nhật</string>
+<string name="upgrade_checking">Đang kiểm tra cập nhật…</string>
+<string name="upgrade_edit_mijia">Chỉnh sửa</string>
+<string name="upgrade_error_connect_api_server_fail">Kiểm tra kết nối mạng và thử lại</string>
+<string name="upgrade_error_download_ip_intercepted">Quá nhiều yêu cầu. Hãy thử lại sau</string>
+<string name="upgrade_error_download_start_fall">Không thể tải ứng dụng. Hãy thử lại</string>
+<string name="upgrade_error_install_fail_app_in_background">Một số ứng dụng đang chạy. Hãy đóng chúng và thử lại</string>
+<string name="upgrade_error_install_fail_invalid_apk">Không thể cài đặt ứng dụng. Hãy thử lại</string>
+<string name="upgrade_error_installparse_fail">Không thể cài đặt ứng dụng</string>
+<string name="upgrade_error_no_enough_space_before_download">Không đủ dung lượng. Hãy giải phóng bộ nhớ và thử lại</string>
+<string name="upgrade_help_menu">Trợ giúp</string>
+<string name="upgrade_help_title">Trợ giúp cập nhật</string>
+<string name="upgrade_login_dialog_message">Đăng nhập Tài khoản Xiaomi để xem các thiết bị đã kết nối.</string>
+<string name="upgrade_login_dialog_sure">Đăng nhập</string>
+<string name="upgrade_login_dialog_title">Đăng nhập Tài khoản Xiaomi</string>
+<string name="upgrade_new_devices_version">Thiết bị này có bản cập nhật mới.</string>
+<string name="upgrade_new_version">Có bản cập nhật mới</string>
+<string name="upgrade_no_devices">Không có cập nhật</string>
+<string name="upgrade_now">Cập nhật</string>
+<string name="upgrade_phone_device_tip">*Cập nhật do Xiaomi Phone cung cấp</string>
+<string name="upgrade_scan">Kiểm tra cập nhật</string>
+<string name="upgrade_set_menu">Cài đặt</string>
+<string name="upgrade_start">Cập nhật</string>
+<string name="upgrade_start_all">Cập nhật tất cả</string>
+<string name="upgrade_title">Cập nhật thiết bị đã kết nối</string>
+<string name="upgrade_toast_cannot_cancel_while_installing">Đang cài đặt, không thể hủy</string>
+<string name="upgrade_toast_no_wifi">Không thể kết nối</string>
+<string name="upgrade_tv_device_tip">*Cập nhật do Xiaomi TV cung cấp</string>
+<string name="upgrade_ver_can_upgrade">Có bản cập nhật</string>
+<string name="upgrade_ver_can_upgrade_1to2">Cập nhật từ phiên bản %1$d lên %2$d</string>
+<string name="upgrade_ver_can_upgrade_1to2s">Cập nhật từ phiên bản %1$s lên %2$s</string>
+<string name="upgrade_ver_can_upgrade_to1">Cập nhật lên phiên bản %1$d</string>
+<string name="upgrade_ver_latest">Phiên bản hiện tại đã mới nhất</string>
+<string name="upgrade_ver_latest1">Phiên bản hiện tại (%1$d) đã mới nhất</string>
+<string name="upgrade_ver_latest1s">Phiên bản hiện tại (%1$s) đã mới nhất</string>
+<string name="using_camera_of_device_description">Đang sử dụng camera của %1$s.</string>
+<string name="watch_more_setting">Tùy chọn khác</string>
+<string name="wifi_disabled_dialog_message">Bật WLAN trên thiết bị để sử dụng camera liên thiết bị.</string>
+<string name="wifi_disabled_dialog_positive_button">Đã hiểu</string>
+<string name="wifi_disabled_dialog_title">Camera liên thiết bị</string>
+<string name="window_card_ml_find_null">Thiết bị này có thể không ở gần</string>
+<string name="window_card_ml_find_null_camera">Không tìm thấy camera hoặc thiết bị khả dụng gần đây</string>
 </resources>
