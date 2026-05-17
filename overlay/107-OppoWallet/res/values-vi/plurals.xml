@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boarding_archived_max_num">
+        <item quantity="other">Có thể lưu trữ tối đa %d mục</item>
+        <item quantity="one">Có thể lưu trữ tối đa %d mục</item>
+    </plurals>
+    <plurals name="coui_page_indicator_description">
+        <item quantity="other">Trang %1$d trên %2$d</item>
+        <item quantity="one">Trang %1$d trên %2$d</item>
+    </plurals>
+    <plurals name="e_money_home_detail_recent_record">
+        <item quantity="other">Chỉ hiển thị %s giao dịch gần nhất</item>
+        <item quantity="one">Chỉ hiển thị %s giao dịch gần nhất</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="nc_cards_list_limit_new">
+        <item quantity="other">Chỉ có thể thêm tối đa %s thẻ truy cập. Hãy xóa bớt và thử lại.</item>
+        <item quantity="one">Chỉ có thể thêm tối đa %s thẻ truy cập. Hãy xóa bớt và thử lại.</item>
+    </plurals>
+    <plurals name="nc_read_title_new">
+        <item quantity="other">Đang sao chép dữ liệu thẻ… %s%%</item>
+        <item quantity="one">Đang sao chép dữ liệu thẻ… %s%%</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+</resources>

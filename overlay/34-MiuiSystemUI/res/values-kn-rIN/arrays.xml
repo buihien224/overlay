@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>" | ಸಕ್ರಿಯ"</item>
-        <item>" | ಸಕ್ರಿಯ (ಮೀಡಿಯಾ)"</item>
-        <item>" | ಸಕ್ರಿಯ (ಫೋನ್‌)"</item>
-    </string-array>
-</resources>

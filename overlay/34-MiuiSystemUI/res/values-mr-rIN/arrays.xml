@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>" | सक्रिय"</item>
-        <item>"  | सक्रिय (मिडिया)"</item>
-        <item>"  | सक्रिय (फोन)"</item>
-    </string-array>
-</resources>

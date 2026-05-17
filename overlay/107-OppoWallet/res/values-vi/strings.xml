@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ac_cord_network_status_ssl_date_invalid">Thời gian hệ thống của bạn không chính xác. Vui lòng đặt lại thời gian đúng.</string>
+<string name="ac_cord_network_status_tips_air_plane">Tắt chế độ máy bay hoặc kết nối Wi-Fi</string>
+<string name="ac_cord_network_status_tips_need_login">Mạng Wi-Fi yêu cầu xác thực. Nhấn vào vùng trống để làm mới.</string>
+<string name="ac_fail_retry">Hệ thống đang bận. Vui lòng thử lại sau.</string>
+<string name="ac_fail_support">Thao tác thất bại. Vui lòng liên hệ hỗ trợ khách hàng.</string>
+<string name="ac_not_network">Không có kết nối internet</string>
+<string name="ac_not_network_and_retry">Lỗi mạng. Vui lòng thử lại sau.</string>
+<string name="ac_serve_country_change_tips">Dịch vụ sẽ được cung cấp dựa trên quốc gia hoặc khu vực của tài khoản của bạn</string>
+<string name="ac_serve_country_change_tips2">Khu vực dịch vụ của bạn đã thay đổi. Dịch vụ sẽ được cung cấp theo khu vực đã đăng ký của tài khoản.</string>
+<string name="ac_update_dlg_account">Trung tâm tài khoản</string>
+<string name="ac_update_dlg_cancel">Hủy</string>
+<string name="ac_update_dlg_content">Để thực hiện xác minh, hãy cập nhật ứng dụng %s lên phiên bản mới nhất.</string>
+<string name="ac_update_dlg_title">Cập nhật ứng dụng để xác minh</string>
+<string name="ac_update_dlg_update">Cập nhật ngay</string>
+<string name="account_verify_id_query_more">Xác minh danh tính để xem thêm các thẻ đã thêm.</string>
+<string name="account_verify_now">Xác minh ngay</string>
+<string name="activity_not_found">Không tìm thấy activity</string>
+<string name="add_board_card_desc">Quét một lần, lưu ngay. Cổng, ghế, giờ bay—tất cả trên điện thoại của bạn.</string>
+<string name="add_board_card_title">Thẻ lên máy bay? Xem bất cứ lúc nào</string>
+<string name="add_button_text">Thêm</string>
+<string name="add_button_text_link">Liên kết</string>
+<string name="add_card_item_access_card_desc">Chạm thẻ vật lý vào điện thoại</string>
+<string name="add_card_item_access_card_title">Thẻ truy cập</string>
+<string name="add_card_item_boarding_pass_desc">Quét thẻ lên máy bay</string>
+<string name="add_card_item_boarding_pass_title">Thẻ lên máy bay</string>
+<string name="add_card_item_membership_card_desc">Chụp ảnh thẻ thành viên của bạn</string>
+<string name="add_card_item_membership_card_title">Thẻ thành viên</string>
+<string name="add_card_title">Thêm vào Ví</string>
+<string name="add_card_type_cards_and_tickets">Thẻ và vé</string>
+<string name="add_card_type_digital_access">Truy cập kỹ thuật số</string>
+<string name="add_menber_card_desc">Cửa hàng, quán cà phê hay phòng gym—lưu thẻ, quét khi thanh toán là xong.</string>
+<string name="add_menber_card_title">Tất cả thẻ thành viên trong một điện thoại</string>
+<string name="add_payment_card_msg1">Cài đặt %2$s để sử dụng %1$s thanh toán.</string>
+<string name="add_payment_card_msg2">Tiến trình tải xuống và cài đặt %1$s: %2$s</string>
+<string name="add_payment_card_msg3">Nhấn để mở %1$s và liên kết tài khoản %2$s của bạn.</string>
+<string name="add_payment_card_tips4">Không thể thêm mục nào nữa</string>
+<string name="afternoon">CH</string>
+<string name="alert_dialog_cancel">Hủy</string>
+<string name="alert_dialog_ok">Xác nhận</string>
+<string name="alipa_uninstalled">Chưa cài đặt Alipay</string>
+<string name="alipay_uninstalled_tip">Chưa cài đặt ứng dụng Alipay hoặc phiên bản không được hỗ trợ</string>
+<string name="androidx_startup">androidx.startup</string>
+<string name="app_name">Ngân hàng</string>
+<string name="app_name_wallet">Ví</string>
+<string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+<string name="application_not_installed">Ứng dụng chưa được cài đặt</string>
+<string name="april">Tháng 4</string>
+<string name="audio_name">Máy ghi âm</string>
+<string name="august">Tháng 8</string>
+<string name="b_oppo">OPPO</string>
+<string name="b_realme">realme</string>
+<string name="boading_pass">Thẻ lên máy bay</string>
+<string name="boarding_adding">Đang thêm</string>
+<string name="boarding_archived">Thẻ đã lưu trữ</string>
+<string name="boarding_archived_look">Để xem chi tiết thẻ lên máy bay, vào \"Thẻ đã lưu trữ\".</string>
+<string name="boarding_archived_msg">Đã đạt giới hạn thẻ lưu trữ. Hãy xóa bớt trước khi thêm mới.</string>
+<string name="boarding_camera_pms_cancel">Hủy</string>
+<string name="boarding_camera_pms_go_setting">Cài đặt ngay</string>
+<string name="boarding_camera_pms_msg">Cần quyền \"Camera\" để chụp ảnh.</string>
+<string name="boarding_camera_pms_title">Cho phép %1$s sử dụng camera của bạn</string>
+<string name="boarding_camera_scanning">Quét mã</string>
+<string name="boarding_camera_scanning_desc">Quét mã vạch hoặc QR trên thẻ lên máy bay.</string>
+<string name="boarding_card_picture">Ảnh thẻ lên máy bay</string>
+<string name="boarding_click_look">Nhấn để xem.</string>
+<string name="boarding_click_take">Nhấn để chụp ảnh.</string>
+<string name="boarding_confirm_add">Thêm</string>
+<string name="boarding_confirm_add_archived">Sau khi thêm, sẽ được lưu vào \"Thẻ đã lưu trữ\".</string>
+<string name="boarding_copy">Đã sao chép</string>
+<string name="boarding_exit_edit">Thoát chỉnh sửa</string>
+<string name="boarding_expired">Thẻ lên máy bay đã hết hạn</string>
+<string name="boarding_expired_not_edit">Không thể chỉnh sửa thẻ đã hết hạn</string>
+<string name="boarding_foot_text">Thông tin thẻ lên máy bay bạn thêm có thể được nhập thủ công hoặc quét và có thể không đồng bộ theo thời gian thực với hãng bay. Thông tin chuyến bay có thể thay đổi bất cứ lúc nào. Vui lòng tham khảo thông báo chính thức từ hãng hàng không về cổng, giờ khởi hành và các cập nhật khác.
+
+Vào ngày khởi hành, chúng tôi khuyến nghị:
+1. Kiểm tra cập nhật mới nhất trên ứng dụng của hãng bay.
+2. Mang theo thẻ lên máy bay giấy hoặc điện tử dự phòng.</string>
+    <string name="boarding_go_del">Xóa</string>
+<string name="boarding_go_group">Nhóm lên máy bay</string>
+<string name="boarding_go_group_input">Nhập nhóm của bạn (tùy chọn)</string>
+<string name="boarding_go_time">Thời gian lên máy bay</string>
+<string name="boarding_go_time_input">Chọn thời gian lên máy bay</string>
+<string name="boarding_group">Nhóm</string>
+<string name="boarding_important_note">Lưu ý quan trọng</string>
+<string name="boarding_important_note_desc">Thông tin lên máy bay này được nhập thủ công hoặc tạo bằng cách quét. Để xác minh độ chính xác, vui lòng liên hệ hãng hàng không.</string>
+<string name="boarding_input_prompts">Thông tin lên máy bay này được nhập thủ công hoặc tạo bằng cách quét. Để xác minh độ chính xác, vui lòng liên hệ hãng hàng không.</string>
+<string name="boarding_look_barcode">Mã vạch/Mã QR</string>
+<string name="boarding_name">Tên</string>
+<string name="boarding_operate_limit">Bạn đã thao tác quá nhiều hôm nay. Vui lòng thử lại vào ngày mai.</string>
+<string name="boarding_operate_retry">Bạn thao tác quá thường xuyên. Vui lòng thử lại sau.</string>
+<string name="boarding_page_title">Thẻ lên máy bay</string>
+<string name="boarding_pass_scan_hint">Đặt mã vạch thẻ lên máy bay vào khung và giữ yên</string>
+<string name="boarding_photo_import">Nhập từ ảnh</string>
+<string name="boarding_photo_import_describe">Nhập ảnh hoặc ảnh chụp màn hình thẻ lên máy bay.</string>
+<string name="boarding_pic_dlg_cancel">Hủy</string>
+<string name="boarding_pic_dlg_select_photo">Ảnh</string>
+<string name="boarding_pic_dlg_take">Máy ảnh</string>
+<string name="boarding_saveing">Đang lưu</string>
+<string name="boarding_scanning_hint">Đặt mã vạch hoặc mã QR của thẻ lên máy bay vào khung và giữ yên</string>
+<string name="boarding_take">Ảnh thẻ lên máy bay</string>
+<string name="boarding_unable_add">Không thể thêm thêm thẻ lên máy bay</string>
+<string name="boarding_upload_pic_prompts">Ảnh của bạn sẽ được mã hóa và lưu trữ trên đám mây để đồng bộ. Để đảm bảo an toàn thông tin, vui lòng không tải lên ảnh chứa dữ liệu nhạy cảm.</string>
+<string name="boarding_upload_take_prompts">Bạn có thể tải lên ảnh thẻ lên máy bay để lưu trữ hoặc tham khảo nhanh. Ảnh sẽ được mã hóa và lưu trữ trên đám mây. Để bảo vệ quyền riêng tư, hãy đảm bảo ảnh không chứa thông tin cá nhân nhạy cảm.</string>
+<string name="bottom_recommended_header_title">Tìm các mục cài đặt khác?</string>
+<string name="bottom_sheet_behavior">com.coui.appcompat.panel.COUIBottomSheetBehavior</string>
+<string name="bottomsheet_action_collapse">Thu gọn bảng dưới</string>
+<string name="bottomsheet_action_expand">Mở rộng bảng dưới</string>
+<string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+<string name="bottomsheet_drag_handle_clicked">Nhấn đúp tay kéo</string>
+<string name="bottomsheet_drag_handle_content_description">Tay kéo</string>
+<string name="browser_application">Ứng dụng trình duyệt</string>
+<string name="bt_cancel">Hủy</string>
+<string name="bt_open">Mở</string>
+<string name="bw_Unbinding">Hủy liên kết</string>
+<string name="bw_add_pay_card_disclaimer">Tuyên bố miễn trừ trách nhiệm</string>
+<string name="bw_add_pay_card_disclaimer_msg">Dịch vụ này được cung cấp bởi %1$s. Các trách nhiệm liên quan sẽ do bên thứ ba này chịu. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ của họ.</string>
+<string name="bw_add_pay_card_understood_disclaimer">Đã hiểu</string>
+<string name="bw_app_is_download_finished">Đã cài đặt</string>
+<string name="bw_app_is_download_in_the_background">Đang tải ứng dụng trong nền…</string>
+<string name="bw_balance_gopay_saldo">Số dư GoPay</string>
+<string name="bw_balance_gopay_tabungan">Tiết kiệm GoPay</string>
+<string name="bw_bill">Giao dịch</string>
+<string name="bw_bill_contact_partner">Liên hệ %1$s</string>
+<string name="bw_bill_detail_hint">Đơn hàng này được tạo bởi %1$s. Nếu có thắc mắc, vui lòng liên hệ %1$s.</string>
+<string name="bw_cancel">Hủy</string>
+<string name="bw_card_balance_symbol">Số dư (%1$s)</string>
+<string name="bw_card_coins_v2">Xu</string>
+<string name="bw_card_details">Chi tiết thẻ</string>
+<string name="bw_check_all_transaction">Xem tất cả giao dịch</string>
+<string name="bw_click_continue_will_unbind_others">Nhấn \"Tiếp tục\" sẽ hủy liên kết với tài khoản khác.</string>
+<string name="bw_confirm_the_phone_no_be_registered_in_partner">Đảm bảo số điện thoại của bạn đã được đăng ký với %1$s.</string>
+<string name="bw_connect_partner">Liên kết với %1$s</string>
+<string name="bw_connect_partner_disclaimer1">%1$s sẽ chia sẻ số điện thoại của bạn với %2$s để hoàn tất xác minh. Xem chi tiết tại %3$s.</string>
+<string name="bw_connect_partner_disclaimer2">Quá trình liên kết và dịch vụ liên quan do %1$s cung cấp. Nếu có thắc mắc, vui lòng liên hệ %2$s.</string>
+<string name="bw_connect_partner_personal_info_privacy_protocol">Thỏa thuận bảo mật thông tin cá nhân Fintek</string>
+<string name="bw_continue">Tiếp tục</string>
+<string name="bw_customer_service">Chăm sóc khách hàng</string>
+<string name="bw_exit">Thoát</string>
+<string name="bw_faq">Câu hỏi thường gặp</string>
+<string name="bw_go_download_app">Tải xuống</string>
+<string name="bw_input_partner_account">Nhập thông tin tài khoản %1$s</string>
+<string name="bw_input_your_phone_no">Nhập số điện thoại của bạn</string>
+<string name="bw_install_app_download">Tải xuống</string>
+<string name="bw_install_app_for_use_function_msg">Cài đặt %1$s để sử dụng tính năng này</string>
+<string name="bw_load_more_failed">Tải thất bại</string>
+<string name="bw_load_more_finish">Đã tải xong</string>
+<string name="bw_load_more_loading">Đang tải…</string>
+<string name="bw_load_more_no_content">Không còn nội dung</string>
+<string name="bw_load_more_pulling">Kéo lên để tải thêm</string>
+<string name="bw_load_more_refreshing">Đang làm mới…</string>
+<string name="bw_load_more_release">Thả ra để tải thêm</string>
+<string name="bw_next_step">Tiếp theo</string>
+<string name="bw_no_transaction">Không có giao dịch</string>
+<string name="bw_only_show_transaction_initiated_in_wallet">Chỉ hiển thị các giao dịch được thực hiện trong Ví.</string>
+<string name="bw_partner_account_be_bound_by_others">Tài khoản %1$s của bạn đã được liên kết với tài khoản khác</string>
+<string name="bw_remove">Xóa</string>
+<string name="bw_remove_card_msg">Thẻ này không khả dụng và có thể bị xóa.</string>
+<string name="bw_removing_card_msg">Đang xóa…</string>
+<string name="bw_sixty_two">62</string>
+<string name="bw_star_mask">*********</string>
+<string name="bw_symbol_idr">IDR</string>
+<string name="bw_the_phone_no">Số điện thoại</string>
+<string name="bw_the_phone_no_prefix">"* "</string>
+<string name="bw_uninstall_app_msg">Cài đặt %1$s để truy cập đầy đủ tính năng.</string>
+<string name="byteShort"> B</string>
+<string name="byteSpeed"> B/s</string>
+<string name="caesura_sign">", "</string>
+<string name="calendar_name">Lịch</string>
+<string name="call_notification_answer_action">Trả lời</string>
+<string name="call_notification_answer_video_action">Video</string>
+<string name="call_notification_decline_action">Từ chối</string>
+<string name="call_notification_hang_up_action">Kết thúc cuộc gọi</string>
+<string name="call_notification_incoming_text">Cuộc gọi đến</string>
+<string name="call_notification_ongoing_text">Cuộc gọi đang diễn ra</string>
+<string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
+<string name="camera_name">Máy ảnh</string>
+<string name="cancel">Hủy</string>
+    <string name="card_login_account">Đăng nhập</string>
+<string name="card_login_account_desc">Khám phá thêm dịch vụ và nội dung.</string>
+<string name="card_login_account_id">ID: %1$s</string>
+<string name="character_counter_content_description">Số ký tự đã nhập %1$d trên %2$d</string>
+<string name="character_counter_overflowed_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
+<string name="character_counter_pattern">%1$d/%2$d</string>
+<string name="check_network_settings">Kiểm tra cài đặt mạng của bạn.</string>
+<string name="clear_text_end_icon_content_description">Xóa nội dung</string>
+<string name="collapsing_cards_add">Thêm</string>
+<string name="collapsing_cards_no_cards">Không có thẻ</string>
+<string name="collapsing_cards_view">Xem tất cả</string>
+<string name="color_runtime_read_external_storage">đọc bộ nhớ ngoài</string>
+<string name="color_runtime_read_phone_state">đọc trạng thái điện thoại</string>
+<string name="color_runtime_sslverify_cancel">Hủy</string>
+<string name="color_runtime_sslverify_continue">Tiếp tục</string>
+<string name="color_runtime_sslverify_msg">"Có vấn đề với chứng chỉ bảo mật của trang web này."</string>
+<string name="color_runtime_sslverify_title">Cảnh báo bảo mật</string>
+<string name="color_runtime_warning_dialog_cancel">Thoát</string>
+<string name="color_runtime_warning_dialog_disc">\"%1$s\" yêu cầu các quyền sau khi sử dụng: %2$s.</string>
+<string name="color_runtime_warning_dialog_ok">Cài đặt</string>
+<string name="color_runtime_warning_dialog_title">\"%1$s\"</string>
+<string name="comm_authenticate">Xác thực</string>
+<string name="comm_bt_ikonw">Tôi đã hiểu</string>
+<string name="comm_claim_benefits_now">Nhận ưu đãi ngay</string>
+<string name="comm_error_tips_network_error">Lỗi mạng</string>
+<string name="comm_loading">Đang tải…</string>
+<string name="comm_loading_failed_try_again_later">Tải thất bại. Vui lòng thử lại sau.</string>
+<string name="comm_loading_failed_try_again_later_no_operation">Tải thất bại. Vui lòng thử lại sau.</string>
+<string name="comm_no_content">Không có nội dung</string>
+<string name="comm_no_internet_connection">Không có kết nối internet. Hãy kiểm tra mạng và thử lại.</string>
+<string name="comm_notification_retain_desc">Để nhận ưu đãi mới nhất, hãy cho phép thông báo trong \"Cài đặt - Quản lý thông báo\".</string>
+<string name="comm_open">Mở</string>
+<string name="comm_refresh">Làm mới</string>
+<string name="comm_settings">Cài đặt</string>
+<string name="comm_system_time_is_inaccurate">Thời gian hệ thống không chính xác. Hãy chỉnh lại và thử lại.</string>
+<string name="comm_website_certificate_illegal">"Có vấn đề với chứng chỉ bảo mật của trang web này."</string>
+<string name="comm_your_wifi_needs_authentication">Wi-Fi của bạn cần xác thực.</string>
+<string name="common_cancel">Hủy</string>
+<string name="common_google_play_services_enable_button">Bật</string>
+<string name="common_google_play_services_enable_text">"%1$s sẽ không hoạt động nếu bạn không bật Google Play services."</string>
+<string name="common_google_play_services_enable_title">Bật Google Play services</string>
+<string name="common_google_play_services_install_button">Cài đặt</string>
+<string name="common_google_play_services_install_text">"%1$s sẽ không chạy nếu thiếu Google Play services."</string>
+<string name="common_google_play_services_install_title">Cài Google Play services</string>
+<string name="common_google_play_services_notification_channel_name">Tình trạng Google Play services</string>
+<string name="common_google_play_services_notification_ticker">Lỗi Google Play services</string>
+<string name="common_google_play_services_unknown_issue">%1$s gặp sự cố với Google Play services. Vui lòng thử lại.</string>
+<string name="common_google_play_services_unsupported_text">"%1$s không chạy được vì thiết bị không hỗ trợ Google Play services."</string>
+<string name="common_google_play_services_update_button">Cập nhật</string>
+<string name="common_google_play_services_update_text">"%1$s sẽ không chạy nếu bạn chưa cập nhật Google Play services."</string>
+<string name="common_google_play_services_update_title">Cập nhật Google Play services</string>
+<string name="common_google_play_services_updating_text">"%1$s sẽ không chạy vì Google Play services đang cập nhật."</string>
+<string name="common_google_play_services_wear_update_text">Cần phiên bản Google Play services mới. Hệ thống sẽ tự cập nhật sớm.</string>
+<string name="common_network_api_fail">Không thể tải dữ liệu. Vui lòng thử lại sau</string>
+<string name="common_network_fail_412">Thời gian hệ thống không chính xác. Vui lòng chỉnh lại trước.</string>
+<string name="common_open_on_phone">Mở trên điện thoại</string>
+<string name="common_setting">Cài đặt</string>
+<string name="common_signin_button_text">Đăng nhập</string>
+<string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+<string name="confirm_device_credential_password">Dùng mật khẩu</string>
+<string name="connect_fail_right_button_desc_2B34D8_411">Đã hiểu</string>
+<string name="contacts_name">Danh bạ</string>
+<string name="copy">Sao chép</string>
+<string name="copy_toast_msg">Đã sao chép liên kết</string>
+<string name="cp_adding_card_count_limited">Đã đạt giới hạn thẻ</string>
+<string name="cp_choose_open_app_double_press_button">Chọn ứng dụng mở khi nhấn đúp nút nguồn.</string>
+<string name="cp_comm_question">Câu hỏi thường gặp</string>
+<string name="cp_delete_card_add_another">Xóa bớt thẻ để thêm thẻ mới.</string>
+<string name="cp_do_not_upload_images_with_sensitive_information">Không tải lên ảnh chứa thông tin nhạy cảm.</string>
+<string name="cp_get_start_add">Thêm</string>
+<string name="cp_go_to_wallet_to_add_more_cards">Vào trang chính để thêm thẻ và xem tại đây.</string>
+<string name="cp_go_to_wallet_to_add_payment_card">Vào trang chính để thêm thẻ và xem tại đây.</string>
+<string name="cp_manage_card">Quản lý thẻ</string>
+<string name="cp_manage_card2">Quản lý thẻ</string>
+<string name="cp_manage_card3">Quản lý thẻ</string>
+<string name="cp_not_set_yet">Chưa thiết lập</string>
+<string name="cp_powered_by_logo_place_holder">[đối tác]</string>
+<string name="cp_powered_by_partner">Cung cấp bởi [đối tác]</string>
+<string name="cp_setting_double_press_button">Nhấn đúp nút nguồn để mở nhanh</string>
+<string name="cp_setting_double_press_button_msg">Đặt %1$s mở khi nhấn đúp nút nguồn.</string>
+<string name="cp_show_after_unlock">Mở khóa để hiển thị</string>
+<string name="cp_show_bar_code">Hiển thị mã vạch</string>
+<string name="cp_show_qr_code">Hiển thị mã QR</string>
+<string name="cp_unlock_to_view_details">Mở khóa để xem chi tiết</string>
+<string name="cta_agree_and_use">Đồng ý và tiếp tục</string>
+<string name="cta_disclaimer_content">Bằng cách nhấn \"Đồng ý và tiếp tục\", bạn xác nhận đã đọc và đồng ý với %1$s và %2$s.</string>
+<string name="cta_guidance_content">\"%s\" là ứng dụng quản lý thẻ, vé và phiếu giảm giá.</string>
+<string name="cta_not_agree">Không đồng ý</string>
+<string name="cta_privacy_policy">Chính sách quyền riêng tư</string>
+<string name="cta_user_agreement">Điều khoản sử dụng</string>
+<string name="cta_user_notice">Thông báo sử dụng</string>
+<string name="cta_welcome_to_use">Chào mừng đến với</string>
+<string name="custom_boarding_detail_tips">Thông tin trên được tạo từ ảnh. Hãy liên hệ hãng bay để xác minh.</string>
+<string name="custom_boarding_edit_back_dialog_cancel">Rời đi</string>
+<string name="custom_boarding_edit_back_dialog_confirm">Tiếp tục chỉnh sửa</string>
+<string name="custom_boarding_edit_back_dialog_title">Các chỉnh sửa sẽ không được lưu</string>
+<string name="custom_boarding_edit_button_save_text">Lưu</string>
+<string name="custom_boarding_edit_button_text">Tiếp</string>
+<string name="custom_boarding_edit_item_departure_date">Ngày khởi hành</string>
+<string name="custom_boarding_edit_item_departure_date_error">Cần nhập ngày khởi hành</string>
+<string name="custom_boarding_edit_item_departure_date_hint">Chọn ngày khởi hành</string>
+<string name="custom_boarding_edit_item_departure_date_tips">Chọn thời gian</string>
+<string name="custom_boarding_edit_item_departure_point">Từ</string>
+<string name="custom_boarding_edit_item_departure_time">Giờ khởi hành</string>
+<string name="custom_boarding_edit_item_departure_time_error">Cần nhập giờ khởi hành</string>
+<string name="custom_boarding_edit_item_departure_time_error2">Chọn giờ lên máy bay</string>
+<string name="custom_boarding_edit_item_departure_time_hint">Chọn giờ khởi hành</string>
+<string name="custom_boarding_edit_item_destination">Đến</string>
+<string name="custom_boarding_edit_item_error">Nhập mã sân bay 3 chữ cái</string>
+<string name="custom_boarding_edit_item_flight_number">Chuyến bay</string>
+<string name="custom_boarding_edit_item_flight_number_error">Cần nhập số chuyến bay</string>
+<string name="custom_boarding_edit_item_flight_number_hint">Nhập số chuyến bay</string>
+<string name="custom_boarding_edit_item_passenger_name">Hành khách</string>
+<string name="custom_boarding_edit_item_passenger_name_error">Cần nhập tên hành khách</string>
+<string name="custom_boarding_edit_item_passenger_name_hint">Nhập tên hành khách</string>
+<string name="custom_boarding_edit_item_seat_number">Ghế</string>
+<string name="custom_boarding_edit_item_seat_number_error">Cần nhập số ghế</string>
+<string name="custom_boarding_edit_item_seat_number_hint">Nhập số ghế</string>
+<string name="custom_boarding_edit_list_tips">Chi tiết</string>
+<string name="custom_boarding_edit_select_date_dialog_cancel">Hủy</string>
+<string name="custom_boarding_edit_select_date_dialog_confirm">OK</string>
+    <string name="custom_boarding_edit_select_date_dialog_tips">Chọn ngày &amp; giờ khởi hành.</string>
+<string name="custom_boarding_edit_select_date_dialog_title">Ngày &amp; giờ khởi hành</string>
+<string name="custom_boarding_pass_preview_name">Tên</string>
+<string name="custom_boarding_preview_button_cancel">Chỉnh sửa</string>
+<string name="custom_boarding_preview_button_confirm">Thêm vào Ví</string>
+<string name="custom_boarding_preview_title">Xác nhận</string>
+<string name="custom_boarding_success_button_confirm">Hoàn tất</string>
+<string name="custom_boarding_success_text">Đã thêm</string>
+<string name="custom_delete_dialog_cancel">Hủy</string>
+<string name="custom_delete_dialog_confirm">Xóa</string>
+<string name="custom_delete_dialog_content">Dữ liệu đã xóa không thể khôi phục.</string>
+<string name="custom_delete_dialog_title_boarding">Xóa thẻ lên máy bay này?</string>
+<string name="custom_delete_dialog_title_member">Xóa thẻ thành viên này?</string>
+<string name="custom_delete_dialog_title_ticket">Xóa vé sự kiện này?</string>
+<string name="custom_delete_fail">Xóa thất bại</string>
+<string name="custom_detail_display">Hiển thị mã vạch</string>
+<string name="custom_detail_menu_delete">Xóa</string>
+<string name="custom_detail_menu_edit">Chỉnh sửa</string>
+<string name="custom_detail_menu_faq">Câu hỏi thường gặp</string>
+<string name="custom_detail_tips">Thông tin trên được nhập thủ công. Hãy kiểm tra thẻ thực tế để đảm bảo chính xác.</string>
+<string name="custom_detail_title_boarding">Chi tiết thẻ lên máy bay</string>
+<string name="custom_detail_title_member">Chi tiết thẻ thành viên</string>
+<string name="custom_detail_title_ticket">Chi tiết vé sự kiện</string>
+<string name="custom_edit_submit_error_fail">Gửi thất bại. Vui lòng thử lại.</string>
+<string name="custom_edit_submit_error_non_compliance">Phát hiện nội dung không phù hợp. Vui lòng nhập lại.</string>
+<string name="custom_edit_title_boarding">Thêm thẻ lên máy bay</string>
+<string name="custom_edit_title_member">Thêm thẻ thành viên</string>
+<string name="custom_edit_title_modify_boarding">Chỉnh sửa thẻ lên máy bay</string>
+<string name="custom_edit_title_modify_member">Chỉnh sửa thẻ thành viên</string>
+<string name="custom_edit_title_modify_ticket">Chỉnh sửa vé sự kiện</string>
+<string name="custom_edit_title_ticket">Thêm vé sự kiện</string>
+<string name="custom_member_detail_tips">Nếu thông tin sai, hãy cập nhật và thêm lại vào Ví.</string>
+<string name="custom_member_edit_error_tips">Trường không được để trống</string>
+<string name="custom_member_edit_mark">Ghi chú</string>
+<string name="custom_member_edit_mark_hint">Nhập ghi chú</string>
+<string name="custom_member_edit_name">Tên thẻ thành viên</string>
+<string name="custom_member_edit_name_error">Tên thẻ thành viên không được để trống</string>
+<string name="custom_member_edit_name_hint">Nhập tên thẻ</string>
+<string name="custom_member_edit_number">Số thẻ thành viên</string>
+<string name="custom_member_edit_number_error">Số thẻ thành viên không được để trống</string>
+<string name="custom_member_edit_number_hint">Nhập số thẻ</string>
+<string name="custom_member_edit_preview_tips">Xem trước</string>
+<string name="custom_member_edit_scan_tips">Quét mã vạch hoặc mã QR</string>
+<string name="custom_member_pic_load_fail">Tải thất bại. Kiểm tra kết nối mạng.</string>
+<string name="custom_ticket_date_dialog_cancel">Hủy</string>
+<string name="custom_ticket_date_dialog_confirm">OK</string>
+<string name="custom_ticket_date_dialog_tips">Chọn ngày sự kiện.</string>
+<string name="custom_ticket_date_dialog_title">Ngày</string>
+<string name="custom_ticket_date_time_dialog_title">Ngày &amp; giờ khởi hành</string>
+<string name="custom_ticket_edit_date">Ngày</string>
+<string name="custom_ticket_edit_date_hint">Chọn ngày</string>
+<string name="custom_ticket_edit_item_date_error">Cần nhập ngày</string>
+<string name="custom_ticket_edit_item_time_error">Cần nhập giờ</string>
+<string name="custom_ticket_edit_mark">Ghi chú</string>
+<string name="custom_ticket_edit_mark_hint">Nhập</string>
+<string name="custom_ticket_edit_name">Tên sự kiện</string>
+<string name="custom_ticket_edit_name_error">Tên sự kiện không được để trống</string>
+<string name="custom_ticket_edit_name_hint">Nhập</string>
+<string name="custom_ticket_edit_row">Hàng</string>
+<string name="custom_ticket_edit_row_hint">Nhập</string>
+<string name="custom_ticket_edit_seat">Ghế</string>
+<string name="custom_ticket_edit_seat_hint">Nhập</string>
+<string name="custom_ticket_edit_section">Khu vực ghế</string>
+<string name="custom_ticket_edit_section_hint">Nhập</string>
+<string name="custom_ticket_edit_time">Giờ bắt đầu</string>
+<string name="custom_ticket_edit_time_hint">Chọn giờ</string>
+<string name="custom_ticket_time_dialog_am">SA</string>
+<string name="custom_ticket_time_dialog_pm">CH</string>
+<string name="custom_ticket_time_dialog_tips">Chọn giờ bắt đầu sự kiện.</string>
+<string name="custom_ticket_time_dialog_title">Giờ bắt đầu</string>
+<string name="december">Tháng 12</string>
+<string name="default_error_msg">Lỗi không xác định</string>
+<string name="default_error_title">Lỗi mạng, chạm vào vùng trống để làm mới</string>
+<string name="default_loading_title">Đang tải…</string>
+<string name="dest_title">tiêu đề điểm đến</string>
+<string name="dialog_cancel">Hủy</string>
+<string name="dialog_confirm">OK</string>
+<string name="dialog_net_error_title">Kết nối mạng thất bại</string>
+<string name="dialog_ok">OK</string>
+<string name="dialog_permission_image">\"%1$s\" cần truy cập ảnh để bạn gửi phản hồi.</string>
+<string name="dialog_permission_internet">\"%1$s\" cần kết nối internet để cung cấp hỗ trợ và phản hồi.</string>
+<string name="dialog_permission_internet_and_image">\"%1$s\" cần internet và truy cập ảnh để hỗ trợ và gửi phản hồi.</string>
+<string name="dialog_permission_title">Yêu cầu quyền</string>
+<string name="dlg_boarding_pass_fail_again">Thử lại</string>
+<string name="dlg_boarding_pass_fail_manual">Nhập thủ công</string>
+<string name="dlg_boarding_pass_fail_title">Không nhận diện được</string>
+<string name="dlg_bt_oauth">Cho phép</string>
+<string name="dlg_pkg_enabled">Bật \"{0}\"?</string>
+<string name="dlg_pkg_enabled_cancel">Hủy</string>
+<string name="dlg_pkg_enabled_content">\"{0}\" đã bị tắt. Hãy bật để sử dụng.</string>
+<string name="dlg_pkg_enabled_setting">Cài đặt</string>
+<string name="dlg_repeat_add_boarding_pass_button">Xem</string>
+<string name="dlg_repeat_add_boarding_pass_title">Mục này đã được thêm</string>
+<string name="dlg_req_location_permission__bt_goto">Đi tới cài đặt</string>
+<string name="dlg_req_location_permission_content">Cần quyền vị trí để dùng tính năng này, hãy bật trong cài đặt</string>
+<string name="dlg_req_location_permission_title">Bật quyền “Vị trí”</string>
+<string name="dlg_secure_bt_setup_now">Thiết lập ngay</string>
+<string name="dlg_secure_content">Để đảm bảo an toàn tài khoản, hãy đặt mật khẩu màn hình khóa trước.</string>
+<string name="dlg_secure_title">Đặt mật khẩu màn hình khóa</string>
+<string name="dlg_title_oauth">Cho phép truy cập tài khoản HeyTap</string>
+<string name="dlg_upgrade_hint">Phiên bản của bạn đã cũ. Cập nhật trong \"App Market\"?</string>
+<string name="dlg_upgrade_next_time">Để sau</string>
+<string name="dlg_upgrade_now">Cập nhật</string>
+<string name="dw_switch_default_title">Nhấn đúp nút nguồn</string>
+<string name="dw_unlock">Mở khóa</string>
+<string name="dw_unlock_open">Mở khóa để mở \"%1$s\"</string>
+<string name="e_money_home_analyze_other">Sẽ hỗ trợ thêm nhiều thương hiệu trong tương lai</string>
+<string name="e_money_home_analyze_stick">Đặt thẻ e-money vào vùng NFC phía sau điện thoại</string>
+<string name="e_money_home_analyze_support">Thương hiệu hỗ trợ kiểm tra số dư</string>
+<string name="e_money_home_analyze_title">Kiểm tra số dư e-money</string>
+<string name="e_money_home_card_button">Kiểm tra</string>
+<string name="e_money_home_card_new">Mới</string>
+<string name="e_money_home_card_tips">Đặt thẻ Flazz vào thiết bị để kiểm tra số dư.</string>
+<string name="e_money_home_detail_balance">Số dư (Rp)</string>
+<string name="e_money_home_detail_bottom_tips">Chỉ hỗ trợ thẻ Flazz.</string>
+<string name="e_money_home_detail_cardpack">Số thẻ</string>
+<string name="e_money_home_detail_dialog_btn">Đã hiểu</string>
+<string name="e_money_home_detail_dialog_message">Đặt thẻ vào vùng NFC (đã bật NFC) và chọn Ví để kiểm tra.</string>
+<string name="e_money_home_detail_dialog_title">Đưa thẻ lại gần để kiểm tra số dư</string>
+<string name="e_money_home_detail_empty_record">Không có lịch sử giao dịch</string>
+<string name="e_money_home_detail_fail_back">Thoát</string>
+<string name="e_money_home_detail_fail_msg">Nhận diện thất bại. Thử lại sau.</string>
+<string name="e_money_home_detail_fail_retry">Thử lại</string>
+<string name="e_money_home_detail_init">Khởi tạo</string>
+<string name="e_money_home_detail_pay">Thanh toán</string>
+<string name="e_money_home_detail_record">Lịch sử giao dịch</string>
+<string name="e_money_home_detail_time">Kiểm tra lúc: %s</string>
+<string name="e_money_home_detail_title">Chi tiết e-money</string>
+<string name="e_money_home_detail_topup">Nạp tiền</string>
+<string name="e_money_home_detail_update_balance">Cập nhật số dư</string>
+<string name="e_money_name">e-money</string>
+<string name="e_money_wallet_detect_fail_unsupported">Loại thẻ không hỗ trợ</string>
+<string name="e_money_wallet_detect_msg1">Không di chuyển thẻ cho đến khi được nhận diện.</string>
+<string name="e_money_wallet_detect_msg2">Kiểm tra số dư thẻ Flazz.</string>
+<string name="e_money_wallet_detect_msg3">Sao chép thẻ vào điện thoại.</string>
+<string name="e_money_wallet_detect_subtitle">Đặt thẻ vào vùng NFC phía sau điện thoại</string>
+<string name="e_money_wallet_detect_title">Đọc thẻ NFC</string>
+<string name="error_a11y_label">Lỗi: không hợp lệ</string>
+<string name="error_icon_content_description">Lỗi</string>
+<string name="expand_button_title">Nâng cao</string>
+<string name="exposed_dropdown_menu_content_description">Hiển thị menu xổ xuống</string>
+<string name="fallback_menu_item_copy_link">Sao chép liên kết</string>
+<string name="fallback_menu_item_open_in_browser">Mở trong trình duyệt</string>
+<string name="fallback_menu_item_share_link">Chia sẻ liên kết</string>
+ <string name="faq_answer_1">Tính năng Thẻ ra vào cho phép bạn mô phỏng UID của thẻ vật lý trên điện thoại %1$s có NFC, giúp bạn mở cửa bằng điện thoại.</string>
+
+<string name="faq_answer_2">Bạn có thể thêm thẻ ra vào vào điện thoại theo các bước sau:
+1. Vào Cài đặt - Kết nối &amp; chia sẻ - NFC - Thẻ ra vào và nhấn Thêm.
+2. Đặt vùng NFC ở mặt sau điện thoại gần thẻ hoặc đầu đọc. Nếu không phản hồi, hãy điều chỉnh vị trí và thử lại.</string>
+
+<string name="faq_answer_3">Có thể thêm tối đa 5 thẻ ra vào trên một điện thoại.</string>
+
+<string name="faq_answer_4">Hiện tại chỉ hỗ trợ mô phỏng thẻ ra vào không mã hóa và thẻ nhân viên. Vì lý do bảo mật, thẻ ngân hàng tích hợp kiểm soát ra vào và các thẻ dùng cho thanh toán hoặc giao thông không được hỗ trợ. Ngay cả khi mô phỏng thành công, các chức năng thanh toán hoặc giao thông cũng sẽ không sử dụng được.</string>
+
+<string name="faq_answer_5">Không, tính năng này hoàn toàn miễn phí.</string>
+
+<string name="faq_answer_6">1. Chọn thẻ muốn xóa trong trang Thẻ ra vào.
+2. Nhấn Thêm trên thẻ và làm theo hướng dẫn trên màn hình.</string>
+
+<string name="faq_answer_7">Nếu không thêm được thẻ, hãy thử:
+1. Đảm bảo điện thoại chạy %1$s trở lên.
+2. Đảm bảo NFC đã bật.
+3. Đặt thẻ mặc định NFC là Thẻ ra vào.
+4. Đặt vùng NFC gần thẻ/đầu đọc và điều chỉnh vị trí nếu cần.
+5. Khởi động lại điện thoại và NFC.
+6. Không sử dụng thẻ mã hóa, CMND/CCCD hoặc thẻ ngân hàng.
+
+Lưu ý: Có nhiều loại thẻ trên thị trường, hệ thống sẽ dần hỗ trợ thêm trong tương lai.</string>
+
+<string name="faq_answer_8">Nếu không mở được cửa:
+1. Kiểm tra vật cản giữa điện thoại và đầu đọc.
+2. Thử tháo ốp lưng.
+3. Đặt vùng NFC sát đầu đọc và điều chỉnh góc.
+4. Khởi động lại máy và bật/tắt NFC.
+5. Đảm bảo thẻ mặc định là Thẻ ra vào.
+
+Lưu ý: Tính năng chỉ mô phỏng UID, nên tùy hệ thống mà có thể không hoạt động. Nếu vẫn lỗi, hãy dùng thẻ vật lý.</string>
+
+<string name="faq_question_1">Thẻ ra vào là gì?</string>
+<string name="faq_question_2">Làm sao để thêm thẻ ra vào?</string>
+<string name="faq_question_3">Một điện thoại thêm được bao nhiêu thẻ?</string>
+<string name="faq_question_4">Hỗ trợ những loại thẻ nào?</string>
+<string name="faq_question_5">Tính năng này có mất phí không?</string>
+<string name="faq_question_6">Xóa thẻ ra vào như thế nào?</string>
+<string name="faq_question_7">Không thêm được thẻ thì làm sao?</string>
+<string name="faq_question_8">Thẻ không hoạt động thì làm gì?</string>
+
+<string name="fast_scroller_dots">...</string>
+<string name="fb_start_loading">Đang tải…</string>
+<string name="februry">Tháng 2</string>
+<string name="feedback_app_name">Trợ giúp và phản hồi</string>
+
+<string name="fingerprint_dialog_touch_sensor">Chạm vào cảm biến vân tay</string>
+<string name="fingerprint_error_hw_not_available">Không có phần cứng vân tay.</string>
+<string name="fingerprint_error_hw_not_present">Thiết bị không có cảm biến vân tay</string>
+<string name="fingerprint_error_lockout">Thử quá nhiều lần. Vui lòng thử lại sau.</string>
+<string name="fingerprint_error_no_fingerprints">Chưa đăng ký vân tay.</string>
+<string name="fingerprint_error_user_canceled">Đã hủy xác thực vân tay.</string>
+<string name="fingerprint_not_recognized">Không nhận diện được</string>
+
+<string name="flamingo_guide_no_card">Không có thẻ</string>
+
+<string name="generic_error_no_device_credential">Chưa thiết lập PIN, hình vẽ hoặc mật khẩu.</string>
+<string name="generic_error_no_keyguard">Thiết bị không hỗ trợ bảo mật.</string>
+<string name="generic_error_user_canceled">Đã hủy xác thực.</string>
+
+<string name="gigaByteSpeed"> GB/s</string>
+<string name="gigabyteShort"> GB</string>
+
+<string name="gps_setting_confirm_bt_goto">Đi tới cài đặt</string>
+<string name="gps_setting_confirm_msg">Dùng để cung cấp vị trí chính xác</string>
+<string name="gps_setting_confirm_title">Cần bật định vị</string>
+
+<string name="hint_act_barcode">Không nhận diện được? %1$s</string>
+<string name="hint_act_barcode_manual">Nhập thủ công</string>
+
+<string name="home_add_pay_card_binding_msg">Nhấn để mở %1$s và liên kết tài khoản %2$s.</string>
+<string name="home_add_pay_card_disclaimer">Tuyên bố miễn trừ</string>
+<string name="home_add_pay_card_disclaimer_msg">Dịch vụ do %1$s cung cấp. Mọi trách nhiệm thuộc bên thứ ba này.</string>
+<string name="home_add_pay_card_download_msg">Tiến trình tải %1$s: %2$s</string>
+<string name="home_add_pay_card_install_msg">Cài đặt %2$s để dùng %1$s thanh toán.</string>
+<string name="home_add_pay_card_understood_disclaimer">Đã hiểu</string>
+
+<string name="home_area_not_support_add_card">Khu vực của bạn chưa hỗ trợ thêm thẻ</string>
+<string name="home_no_more_content_loading">Không còn nội dung</string>
+
+<string name="icon_content_description">Biểu tượng</string>
+<string name="index_closed_all_services_tips">Không thể tải nội dung. Nhấn để bật dịch vụ.</string>
+
+<string name="item_view_role_description">Tab</string>
+
+<string name="january">Tháng 1</string>
+<string name="july">Tháng 7</string>
+<string name="june">Tháng 6</string>
+
+<string name="kiloByteSpeed"> KB/s</string>
+<string name="kilobyteShort"> KB</string>
+
+<string name="label_profile">Cá nhân</string>
+
+<string name="load_failed">Tải thất bại, nhấn để làm mới</string>
+<string name="loading_button_dots">...</string>
+<string name="loading_content">Đang tải...</string>
+
+<string name="location_name">Vị trí</string>
+
+<string name="manage_card_add_card">Thêm thẻ</string>
+<string name="manage_card_tips">Chạm để dùng hoặc giữ để sắp xếp</string>
+<string name="manage_card_title">Thẻ</string>
+
+<string name="manager_card_guide_button">Đã hiểu</string>
+<string name="manager_card_guide_tips">Giữ và kéo để đổi thứ tự thẻ</string>
+<string name="manager_card_guide_title">Sắp xếp thẻ</string>
+
+<string name="member_add_album_subtitle">Nhập ảnh thẻ thành viên.</string>
+<string name="member_add_album_title">Từ thư viện</string>
+<string name="member_add_group_title">Chọn cách</string>
+<string name="member_add_input_subtitle">Nhập thông tin thẻ.</string>
+<string name="member_add_input_title">Nhập thủ công</string>
+<string name="member_add_take_photo_subtitle">Chụp ảnh thẻ.</string>
+<string name="member_add_take_photo_title">Chụp ảnh</string>
+
+<string name="member_analyze_no_code_tips">Không phát hiện mã. Thử ảnh khác.</string>
+<string name="member_analyze_pic_handling_tips">Đang xử lý…</string>
+<string name="member_analyze_pic_take_tips">Căn chỉnh thẻ rõ ràng trong khung hình</string>
+
+<string name="member_detail_bottom_tips">Thẻ được nhập thủ công. Hãy kiểm tra thẻ thật để đảm bảo chính xác.</string>
+<string name="member_detail_bottom_tips_title">Lưu ý</string>
+
+<string name="member_detail_previoew_tips1">Mã vạch/QR</string>
+<string name="member_detail_previoew_tips2">Nhấn để xem</string>
+<string name="member_detail_previoew_tips3">Thêm mã</string>
+
+<string name="member_edit_btn_save">Lưu</string>
+<string name="member_edit_btn_save_success">Đã lưu</string>
+<string name="member_edit_page_add_code">Thêm mã vạch/mã QR</string>
+   <string name="member_edit_page_buttun_text">Thêm</string>
+<string name="member_edit_page_buttun_text_adding">Đang thêm</string>
+<string name="member_edit_page_iamge_error_cancel">Hủy</string>
+<string name="member_edit_page_iamge_error_content">"Thông tin thẻ thành viên bạn nhập không được chấp nhận. Lý do: %s"</string>
+<string name="member_edit_page_iamge_error_retry">Thêm lại</string>
+<string name="member_edit_page_iamge_error_tips1">Ảnh chứa nội dung nhạy cảm.</string>
+<string name="member_edit_page_iamge_error_tips2">Thông tin nhập chứa nội dung nhạy cảm.</string>
+<string name="member_edit_page_iamge_error_tips3">"Định dạng hoặc kích thước ảnh không hợp lệ."</string>
+<string name="member_edit_page_iamge_error_title">Thêm thất bại</string>
+<string name="member_edit_page_title">Thêm thẻ thành viên</string>
+<string name="member_edit_quit_tips">Các chỉnh sửa chưa được lưu. Thoát?</string>
+<string name="member_page_title">Thẻ thành viên</string>
+
+<string name="menu_about_wallet">Giới thiệu Ví</string>
+<string name="menu_faq">Câu hỏi thường gặp</string>
+<string name="menu_feedback">Phản hồi</string>
+<string name="menu_help_support">Trợ giúp &amp; hỗ trợ</string>
+<string name="menu_settings">Cài đặt</string>
+
+<string name="minus_content">trừ</string>
+<string name="mlkit_back">Quay lại</string>
+<string name="mlkit_cancel_recognition_msg">Thoát sẽ dừng nhận diện. Bạn có muốn thoát?</string>
+<string name="mlkit_continue_recognition">Tiếp tục nhận diện</string>
+<string name="mlkit_edit_page_iamge_error_tips1">Ảnh chứa nội dung nhạy cảm.</string>
+<string name="mlkit_failed_to_add">Thêm thất bại</string>
+<string name="mlkit_hint_unrecognizable">Không thể đọc mã QR hoặc mã vạch này</string>
+<string name="mlkit_img_recognition_failed">Không nhận diện được ảnh.</string>
+<string name="mlkit_img_recognition_failed2">Tải ảnh lên thất bại</string>
+<string name="mlkit_recognition_failed">Nhận diện thất bại</string>
+<string name="mlkit_recognition_failed_msg">Kết nối mạng không ổn định. Kiểm tra lại và thử lại.</string>
+<string name="mlkit_recognizing_picture_info">Đang nhận diện ảnh… %1$s%%</string>
+<string name="mlkit_reselect">Chọn lại</string>
+<string name="mlkit_retry">Thử lại</string>
+<string name="mlkit_rotation">Xoay</string>
+<string name="mlkit_scan_hint">Hướng camera vào vé và chụp ảnh</string>
+<string name="mlkit_scan_title">Quét</string>
+<string name="mlkit_upload_tips">Không tải lên ảnh chứa thông tin nhạy cảm</string>
+<string name="mlkit_upload_tips2">Đảm bảo bạn có quyền sử dụng ảnh này.</string>
+<string name="mlkit_upload_tips3">Ảnh có thể chứa thông tin cá nhân nhạy cảm. Khi tải lên, bạn xác nhận có quyền sử dụng và đồng ý dùng cho dịch vụ này.</string>
+
+<string name="mobile_and_wlan_network_not_connect_str">Bật dữ liệu di động hoặc dùng Wi-Fi</string>
+
+<string name="morning">SA</string>
+
+<string name="nav_app_bar_navigate_up_description">Đi lên</string>
+<string name="nav_app_bar_open_drawer_description">Mở menu</string>
+
+<string name="nc_action_bar_cancel">Hủy</string>
+<string name="nc_add_card_complete">Đã thêm</string>
+<string name="nc_add_card_encrypt_tag">Đã mã hóa</string>
+<string name="nc_add_card_encrypt_text">Thẻ này đã mã hóa, có thể không hoạt động do không sao chép được toàn bộ dữ liệu.</string>
+<string name="nc_add_card_fail_msg">Không phát hiện thẻ. Hãy đặt đúng vị trí.</string>
+<string name="nc_add_card_sub_title">Không di chuyển thẻ cho đến khi nhận diện.</string>
+<string name="nc_add_card_text">Thêm</string>
+<string name="nc_add_card_text2">Thêm</string>
+<string name="nc_add_card_title">Đặt thẻ vào vùng NFC phía sau điện thoại</string>
+<string name="nc_add_card_try_again">Thử lại</string>
+
+<string name="nc_agree_and_use">Đồng ý và tiếp tục</string>
+<string name="nc_auto_allow">Cho phép</string>
+<string name="nc_auto_open_nfc">Cho phép %1$s tự bật NFC</string>
+<string name="nc_auto_open_nfc_auto_open">Luôn tự động bật</string>
+<string name="nc_auto_open_nfc_detail">Để đảm bảo trải nghiệm tốt, cho phép tự bật NFC.</string>
+<string name="nc_auto_open_nfc_every_tile_detail">Luôn cho phép tự bật NFC để đảm bảo trải nghiệm tốt.</string>
+<string name="nc_auto_open_nfc_every_time">Luôn tự động bật</string>
+<string name="nc_auto_open_nfc_massage">Cho phép %1$s tự bật NFC khi cần.</string>
+<string name="nc_auto_open_nfc_once">Chỉ bật lần này</string>
+<string name="nc_auto_open_nfc_title">Cài đặt NFC</string>
+
+<string name="nc_card_default_name">Thẻ ra vào</string>
+<string name="nc_card_delete_check">Xóa thẻ này?</string>
+<string name="nc_card_delete_suc">Đã xóa</string>
+<string name="nc_card_detail">Chi tiết thẻ</string>
+<string name="nc_card_detail_menu_delete">Xóa</string>
+<string name="nc_card_detail_menu_edit">Chỉnh sửa</string>
+<string name="nc_card_detail_menu_name_invisible">Hiển thị tên</string>
+<string name="nc_card_detail_menu_name_visible">Ẩn tên</string>
+<string name="nc_card_detail_v2">Chi tiết thẻ ra vào</string>
+<string name="nc_card_list_title">Đã thêm</string>
+<string name="nc_card_name">Tên thẻ</string>
+<string name="nc_card_reading_toast">Đang sao chép dữ liệu…</string>
+<string name="nc_card_surface">Ảnh bìa thẻ</string>
+<string name="nc_card_tip">Đang dùng</string>
+<string name="nc_card_use_help">Trợ giúp</string>
+
+<string name="nc_check_sub">Đang đọc dữ liệu… Không di chuyển thẻ.</string>
+<string name="nc_check_title">Đang nhận diện thẻ...</string>
+
+<string name="nc_complete">Hoàn tất</string>
+
+<string name="nc_default_pay_app_set_content">Đặt %1$s làm thẻ NFC mặc định để dùng mượt hơn.</string>
+<string name="nc_default_pay_app_set_content2">Đặt %1$s làm ứng dụng NFC mặc định.</string>
+<string name="nc_default_pay_app_set_suc">Đã thiết lập</string>
+<string name="nc_default_pay_app_set_title">Đặt %1$s làm mặc định</string>
+<string name="nc_default_pay_app_setting">Đang thiết lập…</string>
+
+<string name="nc_double_click_item_summary">Thiết lập mở nhanh bằng cách nhấn đúp nút nguồn.</string>
+<string name="nc_double_click_item_title">Quẹt nhanh</string>
+<string name="nc_double_click_power">Nhấn đúp nút nguồn</string>
+
+<string name="nc_empty_list">Không có thẻ</string>
+<string name="nc_empty_sub_title">Dùng điện thoại làm thẻ ra vào, không cần mang thẻ</string>
+
+<string name="nc_exist_card_check">Xem</string>
+<string name="nc_exist_card_title">Thẻ này đã được thêm.</string>
+
+<string name="nc_fast_swiping_card_summary">Mở nhanh bằng nút nguồn.</string>
+<string name="nc_fast_swiping_card_title">Quẹt nhanh</string>
+
+<string name="nc_near_card_reader">Đưa gần đầu đọc</string>
+<string name="nc_next_step">Tiếp</string>
+<string name="nc_not_agree">Không đồng ý</string>
+
+<string name="nc_optimize_signal">Tối ưu tín hiệu</string>
+<string name="nc_optimize_signal_start">Bắt đầu</string>
+<string name="nc_optimize_signal_suc">Đã tối ưu</string>
+
+<string name="nc_read_sub_time">Sao chép mất khoảng 30 giây. Vui lòng chờ.</string>
+<string name="nc_read_title">Đang sao chép… {0}%</string>
+
+<string name="nc_sample_swiping_card_summary">Khi quẹt thẻ, thẻ nổi sẽ hiển thị phía trên mà không làm gián đoạn ứng dụng.</string>
+<string name="nc_sample_swiping_card_title">Chế độ quẹt mượt</string>
+
+<string name="nc_set_card_default_name">Thẻ ra vào %1$s</string>
+<string name="nc_set_card_hint_name">Chọn hoặc nhập tên</string>
+<string name="nc_set_card_loc_company">Công ty</string>
+<string name="nc_set_card_loc_district">Khu dân cư</string>
+<string name="nc_set_card_loc_home">Nhà</string>
+<string name="nc_set_card_name">Tên thẻ</string>
+<string name="nc_set_card_select_image">Chọn giao diện thẻ</string>
+
+<string name="nc_stick_again">Quét lại</string>
+<string name="nc_stick_back">Quay lại</string>
+<string name="nc_stick_known">Đã hiểu</string>
+<string name="nc_stick_sub">Đặt thẻ vào mặt sau điện thoại và giữ nguyên cho đến khi nhận diện</string>
+<string name="nc_stick_title">Đưa thẻ lại gần điện thoại</string>
+<string name="nc_stick_try">Thử lại</string>
+
+<string name="nc_swipe_card">Chạm để chuyển sang thẻ này</string>
+<string name="nc_swipe_card_expired_card">Thẻ đã về mặc định. Hãy thiết lập lại.</string>
+<string name="nc_swipe_card_go_setting">Cài đặt</string>
+<string name="nc_swipe_card_set">Cài đặt thẻ</string>
+<string name="nc_swipe_card_set_detail">Đặt app mặc định và cho phép tự bật NFC để dùng mượt.</string>
+
+<string name="nc_swipe_near_the_card_reader">Đưa gần đầu đọc</string>
+
+<string name="nc_un_support_card">Không dùng được</string>
+<string name="nc_un_support_card_desc">Bật NFC và đặt Wallet làm mặc định.</string>
+<string name="nc_un_support_card_settings">Cài đặt</string>
+<string name="nc_unsupport_card">Loại thẻ không hỗ trợ</string>
+
+<string name="nc_user_disclaimer_content">Bằng cách tiếp tục, bạn xác nhận chỉ dùng với thẻ hợp pháp và được phép.</string>
+<string name="nc_user_guidance_content">Ứng dụng này cho phép dùng điện thoại như thẻ ra vào và cần thu thập dữ liệu thẻ.</string>
+<string name="nc_welcome_to_use">Chào mừng đến với</string>
+
+<string name="network_status_ssl_date_invalid">Thời gian điện thoại không chính xác.</string>
+<string name="network_status_tips_air_plane">Tắt chế độ máy bay hoặc dùng Wi-Fi</string>
+<string name="network_status_tips_authenticate">Xác thực</string>
+<string name="network_status_tips_need_login_no_op">Wi-Fi này cần đăng nhập</string>
+<string name="network_status_tips_no_connect">Không có kết nối</string>
+<string name="network_status_tips_open_connect">Bật dữ liệu hoặc Wi-Fi</string>
+<string name="network_status_tips_server_error">Máy chủ đang bảo trì</string>
+
+<string name="nfc_ac_add_card_detail">Dùng điện thoại như thẻ ra vào</string>
+<string name="nfc_ac_add_card_summary">Phát hiện thẻ</string>
+<string name="nfc_ac_add_card_title">Thêm thẻ</string>
+<string name="nfc_ac_add_desktop_icon">Thêm ra màn hình chính</string>
+<string name="nfc_ac_card_name">Tên thẻ</string>
+<string name="nfc_ac_change_card_cover">Đổi ảnh bìa</string>
+<string name="nfc_ac_copy_card_phone">Sao chép thẻ vào điện thoại</string>
+<string name="nfc_ac_double_power_button">Nhấn đúp nút nguồn</string>
+<string name="nfc_ac_edit_card_cover">Chọn ảnh bìa</string>
+<string name="nfc_ac_edit_card_cover_retrieve">Cài %s để có thêm mẫu</string>
+<string name="nfc_ac_edit_card_save">Lưu</string>
+<string name="nfc_ac_edit_card_title">Sửa tên thẻ</string>
+<string name="nfc_ac_faq">FAQ</string>
+<string name="nfc_ac_menu_settings_title">Cài đặt</string>
+<string name="nfc_ac_personalize_your_card_design">Tùy chỉnh hiển thị thẻ</string>
+<string name="nfc_ac_set_card_more">Thêm</string>
+<string name="nfc_ac_set_card_title">Cài đặt thẻ</string>
+<string name="nfc_ac_want_to_find">Bạn có thể đang tìm:</string>
+
+<string name="nfc_card_support_change_default_fail_retry">Bật NFC</string>
+
+<string name="nfc_default_setting_allow">Cho phép</string>
+<string name="nfc_default_setting_neg">Hủy</string>
+<string name="nfc_default_setting_pos">Thiết lập</string>
+    <string name="nfc_double_setting_desc">Chọn ứng dụng mở khi nhấn đúp nút nguồn.</string>
+<string name="nfc_double_setting_desc_off">Bật \"Nhấn đúp nút nguồn\" và chọn %s để mở khi nhấn đúp.</string>
+<string name="nfc_double_setting_desc_on">Đặt %s mở khi nhấn đúp nút nguồn.</string>
+<string name="nfc_double_setting_pop_dialog_desc">Đặt %s mở khi nhấn đúp nút nguồn.</string>
+<string name="nfc_double_setting_pop_dialog_donot_set">Để sau</string>
+<string name="nfc_double_setting_pop_dialog_title">Nhấn đúp nút nguồn để mở nhanh ứng dụng</string>
+<string name="nfc_double_setting_success">Đã thiết lập</string>
+<string name="nfc_double_setting_title">Nhấn đúp nút nguồn</string>
+<string name="nfc_double_setting_title_open">Nhấn đúp nút nguồn để mở %1$s.</string>
+
+<string name="nfc_more_features_dialog_desc">Cài đặt không dùng dữ liệu di động, dữ liệu hiện có vẫn được giữ nguyên.</string>
+<string name="nfc_more_features_dialog_desc2">Cài đặt không dùng dữ liệu di động. Thẻ sẽ tự đồng bộ.</string>
+<string name="nfc_more_features_dialog_install">Cài đặt</string>
+<string name="nfc_more_features_dialog_install2">Cài đặt ngay</string>
+<string name="nfc_more_features_dialog_not_need">Để sau</string>
+<string name="nfc_more_features_dialog_success_tip">Đang mở %s…</string>
+<string name="nfc_more_features_dialog_tip1">Thêm thẻ lên máy bay để đi lại tiện hơn</string>
+<string name="nfc_more_features_dialog_tip1_2">Thêm thẻ lên máy bay để nhận nhắc nhở chuyến đi</string>
+<string name="nfc_more_features_dialog_tip2">Quản lý thẻ thành viên và ưu đãi</string>
+<string name="nfc_more_features_dialog_tip2_2">Thêm thẻ thành viên để nhận ưu đãi</string>
+<string name="nfc_more_features_dialog_tip3">Thêm vé sự kiện để vào nhanh</string>
+<string name="nfc_more_features_dialog_tip4">Tùy chỉnh thẻ ra vào với nhiều kiểu</string>
+<string name="nfc_more_features_dialog_tip5">Ngoài ra còn có các lợi ích sau:</string>
+<string name="nfc_more_features_dialog_title">Cài %s để dùng thêm tính năng</string>
+<string name="nfc_more_features_dialog_title2">Cài %1$s để mở khóa thêm giao diện thẻ</string>
+
+<string name="nfc_name">NFC</string>
+<string name="nfc_no_card_title">Dùng điện thoại như thẻ ra vào</string>
+<string name="nfc_not_default_payment_app">Đặt %1$s làm ứng dụng NFC mặc định</string>
+
+<string name="nfc_retrieve_dialog_install">Cài đặt</string>
+<string name="nfc_retrieve_dialog_install_fail_msg">Vào \"Cài đặt - Ứng dụng - Khôi phục ứng dụng hệ thống\" để cài lại %s.</string>
+<string name="nfc_retrieve_dialog_install_fail_title">Cài đặt thất bại</string>
+<string name="nfc_retrieve_dialog_install_success_msg">Đang mở %s…</string>
+<string name="nfc_retrieve_dialog_install_success_title">Đã cài đặt</string>
+<string name="nfc_retrieve_dialog_installing">Đang cài đặt…</string>
+<string name="nfc_retrieve_dialog_knew">Đã hiểu</string>
+<string name="nfc_retrieve_dialog_title">Cài đặt sẽ không dùng dữ liệu và không ảnh hưởng dữ liệu hiện có.</string>
+<string name="nfc_retrieve_dialog_title_install_app">Cài đặt %s</string>
+
+<string name="nfc_setting_common">Chung</string>
+<string name="nfc_setting_more_features">Tính năng khác</string>
+<string name="nfc_setting_other">Khác</string>
+<string name="nfc_setting_version">Phiên bản</string>
+
+<string name="nfc_un_support_service">Không hỗ trợ thẻ ra vào</string>
+
+<string name="no_network_btn_text">Cài đặt</string>
+<string name="no_network_connect_str">Không có kết nối mạng</string>
+<string name="no_network_error_set">Cài đặt</string>
+<string name="no_network_remind">Không có mạng. Thử lại sau.</string>
+
+<string name="no_take_photo_tool">Không có ứng dụng camera!</string>
+<string name="not_Supported">Dịch vụ chưa được hỗ trợ</string>
+<string name="not_found_application_store">Không tìm thấy App Store</string>
+<string name="not_set">Chưa thiết lập</string>
+<string name="notify_setting_go">Đi tới cài đặt</string>
+
+<string name="november">Tháng 11</string>
+<string name="october">Tháng 10</string>
+
+<string name="offline_add_access_message">Dùng điện thoại như thẻ ra vào</string>
+<string name="offline_add_access_title">Thẻ ra vào</string>
+<string name="offline_collapsing_cards_btn_text">Thêm</string>
+<string name="offline_collapsing_cards_pic_text">Dùng điện thoại như thẻ ra vào</string>
+<string name="offline_collapsing_cards_title">Thêm thẻ ra vào vào điện thoại</string>
+
+<string name="offline_no_internet_button">Cài đặt</string>
+<string name="offline_no_internet_message">Bật dữ liệu di động hoặc Wi-Fi để dùng thêm dịch vụ</string>
+<string name="offline_no_internet_message2">Bật mạng di động hoặc Wi-Fi</string>
+<string name="offline_no_internet_title">Không có internet</string>
+
+<string name="offline_profile_about">Giới thiệu Ví</string>
+<string name="offline_profile_faq">FAQ</string>
+<string name="offline_profile_setting">Cài đặt</string>
+
+<string name="on_js_dialog_alert_title">Thông báo</string>
+<string name="on_js_dialog_before_js_unload_title">Nhắc nhở</string>
+<string name="on_js_dialog_confirm_title">Xác nhận</string>
+<string name="on_js_dialog_prompt_title">Nhập</string>
+
+<string name="open_failed">Mở thất bại</string>
+<string name="open_failed_null">Mở thất bại, tham số null</string>
+
+<string name="page_not_open">Không thể mở trang</string>
+<string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+
+<string name="permission_dlg_proceed">Tiếp tục</string>
+<string name="permission_dlg_title">Cấp quyền để tiếp tục</string>
+<string name="permission_list_camera_description2">%1$s sẽ yêu cầu quyền camera.</string>
+<string name="permission_list_contacts_description2">Yêu cầu quyền danh bạ.</string>
+
+<string name="phone_name">Thông tin thiết bị</string>
+
+<string name="picker_talkback_tip">, chọn thời gian, vuốt lên/xuống để chỉnh</string>
+
+<string name="plus_content">cộng</string>
+
+<string name="pms_notify_title">Bật thông báo</string>
+
+<string name="preference_copied">\"%1$s\" đã sao chép</string>
+
+<string name="red_dot_description">Thông báo mới</string>
+
+<string name="reject_two_hint">Bật quyền \"Camera\" để quét thẻ và vé</string>
+<string name="reject_two_open_camera">Mở camera</string>
+<string name="reject_two_title">Cho phép %1$s dùng camera</string>
+
+<string name="request_camera_failed">Không cấp quyền camera</string>
+
+<string name="risk_loading_page_title">Đang chuyển tới trang bên thứ ba | Hãy bảo vệ thông tin của bạn</string>
+<string name="risk_page_subtitle">Dịch vụ bên thứ ba</string>
+<string name="risk_tip_text">Bạn đang truy cập dịch vụ do bên thứ ba cung cấp</string>
+
+<string name="safe_verification_cancel">Hủy</string>
+
+<string name="scan_recognition_failed">Không nhận diện được. Vui lòng thử lại.</string>
+
+<string name="search_menu_title">Tìm kiếm</string>
+<string name="searchview_clear_text_content_description">Xóa nội dung</string>
+<string name="searchview_navigation_content_description">Quay lại</string>
+
+<string name="september">Tháng 9</string>
+
+<string name="splash_desc">Mọi thứ trong một nơi</string>
+
+<string name="srl_footer_failed">Tải thất bại</string>
+<string name="srl_footer_finish">Tải thành công</string>
+<string name="srl_footer_loading">Đang tải…</string>
+<string name="srl_footer_nothing">Không còn dữ liệu</string>
+<string name="srl_footer_pulling">Kéo lên để tải thêm</string>
+<string name="srl_footer_refreshing">Đang làm mới…</string>
+<string name="srl_footer_release">Thả để tải thêm</string>
+
+<string name="srl_header_failed">Làm mới thất bại</string>
+<string name="srl_header_finish">Làm mới thành công</string>
+<string name="srl_header_loading">Đang tải…</string>
+<string name="srl_header_pulling">Kéo xuống để làm mới</string>
+<string name="srl_header_refreshing">Đang làm mới…</string>
+<string name="srl_header_release">Thả để làm mới</string>
+    <string name="srl_header_secondary">Nhả ra để chuyển sang tầng hai</string>
+<string name="srl_header_update">"Cập nhật lần cuối' M-d HH:mm"</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+<string name="status_msg_loading_failed">Vui lòng thử lại sau.</string>
+<string name="status_msg_no_network">Kiểm tra kết nối mạng và thử lại.</string>
+<string name="status_msg_time_inaccurate">Hãy chỉnh lại thời gian hệ thống và thử lại.</string>
+<string name="status_title_loading_failed">Tải thất bại</string>
+<string name="status_title_loading_failed2">Không thể tải dữ liệu. Nhấn để làm mới</string>
+<string name="status_title_no_network">Không có kết nối internet</string>
+<string name="status_title_time_inaccurate">Thời gian hệ thống không chính xác</string>
+<string name="storage_name">Dung lượng lưu trữ</string>
+<string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+<string name="support_abc_searchview_description_clear">Xóa nội dung tìm kiếm</string>
+<string name="support_abc_searchview_description_search">Tìm kiếm</string>
+<string name="support_abc_searchview_description_submit">Gửi truy vấn</string>
+<string name="support_abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+<string name="support_abc_toolbar_collapse_description">Thu gọn</string>
+<string name="sure">Xác nhận</string>
+<string name="switch_loading">Đang tải</string>
+<string name="switch_off">Tắt</string>
+<string name="switch_on">Bật</string>
+<string name="system_default_channel">Kênh mặc định hệ thống</string>
+<string name="teraByteSpeed"> TB/s</string>
+<string name="terabyteShort"> TB</string>
+<string name="third_app_open" formatted="false">Rời %s và mở %s?</string>
+<string name="time_picker">Bộ chọn thời gian</string>
+<string name="toolbar_cancel">Hủy</string>
+<string name="toolbar_close">Đóng</string>
+<string name="toolbar_deselect_all">Bỏ chọn tất cả</string>
+<string name="toolbar_done">Hoàn tất</string>
+<string name="toolbar_select_all">Chọn tất cả</string>
+<string name="transition_name_of_custom_card_associated_pic">custom_card_associated_pic</string>
+<string name="tuv">TUV</string>
+<string name="tv_barcode_preview">Xem trước</string>
+<string name="upgrade_dialog_cancel">Hủy</string>
+<string name="upgrade_dialog_title">Có phiên bản mới</string>
+<string name="upgrade_dialog_update">Cập nhật ngay</string>
+<string name="user_network_remind_info">Cho phép \"Trợ giúp &amp; phản hồi\" truy cập mạng khi sử dụng?</string>
+<string name="v7_preference_off">TẮT</string>
+<string name="v7_preference_on">BẬT</string>
+<string name="versionCommit">896c2da</string>
+<string name="vip_card_scan_hint">Chụp toàn bộ thẻ thành viên rõ ràng trong khung hình</string>
+<string name="wchat_uninstalled">Chưa cài đặt WeChat</string>
+<string name="webext_download_failed">Tải xuống thất bại</string>
+<string name="webext_downloading">Đang tải xuống vào thư mục \"Tải xuống\"...</string>
+<string name="weixin_uninstalled_tip">Chưa cài đặt WeChat hoặc phiên bản không được hỗ trợ</string>
+</resources>
