@@ -679,4 +679,62 @@
 <string name="wallpaper_glazed_valley_title">Thung lũng bóng loáng</string>
 <string name="wallpaper_softlight_title">Ánh sáng mềm</string>
 
+<string name="autofill_save_sub_message_new">Bạn có thể xem và quản lý mật khẩu trong Cài đặt > %1$s > %2$s.</string>
+<string name="btn_cancel">Hủy</string>
+<string name="face_password_unlock_new">Dữ liệu khuôn mặt &amp; khóa màn hình</string>
+<string name="fingerprint_face_password_unlock_new">Vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
+<string name="fingerprint_password_unlock">Vân tay &amp; khóa màn hình</string>
+<string name="global_imac">iMac của tôi</string>
+<string name="global_ipad">iPad của tôi</string>
+<string name="global_iphone">iPhone của tôi</string>
+<string name="global_macbook">MacBook của tôi</string>
+<string name="global_macmini">Mac mini của tôi</string>
+<string name="global_macpro">Mac Pro của tôi</string>
+<string name="global_macstudio">Mac Studio của tôi</string>
+<string name="global_my">"Thiết bị của tôi
+%1$s"</string>
+<string name="ime_countDown_no">Từ chối</string>
+<string name="ime_countDown_tip">Sau khi chuyển phương thức nhập, chỉ có thể sử dụng trên màn hình trong, phương thức nhập màn hình ngoài sẽ không thay đổi. Sau khi chuyển đổi sẽ gây ra sự không nhất quán trong từ điển phương thức nhập giữa màn hình trong và ngoài. Bạn có muốn tiếp tục chuyển đổi không?</string>
+<string name="ime_countDown_title">Lưu ý</string>
+<string name="ime_countDown_yes">Chấp nhận</string>
+<string name="ime_rotation_tip">Góc hiện tại không hỗ trợ nhập liệu, vui lòng xoay thiết bị để sử dụng</string>
+<string name="ks_launch_global_search">Tìm ứng dụng</string>
+<string name="ks_launch_global_search_china">Tìm kiếm</string>
+<string name="ks_switch_tasks">Chuyển đổi giữa các ứng dụng</string>
+<string name="linked_wallpaper">Bộ hình nền</string>
+<string name="password_unlock">Khóa màn hình</string>
+<string name="screen_on_cover_guide_summary_for_back_screen">"Nhấn nút Nguồn
+để tắt màn hình chính"</string>
+<string name="screen_on_cover_guide_summary_for_main_screen">"Nhấn nút Nguồn
+để tiếp tục sử dụng màn hình chính"</string>
+<string name="screen_on_proximity_sensor_summary_for_back_screen">"Xóa chướng ngại vật khỏi vùng đỏ
+hoặc nhấn nút Tăng âm lượng
+để tắt chế độ Bỏ túi"</string>
+<string name="share_device_near_share">Chia sẻ khi ở gần</string>
+<string name="share_device_near_share_hide">Ẩn</string>
+<string name="share_device_near_share_image_describe">Đặt vùng NFC của hai thiết bị gần nhau để bắt đầu chia sẻ</string>
+<string name="softap_notification_new_device">Thiết bị mới đã kết nối</string>
+<string name="softap_notification_unknown_device">Thiết bị không dây</string>
+<string name="softap_notification_usage">Điểm phát sóng đang hoạt động</string>
+<string name="theme_titile_classis">Cổ điển</string>
+<string name="theme_titile_classis_scenery">Phong cảnh</string>
+<string name="typec_acc_not_support_cancel">Đã hiểu</string>
+<string name="typec_acc_not_support_message">"Cổng USB Type-C của sản phẩm này chỉ hỗ trợ thiết bị âm thanh kỹ thuật số."</string>
+<string name="typec_acc_not_support_tile">"Thiết bị không được hỗ trợ"</string>
+<string name="typec_not_supporort_calls_toast">"Không thể sử dụng tai nghe này cho cuộc gọi"</string>
+<string name="user_switching_message">Đang chuyển sang %1$s…</string>
+<string name="wallpaper_and_signature_title">Hình nền và chữ ký</string>
+<string name="wallpaper_bright_title">Rực rỡ</string>
+<string name="wallpaper_group_ai_zone_title">Hình nền AI</string>
+<string name="wallpaper_group_arc_title">Đèn cung</string>
+<string name="wallpaper_group_big_numbers_title">Số lớn</string>
+<string name="wallpaper_group_blossom_title">Hoa nở</string>
+<string name="wallpaper_group_creative_time_title">Đồng hồ sáng tạo</string>
+<string name="wallpaper_group_fun_wallpapers_title">Hình nền vui nhộn</string>
+<string name="wallpaper_group_nature_title">Thiên nhiên</string>
+<string name="wallpaper_group_new_year_title">Năm mới Trung Hoa</string>
+<string name="wallpaper_group_pets_title">Thú cưng</string>
+<string name="wallpaper_group_system_wallpaper_title">Hình nền hệ thống</string>
+<string name="wallpaper_group_time_watch_title">Đồng hồ</string>
+<string name="wallpaper_manying_title">Bóng đổ</string>
 </resources>
