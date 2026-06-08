@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <string-array name="card_style_tiles_mobile">
+        <item>wifi</item>
+        <item>cell</item>
+        <item>custom(com.bhlnk.vsteam/.QsShortcutTiles$Slot1)</item>
+        <item>custom(com.bhlnk.vsteam/.QsShortcutTiles$Slot2)</item>
+    </string-array>
+</resources>

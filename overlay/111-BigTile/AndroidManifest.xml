@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hypervs.big_tile"
+    platformBuildVersionCode="33"
+    platformBuildVersionName="13">
+
+    <overlay
+        android:targetPackage="miui.systemui.plugin"
+        android:priority="999"
+        android:isStatic="false" />
+
+    <application
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>

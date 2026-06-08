@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Màn hình phụ</string>
+    <string name="rear_screen_settings_name">Màn hình phụ</string>
+    <string name="pin">Màn hình phụ</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+    <string name="main_panel_enter_edit_mode_desc">Vào chế độ chỉnh sửa</string>
+    <string name="main_panel_exit_edit_mode_desc">Thoát chế độ chỉnh sửa</string>
+    <string name="nav_rail_collapsed_a11y_label">Đã thu gọn</string>
+    <string name="nav_rail_expanded_a11y_label">Đã mở rộng</string>
+    <string name="miuix_alphabet_indexer_name">Thanh chỉ mục</string>
+    <string name="miuix_indexer_collect">Bộ sưu tập</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Đóng</string>
+
+    <!-- Face authentication -->
+    <string name="face_auth_authenticating">Đang nhận diện…</string>
+    <string name="face_auth_failed_retry">Không nhận diện được</string>
+    <string name="face_auth_lockout">Thử quá nhiều lần</string>
+    <string name="face_auth_lockout_tip">Mở khóa điện thoại trên màn hình trước</string>
+    <string name="face_auth_no_face">Không có dữ liệu khuôn mặt</string>
+    <string name="face_auth_no_face_tip">Ghi lại trong Cài đặt &gt; Vân tay, dữ liệu khuôn mặt và khóa màn hình &gt; Thêm dữ liệu khuôn mặt</string>
+    <string name="face_auth_retry">Thử lại</string>
+    <string name="face_auth_success">Đã nhận diện</string>
+
+    <!-- Lock screen -->
+    <string name="keyguard_notification_title">Thông báo màn hình khóa</string>
+    <string name="launch_camera_fail_tip">Mở khóa thiết bị sau khi khởi động lại để dùng camera</string>
+    <string name="password_title">Vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
+
+    <!-- Pin feature -->
+    <string name="assistant_demo_simple_tip">Thông báo và tin ghim</string>
+    <string name="pin_delete_button_desc">Xóa</string>
+    <string name="pin_delete_cancel">Hủy</string>
+    <string name="pin_delete_confirm">Xóa</string>
+    <string name="pin_delete_message">Xóa mục ngay bây giờ?</string>
+    <string name="pin_image_desc">Hình ảnh</string>
+    <string name="pin_message_title">Tin nhắn đã ghim</string>
+    <string name="pin_success">Đã ghim</string>
+
+    <!-- Guide / tutorial -->
+    <string name="guide_on_off_screen_comment">Để duy trì trải nghiệm chơi game tốt, khi chơi một số trò chơi trên màn hình trước, màn hình phụ không thể được đánh thức bằng cách chạm đúp</string>
+    <string name="guide_on_off_screen_summary">Chạm đúp để thức màn hình phụ, rồi chạm đúp lại để tắt.</string>
+    <string name="guide_on_off_screen_title">Bật và tắt màn hình</string>
+    <string name="guide_set_wallpaper_title">Hình nền cá nhân hóa</string>
+    <string name="guide_use_pin_summary">Dùng Xiaomi Hyper XiaoAi để khoanh tròn thông tin quan trọng trên màn hình trước, rồi ghim lên màn hình phụ để tham khảo dễ dàng. Cũng hoạt động với ảnh từ Thư viện.</string>
+    <string name="guide_use_pin_title">Tin nhắn đã ghim</string>
+
+    <!-- Rear display settings (ms_*) -->
+    <string name="ms_enable_notification_permission">Bật Thông báo nổi bật cho ứng dụng này trước</string>
+    <string name="ms_failed_to_travel">Không thể mở trang</string>
+    <string name="ms_focus_mode">Chế độ tập trung</string>
+    <string name="ms_guide_nav_assistant">Trợ lý</string>
+    <string name="ms_guide_nav_assistant_new">Thông báo</string>
+    <string name="ms_guide_nav_camera">Camera</string>
+    <string name="ms_guide_nav_dial">Đồng hồ</string>
+    <string name="ms_guide_nav_wallpaper">Hình nền</string>
+    <string name="ms_guide_tip_assistant">Vuốt xuống từ trên cùng để mở Trợ lý. Vuốt theo chiều dọc để chuyển đổi dịch vụ. Vuốt lên từ phía dưới để đóng.</string>
+    <string name="ms_guide_tip_assistant_new">Vuốt xuống từ trên cùng để mở dịch vụ, vuốt lên hoặc xuống để chuyển đổi giữa chúng, và vuốt lên từ phía dưới để đóng.</string>
+    <string name="ms_guide_tip_camera">Vuốt sang phải để mở camera. Vuốt từ cạnh sang trái để quay lại.</string>
+    <string name="ms_guide_tip_dial">Nhấn giữ để chỉnh sửa. Vuốt ngang để chuyển đổi đồng hồ. Nhấn để xác nhận.</string>
+    <string name="ms_guide_tip_wallpaper">Nhấn giữ để chỉnh sửa, vuốt trái hoặc phải để đổi hình nền, nhấn để xác nhận.</string>
+    <string name="ms_guide_title">Hướng dẫn sử dụng</string>
+    <string name="ms_guide_title_new">Hướng dẫn màn hình phụ</string>
+    <string name="ms_mi_car_cancel">Hủy</string>
+    <string name="ms_mi_car_confirm">Tiếp tục</string>
+    <string name="ms_mi_car_prompt">Chú ý</string>
+    <string name="ms_mi_car_prompt_content">Xiaomi EV yêu cầu nhận dạng khuôn mặt để điều khiển xe. Tuy nhiên, tính năng này có thể bị mở khóa bằng ảnh của bạn, cũng như bởi những người hoặc vật thể có ngoại hình tương tự.</string>
+    <string name="ms_mihome_camera">Camera Xiaomi Home</string>
+    <string name="ms_music_service">Dịch vụ nhạc</string>
+    <string name="ms_notifications">Thông báo</string>
+    <string name="ms_quick_function">Phím tắt</string>
+    <string name="ms_service_assistant">Thông báo màn hình phụ</string>
+    <string name="ms_service_assistant_tips">Hiển thị thông báo với thông tin trực tiếp trên màn hình phụ</string>
+    <string name="ms_settings_assistant">Quản lý màn hình phụ</string>
+    <string name="ms_settings_assistant_tips">Kéo xuống từ trên màn hình để sử dụng các phím tắt đã chọn. Khi nhận được thông báo, bạn sẽ nhận được cập nhật thời gian thực trên màn hình phụ để tham khảo dễ dàng.</string>
+    <string name="ms_smart_assistant_ticketing">Vé Xiaomi Hyper XiaoAi</string>
+    <string name="ms_stealth_mode">Chế độ ẩn danh</string>
+    <string name="ms_stock_assistant">Chứng khoán</string>
+    <string name="ms_travel_assistant">Trợ lý du lịch</string>
+    <string name="ms_travel_assistant_off">Tắt</string>
+    <string name="ms_travel_assistant_on">Bật</string>
+
+    <!-- Rear display guide (ss_guide_*) -->
+    <string name="ss_guide_active_assistant_tip">Vuốt từ cạnh trên để xem dịch vụ</string>
+    <string name="ss_guide_assistant_switch_tip">Vuốt lên để chuyển đổi</string>
+    <string name="ss_guide_camera_tip_edge_swipe_back">Vuốt từ cạnh để quay lại</string>
+    <string name="ss_guide_camera_tip_swipe_right">Vuốt phải để mở camera</string>
+    <string name="ss_guide_click_select_wallpaper_tip">Nhấn để chọn hình nền</string>
+    <string name="ss_guide_deactivate_assistant_tip">Vuốt từ cạnh dưới để thoát</string>
+    <string name="ss_guide_dial_tip_long_press_to_edit_new">Nhấn giữ để đổi hình nền</string>
+    <string name="ss_guide_double_click_off_screen_tip">Chạm đúp để tắt màn hình</string>
+    <string name="ss_guide_mask_button_to_use">Xong</string>
+    <string name="ss_guide_tip_double_click_to_wake_new">Chạm đúp để thức màn hình\nvà tìm hiểu về màn hình phụ</string>
+
+    <!-- Rear display notification settings (sub_screen_*) -->
+    <string name="sub_screen_detail_disable_comment">Để hiển thị chi tiết thông báo, hãy đảm bảo:\n%1$d. Thông báo màn hình khóa được đặt thành \"Hiện thông báo và nội dung\".\n%2$d. \"Hiện chi tiết thông báo sau khi xác minh khuôn mặt\" bị tắt cho Mở khóa khuôn mặt.</string>
+    <string name="sub_screen_notification_detail_summary">Chi tiết thông báo sẽ được hiển thị trên màn hình phụ. Hãy lưu ý đến quyền riêng tư của bạn.</string>
+    <string name="sub_screen_notification_detail_title">Hiện chi tiết thông báo</string>
+    <string name="sub_screen_notification_disable_comment">Để nhận thông báo trên màn hình phụ, hãy đảm bảo thông báo màn hình khóa được đặt thành \"Không hiện thông báo màn hình khóa\"</string>
+    <string name="sub_screen_notification_find_title">Cần cài đặt khác?</string>
+    <string name="sub_screen_notification_settings_summary">Bật để nhận thông báo màn hình khóa trên màn hình phụ khi thiết bị bị khóa</string>
+    <string name="sub_screen_notification_settings_title">Thông báo màn hình phụ</string>
+    <string name="sub_screen_private_notification">Bạn có tin nhắn mới</string>
+
+    <!-- Solar terms -->
+    <string name="solar_term_autumn_begins">Lập thu</string>
+    <string name="solar_term_autumn_equinox">Thu phân</string>
+    <string name="solar_term_clear_and_bright">Thanh minh</string>
+    <string name="solar_term_cold_dews">Hàn lộ</string>
+    <string name="solar_term_grain_buds">Tiểu mãn</string>
+    <string name="solar_term_grain_in_ear">Mang chủng</string>
+    <string name="solar_term_grain_rain">Cốc vũ</string>
+    <string name="solar_term_great_cold">Đại hàn</string>
+    <string name="solar_term_great_heat">Đại thử</string>
+    <string name="solar_term_heavy_snow">Đại tuyết</string>
+    <string name="solar_term_hoar_frost_falls">Sương giáng</string>
+    <string name="solar_term_insects_awaken">Kinh trập</string>
+    <string name="solar_term_light_snow">Tiểu tuyết</string>
+    <string name="solar_term_slight_cold">Tiểu hàn</string>
+    <string name="solar_term_slight_heat">Tiểu thử</string>
+    <string name="solar_term_spring_begins">Lập xuân</string>
+    <string name="solar_term_stopping_the_heat">Xử thử</string>
+    <string name="solar_term_summer_begins">Lập hạ</string>
+    <string name="solar_term_summer_solstice">Hạ chí</string>
+    <string name="solar_term_the_rains">Vũ thủy</string>
+    <string name="solar_term_vernal_equinox">Xuân phân</string>
+    <string name="solar_term_white_dews">Bạch lộ</string>
+    <string name="solar_term_winter_begins">Lập đông</string>
+    <string name="solar_term_winter_solstice">Đông chí</string>
+</resources>
