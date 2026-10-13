@@ -710,4 +710,8 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các luật, q
 	<string name="voice_translate_function_name">Dịch cuộc gọi và hội nghị</string>
 	<string name="voice_translate_summary">Thông dịch đồng thời cho cuộc gọi và hội nghị</string>
 	<string name="voice_translate_title">Trình thông dịch AI</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="new_app_name">Mi Ditto</string>
+    <string name="permission_content_title_new">Mi Ditto provides simultaneous interpretation features for calls and conferences, voice controls, and ambient sound recognition.</string>
 </resources>

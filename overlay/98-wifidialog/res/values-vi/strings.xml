@@ -346,4 +346,19 @@ Với sự thay đổi này, các thiết bị ở gần có thể theo dõi v�
     <string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" có kết nối internet kém."</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_sliding_button_state_description_off">Turned off</string>
+    <string name="accessibility_sliding_button_state_description_on">Turned on</string>
+    <string name="accessibility_tab_state_description_unselect">Not selected</string>
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="calendar_date_picker_a11y_next_month">Change to next month</string>
+    <string name="calendar_date_picker_a11y_prev_month">Change to previous month</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Accept in # second.} other {Accept in # seconds.} }</string>
 </resources>

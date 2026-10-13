@@ -37,4 +37,17 @@
     <plurals name="settings_no_added_blacklist_title">
         <item quantity="other">%d ứng dụng chưa được thêm vào danh sách đen</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="disable_taplus_apps">
+        <item quantity="other">"%d apps aren't using Taplus"</item>
+    </plurals>
+    <plurals name="enable_taplus_apps">
+        <item quantity="other">%d apps are using Taplus</item>
+    </plurals>
+    <plurals name="enable_taplus_apps_count">
+        <item quantity="other">%d apps</item>
+    </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Withdraw. Countdown: %d seconds.</item>
+    </plurals>
 </resources>

@@ -2,3 +2,5 @@
 output
 *.apk
 error.log
+missing
+bin/aapt2

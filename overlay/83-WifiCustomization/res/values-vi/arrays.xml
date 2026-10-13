@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon WLAN. (Error = 16384)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon WLAN. (Error = 16385)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : You can’t connect to Verizon WLAN Access from outside the Verizon coverage area. (Error = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : You are not subscribed to Verizon WLAN Access. Please call us at 800-922-0204. (Error = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem with your Verizon WLAN Access account. Please call us at 800-922-0204. (Error = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : You are already connected to Verizon WLAN Access. (Error = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon WLAN Access. Please call us at 800-922-0204. (Error = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem with your Verizon WLAN Access account. Please call us at 800-922-0204. (Error = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon WLAN Access is not available from your location. Try again later or try from a different location. (Error = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon WLAN Access. Try again later or try from a different location. (Error = 32767)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon WLAN. (Error = Unknown)</item>
+    </string-array>
+</resources>

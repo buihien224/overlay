@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="cloud_state_synced_folders">
+        <item quantity="other">Synced %1$s folders</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="other">Synced %1$s items</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_folders">
+        <item quantity="other">"%1$s folders aren't synced"</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="other">"%1$s items aren't synced"</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="other">%1$s items</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s folders</item>
+    </plurals>
+    <plurals name="migration_result_fail_only">
+        <item quantity="other">迁移完成：失败%1$d条</item>
+    </plurals>
+    <plurals name="migration_result_success_only">
+        <item quantity="other">迁移完成：成功%1$d条</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notes</item>
+    </plurals>
+</resources>

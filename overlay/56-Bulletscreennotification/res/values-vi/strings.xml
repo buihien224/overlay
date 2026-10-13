@@ -109,4 +109,7 @@ iQiyi,Youku,Bilibili,Reren Video
      <string name="weibo_title">MicroBlog</string>
      <string name="wework_title">WeChat Work</string>
      <string name="youku_title">Youku</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="barrage_float_reply_title">Open</string>
+    <string name="barrage_float_reply_title2">Reply</string>
 </resources>

@@ -130,4 +130,74 @@ Thay đổi này có thể cho phép vị trí của thiết bị của bạn b�
 <string name="wifi_wakeup_onboarding_title">Wi‑Fi sẽ tự động bật</string>
 <string name="wifi_watchdog_network_disabled">Không thể kết nối với WLAN</string>
 <string name="wifi_watchdog_network_disabled_detailed"> có kết nối internet kém.</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="dlg_ok">OK</string>
+    <string name="ok">OK</string>
+    <string name="wifi_disconnect_dialog_message">Disconnecting from this network will disconnect %1$s.</string>
+    <string name="wifi_disconnect_dialog_negative_button">Cancel</string>
+    <string name="wifi_disconnect_dialog_new_connection_message">Connecting to %2$s will disconnect %1$s.</string>
+    <string name="wifi_disconnect_dialog_new_connection_positive_button">Connect</string>
+    <string name="wifi_disconnect_dialog_new_connection_title">Connect to a different Wi‑Fi network?</string>
+    <string name="wifi_disconnect_dialog_positive_button">Disconnect</string>
+    <string name="wifi_disconnect_dialog_title">Disconnect from %1$s?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : EAP authentication error 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : EAP authentication error 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : EAP authentication error 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s : EAP authentication error 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : EAP authentication error 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : EAP authentication error 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : EAP authentication error 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : EAP authentication error 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : EAP authentication error 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : EAP authentication error 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : EAP authentication error 32767</string>
+    <string name="wifi_p2p_dialog2_display_password_label">Password</string>
+    <string name="wifi_p2p_dialog2_display_pin_label">PIN</string>
+    <string name="wifi_p2p_dialog2_enter_password_label">Password</string>
+    <string name="wifi_p2p_dialog2_enter_pin_label">PIN</string>
+    <string name="wifi_p2p_dialog2_received_message">%1$s wants to connect to your device.</string>
+    <string name="wifi_p2p_dialog2_received_message_countdown">{countdown, plural, =1 {{device} wants to connect to your device. Accept in {countdown} second.} other {{device} wants to connect to your device. Accept in {countdown} seconds.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_display_password">%1$s wants to connect to your device with the following password.</string>
+    <string name="wifi_p2p_dialog2_received_message_display_password_countdown">{countdown, plural, =1 {{device} wants to connect to your device with the following password. Accept in {countdown} second.} other {{device} wants to connect to your device with the following password. Accept in {countdown} seconds.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_display_pin">%1$s wants to connect to your device with the following PIN.</string>
+    <string name="wifi_p2p_dialog2_received_message_display_pin_countdown">{countdown, plural, =1 {{device} wants to connect to your device with the following PIN. Accept in {countdown} second.} other {{device} wants to connect to your device with the following PIN. Accept in {countdown} seconds.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_password">Enter the password shown on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_password_countdown">{countdown, plural, =1 {Enter the password shown on {device} within {countdown} second to connect.} other {Enter the password shown on {device} within {countdown} seconds to connect.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_pin">Enter the PIN shown on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_pin_countdown">{countdown, plural, =1 {Enter the PIN shown on {device} within {countdown} second to connect.} other {Enter the PIN shown on {device} within {countdown} seconds to connect.} }</string>
+    <string name="wifi_p2p_dialog2_received_negative_button">Cancel</string>
+    <string name="wifi_p2p_dialog2_received_positive_button">Connect</string>
+    <string name="wifi_p2p_dialog2_received_title">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_display_password">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_display_pin">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_enter_password">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_enter_pin">Device connection</string>
+    <string name="wifi_p2p_dialog2_sent_message">Invitation sent to %1$s.</string>
+    <string name="wifi_p2p_dialog2_sent_message_display_password">Enter this password on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_sent_message_display_pin">Enter this PIN on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_sent_positive_button">OK</string>
+    <string name="wifi_p2p_dialog2_sent_title">Device connection</string>
+    <string name="wifi_p2p_dialog2_sent_title_display_password">Device connection</string>
+    <string name="wifi_p2p_dialog2_sent_title_display_pin">Device connection</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Accept in # second.} other {Accept in # seconds.} }</string>
+    <string name="wifi_tofu_dialog2_list_content_public_key_size">%1$s bits</string>
+    <string name="wifi_tofu_dialog2_list_content_validity_period">From %1$s to %2$s</string>
+    <string name="wifi_tofu_dialog2_list_label_issuer_name">Issuer</string>
+    <string name="wifi_tofu_dialog2_list_label_issuer_name_details">Issuer name details</string>
+    <string name="wifi_tofu_dialog2_list_label_public_key">Public key</string>
+    <string name="wifi_tofu_dialog2_list_label_public_key_algorithm">Public key algorithm</string>
+    <string name="wifi_tofu_dialog2_list_label_public_key_size">Public key size</string>
+    <string name="wifi_tofu_dialog2_list_label_serial_number">Serial number</string>
+    <string name="wifi_tofu_dialog2_list_label_server_name">Server</string>
+    <string name="wifi_tofu_dialog2_list_label_sha1_fingerprint">SHA-1 fingerprint</string>
+    <string name="wifi_tofu_dialog2_list_label_sha256_fingerprint">SHA-256 fingerprint</string>
+    <string name="wifi_tofu_dialog2_list_label_signature">Signature</string>
+    <string name="wifi_tofu_dialog2_list_label_signature_algorithm">Signature algorithm</string>
+    <string name="wifi_tofu_dialog2_list_label_subject_name_details">Subject name details</string>
+    <string name="wifi_tofu_dialog2_list_label_validity_period">Validity</string>
+    <string name="wifi_tofu_dialog2_list_label_version">Version</string>
+    <string name="wifi_tofu_dialog2_message">Only continue if you trust this network and the info below looks correct.</string>
+    <string name="wifi_tofu_dialog2_negative_button">Cancel</string>
+    <string name="wifi_tofu_dialog2_positive_button">Trust</string>
+    <string name="wifi_tofu_dialog2_title">Security certificate</string>
 </resources>

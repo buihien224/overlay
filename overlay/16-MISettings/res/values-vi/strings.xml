@@ -1037,4 +1037,15 @@ không được tạo trong Không gian thứ hai"</string>
     <string name="yellow_throated_marten">Chồn vàng họng</string>
     <string name="yesterday">Hôm qua</string>
     <string name="yunnan_snub_nosed_monkey">Khỉ mũi hếch đen</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="anti_flicker_mode_new_data">Universal DC dimming</string>
+    <string name="anti_flicker_mode_summary_new_data">Use at full brightness to reduce visual fatigue</string>
+    <string name="msc_app_lock_mixed_char">"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 -@#%^$&amp;*_!.,?;'/~"</string>
+    <string name="normal_mode_new_data">High-frequency PWM dimming</string>
+    <string name="normal_mode_summary_new_data">Use at low brightness to reduce visual fatigue</string>
+    <string name="search_anti_flicker_mode">DC dimming</string>
+    <string name="search_low_flicker_mode">DC dimming</string>
+    <string name="search_nature_mix">自然博物馆;动物</string>
+    <string name="search_notification_sound">通知铃声;个性;专属;自然博物馆;动物</string>
 </resources>

@@ -55,4 +55,17 @@
         <item quantity="other">"Bạn chưa chỉ định vị trí cho thẻ %1$s. Những thẻ này sẽ không được chọn tự động khi bạn cần."</item>
         <item quantity="one">"Bạn chưa chỉ định vị trí cho thẻ %1$s. Những thẻ này sẽ không được chọn tự động khi bạn cần."</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="active_time">
+        <item quantity="other">Activation time: %1$s ms</item>
+    </plurals>
+    <plurals name="card_holder_title_total">
+        <item quantity="other">%d cards</item>
+    </plurals>
+    <plurals name="card_list_item_transfer_in_card">
+        <item quantity="other">You have %1$s cards to choose from</item>
+    </plurals>
+    <plurals name="swiping_intelligent_selection_map_pick_point_fence_explain_unit">
+        <item quantity="other">%d meters</item>
+    </plurals>
 </resources>

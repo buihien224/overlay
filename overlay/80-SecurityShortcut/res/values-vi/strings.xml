@@ -18,4 +18,8 @@
     <string name="menu_text_garbage_cleanup">Bộ dọn rác</string>
     <string name="uninstall_warning_content">Bảo mật là một ứng dụng hệ thống. Bạn sẽ không thể thực hiện quét virus sau khi gỡ bỏ nó.</string>
     <string name="uninstall_warning_title">Gỡ bỏ Bảo mật ngay bây giờ?</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="shortcut_title_scan">Scan</string>
+    <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
 </resources>

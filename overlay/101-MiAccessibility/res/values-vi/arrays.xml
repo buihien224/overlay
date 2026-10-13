@@ -116,4 +116,15 @@
  <item>Di chuyển con trỏ để bắt đầu</item>
  <item>Chọn</item>
  </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="sound_source_entries">
+        <item>Mic</item>
+        <item>System sounds</item>
+    </string-array>
+    <string-array name="tts_vendor_entries">
+        <item>Melissa</item>
+        <item>Matt</item>
+        <item>Molly</item>
+        <item>Mia</item>
+    </string-array>
 </resources>

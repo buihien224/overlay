@@ -8,4 +8,16 @@
         <item quantity="other">%1$d tệp</item>
         <item quantity="one">%1$d tệp</item>
     </plurals>
+    <plurals name="ime_countDown_timer">
+        <item quantity="other">Chuyển (%d giây)</item>
+    </plurals>
+    <plurals name="softap_notification_multi_device_connected_message">
+        <item quantity="other">Đã kết nối %1$s thiết bị</item>
+    </plurals>
+    <plurals name="softap_notification_multi_device_message">
+        <item quantity="other">%1$s thiết bị</item>
+    </plurals>
+    <plurals name="tethered_notification_multi_device_message">
+        <item quantity="other">Đang kết nối %1$s thiết bị. Thiết bị của bạn có thể nóng lên và tốn pin hơn.</item>
+    </plurals>
 </resources>

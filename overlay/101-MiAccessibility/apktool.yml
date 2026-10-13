@@ -1,23 +1,16 @@
-!!brut.androlib.meta.MetaInfo
+version: 3.0.3
 apkFileName: HyperVS.MiAccessibility.apk
-isFrameworkApk: false
 usesFramework:
   ids:
   - 1
-  tag: null
 sdkInfo:
-  minSdkVersion: '28'
-  targetSdkVersion: '33'
-packageInfo:
-  forcedPackageId: '127'
-  renameManifestPackage: null
+  minSdkVersion: 28
+  targetSdkVersion: 33
 versionInfo:
-  versionCode: '23120610'
-  versionName: VS-4.2.ST
-resourcesAreCompressed: false
-sharedLibrary: false
-sparseResources: false
-unknownFiles: {}
+  versionCode: 23120610
+  versionName: VS-8.0.ST
+resourcesInfo:
+  packageId: 127
 doNotCompress:
-- resources.arsc
+- arsc
 - AndroidManifest.xml

@@ -299,4 +299,31 @@ Lưu ý rằng vi phạm quyền riêng tư của người khác là bất hợp
     <string name="wednesday_shortest">Th 4</string>
     <string name="wework">WeWork</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_sliding_button_state_description_off">Turned off</string>
+    <string name="accessibility_sliding_button_state_description_on">Turned on</string>
+    <string name="accessibility_tab_state_description_unselect">Not selected</string>
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="button_disagree">Cancel</string>
+    <string name="button_record_start">Record</string>
+    <string name="calendar_date_picker_a11y_next_month">Change to next month</string>
+    <string name="calendar_date_picker_a11y_prev_month">Change to previous month</string>
+    <string name="call_in_progress">call in progress</string>
+    <string name="desc_privacy_policy_cn">"With Voice Call Recorder, you can record voice calls made in third party apps. This app will access caller nicknames to name saved recordings.
+Note that infringement of other people's privacy rights is illegal. You may not use any information obtained through this feature to violate the privacy of others. If you use the above information illegally, you shall assume all the legal risks arising therefrom."</string>
+    <string name="desc_privacy_policy_global">"The local laws applying to you or any other party to this call may require everyone to consent to the recording of the conversation. You're responsible for complying with such laws and Xiaomi won't be responsible for any violation of laws due to your actions or omissions. Use call recording responsibly. Recordings are stored only on your device and Xiaomi won't have access to them. Start recording now?"</string>
+    <string name="record_meeting_card_button_2_2">Turn on</string>
+    <string name="record_meeting_card_subtitle">Record, transcribe in real time, and generate summaries automatically</string>
+    <string name="record_meeting_card_title">Turn on AI Audio Summary now?</string>
+    <string name="record_meeting_introduct_always_on_desc">Automatically record and generate summaries during calls on third party apps</string>
+    <string name="record_meeting_introduct_always_on_title">Turn on AI Audio Summary automatically</string>
+    <string name="record_meeting_introduct_open_desc">During calls on third party apps, you can tap \"Turn on\" on the floating notification to record audio and generate summaries</string>
+    <string name="record_meeting_privacy_policy_desc">"Welcome to AI Audio Summary! You can use this feature to record voice calls made in third party apps. This feature will access caller nicknames to name saved recordings.
+Note that infringement of other people's privacy rights is illegal. You may not use any information obtained through this feature to violate the privacy of others. If you use the above information illegally, you shall assume all the legal risks arising therefrom."</string>
+    <string name="record_meeting_privacy_policy_title">AI Audio Summary</string>
+    <string name="record_minutes_card_button">AI Audio Summary</string>
+    <string name="title_record_call">Record call</string>
+    <string name="turn_on_in_settings_toast">Turn this feature on in AI Audio Summary settings</string>
+    <string name="video_call">Video call in progress</string>
+    <string name="voice_call">Voice call in use</string>
 </resources>

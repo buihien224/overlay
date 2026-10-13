@@ -1538,4 +1538,114 @@ Ghi chú: Chỉ dành cho Ubuntu 8.04!"</item>
         <item>Tỷ lệ hình động 5x</item>
         <item>Tỷ lệ hình động 10x</item>
     </string-array>
+    <string-array name="action_corner_action_titles">
+        <item>Không có</item>
+        <item>Màn hình chính</item>
+        <item>Ứng dụng gần đây</item>
+        <item>Thông báo</item>
+        <item>Cài đặt nhanh</item>
+        <item>Màn hình khóa</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_array">
+        <item></item>
+        <item>Đang dùng (nội dung nghe nhìn và cuộc gọi)</item>
+        <item>Đang dùng (nội dung nghe nhìn)</item>
+        <item>Đang dùng (cuộc gọi)</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_entries">
+        <item>Ngắt kết nối tất cả</item>
+        <item>Cho phép dịch vụ hệ thống</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_summary">
+        <item>Tất cả thiết bị và tính năng Bluetooth sẽ bị ngắt kết nối</item>
+        <item>Một số dịch vụ hệ thống sẽ tiếp tục dùng Bluetooth</item>
+    </string-array>
+    <string-array name="ethernet_ip_settings">
+        <item>DHCP</item>
+        <item>Tĩnh</item>
+    </string-array>
+    <string-array name="screen_flash_color_values">
+        <item>0</item>
+        <item>4D0000FE</item>
+        <item>6600FF01</item>
+        <item>66FFFF00</item>
+        <item>66FF7F00</item>
+        <item>66FE0000</item>
+        <item>667F00FF</item>
+    </string-array>
+    <string-array name="screen_optimize_summary_new">
+        <item>Màu sắc nâng cao cho màn hình sống động hơn</item>
+        <item>Khôi phục màu màn hình tiêu chuẩn</item>
+    </string-array>
+    <string-array name="screen_optimize_title_new">
+        <item>Sống động (khuyên dùng)</item>
+        <item>Tiêu chuẩn</item>
+    </string-array>
+    <string-array name="shade_display_awareness_entries">
+        <item>Chỉ màn hình thiết bị (Mặc định)</item>
+        <item>Màn hình ngoài</item>
+        <item>Lần chạm thanh trạng thái gần nhất</item>
+        <item>Theo tiêu điểm</item>
+    </string-array>
+    <string-array name="shade_display_awareness_summaries">
+        <item>Chỉ hiện bảng thông báo trên màn hình thiết bị</item>
+        <item>Hiện bảng thông báo trên một màn hình ngoài</item>
+        <item>Hiện bảng thông báo trên màn hình có thanh trạng thái được tương tác gần nhất</item>
+        <item>Hiện bảng thông báo trên màn hình được lấy tiêu điểm gần nhất</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary_new">
+        <item>Màu sắc nâng cao cho màn hình sống động hơn</item>
+        <item>Khôi phục màu tiêu chuẩn của nội dung màn hình bằng hiệu chỉnh màu</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title_new">
+        <item>Sống động (khuyên dùng)</item>
+        <item>Gốc</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Tự động</item>
+        <item>Chỉ 5 GHz</item>
+        <item>Chỉ 2,4 GHz</item>
+    </string-array>
+    <string-array name="zen_mode_icon_options_descriptions">
+        <item>Cặp tài liệu</item>
+        <item>Tòa nhà cổ điển</item>
+        <item>Tòa chung cư</item>
+        <item>Bong bóng lời thoại</item>
+        <item>Nhóm người</item>
+        <item>Bóng đèn</item>
+        <item>Lịch</item>
+        <item>Không làm phiền</item>
+        <item>Người đang chạy</item>
+        <item>Gôn</item>
+        <item>Tạ tập gym</item>
+        <item>Bơi lội</item>
+        <item>Người đi bộ đường dài</item>
+        <item>Người ném bóng</item>
+        <item>Người đá bóng</item>
+        <item>Tay cầm chơi game</item>
+        <item>Bảng màu của họa sĩ</item>
+        <item>Bông tuyết</item>
+        <item>Ô che nắng bãi biển</item>
+        <item>Dụng cụ xưởng</item>
+        <item>Đàn piano</item>
+        <item>Cuộn phim</item>
+        <item>Sách</item>
+        <item>Hoa sen</item>
+        <item>Tâm trí con người</item>
+        <item>Tai nghe</item>
+        <item>TV</item>
+        <item>Tàu hỏa</item>
+        <item>Ô tô</item>
+        <item>Nĩa và dao</item>
+        <item>Giỏ hàng</item>
+        <item>Trẻ em</item>
+        <item>Dấu chân động vật</item>
+        <item>Huy hiệu ngôi sao</item>
+        <item>Hai người</item>
+        <item>Ngôi sao</item>
+        <item>Trái tim</item>
+        <item>Ngôi nhà</item>
+        <item>Bán nguyệt</item>
+        <item>Đồng hồ</item>
+    </string-array>
 </resources>

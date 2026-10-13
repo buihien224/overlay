@@ -54,4 +54,14 @@
 		<item>Chế độ bảo vệ mắt</item> 
 		<item>Cài đặt thêm</item> 
 	</string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Balanced</item>
+        <item>Default</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>Fastest</item>
+        <item>Balanced</item>
+        <item>Default</item>
+    </string-array>
 </resources>

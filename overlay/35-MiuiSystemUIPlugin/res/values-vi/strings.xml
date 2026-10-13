@@ -516,4 +516,7 @@ Tiếp xúc lâu với âm thanh lớn có thể gây ra các vấn đề về t
     <string name="wireless_charging_tips_sub_message">Thiết bị kia phải hỗ trợ chuẩn sạc không dây Qi.</string>
     <string name="wireless_charging_tips_title">Sạc ngược không dây</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="third_launcher_workbench_forbidden">Third-party desktops cannot access desktop</string>
 </resources>

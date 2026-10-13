@@ -211,4 +211,11 @@ Mawrth Vallis"</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="app_name">MiWallpaper</string>
+    <string name="mars_view_height_0">%1$s km</string>
+    <string name="mars_view_height_1">%1$s km</string>
+    <string name="mars_view_height_2">%1$s km</string>
+    <string name="mars_view_height_3">%1$s km</string>
+    <string name="mars_view_height_4">%1$s km</string>
 </resources>

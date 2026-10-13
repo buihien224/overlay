@@ -117,4 +117,44 @@
     <plurals name="to_count">
         <item quantity="other">%d người nhận</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="beidou_receive_remain_time">
+        <item quantity="other">You can receive another message in %ds</item>
+    </plurals>
+    <plurals name="beidou_remain_times">
+        <item quantity="other">" (%d messages remaining)"</item>
+    </plurals>
+    <plurals name="beidou_send_remain_time">
+        <item quantity="other">You can send another message in %ds</item>
+    </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Audio messages can be up to %1$4d secs long</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Send files up to %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Send message to up to %1$4d contacts</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Messages can contain up to %1$4d characters</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videos can be up to %1$4d secs long</item>
+    </plurals>
+    <plurals name="notification_multiple_satellite">
+        <item quantity="other">%s satellite messages</item>
+    </plurals>
+    <plurals name="select_dialog_item">
+        <item quantity="other">%s secs</item>
+    </plurals>
+    <plurals name="silent_notification_confirm_exit">
+        <item quantity="other">"If you continue, you'll receive notifications for all incoming verification codes. These notifications won't be silenced for %1$d minutes. Stop silencing now?"</item>
+    </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Heart rate: %1$d BPM (%2$s)</item>
+    </plurals>
+    <plurals name="vital_signs_data_spo2">
+        <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
+    </plurals>
 </resources>

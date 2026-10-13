@@ -1273,4 +1273,47 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Đã có bản cập nhật</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="ad_text_btn_cancel">Cancel</string>
+    <string name="ad_text_btn_resume">Resume</string>
+    <string name="ad_text_introduce">About</string>
+    <string name="app_cleaned">Cleared successfully</string>
+    <string name="app_specific_clean">App cleaner</string>
+    <string name="audio">Audio files</string>
+    <string name="audio_compression">Audio files</string>
+    <string name="cancel_select_all">Deselect all</string>
+    <string name="cta_dialog_message">To be able to work normally, Cleaner needs permission to access media files and the list of apps installed on this device. Grant these permissions now?</string>
+    <string name="cta_dialog_title">"Can't use Cleaner now"</string>
+    <string name="data_selected">Selected items</string>
+    <string name="delete">Delete</string>
+    <string name="delete_slected_data">Reset</string>
+    <string name="dialog_msg_uninstall_app_os3">Uninstalling this app will remove all its data.</string>
+    <string name="dialog_msg_uninstall_apps_comfirm">"I understand that deleted app data can't be restored"</string>
+    <string name="dialog_msg_uninstall_apps_os3">Uninstalling will remove all app data.</string>
+    <string name="dialog_msg_uninstall_apps_toast">"Confirm you understand deleted app data can't be restored"</string>
+    <string name="dialog_msg_uninstall_apps_xspace_os3">Dual app will be uninstalled together with this one.</string>
+    <string name="dialog_msg_uninstall_apps_xspace_os3_multiple">Corresponding dual apps will be uninstalled together with app data.</string>
+    <string name="engine_cm">Clean Master</string>
+    <string name="engine_tm">Tencent</string>
+    <string name="header_tx_optimizer">This feature uses trash cleaning capabilities provided by TCRS Mobile Security SDK. <Data>Read and agree to the &lt;a href=%1$s>TCRS Mobile Security SDK Personal Information Protection Policy&lt;/a> before you continue</Data>.</string>
+    <string name="is_Scanning">Scanning…</string>
+    <string name="is_compressed">Compressing…</string>
+    <string name="lock_device_toast">This device is locked. Unlock to use Cleaner.</string>
+    <string name="never_remind">Never</string>
+    <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+    <string name="out">Over %s</string>
+    <string name="pref_category_title_notification_settings">Notifications</string>
+    <string name="pref_summary_clean_settings">Receive notifications when trash goes over selected size</string>
+    <string name="pref_summary_reminder_interval">Receive only one notification within selected time</string>
+    <string name="pref_summary_video_clean">Receive notifications when video trash goes over selected size</string>
+    <string name="pref_summary_wechat_clean_settings">Receive notifications when WeChat trash goes over selected size</string>
+    <string name="pref_title_engine">Scan definitions</string>
+    <string name="recommended">Featured</string>
+    <string name="reminder_interval">Reminder interval</string>
+    <string name="summary_tx_optimizer">To optimize cloud definitions, Cleaner needs to upload folder names that include unknown files to TCRS Mobile Security SDK servers for compliance checks. Agree?</string>
+    <string name="tips_app_specific_clean_result_page">Free up storage space</string>
+    <string name="uninstall_one">Uninstall %s</string>
+    <string name="updating_tips">Just a sec…</string>
+    <string name="video_clean_alert">Video cleanup reminder</string>
 </resources>

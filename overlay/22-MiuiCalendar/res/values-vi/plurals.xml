@@ -195,4 +195,37 @@
     <plurals name="work_days">
         <item quantity="other">%d ngày làm việc</item>
     </plurals>
+    <plurals name="Ndays_after_at_annver">
+        <item quantity="other">%1$d ngày sau</item>
+    </plurals>
+    <plurals name="Ndays_ago_at_annver">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="Ndays_v1">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="Nhours_v1">
+        <item quantity="other">%d giờ trước</item>
+    </plurals>
+    <plurals name="Nminutes_v1">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="Nweeks_v1">
+        <item quantity="other">%d tuần trước</item>
+    </plurals>
+    <plurals name="age">
+        <item quantity="other">tuổi</item>
+    </plurals>
+    <plurals name="countdown_hour">
+        <item quantity="other">Bắt đầu sau %1$s giờ</item>
+    </plurals>
+    <plurals name="countdown_minute">
+        <item quantity="other">Bắt đầu sau %1$s phút</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$s giờ</item>
+    </plurals>
+    <plurals name="today_num_events">
+        <item quantity="other">%d sự kiện</item>
+    </plurals>
 </resources>

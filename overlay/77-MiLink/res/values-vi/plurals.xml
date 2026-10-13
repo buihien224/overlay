@@ -55,4 +55,128 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="car_map_hour">
+        <item quantity="other">%d hrs</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d mins</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d devices</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d devices</item>
+    </plurals>
+    <plurals name="common_min_unit_kilometer_desc">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" kcal"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="common_unit_rope_count">
+        <item quantity="other">jumps</item>
+    </plurals>
+    <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">strokes</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" steps"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d steps</item>
+    </plurals>
+    <plurals name="common_unit_swim_count">
+        <item quantity="other">lengths</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Enter the code from %1$s (%2$d secs)</item>
+    </plurals>
+    <plurals name="homemodule_curtain_open_number">
+        <item quantity="other">%d rooms with open curtains</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="mj_module_card_name_light_desc_pattern">
+        <item quantity="other">Lighted rooms: %d</item>
+    </plurals>
+    <plurals name="record_unit_calorie">
+        <item quantity="other">kcal</item>
+    </plurals>
+    <plurals name="record_unit_kilometer_space">
+        <item quantity="other">" km"</item>
+    </plurals>
+    <plurals name="record_unit_kilometer_with_unit">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="record_unit_step_length">
+        <item quantity="other">cm</item>
+    </plurals>
+    <plurals name="report_unit_seconds_1">
+        <item quantity="other">secs</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d days ago</item>
+    </plurals>
+    <plurals name="tv_remote_auth_count_down">
+        <item quantity="other">"Enter %1$s's code (%2$ds)"</item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">" hrs "</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">hrs</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d hrs</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d hrs</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">" km"</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" mins "</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" mins"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d mins</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">secs</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d secs</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d secs</item>
+    </plurals>
 </resources>

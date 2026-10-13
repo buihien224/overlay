@@ -7900,4 +7900,719 @@ Lưu ý: hệ thống không thể phát hiện tất cả các tai nạn.</stri
     <string name="st_title_number_and_region_blacklist">Số và khu vực bị chặn</string>
     <string name="st_title_number_and_region_whitelist">Số và khu vực ngoại lệ</string>
     <string name="warningcenter_policeassist_open_content_new">Khi bật tính năng hỗ trợ báo cảnh sát, khi gọi 110, 120, 119, 122 và 12122, hệ thống sẽ tự động lấy vị trí của bạn và gửi đến cơ quan có thẩm quyền qua SMS hoặc mạng.</string>
+    <string name="about_securitycenter_icp">Số đăng ký ICP: %1$s</string>
+    <string name="add_game_notification_title">Đã thêm %s vào Không gian trò chơi</string>
+    <string name="anti_peeping">Phát hiện ánh nhìn của người khác</string>
+    <string name="anti_peeping_apps_disable_header_title">Ứng dụng chưa chọn</string>
+    <string name="anti_peeping_apps_enable_header_title">Ứng dụng đã chọn</string>
+    <string name="anti_peeping_apps_notify_description">Khi một ứng dụng đã chọn hiển thị toàn màn hình, tính năng này sẽ liên tục kiểm tra xem có ai đang nhìn màn hình của bạn không và thông báo cho bạn</string>
+    <string name="anti_peeping_apps_notify_title">Thông báo khi có người đang nhìn</string>
+    <string name="anti_peeping_apps_notify_type">Thông báo</string>
+    <string name="anti_peeping_apps_privacy_tip">Tính năng này dùng dữ liệu khuôn mặt để phát hiện ánh nhìn. Mọi dữ liệu được xử lý trên thiết bị của bạn và sẽ không được chia sẻ.</string>
+    <string name="anti_peeping_face_need_input">Cần có dữ liệu khuôn mặt</string>
+    <string name="anti_peeping_face_need_input_confirm">Cài đặt</string>
+    <string name="anti_peeping_face_need_input_subtitle">Thêm dữ liệu khuôn mặt để có thể dùng tính năng này. Thêm ngay?</string>
+    <string name="anti_peeping_focus_not_enabled"><Data>Tiêu điểm thông báo đang tắt. Cảnh báo sẽ dùng chế độ rung. &lt;font color=#3482FF>Bật&lt;/font></Data></string>
+    <string name="anti_peeping_focus_not_enabled_no_fallback"><Data>"Tiêu điểm thông báo đang tắt. Không có cảnh báo. &lt;font color=#3482FF>Bật&lt;/font>"</Data></string>
+    <string name="anti_peeping_focus_not_enabled_no_fallback_v2"><Data>"Xiaomi HyperIsland đang tắt. Không có cảnh báo. &lt;font color=#3482FF>Bật&lt;/font>"</Data></string>
+    <string name="anti_peeping_focus_not_enabled_v2"><Data>Xiaomi HyperIsland đang tắt. Cảnh báo sẽ dùng chế độ rung. &lt;font color=#3482FF>Bật&lt;/font></Data></string>
+    <string name="anti_peeping_notification_channel_name">Phát hiện ánh nhìn của người khác</string>
+    <string name="anti_peeping_notification_got_it">Đã hiểu</string>
+    <string name="anti_peeping_notification_protect_content">Không nhắc lại</string>
+    <string name="anti_peeping_notification_title">Bảo vệ quyền riêng tư của bạn</string>
+    <string name="anti_peeping_privacy_auto_close_des">Tính năng này có thể làm tăng nhẹ mức tiêu thụ điện và sẽ tắt khi Trình tiết kiệm pin đang bật.</string>
+    <string name="anti_peeping_privacy_auto_close_title">Tự động tắt khi Trình tiết kiệm pin đang bật</string>
+    <string name="anti_peeping_privacy_statement_des">"Sau khi bạn bật tính năng này, thiết bị sẽ dùng máy ảnh trước để kiểm tra xem có ai khác ngoài bạn đang nhìn màn hình khi các ứng dụng đã chọn hiển thị toàn màn hình hay không. Nếu phát hiện, bạn sẽ nhận được lời nhắc về quyền riêng tư.
+Mọi xử lý đều thực hiện trên thiết bị của bạn và sẽ không được tải lên đám mây."</string>
+    <string name="anti_peeping_privacy_statement_title">Tuyên bố về quyền riêng tư</string>
+    <string name="anti_peeping_privacy_understand_des">"Tính năng này dùng máy ảnh trước để chụp hình và phân tích xem có ai khác ngoài bạn đang nhìn màn hình hay không. Nếu phát hiện hoạt động đó, bạn sẽ nhận được lời nhắc để giúp bảo vệ quyền riêng tư.
+Bạn có thể chọn ứng dụng cần bảo vệ. \"Phát hiện ánh nhìn của người khác\" sẽ tự động bật khi các ứng dụng đó hiển thị toàn màn hình."</string>
+    <string name="anti_peeping_privacy_understand_title">"Giới thiệu về \"Phát hiện ánh nhìn của người khác\""</string>
+    <string name="anti_peeping_recommend_apps_button_open">Bật</string>
+    <string name="anti_peeping_recommend_tips">%s người dùng đã chọn các ứng dụng sau</string>
+    <string name="anti_peeping_recommend_title">Ứng dụng được đề xuất</string>
+    <string name="anti_peeping_search_key">Phát hiện ánh nhìn của người khác</string>
+    <string name="anti_peeping_search_keywords">Phát hiện ánh nhìn của người khác;ánh nhìn của người khác;màn hình riêng tư;hiển thị riêng tư;Màn hình riêng tư</string>
+    <string name="anti_peeping_splash_confirm">Tiếp theo</string>
+    <string name="anti_peeping_splash_custom_des">Tính năng này sẽ bật khi các ứng dụng đã chọn hiển thị toàn màn hình</string>
+    <string name="anti_peeping_splash_custom_title">Chọn ứng dụng cần bảo vệ</string>
+    <string name="anti_peeping_splash_dialog_des"><Data>Thiết bị sẽ liên tục kiểm tra xem có người nhìn màn hình của bạn không và thông báo nếu phát hiện. &lt;font color=#3482FF>Tìm hiểu thêm&lt;/font></Data></string>
+    <string name="anti_peeping_splash_identify_des">Phát hiện xem có người khác đang nhìn màn hình của bạn không</string>
+    <string name="anti_peeping_splash_identify_title">Phát hiện người khác đang nhìn</string>
+    <string name="anti_peeping_splash_notify_des">Hỗ trợ cảnh báo bằng Xiaomi HyperIsland và rung</string>
+    <string name="anti_peeping_splash_notify_title">Nhận lời nhắc về quyền riêng tư</string>
+    <string name="anti_peeping_vibrate_demo_toast">Bạn sẽ được thông báo khi phát hiện ánh nhìn của người khác</string>
+    <string name="anti_peeping_vibration_not_enabled"><Data>Phản hồi xúc giác đang tắt. Cảnh báo sẽ hiển thị qua Xiaomi HyperIsland. &lt;font color=#3482FF>Bật&lt;/font></Data></string>
+    <string name="anti_peeping_vibration_not_enabled_no_fallback"><Data>"Phản hồi xúc giác đang tắt. Không có cảnh báo. &lt;font color=#3482FF>Bật&lt;/font>"</Data></string>
+    <string name="applock_mixed_input_password_hint_text">Nhập mật khẩu</string>
+    <string name="apps_layout_all_apps">Tất cả ứng dụng</string>
+    <string name="apps_layout_all_freeform_apps">Ứng dụng khả dụng</string>
+    <string name="apps_layout_recommend_apps">Ứng dụng được đề xuất</string>
+    <string name="apps_layout_search_app">Tìm ứng dụng</string>
+    <string name="apps_layout_search_app_no_result">Không tìm thấy kết quả</string>
+    <string name="apps_layout_shortcut">Lối tắt</string>
+    <string name="background_virus_scan_notification_summary">Nhiều ứng dụng, bao gồm %s. Nhấn để xem.</string>
+    <string name="background_virus_scan_notification_summary_one">Nhấn để xem</string>
+    <string name="background_virus_scan_notification_title_one">Đã phát hiện ứng dụng độc hại %s</string>
+    <string name="bubble_pickup_voice_print_auto_v2">Đang ghi giọng nói và dữ liệu khuôn mặt…</string>
+    <string name="bubble_pickup_voice_print_success">Đã ghi mẫu giọng nói</string>
+    <string name="bubble_pickup_voice_print_success_v2">Đã ghi mẫu giọng nói và dữ liệu khuôn mặt</string>
+    <string name="calendar_date_picker_a11y_next_month">Chuyển sang tháng sau</string>
+    <string name="calendar_date_picker_a11y_prev_month">Chuyển sang tháng trước</string>
+    <string name="call_filter_ad_promotion">Quảng cáo</string>
+    <string name="call_filter_education_training">Giáo dục</string>
+    <string name="call_filter_high_risk">Rủi ro cao</string>
+    <string name="call_filter_insurance_finance">Bảo hiểm</string>
+    <string name="call_filter_loan_promotion">Khoản vay</string>
+    <string name="call_filter_real_estate">Bất động sản</string>
+    <string name="call_filter_renovation_repair">Sửa chữa nhà</string>
+    <string name="call_reason_ad_promotion_mark">Quảng cáo</string>
+    <string name="call_reason_ad_promotion_mark_large">Quảng cáo</string>
+    <string name="call_reason_education_training_mark">Giáo dục</string>
+    <string name="call_reason_education_training_mark_large">Giáo dục</string>
+    <string name="call_reason_high_risk_mark">Rủi ro cao</string>
+    <string name="call_reason_insurance_finance_mark">Bảo hiểm</string>
+    <string name="call_reason_insurance_finance_mark_large">Bảo hiểm</string>
+    <string name="call_reason_loan_promotion_mark">Khoản vay</string>
+    <string name="call_reason_loan_promotion_mark_large">Khoản vay</string>
+    <string name="call_reason_real_estate_mark">Bất động sản</string>
+    <string name="call_reason_real_estate_mark_large">Bất động sản</string>
+    <string name="call_reason_renovation_repair_mark">Sửa chữa nhà</string>
+    <string name="call_reason_renovation_repair_mark_large">Sửa chữa nhà</string>
+    <string name="car_sickness_relief_notification_text_opened">Bật</string>
+    <string name="cetus_invisible_mode_notice_audio">Bạn đang ở chế độ ẩn danh. Hiện không thể dùng micrô.</string>
+    <string name="cetus_invisible_mode_notice_camera">Bạn đang ở chế độ ẩn danh. Hiện không thể dùng máy ảnh.</string>
+    <string name="cetus_invisible_mode_notice_location">Bạn đang ở chế độ ẩn danh. Hiện không thể dùng dịch vụ vị trí.</string>
+    <string name="cetus_invisible_mode_notice_tip">Nhấn để tắt Chế độ ẩn danh trong Cài đặt</string>
+    <string name="clip_notification_close_summary">Ngừng nhận lời nhắc khi ứng dụng truy cập bộ nhớ tạm?</string>
+    <string name="clip_notification_close_title">Tắt lời nhắc truy cập bộ nhớ tạm</string>
+    <string name="contacts_will_also_be_blocked">Bao gồm danh bạ</string>
+    <string name="cs_pickup_vioce_print_in_private_tips_v2">Ghi mẫu giọng nói và dữ liệu khuôn mặt để có thể đặt giảm tiếng ồn thành Riêng tư.</string>
+    <string name="cs_pickup_vioce_print_private_dialog_title_v2">Ghi mẫu giọng nói và dữ liệu khuôn mặt</string>
+    <string name="cs_pickup_voice_print_auto_dialog_title_v2">Cần mẫu giọng nói và dữ liệu khuôn mặt cho tính năng Giảm tiếng ồn cá nhân hóa</string>
+    <string name="cs_simultaneous_interpretation_title_2">Dịch</string>
+    <string name="cs_tool_box_max_screen_guide_case_1_new_v2">Thử Dịch, Làm đẹp và nhiều tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_max_screen_guide_case_4_new_v2">Thử Dịch và nhiều tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_phone_guide_case_1_new_v2">Thử Dịch, Làm đẹp và nhiều tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="cs_tool_box_phone_guide_case_4_new_v2">Thử Dịch và nhiều tính năng khác trong Hộp công cụ cuộc gọi mới</string>
+    <string name="eletric_card_two_identification_risk_mms_summary_description">Nhận lời nhắc về nguy cơ lừa đảo khi chuyển tiếp mã xác minh SMS tới ứng dụng mạng xã hội</string>
+    <string name="ew_guide_start_warning_range"><Data>Cảnh báo sớm được cung cấp cho các khu vực thuộc Mạng lưới cảnh báo động đất đại lục của Viện Giảm nhẹ thiên tai công nghệ cao Thành Đô. Bạn có thể xem danh sách khu vực được hỗ trợ &lt;a href=%s>tại đây&lt;/a>.</Data></string>
+    <string name="ew_guide_statement_text_for_cencc"><Data>"Tuyên bố miễn trừ trách nhiệm này áp dụng cho mọi người dùng (sau đây gọi là \"bạn\") bật tính năng cảnh báo động đất. Khi đồng ý với tuyên bố này, bạn ký kết một hợp đồng ràng buộc pháp lý với Xiaomi Inc. và các công ty liên kết (sau đây gọi là Xiaomi). Bạn xác nhận đã đọc toàn bộ nội dung của tuyên bố này, hiểu đầy đủ và đồng ý với mọi điều khoản và điều kiện trong đó; nếu không, bạn nên tắt tính năng cảnh báo động đất ngay lập tức.&lt;br>Thông tin cảnh báo động đất do Trung tâm Mạng lưới động đất Trung Quốc cung cấp. Bạn hiểu và thừa nhận rằng, do hạn chế của công nghệ hiện tại, phạm vi của mạng lưới giám sát và sự phức tạp của điều kiện địa chất, thông tin cảnh báo động đất có thể có sai sót hoặc chậm trễ. Xiaomi và Trung tâm Mạng lưới động đất Trung Quốc không cam kết hay đảm bảo tính chính xác, hiệu lực và kịp thời của thông tin cảnh báo động đất, cũng không đảm bảo dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.&lt;br>Ngoài ra, việc truyền thông tin cảnh báo động đất có thể bị ảnh hưởng bởi nhiều yếu tố, bao gồm nhưng không giới hạn ở điều kiện mạng, vùng phủ sóng di động và hiệu năng phần mềm. Bạn hiểu rằng Xiaomi không chịu trách nhiệm về bất kỳ tổn thất nào bạn có thể gặp phải do các vấn đề như lỗi liên lạc của bên thứ ba, sự cố kỹ thuật, trục trặc mạng hoặc thiết bị, hệ thống không ổn định hay các sự kiện bất khả kháng khác khiến bạn không nhận được hoặc không nhận kịp thời thông tin cảnh báo động đất.&lt;br>Bạn hiểu rằng dịch vụ cảnh báo sớm động đất chỉ được cung cấp làm thông tin tham khảo để bạn đánh giá rủi ro an toàn và đưa ra quyết định an toàn. Thời gian cảnh báo có thể từ vài giây đến vài chục giây. Mọi hành động bạn thực hiện dựa trên dịch vụ cảnh báo sớm động đất cùng mọi rủi ro hay hậu quả phát sinh hoàn toàn do bạn chịu trách nhiệm."</Data></string>
+    <string name="ew_guide_statement_text_new"><Data>"Tuyên bố miễn trừ trách nhiệm này áp dụng cho mọi người dùng (sau đây gọi là \"bạn\") bật tính năng cảnh báo động đất. Khi đồng ý với tuyên bố này, bạn ký kết một hợp đồng ràng buộc pháp lý với Xiaomi Inc. và các công ty liên kết (sau đây gọi là \"Xiaomi\"). Bạn xác nhận đã đọc toàn bộ nội dung của tuyên bố này, hiểu đầy đủ và đồng ý với mọi điều khoản và điều kiện trong đó; nếu không, bạn nên tắt tính năng cảnh báo động đất ngay lập tức.
+Theo luật và quy định liên quan, Xiaomi sẽ cung cấp cho bạn dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất của các cơ quan liên quan. Nghĩa là khi bật chức năng cảnh báo động đất, bạn sẽ có thể nhận cảnh báo động đất được phát cho các khu vực cụ thể. Bạn có thể xem danh sách khu vực được hỗ trợ cụ thể &lt;a href=%s>tại đây&lt;/a>. Các khu vực mới sẽ được bổ sung định kỳ.
+Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn cần hiểu rằng thông tin cảnh báo động đất do Viện Giảm nhẹ thiên tai công nghệ cao Thành Đô cung cấp. Xiaomi không giám sát và không có quyền kiểm soát nào đối với tổ chức này.
+Xiaomi không cam kết hay đảm bảo tính chính xác, hiệu lực và kịp thời của thông tin cảnh báo động đất, cũng không đảm bảo dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.
+Để nhận thông tin cảnh báo động đất, thiết bị của bạn cần luôn kết nối mạng di động. Lỗi đường truyền của bên thứ ba, sự cố kỹ thuật, trục trặc mạng hoặc thiết bị đầu cuối, hệ thống không ổn định và các sự kiện bất khả kháng khác có thể khiến bạn không nhận được thông tin cảnh báo động đất. Xiaomi không chịu bất kỳ trách nhiệm nào về tổn thất do các sự kiện đó gây ra.
+Bạn cần hiểu rằng tính năng này chỉ được cung cấp để bạn tham khảo. Cảnh báo bạn nhận được có thể đến chỉ vài giây trước khi động đất xảy ra. Bạn hoàn toàn chịu trách nhiệm về rủi ro và hậu quả của mọi hành động thực hiện dựa trên thông tin do tính năng này cung cấp."</Data></string>
+    <string name="ew_monitor_read_privacy"><Data>"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách quyền riêng tư&lt;/a>."</Data></string>
+    <string name="face_unlock_bad_lighting">Di chuyển đến nơi đủ sáng</string>
+    <string name="game_balance_gpu_enhance_title">Tăng cường GPU rời</string>
+    <string name="game_balance_none_gpu_enhance_subtitle">Hiệu năng hình ảnh nâng cao</string>
+    <string name="game_toolbox_cooling_fan_enabled_performance_mode">Quạt tản nhiệt hiện đặt ở \"Hiệu năng\"</string>
+    <string name="game_toolbox_cooling_fan_enabled_quiet_mode">Quạt tản nhiệt hiện đặt ở \"Yên tĩnh\"</string>
+    <string name="game_toolbox_cooling_fan_enabled_smart_mode">Quạt tản nhiệt hiện đặt ở \"Thông minh\"</string>
+    <string name="game_toolbox_cooling_fan_settings_guide_confirm">Cài đặt</string>
+    <string name="game_toolbox_cooling_fan_settings_guide_message">Bật \"Chơi game\" trong Cài đặt > Quạt tản nhiệt hoặc đặt tình huống sử dụng thành \"Tất cả\" để dùng quạt tản nhiệt khi chơi game.</string>
+    <string name="game_toolbox_cooling_fan_settings_guide_title">Chú ý</string>
+    <string name="game_toolbox_cooling_fan_title">Quạt tản nhiệt</string>
+    <string name="game_toolbox_dedicated_network_booster_dialog_cancel">Hủy</string>
+    <string name="game_toolbox_dedicated_network_booster_dialog_msg">Kết nối VPN sẽ tự động được tạo dựa trên độ trễ thời gian thực để cải thiện độ ổn định của mạng. Sau khi nhận, bạn sẽ có %d năm dùng miễn phí.</string>
+    <string name="game_toolbox_dedicated_network_booster_expired_time_des">Thời hạn hiệu lực: %s</string>
+    <string name="game_toolbox_dedicated_network_booster_free_expired">Đã hết hạn</string>
+    <string name="game_toolbox_dedicated_network_booster_free_get">Nhận</string>
+    <string name="game_toolbox_dedicated_network_booster_login">Đăng nhập</string>
+    <string name="game_toolbox_dedicated_network_booster_open_dialog_confirm">Nhận</string>
+    <string name="game_toolbox_dedicated_network_booster_open_dialog_title">Tăng cường kết nối mạng</string>
+    <string name="game_toolbox_dedicated_network_booster_sub_title">Tạo mạng riêng dựa trên độ trễ để cải thiện độ ổn định kết nối</string>
+    <string name="game_toolbox_dedicated_network_booster_title">Tăng cường kết nối mạng</string>
+    <string name="game_toolbox_display_enhance_view_frc_notice_new">"Lưu ý:
+%1$d. Khi Tốc độ khung hình thông minh đang bật, công cụ đo tốc độ khung hình trong game và của bên thứ ba có thể không đo chính xác. Hãy xem bảng hiệu năng để biết tốc độ khung hình thực tế.
+%2$d. Tốc độ khung hình thông minh sẽ không có hiệu lực khi nhiệt độ thiết bị quá cao, pin quá yếu, Trình tiết kiệm pin đang bật hoặc trong cuộc gọi. Tính năng sẽ hoạt động lại khi các điều kiện trở về bình thường."</string>
+    <string name="game_toolbox_gesture_control_infinity_mode_des">Tránh mở cửa sổ nổi khi vuốt từ cạnh</string>
+    <string name="game_toolbox_gesture_control_infinity_mode_title">Tắt thu phóng cửa sổ nổi</string>
+    <string name="game_toolbox_gesture_control_main_switch_des">Thay đổi chỉ áp dụng cho trò chơi hiện tại</string>
+    <string name="game_toolbox_gesture_control_main_switch_title">Bỏ qua chạm nhầm trong trò chơi</string>
+    <string name="game_toolbox_gesture_control_multi_finger_des">Các cử chỉ như vuốt ba ngón tay để chụp màn hình sẽ bị bỏ qua</string>
+    <string name="game_toolbox_gesture_control_multi_finger_title">Bỏ qua cử chỉ nhiều ngón tay</string>
+    <string name="game_toolbox_gesture_control_title">Bỏ qua chạm nhầm</string>
+    <string name="game_toolbox_gesture_control_transient_bars_size_des">Thu nhỏ vùng kích hoạt cử chỉ điều hướng và thanh trạng thái ở chế độ ngang</string>
+    <string name="game_toolbox_gesture_control_transient_bars_size_title">Thu nhỏ vùng kích hoạt</string>
+    <string name="game_toolbox_mem_clean_desc_new">Giải phóng bộ nhớ hệ thống</string>
+    <string name="game_toolbox_memory">Bộ nhớ</string>
+    <string name="gamebox_func_start_gyroscope_international">Bật con quay hồi chuyển trong cài đặt trò chơi để dùng tính năng này</string>
+    <string name="gamebox_gyroscope_acceleration_international">Tăng cường con quay hồi chuyển</string>
+    <string name="gamebox_mem_clean_new">Tối ưu bộ nhớ</string>
+    <string name="gb_game_mode_change_failed_toast">Không thể lưu</string>
+    <string name="gb_gpu_dialog_button">Đã hiểu</string>
+    <string name="gb_gpu_dialog_button_countdown">Đã hiểu (%s)</string>
+    <string name="gb_gpu_dialog_message">Cài đặt GPU hiện tại được áp dụng cho \"%s\". Mở lại trò chơi để áp dụng cài đặt.</string>
+    <string name="gb_gpu_dialog_titile">Cài đặt GPU</string>
+    <string name="gb_gpu_rader_graph">Chất lượng hình ảnh</string>
+    <string name="gb_gpu_rader_maxfps">FPS tối đa</string>
+    <string name="gb_gpu_rader_remain">Thời lượng pin</string>
+    <string name="gb_launch_awareness_anti_mistouch">Đã bật chống chạm nhầm</string>
+    <string name="gb_launch_awareness_cooling_fan">Đã bật quạt tản nhiệt</string>
+    <string name="gb_launch_awareness_memory_clean">Đã dọn bộ nhớ</string>
+    <string name="gb_launch_awareness_memory_clean_amount">Đã dọn %dmb bộ nhớ</string>
+    <string name="gb_launch_awareness_message_block">Đã bật chặn tin nhắn</string>
+    <string name="gb_launch_awareness_performance_mode">Đã bật chế độ hiệu năng</string>
+    <string name="gb_launch_awareness_predownload">Đã bật tải trước</string>
+    <string name="gb_launch_awareness_title">Đã bật cho bạn</string>
+    <string name="gb_launch_awareness_wild_mode">Đã bật chế độ Wild</string>
+    <string name="gb_launch_mute_start">Tắt tiếng</string>
+    <string name="gb_launch_mute_start_enbaled_toast">Chế độ im lặng đang bật. (click)Tắt(/click)</string>
+    <string name="gb_launch_mute_start_unmuted_toast">Đã khôi phục âm thanh</string>
+    <string name="gb_perf_anti_mistouch_master_desc">Giảm chạm nhầm ở cạnh màn hình khi chơi game</string>
+    <string name="gb_perf_anti_mistouch_master_title">Chống chạm nhầm</string>
+    <string name="gb_perf_anti_mistouch_multi_finger_desc">Tắt cử chỉ nhiều ngón tay của hệ thống khi chơi game để tránh kích hoạt nhầm</string>
+    <string name="gb_perf_anti_mistouch_multi_finger_title">Chặn cử chỉ nhiều ngón tay</string>
+    <string name="gb_perf_anti_mistouch_shorten_area_desc">Thu nhỏ vùng kích hoạt cử chỉ ở cạnh để tránh kích hoạt nhầm quay lại/màn hình chính</string>
+    <string name="gb_perf_anti_mistouch_shorten_area_title">Rút ngắn vùng kích hoạt cử chỉ</string>
+    <string name="gb_perf_display_enhance_frc_on_sr_off_toast">Đã bật nội suy khung hình thông minh, đã tắt siêu phân giải</string>
+    <string name="gb_perf_display_enhance_sr_on_frc_off_toast">Đã bật siêu phân giải, đã tắt nội suy khung hình thông minh</string>
+    <string name="gb_perf_display_enhance_update_toast">Tính năng nâng cao hình ảnh đã được nâng cấp. Cài đặt của bạn được giữ nguyên.</string>
+    <string name="gb_perf_display_frame_insert">Nội suy khung hình thông minh</string>
+    <string name="gb_perf_display_frame_insert_desc">Tăng tốc độ khung hình bằng tạo khung hình AI để hình ảnh mượt hơn</string>
+    <string name="gb_perf_display_frame_insert_note">Lưu ý: Sau khi bật Nội suy khung hình thông minh, trò chơi hoặc công cụ đo tốc độ khung hình bên thứ ba có thể không đo chính xác tốc độ khung hình thực tế. Vui lòng xem bảng hiệu năng để biết tốc độ khung hình thực tế.</string>
+    <string name="gb_perf_display_picture_style">Phong cách hình ảnh</string>
+    <string name="gb_perf_display_picture_style_desc_hdr">Điều chỉnh phong cách hình ảnh trò chơi, có hỗ trợ HDR</string>
+    <string name="gb_perf_display_picture_style_desc_normal">Điều chỉnh phong cách hình ảnh trò chơi với nhiều tùy chọn phong cách</string>
+    <string name="gb_perf_display_super_resolution">Siêu phân giải</string>
+    <string name="gb_perf_display_super_resolution_desc">Nâng độ phân giải bằng nâng cấp AI để chi tiết sắc nét hơn</string>
+    <string name="gb_perf_dnd_barrage_app_manage">Quản lý ứng dụng thông báo</string>
+    <string name="gb_perf_dnd_barrage_color">Màu bình luận chạy</string>
+    <string name="gb_perf_dnd_barrage_desc">Hiện tin nhắn thông báo dưới dạng bình luận chạy khi chơi game</string>
+    <string name="gb_perf_dnd_barrage_desc_v3">Nhấn vào thông báo dạng bình luận chạy từ ứng dụng trong danh sách cho phép để trả lời hoặc mở trong cửa sổ nổi</string>
+    <string name="gb_perf_dnd_barrage_font_large">Lớn</string>
+    <string name="gb_perf_dnd_barrage_font_medium">Trung bình</string>
+    <string name="gb_perf_dnd_barrage_font_size">Cỡ chữ bình luận chạy</string>
+    <string name="gb_perf_dnd_barrage_font_small">Nhỏ</string>
+    <string name="gb_perf_dnd_barrage_preview">Xem trước bình luận chạy</string>
+    <string name="gb_perf_dnd_barrage_preview_text">Hãy luôn tin rằng điều tuyệt vời sắp xảy ra</string>
+    <string name="gb_perf_dnd_barrage_speed">Tốc độ bình luận chạy</string>
+    <string name="gb_perf_dnd_barrage_title">Tin nhắn dạng bình luận chạy</string>
+    <string name="gb_perf_dnd_barrage_whitelist_title">Quản lý danh sách tin nhắn cho phép</string>
+    <string name="gb_perf_dnd_handsfree_desc">Tự động bật loa ngoài sau khi nghe máy, không cần rời trò chơi</string>
+    <string name="gb_perf_dnd_keep_network_desc">"1.Mọi thẻ SIM trên các mạng 5G cụ thể sẽ không bị ngắt dữ liệu khi gọi
+2.Nếu không SIM nào dùng 5G, cuộc gọi tới SIM không dùng dữ liệu sẽ bị tự động từ chối
+3.Chỉ hỗ trợ nhà mạng Trung Quốc đại lục
+4.Chỉ hỗ trợ mạng 5G-SA"</string>
+    <string name="gb_perf_dnd_keep_network_label">Về tính năng này:</string>
+    <string name="gb_perf_dnd_msg_block_desc">Ẩn thông báo tin nhắn khi chơi game</string>
+    <string name="gb_perf_dnd_msg_block_title">Chặn tin nhắn</string>
+    <string name="gb_perf_gpu_anisotropic_desc">Đặt mức lọc để tối ưu độ nét vân bề mặt và hiệu năng</string>
+    <string name="gb_perf_gpu_anisotropic_title">Lọc bất đẳng hướng</string>
+    <string name="gb_perf_gpu_anti_aliasing_desc">Đặt số mẫu tối đa, cân bằng chất lượng hình ảnh và hiệu năng</string>
+    <string name="gb_perf_gpu_anti_aliasing_title">Khử răng cưa đa mẫu</string>
+    <string name="gb_perf_gpu_fps_desc">Giới hạn tốc độ khung hình tối đa của trò chơi, cân bằng độ mượt và mức tiêu thụ điện</string>
+    <string name="gb_perf_gpu_fps_title">Tốc độ khung hình</string>
+    <string name="gb_perf_gpu_graph_title">Tối ưu tham số đồ họa</string>
+    <string name="gb_perf_gpu_help">"Mẹo:
+1. Cài đặt hiện tại chỉ áp dụng cho ứng dụng hiện tại. Nếu ứng dụng đang chạy trong nền, hãy khởi động lại để có hiệu lực.
+2. Giá trị tham số thấp hơn có thể giảm mức tiêu thụ điện, nhưng có thể ảnh hưởng đến chất lượng hình ảnh."</string>
+    <string name="gb_perf_gpu_lod_desc">Tối ưu độ mờ của vân bề mặt ở xa để hình ảnh rõ nét hơn</string>
+    <string name="gb_perf_gpu_lod_title">Mipmap LOD</string>
+    <string name="gb_perf_gpu_mode_balance">Cân bằng</string>
+    <string name="gb_perf_gpu_mode_custom">Tùy chỉnh</string>
+    <string name="gb_perf_gpu_mode_default">Mặc định</string>
+    <string name="gb_perf_gpu_mode_frame_rate">Tốc độ khung hình</string>
+    <string name="gb_perf_gpu_mode_high_quality">Chất lượng cao</string>
+    <string name="gb_perf_gpu_mode_picture">Hình ảnh</string>
+    <string name="gb_perf_gpu_mode_power_save">Tiết kiệm pin</string>
+    <string name="gb_perf_gpu_render_desc">Bật kết xuất đa luồng để tối ưu hiệu năng trò chơi</string>
+    <string name="gb_perf_gpu_render_title">Kết xuất đa luồng</string>
+    <string name="gb_perf_gpu_resolution_default">Mặc định</string>
+    <string name="gb_perf_gpu_resolution_desc">Mặc định dùng độ phân giải hiện tại của trò chơi, một số trò chơi có thể không hỗ trợ điều chỉnh</string>
+    <string name="gb_perf_gpu_resolution_high">Cao</string>
+    <string name="gb_perf_gpu_resolution_highest">Cao nhất</string>
+    <string name="gb_perf_gpu_resolution_smooth">Thấp</string>
+    <string name="gb_perf_gpu_resolution_standard">Tiêu chuẩn</string>
+    <string name="gb_perf_gpu_resolution_title">Độ phân giải</string>
+    <string name="gb_perf_gpu_texture_desc">Chọn chế độ lọc, cân bằng độ nét vân bề mặt và hiệu năng</string>
+    <string name="gb_perf_gpu_texture_title">Chất lượng lọc vân bề mặt</string>
+    <string name="gb_perf_gpu_title">Cài đặt GPU</string>
+    <string name="gb_perf_gpu_vrs_desc">Phân bổ tài nguyên phần cứng hiệu quả để cải thiện hiệu năng mà vẫn giữ chất lượng hình ảnh</string>
+    <string name="gb_perf_gpu_vrs_title">VRS</string>
+    <string name="gb_perf_launch_cooling_fan_desc">Tự động bật quạt để tản nhiệt khi trò chơi bắt đầu</string>
+    <string name="gb_perf_launch_cooling_fan_guide_confirm">Đi tới Cài đặt</string>
+    <string name="gb_perf_launch_cooling_fan_guide_message">Trước tiên hãy vào Cài đặt > Quạt tản nhiệt và bật tình huống chơi game</string>
+    <string name="gb_perf_launch_cooling_fan_guide_title">Thông báo</string>
+    <string name="gb_perf_launch_cooling_fan_title">Quạt tản nhiệt</string>
+    <string name="gb_perf_launch_mute_start_desc">Âm thanh tự động tắt khi trò chơi bắt đầu. Chỉ áp dụng cho trò chơi hiện tại.</string>
+    <string name="gb_perf_launch_mute_start_title">Tắt tiếng</string>
+    <string name="gb_perf_margin_restrain_description">Tùy chỉnh phạm vi chống chạm nhầm để giảm chạm nhầm khi cầm máy</string>
+    <string name="gb_perf_mode_balanced">Chế độ cân bằng</string>
+    <string name="gb_perf_mode_balanced_desc">Cân bằng hiệu năng và điện năng, cho cả độ mượt và thời lượng pin</string>
+    <string name="gb_perf_mode_extreme">Chế độ cực hạn</string>
+    <string name="gb_perf_mode_performance">Chế độ hiệu năng</string>
+    <string name="gb_perf_mode_performance_desc">Cải thiện mạnh hiệu năng, nhưng tăng mức tiêu thụ điện và nhiệt</string>
+    <string name="gb_perf_network_5g_desc">Tự động chọn mạng 5G tối ưu để giảm độ trễ khi chơi game và cân bằng thời lượng pin</string>
+    <string name="gb_perf_network_5g_title">Tối ưu mạng 5G</string>
+    <string name="gb_perf_network_ai_desc">Thích ứng thông minh với môi trường mạng để truyền dữ liệu hiệu quả với mức dùng dữ liệu thấp hơn</string>
+    <string name="gb_perf_network_ai_title">Tăng tốc dữ liệu thông minh bằng AI</string>
+    <string name="gb_perf_network_wlan_desc">Giảm độ trễ và độ giật của WLAN. Kết hợp với bộ định tuyến Mi/Redmi để có tăng tốc độc quyền và trải nghiệm ổn định hơn</string>
+    <string name="gb_perf_network_wlan_title">Tối ưu mạng WLAN</string>
+    <string name="gb_perf_network_xunyou_cta_checkbox">Đồng ý với Xunyou Mobile Game Accelerator</string>
+    <string name="gb_perf_network_xunyou_cta_primary_body">Cảm ơn bạn đã tin tưởng! Xunyou Mobile Game Accelerator sẽ thu thập ID tài khoản Xiaomi của bạn để ghi nhận thời hạn thành viên dịch vụ tăng tốc, mang đến trải nghiệm mạng chơi game tốt hơn.</string>
+    <string name="gb_perf_network_xunyou_cta_primary_title">Đang chuyển hướng đến dịch vụ tăng tốc mạng Xunyou</string>
+    <string name="gb_perf_network_xunyou_cta_secondary_body">Tôi đã đọc và đồng ý với Xunyou Accelerator</string>
+    <string name="gb_perf_network_xunyou_cta_secondary_title">Vui lòng đọc và đồng ý với thỏa thuận trước</string>
+    <string name="gb_perf_network_xunyou_desc">Cung cấp bởi Xunyou, cải thiện độ ổn định mạng</string>
+    <string name="gb_perf_network_xunyou_dialog_agree">Đồng ý</string>
+    <string name="gb_perf_network_xunyou_dialog_cancel">Hủy</string>
+    <string name="gb_perf_network_xunyou_dialog_confirm">OK</string>
+    <string name="gb_perf_network_xunyou_expire_at">Hết hạn vào %1$s</string>
+    <string name="gb_perf_network_xunyou_expired_at">Đã hết hạn vào %1$s</string>
+    <string name="gb_perf_network_xunyou_load_failed">Không tải được, vui lòng thử lại sau</string>
+    <string name="gb_perf_network_xunyou_login">Đăng nhập</string>
+    <string name="gb_perf_network_xunyou_open">Kích hoạt</string>
+    <string name="gb_perf_network_xunyou_privacy_link">Chính sách quyền riêng tư</string>
+    <string name="gb_perf_network_xunyou_renew">Gia hạn</string>
+    <string name="gb_perf_network_xunyou_status_active">Đã kích hoạt</string>
+    <string name="gb_perf_network_xunyou_status_expired">Đã hết hạn</string>
+    <string name="gb_perf_network_xunyou_status_not_opened">Đã đăng nhập</string>
+    <string name="gb_perf_network_xunyou_title">Tăng tốc Xunyou</string>
+    <string name="gb_perf_predownload_desc">Tự động tải tài nguyên trò chơi khi máy rảnh</string>
+    <string name="gb_perf_predownload_page_title">Cập nhật trong nền</string>
+    <string name="gb_perf_radar_battery">Pin</string>
+    <string name="gb_perf_radar_control">Điều khiển</string>
+    <string name="gb_perf_radar_heat">Nhiệt</string>
+    <string name="gb_perf_radar_image_quality">Chất lượng hình ảnh</string>
+    <string name="gb_perf_radar_smoothness">Độ mượt</string>
+    <string name="gb_perf_smotion_vibrate_desc">Thích ứng với các pha hành động trong game và tăng phản hồi rung</string>
+    <string name="gb_perf_smotion_vibrate_title">Phản hồi xúc giác</string>
+    <string name="gb_perf_super_chip">Phản hồi chạm nhanh</string>
+    <string name="gb_perf_super_chip_msg">Tăng tốc phản hồi chạm ở cấp phần cứng</string>
+    <string name="gb_perf_super_finger_up">Vi điều khiển thông minh</string>
+    <string name="gb_perf_super_finger_up_msg">Độ nhạy vi điều khiển: cao để nhạy hơn, thấp để ổn định hơn</string>
+    <string name="gb_perf_super_follow_up_msg">Phạm vi theo dõi cử chỉ: cao để bám sát hơn, thấp để chuyển động mượt hơn</string>
+    <string name="gb_perf_super_hot_area_msg">Nhận biết thông minh các nút điều khiển trong game và điều chỉnh độ nhạy cảm ứng</string>
+    <string name="gb_perf_super_shake_4_5">Điều khiển thông minh tinh chỉnh</string>
+    <string name="gb_perf_super_shake_msg">Giảm rung giật khi chạm/vuốt và tăng độ ổn định điều khiển</string>
+    <string name="gb_perf_super_shake_msg_4_5">Điều chỉnh độ nhạy điều khiển: Cao để phản hồi nhanh hơn, thấp để ổn định hơn</string>
+    <string name="gb_perf_tab_anti_mistouch">Chống chạm nhầm</string>
+    <string name="gb_perf_tab_display_enhance">Màn hình</string>
+    <string name="gb_perf_tab_launch_settings">Cài đặt khởi chạy</string>
+    <string name="gb_perf_tab_network_boost">Tăng cường mạng</string>
+    <string name="gb_perf_tab_performance_schedule">Hiệu năng</string>
+    <string name="gb_perf_tab_title">Cài đặt hiệu năng</string>
+    <string name="gb_perf_tab_touch_enhance">Cảm ứng</string>
+    <string name="gb_predownload_page_title">Tải trước gói tài nguyên</string>
+    <string name="gd_dock_preview_section_title">Cách mở</string>
+    <string name="gd_dock_preview_sidebar_title">Kéo chỉ báo vào trong</string>
+    <string name="gd_dock_preview_swipe_title">Kéo và giữ</string>
+    <string name="gd_dock_shortcut_multisplitscreen">Chia nhiều màn hình</string>
+    <string name="gd_dock_swipe_launcher_upgrade_hint">Phiên bản trình khởi chạy hiện tại không hỗ trợ kéo và giữ</string>
+    <string name="gd_dock_xiaoai_ball_dialog_btn_cancel">Hủy</string>
+    <string name="gd_dock_xiaoai_ball_dialog_btn_confirm">Chuyển</string>
+    <string name="gd_dock_xiaoai_ball_dialog_content">Bạn có thể kéo và giữ để mở bong bóng thao tác Xiaomi Hyper XiaoAi. Nếu chuyển sang hộp công cụ bên cạnh, bong bóng thao tác Xiaomi Hyper XiaoAi sẽ bị tắt. Chuyển ngay?</string>
+    <string name="gd_dock_xiaoai_ball_dialog_title">Đổi cách kích hoạt?</string>
+    <string name="global_dock_recommend_switch_title">Hiện ứng dụng được đề xuất trong thanh bên</string>
+    <string name="intercept_accessibility_virus_notifiction_summary">Nhiều ứng dụng, bao gồm %s, đang lạm dụng quyền hỗ trợ tiếp cận</string>
+    <string name="intercept_accessibility_virus_notifiction_summary_one">Ứng dụng này đang lạm dụng quyền hỗ trợ tiếp cận. Nhấn để xem.</string>
+    <string name="intercept_accessibility_virus_notifiction_title_one">Đã chặn ứng dụng độc hại %s</string>
+    <string name="menu_item_virus_risky_app_detect">Phát hiện ứng dụng rủi ro</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_cancel">Hủy</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_close_failed">Đã phát hiện rủi ro bảo mật. Hiện không thể tắt.</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_content_Bottom">Nếu cơ quan chức năng, nhân viên chăm sóc khách hàng hoặc người bạn có thể quen yêu cầu bạn tắt tính năng này, hãy xác minh danh tính của họ trước khi tiếp tục.</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_content_top">Nếu tắt tính năng này, hành vi rủi ro của ứng dụng sẽ không còn được phát hiện theo thời gian thực, có thể dẫn đến rò rỉ dữ liệu cá nhân hoặc tổn thất tài chính. Vẫn tắt?</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_go_open">Mở</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_keep_close">Tắt</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_keep_open">Hủy</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_keep_use">Mở</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_known">Đã hiểu</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_not_remind">Không hiện lại</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_quit">Thoát</string>
+    <string name="menu_item_virus_risky_app_detect_close_dialog_title">Tắt?</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_default_msg">"%s tiềm ẩn rủi ro bảo mật chưa xác định và có thể dẫn đến rò rỉ quyền riêng tư hoặc tổn thất tài chính. "</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback">Nếu không đồng ý với cảnh báo này, hãy nhấn vào đây để gửi phản hồi.</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_name">Tên ứng dụng: %s</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_new">%s Nếu không đồng ý với cảnh báo này, hãy nhấn (click)vào đây(/click) để gửi phản hồi.</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_packagename">Tên gói: %s</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_problem">Mô tả chi tiết vấn đề: %s</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_sign">Chữ ký ứng dụng: %s</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_level_notify">Chú ý</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_level_stop">Ứng dụng không khả dụng</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_level_warning">Cảnh báo</string>
+    <string name="menu_item_virus_risky_app_detect_summary">Chặn hoặc thông báo về ứng dụng rủi ro</string>
+    <string name="menu_item_virus_risky_app_detect_uninstall">Gỡ cài đặt</string>
+    <string name="milink_init_loading">Đang chuẩn bị truyền…</string>
+    <string name="not_found_apps_title">Không tìm thấy kết quả</string>
+    <string name="notification_abnormal_consume_high_drain_app_title">%s đang làm hao pin</string>
+    <string name="notification_abnormal_consume_high_drain_subtitle">Mức dùng pin cao trong nền</string>
+    <string name="number_locked_v2">{count, plural, =0 {0 ứng dụng bị khóa} one {# ứng dụng bị khóa} other {# ứng dụng bị khóa} }</string>
+    <string name="number_masked_v2">{count, plural, =0 {0 ứng dụng} one {# ứng dụng} other {# ứng dụng} }</string>
+    <string name="number_to_lock_v2">{count, plural, =0 {0 ứng dụng chưa khóa} one {# ứng dụng chưa khóa} other {# ứng dụng chưa khóa} }</string>
+    <string name="open_applock_calling_tips">Khóa ứng dụng và xác minh danh tính khi mở. Khóa ứng dụng có hai loại mật khẩu và hỗ trợ xác minh sinh trắc học.</string>
+    <string name="open_applock_calling_title">Khóa ứng dụng</string>
+    <string name="open_applock_tip_item1_sub_title">Dùng Mật khẩu bảo vệ quyền riêng tư hoặc mật khẩu Màn hình khóa</string>
+    <string name="open_applock_tip_item1_title">Hai loại mật khẩu</string>
+    <string name="open_applock_tip_item2_sub_title">Mở khóa ứng dụng bằng vân tay hoặc dữ liệu khuôn mặt</string>
+    <string name="open_applock_tip_item2_title">Xác minh sinh trắc học</string>
+    <string name="open_applock_tip_item3_sub_title">Chọn yêu cầu xác minh sau khi khóa màn hình, sau một khoảng thời gian hoặc sau khi thoát ứng dụng</string>
+    <string name="open_applock_tip_item3_title">Thời điểm xác minh tùy chỉnh</string>
+    <string name="overlay_read_clip_toast">\"%1$s\" đã truy cập bộ nhớ tạm</string>
+    <string name="pb_abnormal_battery_overvoltage">Cell %1$d quá áp</string>
+    <string name="pb_abnormal_charge_high_temp">Nhiệt độ cao (đang sạc)</string>
+    <string name="pb_abnormal_discharge_high_temp">Nhiệt độ cao (đang xả)</string>
+    <string name="pb_abnormal_empty">Chưa có gì ở đây</string>
+    <string name="pb_abnormal_error">Không thể tải. Hãy chờ một hai phút rồi thử lại.</string>
+    <string name="pb_abnormal_guide_text">Sự cố thường gặp và cách khắc phục</string>
+    <string name="pb_abnormal_header_time">Thời gian</string>
+    <string name="pb_abnormal_header_type">Loại</string>
+    <string name="pb_abnormal_header_value">Giá trị</string>
+    <string name="pb_abnormal_idle_high_temp">Quá nhiệt khi không dùng</string>
+    <string name="pb_abnormal_loading">Chờ chút…</string>
+    <string name="pb_abnormal_record">Lịch sử</string>
+    <string name="pb_activity_title">Chi tiết sạc dự phòng</string>
+    <string name="pb_battery_health">Tình trạng</string>
+    <string name="pb_battery_model">Kiểu máy</string>
+    <string name="pb_cell_code">ID cell</string>
+    <string name="pb_cell_detail">Cell %1$d</string>
+    <string name="pb_cycle_count">Số chu kỳ sạc</string>
+    <string name="pb_data_fetch_all_error">Không thể đọc dữ liệu. Sạc dự phòng có thể đã ngắt kết nối hoặc không được hỗ trợ.</string>
+    <string name="pb_data_fetch_all_error_new">Không thể đọc dữ liệu. Sạc dự phòng có thể đã ngắt kết nối hoặc không được hỗ trợ. Nếu đã ngắt kết nối, hãy cắm lại cáp sạc và thử lại.</string>
+    <string name="pb_data_fetch_partial_error">Một số mục không khả dụng do độ trễ hoặc sạc dự phòng không được hỗ trợ</string>
+    <string name="pb_data_fetch_partial_error_new">Một số mục không khả dụng do độ trễ hoặc sạc dự phòng không được hỗ trợ</string>
+    <string name="pb_manufacturer">Nhà sản xuất</string>
+    <string name="pb_measure_point">Cảm biến %1$d</string>
+    <string name="pb_production_date">Ngày sản xuất</string>
+    <string name="pb_prompt_update_system">Hệ thống hiện tại của bạn không hỗ trợ tính năng này. Hãy cập nhật hệ thống trong Cài đặt và thử lại.</string>
+    <string name="pb_remain_battery">Pin còn lại</string>
+    <string name="pb_section_abnormal_info">Trạng thái bất thường</string>
+    <string name="pb_section_battery_info">Thông tin pin</string>
+    <string name="pb_section_temperature">Nhiệt độ</string>
+    <string name="pb_temperature_tip">Nhiệt độ hoạt động bình thường là %1$d°C–%2$d°C. Nhiệt độ cao hơn một chút trong thời gian ngắn là bình thường. Nếu sạc dự phòng quá nóng, thiết bị sẽ ngừng sạc và xả.</string>
+    <string name="pb_voltage">Điện áp</string>
+    <string name="pc_dialog_dual_type_c_port_device_in_reminder_message">Mỗi lần chỉ đọc được một thiết bị dữ liệu khi cả hai cổng đang được dùng. Hãy ngắt thiết bị đang kết nối trước khi kết nối thiết bị khác.</string>
+    <string name="pc_dialog_dual_type_c_port_device_in_reminder_title">Chú ý</string>
+    <string name="pc_low_battery_health_msg_1">Tình trạng pin của bạn dưới %1$s. Bạn nên liên hệ dịch vụ hậu mãi của Xiaomi để thay pin.</string>
+    <string name="pc_low_battery_health_msg_2">Nhấn &lt;a href=https://m.mi.com/hd/wx/2023/officialService/index.html?g_utm=MIUI.Settings.Service.MyDevice.AfterSale&amp;imei=ODYzOTgxMDczNDg5MTg2#/>dịch vụ hậu mãi&lt;/a> để tìm nhà cung cấp được ủy quyền gần bạn. Bạn có thể đặt lịch sửa chữa tại cửa hàng hoặc yêu cầu dịch vụ gửi qua bưu điện.&lt;br />&lt;br />Về tình trạng pin, có thể bạn muốn biết:</string>
+    <string name="pc_low_battery_health_msg_3">"%1$d. Lão hóa tự nhiên: Pin lithium có số chu kỳ sạc giới hạn và hao mòn dần theo thời gian.
+%2$d. Thói quen sạc: Sạc ở nhiệt độ cao, để pin cạn hẳn mới sạc hoặc dùng bộ sạc nhanh không chính hãng có thể đẩy nhanh quá trình lão hóa.
+%3$d. Môi trường khắc nghiệt: Nhiệt độ quá cao (như ánh nắng trực tiếp hoặc chơi game nặng) hoặc quá lạnh có thể làm hỏng pin và rút ngắn tuổi thọ."</string>
+    <string name="pc_low_battery_health_msg_4">"%1$d. Thời lượng pin ngắn hơn nên phải sạc thường xuyên hơn.
+%2$d. Hiệu năng giảm khi thực hiện tác vụ nặng (như chơi game nặng hoặc chỉnh sửa video), có thể ảnh hưởng đến độ mượt.
+%3$d. Trong trường hợp nghiêm trọng, sạc chậm hơn hoặc thiết bị tự tắt nguồn trong môi trường nhiệt độ thấp."</string>
+    <string name="pc_low_battery_health_msg_5">"%1$d. Giữ mức pin trong khoảng %2$s đến %3$s. Tránh để pin đầy hoặc cạn hẳn trong thời gian dài.
+%4$d. Tránh sạc ở nhiệt độ cao. Tháo ốp điện thoại khi sạc và tránh chơi game nặng trong lúc sạc.
+%5$d. Dùng bộ sạc và cáp chính hãng hoặc được chứng nhận để bảo vệ pin."</string>
+    <string name="pc_low_battery_health_title">Lời nhắc về tình trạng pin</string>
+    <string name="pc_low_battery_health_title_1">Vì sao tình trạng pin suy giảm</string>
+    <string name="pc_low_battery_health_title_2">Tình trạng pin thấp ảnh hưởng đến bạn thế nào</string>
+    <string name="pc_low_battery_health_title_3">Cách giúp kéo dài tình trạng pin</string>
+    <string name="pc_notify_low_battery_health_msg">Đã đến lúc thay pin</string>
+    <string name="pc_notify_low_battery_health_title">Tình trạng pin dưới %1$s</string>
+    <string name="pc_tip_low_battery_health">Đã đến lúc thay pin</string>
+    <string name="peep_protection_ai_key_disabled">Màn hình riêng tư đang tắt</string>
+    <string name="peep_protection_ai_key_enabled">Màn hình riêng tư đang bật</string>
+    <string name="peep_protection_v2_app_notification_protection">Thông báo</string>
+    <string name="peep_protection_v2_app_notification_protection_desc">Thông báo từ các ứng dụng đã chọn sẽ kích hoạt màn hình riêng tư</string>
+    <string name="peep_protection_v2_app_protection_desc">Bật màn hình riêng tư cho các ứng dụng đã chọn</string>
+    <string name="peep_protection_v2_banner_summary">Thử các tính năng màn hình riêng tư dành riêng cho kiểu máy này</string>
+    <string name="peep_protection_v2_banner_title">Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_batch_disable">Tắt</string>
+    <string name="peep_protection_v2_batch_enable">Bật</string>
+    <string name="peep_protection_v2_category_capability">Khả năng của tính năng</string>
+    <string name="peep_protection_v2_category_capability_v2">Phát hiện ánh nhìn</string>
+    <string name="peep_protection_v2_category_finance">Tài chính</string>
+    <string name="peep_protection_v2_category_other">Khác</string>
+    <string name="peep_protection_v2_category_recommend">Được đề xuất</string>
+    <string name="peep_protection_v2_category_scene">Tình huống</string>
+    <string name="peep_protection_v2_category_scene_v2">Màn hình</string>
+    <string name="peep_protection_v2_category_smart">Thông minh</string>
+    <string name="peep_protection_v2_category_social">Mạng xã hội</string>
+    <string name="peep_protection_v2_category_suggest">Được đề xuất</string>
+    <string name="peep_protection_v2_category_tip_dismiss">Không, cảm ơn</string>
+    <string name="peep_protection_v2_category_tip_message">Hãy để Xiaomi Hyper XiaoAi giúp bạn tạo nhóm ứng dụng cá nhân hóa. Ví dụ, bạn có thể thêm Thư viện, Mật khẩu và Ghi chú vào một nhóm màn hình riêng tư tên là \"Tàu điện ngầm\". Bạn cũng có thể nói với Xiaomi Hyper XiaoAi cách bạn muốn nhóm ứng dụng và thêm các quy tắc kích hoạt thông minh khác.</string>
+    <string name="peep_protection_v2_category_tip_prompt">Tạo một nhóm ứng dụng màn hình riêng tư. Thêm %1$s vào nhóm này, đặt tên là \"Riêng tư\" và bật màn hình riêng tư cho các ứng dụng này.</string>
+    <string name="peep_protection_v2_category_tip_title">Tạo nhóm của riêng bạn</string>
+    <string name="peep_protection_v2_color_inversion_closed_msg">Tính năng này không hoạt động cùng đảo màu. Xiaomi Privacy Display đang tắt.</string>
+    <string name="peep_protection_v2_color_inversion_closed_reopen">Bật</string>
+    <string name="peep_protection_v2_color_inversion_closed_title">Xiaomi Privacy Display đã bị tắt</string>
+    <string name="peep_protection_v2_color_inversion_conflict_msg">Tính năng này không hoạt động cùng đảo màu. Trước tiên hãy tắt đảo màu.</string>
+    <string name="peep_protection_v2_color_inversion_conflict_title">Tắt đảo màu</string>
+    <string name="peep_protection_v2_cue_byapp_reason">Bật màn hình riêng tư cho ứng dụng này</string>
+    <string name="peep_protection_v2_cue_byapp_title">Bật màn hình riêng tư cho %s</string>
+    <string name="peep_protection_v2_cue_global_reason">Thử các tính năng riêng tư dành riêng cho kiểu máy này</string>
+    <string name="peep_protection_v2_cue_global_title">Bật Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_cue_summary">Tính năng này dành riêng cho kiểu máy này</string>
+    <string name="peep_protection_v2_deep_mode">Riêng tư nâng cao</string>
+    <string name="peep_protection_v2_deep_mode_desc">Khiến người khác khó nhìn màn hình của bạn hơn</string>
+    <string name="peep_protection_v2_expert_mode_hint">*Cần chuyển Xiaomi Hyper XiaoAi sang chế độ Pro</string>
+    <string name="peep_protection_v2_face_need_input_hint">Cần có dữ liệu khuôn mặt</string>
+    <string name="peep_protection_v2_first_close_message">Thêm Xiaomi Privacy Display trong Trung tâm điều khiển > Chỉnh sửa > Nút bật/tắt hệ thống để bật hoặc tắt nhanh.</string>
+    <string name="peep_protection_v2_first_close_title">Bật nhanh Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_first_close_title_v2">Nút bật/tắt</string>
+    <string name="peep_protection_v2_global_first_open_msg">Thêm Riêng tư toàn màn hình trong Trung tâm điều khiển > Chỉnh sửa > Nút bật/tắt hệ thống để bật hoặc tắt nhanh.</string>
+    <string name="peep_protection_v2_global_first_open_title">Bật nhanh Riêng tư toàn màn hình</string>
+    <string name="peep_protection_v2_global_hint">Không thể phát hiện ánh nhìn của người khác khi Riêng tư toàn màn hình đang bật</string>
+    <string name="peep_protection_v2_global_no_aon_hint">Để tiết kiệm pin, ánh nhìn của người khác sẽ không được phát hiện khi Riêng tư toàn màn hình đang bật</string>
+    <string name="peep_protection_v2_global_protection">Riêng tư toàn màn hình</string>
+    <string name="peep_protection_v2_global_protection_desc">Dùng màn hình riêng tư trong nhiều tình huống trên thiết bị</string>
+    <string name="peep_protection_v2_global_protection_desc_v2">Màn hình riêng tư luôn bật trên toàn thiết bị</string>
+    <string name="peep_protection_v2_go_miclaw">Mở Xiaomi Hyper XiaoAi</string>
+    <string name="peep_protection_v2_header_desc_v2">Khả năng nhìn màn hình từ góc nghiêng sẽ giảm. Thiết bị sẽ cảnh báo khi phát hiện ánh nhìn của người khác. (click)Tìm hiểu thêm(/click)</string>
+    <string name="peep_protection_v2_intro_detection_desc">Thiết lập quy tắc thông minh cho tính năng này bằng Xiaomi Hyper XiaoAi</string>
+    <string name="peep_protection_v2_intro_enable">Bật</string>
+    <string name="peep_protection_v2_intro_pixel_desc">Thu hẹp góc nhìn của màn hình và phát hiện khi có người khác đang nhìn</string>
+    <string name="peep_protection_v2_intro_pixel_title">Riêng tư cấp phần cứng</string>
+    <string name="peep_protection_v2_intro_privacy_tip">Khiến màn hình khó nhìn hơn từ bên cạnh, kèm phát hiện liên tục và cảnh báo khi có người khác đang nhìn</string>
+    <string name="peep_protection_v2_intro_scope_desc_global">Chọn ứng dụng và thông báo cụ thể, hoặc dùng tính năng này trên toàn thiết bị</string>
+    <string name="peep_protection_v2_intro_smart_page_desc">Chọn ứng dụng, trang và thông báo cụ thể, hoặc dùng tính năng này trên toàn thiết bị</string>
+    <string name="peep_protection_v2_intro_smart_page_title">Nhiều tình huống</string>
+    <string name="peep_protection_v2_learn_more">Tìm hiểu thêm</string>
+    <string name="peep_protection_v2_learn_more_limits_desc">"Tính năng này có thể làm tăng nhẹ mức tiêu thụ điện. Tính năng sẽ tạm tắt để tiết kiệm pin khi Trình tiết kiệm pin đang bật.
+Khi xem trước nội dung HDR, màn hình riêng tư sẽ tạm dừng để đảm bảo chất lượng hiển thị.
+Màn hình riêng tư sẽ tạm dừng ở chế độ ngang và tự khởi động lại sau khi bạn quay về chế độ dọc.
+Một số chủ đề bên thứ ba chưa hỗ trợ màn hình riêng tư cho thông báo trên Màn hình khóa.
+Việc phát hiện đến hoặc rời địa điểm có thể bị chậm."</string>
+    <string name="peep_protection_v2_learn_more_limits_desc_global">"Tính năng này có thể làm tăng nhẹ mức tiêu thụ điện. Tính năng sẽ tạm tắt để tiết kiệm pin khi Trình tiết kiệm pin đang bật.
+Khi xem trước nội dung HDR, màn hình riêng tư sẽ tạm dừng để đảm bảo chất lượng hiển thị.
+Màn hình riêng tư sẽ tạm dừng ở chế độ ngang và tự khởi động lại sau khi bạn quay về chế độ dọc.
+Một số chủ đề bên thứ ba chưa hỗ trợ màn hình riêng tư cho thông báo trên Màn hình khóa."</string>
+    <string name="peep_protection_v2_learn_more_limits_desc_global_hdr">"Tính năng này có thể làm tăng nhẹ mức tiêu thụ điện. Tính năng sẽ tạm tắt để tiết kiệm pin khi Trình tiết kiệm pin đang bật.
+Khi xem trước nội dung HDR, màn hình riêng tư sẽ tạm dừng để đảm bảo chất lượng hiển thị.
+Màn hình riêng tư sẽ tạm dừng ở chế độ ngang và tự khởi động lại sau khi bạn quay về chế độ dọc.
+Một số chủ đề bên thứ ba chưa hỗ trợ màn hình riêng tư cho thông báo trên Màn hình khóa."</string>
+    <string name="peep_protection_v2_learn_more_limits_desc_hdr">"Tính năng này có thể làm tăng nhẹ mức tiêu thụ điện. Tính năng sẽ tạm tắt để tiết kiệm pin khi Trình tiết kiệm pin đang bật.
+Khi xem trước nội dung HDR, màn hình riêng tư sẽ tạm dừng để đảm bảo chất lượng hiển thị.
+Màn hình riêng tư sẽ tạm dừng ở chế độ ngang và tự khởi động lại sau khi bạn quay về chế độ dọc.
+Một số chủ đề bên thứ ba chưa hỗ trợ màn hình riêng tư cho thông báo trên Màn hình khóa.
+Việc phát hiện đến hoặc rời địa điểm có thể bị chậm."</string>
+    <string name="peep_protection_v2_learn_more_limits_title">Hạn chế và trường hợp đặc biệt</string>
+    <string name="peep_protection_v2_learn_more_privacy_desc">"Sau khi bật tính năng này, thiết bị có thể dùng máy ảnh trước để chụp hình và phát hiện khuôn mặt hoặc hướng nhìn ngay trên máy khi tính năng phát hiện ánh nhìn đang hoạt động. Việc này dùng để xác định xem có ai khác ngoài bạn đang nhìn màn hình không và cảnh báo cho bạn.
+Mọi dữ liệu được xử lý trên thiết bị và sẽ không được tải lên Xiaomi Cloud hay bất kỳ dịch vụ đám mây bên thứ ba nào."</string>
+    <string name="peep_protection_v2_learn_more_privacy_title">Tuyên bố về quyền riêng tư</string>
+    <string name="peep_protection_v2_learn_more_scope_desc">"Bạn có thể chọn cách Xiaomi Privacy Display hoạt động: trên toàn thiết bị, trong ứng dụng đã chọn, trên trang nhạy cảm hoặc cho thông báo.
+
+Riêng tư toàn màn hình:
+Màn hình riêng tư luôn bật trên toàn thiết bị để giúp bảo vệ mọi nội dung bạn xem. Ánh nhìn của người khác sẽ không được phát hiện khi tính năng này đang bật.
+
+Ứng dụng đã chọn:
+Chọn ứng dụng bạn muốn bảo vệ. Khi các ứng dụng này hiển thị trên màn hình, Xiaomi Privacy Display giảm khả năng nhìn từ góc nghiêng và phát hiện xem có người khác đang nhìn không.
+
+Trang nhạy cảm:
+Ngay cả khi một số ứng dụng chưa được thêm vào danh sách, Xiaomi Privacy Display có thể tự động bật cho các trang nhạy cảm như nhập mật khẩu, thanh toán, chuyển khoản và nhắn tin.
+
+Thông báo ứng dụng:
+Thông báo từ các ứng dụng đã chọn được hiển thị với lớp bảo vệ riêng tư một phần để giúp ngăn người khác thấy thông tin nhạy cảm."</string>
+    <string name="peep_protection_v2_learn_more_scope_desc_global">"Bạn có thể chọn cách Xiaomi Privacy Display hoạt động: trên toàn thiết bị, trong ứng dụng đã chọn hoặc cho thông báo.
+
+Riêng tư toàn màn hình:
+Màn hình riêng tư luôn bật trên toàn thiết bị để giúp bảo vệ mọi nội dung bạn xem. Ánh nhìn của người khác sẽ không được phát hiện khi tính năng này đang bật.
+
+Ứng dụng đã chọn:
+Chọn ứng dụng bạn muốn bảo vệ. Khi các ứng dụng này hiển thị trên màn hình, Xiaomi Privacy Display giảm khả năng nhìn từ góc nghiêng và phát hiện xem có người khác đang nhìn không.
+
+Thông báo ứng dụng:
+Thông báo từ các ứng dụng đã chọn được hiển thị với lớp bảo vệ riêng tư một phần để giúp ngăn người khác thấy thông tin nhạy cảm."</string>
+    <string name="peep_protection_v2_learn_more_scope_title">Phạm vi màn hình riêng tư</string>
+    <string name="peep_protection_v2_learn_more_smart_desc">Bạn có thể dùng trợ lý AI để tạo và quản lý nhóm ứng dụng màn hình riêng tư, tự động bật Riêng tư toàn màn hình ở nơi công cộng hoặc tự động bật các nhóm chỉ định. Bạn cũng có thể điều chỉnh phạm vi màn hình riêng tư và quy tắc kích hoạt để phù hợp hơn với thói quen của mình.</string>
+    <string name="peep_protection_v2_learn_more_smart_title">Quy tắc tùy chỉnh</string>
+    <string name="peep_protection_v2_learn_more_understand_desc">"Xiaomi Privacy Display kết hợp giảm khả năng nhìn từ góc nghiêng với thông báo riêng tư để giúp chống lại cả việc nhìn từ góc rộng lẫn nhìn ở cự ly gần từ góc hẹp, mang đến sự bảo vệ quyền riêng tư toàn diện hơn.
+
+Giảm khả năng nhìn từ góc nghiêng:
+Nhờ kiểm soát ánh sáng màn hình ở cấp điểm ảnh, nội dung màn hình nhanh chóng khó nhìn hơn khi góc nhìn tăng lên. Việc này giúp giảm khả năng người khác thấy thông tin cá nhân của bạn.
+
+Thông báo riêng tư:
+Bổ sung cho việc giảm khả năng nhìn từ góc nghiêng, hệ thống có thể cảnh báo bạn khi phát hiện có người khác ngoài bạn đang nhìn màn hình từ phía sau hoặc từ một góc hẹp khác."</string>
+    <string name="peep_protection_v2_learn_more_understand_title">Giới thiệu về Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_main_body">Khả năng nhìn màn hình từ góc nghiêng sẽ giảm. Thiết bị cũng sẽ liên tục kiểm tra xem có ai đang nhìn màn hình của bạn không và cảnh báo khi phát hiện ánh nhìn của người khác. (click)Tìm hiểu thêm(/click)</string>
+    <string name="peep_protection_v2_main_desc">Bảo vệ màn hình khỏi ánh nhìn của người khác</string>
+    <string name="peep_protection_v2_main_switch">Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_main_switch_desc">Dùng màn hình riêng tư và phát hiện ánh nhìn của người khác</string>
+    <string name="peep_protection_v2_main_switch_desc_v2">Cho phép thiết bị bật màn hình riêng tư dựa trên tình huống đã chọn</string>
+    <string name="peep_protection_v2_main_switch_title_v2">Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_main_tile_label">Xiaomi Privacy Display</string>
+    <string name="peep_protection_v2_move_app_title_v2">Chuyển %s tới</string>
+    <string name="peep_protection_v2_move_app_to_category">Chuyển %s vào nhóm</string>
+    <string name="peep_protection_v2_notification_protection">Màn hình riêng tư cho thông báo</string>
+    <string name="peep_protection_v2_notification_protection_desc">Thông báo từ các ứng dụng đã chọn sẽ kích hoạt màn hình riêng tư</string>
+    <string name="peep_protection_v2_notification_protection_desc_v2">Thông báo từ các ứng dụng đã chọn được hiển thị với lớp bảo vệ riêng tư một phần</string>
+    <string name="peep_protection_v2_notify_type_desc">Bạn sẽ được cảnh báo khi phát hiện ánh nhìn của người khác</string>
+    <string name="peep_protection_v2_notify_type_title">Thông báo riêng tư</string>
+    <string name="peep_protection_v2_page_detail_category_title">Các trang sau trong ứng dụng này được bảo vệ bằng màn hình riêng tư</string>
+    <string name="peep_protection_v2_page_protection_desc">Bật màn hình riêng tư cho các trang cụ thể</string>
+    <string name="peep_protection_v2_peep_detection_desc_v2">Phát hiện ánh nhìn và cảnh báo bạn</string>
+    <string name="peep_protection_v2_peep_island_action_dismiss_v2">Bỏ qua</string>
+    <string name="peep_protection_v2_peep_island_subtitle_v2">Không nhắc lại</string>
+    <string name="peep_protection_v2_privacy_statement">Tính năng này dùng dữ liệu khuôn mặt để phát hiện ánh nhìn. Mọi dữ liệu được xử lý trên thiết bị của bạn và sẽ không được chia sẻ.</string>
+    <string name="peep_protection_v2_recommend_title">Ứng dụng được đề xuất</string>
+    <string name="peep_protection_v2_search_empty_hint">Kết quả tìm kiếm sẽ xuất hiện ở đây</string>
+    <string name="peep_protection_v2_search_hint">Tìm ứng dụng</string>
+    <string name="peep_protection_v2_search_keywords_1">Màn hình riêng tư</string>
+    <string name="peep_protection_v2_search_keywords_2">Điểm ảnh</string>
+    <string name="peep_protection_v2_search_keywords_3">Ánh nhìn</string>
+    <string name="peep_protection_v2_search_no_result">Không tìm thấy kết quả</string>
+    <string name="peep_protection_v2_select_apps">Ứng dụng đã chọn</string>
+    <string name="peep_protection_v2_select_apps_category_tip">Bạn có thể tạo, quản lý, xóa hoặc đổi tên nhóm ứng dụng màn hình riêng tư trong (click)Xiaomi Hyper XiaoAi(/click)</string>
+    <string name="peep_protection_v2_select_apps_category_tip_v2">Ở chế độ Pro của Xiaomi Hyper XiaoAi, bạn có thể tạo, quản lý, xóa hoặc đổi tên danh mục ứng dụng màn hình riêng tư</string>
+    <string name="peep_protection_v2_smart_enable">Kích hoạt thông minh</string>
+    <string name="peep_protection_v2_smart_enable_create_strategy_desc">Trong Xiaomi Hyper XiaoAi, bạn có thể tạo quy tắc màn hình riêng tư dựa trên những nơi bạn thường đến. Khi bạn đến một địa điểm chỉ định, màn hình riêng tư sẽ tự động bật hoặc tắt.</string>
+    <string name="peep_protection_v2_smart_enable_create_strategy_title">Tạo quy tắc thông minh</string>
+    <string name="peep_protection_v2_smart_enable_desc_v2">Tạo quy tắc màn hình riêng tư theo vị trí</string>
+    <string name="peep_protection_v2_smart_enable_no_strategy_hint">Chưa có quy tắc nào. Hãy tạo quy tắc kích hoạt thông minh theo vị trí trong Xiaomi Hyper XiaoAi.</string>
+    <string name="peep_protection_v2_smart_enable_no_strategy_hint_v2">Chưa có quy tắc nào. Bạn có thể tạo quy tắc kích hoạt thông minh theo vị trí trong (click)Xiaomi Hyper XiaoAi(click).</string>
+    <string name="peep_protection_v2_smart_enable_page_desc">Trong (click)Xiaomi Hyper XiaoAi(/click), bạn có thể thiết lập quy tắc thông minh theo vị trí, chẳng hạn tự động bật Riêng tư toàn màn hình khi bạn ở trên tàu điện ngầm. Khi bạn đến địa điểm chỉ định, màn hình riêng tư sẽ bật theo quy tắc của bạn.</string>
+    <string name="peep_protection_v2_smart_enable_page_desc_v2">"Ở chế độ Pro của Xiaomi Hyper XiaoAi, bạn có thể đặt quy tắc kích hoạt thông minh theo vị trí, chẳng hạn \"Tự động bật Riêng tư toàn màn hình khi tôi ở trên tàu điện ngầm\". Khi bạn đến một địa điểm chỉ định, màn hình riêng tư sẽ tự động bật theo quy tắc của bạn."</string>
+    <string name="peep_protection_v2_smart_enable_prompt">Giúp tôi tạo quy tắc màn hình riêng tư: Tôi thường dùng điện thoại trên tàu điện ngầm và trong quán cà phê. Hãy tạo quy tắc cho các tình huống này và tự động bật màn hình riêng tư cho nhóm mạng xã hội và tài chính khi tôi đến những nơi này.</string>
+    <string name="peep_protection_v2_smart_enable_prompt_copied">Đã sao chép thành công</string>
+    <string name="peep_protection_v2_smart_enable_sio_unavailable">Cho phép truy cập để có thể dùng tính năng này</string>
+    <string name="peep_protection_v2_smart_enable_switch_desc">Nhận biết tình huống và tự động bật hoặc tắt màn hình riêng tư</string>
+    <string name="peep_protection_v2_smart_enable_wifi_tip">Giữ Wi-Fi bật để giúp kích hoạt quy tắc thông minh chính xác hơn. Một số địa điểm có thể được nhận biết chậm hoặc không được nhận biết khi Wi-Fi tắt.</string>
+    <string name="peep_protection_v2_smart_enable_wifi_tip_china">Giữ WLAN bật để giúp kích hoạt quy tắc thông minh chính xác hơn. Một số địa điểm có thể được nhận biết chậm hoặc không được nhận biết khi WLAN tắt.</string>
+    <string name="peep_protection_v2_smart_page_active_list">Các trang cụ thể trong những ứng dụng sau được bảo vệ</string>
+    <string name="peep_protection_v2_smart_page_header_title">Tự động bật cho các trang nhạy cảm cụ thể</string>
+    <string name="peep_protection_v2_smart_page_intro">Ngay cả khi bạn quên thêm một số ứng dụng, màn hình riêng tư sẽ tự động bật khi bạn mở các trang nhạy cảm như nhập mật khẩu, thanh toán, chuyển khoản và nhắn tin.</string>
+    <string name="peep_protection_v2_smart_page_switch_title">Màn hình riêng tư cho trang</string>
+    <string name="peep_protection_v2_status_off">Tắt</string>
+    <string name="peep_protection_v2_status_on">Bật</string>
+    <string name="peep_protection_v2_strategy_action_disable_category">Tắt màn hình riêng tư cho %s</string>
+    <string name="peep_protection_v2_strategy_action_disable_deep">Tắt Riêng tư nâng cao</string>
+    <string name="peep_protection_v2_strategy_action_disable_default">Tắt màn hình riêng tư</string>
+    <string name="peep_protection_v2_strategy_action_disable_global">Tắt Riêng tư toàn màn hình</string>
+    <string name="peep_protection_v2_strategy_action_disable_target">Tắt màn hình riêng tư cho %s</string>
+    <string name="peep_protection_v2_strategy_action_enable_category">Bật màn hình riêng tư cho %s</string>
+    <string name="peep_protection_v2_strategy_action_enable_deep">Bật Riêng tư nâng cao</string>
+    <string name="peep_protection_v2_strategy_action_enable_default">Bật màn hình riêng tư</string>
+    <string name="peep_protection_v2_strategy_action_enable_global">Bật Riêng tư toàn màn hình</string>
+    <string name="peep_protection_v2_strategy_action_enable_target">Bật màn hình riêng tư cho %s</string>
+    <string name="peep_protection_v2_strategy_action_fallback">Chống nhìn trộm</string>
+    <string name="peep_protection_v2_strategy_arrive_condition">Khi đến %1$s</string>
+    <string name="peep_protection_v2_strategy_auto_desc">Đến %1$s, tự động %2$s</string>
+    <string name="peep_protection_v2_strategy_delete">Xóa</string>
+    <string name="peep_protection_v2_strategy_delete_confirm_msg">Xóa vĩnh viễn quy tắc này?</string>
+    <string name="peep_protection_v2_strategy_delete_confirm_title">Xóa quy tắc này?</string>
+    <string name="peep_protection_v2_strategy_detail_title">Quy tắc thông minh</string>
+    <string name="peep_protection_v2_strategy_edit_desc_hint">Mô tả</string>
+    <string name="peep_protection_v2_strategy_edit_main_title_hint">Tiêu đề</string>
+    <string name="peep_protection_v2_strategy_edit_title">Chỉnh sửa</string>
+    <string name="peep_protection_v2_strategy_edit_title_hint">Nhập tên chiến lược mới</string>
+    <string name="peep_protection_v2_strategy_edit_title_v2">Sửa tiêu đề</string>
+    <string name="peep_protection_v2_strategy_go_miclaw">Điều chỉnh quy tắc</string>
+    <string name="peep_protection_v2_strategy_leave_condition">Khi rời %1$s</string>
+    <string name="peep_protection_v2_strategy_notify_on_trigger">Thông báo khi màn hình riêng tư đang bật</string>
+    <string name="peep_protection_v2_strategy_prompt_copied">Đã sao chép thành công</string>
+    <string name="peep_protection_v2_strategy_prompt_template">Giúp tôi sửa quy tắc màn hình riêng tư \"%1$s\" và điều chỉnh cài đặt của nó.</string>
+    <string name="peep_protection_v2_strategy_unknown_location">Vị trí không xác định</string>
+    <string name="peep_protection_v2_thermal_paused_toast">Thông báo riêng tư sẽ tiếp tục sau khi thiết bị nguội bớt</string>
+    <string name="peep_protection_v2_tile_label">Riêng tư toàn màn hình</string>
+    <string name="peep_protection_v2_title">Xiaomi Privacy Display</string>
+    <string name="permission_action_allow_for_compatibility">Chỉ mạng cục bộ</string>
+    <string name="permission_allow_for_compatibility_note">Chỉ cho phép ứng dụng giao tiếp với các thiết bị trong cùng mạng cục bộ. Không hỗ trợ Bluetooth và các phương thức kết nối khác.</string>
+    <string name="permission_changed_retry">Đã thay đổi quyền. Hãy khởi động lại ứng dụng.</string>
+    <string name="permission_compatibility_dialog_message">Ứng dụng này được thiết kế cho phiên bản Android cũ hơn. Việc từ chối quyền có thể khiến ứng dụng không còn hoạt động như dự kiến.</string>
+    <string name="permission_compatibility_dialog_negative_btn">Hủy</string>
+    <string name="permission_compatibility_dialog_positive_btn">Từ chối</string>
+    <string name="permission_compatibility_dialog_title">Ứng dụng này có thể hoạt động không đúng</string>
+    <string name="permisson_reject_notice_toast_text2">không có quyền %1$s.</string>
+    <string name="pkg_traffic_settings_instruction">Chú ý</string>
+    <string name="pkg_traffic_settings_instruction_text">"Do các cập nhật gần đây của nhà mạng, một số thông tin có thể không khả dụng. Dữ liệu hiển thị trong \"Cài đặt lưu lượng nâng cao\" chỉ để tham khảo và có thể không khớp với ghi nhận của nhà mạng. Hãy kiểm tra bảng kê cước của nhà mạng để biết mức sử dụng chính xác nhất."</string>
+    <string name="power_center_battery_duration_new">Thời gian dùng màn hình còn lại</string>
+    <string name="power_dialog_super_save_msg_fan_enable">Siêu tiết kiệm pin hạn chế hầu hết tính năng tốn điện, tắt quạt tản nhiệt và giảm hiệu năng thiết bị để duy trì các chức năng cơ bản (ví dụ: cuộc gọi, SMS và kết nối mạng) lâu nhất có thể. Bật Siêu tiết kiệm pin?</string>
+    <string name="power_main_battery_last_hour_minute_new">Thời gian dùng màn hình ước tính: %1$s %2$s</string>
+    <string name="pp_privacy_call_entry">Gọi riêng tư</string>
+    <string name="pp_privacy_call_entry_demo_desc">Giảm rò âm thanh từ loa thoại để bảo vệ quyền riêng tư cuộc gọi</string>
+    <string name="pp_privacy_call_entry_switch_desc">Hoạt động khi gọi bằng loa thoại. Tính năng này sẽ không thu thập nội dung hay dữ liệu cuộc gọi của bạn.</string>
+    <string name="pp_privacy_call_protect">Bảo vệ cuộc gọi</string>
+    <string name="pp_privacy_call_switch_off">Gọi riêng tư đang tắt</string>
+    <string name="pp_privacy_call_switch_on">Gọi riêng tư đang bật</string>
+    <string name="prem_optimization_a11y_collapsed">Đã thu gọn</string>
+    <string name="prem_optimization_a11y_expanded">Đã mở rộng</string>
+    <string name="prem_optimization_a11y_selected">Đã chọn</string>
+    <string name="prem_optimization_a11y_unselected">Chưa chọn</string>
+    <string name="privacy_device_unique_feature">Tính năng dành riêng cho thiết bị</string>
+    <string name="privacy_hide_app_notify_auto_close_desc">Tính năng này ngăn ứng dụng bị ẩn gửi thông báo. Để nhận thông báo, hãy tắt \"Ẩn thông báo\" hoặc bỏ ẩn ứng dụng.</string>
+    <string name="privacy_hide_app_notify_auto_close_title">Tắt thông báo</string>
+    <string name="privacy_hide_app_notify_auto_revoke_summary">Tự động tắt thông báo từ ứng dụng bị ẩn</string>
+    <string name="privacy_hide_app_notify_dialog_confirm">Đã hiểu</string>
+    <string name="privacy_screen_share_sheet_protect_desc">Nội dung ứng dụng sẽ bị làm mờ khi chia sẻ</string>
+    <string name="privacy_screen_share_sheet_protect_label">Bảo vệ nội dung màn hình của %s</string>
+    <string name="privacy_screen_share_sheet_stop">Dừng chia sẻ</string>
+    <string name="privacy_screen_share_sheet_summary_auto_hide">Thông báo nổi được tự động ẩn</string>
+    <string name="privacy_screen_share_v2_land_subtitle">“%s” đang truy cập nội dung màn hình</string>
+    <string name="privacy_screen_share_v2_notification_content">“%s” đang truy cập nội dung màn hình</string>
+    <string name="privacy_screen_share_v2_notification_protect_title">Nội dung màn hình được bảo vệ</string>
+    <string name="privacy_screen_share_v2_notification_title">Đang truyền nội dung màn hình</string>
+    <string name="privacy_screen_share_v2_small_island_title">Đang chia sẻ màn hình</string>
+    <string name="repeated_stranger_number_summary">Không chặn cuộc gọi thứ hai từ cùng một số lạ trong vòng %d phút</string>
+    <string name="save_privacy_pwd_fail_toast">Không thể lưu. Hãy thử lại.</string>
+    <string name="screen_share_search_keyword_1">Đang chia sẻ màn hình</string>
+    <string name="screen_share_search_keyword_2">Chia sẻ màn hình</string>
+    <string name="screen_share_search_title">Bảo vệ khi chia sẻ màn hình</string>
+    <string name="st_msg_keyword_black_summary">Chặn tin nhắn từ người lạ có chứa từ khóa</string>
+    <string name="st_msg_keyword_white_summary">Cho phép tin nhắn từ người lạ có chứa từ khóa</string>
+    <string name="st_show_num_keyword_v2">{count, plural, =0 {0 từ khóa } one {# từ khóa } other {# từ khóa } }</string>
+    <string name="st_show_num_number_v2">{count, plural, =0 {0 số } one {# số } other {# số } }</string>
+    <string name="still_need_start">Chặn</string>
+    <string name="storage_item_archive_name">Tệp nén</string>
+    <string name="superpower_progress_title_new">Thời gian dùng màn hình còn lại</string>
+    <string name="superpower_progress_turnoff_fan">Đang tắt quạt tản nhiệt</string>
+    <string name="system_permission_declare_optional_default_grant"><Data>Để mang lại trải nghiệm người dùng tốt hơn, ứng dụng này cần thêm các quyền sau: %1s. Để biết thêm chi tiết về cách chúng tôi xử lý thông tin cá nhân của bạn, hãy nhấn &lt;a href=\"test\">vào đây&lt;/a>. Bạn có thể quản lý quyền bất cứ lúc nào trong Cài đặt.</Data></string>
+    <string name="terms_and_conditions_content"><Data>"Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Tính năng sẽ thông báo cho bạn về động đất sắp xảy ra và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho liên hệ khẩn cấp và xuất trình thẻ y tế nếu cần. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách quyền riêng tư liên quan. &lt;br>Để hoạt động bình thường, tính năng này cần các quyền sau nhằm thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp cảnh báo động đất chính xác. &lt;br>Nếu không đồng ý cấp các quyền này hoặc chia sẻ và tải lên thông tin cá nhân, bạn sẽ không dùng được tính năng này. Khi đó, bạn có thể chọn tắt hoặc không bật tính năng. &lt;br>Bạn phải đọc và đồng ý với &lt;a href=%s>Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi dùng tính năng này."</Data></string>
+    <string name="title_risky_app_scan_no">Phát hiện ứng dụng rủi ro đang tắt</string>
+    <string name="title_risky_app_scan_yes">Phát hiện ứng dụng rủi ro đang bật</string>
+    <string name="toast_no_install_getapps">Cài đặt GetApps rồi thử lại</string>
+    <string name="toolbox_invocation_guide_cancel">Để sau</string>
+    <string name="toolbox_invocation_guide_caption">Vuốt và giữ để mở</string>
+    <string name="toolbox_invocation_guide_caption_upgrade">Mở từ bất kỳ đâu</string>
+    <string name="toolbox_invocation_guide_confirm">Dùng</string>
+    <string name="toolbox_invocation_guide_confirm_upgrade">Thử ngay</string>
+    <string name="toolbox_invocation_guide_message">Vuốt vào trong từ cạnh màn hình và giữ, rồi thả ra để mở</string>
+    <string name="toolbox_invocation_guide_title">Dùng thanh bên</string>
+    <string name="toolbox_invocation_guide_title_upgrade">Cách mới để mở thanh bên</string>
+    <string name="uni_auth_security_delay_tips">Cần có khoảng trễ bảo mật</string>
+    <string name="uniauth_close_bt_text">Tắt</string>
+    <string name="uniauth_close_lock_sim_bind_local_phone_fp_title">Xác minh vân tay để mở khóa USIM và liên kết với thiết bị này</string>
+    <string name="uniauth_close_lock_sim_fp_title">Xác minh vân tay để mở khóa USIM</string>
+    <string name="uniauth_close_lost_device_prot_bt">Tắt Bảo vệ thiết bị bị mất</string>
+    <string name="uniauth_close_lost_device_prot_tips_bt">Đã hiểu</string>
+    <string name="uniauth_close_lost_device_prot_tips_message">Bảo vệ thiết bị bị mất đã được tắt bằng Tài khoản Xiaomi của bạn. Các tính năng trên thiết bị này sẽ không còn được bảo vệ thêm.</string>
+    <string name="uniauth_close_lost_device_prot_tips_title">Bảo vệ thiết bị bị mất đang tắt</string>
+    <string name="uniauth_common_fp_title">Xác minh vân tay của bạn</string>
+    <string name="uniauth_common_tips">Không thể xác minh. Hãy thử lại.</string>
+    <string name="uniauth_fp_disabled_sub_title">Quá nhiều lần thử không thành công</string>
+    <string name="uniauth_fp_disabled_title">Hiện không dùng được vân tay</string>
+    <string name="uniauth_fp_enter_lockscreen_text">Dùng khóa màn hình</string>
+    <string name="uniauth_fp_recover_by_lockscreen_bt_text">Khôi phục quyền dùng vân tay</string>
+    <string name="uniauth_fp_temp_disabled_sub_title">Hiện không dùng được vân tay do quá nhiều lần thử không thành công</string>
+    <string name="uniauth_lockscreen_default_title">Xác minh khóa màn hình của bạn</string>
+    <string name="uniauth_lockscreen_disabled_sub_title">Không thể dùng khóa màn hình do quá nhiều lần thử không thành công</string>
+    <string name="uniauth_lockscreen_mix_do_next">Tiếp theo</string>
+    <string name="uniauth_lockscreen_mix_hint">Nhập tại đây</string>
+    <string name="uniauth_lockscreen_sub_title">Để khôi phục quyền dùng vân tay</string>
+    <string name="uniauth_logout_xiaomi_acount_fp_title">Xác minh vân tay để đăng xuất khỏi Tài khoản Xiaomi</string>
+    <string name="uniauth_lp_fp_sub_title">Bảo vệ thiết bị bị mất đang bật. Hãy xác minh vân tay để xác nhận thao tác này do chủ sở hữu thiết bị thực hiện.</string>
+    <string name="uniauth_lp_lockscreen_and_fp_sub_title">Dùng xác thực hai yếu tố để xác minh danh tính</string>
+    <string name="uniauth_no_acount_login_tips">Trước tiên hãy đăng nhập Tài khoản Xiaomi</string>
+    <string name="uniauth_open_lock_sim_bind_local_phone_fp_title">Xác minh vân tay để khóa USIM và liên kết với thiết bị này</string>
+    <string name="uniauth_open_lock_sim_fp_title">Xác minh vân tay để khóa USIM</string>
+    <string name="uniauth_reset_lockscreen_default_title">Xác minh khóa màn hình trước đây của bạn</string>
+    <string name="uniauth_reset_lockscreen_pwd_fp_sub_title">Dùng xác thực hai yếu tố để đặt khóa màn hình mới</string>
+    <string name="uniauth_reset_lockscreen_pwd_fp_title">Xác minh vân tay của bạn</string>
+    <string name="uniauth_reset_lockscreen_title">Xác minh khóa màn hình trước đây của bạn</string>
+    <string name="uniauth_resetlockscreen_error_sub_title">Không thể đặt lại</string>
+    <string name="uniauth_resetlockscreen_error_title">Quá nhiều lần xác minh khóa màn hình không thành công</string>
+    <string name="uniauth_security_delay_end_notification_msg">Trong %1$d giờ tới, bạn có thể xác minh Tài khoản Xiaomi để tắt Bảo vệ thiết bị bị mất</string>
+    <string name="uniauth_security_delay_end_notification_title">Khoảng trễ bảo mật đã kết thúc</string>
+    <string name="uniauth_security_delay_msg">Sau %1$d giờ, bạn có thể xác minh Tài khoản Xiaomi để tắt Bảo vệ thiết bị bị mất. Bạn sẽ được thông báo khi hết thời gian trễ.</string>
+    <string name="uniauth_security_delay_next_more">Tìm hiểu thêm</string>
+    <string name="uniauth_temp_disabled_title">Thử lại sau</string>
+    <string name="uniauth_uqery_pin_fp_title">Xác minh vân tay để xem mã PIN</string>
+    <string name="uniauth_xiaomi_acount_title">Xác minh Tài khoản Xiaomi của bạn</string>
+    <string name="use_lock_screen_password_type">Mật khẩu màn hình khóa</string>
+    <string name="use_private_password_type">Mật khẩu bảo vệ quyền riêng tư</string>
+    <string name="vb_video_super_division_subdesc">Tự động nâng độ phân giải khi ≤720P.</string>
+    <string name="videobox_settings_dolby_vision_effect">Nâng cao video động</string>
+    <string name="virtual_reject_notice_content">Một phản hồi trống đã được gửi cho ứng dụng để bảo vệ thông tin cá nhân của bạn</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s đang truy cập lịch</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s đang truy cập nhật ký cuộc gọi</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s đang truy cập danh bạ</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s đang truy cập thông tin thiết bị</string>
+    <string name="virtual_reject_notice_title_sms">%1$s đang truy cập tin nhắn</string>
+    <string name="warning_car_accident_open_dialog_text"><Data>Đọc và đồng ý với &lt;a href=%s>Chính sách quyền riêng tư của tính năng Phát hiện tai nạn ô tô&lt;/a> trước khi tiếp tục</Data></string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_privacy_tip"><Data>"Sau khi bật Vị trí khẩn cấp, trong trường hợp bạn gọi 110, 120, 119 hoặc 122, hệ thống sẽ tự động lấy vị trí của bạn và gửi cho cảnh sát qua SMS hoặc Internet để giúp họ phản ứng nhanh hơn.&lt;br>Để Vị trí khẩn cấp cung cấp các dịch vụ cơ bản, tính năng cần kết nối Internet và truy cập vị trí của bạn. Nếu bạn không đồng ý cấp các quyền cần thiết trên, hoặc không cho phép chúng tôi thu thập và sử dụng thông tin này, tính năng sẽ không hoạt động đúng. Bạn có thể chọn không dùng tính năng này, hoặc tắt bất cứ lúc nào để ngừng sử dụng.&lt;br>Hãy đọc và đồng ý với &lt;a href=\"%1$s\">Thông báo người dùng&lt;/a> này và &lt;a href=\"%2$s\">Chính sách quyền riêng tư của Vị trí khẩn cấp&lt;/a> trước khi tiếp tục."</Data></string>
+    <string name="warningcenter_policeassist_privacy_tip_new"><Data>"Sau khi bật Vị trí khẩn cấp, trong trường hợp bạn gọi 110, 120, 119, 122 hoặc 12122, hệ thống sẽ tự động lấy vị trí của bạn và gửi cho cảnh sát qua SMS hoặc Internet để giúp họ phản ứng nhanh hơn.&lt;br>Để Vị trí khẩn cấp cung cấp các dịch vụ cơ bản, tính năng cần kết nối Internet và truy cập vị trí của bạn. Nếu bạn không đồng ý cấp các quyền cần thiết trên, hoặc không cho phép chúng tôi thu thập và sử dụng thông tin này, tính năng sẽ không hoạt động đúng. Bạn có thể chọn không dùng tính năng này, hoặc tắt bất cứ lúc nào để ngừng sử dụng.&lt;br>Hãy đọc và đồng ý với &lt;a href=\"%1$s\">Thông báo người dùng&lt;/a> này và &lt;a href=\"%2$s\">Chính sách quyền riêng tư của Vị trí khẩn cấp&lt;/a> trước khi tiếp tục."</Data></string>
 </resources>

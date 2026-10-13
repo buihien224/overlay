@@ -159,4 +159,9 @@
         <item>Tấn Tài Tấn Lộc</item>
         <item>Tân Niên Đại Cát</item>
     </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>mm</item>
+    </string-array>
 </resources>

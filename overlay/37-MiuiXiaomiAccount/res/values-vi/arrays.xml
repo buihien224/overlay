@@ -79,4 +79,16 @@
         <item>Thỏa thuận Người dùng</item>
         <item>Tài khoản Mi;Tài khoản;Tài khoản Xiaomi;Thỏa thuận Người dùng;EULA</item>
     </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="passport_privacy_dialog_optional_perm_desc">
+        <item>Camera</item>
+    </string-array>
+    <string-array name="passport_privacy_dialog_runtime_perm_desc">
+        <item>For accessing the device phone number to support one-tap sign-in, and when using Lost mode in Find device so calls can be placed to the number you provide</item>
+        <item>For placing calls to the phone number you provide when using Lost mode in Find device</item>
+        <item>For locating your device via Find device</item>
+        <item>"For locating your device via SMS when network connection isn't available"</item>
+        <item>For accessing or storing data related to Find device</item>
+        <item>For requesting the device to play sound in Find device</item>
+    </string-array>
 </resources>

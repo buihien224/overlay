@@ -76,4 +76,16 @@
         <item quantity="other">%d phút trước</item>
         <item quantity="one">1 phút trước</item>
    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Ngay lập tức</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Ngay lập tức</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
 </resources>

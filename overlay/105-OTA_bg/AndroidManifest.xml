@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hypervs.com.ota.bg"
+    package="vsteam.com.ota.bg"
     platformBuildVersionCode="33"
     platformBuildVersionName="13">
 

@@ -76,4 +76,16 @@
         <item quantity="one">%s mục</item>
         <item quantity="other">%s mục</item>
     </plurals>
+    <plurals name="action_description_all_paused">
+        <item quantity="other">Đã tạm dừng %s lượt tải xuống</item>
+    </plurals>
+    <plurals name="action_description_all_start">
+        <item quantity="other">Bắt đầu %s lượt tải xuống</item>
+    </plurals>
+    <plurals name="browser_home_number_items">
+        <item quantity="other">Tổng cộng %d mục</item>
+    </plurals>
+    <plurals name="browser_private_space_set_dialog_content">
+        <item quantity="other">Đặt %d mục thành riêng tư?</item>
+    </plurals>
 </resources>

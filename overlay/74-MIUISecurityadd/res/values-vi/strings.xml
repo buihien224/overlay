@@ -790,4 +790,10 @@ Vui lòng đọc và đồng ý với chính sách cập nhật %s của chúng 
     <string name="chinese_symbol_animals_sheep">Mùi</string>
     <string name="chinese_symbol_animals_snake">Tị</string>
     <string name="chinese_symbol_animals_tiger">Dần</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="ew_monitor_slogan">"Join our earthquake
+monitoring program"</string>
+    <string name="gb_game_qcom_sing">SNAPDRAGON</string>
+    <string name="lucky_back">Back to Red Packet Assistant</string>
 </resources>

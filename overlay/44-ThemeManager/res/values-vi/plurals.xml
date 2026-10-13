@@ -272,7 +272,76 @@
         <item quantity="other">Nhiệt độ: %1$s độ, %2$s</item>
         <item quantity="one">Nhiệt độ: %1$s độ, %2$s</item>
     </plurals>
+    <plurals name="ai_generate_progress">
+        <item quantity="other">Việc này sẽ mất khoảng %s giây.</item>
+    </plurals>
+    <plurals name="ai_wallpaper_input_characters">
+        <item quantity="other">Nhập %1$d–%2$d ký tự</item>
+    </plurals>
+    <plurals name="audio_duration_minutes_format">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="audio_duration_seconds_format">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="author_follow">
+        <item quantity="other">%d đang theo dõi</item>
+    </plurals>
+    <plurals name="days_example">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="hours_example">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">sau %d phút</item>
+    </plurals>
+    <plurals name="kg_history_count_selected">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="kg_history_delete_tip_title">
+        <item quantity="other">Xóa %d mục ngay bây giờ?</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s hình nền</item>
+    </plurals>
+    <plurals name="minutes_example">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="rear_screen_batch_has_update_text">
+        <item quantity="other">Có bản cập nhật cho %1$d mục màn hình sau</item>
+    </plurals>
+    <plurals name="rear_screen_batch_updating_text">
+        <item quantity="other">Đang cập nhật %1$d mục màn hình sau</item>
+    </plurals>
+    <plurals name="rear_signature_max_text_size">
+        <item quantity="other">Nhập tối đa %1$d ký tự</item>
+    </plurals>
+    <plurals name="rear_signature_min_text_size">
+        <item quantity="other">Nhập ít nhất %1$d ký tự</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f điểm</item>
+    </plurals>
+    <plurals name="resource_trial_days">
+        <item quantity="other">" (dùng thử: %1$d ngày)"</item>
+    </plurals>
+    <plurals name="resource_trial_hours">
+        <item quantity="other">" (dùng thử: %1$d giờ)"</item>
+    </plurals>
+    <plurals name="resource_trial_minutes">
+        <item quantity="other">" (dùng thử: %1$d phút)"</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Mức pin hiện là %s phần trăm</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Đang sạc. Mức pin hiện là %d phần trăm.</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Nhiệt độ: %1$s độ, %2$s</item>
+    </plurals>
 </resources>
-
-
-

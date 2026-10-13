@@ -701,4 +701,32 @@
 	<item>Tống Tiểu Bảo</item> 
 	<item>Quách Đức Gang</item>
 </string-array>
+    <string-array name="constellation_array">
+        <item>Không có</item>
+        <item>Bạch Dương</item>
+        <item>Kim Ngưu</item>
+        <item>Song Tử</item>
+        <item>Cự Giải</item>
+        <item>Sư Tử</item>
+        <item>Xử Nữ</item>
+        <item>Thiên Bình</item>
+        <item>Bọ Cạp</item>
+        <item>Nhân Mã</item>
+        <item>Ma Kết</item>
+        <item>Bảo Bình</item>
+        <item>Song Ngư</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="week_header_name_phone_landscape">
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
 </resources>

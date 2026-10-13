@@ -147,4 +147,74 @@
     <plurals name="time_format_min">
         <item quantity="other">%1$s phút</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="display_number_of_devices">
+        <item quantity="other">Only showing the first %s non-trusted devices.</item>
+    </plurals>
+    <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s unverified devices</item>
+    </plurals>
+    <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Too many attempts. Try again in %s seconds.</item>
+    </plurals>
+    <plurals name="micloud_cloud_default_benefit_family_member_limit">
+        <item quantity="other">Share with up to %d family members</item>
+    </plurals>
+    <plurals name="micloud_cloud_default_benefit_recover_days">
+        <item quantity="other">Restore deleted items within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_family_detail">
+        <item quantity="other">Shared with %1$d people. Family members used %2$s.</item>
+    </plurals>
+    <plurals name="micloud_preference_items_count">
+        <item quantity="other">%s items</item>
+    </plurals>
+    <plurals name="micloud_preference_photo_detail">
+        <item quantity="other">%1$s photos</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted">
+        <item quantity="other">Premium members can restore items within %d days of deletion</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_1">
+        <item quantity="other">Users without a membership can restore deleted items within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_2">
+        <item quantity="other">Mega members can restore deleted items within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_3">
+        <item quantity="other">Ultra members can restore deleted items within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_record_detail">
+        <item quantity="other">%s items</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary">
+        <item quantity="other">Users without a membership can restore contacts to any version saved within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_1">
+        <item quantity="other">Premium members can restore contacts to any version saved within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_2">
+        <item quantity="other">Mega members can restore contacts to any version saved within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_3">
+        <item quantity="other">Ultra members can restore contacts to any version saved within %d days</item>
+    </plurals>
+    <plurals name="micloud_preference_video_detail">
+        <item quantity="other">%1$s videos</item>
+    </plurals>
+    <plurals name="not_authenticated_devices">
+        <item quantity="other">You have %s non-trusted devices in total.</item>
+    </plurals>
+    <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Too many attempts. Try again in %d days.</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Sync isn't turned on for %s items"</item>
+    </plurals>
+    <plurals name="verify_code_send_desc_more">
+        <item quantity="other">Enter the verification code sent to %6$d devices including %1$s, %2$s, %3$s, %4$s, and %5$s to continue.</item>
+    </plurals>
+    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Send new code (%ss)</item>
+    </plurals>
 </resources>

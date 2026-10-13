@@ -293,4 +293,33 @@
         <item>Tỷ lệ hoạt ảnh 5x</item>
         <item>Tỷ lệ hoạt ảnh gấp 10 lần</item>
      </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Leave only ACL headers</item>
+        <item>Filter A2DP media packets</item>
+        <item>Filter RFCOMM channel</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Disable</item>
+        <item>Fill with string of characters</item>
+        <item>Leave only header</item>
+        <item>Fully remove</item>
+    </string-array>
+    <string-array name="shade_display_awareness_entries">
+        <item>Device display only (Default)</item>
+        <item>External display</item>
+        <item>Latest status bar touch</item>
+        <item>Focus-based</item>
+    </string-array>
+    <string-array name="shade_display_awareness_summaries">
+        <item>Show shade on device display only</item>
+        <item>Show shade on single external display</item>
+        <item>Show shade on display which last had its status bar interacted with</item>
+        <item>Show shade on last focused display</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
 </resources>

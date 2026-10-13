@@ -393,4 +393,18 @@ Nhấn %2$s để bắt đầu tải xuống vào lần tiếp theo khi bạn k�
     <string name="xl_speedup_notify_button_experience">Dùng thử miễn phí</string>
     <string name="xl_speedup_notify_button_member">Trở thành thành viên</string>
     <string name="yesterday">Hôm qua</string>
+    <string name="accessibility_sliding_button_state_description_off">Đã tắt</string>
+    <string name="accessibility_sliding_button_state_description_on">Đã bật</string>
+    <string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
+    <string name="accessibility_tab_statedesc_unselect">Chưa chọn</string>
+    <string name="calendar_date_picker_a11y_next_month">Chuyển sang tháng sau</string>
+    <string name="calendar_date_picker_a11y_prev_month">Chuyển sang tháng trước</string>
+    <string name="expand_button_title">Nâng cao</string>
+    <string name="mobile_recommended_title">Mức sử dụng dữ liệu di động</string>
+    <string name="recommended_file_size_download_in_mobile">Dùng %s dữ liệu di động để tải tệp này xuống?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Dùng kết nối dữ liệu di động để tải tệp này xuống?</string>
+    <string name="wifi_recommended_body">"Bắt đầu tải %1$s này ngay bây giờ có thể khiến bạn dùng quá nhiều dữ liệu di động, và nhà mạng có thể tính phí tùy theo gói dữ liệu của bạn.
+
+Nhấn %2$s để bắt đầu tải xuống vào lần tới bạn kết nối mạng WLAN."</string>
+    <string name="wifi_recommended_title">Xếp hàng để tải xuống sau?</string>
 </resources>

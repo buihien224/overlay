@@ -721,4 +721,24 @@ mm"</string>
     <string name="chinese_symbol_animals_sheep">Mùi</string>
     <string name="chinese_symbol_animals_snake">Tị</string>
     <string name="chinese_symbol_animals_tiger">Dần</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="air_quality_index_abbreviation">AQI</string>
+    <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+    <string name="format_chs_hour">%s时</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Holiday: %1$s, date according to the traditional Chinese calendar: %2$s</string>
+    <string name="miui_allinone_date_format_date_only">8月25日 周五</string>
+    <string name="miui_allinone_sample_aqi">27 周四|AQI 150</string>
+    <string name="miui_allinone_sample_date_and_lunar">5月16日周五 七月初九</string>
+    <string name="miui_allinone_sample_feelings">27 周四|体感温度 26°</string>
+    <string name="miui_allinone_sample_humidity">27 周四|湿度 35%</string>
+    <string name="miui_allinone_sample_lunar_only">己亥年 十月初二</string>
+    <string name="miui_allinone_sample_stand">27 周四|5/12 次</string>
+    <string name="miui_allinone_sample_steps">27 周四|6315/9000 步</string>
+    <string name="miui_allinone_sample_sunset">27 周四|日落 18:07</string>
+    <string name="miui_allinone_sample_uvi">27 周四|UVI 11 极强</string>
+    <string name="miui_allinone_sample_weather">27 周四|26° 多云转晴</string>
+    <string name="miui_allinone_sample_wind">27 周四|东南风 5级</string>
+    <string name="theme_cate_title">theme</string>
+    <string name="ultraviolet_rays_abbreviation">UVI</string>
 </resources>

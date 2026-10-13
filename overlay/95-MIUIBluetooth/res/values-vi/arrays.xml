@@ -6,4 +6,9 @@
         <item>Mi VR</item>
         <item>Xiaomi Wear</item>
     </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="passport_account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
 </resources>

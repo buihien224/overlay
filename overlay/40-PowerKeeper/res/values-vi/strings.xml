@@ -312,4 +312,30 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="cloud_allow_change_addr">Change auto cloud sync status</string>
+    <string name="cloud_china_addr">Update Chinese server data</string>
+    <string name="cloud_international_addr">Update international server data</string>
+    <string name="cloud_russion_addr">Update Russion server data</string>
+    <string name="cloud_staging_addr">Update staging server data</string>
+    <string name="console_running_notification_content">Please tap this notification, disable the serial console, and reboot your device.</string>
+    <string name="console_running_notification_title">Serial console enabled</string>
+    <string name="current_allow_sync_is">Cloud auto update:</string>
+    <string name="current_cloud_addr_is">Cloud control server address is:</string>
+    <string name="dialog_title">Importance Notice</string>
+    <string name="disable">disabled</string>
+    <string name="enable">enabled</string>
+    <string name="lower_level_reboot">Kernel Abnormal Reboot</string>
+    <string name="lower_prompt_capturelog">"
+Pls capture 284log,upload the dump and submit to JIRA"</string>
+    <string name="not_show_again">Upload automatically next time</string>
+    <string name="submit_dialog_cancel">Cancel</string>
+    <string name="submit_dialog_confirm">Upload</string>
+    <string name="submit_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
+    <string name="submit_dialog_title">An error occurred</string>
+    <string name="update_profile_failture_not_connect_wifi">"Couldn't update. Connect to WLAN and try again."</string>
+    <string name="update_profile_sucess">Updated from server sucessfully</string>
+    <string name="upper_level_reboot">System Server Abnormal Reboot</string>
+    <string name="upper_prompt_capturelog">"
+Pls capture 284log,offlinelog and submit to JIRA"</string>
 </resources>

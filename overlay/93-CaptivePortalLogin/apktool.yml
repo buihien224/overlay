@@ -1,22 +1,16 @@
-version: 2.9.1
+version: 3.0.3
 apkFileName: CaptivePortalLogin.apk
-isFrameworkApk: false
 usesFramework:
   ids:
   - 1
-  tag: null
 sdkInfo:
   minSdkVersion: 33
   targetSdkVersion: 31
-packageInfo:
-  forcedPackageId: 127
-  renameManifestPackage: null
 versionInfo:
   versionCode: 319999900
-  versionName: VS-4.2.ST
-resourcesAreCompressed: false
-sharedLibrary: false
-sparseResources: false
+  versionName: VS-8.0.ST
+resourcesInfo:
+  packageId: 127
 doNotCompress:
+- arsc
 - AndroidManifest.xml
-- resources.arsc

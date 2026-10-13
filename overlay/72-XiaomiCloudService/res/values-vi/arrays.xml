@@ -182,4 +182,15 @@
         <item>Bật đồng bộ</item>
         <item>WLAN;wifi;Wi-Fi;Đám mây;Đồng bộ;Dịch vụ đám mây;Xiaomi Cloud</item>
     </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="settings_search_sync_manage_pad_v2">
+        <item>Xiaomi Cloud. All Xiaomi services in one place.</item>
+        <item>Access your photos and notes from anywhere</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_v2">
+        <item>Xiaomi Cloud. All Xiaomi services in one place.</item>
+        <item>Access your photos, contacts, and messages from anywhere</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
+    </string-array>
 </resources>

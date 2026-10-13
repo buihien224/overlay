@@ -165,4 +165,14 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d người</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="bh_day">
+        <item quantity="other">" days"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" hrs"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" mins"</item>
+    </plurals>
 </resources>

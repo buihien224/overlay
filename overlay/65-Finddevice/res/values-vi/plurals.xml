@@ -28,4 +28,92 @@
         <item quantity="other">%d mục đã được chọn</item>
         <item quantity="one">%d mục đã được chọn</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="code_device_offline_days">
+        <item quantity="other">Offline for %1$d days</item>
+    </plurals>
+    <plurals name="day_ago">
+        <item quantity="other">%1$d days ago</item>
+    </plurals>
+    <plurals name="find_device_detail_distance_range_km">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="find_tag_follow_you">
+        <item quantity="other">Detected %d items near you. Tap to view details.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="other">%1$d hrs ago</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="message_board_max_count_toast">
+        <item quantity="other">Enter up to %d characters</item>
+    </plurals>
+    <plurals name="minute_ago">
+        <item quantity="other">%1$d mins ago</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="name_too_long_please_retry_2">
+        <item quantity="other">You can enter up to %1$d characters</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
+    <plurals name="precise_find_distance">
+        <item quantity="other">%1$s m away</item>
+    </plurals>
+    <plurals name="precise_find_distance_back">
+        <item quantity="other">%1$s m behind</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_left">
+        <item quantity="other">%1$s m behind on the left</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_right">
+        <item quantity="other">%1$s m behind on the right</item>
+    </plurals>
+    <plurals name="precise_find_distance_front">
+        <item quantity="other">%1$s m ahead</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_left">
+        <item quantity="other">%1$s m ahead on the left</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_right">
+        <item quantity="other">%1$s m ahead on the right</item>
+    </plurals>
+    <plurals name="precise_find_distance_left">
+        <item quantity="other">%1$s m to the left</item>
+    </plurals>
+    <plurals name="precise_find_distance_near">
+        <item quantity="other">%1$s m nearby</item>
+    </plurals>
+    <plurals name="precise_find_distance_right">
+        <item quantity="other">%1$s m to the right</item>
+    </plurals>
+    <plurals name="precise_find_volume_reminder_confirm_time">
+        <item quantity="other">Play (%d)</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="other">%1$d weeks ago</item>
+    </plurals>
 </resources>

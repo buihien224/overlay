@@ -338,4 +338,7 @@
     <string name="virtual_reject_notice_title_contacts">%1$s đang truy cập danh bạ</string>
     <string name="virtual_reject_notice_title_phonestate">%1$s đang truy cập thông tin thiết bị</string>
     <string name="virtual_reject_notice_title_sms">%1$s đang truy cập tin nhắn</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="ok">OK</string>
 </resources>

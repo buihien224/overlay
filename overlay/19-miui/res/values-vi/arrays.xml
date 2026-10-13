@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="typhoon_uv_level">
+        <item>Tropical Depression</item>
+        <item>Tropical Storm</item>
+        <item>Severe Tropical Storm</item>
+        <item>Typhoon</item>
+        <item>Severe Typhoon</item>
+        <item>Super Typhoon</item>
+    </string-array>
+</resources>

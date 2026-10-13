@@ -1114,4 +1114,17 @@ Không đóng trang trước khi kết nối được thiết lập."</string>
     <string name="permission_read_write_sys_app1">Cho phép tính năng này truy cập tin nhắn và liên hệ để có thể sao lưu và khôi phục các mục này.</string>
     <string name="permission_read_write_sys_app2">Cho phép tính năng này truy cập liên hệ để có thể sao lưu và khôi phục các mục này.</string>
     <string name="permission_write_storage_pad">Lưu các mục vào lưu trữ</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="passport_auth_fail_warning">Session expired. Sign in again.</string>
+    <string name="passport_error_dup_binded_email">This email address is already associated with another Xiaomi Account.</string>
+    <string name="passport_error_invalid_bind_address">The email address you entered is invalid.</string>
+    <string name="passport_exceed_binded_phone_times_notice">This phone number is already associated with another Xiaomi Account.</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+    <string name="passport_input_email_address_notice">"We'll use this email to verify your account"</string>
+    <string name="passport_resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+    <string name="passport_resend_email_reach_limit_title">Too many attempts</string>
+    <string name="passport_same_new_and_old_pwd">"Can't be the same as current password"</string>
+    <string name="passport_service_error">Server error</string>
+    <string name="passport_sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
 </resources>

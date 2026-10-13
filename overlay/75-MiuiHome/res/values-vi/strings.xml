@@ -1215,5 +1215,15 @@ Tăng cường bảo mật."</string>
     <string name="heavenly_stems_wu">Mậu</string>
     <string name="heavenly_stems_xin">Tân</string>
     <string name="heavenly_stems_yi">Ất</string>
-
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="application_name_poco">POCO Launcher</string>
+    <string name="folder_jp_sb_name">SoftBank</string>
+    <string name="gesture_tap_lock">Double tap to lock screen</string>
+    <string name="global_app_bar_title">Global app bar</string>
+    <string name="home_gesture_content_center_settings">Content Center settings</string>
+    <string name="launcher_xiaoai">Xiaomi Hyper XiaoAi</string>
+    <string name="new_privacy_thumbnail_blur_dim_mode_title">Preview masking in Recents</string>
+    <string name="new_privacy_thumbnail_blur_title">Blur preview for Recents</string>
+    <string name="recents_layout_style_stack">Stack</string>
+    <string name="search_settings_title">Home screen search</string>
 </resources>

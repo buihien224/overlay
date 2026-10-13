@@ -251,4 +251,140 @@
         <item>"Sử dụng dữ liệu di động "</item>
         <item>"Sử dụng Wi-Fi "</item>
     </string-array>
+    <string-array name="anti_peeping_apps_spinner_notify_type">
+        <item>Xiaomi HyperIsland</item>
+        <item>Rung</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>Rất lớn</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="biometric_face_retry">
+        <item>Thử lại bằng dữ liệu khuôn mặt</item>
+        <item>Dùng vân tay hoặc mật khẩu</item>
+    </string-array>
+    <string-array name="ew_alert_feel_title_list">
+        <item>Rung lắc mạnh</item>
+        <item>Rung lắc rõ rệt</item>
+        <item>Rung lắc nhẹ</item>
+        <item>Không rung lắc</item>
+    </string-array>
+    <string-array name="ew_alert_help_safe_title_list">
+        <item>Tìm chỗ trú ẩn!</item>
+        <item>Hãy cảnh giác!</item>
+        <item>Giữ an toàn!</item>
+        <item>Đừng hoảng sợ!</item>
+    </string-array>
+    <string-array name="ew_alert_intensity_list">
+        <item>Rung lắc nhẹ</item>
+        <item>Rung lắc rõ rệt</item>
+        <item>Rung lắc mạnh</item>
+        <item>Rung lắc mạnh</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_new_arrays">
+        <item>Chưa đặt</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_gender_arrays">
+        <item>Chưa đặt</item>
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Có</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Cân bằng</item>
+        <item>Chất lượng cao</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Tốc độ cao</item>
+        <item>Cân bằng</item>
+        <item>Chất lượng cao</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>Tắt tiếng</item>
+        <item>Đồng xu</item>
+        <item>May mắn</item>
+    </string-array>
+    <string-array name="mition_sickness_remind_time_items_text">
+        <item>Khi đang di chuyển</item>
+        <item>Mọi lúc</item>
+    </string-array>
+    <string-array name="pb_manufacturer_names">
+        <item>Ningde Amperex Technology Limited</item>
+        <item>Dongguan Amperex Technology Limited</item>
+        <item>Zhengzhou BAK Battery Co.,Ltd</item>
+        <item>SHANGHAI BYD COMPANY LIMITED</item>
+        <item>Tianjin Lishen Battery Joint-Stock Co., Ltd.</item>
+        <item>Tianjin Lishen Juyuan New Energy Technology Co.,Ltd.</item>
+        <item>Lishen Battery(SuZhou) Co., Ltd.</item>
+        <item>Samsung SDI(Tianjin)Battery Co.,Ltd.</item>
+        <item>EVE Energy Co., Ltd.</item>
+        <item>EVE Innovation Energy Co., Ltd</item>
+        <item>Chengdu EVE Energy Co., Ltd.</item>
+        <item>Ningbo EVE Hyperpower Lithium Batteries Inc.</item>
+        <item>Dongguan Liwinon Energy Technology Co., Ltd.</item>
+        <item>Huizhou Liwinon New Energy Technology Co., Ltd.</item>
+        <item>Zhejiang Liwinon Energy Technology Co., Ltd.</item>
+        <item>Xiamen Ampace Technology Limited</item>
+        <item>Henan Great Power Energy Co., Ltd.</item>
+        <item>Guangzhou Great Power Energy &amp;Technology Co., Ltd.</item>
+        <item>Guangdong Highpower New Energy Technology Co., Ltd.</item>
+        <item>Shenzhen Highpower Technology Co., Ltd.</item>
+        <item>Huizhou Highpower Technology Co., Ltd.</item>
+        <item>Zhuhai CosMX Battery Co., Ltd</item>
+        <item>Zhuhai CosMX Power Jinwan Subsidiary Co., Ltd.</item>
+        <item>Chongqing CosMX Battery Co., Ltd</item>
+        <item>Dongguan Veken Battery Co., Ltd.</item>
+        <item>HuiZhou GanFeng LiEnergy Battery Technology Co.,Ltd.</item>
+        <item>XinYu GanFeng Electronics Co., LTD</item>
+    </string-array>
+    <string-array name="peep_protection_v2_notify_types">
+        <item>Xiaomi HyperIsland</item>
+        <item>Rung</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="peep_protection_v2_notify_types_v2">
+        <item>Xiaomi HyperIsland</item>
+        <item>Rung</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Mặc định</item>
+        <item>Tất cả</item>
+    </string-array>
+    <string-array name="spinner_password_type">
+        <item>Mật khẩu bảo vệ quyền riêng tư</item>
+        <item>Khóa màn hình</item>
+    </string-array>
+    <string-array name="support_carhightemp_device_name">
+        <item>xuanyuan</item>
+        <item>haotian</item>
+        <item>dijun</item>
+        <item>dada</item>
+        <item>bixi</item>
+        <item>goku</item>
+        <item>miro</item>
+        <item>dali</item>
+    </string-array>
 </resources>

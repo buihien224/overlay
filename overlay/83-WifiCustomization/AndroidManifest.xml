@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     android:versionCode="1"
-    android:versionName="1.0"
+    android:versionName="VS-8.0.ST"
     android:compileSdkVersion="34"
     android:compileSdkVersionCodename="14"
-    package="hypervs.com.android.wifi.resources"
+    package="vsteam.com.android.wifi.resources"
     platformBuildVersionCode="34"
     platformBuildVersionName="14">
     <uses-sdk

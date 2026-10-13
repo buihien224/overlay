@@ -1,0 +1,10 @@
+#!/bin/sh
+# aapt2 của apktool 3.x xoá mọi resource không có giá trị mặc định (values/),
+# tức là toàn bộ string chỉ có trong values-vi. --no-resource-removal giữ chúng lại.
+aapt2="$(dirname "$0")/aapt2"
+cmd="$1"
+shift
+if [ "$cmd" = link ]; then
+	exec "$aapt2" link --no-resource-removal "$@"
+fi
+exec "$aapt2" "$cmd" "$@"

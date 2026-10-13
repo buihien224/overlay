@@ -275,4 +275,23 @@ truy cập %s trên thiết bị đã kết nối khác."</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_sliding_button_state_description_off">Turned off</string>
+    <string name="accessibility_sliding_button_state_description_on">Turned on</string>
+    <string name="accessibility_tab_state_description_unselect">Not selected</string>
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="ai_services_network_error_message">"Couldn't connect to the network.
+Check your network settings and try again."</string>
+    <string name="ai_services_title">AI services</string>
+    <string name="calendar_date_picker_a11y_next_month">Change to next month</string>
+    <string name="calendar_date_picker_a11y_prev_month">Change to previous month</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="security_for_pad">Security</string>
+    <string name="security_for_phone">Security</string>
 </resources>

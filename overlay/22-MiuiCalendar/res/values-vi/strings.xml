@@ -1800,4 +1800,46 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="widget_edit_no_subscribe_info">Thông tin này sẽ hiển thị khi bạn không có sự kiện nào</string>
     <string name="widget_edit_subscribe_info">Đăng ký</string>
     <string name="xiaomi_account">Tài khoản Xiaomi</string>
+    <string name="ai_card_amount">Số tiền thanh toán</string>
+    <string name="ai_card_amount_unit">%s nhân dân tệ</string>
+    <string name="ai_card_arrival_time">Giờ đến</string>
+    <string name="ai_card_card_no">Số thẻ</string>
+    <string name="ai_card_check_in_date">Ngày nhận phòng</string>
+    <string name="ai_card_check_out_date">Ngày trả phòng</string>
+    <string name="ai_card_hall">Rạp chiếu</string>
+    <string name="ai_card_room_type">Loại phòng</string>
+    <string name="ai_card_seat">Chỗ ngồi</string>
+    <string name="ai_card_source">Từ %s</string>
+    <string name="ai_card_table_info">Chi tiết bàn</string>
+    <string name="ai_location_error_no_coordinates">Lỗi vị trí điểm đến, vui lòng kiểm tra mạng và thử lại</string>
+    <string name="ai_location_navigate">Dẫn đường</string>
+    <string name="ai_location_taxi">Taxi</string>
+    <string name="calendar_date_picker_a11y_next_month">Chuyển sang tháng sau</string>
+    <string name="calendar_date_picker_a11y_prev_month">Chuyển sang tháng trước</string>
+    <string name="date_of_birth">Sinh nhật của %s</string>
+    <string name="days_left">Còn lại</string>
+    <string name="desk_calendar">Lịch để bàn nổi bật</string>
+    <string name="edit_event_confirm_continue">Tiếp tục chỉnh sửa</string>
+    <string name="edit_event_confirm_discard">Hủy bỏ</string>
+    <string name="end_at">Kết thúc: %s</string>
+    <string name="event_reminder_allday_day_zero_annver">Trong ngày</string>
+    <string name="hint_what_smart_input">Thử \"Họp lúc %s ngày mai\"</string>
+    <string name="lunar_birthday_desc">Lịch truyền thống Trung Quốc</string>
+    <string name="month_title_date_format">\'Tháng\' M</string>
+    <string name="no_location_hint">Không tìm thấy kết quả</string>
+    <string name="no_location_network">Không thể kết nối mạng</string>
+    <string name="no_title">Không có tiêu đề</string>
+    <string name="panel_title_start">Bắt đầu</string>
+    <string name="pass_day">Đã qua</string>
+    <string name="privacy_update_message">"Khi nhấn \"Đồng ý\", bạn đồng ý với (click)Chính sách quyền riêng tư của Lịch(/click):
+
+Để mang lại trải nghiệm tốt hơn, giờ bạn có thể chọn địa điểm khi tạo sự kiện. Tính năng tìm kiếm và đề xuất địa điểm do dịch vụ bản đồ bên thứ ba cung cấp."</string>
+    <string name="privacy_update_title">Chính sách quyền riêng tư đã cập nhật</string>
+    <string name="search_location_hint">Nhập địa điểm</string>
+    <string name="start_at">Bắt đầu: %s</string>
+    <string name="withdraw_consent_button_withdraw">Rút lại</string>
+    <string name="withdraw_consent_message">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Lịch. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã thu thập và lưu giữ sẽ bị xóa trong thời hạn cụ thể theo luật và quy định hiện hành, trừ khi có yêu cầu khác.
+Vì Lịch cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại sự đồng ý sẽ được coi là từ chối chấp nhận dịch vụ của Lịch. Rút lại sự đồng ý ngay bây giờ?"</string>
+    <string name="withdraw_consent_preference_title">Rút lại sự đồng ý</string>
+    <string name="withdraw_consent_title">Rút lại sự đồng ý</string>
 </resources>

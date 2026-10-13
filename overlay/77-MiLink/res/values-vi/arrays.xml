@@ -50,4 +50,63 @@
         <item>Liên thông/Thông báo</item>
         <item>Thông báo đa thiết bị</item>
     </string-array>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string-array name="common_week_array">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="settings_search_mi_share">
+        <item>Xiaomi Share</item>
+        <item>Interconnectivity/Xiaomi Share</item>
+        <item>Xiaomi Share</item>
+    </string-array>
+    <string-array name="settings_search_mi_share_tap_share">
+        <item>Touch to share</item>
+        <item>Interconnectivity/Touch to share</item>
+        <item>Touch to share</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Shared connectivity</item>
+        <item>Interconnectivity/Shared connectivity</item>
+        <item>Shared connectivity</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Network sync</item>
+        <item>Interconnectivity/Network sync</item>
+        <item>Network sync</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast">
+        <item>Cast</item>
+        <item>Interconnectivity/Cast</item>
+        <item>Cast, Minimize window, Cast with screen off</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast_help">
+        <item>Help</item>
+        <item>Interconnectivity/Cast/Help</item>
+        <item>Help</item>
+    </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Cross-device camera</item>
+        <item>Interconnectivity/Cross-device camera</item>
+        <item>Cross-device camera</item>
+    </string-array>
+    <string-array name="settings_search_share_file">
+        <item>Cross-device files</item>
+        <item>Interconnectivity/Cross-device files</item>
+        <item>Cross-device files</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Cross-device payments</item>
+        <item>Interconnectivity/Cross-device payments</item>
+        <item>Cross-device payments;pay across devices</item>
+    </string-array>
 </resources>

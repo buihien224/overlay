@@ -60,4 +60,11 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="island_traffic_red_title">
+        <item quantity="other">Red light: %1$d secs</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+    </plurals>
 </resources>

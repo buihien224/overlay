@@ -9,4 +9,14 @@
         <item>1,5x</item>
         <item>2x</item>
     </string-array>
+    <string-array name="kg_glass_filters">
+        <item>Gốc</item>
+        <item>Làm mờ</item>
+        <item>Sọc dọc</item>
+        <item>Gân nổi</item>
+        <item>Lăng kính</item>
+        <item>Rãnh</item>
+        <item>Sóng</item>
+        <item>Ô vuông</item>
+    </string-array>
 </resources>

@@ -14,4 +14,16 @@
     <string name="google_map">Bản đồ</string>
     <string name="google_open">Mở</string>
     <string name="google_translate">Dịch</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="ai_content_description">AI Writing</string>
+    <string name="ask_hyper_xiaoai">Ask</string>
+    <string name="call">Call</string>
+    <string name="google_check">View</string>
+    <string name="google_read">Read aloud</string>
+    <string name="google_track">Track</string>
+    <string name="open">Open</string>
+    <string name="translate">Translate</string>
+    <string name="translation_more">More</string>
+    <string name="translation_query_error">"Couldn't find results"</string>
+    <string name="translation_query_error_network">"Couldn't get info, check network connection and try again"</string>
 </resources>

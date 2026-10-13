@@ -184,4 +184,44 @@
     <plurals name="whatsapp_file_audio_dec">
         <item quantity="other">%1$s tập tin âm thanh</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Selected %d apps to clear data</item>
+    </plurals>
+    <plurals name="compress_duplicate_file_results">
+        <item quantity="other">Compressed %d sets of duplicate files</item>
+    </plurals>
+    <plurals name="expected_compress">
+        <item quantity="other">%d sets of duplicate files</item>
+    </plurals>
+    <plurals name="groupCount">
+        <item quantity="other">%d sets</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Delete %d installation packages</item>
+    </plurals>
+    <plurals name="repeated_file_compression_dc_subtitle">
+        <item quantity="other"><Data>&lt;font color=#0097FF>%d&lt;/font> sets of duplicate files</Data></item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Selected %d apps to reset</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Enough for %d photos</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Enough for %d songs</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Selected %d apps</item>
+    </plurals>
+    <plurals name="summary_delete_apk">
+        <item quantity="other">Permanently delete %d selected APKs?</item>
+    </plurals>
+    <plurals name="uninstall_apps">
+        <item quantity="other">Uninstall %1$d apps including %2$s</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d apps with cached videos</item>
+    </plurals>
 </resources>

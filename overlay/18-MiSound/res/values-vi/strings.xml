@@ -627,4 +627,9 @@
     <string name="wireless_transmission_definition">Truyền âm thanh micro điện thoại đến thiết bị Bluetooth bên ngoài</string>
     <string name="wireless_transmission_prompt">Để truyền âm thanh, loa không dây cần bật Bluetooth. Bật bây giờ?</string>
     <string name="yesterday">Hôm qua</string>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="sound_id_music_one_title">Rainy city</string>
+    <string name="sound_id_music_three_title">Trace</string>
+    <string name="sound_id_music_two_title">Night fever</string>
 </resources>

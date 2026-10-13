@@ -66,4 +66,35 @@
     <plurals name="session_time_remain">
         <item quantity="other">Còn lại khoảng %s phút</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
+    <plurals name="backup_frequence_days">
+        <item quantity="other">Every %d days</item>
+    </plurals>
+    <plurals name="backup_options_summary_format">
+        <item quantity="other">%1$d/%2$d items</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_message">
+        <item quantity="other">Backup is off for %2$d items including %1$s. To back up, select in \"Backed up items\".</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_title">
+        <item quantity="other">"%d apps aren't backed up"</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d days since last backup | New data: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d days since last backup</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_1">
+        <item quantity="other">Restored %d items</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_2">
+        <item quantity="other">"Couldn't restore %d items"</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_1">
+        <item quantity="other">Restored %d items</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_2">
+        <item quantity="other">"Couldn't restore %d items"</item>
+    </plurals>
 </resources>

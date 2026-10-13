@@ -236,4 +236,58 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Đã chia sẻ %d mạng</item>
     </plurals>
+    <plurals name="enter_digit_password_max_length">
+        <item quantity="other">Bạn có thể nhập tối đa %1$d chữ số</item>
+    </plurals>
+    <plurals name="enter_digit_password_min_length">
+        <item quantity="other">Nhập ít nhất %1$d chữ số</item>
+    </plurals>
+    <plurals name="enter_mix_password_max_length">
+        <item quantity="other">Bạn có thể nhập tối đa %d ký tự</item>
+    </plurals>
+    <plurals name="enter_mix_password_min_chars">
+        <item quantity="other">Nhập ít nhất %1$d ký tự</item>
+    </plurals>
+    <plurals name="keyguard_lock_too_many_attempts">
+        <item quantity="other">Quá nhiều lần thử. Thử lại sau %d giây.</item>
+    </plurals>
+    <plurals name="miui_sos_launching_summary_new">
+        <item quantity="other">Kích hoạt SOS khẩn cấp sau %d giây</item>
+    </plurals>
+    <plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%2$d ứng dụng, bao gồm %1$s</item>
+    </plurals>
+    <plurals name="notification_frequency_summary">
+        <item quantity="other">Khoảng %d mục mỗi ngày</item>
+    </plurals>
+    <plurals name="pluto_switch_headset_anti_lost_with_fall_summary">
+        <item quantity="other">Nhận lời nhắc nếu tai nghe bị rơi, hoặc bạn không đeo và tai nghe ở ngoài hộp sạc quá %d phút</item>
+    </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Bạn có thể rút lại sự đồng ý sau %d giây</item>
+    </plurals>
+    <plurals name="remaining_attempts_message">
+        <item quantity="other">Còn %1$d lần thử</item>
+    </plurals>
+    <plurals name="rp_time_hours">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="rp_time_minutes">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="screen_timeout_summary_minute">
+        <item quantity="other">Sau %d phút không hoạt động</item>
+    </plurals>
+    <plurals name="screen_timeout_summary_second">
+        <item quantity="other">Sau %d giây không hoạt động</item>
+    </plurals>
+    <plurals name="search_app_hint">
+        <item quantity="other">Tìm kiếm trong %d ứng dụng</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Mức pin hiện là %s phần trăm</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Đang sạc. Mức pin hiện là %d phần trăm.</item>
+    </plurals>
 </resources>

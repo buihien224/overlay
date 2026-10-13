@@ -91,4 +91,16 @@
     <plurals name="weather_temperature_desc">
         <item quantity="other">Nhiệt độ: %1$s độ, %2$s</item>
     </plurals>
+    <plurals name="accessibility_descriptions_signal_strength">
+        <item quantity="other">Cường độ tín hiệu: %1$d trên %2$d vạch</item>
+    </plurals>
+    <plurals name="notification_number">
+        <item quantity="other">%d thông báo</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Mức pin hiện là %s phần trăm</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Đang sạc. Mức pin hiện là %d phần trăm.</item>
+    </plurals>
 </resources>
