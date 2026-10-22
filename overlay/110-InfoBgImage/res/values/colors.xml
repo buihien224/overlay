@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Card mờ trên ảnh nền ở light mode (gốc #ffffff, đặc) -->
+    <color name="my_device_info_item_background_color">#99ffffff</color>
+    <!-- Logo HyperOS và chữ phiên bản: màu cố định, VS Tools thay màu giữ chỗ
+         (logo #fe0d0e0f, chữ #fe0a0b0c) theo độ sáng của ảnh nền đã chọn -->
+    <color name="instructions_text_color_append">#fe0a0b0c</color>
+</resources>
