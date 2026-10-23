@@ -33,15 +33,19 @@ recp() {
 	{
 		java -jar "$dir/bin/apktool.jar" b -f "$dir/overlay/$apkp" --aapt "$dir/bin/aapt2-overlay" -o output/$apk2.temp &&
 		./bin/zipalign -p 4 output/$apk2.temp output/$apk2.apk &&
-		apksigner sign --ks "$dir/bin/miuivs" --ks-pass pass:linkcute output/$apk2.apk
+		apksigner sign --ks "$dir/bin/miuivs" --ks-pass pass:linkcute output/$apk2.apk &&
+		apksigner verify output/$apk2.apk
 	} > $log 2>&1
+	ok=$?
 	rm -rf output/$apk2.temp output/$apk2.apk.idsig
 
-	if [[ -f output/$apk2.apk ]]; then
+	# APK chưa ký vẫn tồn tại khi apksigner lỗi, nên phải dựa vào exit code
+	if [[ $ok -eq 0 ]]; then
 		rm -f $log
 		echo -e "\e[92mSuccess\e[0m $apkp"
 	else
 		echo $1 : $apk2 >> "$dir/error.log"
+		rm -f output/$apk2.apk
 		echo -e "\e[91mFail\e[0m $apkp"
 		grep -i 'error' $log | head -5
 		return 1
