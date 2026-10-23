@@ -133,114 +133,114 @@
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">Đang nhận %2$d tập tin nén (%3$s) từ %1$s…</item>
     </plurals>
-    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
     <plurals name="filter_images_ratio_unsupport_v2">
-        <item quantity="other">Filtered out %d unsupported items</item>
+        <item quantity="other">Đã lọc ra %d mục không được hỗ trợ</item>
     </plurals>
     <plurals name="filter_images_unsupport_v2">
-        <item quantity="other">Filtered out %d unsupported items</item>
+        <item quantity="other">Đã lọc ra %d mục không được hỗ trợ</item>
     </plurals>
     <plurals name="legendary_render_notice_v2">
-        <item quantity="other">"Processing will take about %1$d secs. Waiting in the background won't affect processing.
-Check status in \"Recent tasks\"."</item>
+        <item quantity="other">"Xử lý sẽ mất khoảng %1$d giây. Chờ trong nền sẽ không ảnh hưởng đến quá trình xử lý.
+Kiểm tra trạng thái trong \"Nhiệm vụ gần đây\"."</item>
     </plurals>
     <plurals name="live_photo_remover_over_limit_2">
-        <item quantity="other">"You can process up to %d tasks at the same time. Wait until they're complete before adding more."</item>
+        <item quantity="other">Bạn có thể xử lý tối đa %d nhiệm vụ cùng một lúc. Chờ cho đến khi hoàn tất trước khi thêm nhiệm vụ khác.</item>
     </plurals>
     <plurals name="live_photo_remover_over_limit_3">
-        <item quantity="other">Only live moments within %d secs are supported. Select another photo and try again.</item>
+        <item quantity="other">Chỉ hỗ trợ khoảnh khắc trực tiếp trong vòng %d giây. Chọn ảnh khác và thử lại.</item>
     </plurals>
     <plurals name="mark_doodle_max_node">
-        <item quantity="other">You can add up to %d stickers</item>
+        <item quantity="other">Bạn có thể thêm tối đa %d nhãn dán</item>
     </plurals>
     <plurals name="mark_shape_max_node">
-        <item quantity="other">Add up to %d shapes</item>
+        <item quantity="other">Thêm tối đa %d hình dạng</item>
     </plurals>
     <plurals name="mark_signature_max_node">
-        <item quantity="other">You can add up to %d signatures</item>
+        <item quantity="other">Bạn có thể thêm tối đa %d chữ ký</item>
     </plurals>
     <plurals name="mark_text_max_node">
-        <item quantity="other">You can add up to %d text boxes</item>
+        <item quantity="other">Bạn có thể thêm tối đa %d hộp văn bản</item>
     </plurals>
     <plurals name="photo_agent_ai_points_cancel_dialog_notice">
-        <item quantity="other">"You've used %d times for free. Stop anyway?"</item>
+        <item quantity="other">Bạn đã sử dụng %d lần miễn phí. Vẫn dừng?</item>
     </plurals>
     <plurals name="photo_agent_ai_points_cancel_dialog_notice_2">
-        <item quantity="other">"You've used %d points. Stop anyway?"</item>
+        <item quantity="other">Bạn đã sử dụng %d điểm. Vẫn dừng?</item>
     </plurals>
     <plurals name="photo_agent_ai_points_point_cost_hint">
-        <item quantity="other">This will cost %d points</item>
+        <item quantity="other">Điều này sẽ tốn %d điểm</item>
     </plurals>
     <plurals name="photo_agent_ai_points_remaining_count">
-        <item quantity="other">%d times</item>
+        <item quantity="other">%d lần</item>
     </plurals>
     <plurals name="photo_agent_ai_points_total_count">
-        <item quantity="other">%d times</item>
+        <item quantity="other">%d lần</item>
     </plurals>
     <plurals name="photo_crop_talkback_px">
-        <item quantity="other">%d pixels</item>
+        <item quantity="other">%d pixel</item>
     </plurals>
     <plurals name="photo_editor_livephoto_enhance_notification_complete_msg">
-        <item quantity="other">Completed %d tasks. Tap to view.</item>
+        <item quantity="other">Đã hoàn thành %d nhiệm vụ. Chạm để xem.</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_distortion_value">
-        <item quantity="other">Distortion: %d</item>
+        <item quantity="other">Biến dạng: %d</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_horizontal_value">
-        <item quantity="other">Horizontal: %d degrees</item>
+        <item quantity="other">Ngang: %d độ</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_vertical_value">
-        <item quantity="other">Vertical: %d degrees</item>
+        <item quantity="other">Dọc: %d độ</item>
     </plurals>
     <plurals name="photo_editor_video_generation_loading_page_msg">
-        <item quantity="other">"Effect generation may take %d seconds. Leaving the app won't affect the progress. You'll get a notification when it's ready."</item>
+        <item quantity="other">Tạo hiệu ứng có thể mất %d giây. Thoát khỏi ứng dụng sẽ không ảnh hưởng đến tiến trình. Bạn sẽ nhận được thông báo khi hiệu ứng đã sẵn sàng.</item>
     </plurals>
     <plurals name="photo_editor_video_generation_loading_page_msg_v2">
-        <item quantity="other">"This takes about %d seconds. Tap \"Wait\" to continue in the background. You'll receive a notification when this task is complete."</item>
+        <item quantity="other">Điều này mất khoảng %d giây. Chạm \"Chờ\" để tiếp tục trong nền. Bạn sẽ nhận được thông báo khi nhiệm vụ hoàn tất.</item>
     </plurals>
     <plurals name="video_ai_auto_limit1">
-        <item quantity="other">"Can't process more than %d clips at a time"</item>
+        <item quantity="other">Không thể xử lý nhiều hơn %d clip cùng lúc</item>
     </plurals>
     <plurals name="video_ai_auto_limit2">
-        <item quantity="other">"Can't process clips longer than %d minutes"</item>
+        <item quantity="other">Không thể xử lý các clip dài hơn %d phút</item>
     </plurals>
     <plurals name="video_editor_tip_track_limit">
-        <item quantity="other">You can add up to %d tracks</item>
+        <item quantity="other">Bạn có thể thêm tối đa %d bài hát</item>
     </plurals>
     <plurals name="video_tuning_audio_limit">
-        <item quantity="other">You can process up to %1$d mins at a time, or trim video and try again</item>
+        <item quantity="other">Bạn có thể xử lý tối đa %1$d phút cùng một lúc hoặc cắt video và thử lại</item>
     </plurals>
     <plurals name="vlog_audio_origin_sound">
-        <item quantity="other">Original audio %1$d</item>
+        <item quantity="other">Âm thanh gốc %1$d</item>
     </plurals>
     <plurals name="vlog_clip_cut_fail_min_time">
-        <item quantity="other">Clips must be at least %1$s seconds</item>
+        <item quantity="other">Clip phải dài ít nhất %1$s giây</item>
     </plurals>
     <plurals name="vlog_filter_audio_unsupport_audio_file">
-        <item quantity="other">Filtered out %d unsupported audio files</item>
+        <item quantity="other">Đã lọc ra %d tập tin âm thanh không được hỗ trợ</item>
     </plurals>
     <plurals name="vlog_filter_diy_lut_import_success_toast">
-        <item quantity="other">Imported %1$d filters successfully</item>
+        <item quantity="other">Nhập %1$d bộ lọc thành công</item>
     </plurals>
     <plurals name="vlog_filter_no_support_nums">
-        <item quantity="other">Filtered out %d unsupported items</item>
+        <item quantity="other">Đã lọc ra %d mục không được hỗ trợ</item>
     </plurals>
     <plurals name="vlog_generate_loading_notice2">
-        <item quantity="other">About %s mins remaining. You can keep using other features in the meantime.</item>
+        <item quantity="other">Còn khoảng %s phút. Bạn có thể tiếp tục sử dụng các tính năng khác trong thời gian chờ đợi.</item>
     </plurals>
     <plurals name="vlog_import_minutes_limit">
-        <item quantity="other">"Duration exceeds %d mins now. "</item>
+        <item quantity="other">"Thời lượng hiện đã vượt quá %d phút. "</item>
     </plurals>
     <plurals name="vlog_import_minutes_no_support_nums">
-        <item quantity="other">Filtered out %d unsupported items</item>
+        <item quantity="other">Đã lọc ra %d mục không được hỗ trợ</item>
     </plurals>
     <plurals name="vlog_no_support_duration">
-        <item quantity="other">"Couldn't import. Duration exceeds %d mins."</item>
+        <item quantity="other">Không thể nhập. Thời lượng vượt quá %d phút.</item>
     </plurals>
     <plurals name="vlog_talkback_crop_scale_value">
-        <item quantity="other">Rotate %d degrees</item>
+        <item quantity="other">Xoay %d độ</item>
     </plurals>
     <plurals name="vlog_template_support_count_desc">
-        <item quantity="other">%d clips</item>
+        <item quantity="other">%d clip</item>
     </plurals>
+    <!-- ===== CHƯA DỊCH (bin/missing.py) ===== -->
 </resources>

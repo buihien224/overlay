@@ -2046,7 +2046,7 @@ Nếu bạn đã thực hiện bất kỳ điều nào ở trên, hãy thêm l�
     <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
     <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
     <string name="bounce_keys">Phím nảy</string>
-    <string name="bounce_keys_summary">Bàn phím sẽ bỏ qua các lần nhấn nhanh liên tục cùng một phím trong %1$d mili giây</string>
+    <string name="bounce_keys_summary">Bỏ qua các lần nhấn lặp lại nhanh cùng một phím</string>
     <string name="breathing_light_color_menu_title">Màu đèn</string>
     <string name="breathing_light_color_summary">Màu đèn khi nhận thông báo mới</string>
     <string name="breathing_light_freq_summary">Đặt khoảng thời gian nhấp nháy cho bi xoay</string>
@@ -9155,7 +9155,7 @@ Chạm hai lần để mở Gần đây."</string>
     <string name="slot_number">" (Khe cắm %1$d)"</string>
     <string name="slot_status_title">Thông tin IMEI</string>
     <string name="slow_keys">Phím chậm</string>
-    <string name="slow_keys_summary">Điều chỉnh thời gian cần để kích hoạt lượt nhấn phím thành %1$d mili giây</string>
+    <string name="slow_keys_summary">Thay đổi thời gian cần giữ một phím trước khi phím được ghi nhận</string>
     <string name="small_window_not_support_add_data_toast">Không thể ghi dữ liệu trong cửa sổ nổi. Chuyển sang chế độ toàn màn hình và thử lại.</string>
     <string name="smallwindow_smartcover_title">Vỏ bảo vệ có cửa sổ nhỏ</string>
     <string name="smart_battery_footer">Khi Trình quản lý pin phát hiện thấy các ứng dụng đang tiêu hao pin, bạn có thể hạn chế những ứng dụng này. Các ứng dụng bị hạn chế có thể không hoạt động bình thường và thông báo có thể bị chậm trễ.</string>
@@ -11941,7 +11941,7 @@ Khi bạn tắt chế độ Không làm phiền, hãy tìm các thông báo đã
 <string name="accessibility_pointer_and_touchpad_title">Trợ năng con trỏ &amp; bàn di chuột</string>
 <string name="accessibility_pointer_color_customization_title">Màu con trỏ</string>
 <string name="accessibility_pointer_title">Con trỏ</string>
-<string name="accessibility_screen_magnification_keyboard_summary">&lt;b&gt;Cách phóng to bằng bàn phím:&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Sử dụng phím tắt để bắt đầu phóng to&lt;br/&gt; {1,number,integer}. Giữ &lt;xliff:g id=meta1&gt;%1$s&lt;/xliff:g&gt; và &lt;xliff:g id=alt1&gt;%2$s&lt;/xliff:g&gt; rồi nhấn + hoặc - để phóng to hoặc thu nhỏ&lt;br/&gt; {2,number,integer}. Giữ &lt;xliff:g id=meta2&gt;%3$s&lt;/xliff:g&gt; và &lt;xliff:g id=alt2&gt;%4$s&lt;/xliff:g&gt; rồi nhấn phím mũi tên để di chuyển&lt;br/&gt; {3,number,integer}. Sử dụng phím tắt để dừng phóng to</string>
+<string name="accessibility_screen_magnification_keyboard_summary">&lt;b>Để phóng to:&lt;/b>&lt;br/> {0,number,integer}. Dùng phím tắt hoặc nhấn &lt;xliff:g id=meta>%1$s&lt;/xliff:g> + &lt;xliff:g id=alt>%2$s&lt;/xliff:g> + M để bắt đầu phóng to&lt;br/> {1,number,integer}. Nhấn &lt;xliff:g id=meta>%1$s&lt;/xliff:g> + &lt;xliff:g id=alt>%2$s&lt;/xliff:g> + phím mũi tên để di chuyển trên màn hình&lt;br/> {2,number,integer}. Nhấn &lt;xliff:g id=meta>%1$s&lt;/xliff:g> + &lt;xliff:g id=alt>%2$s&lt;/xliff:g> và \"+\" hoặc \"-\" để điều chỉnh mức thu phóng&lt;br/> {3,number,integer}. Dùng phím tắt hoặc &lt;xliff:g id=meta>%1$s&lt;/xliff:g> + &lt;xliff:g id=alt>%2$s&lt;/xliff:g> + M để dừng phóng to</string>
 <string name="accessibility_screen_magnification_summary_one_finger_panning_off">&lt;b&gt;Cách phóng to:&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Dùng phím tắt để bắt đầu&lt;br/&gt; {1,number,integer}. Chạm vào màn hình&lt;br/&gt; {2,number,integer}. Kéo 2 ngón tay để di chuyển&lt;br/&gt; {3,number,integer}. Chụm 2 ngón tay để điều chỉnh mức phóng&lt;br/&gt; {4,number,integer}. Dùng phím tắt để dừng&lt;br/&gt;&lt;br/&gt; Bạn cũng có thể phóng to tạm thời và hơn thế nữa.</string>
 <string name="accessibility_screen_magnification_summary_one_finger_panning_on">&lt;b&gt;Cách phóng to:&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Dùng phím tắt để bắt đầu&lt;br/&gt; {1,number,integer}. Chạm vào màn hình&lt;br/&gt; {2,number,integer}. Kéo 1 hoặc 2 ngón tay để di chuyển&lt;br/&gt; {3,number,integer}. Chụm 2 ngón tay để điều chỉnh mức phóng&lt;br/&gt; {4,number,integer}. Dùng phím tắt để dừng&lt;br/&gt;&lt;br/&gt; Bạn cũng có thể phóng to tạm thời và hơn thế nữa.</string>
 <string name="accessibility_send_feedback_title">Gửi phản hồi</string>

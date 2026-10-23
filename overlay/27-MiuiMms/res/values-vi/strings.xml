@@ -296,7 +296,7 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="empty" />
     <string name="enable_classify_tip_dialog_content">Điều này sẽ khởi chạy lại ứng dụng Tin nhắn. Vẫn tiếp tục?</string>
     <string name="enabled">Bật</string>
-    <string name="english_subject_limit">%d ký tự</string>
+    <string name="english_subject_limit">40 ký tự</string>
     <string name="enter_edit_mode">Chỉnh sửa tin nhắn</string>
     <string name="eras_ad">Sau Công Nguyên</string>
     <string name="eras_bc">Trước Công Nguyên</string>
@@ -745,7 +745,7 @@ Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn
     <string name="no_network_description">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="no_subject">(Không có chủ đề)</string>
     <string name="no_subject_view">(Không có chủ đề)</string>
-    <string name="non_english_subject_limit">%d ký tự</string>
+    <string name="non_english_subject_limit">13 ký tự</string>
     <string name="noon">Buổi trưa</string>
     <string name="nosend_message">Không gửi</string>
     <string name="not_prepare_for_send">Không có tin nhắn để gửi</string>

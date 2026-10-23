@@ -980,8 +980,8 @@ Hãy nghỉ ngơi!"</item>
         <item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập dữ liệu thực tế ảo %2$d lần</item>
     </plurals>
     <plurals name="permission_usage_deny_wake_path">
-        <item quantity="one">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$d lần</item>
-        <item quantity="other">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$d lần</item>
+        <item quantity="one">%1$s | Ứng dụng này bị từ chối tự khởi động %2$s %3$d lần</item>
+        <item quantity="other">%1$s | Ứng dụng này bị từ chối tự khởi động %2$s %3$d lần</item>
     </plurals>
     <plurals name="permission_usage_deny_wakepath">
         <item quantity="one">%1$s | Đã từ chối %2$d lần</item>

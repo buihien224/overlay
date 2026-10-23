@@ -1023,9 +1023,9 @@ Hãy nhấn để biết thêm thông tin"</string>
     <string name="keyguard_charged">Đã sạc đầy</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Tăng tốc tốc độ sạc %s</string>
-    <string name="keyguard_charging_normal_and_level_tip">Đang sạc %d%%</string>
-    <string name="keyguard_charging_quick_and_level_tip">Sạc nhanh %d%%</string>
-    <string name="keyguard_charging_super_quick_and_level_tip">Sạc siêu nhanh %d%%</string>
+    <string name="keyguard_charging_normal_and_level_tip">Đang sạc %s</string>
+    <string name="keyguard_charging_quick_and_level_tip">Sạc nhanh %s</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Sạc siêu nhanh %s</string>
     <string name="keyguard_editor_super_save_mode_toast">Không thể sửa Màn hình khóa khi Tiết kiệm pin tối ưu đang bật</string>
     <string name="keyguard_enter_password">Nhập mật khẩu</string>
     <string name="keyguard_enter_pattern">Vẽ hình mở khoá</string>

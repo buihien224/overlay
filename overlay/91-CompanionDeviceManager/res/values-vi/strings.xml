@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="actionbar_button_up_description">Quay lại</string>
     <string name="app_label">Trình quản lý thiết bị đồng hành</string>
-    <string name="chooser_title">Chọn %1$s được quản lý bởi &lt;strong>%2$s&lt;/strong></string>
+    <string name="chooser_title">Chọn %1$s để thiết lập</string>
     <string name="confirmation_title">Cho phép &lt;strong>%1$s&lt;/strong> truy cập vào &lt;strong>%2$s&lt;/strong></string>
     <string name="consent_back">Quay lại</string>
     <string name="consent_no">Không cho phép</string>
@@ -51,7 +51,7 @@
     <string name="profile_name_watch">Đồng hồ</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_watch">Cần có ứng dụng này để quản lý %1$s của bạn. %2$s sẽ được phép tương tác với thông báo của bạn và truy cập vào các quyền của Điện thoại, Tin nhắn, Danh bạ, Lịch, Nhật ký cuộc gọi và các quyền của Thiết bị lân cận.</string>
+    <string name="summary_watch">Ứng dụng này sẽ được phép đồng bộ thông tin, chẳng hạn như tên người gọi, và truy cập các quyền sau trên %1$s của bạn</string>
     <string name="title_app_streaming">Cho phép &lt;strong>%1$s&lt;/strong> truy cập thông tin này từ điện thoại của bạn</string>
     <string name="vendor_header_button_description">Nút Thông tin thêm</string>
     <string name="vendor_icon_description">Biểu tượng ứng dụng</string>

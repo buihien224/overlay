@@ -471,13 +471,8 @@ bạn nên tạo một bản sao lưu iCloud trước."</string>
     <string name="new_local_button_backup">Sao lưu</string>
     <string name="new_local_button_restore">Khôi phục</string>
     <string name="new_local_click_to_jump">Chạm để xem hướng dẫn chi tiết</string>
-    <string name="new_local_detail_description">"Ghi chú:
-%1$d. Sao chép sao lưu đến máy tính để tránh mất mát dữ liệu. %2$s.
-%3$d. Sao lưu sẽ được sao lưu đến MIUI-Backup-AllBackup."</string>
-    <string name="new_local_detail_description_global">"Ghi chú:
-%1$d. Sao chép sao lưu đến máy tính để tránh mất mát dữ liệu. %2$s.
-%3$d. Sao lưu sẽ được lưu đến MIUI-Backup-AllBackup.
-%4$d. Một số ứng dụng có thể không hỗ trợ sao lưu."</string>
+    <string name="new_local_detail_description">Lưu ý: Hãy sao chép bản sao lưu sang máy tính để tránh mất dữ liệu. (click)Nhấn để xem hướng dẫn chi tiết(/click). Bản sao lưu sẽ được lưu vào MIUI > backup > AllBackup.</string>
+    <string name="new_local_detail_description_global">Lưu ý: Hãy sao chép bản sao lưu sang máy tính để tránh mất dữ liệu. (click)Nhấn để xem hướng dẫn chi tiết(/click). Bản sao lưu sẽ được lưu vào MIUI > backup > AllBackup. Một số ứng dụng có thể không sao lưu hoặc khôi phục được.</string>
     <string name="new_local_tab_backup">Sao lưu</string>
     <string name="new_local_tab_backup_pad">Sao lưu</string>
     <string name="new_local_tab_restore">Khôi phục</string>

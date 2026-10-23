@@ -1249,7 +1249,7 @@ Quyền này có thể được quản lý trong [Cài đặt-Cài đặt quyề
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
     <string name="resource_title_subject">Câu chuyện</string>
     <string name="resource_trial_days">（Thời gian dùng thử là %1$d ngày)</string>
-    <string name="resource_trial_days_hours">(Thời gian dùng thử là %1$d ngày%2$d giờ)</string>
+    <string name="resource_trial_days_hours">" (dùng thử: %1$s %2$s)"</string>
     <string name="resource_trial_end_get_mibi">Nhận xu</string>
     <string name="resource_trial_end_jump_hint">Mở trang nhận xu</string>
     <string name="resource_trial_end_message">《%1$s》Bản dùng thử đã hết hạn. Nếu bạn thích tài nguyên này, vui lòng mua</string>
@@ -1263,7 +1263,7 @@ Quyền này có thể được quản lý trong [Cài đặt-Cài đặt quyề
 Vui lòng bật nút chuyển "Tự động xác định ngày giờ". "</string>
     <string name="resource_trial_fail_title">Dùng thử thất bại</string>
     <string name="resource_trial_hours">(Thời gian dùng thử là %1$d giờ)</string>
-    <string name="resource_trial_hours_minutes">(Thời gian dùng thử là %1$d giờ%2$d phút)</string>
+    <string name="resource_trial_hours_minutes">" (dùng thử: %1$s %2$s)"</string>
     <string name="resource_trial_minutes">(Thời gian dùng thử là %1$d phút)</string>
     <string name="resource_unknow_error">Lỗi không xác định</string>
     <string name="resource_update">Cập nhật</string>

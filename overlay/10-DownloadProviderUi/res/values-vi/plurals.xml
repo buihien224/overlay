@@ -31,7 +31,7 @@
         <item quantity="other">Xóa %d tác vụ?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Đã xóa %1$d tải xuống</item>
+        <item quantity="other">Đã xóa %1$s tải xuống</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d ngày</item>

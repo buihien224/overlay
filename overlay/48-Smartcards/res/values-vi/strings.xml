@@ -360,7 +360,7 @@ Bạn sẽ được hoàn tiền qua phương thức thanh toán ban đầu."</s
     <string name="auto_recharge_setting_balance_dialog_desc">"Bạn sẽ được nhắc khi số dư của bạn xuống dưới giới hạn đã đặt."</string>
     <string name="auto_recharge_setting_balance_dialog_tips">Nhập giới hạn số dư,%1$d~%2$d</string>
     <string name="auto_recharge_setting_balance_left_text">Số dư</string>
-    <string name="auto_recharge_setting_balance_right_text">Ít hơn %1$.2f CNY</string>
+    <string name="auto_recharge_setting_balance_right_text">Ít hơn %1$d CNY</string>
     <string name="auto_recharge_setting_bank_left_text">Thẻ ngân hàng</string>
     <string name="auto_recharge_setting_bank_right_text_default">Chọn thẻ ngân hàng</string>
     <string name="auto_recharge_setting_bank_update_alert_message">Thẻ ngân hàng mới sẽ được sử dụng cho tất cả các vật phẩm được nạp tiền tự động. Đồng ý?</string>
@@ -1266,7 +1266,7 @@ Liên hệ với ngân hàng của bạn để biết chi tiết: "<a href="tel:
     <string name="nextpay_more_setting_notice">Thông báo</string>
     <string name="nextpay_more_settings_auto_recharge">Tự động nạp tiền</string>
     <string name="nextpay_more_settings_auto_recharge_tips">Thanh toán các chuyến đi bằng điện thoại của bạn</string>
-    <string name="nextpay_more_settings_balance_limit">Dưới %1$.2f CNY</string>
+    <string name="nextpay_more_settings_balance_limit">Dưới %1$d CNY</string>
     <string name="nextpay_more_settings_balance_tips">Cảnh báo số dư</string>
     <string name="nextpay_more_settings_card_info">Thông tin thẻ</string>
     <string name="nextpay_more_settings_copy_no">Sao chép số</string>
@@ -1594,7 +1594,7 @@ Toàn bộ lịch sử liên quan đến key thẻ (bao gồm cả key thẻ đ�
     <string name="swiping_intelligent_fence_popup_edit">Chỉnh sửa</string>
     <string name="swiping_intelligent_selection_fence_number">%1$d vị trí</string>
     <string name="swiping_intelligent_selection_map_pick_point_confirm_pick_point">Xác nhận điểm đặt</string>
-    <string name="swiping_intelligent_selection_map_pick_point_fence_explain">Phạm vi thẻ đề cập đến khu vực của thẻ hiện tại được sử dụng theo mặc định. Sử dụng vòng lặp phạm vi để tạo THẺ tập trung vào vị trí đã chọn của bạn và đặt phạm vi làm bán kính. Phạm vi cài đặt tối đa là %1$d mét và tối thiểu là %2$d mét.</string>
+    <string name="swiping_intelligent_selection_map_pick_point_fence_explain">Phạm vi thẻ là khu vực mà thẻ này được chọn theo mặc định. Một vùng hình tròn sẽ được tạo quanh địa điểm bạn chọn, lấy khoảng cách đã chọn làm bán kính. Bán kính có thể đặt từ %2$s đến %1$s.</string>
     <string name="swiping_intelligent_selection_map_pick_point_fence_scope">Phạm vi thẻ</string>
     <string name="swiping_intelligent_selection_map_pick_point_search_tips">"1、Để cải thiện trải nghiệm thẻ tín dụng, vui lòng đặt vị trí chính xác của thẻ tín dụng của bạn, ví dụ: Cổng Đông của Cộng đồng XX
 2、Khi chọn địa điểm, hãy tránh các ga xe buýt và tàu điện ngầm càng nhiều càng tốt"</string>
